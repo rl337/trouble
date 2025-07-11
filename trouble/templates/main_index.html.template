@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>${project_title}</title>
+    <style>
+        body { font-family: sans-serif; margin: 0; }
+        .tab {
+            overflow: hidden;
+            border: 1px solid #ccc;
+            background-color: #f1f1f1;
+            display: flex; /* Use flexbox for horizontal tabs */
+        }
+        .tab button {
+            background-color: inherit;
+            float: left;
+            border: none;
+            outline: none;
+            cursor: pointer;
+            padding: 14px 16px;
+            transition: 0.3s;
+            font-size: 17px;
+            border-right: 1px solid #ccc; /* Separator for tabs */
+        }
+        .tab button:last-child {
+            border-right: none; /* No separator for the last tab */
+        }
+        .tab button:hover {
+            background-color: #ddd;
+        }
+        .tab button.active {
+            background-color: #ccc;
+        }
+        .tabcontent {
+            display: none;
+            padding: 0px; /* No padding for iframe container */
+            border: 1px solid #ccc;
+            border-top: none;
+            width: 100%; /* Full width for content area */
+            box-sizing: border-box;
+        }
+        .tabcontent iframe {
+            width: 100%;
+            height: calc(100vh - 100px); /* Adjust height dynamically, leave space for tabs and some margin */
+            border: none; /* Remove iframe border if desired, or style it */
+        }
+        #header {
+            padding: 10px 20px;
+            background-color: #333;
+            color: white;
+        }
+    </style>
+</head>
+<body>
+
+<div id="header">
+    <h1>${project_title}</h1>
+</div>
+
+<div class="tab">
+    ${tabs_navigation}
+</div>
+
+${tab_iframes_content}
+
+<script>
+function openEtude(evt, etudeName) {
+    var i, tabcontent, tablinks;
+    tabcontent = document.getElementsByClassName("tabcontent");
+    for (i = 0; i < tabcontent.length; i++) {
+        tabcontent[i].style.display = "none";
+    }
+    tablinks = document.getElementsByClassName("tablinks");
+    for (i = 0; i < tablinks.length; i++) {
+        tablinks[i].className = tablinks[i].className.replace(" active", "");
+    }
+    document.getElementById(etudeName).style.display = "block";
+    if (evt) { // Check if evt is passed (might not be on initial load)
+      evt.currentTarget.className += " active";
+    } else {
+      // For initial load, find the button corresponding to etudeName and set active
+      // This assumes tab buttons have an onclick like openEtude(event, 'etudeNameVal')
+      // A more robust way would be to give tab buttons IDs like 'btn-etudeNameVal'
+      // For now, this is a simple approach.
+      const defaultTabButton = Array.from(tablinks).find(btn => btn.textContent.toLowerCase() === etudeName.toLowerCase());
+      if (defaultTabButton) {
+        defaultTabButton.className += " active";
+      }
+    }
+}
+
+// Automatically open the default or first tab on page load
+document.addEventListener('DOMContentLoaded', function() {
+    var defaultEtudeName = "${default_active_etude_name}";
+    if (defaultEtudeName) {
+        openEtude(null, defaultEtudeName);
+    } else {
+        // If no default is specified, click the first tab if it exists
+        var firstTab = document.querySelector(".tablinks");
+        if (firstTab) {
+            firstTab.click(); // This will call openEtude with an event
+        }
+    }
+});
+</script>
+
+</body>
+</html>
