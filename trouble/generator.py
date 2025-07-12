@@ -1,4 +1,5 @@
 import os
+import shutil
 from string import Template
 from trouble.etude_core import EtudeRegistry
 
@@ -30,12 +31,38 @@ def run_generation(output_dir_base="docs/"):
         # For now, just exiting.
         return
 
-    # 2. Ensure base output directory exists (e.g., docs/)
+    # 2. Ensure base output directory exists and is clean
+    if os.path.exists(output_dir_base):
+        # Be careful with this in a real project, but for a clean build it's useful
+        # shutil.rmtree(output_dir_base)
+        pass # For now, we'll just overwrite
     os.makedirs(output_dir_base, exist_ok=True)
     print(f"Ensured base output directory exists: {output_dir_base}")
 
-    # 3. Generate content for each etude
-    print("\nGenerating content for individual etudes...")
+    # 3. Copy JavaScript assets
+    print("\nCopying JavaScript assets...")
+    project_root = os.path.dirname(os.path.dirname(os.path.abspath(__file__))) # Project root is parent of 'trouble'
+    js_src_dir = os.path.join(project_root, "trouble", "js_src")
+    js_dest_dir = os.path.join(output_dir_base, "assets", "js")
+
+    # Copy core JS files
+    core_js_src = os.path.join(js_src_dir, "core")
+    core_js_dest = os.path.join(js_dest_dir, "core")
+    if os.path.exists(core_js_src):
+        shutil.copytree(core_js_src, core_js_dest, dirs_exist_ok=True)
+        print(f"  Copied core JS files to {core_js_dest}")
+
+    # Copy etude-specific JS files
+    for etude in etudes_list:
+        etude_js_src = os.path.join(project_root, "trouble", "etudes", etude.name, "js_src")
+        if os.path.exists(etude_js_src):
+            etude_js_dest = os.path.join(js_dest_dir, etude.name)
+            shutil.copytree(etude_js_src, etude_js_dest, dirs_exist_ok=True)
+            print(f"  Copied JS files for etude '{etude.name}' to {etude_js_dest}")
+
+
+    # 4. Generate content for each etude
+    print("\nGenerating HTML app shells for individual etudes...")
     for etude in etudes_list:
         etude_output_dir = os.path.join(output_dir_base, etude.name)
         print(f"  Processing etude: {etude.name} -> {etude_output_dir}")
@@ -47,7 +74,7 @@ def run_generation(output_dir_base="docs/"):
             print(f"    Error generating content for etude {etude.name}: {e}")
             # Decide if one etude failing should stop everything. For now, continue.
 
-    # 4. Generate the main index.html with tabs for etudes
+    # 5. Generate the main index.html with tabs for etudes
     print("\nGenerating main index.html with tabs...")
 
     # Prepare data for the main index template
