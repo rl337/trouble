@@ -1,151 +1,81 @@
 # Trouble: Etude-Based Static Site Generator
 
-## Overview
+## Overview & Data Flow
 
-Trouble is a Python-based command-line tool for generating static websites, with a particular focus on organizing content into "Etudes." An Etude represents a distinct sub-project or section of the website. The tool is designed to be executed by GitHub Actions for publishing to GitHub Pages.
+Trouble is a Python tool for generating static websites organized into "Etudes." A key feature is its ability to perform daily data fetching tasks and make this data available to the live site without requiring a new site deployment.
 
-The generated site features a main `index.html` with a tabbed navigation, where each tab corresponds to an Etude and displays its content.
+The architecture follows this data flow:
+1.  **Daily Data Fetch (`daily` command):** A scheduled GitHub Action (`daily-data-release.yml`) runs `python -m trouble daily`.
+2.  **Resource Definition:** Each Etude can define data sources to be fetched daily via its `get_daily_resources()` method, using `Fetcher` classes (`URLFetcher`, `StaticFetcher`).
+3.  **Data Aggregation:** The `daily` command orchestrates the fetching for all etudes, aggregates the results (including status, data, and action logs) into a single JSON object.
+4.  **Publishing to Release:** The daily workflow creates a new GitHub Release tagged with the current date (e.g., `data-YYYY-MM-DD`) and uploads the aggregated JSON as a release asset (`daily_etude_data.json`).
+5.  **Static Site Generation (`generate` command):** A separate workflow (`publish.yml`) runs `python -m trouble generate` on pushes to `main`. This generates the HTML "app shell" for the site, including all necessary JavaScript assets.
+6.  **Client-Side Rendering:** When a user visits the live GitHub Pages site, client-side JavaScript (`data_fetcher.js`) fetches the latest `daily_etude_data.json` from the GitHub Releases. It has fallback logic to try previous days if today's release is missing.
+7.  **UI Updates:** Etude-specific JavaScript (`ui.js`) then uses this fetched data to populate the content of the HTML app shell, providing a dynamic experience on a statically hosted site.
 
 ## Core Concepts
 
-*   **Etude (`trouble.etude_core.Etude`)**: An abstract base class representing a section of the site. Each Etude is responsible for generating its own `index.html` within its dedicated subdirectory in the output (e.g., `docs/etude_name/index.html`) and providing metrics about itself.
-*   **EtudeRegistry (`trouble.etude_core.EtudeRegistry`)**: Discovers, registers, and provides access to all available Etude instances. Etudes are typically discovered from the `trouble.etudes` package.
-*   **Generator (`trouble.generator.run_generation`)**: Orchestrates the site generation process:
-    1.  Initializes the `EtudeRegistry`.
-    2.  Triggers etude discovery.
-    3.  Instructs each registered Etude to generate its content.
-    4.  Generates the main `docs/index.html` which includes navigation tabs for all etudes.
-*   **Templates**: HTML templates (using Python's `string.Template` syntax) are located in `trouble/templates/`. Key templates include:
-    *   `main_index.html.template`: For the overall site structure with tabs.
-    *   `etude_zero_index.html.template`: Specific template for Etude Zero.
-    *   `etude_generic_index.html.template`: A general-purpose template for other etudes.
+*   **Etude (`trouble.etude_core.Etude`)**: Abstract base class for a site section. Implements `get_metrics()` for build-time data and `get_daily_resources()` for defining daily data fetches.
+*   **Fetcher (`trouble.fetchers.Fetcher`)**: Abstract base class for data fetchers. `URLFetcher` and `StaticFetcher` are provided.
+*   **EtudeRegistry (`trouble.etude_core.EtudeRegistry`)**: Discovers and registers all Etude instances from the `trouble.etudes` package.
+*   **DailyEtudeResult (`trouble.fetchers.DailyEtudeResult`)**: A structured `NamedTuple` (`status`, `data`, `actions_log`) that holds the result of an etude's daily tasks.
 
 ## Commands
 
 ### `generate`
+Generates the static HTML and JavaScript "app shell" for the site.
+**Usage:** `python -m trouble generate`
 
-This command runs the static site generation process.
-
-**Usage:**
-
-```bash
-python -m trouble generate
-```
-
-This will:
-1.  Discover all Etudes within the `trouble.etudes` package.
-2.  Generate content for each Etude into a corresponding subdirectory within `docs/` (e.g., `docs/zero/index.html`, `docs/one/index.html`).
-3.  Generate a main `docs/index.html` file with tabs that load the content from each Etude's subdirectory (typically via iframes).
-
-The output is placed in the `docs/` directory by default.
+### `daily`
+Runs the daily data fetching tasks for all etudes and prints the aggregated results as a JSON string to standard output.
+**Usage:** `python -m trouble daily`
 
 ## Creating a New Etude
 
 To add a new Etude to the project:
 
-1.  **Create a Sub-Package**:
-    *   Inside the `trouble/etudes/` directory, create a new directory for your etude (e.g., `trouble/etudes/my_new_etude/`). This directory name will typically be used as the `name` of your etude.
-2.  **Add `__init__.py`**:
-    *   Create an `__init__.py` file inside your new etude's directory (`trouble/etudes/my_new_etude/__init__.py`).
-    *   In this `__init__.py`, import your main Etude class (see next step) to make it easily discoverable. Example:
-        ```python
-        # trouble/etudes/my_new_etude/__init__.py
-        from .etude_impl import MyNewEtude
-        print(f"trouble.etudes.my_new_etude package loaded, {MyNewEtude.NAME} available.")
-        ```
-3.  **Implement the Etude Class (`etude_impl.py`)**:
-    *   Create a Python file in your etude's directory, conventionally named `etude_impl.py` (e.g., `trouble/etudes/my_new_etude/etude_impl.py`).
-    *   Define a class that inherits from `trouble.etude_core.Etude`.
-    *   Set `NAME` and `DESCRIPTION` as class attributes. The `NAME` should match your subdirectory name for consistency.
-    *   Implement the `__init__` method, calling `super().__init__(name=self.NAME, description=self.DESCRIPTION)`.
-    *   Implement the abstract methods:
-        *   `get_metrics(self, registry: EtudeRegistry) -> dict[str, any]`: Return a dictionary of metrics for this etude.
-        *   `generate_content(self, output_dir: str, registry: EtudeRegistry) -> None`: Generate the `index.html` for this etude in the `output_dir`. Use a template from `trouble/templates/` (e.g., `etude_generic_index.html.template` or a custom one).
-    *   Example structure:
-        ```python
-        # trouble/etudes/my_new_etude/etude_impl.py
-        import os
-        from string import Template
-        from trouble.etude_core import Etude, EtudeRegistry
+1.  **Create Etude Sub-Package**: Create a directory `trouble/etudes/my_new_etude/`.
+2.  **Add `__init__.py`**: Create `trouble/etudes/my_new_etude/__init__.py` and import your Etude class into it to ensure discovery.
+3.  **Implement `etude_impl.py`**:
+    *   Define a class inheriting from `trouble.etude_core.Etude`.
+    *   Set `NAME` and `DESCRIPTION` class attributes.
+    *   Implement `get_metrics()`.
+    *   To fetch daily data, override `get_daily_resources()` and return a list of `(name, Fetcher)` tuples.
+    *   `generate_content()` should create the HTML app shell. Use a template from `trouble/templates/`.
+4.  **Implement Client-Side UI (`js_src/ui.js`)**:
+    *   Create `trouble/etudes/my_new_etude/js_src/ui.js`.
+    *   This script will be copied to `docs/assets/js/my_new_etude/` by the `generate` command.
+    *   It should import `getLatestEtudeData` and UI helpers from `../../assets/js/core/`.
+    *   It's responsible for fetching the data and rendering it into your etude's HTML app shell.
+5.  **Create/Update HTML Template**:
+    *   Ensure your HTML template in `trouble/templates/` has elements with `id`s for your JavaScript to target, and includes the necessary `<script>` tags.
 
-        class MyNewEtude(Etude):
-            NAME = "my_new_etude" # Should match directory name
-            DESCRIPTION = "A brief description of what this new etude does."
+## Development & Testing
 
-            def __init__(self):
-                super().__init__(name=MyNewEtude.NAME, description=MyNewEtude.DESCRIPTION)
-
-            def get_metrics(self, registry: EtudeRegistry) -> dict[str, any]:
-                return {"ExampleMetric": 123, "Status": "Under Development"}
-
-            def generate_content(self, output_dir: str, registry: EtudeRegistry) -> None:
-                os.makedirs(output_dir, exist_ok=True)
-                # ... (load template, prepare data, write output_dir/index.html) ...
-                # Example using a generic template:
-                template_data = {
-                    "etude_name": self.name,
-                    "etude_description": self.description,
-                    # Add any other fields your generic template expects
-                    "metrics_status": self.get_metrics(registry).get("Status", "N/A"),
-                    "metrics_items": "N/A", # Placeholder
-                    "metrics_version": "N/A" # Placeholder
-                }
-                # Simplified template loading and rendering logic:
-                base_dir = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
-                template_path = os.path.join(base_dir, "templates", "etude_generic_index.html.template")
-                try:
-                    with open(template_path, "r") as f_template:
-                        template_str = f_template.read()
-                    tmpl = Template(template_str)
-                    output_content = tmpl.substitute(template_data)
-                    with open(os.path.join(output_dir, "index.html"), "w") as f_out:
-                        f_out.write(output_content)
-                    print(f"Generated content for {self.name}")
-                except Exception as e:
-                    print(f"Error generating content for {self.name}: {e}")
-        ```
-4.  **Create Templates (Optional but Recommended)**:
-    *   If your etude needs a unique layout, create a new HTML template in `trouble/templates/`.
-    *   Otherwise, you can reuse `etude_generic_index.html.template` or `etude_zero_index.html.template` as a base.
-5.  **Run the Generator**:
-    *   Execute `python -m trouble generate`. Your new etude should be automatically discovered and included in the site.
-
-## Development
-
-### Setting up Environment (Recommended)
-
-It's recommended to use a virtual environment for development:
-
+### Python
+It's recommended to use a virtual environment.
 ```bash
 python -m venv .venv
-source .venv/bin/activate  # On Windows: .venv\Scripts\activate
-pip install -r requirements.txt # If you add any dependencies
+source .venv/bin/activate
+pip install -r requirements.txt
 ```
-
-### Running Tests Locally
-
-The project uses Python's built-in `unittest` framework. Tests are located in the `tests/` directory.
-
-To run all tests:
-
+To run Python unit tests:
 ```bash
 python -m unittest discover -s tests -p "test_*.py"
 ```
 
-You can also run a specific test file:
+### JavaScript & Manual Browser Testing
+The client-side logic requires manual testing in a browser.
 
-```bash
-python -m unittest tests.test_etude_core
-```
-
-Or a specific test class or method:
-
-```bash
-python -m unittest tests.test_etude_core.TestEtudeCore
-python -m unittest tests.test_etude_core.TestEtudeCore.test_etude_creation
-```
+1.  **Generate the Site**: Run `python -m trouble generate`.
+2.  **Serve Locally**: Run `python -m http.server 8000 --directory docs` from the project root.
+3.  **Mock Data**: To test the client-side fetching without hitting the GitHub API, you need to intercept the `fetch` request made by `data_fetcher.js`.
+    *   Create a local `mock_daily_data.json` file with the expected data structure.
+    *   Use browser developer tools (e.g., Chrome's Sources > Overrides) or an extension (e.g., Requestly) to intercept the call to `https://api.github.com/repos/...` and respond with the content of your mock file.
+4.  **Verify**: Open `http://localhost:8000` in your browser. Check the developer console for logs and verify that the UI updates correctly based on your mock data. Check the status footer for loading/success/error messages.
 
 ## GitHub Actions
 
-*   **`publish.yml`**: This workflow runs `python -m trouble generate` on pushes to the `main` branch to build the site and deploy the `docs/` directory to GitHub Pages.
-*   **`run-tests.yml`**: This workflow runs all unit tests (using `python -m unittest discover`) on every push to any branch and on pull requests targeting `main`. It tests against multiple Python versions (3.9, 3.10, 3.11). Branch protection rules can be set on the `main` branch to require these tests to pass before merging.
+*   **`daily-data-release.yml`**: Runs daily on a schedule. Executes `python -m trouble daily`, captures the output JSON, and creates a new GitHub Release tagged with the date, attaching the JSON as a release asset.
+*   **`publish.yml`**: Runs on pushes to `main`. Executes `python -m trouble generate` to build the static site and deploys the `docs/` directory to GitHub Pages.
+*   **`run-tests.yml`**: Runs Python unit tests on every push and pull request to `main`.
