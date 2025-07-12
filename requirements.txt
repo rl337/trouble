@@ -1,3 +1,2 @@
-# No dependencies yet.
-# If we use a templating engine like Jinja2, it will be added here.
-# e.g., Jinja2==3.1.2
+requests>=2.25.0 # For URLFetcher
+# Add other dependencies below as needed

@@ -5,8 +5,16 @@ import os
 import pkgutil
 from typing import Type, Union, TypeVar
 
+from typing import Type, Union, TypeVar, List, Tuple # Added List, Tuple
+# It's better to import Fetcher directly if possible, to avoid string literals for type hints
+# from trouble.fetchers import Fetcher # This will be problematic due to circular dependency if Fetcher also imports Etude
+# So, we'll use a string literal for Fetcher type hint if Fetcher itself doesn't need to import Etude.
+# If Fetcher *does* need Etude, one of them needs to use a string literal type hint for the other.
+# Given Fetcher is more fundamental here, Etude will use string literal for 'Fetcher'.
+
 # Forward declaration for type hinting EtudeRegistry within Etude
 E = TypeVar('E', bound='Etude')
+
 
 class Etude(abc.ABC):
     """
@@ -50,6 +58,15 @@ class Etude(abc.ABC):
             registry: The EtudeRegistry instance, for accessing other etudes if needed.
         """
         pass
+
+    def get_daily_resources(self) -> List[Tuple[str, 'Fetcher']]:
+        """
+        Returns a list of resources to be fetched daily for this etude.
+        Each item in the list is a tuple: (resource_name: str, fetcher_instance: Fetcher).
+        The default implementation returns an empty list.
+        Etudes should override this to define their daily data sources.
+        """
+        return []
 
     def __repr__(self) -> str:
         return f"<Etude(name='{self.name}')>"
