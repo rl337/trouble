@@ -26,20 +26,22 @@ jobs:
         with:
           python-version: '3.10' # Or your preferred Python version
 
+      - name: Install Poetry
+        uses: snok/install-poetry@v1
+        with:
+          virtualenvs-create: true
+          virtualenvs-in-project: true
+
       - name: Install dependencies
-        run: |
-          python -m pip install --upgrade pip
-          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
-          else echo "requirements.txt not found, skipping pip install -r."
-          fi
+        run: poetry install --no-interaction --no-root
 
       - name: Run daily data fetching tasks
         id: daily_run
         run: |
-          echo "Running trouble daily script..."
+          echo "Running trouble daily script with poetry..."
           # Execute the script and capture its JSON output.
           # The script prints JSON between specific markers.
-          OUTPUT_JSON=$(python -m trouble daily)
+          OUTPUT_JSON=$(poetry run trouble daily)
 
           # Extract JSON content between markers
           # This assumes your script prints "--- Daily Tasks Output JSON Start ---"

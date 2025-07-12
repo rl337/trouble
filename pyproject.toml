@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "trouble-generator"
+version = "0.1.0"
+description = "Etude-based static site generator"
+authors = ["N/A"]
+readme = "README.md"
+packages = [{include = "trouble"}]
+
+[tool.poetry.dependencies]
+python = ">=3.9"
+# Dependencies will be added here by `poetry add`
+requests = "^2.32.4"
+
+[tool.poetry.scripts]
+trouble = "trouble.__main__:main"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
