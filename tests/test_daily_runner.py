@@ -21,6 +21,10 @@ class MockFetcher(Fetcher):
         else:
             return False, None, self.error_msg
 
+    def get_schema(self) -> dict:
+        # Return a generic schema for the mock, as it's not the focus of these tests.
+        return {"type": "object"}
+
 class MockEtude(Etude):
     """A mock etude that can be configured with daily resources."""
     def __init__(self, name: str, description: str, daily_resources: List[Tuple[str, Fetcher]]):
