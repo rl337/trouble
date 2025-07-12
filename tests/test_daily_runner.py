@@ -1,6 +1,6 @@
 import unittest
 from unittest.mock import MagicMock, patch
-from typing import List, Tuple
+from typing import List, Tuple, Any, Optional
 
 from trouble.etude_core import Etude, EtudeRegistry
 from trouble.fetchers import Fetcher, DailyEtudeResult, EtudeDailyStatus
@@ -10,12 +10,12 @@ from trouble.daily_runner import execute_daily_etude_tasks
 
 class MockFetcher(Fetcher):
     """A mock fetcher that can be configured to succeed or fail."""
-    def __init__(self, should_succeed: bool, return_data: any, error_msg: str = "Mock fetch error"):
+    def __init__(self, should_succeed: bool, return_data: Any, error_msg: str = "Mock fetch error"):
         self.should_succeed = should_succeed
         self.return_data = return_data
         self.error_msg = error_msg
 
-    def fetch(self) -> Tuple[bool, any, str | None]:
+    def fetch(self) -> Tuple[bool, Any, Optional[str]]:
         if self.should_succeed:
             return True, self.return_data, None
         else:
