@@ -26,13 +26,24 @@ class Fetcher(abc.ABC):
         """
         pass
 
+    @abc.abstractmethod
+    def get_schema(self) -> Dict[str, Any]:
+        """
+        Returns the JSON schema for the data this fetcher is expected to return.
+        """
+        pass
+
 class URLFetcher(Fetcher):
     """Fetches data from a URL using requests."""
-    def __init__(self, url: str, timeout: int = 10):
+    def __init__(self, url: str, schema: Dict[str, Any], timeout: int = 10):
         if not url.startswith(('http://', 'https://')):
             raise ValueError("Invalid URL provided. Must start with http:// or https://")
         self.url = url
+        self.schema = schema
         self.timeout = timeout
+
+    def get_schema(self) -> Dict[str, Any]:
+        return self.schema
 
     def fetch(self) -> Tuple[bool, Any, Optional[str]]:
         try:
@@ -55,8 +66,38 @@ class URLFetcher(Fetcher):
 
 class StaticFetcher(Fetcher):
     """Returns predefined static data."""
-    def __init__(self, static_data: Any):
+    def __init__(self, static_data: Any, schema: Optional[Dict[str, Any]] = None):
         self.static_data = static_data
+        # If no schema is provided, we can try to infer a very basic one.
+        if schema:
+            self.schema = schema
+        else:
+            self.schema = self._infer_schema(static_data)
+
+    def get_schema(self) -> Dict[str, Any]:
+        return self.schema
+
+    def _infer_schema(self, data: Any) -> Dict[str, Any]:
+        """A very basic schema inference for static data."""
+        data_type = type(data)
+        if data_type is dict:
+            return {"type": "object", "properties": {k: self._infer_schema(v) for k, v in data.items()}}
+        elif data_type is list:
+            if data:
+                # Assume all items in the list are of the same type as the first
+                return {"type": "array", "items": self._infer_schema(data[0])}
+            else:
+                return {"type": "array"} # Cannot infer item type from empty list
+        elif data_type is str:
+            return {"type": "string"}
+        elif data_type is int:
+            return {"type": "integer"}
+        elif data_type is float:
+            return {"type": "number"}
+        elif data_type is bool:
+            return {"type": "boolean"}
+        else:
+            return {} # Fallback for unknown types
 
     def fetch(self) -> Tuple[bool, Any, Optional[str]]:
         # Static data is always considered a "successful" fetch

@@ -14,6 +14,16 @@ def main():
     # Add arguments specific to daily if needed in the future
     # parser_daily.add_argument("--force-rerun", action="store_true", help="Force rerun of tasks.")
 
+    # Mock data generator sub-command
+    parser_mock_data = subparsers.add_parser("generate-mock-data", help="Generate mock data for testing.")
+    parser_mock_data.add_argument(
+        "--scenario",
+        type=str,
+        required=True,
+        choices=["success", "partial_failure", "no_data"],
+        help="The mock data scenario to generate."
+    )
+
     args = parser.parse_args()
 
     if args.command == "generate":
@@ -39,6 +49,22 @@ def main():
         print(json.dumps(results, indent=2))
         print("--- Daily Tasks Output JSON End ---")
         print("Daily tasks finished.")
+
+    elif args.command == "generate-mock-data":
+        import json
+        from .etude_core import EtudeRegistry
+        from .mock_data_generator import generate_mock_data
+
+        print(f"Generating mock data for scenario: {args.scenario}")
+        registry = EtudeRegistry()
+        registry.discover_etudes(package_name="trouble.etudes")
+
+        mock_data = generate_mock_data(args.scenario, registry)
+
+        # Output the mock data as a JSON string to stdout
+        # This can be captured by test scripts
+        print(json.dumps(mock_data, indent=2))
+        print("Mock data generation finished.")
 
     elif args.command is None:
         parser.print_help()
