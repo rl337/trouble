@@ -1,6 +1,9 @@
 import os
 from string import Template
+from typing import List, Tuple # For type hinting
 from trouble.etude_core import Etude, EtudeRegistry
+# Import Fetcher types for get_daily_resources
+from trouble.fetchers import Fetcher, URLFetcher, StaticFetcher
 
 class EtudeOne(Etude):
     NAME = "one"
@@ -17,7 +20,25 @@ class EtudeOne(Etude):
             "Version": "0.1-alpha"
         }
 
+    def get_daily_resources(self) -> List[Tuple[str, Fetcher]]:
+        """
+        Defines the daily data resources to be fetched for EtudeOne.
+        """
+        resources = [
+            ("random_quote", URLFetcher("https://api.quotable.io/random")),
+            ("sample_todo", URLFetcher("https://jsonplaceholder.typicode.com/todos/1")),
+            ("static_info", StaticFetcher({"version": "1.0", "status": "active for etude one", "message": "This is static data defined in EtudeOne."}))
+        ]
+        return resources
+
     def generate_content(self, output_dir: str, registry: EtudeRegistry) -> None:
+        # This method will be updated in Phase 2 to generate an app shell
+        # and expect client-side JS to render the data fetched by get_daily_resources.
+        # For now, it might render based on its static metrics or placeholders.
+        # Or, if we want to test the data flow earlier, it could try to read
+        # a local file that daily_runner.py might write (though that's not the final plan).
+        # For this step, let's keep generate_content as is, focusing on get_daily_resources.
+        # The actual use of fetched data in generate_content is part of a later phase.
         os.makedirs(output_dir, exist_ok=True)
 
         metrics_self = self.get_metrics(registry)
