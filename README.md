@@ -24,11 +24,11 @@ The architecture follows this data flow:
 
 ### `generate`
 Generates the static HTML and JavaScript "app shell" for the site.
-**Usage:** `python -m trouble generate`
+**Usage:** `poetry run trouble generate`
 
 ### `daily`
 Runs the daily data fetching tasks for all etudes and prints the aggregated results as a JSON string to standard output.
-**Usage:** `python -m trouble daily`
+**Usage:** `poetry run trouble daily`
 
 ## Creating a New Etude
 
@@ -52,22 +52,25 @@ To add a new Etude to the project:
 
 ## Development & Testing
 
-### Python
-It's recommended to use a virtual environment.
+### Python with Poetry
+
+1.  **Install Poetry**: Follow the [official installation instructions](https://python-poetry.org/docs/#installation).
+2.  **Install Dependencies**: From the project root, run:
+    ```bash
+    poetry install
+    ```
+    This will create a virtual environment inside the project directory (`.venv`) and install all dependencies listed in `pyproject.toml`.
+
+### Running Tests Locally
+To run all Python unit tests:
 ```bash
-python -m venv .venv
-source .venv/bin/activate
-pip install -r requirements.txt
-```
-To run Python unit tests:
-```bash
-python -m unittest discover -s tests -p "test_*.py"
+poetry run python -m unittest discover -s tests -p "test_*.py"
 ```
 
 ### JavaScript & Manual Browser Testing
 The client-side logic requires manual testing in a browser.
 
-1.  **Generate the Site**: Run `python -m trouble generate`.
+1.  **Generate the Site**: Run `poetry run trouble generate`.
 2.  **Serve Locally**: Run `python -m http.server 8000 --directory docs` from the project root.
 3.  **Mock Data**: To test the client-side fetching without hitting the GitHub API, you need to intercept the `fetch` request made by `data_fetcher.js`.
     *   Create a local `mock_daily_data.json` file with the expected data structure.
