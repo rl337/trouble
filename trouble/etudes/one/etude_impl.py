@@ -23,11 +23,33 @@ class EtudeOne(Etude):
     def get_daily_resources(self) -> List[Tuple[str, Fetcher]]:
         """
         Defines the daily data resources to be fetched for EtudeOne.
+        Each resource includes a schema definition.
         """
+        # Define schemas for the data we expect from the URLs
+        quote_schema = {
+            "type": "object",
+            "properties": {
+                "content": {"type": "string"},
+                "author": {"type": "string"},
+            },
+            "required": ["content", "author"]
+        }
+
+        todo_schema = {
+            "type": "object",
+            "properties": {
+                "userId": {"type": "integer"},
+                "id": {"type": "integer"},
+                "title": {"type": "string"},
+                "completed": {"type": "boolean"}
+            },
+            "required": ["id", "title", "completed"]
+        }
+
         resources = [
-            ("random_quote", URLFetcher("https://api.quotable.io/random")),
-            ("sample_todo", URLFetcher("https://jsonplaceholder.typicode.com/todos/1")),
-            ("static_info", StaticFetcher({"version": "1.0", "status": "active for etude one", "message": "This is static data defined in EtudeOne."}))
+            ("random_quote", URLFetcher("https://api.quotable.io/random", schema=quote_schema)),
+            ("sample_todo", URLFetcher("https://jsonplaceholder.typicode.com/todos/1", schema=todo_schema)),
+            ("static_info", StaticFetcher({"version": "1.0", "status": "active for etude one", "message": "This is static data defined in EtudeOne."})) # Schema will be inferred
         ]
         return resources
 

@@ -38,7 +38,7 @@ class TestFetchers(unittest.TestCase):
         mock_response_data = {"id": 1, "title": "Test Todo"}
         mock_get.return_value = MockResponse(json_data=mock_response_data, status_code=200)
 
-        fetcher = URLFetcher("https://example.com/api/data")
+        fetcher = URLFetcher("https://example.com/api/data", schema={"type": "object"})
         success, fetched_data, error_msg = fetcher.fetch()
 
         self.assertTrue(success)
@@ -53,7 +53,7 @@ class TestFetchers(unittest.TestCase):
         # Mock a response that would fail .json()
         mock_get.return_value = MockResponse(json_data=None, status_code=200, text_data=mock_response_text)
 
-        fetcher = URLFetcher("https://example.com/page.html")
+        fetcher = URLFetcher("https://example.com/page.html", schema={"type": "string"})
         success, fetched_data, error_msg = fetcher.fetch()
 
         self.assertTrue(success)
@@ -74,7 +74,7 @@ class TestFetchers(unittest.TestCase):
         )
         mock_get.return_value = mock_response
 
-        fetcher = URLFetcher("https://example.com/notfound")
+        fetcher = URLFetcher("https://example.com/notfound", schema={})
         success, fetched_data, error_msg = fetcher.fetch()
 
         self.assertFalse(success)
@@ -87,7 +87,7 @@ class TestFetchers(unittest.TestCase):
         import requests
         mock_get.side_effect = requests.exceptions.Timeout("Connection timed out")
 
-        fetcher = URLFetcher("https://example.com/slow")
+        fetcher = URLFetcher("https://example.com/slow", schema={})
         success, fetched_data, error_msg = fetcher.fetch()
 
         self.assertFalse(success)
@@ -97,7 +97,7 @@ class TestFetchers(unittest.TestCase):
     def test_url_fetcher_invalid_url(self):
         """Test that URLFetcher raises ValueError for invalid URL protocols."""
         with self.assertRaises(ValueError):
-            URLFetcher("ftp://example.com") # Should raise error on init
+            URLFetcher("ftp://example.com", schema={}) # Should raise error on init
 
 if __name__ == '__main__':
     unittest.main()
