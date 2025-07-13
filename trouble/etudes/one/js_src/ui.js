@@ -4,10 +4,9 @@
  */
 
 // Note: The paths are relative to the final location in the 'docs' directory.
-// The main HTML (e.g., docs/one/index.html) will load this script.
-// The core scripts are in docs/assets/js/core/
-import { getLatestEtudeData } from '../../assets/js/core/data_fetcher.js';
-import { setText, setHtml, updateStatusFooter } from '../../assets/js/core/ui_updater.js';
+// We use absolute paths from the site root to ensure they resolve correctly.
+import { getLatestEtudeData } from '/assets/js/core/data_fetcher.js';
+import { setText, setHtml, updateStatusFooter } from '/assets/js/core/ui_updater.js';
 
 // --- CONFIGURATION ---
 // These should be replaced by your actual GitHub repo details.

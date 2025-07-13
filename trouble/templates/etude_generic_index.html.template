@@ -51,11 +51,9 @@
     <!-- The status footer, to be updated by ui_updater.js -->
     <div id="etude_status_footer" class="status-footer">Initializing...</div>
 
-    <!-- Load JavaScript modules -->
-    <!-- The paths need to be relative from the final location in docs/, e.g., docs/one/index.html -->
-    <script type="module" src="../assets/js/core/data_fetcher.js"></script>
-    <script type="module" src="../assets/js/core/ui_updater.js"></script>
-    <!-- This needs to be dynamically adjusted by the Python generator to point to the correct etude's ui.js -->
-    <script type="module" src="../assets/js/${etude_name}/ui.js"></script>
+    <!-- Load JavaScript modules using absolute paths from the site root -->
+    <script type="module" src="/assets/js/core/data_fetcher.js"></script>
+    <script type="module" src="/assets/js/core/ui_updater.js"></script>
+    <script type="module" src="/assets/js/${etude_name}/ui.js"></script>
 </body>
 </html>

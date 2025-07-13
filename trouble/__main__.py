@@ -23,6 +23,12 @@ def main():
         choices=["success", "partial_failure", "no_data"],
         help="The mock data scenario to generate."
     )
+    parser_mock_data.add_argument(
+        "--output",
+        type=str,
+        default=None,
+        help="Optional path to write the output JSON file. If not provided, prints to stdout."
+    )
 
     args = parser.parse_args()
 
@@ -61,9 +67,19 @@ def main():
 
         mock_data = generate_mock_data(args.scenario, registry)
 
-        # Output the mock data as a JSON string to stdout
-        # This can be captured by test scripts
-        print(json.dumps(mock_data, indent=2))
+        # Output the mock data to a file or stdout
+        if args.output:
+            try:
+                with open(args.output, "w") as f:
+                    json.dump(mock_data, f, indent=2)
+                print(f"Mock data written to {args.output}")
+            except IOError as e:
+                print(f"Error writing mock data to file: {e}")
+                exit(1)
+        else:
+            # Print to stdout if no output file is specified
+            print(json.dumps(mock_data, indent=2))
+
         print("Mock data generation finished.")
 
     elif args.command is None:

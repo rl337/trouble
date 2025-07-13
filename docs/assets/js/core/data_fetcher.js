@@ -43,40 +43,19 @@ export async function getLatestEtudeData(repoOwner, repoName, baseTagPrefix = "d
         date.setUTCDate(date.getUTCDate() - i);
         const dateString = getFormattedDate(date);
         const tagName = `${baseTagPrefix}${dateString}`;
+        const assetUrl = `https://github.com/${repoOwner}/${repoName}/releases/download/${tagName}/${ASSET_NAME}`;
 
-        const releaseUrl = `${GITHUB_API_BASE}/repos/${repoOwner}/${repoName}/releases/tags/${tagName}`;
-
-        console.log(`Attempting to fetch release metadata for tag: ${tagName} from ${releaseUrl}`);
+        console.log(`Attempting to fetch data asset for tag: ${tagName} from ${assetUrl}`);
 
         try {
-            const releaseResponse = await fetch(releaseUrl);
-
-            if (!releaseResponse.ok) {
-                if (releaseResponse.status === 404) {
-                    console.log(`Release with tag ${tagName} not found. Trying previous day.`);
-                    continue; // Go to the next iteration (previous day)
-                }
-                throw new Error(`GitHub API returned status ${releaseResponse.status} for release metadata.`);
-            }
-
-            const releaseData = await releaseResponse.json();
-            const asset = releaseData.assets?.find(a => a.name === ASSET_NAME);
-
-            if (!asset) {
-                console.log(`Release ${tagName} found, but asset '${ASSET_NAME}' is missing. Trying previous day.`);
-                continue; // Asset not found, try previous day
-            }
-
-            console.log(`Found asset '${ASSET_NAME}' for tag ${tagName}. Fetching data from: ${asset.browser_download_url}`);
-
-            // The browser_download_url is a direct link, but may be subject to CORS issues if the API
-            // that serves it doesn't have the right headers. GitHub release assets are generally fine.
-            // Using a fetch request with no-cors might be needed if issues arise, but can limit what you do with the response.
-            // For public repos, this should generally work.
-            const dataResponse = await fetch(asset.browser_download_url);
+            const dataResponse = await fetch(assetUrl);
 
             if (!dataResponse.ok) {
-                throw new Error(`Failed to download asset '${ASSET_NAME}' with status ${dataResponse.status}`);
+                if (dataResponse.status === 404) {
+                    console.log(`Asset for tag ${tagName} not found. Trying previous day.`);
+                    continue; // Go to the next iteration
+                }
+                throw new Error(`Failed to download asset for tag ${tagName} with status ${dataResponse.status}`);
             }
 
             const etudeData = await dataResponse.json();
