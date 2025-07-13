@@ -11,7 +11,7 @@ The architecture follows this data flow:
 4.  **Publishing to Release:** The daily workflow creates a new GitHub Release tagged with the current date (e.g., `data-YYYY-MM-DD`) and uploads the aggregated JSON as a release asset (`daily_etude_data.json`).
 5.  **Static Site Generation (`generate` command):** A separate workflow (`publish.yml`) runs `python -m trouble generate` on pushes to `main`. This generates the HTML "app shell" for the site, including all necessary JavaScript assets.
 6.  **Client-Side Rendering:** When a user visits the live GitHub Pages site, client-side JavaScript (`data_fetcher.js`) fetches the latest `daily_etude_data.json` from the GitHub Releases. It has fallback logic to try previous days if today's release is missing.
-7.  **UI Updates:** Etude-specific JavaScript (`ui.js`) then uses this fetched data to populate the content of the HTML app shell, providing a dynamic experience on a statically hosted site.
+7.  **UI Updates:** Etude-specific JavaScript (`ui.js`) fetches a client-side template (`.mustache`), fetches the daily data, and then uses Mustache.js to render the final HTML into the app shell.
 
 ## Core Concepts
 
@@ -48,11 +48,12 @@ To add a new Etude to the project:
     *   `generate_content()` should create the HTML app shell. Use a template from `trouble/templates/`.
 4.  **Implement Client-Side UI (`js_src/ui.js`)**:
     *   Create `trouble/etudes/my_new_etude/js_src/ui.js`.
-    *   This script will be copied to `docs/assets/js/my_new_etude/` by the `generate` command.
-    *   It should import `getLatestEtudeData` and UI helpers from `../../assets/js/core/`.
-    *   It's responsible for fetching the data and rendering it into your etude's HTML app shell.
-5.  **Create/Update HTML Template**:
-    *   Ensure your HTML template in `trouble/templates/` has elements with `id`s for your JavaScript to target, and includes the necessary `<script>` tags.
+    *   This script is responsible for fetching the client-side template and the daily data, then using Mustache.js to render the final HTML.
+5.  **Create Client-Side Template (`js_src/templates/`)**:
+    *   Create `trouble/etudes/my_new_etude/js_src/templates/my_template.mustache`.
+    *   Define the HTML structure for your dynamic content here using Mustache syntax.
+6.  **Create/Update HTML App Shell Template**:
+    *   Ensure your main HTML template in `trouble/templates/` has elements with `id`s for your JavaScript to target, and includes the necessary `<script>` tags to load `mustache.min.js` and your `ui.js`.
 
 ## Development & Testing
 
