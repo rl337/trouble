@@ -1,4 +1,4 @@
-<table>
+<table class="{{widget_classes.status_table}}">
     <thead>
         <tr>
             <th>Etude Name</th>
@@ -10,7 +10,7 @@
         {{#etudes}}
         <tr>
             <td><strong>{{name}}</strong></td>
-            <td><span class="status-{{status_class}}">{{status}}</span></td>
+            <td><span class="{{#is_ok}}widget_classes.status_ok{{/is_ok}} {{#is_fail}}widget_classes.status_fail{{/is_fail}} {{#is_warn}}widget_classes.status_warn{{/is_warn}}">{{status}}</span></td>
             <td>
                 <ul>
                     {{#actions_log}}

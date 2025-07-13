@@ -6,6 +6,10 @@
 
 import { getLatestEtudeData } from '/assets/js/core/data_fetcher.js';
 import { setHtml, updateStatusFooter } from '/assets/js/core/ui_updater.js';
+import { SkinContextFactory, SkinManager } from '/assets/js/core/skin_manager.js';
+import { shadeDay, shadeNight } from '/assets/skins/shade.js';
+import { sunMorning, sunAfternoon, sunEvening, sunNight } from '/assets/skins/sun.js';
+import { defaultSkin } from '/assets/skins/default.js';
 
 // --- CONFIGURATION ---
 const REPO_OWNER = 'greple-test';
@@ -29,8 +33,9 @@ async function getTemplate() {
  * Renders the daily status of all etudes into a table using a Mustache template.
  * @param {string} template The Mustache template string.
  * @param {object} allEtudesData The full data object from the fetched JSON.
+ * @param {object} skin The selected skin object.
  */
-function renderAllEtudesStatus(template, allEtudesData) {
+function renderAllEtudesStatus(template, allEtudesData, skin) {
     if (!allEtudesData || Object.keys(allEtudesData).length === 0) {
         setHtml('daily-status-container', '<p class="placeholder">No daily status data found.</p>');
         return;
@@ -38,16 +43,22 @@ function renderAllEtudesStatus(template, allEtudesData) {
 
     // Prepare data for Mustache: transform the object into an array of objects
     const view_data = {
-        etudes: Object.keys(allEtudesData).map(key => ({
-            name: key,
-            status: allEtudesData[key].status || 'UNKNOWN',
-            status_class: (allEtudesData[key].status || 'unknown').toLowerCase(),
-            actions_log: allEtudesData[key].actions_log
-        })).sort((a, b) => { // Sort the array for consistent rendering
+        etudes: Object.keys(allEtudesData).map(key => {
+            const status = allEtudesData[key].status || 'UNKNOWN';
+            return {
+                name: key,
+                status: status,
+                is_ok: status === 'OK' || status === 'PARTIAL_SUCCESS',
+                is_fail: status === 'FAILED',
+                is_warn: status === 'NO_OP',
+                actions_log: allEtudesData[key].actions_log
+            };
+        }).sort((a, b) => { // Sort the array for consistent rendering
             if (a.name === 'zero') return -1;
             if (b.name === 'zero') return 1;
             return a.name.localeCompare(b.name);
-        })
+        }),
+        widget_classes: skin.getClasses(), // Add skin classes to the view data
     };
 
     const renderedHtml = window.Mustache.render(template, view_data);
@@ -74,17 +85,31 @@ function escapeHtml(unsafe) {
  * Main function to orchestrate data fetching and rendering for Etude Zero.
  */
 async function main() {
+    updateStatusFooter('Initializing...', 'loading');
+
+    // 1. Set up Skin Manager
+    const skinManager = new SkinManager();
+    [shadeDay, shadeNight, sunMorning, sunAfternoon, sunEvening, sunNight, defaultSkin].forEach(s => skinManager.registerSkin(s));
+
+    // 2. Determine Context and Apply Skin
+    const contextFactory = new SkinContextFactory();
+    const context = contextFactory.buildContext(['etude:zero']);
+    const bestSkin = skinManager.findBestSkin(context);
+    skinManager.applySkinCss(bestSkin);
+
     updateStatusFooter('Fetching latest daily data and template...', 'loading');
 
     try {
+        // 3. Fetch template and data in parallel
         const [template, result] = await Promise.all([
             getTemplate(),
             getLatestEtudeData(REPO_OWNER, REPO_NAME)
         ]);
 
+        // 4. Render content
         if (result.status === 'success') {
-            updateStatusFooter(`Successfully loaded data from release: ${result.version_tag}`, 'success');
-            renderAllEtudesStatus(template, result.data);
+            updateStatusFooter(`Skin: ${bestSkin.name} | Data: ${result.version_tag}`, 'success');
+            renderAllEtudesStatus(template, result.data, bestSkin);
         } else if (result.status === 'not_found') {
             updateStatusFooter('No recent data found.', 'warning');
             setHtml('daily-status-container', `<p class="placeholder">No recent daily status data could be found. Please check back later.</p>`);

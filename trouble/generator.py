@@ -65,7 +65,14 @@ def run_generation(output_dir_base="docs/"):
         if os.path.exists(etude_js_src):
             etude_js_dest = os.path.join(js_dest_dir, etude.name)
             shutil.copytree(etude_js_src, etude_js_dest, dirs_exist_ok=True)
-            print(f"  Copied JS files for etude '{etude.name}' to {etude_js_dest}")
+            print(f"  Copied JS assets for etude '{etude.name}' to {etude_js_dest}")
+
+    # Copy skin definitions and CSS
+    skins_src_dir = os.path.join(js_src_dir, "skins")
+    skins_dest_dir = os.path.join(output_dir_base, "assets", "skins")
+    if os.path.exists(skins_src_dir):
+        shutil.copytree(skins_src_dir, skins_dest_dir, dirs_exist_ok=True)
+        print(f"  Copied skin assets to {skins_dest_dir}")
 
 
     # 4. Generate content for each etude

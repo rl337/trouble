@@ -7,6 +7,10 @@
 // We use absolute paths from the site root to ensure they resolve correctly.
 import { getLatestEtudeData } from '/assets/js/core/data_fetcher.js';
 import { setHtml, updateStatusFooter } from '/assets/js/core/ui_updater.js';
+import { SkinContextFactory, SkinManager } from '/assets/js/core/skin_manager.js';
+import { shadeDay, shadeNight } from '/assets/skins/shade.js';
+import { sunMorning, sunAfternoon, sunEvening, sunNight } from '/assets/skins/sun.js';
+import { defaultSkin } from '/assets/skins/default.js';
 
 // --- CONFIGURATION ---
 // These should be replaced by your actual GitHub repo details.
@@ -33,16 +37,21 @@ async function getTemplate() {
  * Renders the data for Etude One into the DOM using a Mustache template.
  * @param {string} template The Mustache template string.
  * @param {object} etudeOneData The specific data object for Etude One from the fetched JSON.
+ * @param {object} skin The selected skin object.
  */
-function renderEtudeOne(template, etudeOneData) {
+function renderEtudeOne(template, etudeOneData, skin) {
     if (!etudeOneData || !etudeOneData.data) {
         setHtml('dynamic-content-container', '<p class="placeholder">No daily data available for Etude One.</p>');
         return;
     }
 
-    // The data object passed to Mustache should match the template's variable names.
-    // The template uses sections like {{#random_quote}} so we can pass the data object directly.
-    const renderedHtml = window.Mustache.render(template, etudeOneData.data);
+    // Combine the fetched data with the skin's class mappings for the template
+    const viewData = {
+        ...etudeOneData.data,
+        widget_classes: skin.getClasses(),
+    };
+
+    const renderedHtml = window.Mustache.render(template, viewData);
     setHtml('dynamic-content-container', renderedHtml);
 }
 
@@ -51,19 +60,32 @@ function renderEtudeOne(template, etudeOneData) {
  * Main function to orchestrate data fetching and rendering for Etude One.
  */
 async function main() {
+    updateStatusFooter('Initializing...', 'loading');
+
+    // 1. Set up Skin Manager
+    const skinManager = new SkinManager();
+    [shadeDay, shadeNight, sunMorning, sunAfternoon, sunEvening, sunNight, defaultSkin].forEach(s => skinManager.registerSkin(s));
+
+    // 2. Determine Context and Apply Skin
+    const contextFactory = new SkinContextFactory();
+    const context = contextFactory.buildContext(['etude:one']); // Add etude-specific context
+    const bestSkin = skinManager.findBestSkin(context);
+    skinManager.applySkinCss(bestSkin);
+
     updateStatusFooter('Fetching latest daily data and template...', 'loading');
 
     try {
-        // Fetch template and data in parallel for efficiency
+        // 3. Fetch template and data in parallel
         const [template, result] = await Promise.all([
             getTemplate(),
             getLatestEtudeData(REPO_OWNER, REPO_NAME)
         ]);
 
+        // 4. Render content
         if (result.status === 'success') {
-            updateStatusFooter(`Successfully loaded data from release: ${result.version_tag}`, 'success');
+            updateStatusFooter(`Skin: ${bestSkin.name} | Data: ${result.version_tag}`, 'success');
             const etudeOneData = result.data?.one;
-            renderEtudeOne(template, etudeOneData);
+            renderEtudeOne(template, etudeOneData, bestSkin);
         } else if (result.status === 'not_found') {
             updateStatusFooter('No recent data found.', 'warning');
             setHtml('dynamic-content-container', `<p class="placeholder">No recent daily data could be found. Please check back later.</p>`);

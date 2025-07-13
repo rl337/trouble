@@ -19,6 +19,7 @@ The architecture follows this data flow:
 *   **Fetcher (`trouble.fetchers.Fetcher`)**: Abstract base class for data fetchers. `URLFetcher` and `StaticFetcher` are provided.
 *   **EtudeRegistry (`trouble.etude_core.EtudeRegistry`)**: Discovers and registers all Etude instances from the `trouble.etudes` package.
 *   **DailyEtudeResult (`trouble.fetchers.DailyEtudeResult`)**: A structured `NamedTuple` (`status`, `data`, `actions_log`) that holds the result of an etude's daily tasks.
+*   **Skinning (`trouble/js_src/core/skin_manager.js`)**: A client-side system that dynamically applies CSS skins based on a generated context (time of day, season, etc.). It uses a tag-matching heuristic to select the most specific skin for the current context.
 
 ## Commands
 
@@ -54,6 +55,10 @@ To add a new Etude to the project:
     *   Define the HTML structure for your dynamic content here using Mustache syntax.
 6.  **Create/Update HTML App Shell Template**:
     *   Ensure your main HTML template in `trouble/templates/` has elements with `id`s for your JavaScript to target, and includes the necessary `<script>` tags to load `mustache.min.js` and your `ui.js`.
+7.  **Create a Skin (Optional)**:
+    *   To create a new skin, add a JS definition file to `trouble/js_src/skins/` and a corresponding CSS file to `trouble/js_src/skins/css/`.
+    *   The JS definition should export a `BaseSkin` instance with a name, an array of context `tags`, a path to the `css_file`, and a `widget_classes` object mapping common widget types to CSS classes in your stylesheet.
+    *   Import and register your new skin in the `ui.js` files of the etudes where you want it to be active.
 
 ## Development & Testing
 
