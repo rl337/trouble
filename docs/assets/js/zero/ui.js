@@ -4,8 +4,8 @@
  * displaying the status of all other etudes.
  */
 
-import { getLatestEtudeData } from '../../assets/js/core/data_fetcher.js';
-import { setText, setHtml, updateStatusFooter } from '../../assets/js/core/ui_updater.js';
+import { getLatestEtudeData } from '/assets/js/core/data_fetcher.js';
+import { setText, setHtml, updateStatusFooter } from '/assets/js/core/ui_updater.js';
 
 // --- CONFIGURATION ---
 const REPO_OWNER = 'greple-test';

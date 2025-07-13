@@ -30,6 +30,10 @@ Generates the static HTML and JavaScript "app shell" for the site.
 Runs the daily data fetching tasks for all etudes and prints the aggregated results as a JSON string to standard output.
 **Usage:** `poetry run trouble daily`
 
+### `generate-mock-data`
+Generates a mock `daily_etude_data.json` structure for a given test scenario. The output is printed as a JSON string to standard output.
+**Usage:** `poetry run trouble generate-mock-data --scenario <success|partial_failure|no_data>`
+
 ## Creating a New Etude
 
 To add a new Etude to the project:
@@ -62,23 +66,53 @@ To add a new Etude to the project:
     This will create a virtual environment inside the project directory (`.venv`) and install all dependencies listed in `pyproject.toml`.
 
 ### Running Tests Locally
+
+#### Unit Tests
 To run all Python unit tests:
 ```bash
 poetry run python -m unittest discover -s tests -p "test_*.py"
 ```
 
-### JavaScript & Manual Browser Testing
-The client-side logic requires manual testing in a browser.
+#### End-to-End (E2E) Tests
+The E2E tests use Playwright to run tests in a headless browser, verifying client-side JavaScript rendering.
 
-1.  **Generate the Site**: Run `poetry run trouble generate`.
-2.  **Serve Locally**: Run `python -m http.server 8000 --directory docs` from the project root.
-3.  **Mock Data**: To test the client-side fetching without hitting the GitHub API, you need to intercept the `fetch` request made by `data_fetcher.js`.
-    *   Create a local `mock_daily_data.json` file with the expected data structure.
-    *   Use browser developer tools (e.g., Chrome's Sources > Overrides) or an extension (e.g., Requestly) to intercept the call to `https://api.github.com/repos/...` and respond with the content of your mock file.
-4.  **Verify**: Open `http://localhost:8000` in your browser. Check the developer console for logs and verify that the UI updates correctly based on your mock data. Check the status footer for loading/success/error messages.
+1.  **Install Playwright Browsers** (one-time setup):
+    ```bash
+    poetry run playwright install --with-deps
+    ```
+2.  **Run the E2E Tests**:
+    ```bash
+    poetry run pytest tests/e2e/
+    ```
+    The tests will automatically:
+    *   Generate the static site.
+    *   Generate the necessary mock data files.
+    *   Start a local web server.
+    *   Run Playwright to open a browser, intercept network calls to the GitHub API, and assert that the UI renders the mock data correctly.
+
+### Manual Browser Testing
+For manual debugging or development of the client-side UI:
+
+1.  **Generate Mock Data**:
+    ```bash
+    poetry run trouble generate-mock-data --scenario success > mock_data.json
+    ```
+2.  **Generate the Site**:
+    ```bash
+    poetry run trouble generate
+    ```
+3.  **Serve Locally**:
+    ```bash
+    python -m http.server 8000 --directory docs
+    ```
+4.  **Intercept and Verify**:
+    *   Use browser developer tools (e.g., Chrome's Sources > Overrides) or an extension (e.g., Requestly) to intercept the call to `https://api.github.com/repos/...` and respond with the content of your `mock_data.json` file.
+    *   Open `http://localhost:8000` and check that the site renders the mock data as expected.
 
 ## GitHub Actions
 
 *   **`daily-data-release.yml`**: Runs daily on a schedule. Executes `python -m trouble daily`, captures the output JSON, and creates a new GitHub Release tagged with the date, attaching the JSON as a release asset.
 *   **`publish.yml`**: Runs on pushes to `main`. Executes `python -m trouble generate` to build the static site and deploys the `docs/` directory to GitHub Pages.
-*   **`run-tests.yml`**: Runs Python unit tests on every push and pull request to `main`.
+*   **`run-tests.yml`**: Runs tests on every push and pull request to `main`. It contains two jobs:
+    *   `unit-tests`: Runs fast Python unit tests across multiple Python versions.
+    *   `e2e-tests`: Runs slower Playwright end-to-end browser tests to verify client-side rendering. This job runs only after `unit-tests` succeed.
