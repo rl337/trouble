@@ -117,7 +117,10 @@ For manual debugging or development of the client-side UI:
 
 ## GitHub Actions
 
-*   **`daily-data-release.yml`**: Runs daily on a schedule. Executes `python -m trouble daily`, captures the output JSON, and creates a new GitHub Release tagged with the date, attaching the JSON as a release asset.
+*   **`daily-data-release.yml`**: Runs daily on a schedule.
+    1.  Executes `python -m trouble daily` to fetch data.
+    2.  Creates a new GitHub Release tagged `data-daily-YYYY-MM-DD` and attaches the fetched data as a JSON asset.
+    3.  A second job then runs to prune old data releases, keeping only the 7 most recent to prevent clutter.
 *   **`publish.yml`**: Runs on pushes to `main`. Executes `python -m trouble generate` to build the static site and deploys the `docs/` directory to GitHub Pages.
 *   **`run-tests.yml`**: Runs tests on every push and pull request to `main`. It contains two jobs:
     *   `unit-tests`: Runs fast Python unit tests across multiple Python versions.
