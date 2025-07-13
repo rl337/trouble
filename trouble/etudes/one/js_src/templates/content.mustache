@@ -1,0 +1,23 @@
+<h3>Fetched Data:</h3>
+<ul>
+    {{#random_quote}}
+    <li><strong>Random Quote:</strong> <em>"{{content}}"</em> &mdash; {{author}}</li>
+    {{/random_quote}}
+    {{^random_quote}}
+    <li><strong>Random Quote:</strong> Not available.</li>
+    {{/random_quote}}
+
+    {{#sample_todo}}
+    <li><strong>Sample Todo:</strong> {{title}} (Status: {{#completed}}Completed{{/completed}}{{^completed}}Not Completed{{/completed}})</li>
+    {{/sample_todo}}
+    {{^sample_todo}}
+    <li><strong>Sample Todo:</strong> Not available.</li>
+    {{/sample_todo}}
+
+    {{#static_info}}
+    <li><strong>Static Info Message:</strong> {{message}}</li>
+    {{/static_info}}
+    {{^static_info}}
+    <li><strong>Static Info:</strong> Not available.</li>
+    {{/static_info}}
+</ul>

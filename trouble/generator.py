@@ -52,7 +52,14 @@ def run_generation(output_dir_base="docs/"):
         shutil.copytree(core_js_src, core_js_dest, dirs_exist_ok=True)
         print(f"  Copied core JS files to {core_js_dest}")
 
-    # Copy etude-specific JS files
+    # Copy vendor JS files
+    vendor_js_src = os.path.join(js_src_dir, "vendor")
+    vendor_js_dest = os.path.join(js_dest_dir, "vendor")
+    if os.path.exists(vendor_js_src):
+        shutil.copytree(vendor_js_src, vendor_js_dest, dirs_exist_ok=True)
+        print(f"  Copied vendor JS files to {vendor_js_dest}")
+
+    # Copy etude-specific JS files and templates
     for etude in etudes_list:
         etude_js_src = os.path.join(project_root, "trouble", "etudes", etude.name, "js_src")
         if os.path.exists(etude_js_src):

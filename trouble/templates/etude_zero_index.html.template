@@ -53,7 +53,13 @@
     <!-- Status Footer -->
     <div id="etude_status_footer" class="status-footer">Initializing...</div>
 
-    <!-- JavaScript modules using absolute paths from the site root -->
+    <!-- Import the Mustache module and attach it to the window object to make it globally accessible -->
+    <script type="module">
+        import Mustache from '/assets/js/vendor/mustache.min.js';
+        window.Mustache = Mustache;
+    </script>
+
+    <!-- Load our application modules -->
     <script type="module" src="/assets/js/core/data_fetcher.js"></script>
     <script type="module" src="/assets/js/core/ui_updater.js"></script>
     <script type="module" src="/assets/js/${etude_name}/ui.js"></script>

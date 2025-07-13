@@ -1,0 +1,32 @@
+<table>
+    <thead>
+        <tr>
+            <th>Etude Name</th>
+            <th>Daily Status</th>
+            <th>Actions Log</th>
+        </tr>
+    </thead>
+    <tbody>
+        {{#etudes}}
+        <tr>
+            <td><strong>{{name}}</strong></td>
+            <td><span class="status-{{status_class}}">{{status}}</span></td>
+            <td>
+                <ul>
+                    {{#actions_log}}
+                    <li>{{.}}</li>
+                    {{/actions_log}}
+                    {{^actions_log}}
+                    <li>No actions logged.</li>
+                    {{/actions_log}}
+                </ul>
+            </td>
+        </tr>
+        {{/etudes}}
+        {{^etudes}}
+        <tr>
+            <td colspan="3" class="placeholder">No daily status data found for any etudes.</td>
+        </tr>
+        {{/etudes}}
+    </tbody>
+</table>
