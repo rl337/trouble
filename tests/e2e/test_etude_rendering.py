@@ -38,12 +38,10 @@ def test_etude_one_renders_success_scenario(page: Page, live_server: str, mock_d
 
     # --- Assertions ---
 
-    # 1. Check the status footer for the success message
+    # 1. Check the status footer for the success message, which includes the skin name
     status_footer = page.locator("#etude_status_footer")
-    # The version tag will be a placeholder since we are mocking the API before the JS can determine the real tag
-    # A more advanced test could pass the mock tag name to the JS context.
-    # For now, we check for the success text.
-    expect(status_footer).to_contain_text("Successfully loaded data from release")
+    expect(status_footer).to_contain_text("Skin:")
+    expect(status_footer).to_contain_text("Data:")
 
     # 2. Check that the dynamic content is rendered
     dynamic_content_container = page.locator("#dynamic-content-container")
@@ -79,7 +77,9 @@ def test_etude_zero_renders_status_table(page: Page, live_server: str, mock_data
     page.goto(etude_zero_url)
 
     # --- Assertions ---
-    expect(page.locator("#etude_status_footer")).to_contain_text("Successfully loaded data")
+    status_footer = page.locator("#etude_status_footer")
+    expect(status_footer).to_contain_text("Skin:")
+    expect(status_footer).to_contain_text("Data:")
 
     status_container = page.locator("#daily-status-container")
 

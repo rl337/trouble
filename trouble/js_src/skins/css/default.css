@@ -1,0 +1,13 @@
+/* Default Skin - A very basic, unstyled look */
+
+.default-title {
+    font-size: 1.5em;
+    font-weight: bold;
+    color: black;
+    margin-bottom: 10px;
+}
+
+.default-body {
+    font-size: 1em;
+    color: #333;
+}

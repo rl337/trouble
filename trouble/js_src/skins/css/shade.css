@@ -1,0 +1,51 @@
+/* Shade Skin CSS */
+
+/* --- Day Mode --- */
+.shade-title-day {
+    color: #1a1a1a;
+    border-bottom: 2px solid #e0e0e0;
+}
+
+.shade-body-day {
+    color: #333;
+    background-color: #f9f9f9;
+    padding: 15px;
+    border-radius: 5px;
+    border: 1px solid #e0e0e0;
+}
+
+
+/* --- Night Mode --- */
+.shade-title-night {
+    color: #e0e0e0;
+    border-bottom: 2px solid #555;
+}
+
+.shade-body-night {
+    color: #ccc;
+    background-color: #2a2a2a;
+    padding: 15px;
+    border-radius: 5px;
+    border: 1px solid #555;
+}
+
+/* Generic widget styles that might be shared */
+.widget-citation {
+    font-style: italic;
+    border-left: 3px solid #ccc;
+    padding-left: 10px;
+    margin-left: 5px;
+}
+
+.widget-code-block {
+    font-family: monospace;
+    background-color: #f0f0f0;
+    padding: 10px;
+    border-radius: 4px;
+    white-space: pre-wrap;
+}
+
+.shade-body-night .widget-code-block {
+    background-color: #3a3a3a;
+    color: #d0d0d0;
+}
