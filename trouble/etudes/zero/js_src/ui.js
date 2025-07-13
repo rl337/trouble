@@ -95,7 +95,10 @@ async function main() {
     if (result.status === 'success') {
         updateStatusFooter(`Successfully loaded data from release: ${result.version_tag}`, 'success');
         renderAllEtudesStatus(result.data);
-    } else {
+    } else if (result.status === 'not_found') {
+        updateStatusFooter('No recent data found.', 'warning');
+        setHtml('daily-status-container', `<p class="placeholder">No recent daily status data could be found. Please check back later.</p>`);
+    } else { // 'error'
         updateStatusFooter(`Error: ${result.message}`, 'error');
         setHtml('daily-status-container', `<p class="placeholder" style="color: red;">Could not load daily status overview. ${result.message}</p>`);
     }

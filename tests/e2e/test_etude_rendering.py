@@ -120,14 +120,13 @@ def test_etude_one_handles_no_data_scenario(page: Page, live_server: str):
 
     # --- Assertions ---
 
-    # 1. Check the status footer for the error/not_found message
+    # 1. Check the status footer for the specific "not_found" message
     status_footer = page.locator("#etude_status_footer")
-    expect(status_footer).to_contain_text("Could not find a valid data release")
+    expect(status_footer).to_contain_text("No recent data found")
 
-    # 2. Check that the dynamic content container shows an error message
+    # 2. Check that the dynamic content container shows the corresponding message
     dynamic_content_container = page.locator("#dynamic-content-container")
-    expect(dynamic_content_container).to_contain_text("Could not load daily content")
+    expect(dynamic_content_container).to_contain_text("No recent daily data could be found")
 
-    # 3. Ensure the placeholder text is replaced by the error message
-    expect(dynamic_content_container.locator("p.placeholder")).to_have_count(1)
+    # 3. Ensure the original "Loading..." placeholder text is gone
     expect(dynamic_content_container).not_to_contain_text("Loading daily content...")

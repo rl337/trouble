@@ -25,54 +25,80 @@ function getFormattedDate(date) {
  * @returns {Promise<{status: 'success'|'error'|'not_found', data: object|null, version_tag: string|null, message: string}>}
  *          An object containing the fetch status, the data, the tag of the version found, and a log message.
  */
-export async function getLatestEtudeData(repoOwner, repoName, baseTagPrefix = "data-", daysToTry = 7) {
+/**
+ * A helper function to introduce a delay.
+ * @param {number} ms The number of milliseconds to wait.
+ * @returns {Promise<void>}
+ */
+function delay(ms) {
+    return new Promise(resolve => setTimeout(resolve, ms));
+}
+
+/**
+ * Fetches the latest daily etude data from GitHub Releases, trying today first,
+ * then previous days up to a specified limit, with retries for transient errors.
+ *
+ * @param {string} repoOwner The owner of the GitHub repository.
+ * @param {string} repoName The name of the GitHub repository.
+ * @param {string} [baseTagPrefix="data-"] The prefix for the date-based release tags.
+ * @param {number} [daysToTry=7] The number of past days to check for a valid release.
+ * @param {number} [maxRetries=2] The number of retries for a single URL if a network error occurs.
+ * @param {number} [retryDelay=1000] The delay in ms between retries.
+ * @returns {Promise<{status: 'success'|'error'|'not_found', data: object|null, version_tag: string|null, message: string}>}
+ */
+export async function getLatestEtudeData(repoOwner, repoName, {
+    baseTagPrefix = "data-",
+    daysToTry = 7,
+    maxRetries = 2,
+    retryDelay = 1000
+} = {}) {
     if (!repoOwner || !repoName) {
-        return {
-            status: 'error',
-            data: null,
-            version_tag: null,
-            message: "Repository owner and name must be provided."
-        };
+        return { status: 'error', data: null, version_tag: null, message: "Repository owner and name must be provided." };
     }
 
-    const GITHUB_API_BASE = "https://api.github.com";
     const ASSET_NAME = "daily_etude_data.json";
 
-    for (let i = 0; i < daysToTry; i++) {
+    for (let dayIndex = 0; dayIndex < daysToTry; dayIndex++) {
         const date = new Date();
-        date.setUTCDate(date.getUTCDate() - i);
+        date.setUTCDate(date.getUTCDate() - dayIndex);
         const dateString = getFormattedDate(date);
         const tagName = `${baseTagPrefix}${dateString}`;
         const assetUrl = `https://github.com/${repoOwner}/${repoName}/releases/download/${tagName}/${ASSET_NAME}`;
 
-        console.log(`Attempting to fetch data asset for tag: ${tagName} from ${assetUrl}`);
+        for (let attempt = 0; attempt <= maxRetries; attempt++) {
+            console.log(`Attempt ${attempt + 1}/${maxRetries + 1} for tag: ${tagName} from ${assetUrl}`);
 
-        try {
-            const dataResponse = await fetch(assetUrl);
+            try {
+                const dataResponse = await fetch(assetUrl);
 
-            if (!dataResponse.ok) {
+                if (dataResponse.ok) {
+                    const etudeData = await dataResponse.json();
+                    console.log(`Successfully fetched and parsed data for ${tagName}.`);
+                    return {
+                        status: 'success',
+                        data: etudeData,
+                        version_tag: tagName,
+                        message: `Successfully loaded data from release ${tagName}.`
+                    };
+                }
+
                 if (dataResponse.status === 404) {
                     console.log(`Asset for tag ${tagName} not found. Trying previous day.`);
-                    continue; // Go to the next iteration
+                    break; // Break the retry loop for this day and move to the previous day
                 }
-                throw new Error(`Failed to download asset for tag ${tagName} with status ${dataResponse.status}`);
+
+                // For other non-OK statuses (5xx, etc.), we treat it as a potentially transient error and retry.
+                console.warn(`Fetch failed with status ${dataResponse.status}. Retrying after ${retryDelay}ms...`);
+                if (attempt < maxRetries) await delay(retryDelay);
+
+            } catch (error) {
+                // This catches network errors (e.g., DNS, connection refused)
+                console.error(`Network error for tag ${tagName}:`, error);
+                if (attempt < maxRetries) {
+                    console.warn(`Retrying after ${retryDelay}ms...`);
+                    await delay(retryDelay);
+                }
             }
-
-            const etudeData = await dataResponse.json();
-
-            console.log(`Successfully fetched and parsed data for ${tagName}.`);
-            return {
-                status: 'success',
-                data: etudeData,
-                version_tag: tagName,
-                message: `Successfully loaded data from release ${tagName}.`
-            };
-
-        } catch (error) {
-            console.error(`Error fetching data for tag ${tagName}:`, error);
-            // If there's a network error or other issue, we might want to stop trying.
-            // For now, we'll log it and continue to the next day as it might be a transient issue.
-            // If after all days we still fail, the final return will indicate the error.
         }
     }
 

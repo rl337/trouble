@@ -65,10 +65,12 @@ async function main() {
 
     if (result.status === 'success') {
         updateStatusFooter(`Successfully loaded data from release: ${result.version_tag}`, 'success');
-        // Extract the data for this specific etude ('one')
         const etudeOneData = result.data?.one;
         renderEtudeOne(etudeOneData);
-    } else {
+    } else if (result.status === 'not_found') {
+        updateStatusFooter('No recent data found.', 'warning');
+        setHtml('dynamic-content-container', `<p class="placeholder">No recent daily data could be found. Please check back later.</p>`);
+    } else { // 'error'
         updateStatusFooter(`Error: ${result.message}`, 'error');
         setHtml('dynamic-content-container', `<p class="placeholder" style="color: red;">Could not load daily content. ${result.message}</p>`);
     }
