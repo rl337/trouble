@@ -111,14 +111,22 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4 # This was the missing step
 
-      - name: Delete older data releases
-        uses: munna/delete-older-releases@v1
-        with:
-          keep_latest: 7 # Keep the 7 most recent releases
-          delete_tags: true # Also delete the git tag associated with the release
-          delete_tag_pattern: 'data-daily-' # IMPORTANT: Only delete tags matching our pattern
+      - name: Prune old data releases
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_REPO: ${{ github.repository }}
+        run: |
+          # List all releases with the 'data-daily-' prefix, sorted by creation date
+          # Then, skip the most recent 7 and feed the rest to the delete command.
+          gh release list --repo "$GH_REPO" --limit 100 | \
+          grep "data-daily-" | \
+          sort -r | \
+          awk 'NR > 7' | \
+          cut -f1 | \
+          while read -r tag; do
+            echo "Deleting release and tag: $tag"
+            gh release delete "$tag" --repo "$GH_REPO" --yes --cleanup-tag
+          done
 
 # Notes for user:
 # 1. GITHUB_TOKEN: The default GITHUB_TOKEN has permissions to create releases in the same repository.
