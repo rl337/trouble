@@ -1,92 +1,93 @@
 import argparse
 
+# --- Command Handlers ---
+
+def handle_generate(args):
+    from . import generator
+    generator.run_generation()
+
+def handle_daily(args):
+    import json
+    from .etude_core import EtudeRegistry
+    from .daily_runner import execute_daily_etude_tasks
+
+    print("Starting daily tasks...")
+    registry = EtudeRegistry()
+    registry.discover_etudes(package_name="trouble.etudes")
+    results = execute_daily_etude_tasks(registry)
+
+    print("\n--- Daily Tasks Output JSON Start ---")
+    print(json.dumps(results, indent=2))
+    print("--- Daily Tasks Output JSON End ---")
+    print("Daily tasks finished.")
+
+def handle_generate_mock_data(args):
+    import json
+    from .etude_core import EtudeRegistry
+    from .mock_data_generator import generate_mock_data
+
+    print(f"Generating mock data for scenario: {args.scenario}")
+    registry = EtudeRegistry()
+    registry.discover_etudes(package_name="trouble.etudes")
+    mock_data = generate_mock_data(args.scenario, registry)
+
+    if args.output:
+        try:
+            with open(args.output, "w") as f:
+                json.dump(mock_data, f, indent=2)
+            print(f"Mock data written to {args.output}")
+        except IOError as e:
+            print(f"Error writing mock data to file: {e}")
+            exit(1)
+    else:
+        print(json.dumps(mock_data, indent=2))
+    print("Mock data generation finished.")
+
+def handle_github_actions(args):
+    if args.action == "create-release-info":
+        import json
+        from datetime import datetime
+        from .release_manager import ReleaseManager
+
+        manager = ReleaseManager(prefix="data-daily-")
+        try:
+            info = manager.get_release_info(datetime.utcnow())
+            # Print JSON directly to stdout for capture by the workflow
+            print(json.dumps(info))
+        except ValueError as e:
+            print(f"Error creating release info: {e}")
+            exit(1)
+    else:
+        print(f"Unknown github-actions action: {args.action}")
+        # Consider printing help for the github-actions subparser
+        exit(1)
+
 def main():
     parser = argparse.ArgumentParser(description="Trouble: A multi-purpose CLI tool.")
-    subparsers = parser.add_subparsers(dest="command", help="Available commands")
+    subparsers = parser.add_subparsers(dest="command", help="Available commands", required=True)
 
-    # Generator sub-command
+    # --- Top-level Commands ---
     parser_generate = subparsers.add_parser("generate", help="Generate documentation from templates.")
-    # Add arguments specific to generate if needed in the future
-    # parser_generate.add_argument("--output-dir", default="docs/", help="Directory to output generated files.")
+    parser_generate.set_defaults(func=handle_generate)
 
-    # Daily sub-command
     parser_daily = subparsers.add_parser("daily", help="Run daily tasks for all etudes.")
-    # Add arguments specific to daily if needed in the future
-    # parser_daily.add_argument("--force-rerun", action="store_true", help="Force rerun of tasks.")
+    parser_daily.set_defaults(func=handle_daily)
 
-    # Mock data generator sub-command
     parser_mock_data = subparsers.add_parser("generate-mock-data", help="Generate mock data for testing.")
-    parser_mock_data.add_argument(
-        "--scenario",
-        type=str,
-        required=True,
-        choices=["success", "partial_failure", "no_data"],
-        help="The mock data scenario to generate."
-    )
-    parser_mock_data.add_argument(
-        "--output",
-        type=str,
-        default=None,
-        help="Optional path to write the output JSON file. If not provided, prints to stdout."
-    )
+    parser_mock_data.add_argument("--scenario", type=str, required=True, choices=["success", "partial_failure", "no_data"], help="The mock data scenario to generate.")
+    parser_mock_data.add_argument("--output", type=str, default=None, help="Optional path to write the output JSON file. If not provided, prints to stdout.")
+    parser_mock_data.set_defaults(func=handle_generate_mock_data)
+
+    # --- GitHub Actions Command Group ---
+    parser_gh = subparsers.add_parser("github-actions", help="Commands for use in GitHub Actions workflows.")
+    gh_subparsers = parser_gh.add_subparsers(dest="action", help="GitHub Actions sub-command", required=True)
+
+    # Sub-command for creating release info
+    parser_gh_release_info = gh_subparsers.add_parser("create-release-info", help="Generate and validate release info (tag, name) as JSON.")
+    parser_gh_release_info.set_defaults(func=handle_github_actions)
 
     args = parser.parse_args()
-
-    if args.command == "generate":
-        from . import generator
-        # Assuming generator.run_generation() takes output_dir as an argument
-        # For now, using default "docs/" as per its definition.
-        # If parser_generate had an --output-dir argument, it would be args.output_dir
-        generator.run_generation()
-    elif args.command == "daily":
-        import json
-        from .etude_core import EtudeRegistry
-        from .daily_runner import execute_daily_etude_tasks # Import the new runner function
-
-        print("Starting daily tasks...")
-        registry = EtudeRegistry()
-        registry.discover_etudes(package_name="trouble.etudes")
-
-        results = execute_daily_etude_tasks(registry)
-
-        # Output the results as a JSON string to stdout
-        # This can be captured by the GitHub Action
-        print("\n--- Daily Tasks Output JSON Start ---")
-        print(json.dumps(results, indent=2))
-        print("--- Daily Tasks Output JSON End ---")
-        print("Daily tasks finished.")
-
-    elif args.command == "generate-mock-data":
-        import json
-        from .etude_core import EtudeRegistry
-        from .mock_data_generator import generate_mock_data
-
-        print(f"Generating mock data for scenario: {args.scenario}")
-        registry = EtudeRegistry()
-        registry.discover_etudes(package_name="trouble.etudes")
-
-        mock_data = generate_mock_data(args.scenario, registry)
-
-        # Output the mock data to a file or stdout
-        if args.output:
-            try:
-                with open(args.output, "w") as f:
-                    json.dump(mock_data, f, indent=2)
-                print(f"Mock data written to {args.output}")
-            except IOError as e:
-                print(f"Error writing mock data to file: {e}")
-                exit(1)
-        else:
-            # Print to stdout if no output file is specified
-            print(json.dumps(mock_data, indent=2))
-
-        print("Mock data generation finished.")
-
-    elif args.command is None:
-        parser.print_help()
-    else:
-        print(f"Unknown command: {args.command}")
-        parser.print_help()
+    args.func(args)
 
 if __name__ == "__main__":
     main()
