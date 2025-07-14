@@ -2,5 +2,3 @@
 
 # Expose the EtudeOne class
 from .etude_impl import EtudeOne
-
-print("trouble.etudes.one package loaded, EtudeOne available.")

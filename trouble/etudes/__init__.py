@@ -19,4 +19,3 @@
 # importing 'trouble.etudes.zero' would make EtudeZero available for inspection.
 
 # For now, this __init__.py can remain simple. The discovery logic is in EtudeRegistry.
-print("trouble.etudes package loaded.")

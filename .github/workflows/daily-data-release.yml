@@ -78,6 +78,9 @@ jobs:
           echo "$RELEASE_INFO_JSON" >> $GITHUB_OUTPUT
           echo "EOF" >> $GITHUB_OUTPUT
 
+      - name: Rename log file
+        run: mv trouble.log daily.log
+
       - name: Create Release and Upload Asset
         uses: softprops/action-gh-release@v1
         with:
@@ -85,10 +88,12 @@ jobs:
           name: ${{ fromJson(steps.get_release_info.outputs.RELEASE_INFO_JSON).release_name }}
           body: |
             Automated daily data release for etudes.
-            Contains `daily_etude_data.json` with fetched content.
+            Contains `daily_etude_data.json` with fetched content and `daily.log` with execution logs.
           draft: false
           prerelease: false
-          files: daily_etude_data.json
+          files: |
+            daily_etude_data.json
+            daily.log
 
       # Optional: Cleanup old releases (more complex, consider for later)
       # - name: Cleanup Old Data Releases
