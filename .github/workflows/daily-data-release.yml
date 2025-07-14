@@ -108,6 +108,9 @@ jobs:
       contents: write # Required to delete releases/tags
 
     steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4 # This was the missing step
+
       - name: Delete older data releases
         uses: dev-drpr/delete-older-releases@v0.10.0
         with:
