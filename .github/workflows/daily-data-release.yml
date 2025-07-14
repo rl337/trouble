@@ -70,15 +70,19 @@ jobs:
           echo "Saved data to daily_etude_data.json"
           cat daily_etude_data.json # Print file content to logs for verification
 
-      - name: Set Release Tag
-        id: set_tag
-        run: echo "RELEASE_TAG=data-daily-$(date +'%Y-%m-%d')" >> $GITHUB_ENV
+      - name: Get Release Info
+        id: get_release_info
+        run: |
+          RELEASE_INFO_JSON=$(poetry run trouble github-actions create-release-info)
+          echo "RELEASE_INFO_JSON<<EOF" >> $GITHUB_OUTPUT
+          echo "$RELEASE_INFO_JSON" >> $GITHUB_OUTPUT
+          echo "EOF" >> $GITHUB_OUTPUT
 
       - name: Create Release and Upload Asset
         uses: softprops/action-gh-release@v1
         with:
-          tag_name: ${{ env.RELEASE_TAG }}
-          name: "Daily Etude Data - ${{ env.RELEASE_TAG }}"
+          tag_name: ${{ fromJson(steps.get_release_info.outputs.RELEASE_INFO_JSON).tag_name }}
+          name: ${{ fromJson(steps.get_release_info.outputs.RELEASE_INFO_JSON).release_name }}
           body: |
             Automated daily data release for etudes.
             Contains `daily_etude_data.json` with fetched content.
