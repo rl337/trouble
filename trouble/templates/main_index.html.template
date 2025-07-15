@@ -101,6 +101,28 @@ document.addEventListener('DOMContentLoaded', function() {
             firstTab.click(); // This will call openEtude with an event
         }
     }
+
+    // Load the daily results and update UI
+    fetch('all_etudes_results.json')
+        .then(response => response.json())
+        .then(data => {
+            Object.keys(data).forEach(etudeName => {
+                const etudeData = data[etudeName];
+                const tabButton = Array.from(document.getElementsByClassName('tablinks')).find(btn => btn.textContent.toLowerCase() === etudeName.toLowerCase());
+                if (tabButton) {
+                    let statusIndicator = '⚪'; // Default
+                    if (etudeData.status === 'OK') {
+                        statusIndicator = '🟢';
+                    } else if (etudeData.status === 'FAILED') {
+                        statusIndicator = '🔴';
+                    } else if (etudeData.status === 'PARTIAL_SUCCESS') {
+                        statusIndicator = '🟡';
+                    }
+                    tabButton.innerHTML = `${statusIndicator} ${tabButton.innerHTML}`;
+                }
+            });
+        })
+        .catch(error => console.error('Error loading etude results:', error));
 });
 </script>
 

@@ -1,9 +1,11 @@
 import os
 import shutil
+import json
 import subprocess
 from datetime import datetime
 from string import Template
 from trouble.etude_core import EtudeRegistry
+from trouble.daily_runner import execute_daily_etude_tasks
 from .log_config import get_logger
 
 logger = get_logger(__name__)
@@ -82,13 +84,28 @@ def run_generation(output_dir_base="docs/", git_hash: str = "N/A"):
     }
 
 
-    # 5. Generate content for each etude
+    # 5. Run daily tasks to get fresh data
+    logger.info("Executing daily etude tasks to fetch data...")
+    daily_run_results = execute_daily_etude_tasks(registry)
+
+    # Write the results to a JSON file in the root of the output directory
+    daily_run_results_path = os.path.join(output_dir_base, "all_etudes_results.json")
+    try:
+        with open(daily_run_results_path, "w") as f:
+            json.dump(daily_run_results, f, indent=4)
+        logger.info(f"Successfully wrote daily run results to {daily_run_results_path}")
+    except Exception as e:
+        logger.error(f"Failed to write daily run results to JSON file: {e}", exc_info=True)
+
+
+    # 6. Generate content for each etude
     logger.info("Generating HTML app shells for individual etudes...")
     for etude in etudes_list:
         etude_output_dir = os.path.join(output_dir_base, etude.name)
         logger.info(f"Processing etude: {etude.name} -> {etude_output_dir}")
         try:
-            # Pass build info to all etudes, though only EtudeZero will use it for now
+            # Pass build info and now also the path to the daily data
+            build_info["daily_data_path"] = "all_etudes_results.json" # Relative path for the JS to use
             etude.generate_content(etude_output_dir, registry, build_info)
         except Exception as e:
             logger.error(f"Error generating content for etude {etude.name}: {e}", exc_info=True)

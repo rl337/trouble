@@ -26,13 +26,15 @@ class Etude(abc.ABC):
     NAME: str = "Unnamed Etude"
     DESCRIPTION: str = "No description provided."
 
-    def __init__(self, name: str, description: str):
-        if not name or not isinstance(name, str):
+    def __init__(self, name: str = None, description: str = None):
+        # Use class attributes as default if not provided
+        self._name = name or self.NAME
+        self._description = description or self.DESCRIPTION
+
+        if not self._name or not isinstance(self._name, str):
             raise ValueError("Etude name must be a non-empty string.")
-        if not isinstance(description, str):
+        if not isinstance(self._description, str):
             raise ValueError("Etude description must be a string.")
-        self._name = name
-        self._description = description
 
     @property
     def name(self) -> str:
