@@ -3,7 +3,7 @@ import importlib
 import inspect
 import os
 import pkgutil
-from typing import Type, Union, TypeVar, List, Tuple
+from typing import Type, Union, TypeVar, List, Tuple, Dict
 from .log_config import get_logger
 
 logger = get_logger(__name__)
