@@ -2,8 +2,10 @@ import os
 from string import Template
 from typing import List, Tuple # For type hinting
 from trouble.etude_core import Etude, EtudeRegistry
-# Import Fetcher types for get_daily_resources
 from trouble.fetchers import Fetcher, URLFetcher, StaticFetcher
+from trouble.log_config import get_logger
+
+logger = get_logger(__name__)
 
 class EtudeOne(Etude):
     NAME = "one"
@@ -53,7 +55,7 @@ class EtudeOne(Etude):
         ]
         return resources
 
-    def generate_content(self, output_dir: str, registry: EtudeRegistry) -> None:
+    def generate_content(self, output_dir: str, registry: EtudeRegistry, build_info: dict) -> None:
         # This method will be updated in Phase 2 to generate an app shell
         # and expect client-side JS to render the data fetched by get_daily_resources.
         # For now, it might render based on its static metrics or placeholders.
@@ -82,27 +84,16 @@ class EtudeOne(Etude):
             with open(template_path, "r") as f_template:
                 template_str = f_template.read()
         except IOError as e:
-            print(f"Error reading generic template for {self.name} ({template_path}): {e}")
+            logger.error(f"Error reading generic template for {self.name} ({template_path}): {e}")
             output_content = f"<h1>Error</h1><p>Could not load template for Etude {self.name}.</p>"
         else:
             tmpl = Template(template_str)
-            # Use safe_substitute to avoid KeyErrors if not all placeholders are filled
             output_content = tmpl.safe_substitute(template_data)
-
 
         output_file_path = os.path.join(output_dir, "index.html")
         try:
             with open(output_file_path, "w") as f:
                 f.write(output_content)
-            print(f"Generated content for {self.name} at: {output_file_path}")
+            logger.info(f"Generated content for {self.name} at: {output_file_path}")
         except IOError as e:
-            print(f"Error writing content for {self.name}: {e}")
-
-if __name__ == '__main__':
-    print("EtudeOne class defined. For testing, instantiate and call methods with a mock/test EtudeRegistry.")
-    # mock_registry = EtudeRegistry()
-    # etude_one = EtudeOne()
-    # mock_registry.register_etude(etude_one)
-    # print("Metrics for EtudeOne:", etude_one.get_metrics(mock_registry))
-    # # etude_one.generate_content("docs/one", mock_registry) # Needs templates setup
-    print("Note: Full testing of generate_content requires etude_generic_index.html.template to be set up.")
+            logger.error(f"Error writing content for {self.name}: {e}")

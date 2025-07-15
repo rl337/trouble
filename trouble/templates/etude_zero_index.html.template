@@ -34,6 +34,12 @@
     <h1>Etude: ${etude_name}</h1>
     <p><em>${etude_description}</em></p>
 
+    <h2>Static Build Information:</h2>
+    <ul>
+        <li>Build Timestamp: <strong>${build_timestamp}</strong></li>
+        <li>Git Commit: <strong>${git_hash}</strong></li>
+    </ul>
+
     <h2>Static Metrics (at build time):</h2>
     <ul>
         <li>Total Etudes Registered: <strong>${metrics_self_total_etudes}</strong></li>

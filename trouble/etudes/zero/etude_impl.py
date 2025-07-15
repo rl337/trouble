@@ -1,6 +1,9 @@
 import os
 from string import Template # Using string.Template for simplicity for now
 from trouble.etude_core import Etude, EtudeRegistry
+from trouble.log_config import get_logger
+
+logger = get_logger(__name__)
 
 class EtudeZero(Etude):
     NAME = "zero"
@@ -17,7 +20,7 @@ class EtudeZero(Etude):
             # Add more relevant meta-metrics here later
         }
 
-    def generate_content(self, output_dir: str, registry: EtudeRegistry) -> None:
+    def generate_content(self, output_dir: str, registry: EtudeRegistry, build_info: dict) -> None:
         os.makedirs(output_dir, exist_ok=True)
 
         # Prepare data for the template
@@ -62,7 +65,9 @@ class EtudeZero(Etude):
             "etude_description": self.description,
             "metrics_self_total_etudes": str(metrics_self.get("Total Etudes Registered", "N/A")),
             "metrics_self_etude_names": ", ".join(metrics_self.get("Etude Names", [])),
-            "etudes_table_html": etudes_table_html
+            "etudes_table_html": etudes_table_html,
+            "build_timestamp": build_info.get("build_timestamp", "N/A"),
+            "git_hash": build_info.get("git_hash", "N/A"),
         }
 
         # Determine path to templates directory, assuming it's relative to this file's package's parent
@@ -77,29 +82,17 @@ class EtudeZero(Etude):
             with open(template_path, "r") as f_template:
                 template_str = f_template.read()
         except IOError as e:
-            print(f"Error reading template for EtudeZero ({template_path}): {e}")
+            logger.error(f"Error reading template for EtudeZero ({template_path}): {e}")
             # Fallback to a very basic output if template is missing
             output_content = f"<h1>Error</h1><p>Could not load template for Etude {self.name}.</p>"
         else:
             tmpl = Template(template_str)
-            # Use safe_substitute to avoid KeyErrors if not all placeholders are filled
             output_content = tmpl.safe_substitute(template_data)
-
 
         output_file_path = os.path.join(output_dir, "index.html")
         try:
             with open(output_file_path, "w") as f:
                 f.write(output_content)
-            print(f"Generated content for EtudeZero at: {output_file_path}")
+            logger.info(f"Generated content for EtudeZero at: {output_file_path}")
         except IOError as e:
-            print(f"Error writing content for EtudeZero: {e}")
-
-if __name__ == '__main__':
-    # Example usage for direct testing (won't fully work without a populated registry)
-    print("EtudeZero class defined. For testing, instantiate and call methods with a mock/test EtudeRegistry.")
-    # mock_registry = EtudeRegistry()
-    # etude_zero = EtudeZero()
-    # mock_registry.register_etude(etude_zero) # Register itself for metrics count
-    # print("Metrics:", etude_zero.get_metrics(mock_registry))
-    # # etude_zero.generate_content("docs/zero", mock_registry) # Needs templates setup
-    print("Note: Full testing of generate_content requires templates to be set up in trouble/templates/")
+            logger.error(f"Error writing content for EtudeZero: {e}")

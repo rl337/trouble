@@ -1,46 +1,43 @@
 import os
 import shutil
+import subprocess
+from datetime import datetime
 from string import Template
 from trouble.etude_core import EtudeRegistry
+from .log_config import get_logger
 
-def run_generation(output_dir_base="docs/"):
+logger = get_logger(__name__)
+
+def run_generation(output_dir_base="docs/", git_hash: str = "N/A"):
     """
     Main function to handle the document generation process using the Etude framework.
     - Discovers etudes.
     - Generates content for each etude in its respective subdirectory.
     - Generates a main index.html with tabs linking to each etude.
     """
-    print(f"Generation process started. Base output directory: '{output_dir_base}'")
+    logger.info(f"Generation process started. Base output directory: '{output_dir_base}'")
 
     # 1. Initialize and populate the EtudeRegistry
     registry = EtudeRegistry()
     try:
-        # Discover etudes from the 'trouble.etudes' package path
-        # The actual Python package path is 'trouble.etudes'
         registry.discover_etudes(package_name="trouble.etudes")
     except Exception as e:
-        print(f"Critical error during etude discovery: {e}")
-        print("Aborting generation.")
+        logger.critical(f"Critical error during etude discovery: {e}", exc_info=True)
+        logger.critical("Aborting generation.")
         return
 
     etudes_list = registry.get_all_etudes()
 
     if not etudes_list:
-        print("No etudes found or registered. Nothing to generate.")
-        # Optionally, still create a basic main index page
-        # For now, just exiting.
+        logger.warning("No etudes found or registered. Nothing to generate.")
         return
 
     # 2. Ensure base output directory exists and is clean
-    if os.path.exists(output_dir_base):
-        # Be careful with this in a real project, but for a clean build it's useful
-        # shutil.rmtree(output_dir_base)
-        pass # For now, we'll just overwrite
     os.makedirs(output_dir_base, exist_ok=True)
-    print(f"Ensured base output directory exists: {output_dir_base}")
+    logger.info(f"Ensured base output directory exists: {output_dir_base}")
 
     # 3. Copy JavaScript assets
-    print("\nCopying JavaScript assets...")
+    logger.info("Copying JavaScript assets...")
     project_root = os.path.dirname(os.path.dirname(os.path.abspath(__file__))) # Project root is parent of 'trouble'
     js_src_dir = os.path.join(project_root, "trouble", "js_src")
     js_dest_dir = os.path.join(output_dir_base, "assets", "js")
@@ -50,14 +47,14 @@ def run_generation(output_dir_base="docs/"):
     core_js_dest = os.path.join(js_dest_dir, "core")
     if os.path.exists(core_js_src):
         shutil.copytree(core_js_src, core_js_dest, dirs_exist_ok=True)
-        print(f"  Copied core JS files to {core_js_dest}")
+        logger.info(f"Copied core JS files to {core_js_dest}")
 
     # Copy vendor JS files
     vendor_js_src = os.path.join(js_src_dir, "vendor")
     vendor_js_dest = os.path.join(js_dest_dir, "vendor")
     if os.path.exists(vendor_js_src):
         shutil.copytree(vendor_js_src, vendor_js_dest, dirs_exist_ok=True)
-        print(f"  Copied vendor JS files to {vendor_js_dest}")
+        logger.info(f"Copied vendor JS files to {vendor_js_dest}")
 
     # Copy etude-specific JS files and templates
     for etude in etudes_list:
@@ -65,31 +62,40 @@ def run_generation(output_dir_base="docs/"):
         if os.path.exists(etude_js_src):
             etude_js_dest = os.path.join(js_dest_dir, etude.name)
             shutil.copytree(etude_js_src, etude_js_dest, dirs_exist_ok=True)
-            print(f"  Copied JS assets for etude '{etude.name}' to {etude_js_dest}")
+            logger.info(f"Copied JS assets for etude '{etude.name}' to {etude_js_dest}")
 
     # Copy skin definitions and CSS
     skins_src_dir = os.path.join(js_src_dir, "skins")
     skins_dest_dir = os.path.join(output_dir_base, "assets", "skins")
     if os.path.exists(skins_src_dir):
         shutil.copytree(skins_src_dir, skins_dest_dir, dirs_exist_ok=True)
-        print(f"  Copied skin assets to {skins_dest_dir}")
+        logger.info(f"Copied skin assets to {skins_dest_dir}")
 
 
-    # 4. Generate content for each etude
-    print("\nGenerating HTML app shells for individual etudes...")
+    # 4. Get Build Information
+    logger.info("Gathering build information...")
+    build_timestamp = datetime.utcnow().strftime("%Y-%m-%d %H:%M:%S UTC")
+
+    build_info = {
+        "git_hash": git_hash, # Use the hash passed in from the workflow
+        "build_timestamp": build_timestamp
+    }
+
+
+    # 5. Generate content for each etude
+    logger.info("Generating HTML app shells for individual etudes...")
     for etude in etudes_list:
         etude_output_dir = os.path.join(output_dir_base, etude.name)
-        print(f"  Processing etude: {etude.name} -> {etude_output_dir}")
+        logger.info(f"Processing etude: {etude.name} -> {etude_output_dir}")
         try:
-            # The generate_content method of each etude is responsible for
-            # creating its own directory and index.html file within etude_output_dir
-            etude.generate_content(etude_output_dir, registry)
+            # Pass build info to all etudes, though only EtudeZero will use it for now
+            etude.generate_content(etude_output_dir, registry, build_info)
         except Exception as e:
-            print(f"    Error generating content for etude {etude.name}: {e}")
+            logger.error(f"Error generating content for etude {etude.name}: {e}", exc_info=True)
             # Decide if one etude failing should stop everything. For now, continue.
 
-    # 5. Generate the main index.html with tabs for etudes
-    print("\nGenerating main index.html with tabs...")
+    # 6. Generate the main index.html with tabs for etudes
+    logger.info("Generating main index.html with tabs...")
 
     # Prepare data for the main index template
     tabs_html_list = []
@@ -139,39 +145,19 @@ def run_generation(output_dir_base="docs/"):
         with open(template_path, "r") as f_template:
             main_template_str = f_template.read()
     except IOError as e:
-        print(f"  Error reading main index template ({template_path}): {e}")
+        logger.error(f"Error reading main index template ({template_path}): {e}")
         # Fallback if template is missing
         main_output_content = "<h1>Error: Main index template missing.</h1>"
     else:
         main_tmpl = Template(main_template_str)
-        # Use safe_substitute for robustness
         main_output_content = main_tmpl.safe_substitute(main_index_template_data)
 
     main_index_file_path = os.path.join(output_dir_base, "index.html")
     try:
         with open(main_index_file_path, "w") as f:
             f.write(main_output_content)
-        print(f"  Generated main index.html at: {main_index_file_path}")
+        logger.info(f"Generated main index.html at: {main_index_file_path}")
     except IOError as e:
-        print(f"  Error writing main index.html: {e}")
+        logger.error(f"Error writing main index.html: {e}")
 
-    print("\nGeneration process finished.")
-
-if __name__ == "__main__":
-    # This allows testing generator.py directly.
-    # It will generate files into a 'docs' directory in the current working directory.
-    print("Running generator.py directly for testing...")
-
-    # To ensure etudes are found, we need to be in a context where 'trouble.etudes' is importable.
-    # Typically, this means running from the project root or having the project in PYTHONPATH.
-    # For direct execution from `trouble/` directory:
-    # Add project root to sys.path if not already there (e.g. if running `python generator.py` from `trouble/`)
-    import sys
-    project_root = os.path.dirname(os.path.dirname(os.path.abspath(__file__))) # Up two levels to project root
-    if project_root not in sys.path:
-        sys.path.insert(0, project_root)
-        print(f"Added {project_root} to sys.path for module discovery.")
-
-    # Now 'trouble.etudes' should be discoverable by EtudeRegistry
-    run_generation()
-    print("Direct test run complete. Check the 'docs' directory.")
+    logger.info("Generation process finished.")
