@@ -25,7 +25,11 @@ def setup_logging():
     # File Handler
     # 'w' mode to overwrite the log file for each run.
     try:
-        file_handler = logging.FileHandler(LOG_FILE_PATH, mode='w')
+        # Open in 'w' mode to clear it, then write a space to ensure it's not empty
+        with open(LOG_FILE_PATH, 'w') as f:
+            f.write(' ')
+
+        file_handler = logging.FileHandler(LOG_FILE_PATH, mode='a') # Append from now on
         file_handler.setLevel(logging.INFO)
         file_handler.setFormatter(formatter)
         logger.addHandler(file_handler)
