@@ -56,6 +56,11 @@
     <h2>Registered Etude Details (at build time):</h2>
     ${etudes_table_html}
 
+    <h2>JavaScript Log</h2>
+    <div id="js-logging-panel" style="height: 200px; overflow-y: scroll; border: 1px solid #ccc; padding: 10px; background-color: #f5f5f5; margin-top: 20px;">
+        <p class="placeholder">JavaScript logging will appear here...</p>
+    </div>
+
     <!-- Status Footer -->
     <div id="etude_status_footer" class="status-footer">Initializing...</div>
 

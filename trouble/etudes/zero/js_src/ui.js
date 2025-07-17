@@ -7,6 +7,7 @@
 import { getLatestEtudeData } from '/assets/js/core/data_fetcher.js';
 import { setHtml, updateStatusFooter } from '/assets/js/core/ui_updater.js';
 import { SkinContextFactory, SkinManager } from '/assets/js/core/skin_manager.js';
+import { Logger } from './logger.js';
 import { shadeDay, shadeNight } from '/assets/skins/shade.js';
 import { sunMorning, sunAfternoon, sunEvening, sunNight } from '/assets/skins/sun.js';
 import { defaultSkin } from '/assets/skins/default.js';
@@ -85,19 +86,24 @@ function escapeHtml(unsafe) {
  * Main function to orchestrate data fetching and rendering for Etude Zero.
  */
 async function main() {
+    const logger = new Logger('js-logging-panel');
+    logger.log('Main function started.');
     updateStatusFooter('Initializing...', 'loading');
 
     // 1. Set up Skin Manager
     const skinManager = new SkinManager();
     [shadeDay, shadeNight, sunMorning, sunAfternoon, sunEvening, sunNight, defaultSkin].forEach(s => skinManager.registerSkin(s));
+    logger.log('Skin manager initialized and skins registered.');
 
     // 2. Determine Context and Apply Skin
     const contextFactory = new SkinContextFactory();
     const context = contextFactory.buildContext(['etude:zero']);
     const bestSkin = skinManager.findBestSkin(context);
     skinManager.applySkinCss(bestSkin);
+    logger.log(`Best skin '${bestSkin.name}' applied.`);
 
     updateStatusFooter('Fetching latest daily data and template...', 'loading');
+    logger.log('Fetching template and latest data...');
 
     try {
         // 3. Fetch template and data in parallel
@@ -105,22 +111,29 @@ async function main() {
             getTemplate(),
             getLatestEtudeData(REPO_OWNER, REPO_NAME)
         ]);
+        logger.log('Successfully fetched template and data response.');
 
         // 4. Render content
         if (result.status === 'success') {
             updateStatusFooter(`Skin: ${bestSkin.name} | Data: ${result.version_tag}`, 'success');
             renderAllEtudesStatus(template, result.data, bestSkin);
+            logger.log(`Rendered data for version: ${result.version_tag}`);
         } else if (result.status === 'not_found') {
             updateStatusFooter('No recent data found.', 'warning');
-            setHtml('daily-status-container', `<p class="placeholder">No recent daily status data could be found. Please check back later.</p>`);
+            const msg = 'No recent daily status data could be found. Please check back later.';
+            setHtml('daily-status-container', `<p class="placeholder">${msg}</p>`);
+            logger.warn(msg);
         } else { // 'error'
             updateStatusFooter(`Error: ${result.message}`, 'error');
-            setHtml('daily-status-container', `<p class="placeholder" style="color: red;">Could not load daily status overview. ${result.message}</p>`);
+            const msg = `Could not load daily status overview. ${result.message}`;
+            setHtml('daily-status-container', `<p class="placeholder" style="color: red;">${msg}</p>`);
+            logger.error(msg);
         }
     } catch (error) {
         console.error("Failed to initialize Etude Zero:", error);
+        logger.error(`An unexpected error occurred: ${error.message}`);
         updateStatusFooter(`Error: ${error.message}`, 'error');
-        setHtml('daily-status-container', `<p class="placeholder" style="color: red;">An unexpected error occurred during initialization.</p>`);
+        setHtml('daily-status-container', `<p class="placeholder" style="color: red;">An unexpected error occurred during initialization. See JS console or log panel for details.</p>`);
     }
 }
 
