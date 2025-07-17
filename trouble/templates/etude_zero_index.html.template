@@ -71,8 +71,9 @@
     </script>
 
     <!-- Load our application modules -->
-    <script type="module" src="/assets/js/core/data_fetcher.js"></script>
-    <script type="module" src="/assets/js/core/ui_updater.js"></script>
-    <script type="module" src="/assets/js/${etude_name}/ui.js"></script>
+    <script type="module" src="/assets/js/core/data_fetcher.js" async defer></script>
+    <script type="module" src="/assets/js/core/ui_updater.js" async defer></script>
+    <script type="module" src="/assets/js/zero/logger.js" async defer></script>
+    <script type="module" src="/assets/js/${etude_name}/ui.js" async defer></script>
 </body>
 </html>
