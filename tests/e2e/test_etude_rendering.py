@@ -34,7 +34,7 @@ def test_etude_one_renders_success_scenario(page: Page, live_server: str, mock_d
     page.goto(etude_one_url, wait_until="domcontentloaded")
 
     # Inject the mock data URL into the page
-    page.evaluate(f"window.MOCK_DATA_URL = '/{mock_data_path.name}'")
+    page.evaluate(f"window.MOCK_DATA_URL = '/mock_data/{mock_data_path.name}'")
 
     # Reload the page to ensure the mock data is used
     page.reload()
@@ -78,7 +78,7 @@ def test_etude_zero_renders_status_table(page: Page, live_server: str, mock_data
     page.goto(etude_zero_url, wait_until="domcontentloaded")
 
     # Inject the mock data URL into the page
-    page.evaluate(f"window.MOCK_DATA_URL = '/{mock_data_path.name}'")
+    page.evaluate(f"window.MOCK_DATA_URL = '/mock_data/{mock_data_path.name}'")
 
     # Reload the page to ensure the mock data is used
     page.reload()
@@ -123,7 +123,7 @@ def test_etude_one_handles_no_data_scenario(page: Page, live_server: str):
     page.goto(etude_one_url, wait_until="domcontentloaded")
 
     # Inject the mock data URL for a 'not_found' scenario
-    page.evaluate("window.MOCK_DATA_URL = '/mock_data_not_found.json'")
+    page.evaluate("window.MOCK_DATA_URL = '/mock_data/mock_data_not_found.json'")
 
     # Reload the page to ensure the mock data is used
     page.reload()
