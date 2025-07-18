@@ -39,37 +39,36 @@ def static_site_path(project_root: Path) -> Path:
     return docs_path
 
 @pytest.fixture(scope="session")
-def live_server(static_site_path: Path, tmp_path_factory: pytest.TempPathFactory):
+def live_server(static_site_path: Path):
     """
-    A fixture that serves the generated static site and the mock data
-    on a local server for the entire test session.
+    A fixture that serves the generated static site on a local server
+    for the entire test session.
     """
-    # Create a temporary directory to serve the mock data from
-    mock_data_dir = tmp_path_factory.mktemp("mock_data")
+    Handler = http.server.SimpleHTTPRequestHandler
 
-    class MultiDirHTTPRequestHandler(http.server.SimpleHTTPRequestHandler):
-        def translate_path(self, path):
-            # If the path starts with '/mock_data', serve from the mock_data_dir
-            if path.startswith("/mock_data"):
-                return os.path.join(mock_data_dir, path[1:])
-            # Otherwise, serve from the static_site_path
-            return super().translate_path(path)
+    # We need to change directory so the handler serves from 'docs'
+    # but we must do it in a thread-safe way.
+    class CWD_Handler(Handler):
+        def __init__(self, *args, **kwargs):
+            # The directory is passed to the server, so we don't need to os.chdir
+            super().__init__(*args, **kwargs)
 
-    with socketserver.TCPServer(("", PORT), MultiDirHTTPRequestHandler) as httpd:
-        print(f"\nServing static site from '{static_site_path}' and mock data from '{mock_data_dir}' at http://localhost:{PORT}")
+    # Use socketserver to handle requests in a separate thread
+    with socketserver.TCPServer(("", PORT), lambda *args, **kwargs: CWD_Handler(*args, directory=str(static_site_path), **kwargs)) as httpd:
+        print(f"\nServing static site from '{static_site_path}' at http://localhost:{PORT}")
 
         server_thread = threading.Thread(target=httpd.serve_forever)
-        server_thread.daemon = True
+        server_thread.daemon = True # Allow main thread to exit even if server is running
         server_thread.start()
 
-        yield f"http://localhost:{PORT}"
+        yield f"http://localhost:{PORT}" # Yield the base URL to the tests
 
         print(f"\nShutting down live server at http://localhost:{PORT}")
         httpd.shutdown()
         server_thread.join()
 
 @pytest.fixture(scope="function")
-def mock_data_path(request, live_server, project_root: Path) -> Path:
+def mock_data_path(request, static_site_path: Path, project_root: Path) -> Path:
     """
     A fixture that generates a mock data JSON file for a given scenario
     and returns the path to it.
@@ -77,9 +76,7 @@ def mock_data_path(request, live_server, project_root: Path) -> Path:
     """
     scenario = request.param
     # The mock data needs to be created in the directory served by the live_server
-    mock_data_dir = project_root / "docs" / "mock_data"
-    mock_data_dir.mkdir(exist_ok=True)
-    output_file = mock_data_dir / f"mock_data_{scenario}.json"
+    output_file = static_site_path / f"mock_data_{scenario}.json"
 
 
     print(f"Generating mock data for scenario: '{scenario}' into {output_file}")
