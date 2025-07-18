@@ -15,9 +15,23 @@
  * - { status: 'error', message: string }
  */
 export async function getLatestEtudeData(owner, repo) {
-    if (window.MOCK_DATA) {
-        console.log("Using mock data for getLatestEtudeData");
-        return window.MOCK_DATA;
+    if (window.MOCK_DATA_URL) {
+        console.log(`Using mock data from URL: ${window.MOCK_DATA_URL}`);
+        try {
+            const response = await fetch(window.MOCK_DATA_URL);
+            if (!response.ok) {
+                throw new Error(`Failed to fetch mock data: ${response.status}`);
+            }
+            const data = await response.json();
+            return {
+                status: 'success',
+                data: data,
+                version_tag: 'mock_data'
+            };
+        } catch (error) {
+            console.error("Error fetching mock data:", error);
+            return { status: 'error', message: error.message };
+        }
     }
 
     const url = `https://api.github.com/repos/${owner}/${repo}/releases/latest`;
