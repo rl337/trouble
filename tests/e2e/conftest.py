@@ -68,15 +68,16 @@ def live_server(static_site_path: Path):
         server_thread.join()
 
 @pytest.fixture(scope="function")
-def mock_data_path(request, tmp_path: Path, project_root: Path) -> Path:
+def mock_data_path(request, static_site_path: Path, project_root: Path) -> Path:
     """
     A fixture that generates a mock data JSON file for a given scenario
     and returns the path to it.
     `request.param` will hold the scenario name string.
     """
     scenario = request.param
-    # Use the pytest tmp_path fixture for temporary files
-    output_file = tmp_path / f"mock_data_{scenario}.json"
+    # The mock data needs to be created in the directory served by the live_server
+    output_file = static_site_path / f"mock_data_{scenario}.json"
+
 
     print(f"Generating mock data for scenario: '{scenario}' into {output_file}")
 
