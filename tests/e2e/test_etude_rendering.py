@@ -29,7 +29,25 @@ def test_etude_one_renders_success_scenario(page: Page, live_server: str, mock_d
         )
 
     # Set up the network interception
-    page.route(API_URL_PATTERN, handle_route)
+    def handle_github_api(route: Route, request: Request):
+        """Intercept the GitHub API call for the latest release."""
+        mock_release = {
+            "tag_name": "data-2024-01-01",
+            "assets": [
+                {
+                    "name": "daily_etude_data.json",
+                    "browser_download_url": f"{live_server}/mock_data_success.json"
+                }
+            ]
+        }
+        route.fulfill(status=200, content_type="application/json", body=json.dumps(mock_release))
+
+    def handle_mock_data(route: Route, request: Request):
+        """Serve the mock data file."""
+        route.fulfill(status=200, content_type="application/json", body=mock_data_content)
+
+    page.route(f"https://api.github.com/repos/{REPO_OWNER}/{REPO_NAME}/releases/latest", handle_github_api)
+    page.route(f"{live_server}/mock_data_success.json", handle_mock_data)
 
     # Navigate to the Etude One page on the live server
     etude_one_url = f"{live_server}/one/index.html"
@@ -71,7 +89,25 @@ def test_etude_zero_renders_status_table(page: Page, live_server: str, mock_data
     def handle_route(route: Route, request: Request):
         route.fulfill(status=200, content_type="application/json", body=mock_data_content)
 
-    page.route(API_URL_PATTERN, handle_route)
+    def handle_github_api(route: Route, request: Request):
+        """Intercept the GitHub API call for the latest release."""
+        mock_release = {
+            "tag_name": "data-2024-01-01",
+            "assets": [
+                {
+                    "name": "daily_etude_data.json",
+                    "browser_download_url": f"{live_server}/mock_data_success.json"
+                }
+            ]
+        }
+        route.fulfill(status=200, content_type="application/json", body=json.dumps(mock_release))
+
+    def handle_mock_data(route: Route, request: Request):
+        """Serve the mock data file."""
+        route.fulfill(status=200, content_type="application/json", body=mock_data_content)
+
+    page.route(f"https://api.github.com/repos/{REPO_OWNER}/{REPO_NAME}/releases/latest", handle_github_api)
+    page.route(f"{live_server}/mock_data_success.json", handle_mock_data)
 
     etude_zero_url = f"{live_server}/zero/index.html"
     page.goto(etude_zero_url)
@@ -113,7 +149,7 @@ def test_etude_one_handles_no_data_scenario(page: Page, live_server: str):
         )
 
     # Intercept all attempts to fetch a release and return 404
-    page.route(API_URL_PATTERN, handle_route_404)
+    page.route(f"https://api.github.com/repos/{REPO_OWNER}/{REPO_NAME}/releases/latest", handle_route_404)
 
     etude_one_url = f"{live_server}/one/index.html"
     page.goto(etude_one_url)
