@@ -28,16 +28,13 @@ def test_etude_one_renders_success_scenario(page: Page, live_server: str, mock_d
             body=mock_data_content
         )
 
+    # Set up the network interception
+    page.route(API_URL_PATTERN, handle_route)
+
     # Navigate to the Etude One page on the live server
     etude_one_url = f"{live_server}/one/index.html"
     print(f"Navigating to {etude_one_url}")
-    page.goto(etude_one_url, wait_until="domcontentloaded")
-
-    # Inject the mock data URL into the page
-    page.evaluate(f"window.MOCK_DATA_URL = '{mock_data_path.name}'")
-
-    # Reload the page to ensure the mock data is used
-    page.reload()
+    page.goto(etude_one_url)
 
     # --- Assertions ---
 
@@ -74,14 +71,10 @@ def test_etude_zero_renders_status_table(page: Page, live_server: str, mock_data
     def handle_route(route: Route, request: Request):
         route.fulfill(status=200, content_type="application/json", body=mock_data_content)
 
+    page.route(API_URL_PATTERN, handle_route)
+
     etude_zero_url = f"{live_server}/zero/index.html"
-    page.goto(etude_zero_url, wait_until="domcontentloaded")
-
-    # Inject the mock data URL into the page
-    page.evaluate(f"window.MOCK_DATA_URL = '{mock_data_path.name}'")
-
-    # Reload the page to ensure the mock data is used
-    page.reload()
+    page.goto(etude_zero_url)
 
     # --- Assertions ---
     status_footer = page.locator("#etude_status_footer")
@@ -119,14 +112,11 @@ def test_etude_one_handles_no_data_scenario(page: Page, live_server: str):
             body='{"message": "Not Found"}'
         )
 
+    # Intercept all attempts to fetch a release and return 404
+    page.route(API_URL_PATTERN, handle_route_404)
+
     etude_one_url = f"{live_server}/one/index.html"
-    page.goto(etude_one_url, wait_until="domcontentloaded")
-
-    # Inject the mock data URL for a 'not_found' scenario
-    page.evaluate("window.MOCK_DATA_URL = 'mock_data_not_found.json'")
-
-    # Reload the page to ensure the mock data is used
-    page.reload()
+    page.goto(etude_one_url)
 
     # --- Assertions ---
 
