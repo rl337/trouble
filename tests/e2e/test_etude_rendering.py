@@ -2,6 +2,7 @@ import pytest
 from playwright.sync_api import Page, expect, Route, Request
 from pathlib import Path
 import re
+import json
 
 # Define the direct download URL pattern to intercept.
 # This should match the URL constructed in data_fetcher.js
