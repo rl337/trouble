@@ -32,16 +32,11 @@ def test_etude_one_renders_success_scenario(page: Page, live_server: str, mock_d
     # Set up the network interception
     def handle_github_api(route: Route, request: Request):
         """Intercept the GitHub API call for the latest release."""
-        mock_release = {
-            "tag_name": "data-2024-01-01",
-            "assets": [
-                {
-                    "name": "daily_etude_data.json",
-                    "browser_download_url": f"{live_server}/mock_data_success.json"
-                }
-            ]
-        }
-        route.fulfill(status=200, content_type="application/json", body=json.dumps(mock_release))
+        route.fulfill(
+            status=200,
+            content_type="application/json",
+            body='{"tag_name": "data-2024-01-01", "assets": [{"name": "daily_etude_data.json", "browser_download_url": "' + f"{live_server}/mock_data_success.json" + '"}]}'
+        )
 
     def handle_mock_data(route: Route, request: Request):
         """Serve the mock data file."""
@@ -92,16 +87,11 @@ def test_etude_zero_renders_status_table(page: Page, live_server: str, mock_data
 
     def handle_github_api(route: Route, request: Request):
         """Intercept the GitHub API call for the latest release."""
-        mock_release = {
-            "tag_name": "data-2024-01-01",
-            "assets": [
-                {
-                    "name": "daily_etude_data.json",
-                    "browser_download_url": f"{live_server}/mock_data_success.json"
-                }
-            ]
-        }
-        route.fulfill(status=200, content_type="application/json", body=json.dumps(mock_release))
+        route.fulfill(
+            status=200,
+            content_type="application/json",
+            body='{"tag_name": "data-2024-01-01", "assets": [{"name": "daily_etude_data.json", "browser_download_url": "' + f"{live_server}/mock_data_success.json" + '"}]}'
+        )
 
     def handle_mock_data(route: Route, request: Request):
         """Serve the mock data file."""
