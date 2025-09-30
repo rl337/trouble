@@ -77,6 +77,24 @@ def execute_daily_etude_tasks(registry: EtudeRegistry) -> Dict[str, Dict]:
                 etude_data_dict[resource_name] = None
                 num_failed_fetches += 1
 
+        # Allow etude to contribute derived data and logs using a lifecycle hook
+        try:
+            extra_data, contribution_logs = etude.contribute_daily_payload(registry, etude_data_dict)
+            if extra_data:
+                # Avoid overwriting existing resource keys
+                for k, v in extra_data.items():
+                    if k in etude_data_dict:
+                        etude_actions_log.append(f"Contribution key '{k}' skipped to avoid overwriting resource data.")
+                    else:
+                        etude_data_dict[k] = v
+                if extra_data:
+                    etude_actions_log.append(f"Added {len(extra_data)} contribution keys to daily payload.")
+            if contribution_logs:
+                etude_actions_log.extend(contribution_logs)
+        except Exception as e:
+            logger.error(f"Error in contribute_daily_payload for etude '{etude.name}': {e}")
+            etude_actions_log.append(f"Error in contribute_daily_payload: {e}")
+
         if num_failed_fetches > 0:
             if num_successful_fetches > 0:
                 overall_etude_status = EtudeDailyStatus.PARTIAL_SUCCESS

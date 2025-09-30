@@ -55,7 +55,7 @@ def handle_github_actions(args):
         from datetime import datetime
         from .release_manager import ReleaseManager
 
-        manager = ReleaseManager(prefix="data-daily-")
+        manager = ReleaseManager(prefix="data-")
         try:
             info = manager.get_release_info(datetime.utcnow())
             # This command's primary output is the JSON data for the workflow.
