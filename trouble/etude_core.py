@@ -73,6 +73,24 @@ class Etude(abc.ABC):
         """
         return []
 
+    def contribute_daily_payload(self, registry: 'EtudeRegistry', fetched_resources: Dict[str, object]) -> Tuple[Dict[str, object], List[str]]:
+        """
+        Optional lifecycle hook allowing an etude to contribute derived data and logs
+        based on the resources fetched during the daily run.
+
+        Args:
+            registry: The EtudeRegistry instance for cross-etude access if needed.
+            fetched_resources: A dict of resource_name -> value (may include None for failed fetches).
+
+        Returns:
+            A tuple of (additional_data, contribution_logs) where:
+            - additional_data merges into the etude's daily data payload (keys should not collide with resource names).
+            - contribution_logs are appended to the actions_log for transparency.
+
+        Default implementation returns no additional data and no logs.
+        """
+        return {}, []
+
     def __repr__(self) -> str:
         return f"<Etude(name='{self.name}')>"
 
