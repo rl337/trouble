@@ -16,7 +16,7 @@ class ReleaseManager:
     # We expect 'prefix-YYYY-MM-DD'.
     VALID_TAG_REGEX = re.compile(r"^[a-zA-Z0-9_./-]+$")
 
-    def __init__(self, prefix: str = "data-daily-"):
+    def __init__(self, prefix: str = "data-"):
         if not prefix or not self.is_valid_prefix(prefix):
             raise ValueError(f"Invalid prefix '{prefix}'. Prefix must be simple and contain no invalid tag characters.")
         self.prefix = prefix

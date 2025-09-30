@@ -121,10 +121,10 @@ jobs:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GH_REPO: ${{ github.repository }}
         run: |
-          # List all releases with the 'data-daily-' prefix, sorted by creation date
+          # List all releases with the 'data-' prefix, sorted by creation date
           # Then, skip the most recent 7 and feed the rest to the delete command.
           gh release list --repo "$GH_REPO" --limit 100 | \
-          grep "data-daily-" | \
+          grep "data-" | \
           sort -r | \
           awk 'NR > 7' | \
           cut -f1 | \
