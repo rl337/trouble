@@ -7,7 +7,7 @@ import { BaseSkin } from './base_skin.js';
 export const sunMorning = new BaseSkin({
     name: 'sun_morning',
     tags: ['time_of_day:morning'],
-    css_file: '/assets/skins/css/sun.css',
+    css_file: '../assets/skins/css/sun.css',
     widget_classes: {
         title: 'sun-title-morning',
         body: 'sun-body-morning',
@@ -18,7 +18,7 @@ export const sunMorning = new BaseSkin({
 export const sunAfternoon = new BaseSkin({
     name: 'sun_afternoon',
     tags: ['time_of_day:afternoon'],
-    css_file: '/assets/skins/css/sun.css',
+    css_file: '../assets/skins/css/sun.css',
     widget_classes: {
         title: 'sun-title-afternoon',
         body: 'sun-body-afternoon',
@@ -32,7 +32,7 @@ export const sunAfternoon = new BaseSkin({
 export const sunEvening = new BaseSkin({
     name: 'sun_evening',
     tags: ['time_of_day:evening'],
-    css_file: '/assets/skins/css/sun.css',
+    css_file: '../assets/skins/css/sun.css',
     widget_classes: {
         title: 'sun-title-evening',
         body: 'sun-body-evening',
@@ -44,7 +44,7 @@ export const sunEvening = new BaseSkin({
 export const sunNight = new BaseSkin({
     name: 'sun_night',
     tags: ['time_of_day:night'],
-    css_file: '/assets/skins/css/sun.css',
+    css_file: '../assets/skins/css/sun.css',
     widget_classes: {
         title: 'sun-title-night',
         body: 'sun-body-night',

@@ -5,7 +5,7 @@ import { BaseSkin } from './base_skin.js';
 export const defaultSkin = new BaseSkin({
     name: 'default',
     tags: [],
-    css_file: '/assets/skins/css/default.css',
+    css_file: '../assets/skins/css/default.css',
     // It can rely on the default widget classes from BaseSkin,
     // or define its own if needed.
     widget_classes: {

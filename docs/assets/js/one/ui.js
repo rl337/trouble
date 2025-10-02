@@ -5,12 +5,12 @@
 
 // Note: The paths are relative to the final location in the 'docs' directory.
 // We use absolute paths from the site root to ensure they resolve correctly.
-import { getLatestEtudeData } from '/assets/js/core/data_fetcher.js';
-import { setHtml, updateStatusFooter } from '/assets/js/core/ui_updater.js';
-import { SkinContextFactory, SkinManager } from '/assets/js/core/skin_manager.js';
-import { shadeDay, shadeNight } from '/assets/skins/shade.js';
-import { sunMorning, sunAfternoon, sunEvening, sunNight } from '/assets/skins/sun.js';
-import { defaultSkin } from '/assets/skins/default.js';
+import { getLatestEtudeData } from '../core/data_fetcher.js';
+import { setHtml, updateStatusFooter } from '../core/ui_updater.js';
+import { SkinContextFactory, SkinManager } from '../core/skin_manager.js';
+import { shadeDay, shadeNight } from '../../skins/shade.js';
+import { sunMorning, sunAfternoon, sunEvening, sunNight } from '../../skins/sun.js';
+import { defaultSkin } from '../../skins/default.js';
 
 // --- CONFIGURATION ---
 // These should be replaced by your actual GitHub repo details.
@@ -26,7 +26,7 @@ const REPO_NAME = 'test-1';
  */
 async function getTemplate() {
     // Use an absolute path from the site root to fetch the template
-    const response = await fetch('/assets/js/one/templates/content.mustache');
+    const response = await fetch('../assets/js/one/templates/content.mustache');
     if (!response.ok) {
         throw new Error('Failed to fetch content.mustache template');
     }
