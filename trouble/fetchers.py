@@ -1,7 +1,7 @@
 import abc
 import requests
 import json
-from typing import NamedTuple, Optional, List, Dict, Any, Tuple
+from typing import NamedTuple, Optional, List, Dict, Any, Tuple, Callable
 from enum import Enum
 
 class EtudeDailyStatus(Enum):
@@ -63,6 +63,27 @@ class URLFetcher(Fetcher):
             return False, None, f"Request error when fetching {self.url}: {e}"
         except Exception as e: # Catch any other unexpected error during fetch
             return False, None, f"Unexpected error fetching {self.url}: {e}"
+
+class TransformingURLFetcher(URLFetcher):
+    """Fetches data from a URL and applies a JSON transform before returning.
+
+    The transform function should accept the parsed JSON (or text) returned by
+    URLFetcher and return the transformed value that matches the expected schema.
+    If the transform raises, the fetch is considered failed.
+    """
+    def __init__(self, url: str, schema: Dict[str, Any], transform: Callable[[Any], Any], timeout: int = 10):
+        super().__init__(url=url, schema=schema, timeout=timeout)
+        self.transform = transform
+
+    def fetch(self) -> Tuple[bool, Any, Optional[str]]:
+        success, data, error_message = super().fetch()
+        if not success:
+            return success, data, error_message
+        try:
+            transformed = self.transform(data)
+            return True, transformed, None
+        except Exception as e:
+            return False, None, f"Error transforming data from {self.url}: {e}"
 
 class StaticFetcher(Fetcher):
     """Returns predefined static data."""

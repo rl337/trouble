@@ -2,7 +2,7 @@ import os
 from string import Template
 from typing import List, Tuple # For type hinting
 from trouble.etude_core import Etude, EtudeRegistry
-from trouble.fetchers import Fetcher, URLFetcher, StaticFetcher
+from trouble.fetchers import Fetcher, URLFetcher, StaticFetcher, TransformingURLFetcher
 from trouble.log_config import get_logger
 
 logger = get_logger(__name__)
@@ -48,8 +48,19 @@ class EtudeOne(Etude):
             "required": ["id", "title", "completed"]
         }
 
+        def _map_dummyjson_quote(payload: dict) -> dict:
+            # dummyjson.com/quotes/random returns { "id": 123, "quote": "...", "author": "..." }
+            # We map it to our expected { "content": "...", "author": "..." }
+            if isinstance(payload, dict) and "quote" in payload and "author" in payload:
+                return {"content": payload.get("quote", ""), "author": payload.get("author", "")}
+            # Some endpoints may return {"quotes": [ ... ]}
+            if isinstance(payload, dict) and "quotes" in payload and isinstance(payload["quotes"], list) and payload["quotes"]:
+                first = payload["quotes"][0]
+                return {"content": first.get("quote", ""), "author": first.get("author", "")}
+            raise ValueError("Unexpected quote payload shape")
+
         resources = [
-            ("random_quote", URLFetcher("https://api.quotable.io/random", schema=quote_schema)),
+            ("random_quote", TransformingURLFetcher("https://dummyjson.com/quotes/random", schema=quote_schema, transform=_map_dummyjson_quote)),
             ("sample_todo", URLFetcher("https://jsonplaceholder.typicode.com/todos/1", schema=todo_schema)),
             ("static_info", StaticFetcher({"version": "1.0", "status": "active for etude one", "message": "This is static data defined in EtudeOne."})) # Schema will be inferred
         ]
