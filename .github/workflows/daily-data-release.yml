@@ -121,17 +121,22 @@ jobs:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GH_REPO: ${{ github.repository }}
         run: |
-          # List all releases with the 'data-' prefix, sorted by creation date
-          # Then, skip the most recent 7 and feed the rest to the delete command.
-          gh release list --repo "$GH_REPO" --limit 100 | \
-          grep "data-" | \
-          sort -r | \
-          awk 'NR > 7' | \
-          cut -f1 | \
+          set -euo pipefail
+          DATA_PREFIX="data-daily-"
+          echo "Finding data releases with prefix '${DATA_PREFIX}' to prune (keeping latest 7)..."
+          gh release list --repo "$GH_REPO" --limit 100 --json tagName,name,createdAt,publishedAt | \
+          jq -r --arg prefix "$DATA_PREFIX" '[.[] | select(.tagName|startswith($prefix))] | sort_by(.publishedAt // .createdAt // "") | reverse | .[7:] | .[].tagName' | \
           while read -r tag; do
+            if [ -z "$tag" ]; then
+              continue
+            fi
             echo "Deleting release and tag: $tag"
-            gh release delete "$tag" --repo "$GH_REPO" --yes --cleanup-tag
+            if ! gh release delete "$tag" --repo "$GH_REPO" --yes --cleanup-tag; then
+              echo "Release deletion failed for $tag. Attempting to delete tag ref only..."
+              gh api --method DELETE "repos/$GH_REPO/git/refs/tags/$tag" || echo "Tag ref deletion failed for $tag"
+            fi
           done
+          echo "Prune complete."
 
 # Notes for user:
 # 1. GITHUB_TOKEN: The default GITHUB_TOKEN has permissions to create releases in the same repository.
