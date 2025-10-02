@@ -10,7 +10,7 @@ const shadeDayClasses = {
 export const shadeDay = new BaseSkin({
     name: 'shade_day',
     tags: ['day_period:day'],
-    css_file: '/assets/skins/css/shade.css',
+    css_file: '../assets/skins/css/shade.css',
     widget_classes: shadeDayClasses,
 });
 
@@ -25,6 +25,6 @@ const shadeNightClasses = {
 export const shadeNight = new BaseSkin({
     name: 'shade_night',
     tags: ['day_period:night'],
-    css_file: '/assets/skins/css/shade.css',
+    css_file: '../assets/skins/css/shade.css',
     widget_classes: shadeNightClasses,
 });
