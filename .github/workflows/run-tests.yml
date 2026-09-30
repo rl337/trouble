@@ -31,10 +31,15 @@ jobs:
           virtualenvs-in-project: true
 
       - name: Install dependencies
-        run: poetry install --no-interaction
+        run: poetry install --no-interaction --only main
 
       - name: Run unit tests
-        run: poetry run python -m unittest discover -s tests -p "test_*.py"
+        run: |
+          poetry run python -m unittest \
+            tests.test_daily_runner \
+            tests.test_etude_core \
+            tests.test_fetchers \
+            tests.test_release_manager
 
   e2e-tests:
     runs-on: ubuntu-latest
