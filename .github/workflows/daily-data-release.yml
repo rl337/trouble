@@ -34,15 +34,16 @@ jobs:
           virtualenvs-in-project: true
 
       - name: Install dependencies
-        run: poetry install --no-interaction --no-root
+        run: poetry install --no-interaction
 
       - name: Run daily data fetching tasks
         id: daily_run
         run: |
+          set -euo pipefail
           echo "Running trouble daily script with poetry..."
           # Execute the script and capture its JSON output.
           # The script prints JSON between specific markers.
-          OUTPUT_JSON=$(poetry run trouble daily)
+          OUTPUT_JSON=$(poetry run python -m trouble daily)
 
           # Extract JSON content between markers
           # This assumes your script prints "--- Daily Tasks Output JSON Start ---"
@@ -74,7 +75,9 @@ jobs:
       - name: Get Release Info
         id: get_release_info
         run: |
-          RELEASE_INFO_JSON=$(poetry run trouble github-actions create-release-info)
+          set -euo pipefail
+          RELEASE_INFO_JSON=$(poetry run python -m trouble github-actions create-release-info)
+          echo "$RELEASE_INFO_JSON" | python -m json.tool > /dev/null
           echo "RELEASE_INFO_JSON<<EOF" >> $GITHUB_OUTPUT
           echo "$RELEASE_INFO_JSON" >> $GITHUB_OUTPUT
           echo "EOF" >> $GITHUB_OUTPUT
@@ -123,7 +126,7 @@ jobs:
           GH_REPO: ${{ github.repository }}
         run: |
           set -euo pipefail
-          DATA_PREFIX="data-daily-"
+          DATA_PREFIX="data-"
           echo "Finding data releases with prefix '${DATA_PREFIX}' to prune (keeping latest 7)..."
           gh release list --repo "$GH_REPO" --limit 100 --json tagName,name,createdAt,publishedAt | \
           jq -r --arg prefix "$DATA_PREFIX" '[.[] | select(.tagName|startswith($prefix))] | sort_by(.publishedAt // .createdAt // "") | reverse | .[7:] | .[].tagName' | \
