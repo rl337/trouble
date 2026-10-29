@@ -1,0 +1,24 @@
+# Canonical topic categories for curated posts.
+# Post JSON must use slugs from this list in `topics`.
+topics:
+  - slug: local-models
+    title: Local reasoning models
+    description: >
+      New models for local inference on an NVIDIA DGX Spark, especially ~30B-class
+      reasoning models (like Qwen3 30B Thinking) and the largest single-model reasoning
+      tier that fits alone (like Nemotron Super 120B), plus other agent-friendly models.
+
+  - slug: harness-dev
+    title: Harnesses and agentic coding
+    description: >
+      Agent harness development, agentic coding inspiration, agent skills and rules.
+
+  - slug: agentic-media
+    title: Agentic media production
+    description: >
+      Agent-driven video, animation, and 3D modeling.
+
+  - slug: agentic-cognition
+    title: Agentic creativity and cognition
+    description: >
+      Agentic creativity, problem solving, and cognition.

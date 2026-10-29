@@ -6,9 +6,6 @@ __pycache__/
 # Virtual environments
 .venv/
 
-# Logs
-trouble.log
-
 # OS / Editor
 .DS_Store
 *.swp
@@ -21,12 +18,12 @@ build/
 dist/
 *.egg-info/
 
-# Node artifacts (if any)
-node_modules/
+# Sphinx / site build
+.build/
 
 # Coverage
 .coverage
 htmlcov/
 
-# Playwright
-playwright/.cache/
+# Legacy (removed project)
+trouble.log

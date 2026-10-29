@@ -1,0 +1,35 @@
+{
+  "id": "9990001112223334444",
+  "permalink": "https://x.com/example_dev/status/9990001112223334444",
+  "author": {
+    "name": "Example Dev (fixture)",
+    "handle": "@example_dev_fixture",
+    "profile_url": "https://x.com/example_dev_fixture"
+  },
+  "posted_at": "2026-03-25T14:22:00Z",
+  "collected_at": "2026-03-25T18:00:00Z",
+  "thread": [
+    {
+      "id": "9990001112223334445",
+      "permalink": "https://x.com/example_dev/status/9990001112223334445",
+      "posted_at": "2026-03-25T14:28:00Z",
+      "position": 1
+    }
+  ],
+  "summary_md": "**Example Dev (@example_dev_fixture)** describes running a ~30B reasoning model locally on a DGX Spark-class box, comparing latency against a cloud API. In a follow-up they note batching tricks that keep VRAM under the single-GPU cap.\n\n*(Paraphrased summary for tests — not verbatim post text.)*",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/example-org/local-reasoning-bench",
+      "title": "example-org/local-reasoning-bench (fixture)",
+      "from_post": "9990001112223334444"
+    },
+    {
+      "url": "https://huggingface.co/example/model-card-fixture",
+      "short_url": "https://t.co/fixture1",
+      "from_post": "9990001112223334445"
+    }
+  ],
+  "hashtags": ["LocalLLM", "ReasoningModels"],
+  "topics": ["local-models"],
+  "relevance": "Concrete local inference setup for reasoning-tier models on Spark-class hardware."
+}

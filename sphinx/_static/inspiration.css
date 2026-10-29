@@ -1,0 +1,50 @@
+body {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 13px;
+  line-height: 1.45;
+  color: #000;
+  background: #fff;
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 0 12px 24px;
+}
+
+a {
+  color: #006600;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+h1, h2, h3, .headline {
+  font-family: Helvetica, Arial, sans-serif;
+  color: #000;
+}
+
+div.related {
+  background: #006666;
+  color: #fff;
+  padding: 4px 8px;
+  margin-bottom: 12px;
+}
+
+div.related a {
+  color: #fff;
+  font-weight: bold;
+}
+
+.tagline {
+  color: #666;
+  font-style: italic;
+}
+
+div.sphinxsidebar {
+  font-size: 12px;
+}
+
+.document {
+  border-top: 3px solid #006666;
+  padding-top: 8px;
+}
