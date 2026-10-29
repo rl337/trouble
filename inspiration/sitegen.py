@@ -8,7 +8,11 @@ from datetime import datetime
 from pathlib import Path
 from typing import Any
 
-from inspiration.index_terms import build_post_index_lines, render_myst_index_block
+from inspiration.index_terms import (
+    build_index_corpus,
+    build_post_index_lines,
+    render_myst_index_block,
+)
 from inspiration.posts import PostRecord
 from inspiration.topics import Topic
 
@@ -154,6 +158,7 @@ def generate_sphinx_sources(
     lines.append("")
 
     topic_map = {t.slug: t for t in topics}
+    index_corpus = build_index_corpus(records, topics_by_slug=topic_map)
     for topic in topics:
         matching = [r for r in records if topic.slug in r.data.get("topics", [])]
         matching.sort(key=lambda r: (r.updated_at, r.id), reverse=True)
@@ -258,7 +263,9 @@ def generate_sphinx_sources(
             ]
         )
 
-        index_lines = build_post_index_lines(data, topics_by_slug=topic_map)
+        index_lines = build_post_index_lines(
+            data, topics_by_slug=topic_map, corpus=index_corpus
+        )
         md_lines.extend(render_myst_index_block(index_lines))
 
         _write(posts_dir / f"{rec.id}.md", "\n".join(md_lines))
