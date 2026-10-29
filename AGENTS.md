@@ -2,32 +2,42 @@
 
 ## Cursor Cloud specific instructions
 
-This repository is an **inspiration blog** (Sphinx static site from curated X post JSON). It is **not** the legacy Trouble etude generator (see the `legacy` branch).
+This repository is an **inspiration blog** (Sphinx static site from curated X post JSON). Legacy Trouble code is on the `legacy` branch.
 
 ### Key commands
 
 | Task | Command |
 |------|---------|
-| Validate fixtures + `posts/` | `python -m inspiration validate` |
+| Validate fixtures, `posts/`, state | `python -m inspiration validate` |
 | Build HTML site | `python -m inspiration build` |
-| Run tests | `pytest tests/` |
-| Serve built site locally | `python -m http.server --directory .build/html 8000` |
+| Image thumbnail | `python scripts/make_thumbnail.py <url-or-path> posts/YYYY/MM/DD/<id>/media/0.webp` |
+| Tests | `pytest tests/` |
+| Serve built site | `python -m http.server --directory .build/html 8000` |
 
-Install once: `pip install -e ".[dev]"` (Python 3.10+). A virtualenv under `.venv/` is fine.
+Install: `pip install -e ".[dev]"` (Python 3.10+).
 
-### Adding a curated post (agents)
+### Incremental ingestion
 
-1. **One JSON file per post** at `posts/YYYY/MM/DD/<post-id>.json` (UTC date folders).
-2. **Filename must match** `"id"` inside the file.
-3. **Validate against** `schema/post.schema.json` before committing; CI runs `python -m inspiration validate`.
-4. **`summary_md`:** paraphrased, deeply **attributed** summary of the thread—not verbatim X text. Use Markdown; the site renders it via MyST.
-5. **`referenced_urls`:** at least one entry with a **fully expanded** URL (not only `t.co`). Include GitHub or other external links the reader should follow. Set `from_post` to the id of the post where the link appeared.
-6. **`topics`:** only slugs listed in `topics.yaml` (currently `local-models`, `harness-dev`, `agentic-media`, `agentic-cognition`).
-7. **Do not** put test/sample content under `posts/`—use `sample/fixtures/` for fake data.
-8. An empty `posts/` tree is normal; the build must succeed with zero posts.
+1. Read `state/last_run.json` — only process X posts **created after** `last_run_at`.
+2. New post: write `posts/YYYY/MM/DD/<post-id>.json` with `updated_at` = `collected_at`.
+3. Existing thread with new author follow-ups: **update the same JSON file** (original archive path). Append to `thread`, refresh `summary_md`, set `updated_at` to now (UTC). Never duplicate files for the same `id`.
+4. After the run: set `last_run_at` to run completion time and sync `ingested_post_ids` from all `posts/*/*/*/*.json` basenames.
+
+### Post JSON rules
+
+- Validate against `schema/post.schema.json` before commit.
+- `summary_md`: paraphrased, attributed — not verbatim X text.
+- `referenced_urls`: at least one fully expanded URL (GitHub or other external).
+- `topics`: slugs from `topics.yaml` only.
+- Sample data only under `sample/fixtures/`, not `posts/`.
+
+### Media
+
+- `media[]`: `type` (`image`|`video`|`gif`), `url`, `from_post`, `description`; optional `kind`, `thumbnail` (images only), `ocr_text`.
+- Thumbnail path pattern: `posts/YYYY/MM/DD/<post-id>/media/<n>.webp` (~480px wide WebP). Generate with `scripts/make_thumbnail.py`.
+- Site renders thumbnails inline (linking to `url`); `ocr_text` appears as a **blockquote under the thumbnail** (not collapsed).
 
 ### Non-obvious notes
 
-- The published site is built in GitHub Actions on push to `main` (`.github/workflows/pages.yml`); output is `.build/html`.
-- Raw JSON under `posts/` is the source of truth for other agents—keep the directory layout stable and documented in `posts/README.md`.
-- Local build artifacts live under `.build/` (gitignored).
+- Pages deploy from `.github/workflows/pages.yml` on push to `main`.
+- Build output: `.build/html/` (gitignored). Fixture thumbnails live under `sample/fixtures/media-assets/posts/...` for CI.

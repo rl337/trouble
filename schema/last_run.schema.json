@@ -1,0 +1,21 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/rl337/trouble/schema/last_run.schema.json",
+  "title": "Ingestion run state",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["last_run_at", "ingested_post_ids"],
+  "properties": {
+    "last_run_at": {
+      "type": "string",
+      "format": "date-time",
+      "description": "ISO 8601 UTC; ingest only X posts created after this instant."
+    },
+    "ingested_post_ids": {
+      "type": "array",
+      "items": { "type": "string", "minLength": 1 },
+      "uniqueItems": true,
+      "description": "Post ids already on disk; may be synced from posts/ after each run."
+    }
+  }
+}

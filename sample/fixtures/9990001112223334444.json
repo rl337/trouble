@@ -8,15 +8,22 @@
   },
   "posted_at": "2026-03-25T14:22:00Z",
   "collected_at": "2026-03-25T18:00:00Z",
+  "updated_at": "2026-03-26T09:45:00Z",
   "thread": [
     {
       "id": "9990001112223334445",
       "permalink": "https://x.com/example_dev/status/9990001112223334445",
       "posted_at": "2026-03-25T14:28:00Z",
       "position": 1
+    },
+    {
+      "id": "9990001112223334446",
+      "permalink": "https://x.com/example_dev/status/9990001112223334446",
+      "posted_at": "2026-03-26T09:10:00Z",
+      "position": 2
     }
   ],
-  "summary_md": "**Example Dev (@example_dev_fixture)** describes running a ~30B reasoning model locally on a DGX Spark-class box, comparing latency against a cloud API. In a follow-up they note batching tricks that keep VRAM under the single-GPU cap.\n\n*(Paraphrased summary for tests — not verbatim post text.)*",
+  "summary_md": "**Example Dev (@example_dev_fixture)** describes running a ~30B reasoning model locally on a DGX Spark-class box, comparing latency against a cloud API. Follow-ups cover batching for VRAM and, in a later thread segment, a screenshot of their prompt template for reproducible benchmarks.\n\n*(Paraphrased summary for tests — not verbatim post text.)*",
   "referenced_urls": [
     {
       "url": "https://github.com/example-org/local-reasoning-bench",
@@ -27,6 +34,17 @@
       "url": "https://huggingface.co/example/model-card-fixture",
       "short_url": "https://t.co/fixture1",
       "from_post": "9990001112223334445"
+    }
+  ],
+  "media": [
+    {
+      "type": "image",
+      "url": "https://example.com/fixture/original-benchmark-prompt.png",
+      "from_post": "9990001112223334446",
+      "description": "Screenshot of the benchmark prompt layout (fixture).",
+      "thumbnail": "posts/2026/03/25/9990001112223334444/media/0.webp",
+      "kind": "prompt",
+      "ocr_text": "System: You are a careful reasoning assistant.\nUser: Compare latency for batch sizes 1, 4, 8 on Qwen3-30B-Thinking."
     }
   ],
   "hashtags": ["LocalLLM", "ReasoningModels"],

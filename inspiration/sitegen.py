@@ -12,12 +12,6 @@ from inspiration.posts import PostRecord
 from inspiration.topics import Topic
 
 
-def _slugify(text: str) -> str:
-    text = text.lower()
-    text = re.sub(r"[^a-z0-9]+", "-", text)
-    return text.strip("-") or "post"
-
-
 def _format_day_heading(day_key: str) -> str:
     dt = datetime.strptime(day_key, "%Y-%m-%d")
     return dt.strftime("%A, %B %d, %Y").replace(" 0", " ")
@@ -41,6 +35,55 @@ def _write(path: Path, content: str) -> None:
     path.write_text(content, encoding="utf-8")
 
 
+def _thumb_href_from_repo_path(thumbnail: str) -> str:
+    if not thumbnail.startswith("posts/"):
+        return thumbnail
+    return thumbnail[len("posts/") :]
+
+
+def _blockquote(text: str) -> list[str]:
+    lines = ["", "> " + text.replace("\n", "\n> "), ""]
+    return lines
+
+
+def _render_media_items(media: list[dict[str, Any]]) -> list[str]:
+    if not media:
+        return []
+
+    out = ["## Media", ""]
+    for item in media:
+        media_type = item["type"]
+        kind = item.get("kind")
+        kind_suffix = f" ({kind})" if kind else ""
+        out.append(f"**{media_type}**{kind_suffix}: {item['description']}")
+        out.append("")
+
+        url = item["url"]
+        thumb = item.get("thumbnail")
+        ocr = item.get("ocr_text")
+
+        if media_type == "image" and thumb:
+            href = _thumb_href_from_repo_path(thumb)
+            out.append(f"[![{item['description']}]({href})]({url})")
+            out.append("")
+        elif media_type in ("image", "gif"):
+            out.append(f"[View original {media_type}]({url})")
+            out.append("")
+        elif media_type == "video":
+            out.append(f"[View video]({url})")
+            out.append("")
+
+        if ocr:
+            out.extend(_blockquote(ocr))
+
+    return out
+
+
+def _index_entry_line(rec: PostRecord) -> str:
+    marker = " *(updated)*" if rec.was_updated else ""
+    return f"* :doc:`posts/{rec.id}` — {rec.data['relevance']}{marker}"
+
+
 def generate_sphinx_sources(
     *,
     records: list[PostRecord],
@@ -58,10 +101,15 @@ def generate_sphinx_sources(
     archive_dir = out_dir / "archive"
     posts_dir = out_dir / "posts"
 
-    # --- index (recent, grouped by archive day from path) ---
-    by_day: dict[str, list[PostRecord]] = defaultdict(list)
+    by_update_day: dict[str, list[PostRecord]] = defaultdict(list)
     for rec in records:
-        by_day[rec.day_key].append(rec)
+        by_update_day[rec.update_day_key].append(rec)
+    for day_records in by_update_day.values():
+        day_records.sort(key=lambda r: (r.updated_at, r.id), reverse=True)
+
+    by_archive_day: dict[str, list[PostRecord]] = defaultdict(list)
+    for rec in records:
+        by_archive_day[rec.day_key].append(rec)
 
     lines = [
         "Recent inspiration",
@@ -69,7 +117,7 @@ def generate_sphinx_sources(
         "",
         ".. raw:: html",
         "",
-        '   <p class="tagline">Curated X threads — newest first, grouped by archive day.</p>',
+        '   <p class="tagline">Curated X threads — sorted by last update (UTC), grouped by update day.</p>',
         "",
     ]
 
@@ -83,43 +131,31 @@ def generate_sphinx_sources(
             ]
         )
     else:
-        for day_key in sorted(by_day.keys(), reverse=True):
+        for day_key in sorted(by_update_day.keys(), reverse=True):
             heading = _format_day_heading(day_key)
             lines.append(heading)
             lines.append("-" * len(heading))
             lines.append("")
-            for rec in by_day[day_key]:
-                lines.append(f"* :doc:`posts/{rec.id}` — {rec.data['relevance']}")
+            for rec in by_update_day[day_key]:
+                lines.append(_index_entry_line(rec))
             lines.append("")
 
-    lines.extend(
-        [
-            "Topics",
-            "------",
-            "",
-        ]
-    )
+    lines.extend(["Topics", "------", ""])
     for topic in topics:
         lines.append(f"* :doc:`topics/{topic.slug}` — {topic.title}")
     lines.append("")
 
-    lines.extend(
-        [
-            "Archives",
-            "--------",
-            "",
-        ]
-    )
-    for day_key in sorted(by_day.keys(), reverse=True):
+    lines.extend(["Archives", "--------", ""])
+    for day_key in sorted(by_archive_day.keys(), reverse=True):
         lines.append(f"* :doc:`archive/{day_key}` — {day_key}")
     lines.append("")
 
     _write(out_dir / "index.rst", "\n".join(lines))
 
-    # --- topic pages ---
     topic_map = {t.slug: t for t in topics}
     for topic in topics:
         matching = [r for r in records if topic.slug in r.data.get("topics", [])]
+        matching.sort(key=lambda r: (r.updated_at, r.id), reverse=True)
         tlines = [
             topic.title,
             "=" * len(topic.title),
@@ -139,8 +175,7 @@ def generate_sphinx_sources(
                 tlines.append("")
         _write(topics_dir / f"{topic.slug}.rst", "\n".join(tlines))
 
-    # --- archive pages ---
-    for day_key, day_records in by_day.items():
+    for day_key, day_records in by_archive_day.items():
         alines = [
             f"Archive: {day_key}",
             "=" * (10 + len(day_key)),
@@ -151,14 +186,19 @@ def generate_sphinx_sources(
         alines.append("")
         _write(archive_dir / f"{day_key}.rst", "\n".join(alines))
 
-    # --- individual posts (MyST markdown) ---
     for rec in records:
         data = rec.data
+        meta = (
+            f"**Original post:** [{data['permalink']}]({data['permalink']})  \n"
+            f"**Posted:** {data['posted_at']} · **Collected:** {data['collected_at']}"
+        )
+        if rec.was_updated:
+            meta += f" · **Updated:** {data['updated_at']}"
+
         md_lines = [
             f"# {_post_title(rec)}",
             "",
-            f"**Original post:** [{data['permalink']}]({data['permalink']})  ",
-            f"**Posted:** {data['posted_at']} · **Collected:** {data['collected_at']}",
+            meta,
             "",
             "## Why it matters",
             "",
@@ -180,6 +220,8 @@ def generate_sphinx_sources(
                 )
             md_lines.append("")
 
+        md_lines.extend(_render_media_items(data.get("media") or []))
+
         refs = data.get("referenced_urls") or []
         if refs:
             md_lines.extend(["## Referenced links", ""])
@@ -190,16 +232,10 @@ def generate_sphinx_sources(
 
         tags = data.get("hashtags") or []
         if tags:
-            md_lines.append("## Hashtags")
-            md_lines.append("")
-            md_lines.append(", ".join(f"#{t}" for t in tags))
-            md_lines.append("")
+            md_lines.extend(["## Hashtags", "", ", ".join(f"#{t}" for t in tags), ""])
 
         topic_links = [topic_map[s].title for s in data.get("topics", []) if s in topic_map]
         if topic_links:
-            md_lines.append("## Topics")
-            md_lines.append("")
-            md_lines.append(", ".join(topic_links))
-            md_lines.append("")
+            md_lines.extend(["## Topics", "", ", ".join(topic_links), ""])
 
         _write(posts_dir / f"{rec.id}.md", "\n".join(md_lines))
