@@ -1,0 +1,120 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/rl337/trouble/schema/post.schema.json",
+  "title": "Curated X post",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "id",
+    "permalink",
+    "author",
+    "posted_at",
+    "collected_at",
+    "thread",
+    "summary_md",
+    "referenced_urls",
+    "hashtags",
+    "topics",
+    "relevance"
+  ],
+  "properties": {
+    "id": {
+      "type": "string",
+      "minLength": 1,
+      "description": "X post id of the original/first post in the thread."
+    },
+    "permalink": {
+      "type": "string",
+      "format": "uri"
+    },
+    "author": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["name", "handle", "profile_url"],
+      "properties": {
+        "name": { "type": "string", "minLength": 1 },
+        "handle": {
+          "type": "string",
+          "minLength": 1,
+          "pattern": "^@?[^\\s]+$"
+        },
+        "profile_url": { "type": "string", "format": "uri" }
+      }
+    },
+    "posted_at": {
+      "type": "string",
+      "format": "date-time",
+      "description": "ISO 8601 UTC timestamp of the original post."
+    },
+    "collected_at": {
+      "type": "string",
+      "format": "date-time",
+      "description": "ISO 8601 UTC timestamp when this entry was curated."
+    },
+    "thread": {
+      "type": "array",
+      "description": "Author follow-ups in the same chain (excluding the original), ordered.",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["id", "permalink", "posted_at", "position"],
+        "properties": {
+          "id": { "type": "string", "minLength": 1 },
+          "permalink": { "type": "string", "format": "uri" },
+          "posted_at": { "type": "string", "format": "date-time" },
+          "position": { "type": "integer", "minimum": 1 }
+        }
+      }
+    },
+    "summary_md": {
+      "type": "string",
+      "minLength": 1,
+      "description": "Paraphrased, attributed Markdown summary of the whole thread (not verbatim)."
+    },
+    "referenced_urls": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["url", "from_post"],
+        "properties": {
+          "url": { "type": "string", "format": "uri" },
+          "short_url": { "type": "string" },
+          "title": { "type": "string" },
+          "from_post": {
+            "type": "string",
+            "minLength": 1,
+            "description": "Id of the post in the thread where the link appeared."
+          }
+        }
+      }
+    },
+    "hashtags": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "pattern": "^[^#].*$"
+      }
+    },
+    "topics": {
+      "type": "array",
+      "minItems": 1,
+      "uniqueItems": true,
+      "items": {
+        "type": "string",
+        "enum": [
+          "local-models",
+          "harness-dev",
+          "agentic-media",
+          "agentic-cognition"
+        ]
+      }
+    },
+    "relevance": {
+      "type": "string",
+      "minLength": 1,
+      "description": "Why this post is worth the reader's attention."
+    }
+  }
+}
