@@ -150,8 +150,6 @@ def generate_sphinx_sources(
         lines.append(f"* :doc:`archive/{day_key}` — {day_key}")
     lines.append("")
 
-    _write(out_dir / "index.rst", "\n".join(lines))
-
     topic_map = {t.slug: t for t in topics}
     for topic in topics:
         matching = [r for r in records if topic.slug in r.data.get("topics", [])]
@@ -239,3 +237,21 @@ def generate_sphinx_sources(
             md_lines.extend(["## Topics", "", ", ".join(topic_links), ""])
 
         _write(posts_dir / f"{rec.id}.md", "\n".join(md_lines))
+
+    lines.extend(
+        [
+            ".. toctree::",
+            "   :hidden:",
+            "   :maxdepth: 1",
+            "",
+        ]
+    )
+    for topic in topics:
+        lines.append(f"   topics/{topic.slug}")
+    for day_key in sorted(by_archive_day.keys(), reverse=True):
+        lines.append(f"   archive/{day_key}")
+    for rec in sorted(records, key=lambda r: r.id):
+        lines.append(f"   posts/{rec.id}")
+    lines.append("")
+
+    _write(out_dir / "index.rst", "\n".join(lines))

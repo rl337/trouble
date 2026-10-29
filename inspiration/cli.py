@@ -7,7 +7,11 @@ import subprocess
 import sys
 from pathlib import Path
 
-from inspiration.media_assets import copy_fixture_media_assets, copy_post_media_to_site
+from inspiration.media_assets import (
+    copy_fixture_media_assets,
+    copy_post_media_to_site,
+    stage_post_media_for_sphinx,
+)
 from inspiration.posts import load_posts, validate_all_posts, validate_json_files
 from inspiration.sitegen import generate_sphinx_sources
 from inspiration.state import validate_state_file
@@ -63,6 +67,7 @@ def cmd_build(args: argparse.Namespace) -> int:
     records = load_posts(posts_root, schema, repo_root=REPO_ROOT)
     topics = load_topics(topics_path)
     generate_sphinx_sources(records=records, topics=topics, out_dir=GENERATED)
+    stage_post_media_for_sphinx(posts_root, GENERATED)
 
     HTML_OUT.mkdir(parents=True, exist_ok=True)
     cmd = [
