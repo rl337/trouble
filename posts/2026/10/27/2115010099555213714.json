@@ -1,0 +1,26 @@
+{
+  "id": "2115010099555213714",
+  "permalink": "https://x.com/karikatunon/status/2115010099555213714",
+  "author": {
+    "name": "Anton",
+    "handle": "@karikatunon",
+    "profile_url": "https://x.com/karikatunon"
+  },
+  "posted_at": "2026-10-27T09:17:57Z",
+  "collected_at": "2026-10-29T16:31:06Z",
+  "updated_at": "2026-10-29T16:31:06Z",
+  "thread": [],
+  "summary_md": "**Anton ([@karikatunon](https://x.com/karikatunon/status/2115010099555213714))** shares a **delegated-engineering** skill for Codex that assigns tasks to subagents, merges results and checks their work.",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/Karikatun/agent-skills/tree/main/skills/delegated-engineering",
+      "short_url": "https://t.co/W29FzC9fXv",
+      "from_post": "2115010099555213714"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "relevance": "A reusable delegation/orchestration skill."
+}

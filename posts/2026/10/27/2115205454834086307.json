@@ -1,0 +1,35 @@
+{
+  "id": "2115205454834086307",
+  "permalink": "https://x.com/satishgoda/status/2115205454834086307",
+  "author": {
+    "name": "Satish G",
+    "handle": "@satishgoda",
+    "profile_url": "https://x.com/satishgoda"
+  },
+  "posted_at": "2026-10-27T22:14:13Z",
+  "collected_at": "2026-10-29T16:31:06Z",
+  "updated_at": "2026-10-29T16:31:06Z",
+  "thread": [],
+  "summary_md": "**Satish G ([@satishgoda](https://x.com/satishgoda/status/2115205454834086307))** shows a quick build made with Claude plus Ollama models assisted by Blender's official **Blender Lab MCP Server**; the attached video shows the result.",
+  "referenced_urls": [
+    {
+      "url": "https://www.blender.org/lab/mcp-server",
+      "short_url": "https://t.co/BmIX2j9qFj",
+      "title": "MCP Server — Blender",
+      "from_post": "2115205454834086307"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-media"
+  ],
+  "relevance": "Evidence of Blender's own MCP server being used for agent-driven 3D work.",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://x.com/satishgoda/status/2115205454834086307/video/1",
+      "from_post": "2115205454834086307",
+      "description": "Video of a Blender build made with Claude, Ollama models and the Blender Lab MCP Server (not downloaded; referenced only)."
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": "2115192136308056259",
+  "permalink": "https://x.com/Memoirs/status/2115192136308056259",
+  "author": {
+    "name": "Machine Learning (ML) Papers",
+    "handle": "@Memoirs",
+    "profile_url": "https://x.com/Memoirs"
+  },
+  "posted_at": "2026-10-27T21:21:18Z",
+  "collected_at": "2026-10-29T16:31:06Z",
+  "updated_at": "2026-10-29T16:31:06Z",
+  "thread": [],
+  "summary_md": "**Machine Learning (ML) Papers ([@Memoirs](https://x.com/Memoirs/status/2115192136308056259))** posts **Principia** (Kim, Park, Baek, Jeong, Hwang): an LLM framework that constructs and continually refines scientific principles at test time from comparative causal hypotheses.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.32195",
+      "short_url": "https://t.co/aWhPBpfuUi",
+      "title": "Principia: Test-Time Hypotheses to Principle Construction for...",
+      "from_post": "2115192136308056259"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-cognition"
+  ],
+  "relevance": "Test-time hypothesis-to-principle construction for agentic discovery.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HVqsChJXcAEkqtl.png",
+      "from_post": "2115192136308056259",
+      "description": "Screenshot of the Principia paper abstract: an LLM framework that constructs and refines scientific principles at test time from comparative causal hypotheses.",
+      "thumbnail": "posts/2026/10/27/2115192136308056259/media/0.webp",
+      "kind": "paper",
+      "ocr_text": "Scientific discovery requires identifying the scientific principles underlying observed phenomena to guide further investigation. As these empirical principles are often unknown in complex discovery processes, they are constructed via a hypotheses-to-principle pipeline to obtain recurring causalities from progressively accumulated observations during test-time discovery. However, constructing this knowledge requires substantial domain expertise, time, and effort, making this translation stage a bottleneck for scientific discovery. To address this limitation, we propose Principia, an LLM-based framework that constructs and continually refines scientific principles at test time. Drawing on how human researchers develop principles, Principia forms comparative causal hypotheses from related inputs and their observed outcomes, then synthesizes recurring relationships across thes…"
+    }
+  ]
+}

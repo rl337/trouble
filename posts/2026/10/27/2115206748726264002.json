@@ -7,8 +7,8 @@
     "profile_url": "https://x.com/SciFi"
   },
   "posted_at": "2026-10-27T22:19:22Z",
-  "collected_at": "2026-10-29T15:06:13Z",
-  "updated_at": "2026-10-29T15:06:13Z",
+  "collected_at": "2026-10-29T16:31:06Z",
+  "updated_at": "2026-10-29T16:31:06Z",
   "thread": [],
   "summary_md": "**[@SciFi](https://x.com/SciFi/status/2115206748726264002)** (an AI-papers feed) shares **CauProphet** by Kaiwen Wu and Chaochao Lu.\n\nPer the abstract, the work argues that agent memory today mostly retrieves records or summaries and never builds causal understanding. CauProphet maintains a persistent *Causal Cognition* store; for each task it fuses that knowledge with current evidence into a structured *Causal Belief* (causal factors and likely effects of actions), acts on it, and keeps updating both as observations arrive — so causal knowledge accumulates across episodes.",
   "referenced_urls": [

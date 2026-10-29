@@ -1,0 +1,27 @@
+{
+  "id": "2115337447303495777",
+  "permalink": "https://x.com/birdgineer/status/2115337447303495777",
+  "author": {
+    "name": "Timothy Meadows ⚛️",
+    "handle": "@birdgineer",
+    "profile_url": "https://x.com/birdgineer"
+  },
+  "posted_at": "2026-10-28T06:58:43Z",
+  "collected_at": "2026-10-29T16:31:06Z",
+  "updated_at": "2026-10-29T16:31:06Z",
+  "thread": [],
+  "summary_md": "**Timothy Meadows ⚛️ ([@birdgineer](https://x.com/birdgineer/status/2115337447303495777))** releases **OpenCaw 5.0**, now centered on video-game production with explicit support for six engines, an expanded skill catalog, native 3D-asset workflows and stronger production-evidence requirements (release notes linked).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/TimothyMeadows/OpenCaw/releases/tag/5.0.0",
+      "short_url": "https://t.co/mLZePrcWEb",
+      "title": "Release 5.0.0 · TimothyMeadows/OpenCaw",
+      "from_post": "2115337447303495777"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-media"
+  ],
+  "relevance": "Agentic game/3D production framework update."
+}

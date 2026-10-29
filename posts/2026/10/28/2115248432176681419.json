@@ -1,0 +1,27 @@
+{
+  "id": "2115248432176681419",
+  "permalink": "https://x.com/aiproduck/status/2115248432176681419",
+  "author": {
+    "name": "aiproduck",
+    "handle": "@aiproduck",
+    "profile_url": "https://x.com/aiproduck"
+  },
+  "posted_at": "2026-10-28T01:05:00Z",
+  "collected_at": "2026-10-29T16:31:06Z",
+  "updated_at": "2026-10-29T16:31:06Z",
+  "thread": [],
+  "summary_md": "**aiproduck ([@aiproduck](https://x.com/aiproduck/status/2115248432176681419))** highlights AWS's **Agent Toolkit**: official MCP servers, skills and plugins for AWS for Claude Code, Codex, Cursor and others. Notable detail: IAM condition keys that distinguish agent actions from human ones, so an agent can be held read-only.",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/aws/agent-toolkit-for-aws",
+      "short_url": "https://t.co/QQ17H9o5qw",
+      "title": "GitHub - aws/agent-toolkit-for-aws: Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS",
+      "from_post": "2115248432176681419"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "relevance": "Vendor-official agent tooling with an IAM-level way to scope agent permissions."
+}

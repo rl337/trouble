@@ -7,8 +7,8 @@
     "profile_url": "https://x.com/arnaudmercier"
   },
   "posted_at": "2026-10-27T17:14:06Z",
-  "collected_at": "2026-10-29T15:06:13Z",
-  "updated_at": "2026-10-29T15:06:13Z",
+  "collected_at": "2026-10-29T16:31:06Z",
+  "updated_at": "2026-10-29T16:31:06Z",
   "thread": [],
   "summary_md": "**Arnaud Mercier ([@arnaudmercier](https://x.com/arnaudmercier/status/2115129928010420619))** shares Per Kristian Lehre's (Birmingham) **Agentic Algorithm Design** paper, where LLM agents both *design* black-box optimisation algorithms and *prove* their expected runtime in Lean.\n\n- A staged pipeline mirrors how a theorist works: informal design → Lean formalisation with guard proofs that reject flawed designs → a potential function → drift-analysis runtime bound. No empirical benchmarking is used anywhere.\n- Highlights: an O(n²) algorithm on a CycleUncover problem where the classic (1+1) EA is exponential, and 12 of 15 frontier-model runs completing with a machine-checked bound.\n- Ablations show zero-shot design without staging collapses to copying the baseline; the tested open-weight models did not finish the pipeline.",
   "referenced_urls": [
@@ -16,6 +16,16 @@
       "url": "https://arxiv.org/html/2610.35595v1",
       "short_url": "https://t.co/1JSSLjVom3",
       "title": "Agentic Algorithm Design: LLMs that Propose, Formalise, and Prove Runtime Bounds for Evolutionary Algorithms in Lean",
+      "from_post": "2115129928010420619"
+    },
+    {
+      "url": "http://cs.AI",
+      "short_url": "https://t.co/gQRNwvBaIT",
+      "from_post": "2115129928010420619"
+    },
+    {
+      "url": "http://produced.It",
+      "short_url": "https://t.co/HOVGPKcRpw",
       "from_post": "2115129928010420619"
     }
   ],

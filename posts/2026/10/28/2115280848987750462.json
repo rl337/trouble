@@ -1,0 +1,37 @@
+{
+  "id": "2115280848987750462",
+  "permalink": "https://x.com/abdullahformuli/status/2115280848987750462",
+  "author": {
+    "name": "Abdullah Formuli",
+    "handle": "@abdullahformuli",
+    "profile_url": "https://x.com/abdullahformuli"
+  },
+  "posted_at": "2026-10-28T03:13:49Z",
+  "collected_at": "2026-10-29T16:31:06Z",
+  "updated_at": "2026-10-29T16:31:06Z",
+  "thread": [],
+  "summary_md": "**Abdullah Formuli ([@abdullahformuli](https://x.com/abdullahformuli/status/2115280848987750462))** open-sources **Arnold**, a multi-model harness and 'Megaplan' pipeline that routes coding phases to DeepSeek and reserves Claude/Codex for hard tiers, claiming ~40x lower coding cost.",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/authrain-cloud-abdullahformuli/arnold",
+      "short_url": "https://t.co/KdMideo9F9",
+      "title": "GitHub - authrain-cloud-abdullahformuli/arnold: Multi-model intelligence systems and Megaplan planning harness for Claude, Codex, and DeepSeek",
+      "from_post": "2115280848987750462"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "relevance": "Tiered model routing inside a coding harness.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HVr8revawAAXFev.jpg",
+      "from_post": "2115280848987750462",
+      "description": "Illustrated pipeline: a 'Frontier model - judgment' owl above stages Prep, Plan, Critique, Finalize, Execute, Review, with small 'cheap models - the work' robots doing each stage and the frontier model weighing context, comparing tradeoffs and holding the standard.",
+      "thumbnail": "posts/2026/10/28/2115280848987750462/media/0.webp",
+      "kind": "diagram"
+    }
+  ]
+}

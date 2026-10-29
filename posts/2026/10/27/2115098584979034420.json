@@ -1,0 +1,28 @@
+{
+  "id": "2115098584979034420",
+  "permalink": "https://x.com/SympathyLabs/status/2115098584979034420",
+  "author": {
+    "name": "Sympathy",
+    "handle": "@SympathyLabs",
+    "profile_url": "https://x.com/SympathyLabs"
+  },
+  "posted_at": "2026-10-27T15:09:33Z",
+  "collected_at": "2026-10-29T16:31:06Z",
+  "updated_at": "2026-10-29T16:31:06Z",
+  "thread": [],
+  "summary_md": "**Sympathy ([@SympathyLabs](https://x.com/SympathyLabs/status/2115098584979034420))** notes **dsh-local-ai 0.2.23**, which routes DeepSeek Harness calls to local Ollama or llama.cpp servers by task purpose or keyword before falling back to cloud APIs (Apache-2.0; fallback only triggers before the first token).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/PerryLink/dsh-local-ai",
+      "short_url": "https://t.co/JWSYcBfrhX",
+      "title": "GitHub - PerryLink/dsh-local-ai: Local-model (Ollama) integration for DeepSeek Harness: discover, pull, remove, and inspect local models, route requests to them by task type or keyword with automatic fallback to the cloud, and get a one-shot status overview via /ollama.",
+      "from_post": "2115098584979034420"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "local-models",
+    "harness-dev"
+  ],
+  "relevance": "Concrete local-first routing for a coding harness, with cloud fallback semantics spelled out."
+}

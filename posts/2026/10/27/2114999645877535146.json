@@ -1,0 +1,27 @@
+{
+  "id": "2114999645877535146",
+  "permalink": "https://x.com/gameskilldev/status/2114999645877535146",
+  "author": {
+    "name": "Gameskill",
+    "handle": "@gameskilldev",
+    "profile_url": "https://x.com/gameskilldev"
+  },
+  "posted_at": "2026-10-27T08:36:25Z",
+  "collected_at": "2026-10-29T16:31:06Z",
+  "updated_at": "2026-10-29T16:31:06Z",
+  "thread": [],
+  "summary_md": "**Gameskill ([@gameskilldev](https://x.com/gameskilldev/status/2114999645877535146))** shares **anime-series-maker** (MIT), a skill for Claude Code / Codex that turns two character sheets plus a one-line plot into a full AI anime episode.",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/Mayzmei/anime-series-maker",
+      "short_url": "https://t.co/oytaEo4Ffl",
+      "title": "GitHub - Mayzmei/anime-series-maker: 2 character sheets + 1 line of story → a finished AI anime episode. Agent skill for Claude Code / Codex, powered by Renoise MCP.",
+      "from_post": "2114999645877535146"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-media"
+  ],
+  "relevance": "An end-to-end agentic animation pipeline packaged as a skill."
+}

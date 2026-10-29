@@ -1,0 +1,39 @@
+{
+  "id": "2115173777705234693",
+  "permalink": "https://x.com/Smartphones/status/2115173777705234693",
+  "author": {
+    "name": "Human-Computer Interaction Papers",
+    "handle": "@Smartphones",
+    "profile_url": "https://x.com/Smartphones"
+  },
+  "posted_at": "2026-10-27T20:08:21Z",
+  "collected_at": "2026-10-29T16:31:06Z",
+  "updated_at": "2026-10-29T16:31:06Z",
+  "thread": [],
+  "summary_md": "**Human-Computer Interaction Papers ([@Smartphones](https://x.com/Smartphones/status/2115173777705234693))** posts *Babysitting AI Agents* (Mittal, Kim, Counts, Neville, Das, Laban): from 163,487 Reddit posts the authors build **MANDATE**, a taxonomy of 23 agentic delegation failures in seven groups, and a 73-user study finds failures rated more severe are seen as harder to notice.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.34748",
+      "short_url": "https://t.co/PxlViSohx9",
+      "title": "Babysitting AI Agents: A User-Centered Taxonomy and Study of...",
+      "from_post": "2115173777705234693"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev",
+    "agentic-cognition"
+  ],
+  "relevance": "A user-centered failure taxonomy for designing agent oversight.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HVqbV45XMAEXC_E.png",
+      "from_post": "2115173777705234693",
+      "description": "Screenshot of the MANDATE paper abstract: a taxonomy of 23 agentic delegation failure categories in seven groups built from 163,487 Reddit posts, plus a 73-user study on severity and noticeability.",
+      "thumbnail": "posts/2026/10/27/2115173777705234693/media/0.webp",
+      "kind": "paper",
+      "ocr_text": "Users are increasingly delegating tasks to AI agents, allowing agents to perform long-running, multi-step workflows on their behalf. However, agents may perform these tasks in ways that depart from users' expectations for how they should be carried out, leading to what we call agentic delegation failures. We leverage a large corpus of 163,487 Reddit posts, describing AI agent use, to develop MANDATE: a taxonomy of 23 failure categories organized into seven groups. A follow-up study with 73 AI agent users examined the relationship between prevalence and perceptions of severity and noticeability, finding that failures rated as more severe are considered harder to notice, and that prior experience with a failure is associated with greater noticeability. Finally, we assess the maturity of research on each failure and identify commonly encountered failures that have…"
+    }
+  ]
+}

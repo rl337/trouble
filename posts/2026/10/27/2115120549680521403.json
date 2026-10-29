@@ -1,0 +1,118 @@
+{
+  "id": "2115120549680521403",
+  "permalink": "https://x.com/allen_ai/status/2115120549680521403",
+  "author": {
+    "name": "Ai2",
+    "handle": "@allen_ai",
+    "profile_url": "https://x.com/allen_ai"
+  },
+  "posted_at": "2026-10-27T16:36:50Z",
+  "collected_at": "2026-10-29T16:31:06Z",
+  "updated_at": "2026-10-29T16:31:06Z",
+  "thread": [
+    {
+      "id": "2115120551203115387",
+      "permalink": "https://x.com/allen_ai/status/2115120551203115387",
+      "posted_at": "2026-10-27T16:36:51Z",
+      "position": 1
+    },
+    {
+      "id": "2115120552125800667",
+      "permalink": "https://x.com/allen_ai/status/2115120552125800667",
+      "posted_at": "2026-10-27T16:36:51Z",
+      "position": 2
+    },
+    {
+      "id": "2115120553572892954",
+      "permalink": "https://x.com/allen_ai/status/2115120553572892954",
+      "posted_at": "2026-10-27T16:36:51Z",
+      "position": 3
+    },
+    {
+      "id": "2115120554571178055",
+      "permalink": "https://x.com/allen_ai/status/2115120554571178055",
+      "posted_at": "2026-10-27T16:36:51Z",
+      "position": 4
+    },
+    {
+      "id": "2115120556374736936",
+      "permalink": "https://x.com/allen_ai/status/2115120556374736936",
+      "posted_at": "2026-10-27T16:36:52Z",
+      "position": 5
+    },
+    {
+      "id": "2115120557788217396",
+      "permalink": "https://x.com/allen_ai/status/2115120557788217396",
+      "posted_at": "2026-10-27T16:36:52Z",
+      "position": 6
+    }
+  ],
+  "summary_md": "**Ai2 ([@allen_ai](https://x.com/allen_ai/status/2115120549680521403))** (Ai2) releases an eval of LLM novelty judges for research ideas. The thread explains the benchmark mines ICLR 2026 reviews for originality comments; on human-vs-AI idea pairs GPT-5.4 picked the human idea 93.5% of the time when asked which reviewers judged novel but only 40.9% when asked which was novel; prompt changes helped some judges and hurt others; and two purpose-built novelty judges underperformed a prompted Claude Opus 4.6 baseline. Data, paper, code and blog are linked.",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/allenai/novelty-eval",
+      "short_url": "https://t.co/AWokjcVVnf",
+      "from_post": "2115120549680521403"
+    },
+    {
+      "url": "https://huggingface.co/datasets/allenai/novelty-judge-bench",
+      "short_url": "https://t.co/LgqQheZI5q",
+      "title": "allenai/novelty-judge-bench · Datasets at Hugging Face",
+      "from_post": "2115120557788217396"
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.02022",
+      "short_url": "https://t.co/4lFKSqq5mW",
+      "title": "Old Ideas, Novel Problems: The Instability of LLM-Based Novelty Evaluation",
+      "from_post": "2115120557788217396"
+    },
+    {
+      "url": "https://allenai.org/blog/novelty-bench",
+      "short_url": "https://t.co/9WbgzPwQzT",
+      "title": "Can we trust LLMs to judge whether a research idea is novel? | Ai2",
+      "from_post": "2115120557788217396"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-cognition"
+  ],
+  "relevance": "Cautions against trusting LLM novelty judgments in automated research loops.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HVpq7mSX0AEbIWi.jpg",
+      "from_post": "2115120549680521403",
+      "description": "Illustration of a lightbulb (an idea) radiating to six neural-network icons, each marked with a green check or a dark X, depicting LLM judges disagreeing about whether an idea is novel.",
+      "thumbnail": "posts/2026/10/27/2115120549680521403/media/0.webp",
+      "kind": "other"
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HVpq7loXMAEu74X.jpg",
+      "from_post": "2115120552125800667",
+      "description": "Slide 'Building the test from ICLR 2026 peer reviews': originality comments split into 154 papers with only praise (top 10% in area, stronger evidence of novelty) and 145 with only criticism (bottom 10%, weaker evidence).",
+      "thumbnail": "posts/2026/10/27/2115120549680521403/media/1.webp",
+      "kind": "diagram",
+      "ocr_text": "Building the test from ICLR 2026 peer reviews\n\"…a completely new, critical, and timely research problem\" Only praise, Rated top 10% in its area → 154 papers with stronger evidence of novelty\n\"…the theoretical contribution is not highly novel…\" Only criticism, Rated bottom 10% in its area → 145 papers with weaker evidence of novelty"
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HVpq7ltWYAAQLZt.jpg",
+      "from_post": "2115120554571178055",
+      "description": "Bar chart 'How AI models judged novelty in pairs of human- and AI-written research ideas': share of 154 pairs where each model picked the reviewer-praised idea under two prompts, from Claude Opus 4.6 (100.0% / 72.7%) down to Claude Sonnet 4.5 (60.4% / 36.4%).",
+      "thumbnail": "posts/2026/10/27/2115120549680521403/media/2.webp",
+      "kind": "chart",
+      "ocr_text": "How AI models judged novelty in pairs of human- and AI-written research ideas\nWhich idea did reviewers judge to be novel? / Which idea is novel?\nClaude Opus 4.6 100.0% / 72.7%\nGPT-5.2 81.8% / 76.0%\nClaude Opus 4.5 92.2% / 58.4%\nGPT-5.1 79.2% / 56.5%\nGPT-5.4 93.5% / 40.9%\nClaude Sonnet 4.5 60.4% / 36.4%\n154 pairs, each with a human-written idea praised as novel by ICLR reviewers and one generated by Claude Sonnet 4.5."
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HVpq7kYWMAACjCz.jpg",
+      "from_post": "2115120556374736936",
+      "description": "Bar chart 'How well Claude Opus 4.6 judged novelty': a simple prompt with no paper search scores 85, versus baselines AI-Scientist 77 and Idea Novelty Checker 64.",
+      "thumbnail": "posts/2026/10/27/2115120549680521403/media/3.webp",
+      "kind": "chart",
+      "ocr_text": "How well Claude Opus 4.6 judged novelty\nSimple prompt (no paper search; low reasoning, majority vote across 3 calls): 85\nAI-Scientist (compares each idea with papers it finds): 77\nIdea Novelty Checker (compares each idea with 10 related papers): 64\nScore of 100 = every reviewer-praised idea judged novel and every AI-written idea judged not novel"
+    }
+  ]
+}

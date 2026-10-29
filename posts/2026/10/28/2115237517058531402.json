@@ -1,0 +1,27 @@
+{
+  "id": "2115237517058531402",
+  "permalink": "https://x.com/BoraBaysal/status/2115237517058531402",
+  "author": {
+    "name": "Bora Baysal",
+    "handle": "@BoraBaysal",
+    "profile_url": "https://x.com/BoraBaysal"
+  },
+  "posted_at": "2026-10-28T00:21:37Z",
+  "collected_at": "2026-10-29T16:31:06Z",
+  "updated_at": "2026-10-29T16:31:06Z",
+  "thread": [],
+  "summary_md": "**Bora Baysal ([@BoraBaysal](https://x.com/BoraBaysal/status/2115237517058531402))** adds a scanner for fake AI-agent skills and apps to **Agent Supply-Chain Auditor**: it flags look-alike names (e.g. homoglyph package names), prompt injection, hidden text and key-stealing code in Hermes/OpenClaw skills. Open source, zero dependencies.",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/borabaysal/Agent_Supply_Chain_Auditor",
+      "short_url": "https://t.co/0FTcOponP7",
+      "title": "GitHub - borabaysal/Agent_Supply_Chain_Auditor: Audit self-hosted AI agents (Hermes, MCP clients) for unpinned skills/servers, GitSpawn-style git config (core.fsmonitor) and exposed keys. PASS/FAIL report + Telegram alert.",
+      "from_post": "2115237517058531402"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "relevance": "Supply-chain auditing for skill marketplaces, a growing risk for agent harnesses."
+}

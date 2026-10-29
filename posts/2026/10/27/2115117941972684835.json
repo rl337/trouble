@@ -1,0 +1,39 @@
+{
+  "id": "2115117941972684835",
+  "permalink": "https://x.com/_akhaliq/status/2115117941972684835",
+  "author": {
+    "name": "AK",
+    "handle": "@_akhaliq",
+    "profile_url": "https://x.com/_akhaliq"
+  },
+  "posted_at": "2026-10-27T16:26:29Z",
+  "collected_at": "2026-10-29T16:31:06Z",
+  "updated_at": "2026-10-29T16:31:06Z",
+  "thread": [],
+  "summary_md": "**AK ([@_akhaliq](https://x.com/_akhaliq/status/2115117941972684835))** posts **MiRL** (Tian, Khan, Wang, Chen, Bansal): Misbehavior-driven RL profiles recurring wrong steps of terminal agents and trains from those failure points. On Qwen3.5-4B eight misbehaviors account for 52.1% of wrong steps; after MiRL they recur 43–57% less, beating TMax-4B on Terminal-Bench Lite (51.8% vs 47.4%) with 35% of the rollouts.",
+  "referenced_urls": [
+    {
+      "url": "https://huggingface.co/papers/2610.35697",
+      "short_url": "https://t.co/MRcTmqIV19",
+      "title": "Paper page - MiRL: Error-Targeted Reinforcement Learning for Correcting Terminal Agent Misbehaviors",
+      "from_post": "2115117941972684835"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev",
+    "agentic-cognition"
+  ],
+  "relevance": "Error-targeted RL for small terminal agents — relevant to local coding models.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HVpoc50WcAAOSpO.jpg",
+      "from_post": "2115117941972684835",
+      "description": "Hugging Face paper page for 'MiRL: Error-Targeted Reinforcement Learning for Correcting Terminal Agent Misbehaviors' (Tian, Khan, Wang, Chen, Bansal) with its abstract.",
+      "thumbnail": "posts/2026/10/27/2115117941972684835/media/0.webp",
+      "kind": "paper",
+      "ocr_text": "MiRL: Error-Targeted Reinforcement Learning for Correcting Terminal Agent Misbehaviors. Authors: Runchu Tian, Zaid Khan, Zun Wang, Justin Chih-Yao Chen, Mohit Bansal. Abstract: Error-targeted learning gives a legible way to improve a model: identify specific weaknesses of the model, train the model to fix these weaknesses, and check whether the weaknesses are fixed. We study how to apply error-targeted learning to terminal agents, which solve long-horizon tasks specified in natural language by interacting with a command shell. Existing error-targeted methods are designed for single-turn tasks, and existing analyses of agent failures are used to evaluate and debug agents rather than to train them. We propose Misbehavior-driven RL (MiRL), which first profiles the errors of a policy to find generalizable misbehaviors: kinds of wrong steps that recur across many environments. MiRL then trains the policy with RL, starting rollouts at the steps where these misbehaviors occur and rewarding a rollout only if it passes the tests and avoids the misbehavior. On Qwen3.5-4B, eight misbehaviors account for 52.1% of wrong steps. After training with MiRL, the policy repeats the measured misbehaviors 43% to 57% less often on average on unseen prefixes. MiRL outperforms TMax-4B on Terminal-Bench Lite (51.8% vs. 47.4%) and matches it on Terminal-Bench 2.1 (21.3% vs. 20.6%), while using 35% of its rollouts."
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "id": "2115210517425934505",
+  "permalink": "https://x.com/liqinye27/status/2115210517425934505",
+  "author": {
+    "name": "Liqin Ye",
+    "handle": "@liqinye27",
+    "profile_url": "https://x.com/liqinye27"
+  },
+  "posted_at": "2026-10-27T22:34:20Z",
+  "collected_at": "2026-10-29T16:31:06Z",
+  "updated_at": "2026-10-29T16:31:06Z",
+  "thread": [
+    {
+      "id": "2115210521607897556",
+      "permalink": "https://x.com/liqinye27/status/2115210521607897556",
+      "posted_at": "2026-10-27T22:34:21Z",
+      "position": 1
+    },
+    {
+      "id": "2115210524916896228",
+      "permalink": "https://x.com/liqinye27/status/2115210524916896228",
+      "posted_at": "2026-10-27T22:34:22Z",
+      "position": 2
+    },
+    {
+      "id": "2115210527941034266",
+      "permalink": "https://x.com/liqinye27/status/2115210527941034266",
+      "posted_at": "2026-10-27T22:34:23Z",
+      "position": 3
+    },
+    {
+      "id": "2115210531296481761",
+      "permalink": "https://x.com/liqinye27/status/2115210531296481761",
+      "posted_at": "2026-10-27T22:34:24Z",
+      "position": 4
+    },
+    {
+      "id": "2115210534710612058",
+      "permalink": "https://x.com/liqinye27/status/2115210534710612058",
+      "posted_at": "2026-10-27T22:34:24Z",
+      "position": 5
+    },
+    {
+      "id": "2115210536661196897",
+      "permalink": "https://x.com/liqinye27/status/2115210536661196897",
+      "posted_at": "2026-10-27T22:34:25Z",
+      "position": 6
+    }
+  ],
+  "summary_md": "**Liqin Ye ([@liqinye27](https://x.com/liqinye27/status/2115210517425934505))** introduces **Forecast-Dojo**, a replayable environment for benchmarking and training LLM forecasting agents on rewound real-world events without hindsight. The thread reports research tools improve all 12 evaluated models, memory notebooks cut API cost by a median 24% with trade-offs, and trajectories from the dojo fine-tune a Qwen3-30B-A3B model into a better forecaster; paper, site, code and data linked.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2609.28876",
+      "short_url": "https://t.co/dSePywSSSy",
+      "title": "Forecast-Dojo: Replayable Environments for Benchmarking and...",
+      "from_post": "2115210517425934505"
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.22684",
+      "short_url": "https://t.co/wZFRSwPBCJ",
+      "from_post": "2115210534710612058"
+    },
+    {
+      "url": "https://forecast-dojo.github.io/",
+      "short_url": "https://t.co/X3ADODa8hX",
+      "title": "Forecast Dojo — A time machine for forecasting agents.",
+      "from_post": "2115210536661196897"
+    },
+    {
+      "url": "https://github.com/Forecast-Dojo/Forecast-Dojo",
+      "short_url": "https://t.co/7J6IbH6F9R",
+      "title": "GitHub - Forecast-Dojo/Forecast-Dojo",
+      "from_post": "2115210536661196897"
+    },
+    {
+      "url": "https://huggingface.co/datasets/liqinye/Forecast-Dojo",
+      "short_url": "https://t.co/HEvtgVRN9Z",
+      "title": "liqinye/Forecast-Dojo · Datasets at Hugging Face",
+      "from_post": "2115210536661196897"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-cognition"
+  ],
+  "relevance": "A training/eval environment for agents reasoning under evolving evidence.",
+  "media": [
+    {
+      "type": "gif",
+      "url": "https://x.com/liqinye27/status/2115210517425934505/photo/1",
+      "from_post": "2115210517425934505",
+      "description": "Animated GIF introducing Forecast-Dojo, the replayable forecasting environment (not downloaded; referenced only)."
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HVqw1tgXgAA4v-J.jpg",
+      "from_post": "2115210521607897556",
+      "description": "Forecast-Dojo overview: 1,568 Polymarket events (1,338 train, 230 eval) and 18.8M dated CC-News articles; each question is forecast repeatedly over a temporally evolving corpus by an LLM agent with search/read/compute tools, a sandbox and an optional notebook memory, scored by Brier and usable for SFT, RL or on-policy distillation.",
+      "thumbnail": "posts/2026/10/27/2115210517425934505/media/1.webp",
+      "kind": "diagram"
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HVq0GRyWsAET7d0.jpg",
+      "from_post": "2115210524916896228",
+      "description": "Scatter plots of Brier score vs accuracy for memory-free and memory-on forecasting agents (GPT-5.6 Sol, GPT-5.5, GPT-5.4, Opus 4.8/4.6, GLM-5, Kimi K2.5, Qwen3.5-397B, DeepSeek-V3.2, MiniMax M2.5, Nemotron 3 Super, gpt-oss-120b), all trailing the market reference at ~65% accuracy and ~0.50 Brier.",
+      "thumbnail": "posts/2026/10/27/2115210517425934505/media/2.webp",
+      "kind": "chart"
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HVq01e_WMAAG5q2.png",
+      "from_post": "2115210527941034266",
+      "description": "Three panels: Brier improving across forecast step position for memory-free and memory-on agents versus no-tools and market; Brier change by quartile of new evidence; and Brier improvement correlating with evidence capture κ across proprietary and open-weight models (ρ = 0.74).",
+      "thumbnail": "posts/2026/10/27/2115210517425934505/media/3.webp",
+      "kind": "chart"
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HVq4vj3XMAAEXPA.png",
+      "from_post": "2115210531296481761",
+      "description": "Cost and tool-use charts: USD per forecast for GPT-5.6 Sol, 5.5, 5.4 and Claude Opus 4.8/4.6 with no tools, memory-free and memory-on (about $0.18–$5.85), and research calls per forecast split into search, read and Python, from GPT-5.6 Sol (136.6 memory-free) down to MiniMax M2.5 (12.5 memory-on).",
+      "thumbnail": "posts/2026/10/27/2115210517425934505/media/4.webp",
+      "kind": "chart"
+    }
+  ]
+}

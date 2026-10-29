@@ -1,0 +1,32 @@
+{
+  "id": "2115025698922660003",
+  "permalink": "https://x.com/teddyaisi/status/2115025698922660003",
+  "author": {
+    "name": "Teddy",
+    "handle": "@teddyaisi",
+    "profile_url": "https://x.com/teddyaisi"
+  },
+  "posted_at": "2026-10-27T10:19:56Z",
+  "collected_at": "2026-10-29T16:31:06Z",
+  "updated_at": "2026-10-29T16:31:06Z",
+  "thread": [],
+  "summary_md": "**Teddy ([@teddyaisi](https://x.com/teddyaisi/status/2115025698922660003))** notes that Anthropic donated **Agent Skills** to the Agentic AI Foundation on Oct 22 — the name, GitHub org and agentskills.io went with it — and that maintainers from Anthropic, Google and OpenAI now run the spec as individuals, with 70+ platforms loading SKILL.md folders. Teddy advises pinning the spec version skills target.",
+  "referenced_urls": [
+    {
+      "url": "https://agentskills.io/home",
+      "short_url": "https://t.co/iigyC5IhuN",
+      "title": "Agent Skills Overview - Agent Skills",
+      "from_post": "2115025698922660003"
+    },
+    {
+      "url": "http://agentskills.io",
+      "short_url": "https://t.co/AvjzQh2Wov",
+      "from_post": "2115025698922660003"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "relevance": "Governance change for the SKILL.md standard that harness builders depend on."
+}

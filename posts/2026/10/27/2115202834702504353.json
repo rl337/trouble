@@ -1,0 +1,38 @@
+{
+  "id": "2115202834702504353",
+  "permalink": "https://x.com/ComputerPapers/status/2115202834702504353",
+  "author": {
+    "name": "Software Engineering Papers",
+    "handle": "@ComputerPapers",
+    "profile_url": "https://x.com/ComputerPapers"
+  },
+  "posted_at": "2026-10-27T22:03:49Z",
+  "collected_at": "2026-10-29T16:31:06Z",
+  "updated_at": "2026-10-29T16:31:06Z",
+  "thread": [],
+  "summary_md": "**Software Engineering Papers ([@ComputerPapers](https://x.com/ComputerPapers/status/2115202834702504353))** posts *How Do Small Coding Agents Use Code Graphs and Embeddings?* (Bellam): on SWE-bench Verified with small open-weight models, structured tools roughly double grep-only accuracy for Qwen3-8B and Gemma 4 E4B, with gains peaking at 1.7–4B and shrinking by 32B.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.33958",
+      "short_url": "https://t.co/EHOPuBGbW2",
+      "title": "How Do Small Coding Agents Use Code Graphs and Embeddings?",
+      "from_post": "2115202834702504353"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "relevance": "Tells local-model harness builders when code-graph tools are worth it.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HVq1xPaWcAEf7S9.png",
+      "from_post": "2115202834702504353",
+      "description": "Screenshot of a paper abstract testing whether embedding-search and code-graph tools help small open-weight coding agents on SWE-bench Verified, stratified by code-graph hop depth across Qwen3 and Gemma 4 sizes.",
+      "thumbnail": "posts/2026/10/27/2115202834702504353/media/0.webp",
+      "kind": "paper",
+      "ocr_text": "Coding agents are given embedding search and code-graph tools on the premise that a repository's structure is something the model lacks and the tool supplies. We test that premise on SWE-bench Verified with small open-weight models, stratifying tasks by a deterministic hop depth (the shortest code-graph path from code the issue mentions to code the gold patch changes) that a companion paper defines and validates. First, we ablate a localization agent's tool set (grep only; +embedding search; +graph tools; all) on a depth-balanced 160-task split and on all 500 tasks for ten models (six Qwen3 sizes from 0.6B to 32B with five decodings each, an FP8 control, three Gemma 4 sizes; 79k episodes). Structured tools double grep-only accuracy for Qwen3-8B and Gemma 4 E4B; their gain peaks at 17-21 points at 1.7-4B and falls to 4-5 points at 32B (odds ratio 0.77-0.82 per doubling of parameters). From 8B up, abo…"
+    }
+  ]
+}

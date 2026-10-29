@@ -1,0 +1,44 @@
+{
+  "id": "2115337125419782389",
+  "permalink": "https://x.com/ComputerPapers/status/2115337125419782389",
+  "author": {
+    "name": "Software Engineering Papers",
+    "handle": "@ComputerPapers",
+    "profile_url": "https://x.com/ComputerPapers"
+  },
+  "posted_at": "2026-10-28T06:57:26Z",
+  "collected_at": "2026-10-29T16:31:06Z",
+  "updated_at": "2026-10-29T16:31:06Z",
+  "thread": [],
+  "summary_md": "**Software Engineering Papers ([@ComputerPapers](https://x.com/ComputerPapers/status/2115337125419782389))** posts **Thinking-in-Bets** (Bui): before reading user feedback an agent writes a private Claim Checklist of its main claims, checks and confidence, then consults it when challenged — reducing sycophantic revisions across eight benchmarks on five Gemini models. Paper and project page linked.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.34654",
+      "short_url": "https://t.co/bLZ8NnXbjg",
+      "title": "Thinking-in-Bets at Test Time Reduces Sycophantic Revisions in LLM Agents",
+      "from_post": "2115337125419782389"
+    },
+    {
+      "url": "https://thinking-in-bets.github.io/",
+      "short_url": "https://t.co/brmW0Looe9",
+      "title": "Thinking-in-Bets at Test Time Reduces Sycophantic Revisions in LLM Agents",
+      "from_post": "2115337125419782389"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-cognition"
+  ],
+  "relevance": "A training-free anti-sycophancy technique for agents under user pushback.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HVsv6AjXAAAjFVC.png",
+      "from_post": "2115337125419782389",
+      "description": "Screenshot of the Thinking-in-Bets paper abstract: a training-free Claim Checklist an agent writes before reading user feedback so it keeps verified work when challenged, evaluated on five Gemini models across eight benchmarks.",
+      "thumbnail": "posts/2026/10/28/2115337125419782389/media/0.webp",
+      "kind": "paper",
+      "ocr_text": "Language model agents often abandon correct work when a user challenges it, yet simply telling them to stand firm makes them ignore real mistakes. Once an agent reads a complaint, it tends to discount its own earlier checks in order to agree with the user. We introduce Thinking-in-Bets, a training-free method in which an agent writes a short private record of its main claims, the checks supporting them, and its confidence before reading user feedback. When challenged, the agent consults this Claim Checklist to keep verified work intact while investigating uncertain or newly challenged parts. We evaluate five Gemini models (3.5 Flash-Lite, 3.5 Flash, 3.6 Flash, 3.8 Flash, and 4.0 Argon) across eight benchmarks: SWE-Together, SWE-Interact, and DeepSWE for software engineering, Agents' Last Exam for professional reports, Humanity's Last Exam and SycEval for academic reasoning, Vals Financ…"
+    }
+  ]
+}

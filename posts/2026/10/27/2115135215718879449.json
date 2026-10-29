@@ -7,8 +7,8 @@
     "profile_url": "https://x.com/CSVisionPapers"
   },
   "posted_at": "2026-10-27T17:35:07Z",
-  "collected_at": "2026-10-29T15:06:13Z",
-  "updated_at": "2026-10-29T15:06:13Z",
+  "collected_at": "2026-10-29T16:31:06Z",
+  "updated_at": "2026-10-29T16:31:06Z",
   "thread": [],
   "summary_md": "**[@CSVisionPapers](https://x.com/CSVisionPapers/status/2115135215718879449)** shares **AgentDreamer** (Kim, Park, Park, Han — SNU), which uses an off-the-shelf agent to plan 3D motion for text-controllable physics simulation.\n\nPer the abstract shown in the post, the agent turns an instruction plus scene geometry into a structured motion prior — what moves, which way, in what order — expressed as parametric trajectories over time chunks. A differentiable MPM simulator is then optimized to match that prior while staying physically plausible. The authors also propose **Motion-IG**, an information-theoretic text–motion alignment metric. Paper and project page are linked.",
   "referenced_urls": [

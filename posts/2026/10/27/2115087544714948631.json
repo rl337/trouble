@@ -1,0 +1,39 @@
+{
+  "id": "2115087544714948631",
+  "permalink": "https://x.com/BNHNA/status/2115087544714948631",
+  "author": {
+    "name": "Computational Engineering, Finance, and Science",
+    "handle": "@BNHNA",
+    "profile_url": "https://x.com/BNHNA"
+  },
+  "posted_at": "2026-10-27T14:25:41Z",
+  "collected_at": "2026-10-29T16:31:06Z",
+  "updated_at": "2026-10-29T16:31:06Z",
+  "thread": [],
+  "summary_md": "**Computational Engineering, Finance, and Science ([@BNHNA](https://x.com/BNHNA/status/2115087544714948631))** posts **MarkovSim** (Lei, Chen, Zhang): an LLM agent harness for long-horizon computational simulation whose core is bounded-context management — the workflow record goes into schema-defined memory, and a compact context is rebuilt at finite-state-machine transitions.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.35349",
+      "short_url": "https://t.co/z0p5oXkrQo",
+      "title": "MarkovSim: an LLM Agent Harness with Bounded Context for...",
+      "from_post": "2115087544714948631"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev",
+    "agentic-cognition"
+  ],
+  "relevance": "FSM-bounded context as a harness design for long workflows.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HVpM6bsXUAAq5Qe.png",
+      "from_post": "2115087544714948631",
+      "description": "Screenshot of the MarkovSim paper abstract: an LLM agent harness for long-horizon computational simulation whose core is context management, writing the workflow record to a schema-defined memory and rebuilding a compact context at finite-state-machine transitions.",
+      "thumbnail": "posts/2026/10/27/2115087544714948631/media/0.webp",
+      "kind": "paper",
+      "ocr_text": "Recent studies have applied large language model (LLM) agent systems to computational simulation workflows. Such workflows are long-horizon, so the information generated can exceed what an LLM can reason over at once, its context window. Context management is therefore essential, yet existing systems have either neglected it or treated it as a supporting mechanism rather than a subject of study. This paper presents MarkovSim, an LLM agent harness for long-horizon computational simulation, whose core is a context management scheme built into the workflow. The workflow record is written to a memory system with a predefined schema, and at workflow-defined boundaries, namely the state transitions of a finite-state machine a compact representation of the solution progress is constructed from it as the agent's context. Instantiated on finite element analysis and…"
+    }
+  ]
+}

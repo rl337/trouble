@@ -1,0 +1,37 @@
+{
+  "id": "2115336164941222211",
+  "permalink": "https://x.com/AgentsWatch/status/2115336164941222211",
+  "author": {
+    "name": "AgentsWatch",
+    "handle": "@AgentsWatch",
+    "profile_url": "https://x.com/AgentsWatch"
+  },
+  "posted_at": "2026-10-28T06:53:37Z",
+  "collected_at": "2026-10-29T16:31:06Z",
+  "updated_at": "2026-10-29T16:31:06Z",
+  "thread": [],
+  "summary_md": "**AgentsWatch ([@AgentsWatch](https://x.com/AgentsWatch/status/2115336164941222211))** summarizes **HSC-Bench** (Li et al.) on agent handoffs: structured state beat a same-length recent transcript for 5 of 6 models on continuation score, while Kimi K2 fell 9.43 points on tool-state tasks.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.36523",
+      "short_url": "https://t.co/7njjsx4hm0",
+      "title": "Benchmarking Task Takeover Across Agent Handoffs",
+      "from_post": "2115336164941222211"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "relevance": "Guidance on what to pass between agents at handoff.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HVsu7MxW4AAOvMz.jpg",
+      "from_post": "2115336164941222211",
+      "description": "Three panels of score-difference points with 95% CIs (task-level and task-family) for GPT-5.4, Sonnet 5, DeepSeek, Qwen 3.5+, Gemini FL and Kimi K2 under (a) Conversational State (n=205), (b) Tool State (n=386) and (c) File-work State (n=148).",
+      "thumbnail": "posts/2026/10/28/2115336164941222211/media/0.webp",
+      "kind": "chart"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "2115098127892140382",
+  "permalink": "https://x.com/HUNTER_z1389/status/2115098127892140382",
+  "author": {
+    "name": "miqu | Building in public",
+    "handle": "@HUNTER_z1389",
+    "profile_url": "https://x.com/HUNTER_z1389"
+  },
+  "posted_at": "2026-10-27T15:07:44Z",
+  "collected_at": "2026-10-29T16:31:06Z",
+  "updated_at": "2026-10-29T16:31:06Z",
+  "thread": [],
+  "summary_md": "**miqu | Building in public ([@HUNTER_z1389](https://x.com/HUNTER_z1389/status/2115098127892140382))** summarizes **SlowLab**, which gives agents a simulated year of irreversible greenhouse experiments; on 48 unseen sites three LLM agents scored below a Bayesian-optimisation baseline.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.34644",
+      "short_url": "https://t.co/q6oHCVcKaf",
+      "title": "SlowLab: Benchmarking Autonomous AI Agents on a Year of...",
+      "from_post": "2115098127892140382"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-cognition"
+  ],
+  "relevance": "Long-horizon, irreversible-decision benchmark exposing agent planning limits."
+}

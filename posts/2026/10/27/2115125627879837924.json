@@ -1,0 +1,44 @@
+{
+  "id": "2115125627879837924",
+  "permalink": "https://x.com/architosh/status/2115125627879837924",
+  "author": {
+    "name": "architosh",
+    "handle": "@architosh",
+    "profile_url": "https://x.com/architosh"
+  },
+  "posted_at": "2026-10-27T16:57:01Z",
+  "collected_at": "2026-10-29T16:31:06Z",
+  "updated_at": "2026-10-29T16:31:06Z",
+  "thread": [],
+  "summary_md": "**architosh ([@architosh](https://x.com/architosh/status/2115125627879837924))** links its article on Maxon's new **Cinema 4D MCP server**, which lets artists connect their AI assistant of choice to automate and streamline C4D workflows.",
+  "referenced_urls": [
+    {
+      "url": "https://architosh.com/2026/10/whats-in-maxons-new-cinema-4d-mcp-server/",
+      "short_url": "https://t.co/fRligwFP34",
+      "title": "What's In Maxon's New Cinema 4D MCP Server",
+      "from_post": "2115125627879837924"
+    }
+  ],
+  "hashtags": [
+    "maxon",
+    "c4d",
+    "cinema4D",
+    "mcp",
+    "ai",
+    "visualization"
+  ],
+  "topics": [
+    "agentic-media"
+  ],
+  "relevance": "A major 3D DCC tool gaining an official MCP interface.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HVpvjP0bkAAbabD.jpg",
+      "from_post": "2115125627879837924",
+      "description": "Illustration of a chat window connected through an 'MCP' badge to a panel showing a blue hexagonal app logo, over a blurred 3D application interface.",
+      "thumbnail": "posts/2026/10/27/2115125627879837924/media/0.webp",
+      "kind": "other"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "id": "2115148547486298470",
+  "permalink": "https://x.com/NMuldrow/status/2115148547486298470",
+  "author": {
+    "name": "Nick",
+    "handle": "@NMuldrow",
+    "profile_url": "https://x.com/NMuldrow"
+  },
+  "posted_at": "2026-10-27T18:28:05Z",
+  "collected_at": "2026-10-29T16:31:06Z",
+  "updated_at": "2026-10-29T16:31:06Z",
+  "thread": [],
+  "summary_md": "**Nick ([@NMuldrow](https://x.com/NMuldrow/status/2115148547486298470))** shares **overseer**, a lightweight bridge for a plan-locally-execute split: Codex running a frontier model plans and audits, while the Pi agent running **Qwen 3.8 Flash Next on a DGX Spark** does the building. The GitHub repo describes frontier models orchestrating local coding workers across Codex, Pi, OMP and others.",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/Nick5893/overseer",
+      "short_url": "https://t.co/4s7rdTaY1u",
+      "title": "GitHub - Nick5893/overseer: Frontier models orchestrate local coding workers across Codex, Pi, OMP, OpenCode, and Claude Code through a lightweight CLI bridge.",
+      "from_post": "2115148547486298470"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "local-models",
+    "harness-dev"
+  ],
+  "relevance": "A working frontier-plans / Spark-executes harness pattern on the exact hardware and model tier Richard runs."
+}

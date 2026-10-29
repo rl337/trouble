@@ -1,0 +1,27 @@
+{
+  "id": "2115265143957266501",
+  "permalink": "https://x.com/jus_eng_njainam/status/2115265143957266501",
+  "author": {
+    "name": "Naman Jain",
+    "handle": "@jus_eng_njainam",
+    "profile_url": "https://x.com/jus_eng_njainam"
+  },
+  "posted_at": "2026-10-28T02:11:24Z",
+  "collected_at": "2026-10-29T16:31:06Z",
+  "updated_at": "2026-10-29T16:31:06Z",
+  "thread": [],
+  "summary_md": "**Naman Jain ([@jus_eng_njainam](https://x.com/jus_eng_njainam/status/2115265143957266501))** flags a trap in NVIDIA's DGX Spark tuning post for Ling-3.0-flash: enabling the FP8 output head together with MTP drafting without sharing the whole head module makes the draft read FP8 weights as BF16, so accept length falls to 1.00 — slower than no tuning at all. Links NVIDIA's *3 Ways to Boost MoE Inference on NVIDIA DGX Spark*.",
+  "referenced_urls": [
+    {
+      "url": "https://developer.nvidia.com/blog/3-ways-to-boost-moe-inference-on-nvidia-dgx-spark/",
+      "short_url": "https://t.co/EAmqvo4LyE",
+      "title": "3 Ways to Boost MoE Inference on NVIDIA DGX Spark | NVIDIA Technical Blog",
+      "from_post": "2115265143957266501"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "local-models"
+  ],
+  "relevance": "A specific DGX Spark MoE tuning pitfall worth knowing before copying NVIDIA's recipe."
+}

@@ -7,8 +7,8 @@
     "profile_url": "https://x.com/7zSushi"
   },
   "posted_at": "2026-10-27T12:32:23Z",
-  "collected_at": "2026-10-29T15:06:13Z",
-  "updated_at": "2026-10-29T15:06:13Z",
+  "collected_at": "2026-10-29T16:31:06Z",
+  "updated_at": "2026-10-29T16:31:06Z",
   "thread": [],
   "summary_md": "**[@7zSushi](https://x.com/7zSushi/status/2115059031572398166)** highlights **flint** from RecursiveSI: an Apache-2.0 mixture-of-experts model aimed at coding agents, with ~39.8B total and ~2.5B active parameters.\n\n- RecursiveSI self-reports 74.2% on SWE-bench Verified (the poster explicitly notes this is vendor-reported).\n- Hugging Face Transformers added support in v5.21 on Oct 26.",
   "referenced_urls": [

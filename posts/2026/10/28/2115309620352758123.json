@@ -1,0 +1,60 @@
+{
+  "id": "2115309620352758123",
+  "permalink": "https://x.com/FanJiajun67938/status/2115309620352758123",
+  "author": {
+    "name": "Jiajun Fan",
+    "handle": "@FanJiajun67938",
+    "profile_url": "https://x.com/FanJiajun67938"
+  },
+  "posted_at": "2026-10-28T05:08:08Z",
+  "collected_at": "2026-10-29T16:31:06Z",
+  "updated_at": "2026-10-29T16:31:06Z",
+  "thread": [
+    {
+      "id": "2115309643979468963",
+      "permalink": "https://x.com/FanJiajun67938/status/2115309643979468963",
+      "posted_at": "2026-10-28T05:08:14Z",
+      "position": 1
+    },
+    {
+      "id": "2115309677491720389",
+      "permalink": "https://x.com/FanJiajun67938/status/2115309677491720389",
+      "posted_at": "2026-10-28T05:08:22Z",
+      "position": 2
+    },
+    {
+      "id": "2115309728641532040",
+      "permalink": "https://x.com/FanJiajun67938/status/2115309728641532040",
+      "posted_at": "2026-10-28T05:08:34Z",
+      "position": 3
+    },
+    {
+      "id": "2115309753605743025",
+      "permalink": "https://x.com/FanJiajun67938/status/2115309753605743025",
+      "posted_at": "2026-10-28T05:08:40Z",
+      "position": 4
+    }
+  ],
+  "summary_md": "**Jiajun Fan ([@FanJiajun67938](https://x.com/FanJiajun67938/status/2115309620352758123))** introduces **AudioRSI**, a recursively self-improving audio LLM in which one model is both student and teacher, with the improved student becoming the teacher every T steps. The thread reports MMAU test-mini rising 74.6% → 75.1% (frozen teacher) → 76.1% (AudioRSI) for a 7B model with no external reward model, and a teacher that listens to reject hallucinated reasoning paths.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.36578",
+      "short_url": "https://t.co/2CKj6YXLBO",
+      "title": "AudioRSI: Recursively Self-Improving Audio Reasoners",
+      "from_post": "2115309620352758123"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-cognition"
+  ],
+  "relevance": "Self-improvement loop with the model as its own process-reward judge.",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://x.com/FanJiajun67938/status/2115309620352758123/video/1",
+      "from_post": "2115309620352758123",
+      "description": "Explainer video for AudioRSI, the recursively self-improving audio LLM (not downloaded; referenced only)."
+    }
+  ]
+}

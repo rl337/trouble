@@ -1,0 +1,32 @@
+{
+  "id": "2115021949650735429",
+  "permalink": "https://x.com/DgorgIron/status/2115021949650735429",
+  "author": {
+    "name": "Dgorg Iron",
+    "handle": "@DgorgIron",
+    "profile_url": "https://x.com/DgorgIron"
+  },
+  "posted_at": "2026-10-27T10:05:02Z",
+  "collected_at": "2026-10-29T16:31:06Z",
+  "updated_at": "2026-10-29T16:31:06Z",
+  "thread": [],
+  "summary_md": "**Dgorg Iron ([@DgorgIron](https://x.com/DgorgIron/status/2115021949650735429))** introduces **mcp-warden**, which keeps API keys in the OS keychain so agents in Claude Code or Cursor call tools without ever seeing credentials; local, scoped, with approvals and an audit trail.",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/ermoluk/mcp-warden",
+      "short_url": "https://t.co/3zFPgcIAdF",
+      "title": "GitHub - ermoluk/mcp-warden: Local-first credential broker for MCP. AI coding agents (Claude Code, Cursor, Codex…) call APIs, SSH and databases through scoped presets; secrets stay in your OS keychain and never enter the agent's context.",
+      "from_post": "2115021949650735429"
+    }
+  ],
+  "hashtags": [
+    "ClaudeCode",
+    "Cursor",
+    "MCP",
+    "AIAgents"
+  ],
+  "topics": [
+    "harness-dev"
+  ],
+  "relevance": "Credential isolation for MCP tools — a practical harness security pattern."
+}

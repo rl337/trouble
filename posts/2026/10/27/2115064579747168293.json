@@ -1,0 +1,53 @@
+{
+  "id": "2115064579747168293",
+  "permalink": "https://x.com/GumbiiDigital/status/2115064579747168293",
+  "author": {
+    "name": "Gumbii.Digital",
+    "handle": "@GumbiiDigital",
+    "profile_url": "https://x.com/GumbiiDigital"
+  },
+  "posted_at": "2026-10-27T12:54:26Z",
+  "collected_at": "2026-10-29T16:31:06Z",
+  "updated_at": "2026-10-29T16:31:06Z",
+  "thread": [],
+  "summary_md": "**Gumbii.Digital ([@GumbiiDigital](https://x.com/GumbiiDigital/status/2115064579747168293))** posts an update from the community optimization challenge run by @yukonresearch: **Nemotron 3.5 Lightning** now runs about 169% faster on a single DGX Spark and 128% faster on Apple Silicon, tracked on the CUDA.fast and MLX.fast leaderboards. The attached leaderboard shows decode going from 75.3 to 233.2 tok/s on Spark.",
+  "referenced_urls": [
+    {
+      "url": "https://www.yukon.org/cudafast?benchmark=nemotron35&platform=cuda",
+      "short_url": "https://t.co/B5dqqEdXu0",
+      "title": "cuda.fast — Nemotron 3.5 Lightning, faster with speculative decode",
+      "from_post": "2115064579747168293"
+    },
+    {
+      "url": "https://www.yukon.org/mlxfast?benchmark=nemotron35&platform=mlx",
+      "short_url": "https://t.co/JGj1ZMmFpj",
+      "title": "mlx.fast — Nemotron 3.5 Lightning, faster with speculative decode",
+      "from_post": "2115064579747168293"
+    },
+    {
+      "url": "http://CUDA.fast",
+      "short_url": "https://t.co/SBZAS7zE7G",
+      "from_post": "2115064579747168293"
+    },
+    {
+      "url": "http://MLX.fast",
+      "short_url": "https://t.co/VdudK1DKmL",
+      "from_post": "2115064579747168293"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "local-models"
+  ],
+  "relevance": "Crowd-sourced kernel/serving speedups for a reasoning model on DGX Spark, with public leaderboards to follow.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HVo3lq_W4AA5NTl.jpg",
+      "from_post": "2115064579747168293",
+      "description": "CUDA.fast leaderboard page: 'Nemotron 3.5 Lightning runs 169.4% faster on DGX Spark', decode 75.3 to 233.2 tok/s and prefill 6300.7 tok/s, with a step chart of cuda.fast (169.4%) vs mlx.fast (128.4%) speedups over time.",
+      "thumbnail": "posts/2026/10/27/2115064579747168293/media/0.webp",
+      "kind": "chart"
+    }
+  ]
+}

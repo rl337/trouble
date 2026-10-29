@@ -1,0 +1,27 @@
+{
+  "id": "2115134475877200247",
+  "permalink": "https://x.com/l_Love_Kiwi/status/2115134475877200247",
+  "author": {
+    "name": "I_Love_Kiwi",
+    "handle": "@l_Love_Kiwi",
+    "profile_url": "https://x.com/l_Love_Kiwi"
+  },
+  "posted_at": "2026-10-27T17:32:11Z",
+  "collected_at": "2026-10-29T16:31:06Z",
+  "updated_at": "2026-10-29T16:31:06Z",
+  "thread": [],
+  "summary_md": "**I_Love_Kiwi ([@l_Love_Kiwi](https://x.com/l_Love_Kiwi/status/2115134475877200247))** shares three MIT-licensed Claude Code mods: **cache-clock** (countdown until the prompt cache goes cold, plus /keep-warm), **helper-desk** (task progress bar and live cost per subagent) and **time-left** (self-calibrating ETA).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/sacha9214/claude-mods",
+      "short_url": "https://t.co/LykdgBDxKJ",
+      "title": "GitHub - sacha9214/claude-mods: Claude Code mods: prompt-cache countdown with keep-warm, a task progress bar with a subagent cost panel, and a self-calibrating time-left estimate",
+      "from_post": "2115134475877200247"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "relevance": "Small harness add-ons for cost and cache visibility."
+}

@@ -1,0 +1,27 @@
+{
+  "id": "2115006187305423085",
+  "permalink": "https://x.com/saadkamal/status/2115006187305423085",
+  "author": {
+    "name": "Saad",
+    "handle": "@saadkamal",
+    "profile_url": "https://x.com/saadkamal"
+  },
+  "posted_at": "2026-10-27T09:02:24Z",
+  "collected_at": "2026-10-29T16:31:06Z",
+  "updated_at": "2026-10-29T16:31:06Z",
+  "thread": [],
+  "summary_md": "**Saad ([@saadkamal](https://x.com/saadkamal/status/2115006187305423085))** points to 36Kr's report that Meituan's **DeepSkill** now lists 370k agent skills verified on real tasks (up from 130k in September), with reviews from real runs and a report on whether a skill ships data off-device; he argues skills need restaurant-style ratings.",
+  "referenced_urls": [
+    {
+      "url": "https://eu.36kr.com/en/p/4033593429776009",
+      "short_url": "https://t.co/5eyX7vipC2",
+      "title": "Meituan Launches DeepSkill: Dianping-Style Skill Platform Integrating Over 370,000 Skill Tools",
+      "from_post": "2115006187305423085"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "relevance": "Skill-marketplace curation and data-exfiltration reporting at scale."
+}

@@ -1,0 +1,38 @@
+{
+  "id": "2115133144492114277",
+  "permalink": "https://x.com/justinn_builds/status/2115133144492114277",
+  "author": {
+    "name": "Justin",
+    "handle": "@justinn_builds",
+    "profile_url": "https://x.com/justinn_builds"
+  },
+  "posted_at": "2026-10-27T17:26:53Z",
+  "collected_at": "2026-10-29T16:31:06Z",
+  "updated_at": "2026-10-29T16:31:06Z",
+  "thread": [],
+  "summary_md": "**Justin ([@justinn_builds](https://x.com/justinn_builds/status/2115133144492114277))** publishes a recipe for **MiniMax M3.1 Flash on two DGX Sparks** (EXL3 2.15bpw, TP2): 30+ tok/s single-stream decode, 1,500+ tok/s prefill and ~100 s boot, built on @ViC305's earlier launch.",
+  "referenced_urls": [
+    {
+      "url": "https://huggingface.co/c777777/MiniMax-M3.1-Flash-EXL3-2.15bpw-TP2-DGX-Spark",
+      "short_url": "https://t.co/ZBWmDTIAh7",
+      "title": "c777777/MiniMax-M3.1-Flash-EXL3-2.15bpw-TP2-DGX-Spark · Hugging Face",
+      "from_post": "2115133144492114277"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "local-models"
+  ],
+  "relevance": "A reproducible max-tier model recipe for paired DGX Sparks.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HVp1fELW4AAJS1K.jpg",
+      "from_post": "2115133144492114277",
+      "description": "MiniMax M3.1 Flash 'Ready for liftoff' launch card for 2x DGX Spark: 1,561 tok/s prefill (8K and 16K prompts), 66.4 tok/s total decode over 4 streams, 30.8 tok/s single-stream decode; community recipe launch, validated Oct 27, 2026; mascot in an astronaut helmet.",
+      "thumbnail": "posts/2026/10/27/2115133144492114277/media/0.webp",
+      "kind": "chart",
+      "ocr_text": "MiniMax M3.1 Flash. Ready for liftoff. 2× DGX Spark. 1,561 tok/s PREFILL · 8K & 16K PROMPTS. 66.4 tok/s TOTAL DECODE · 4 STREAMS. 30.8 tok/s DECODE · SINGLE STREAM. COMMUNITY RECIPE LAUNCH. Means across two pairs · Validated Oct 27, 2026"
+    }
+  ]
+}
