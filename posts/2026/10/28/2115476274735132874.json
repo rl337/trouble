@@ -1,0 +1,36 @@
+{
+  "id": "2115476274735132874",
+  "permalink": "https://x.com/YingYaoShakewin/status/2115476274735132874",
+  "author": {
+    "name": "Ying Yao",
+    "handle": "@YingYaoShakewin",
+    "profile_url": "https://x.com/YingYaoShakewin"
+  },
+  "posted_at": "2026-10-28T16:10:22Z",
+  "collected_at": "2026-10-29T16:31:16Z",
+  "updated_at": "2026-10-29T16:31:16Z",
+  "thread": [],
+  "summary_md": "**Ying Yao ([@YingYaoShakewin](https://x.com/YingYaoShakewin/status/2115476274735132874))** built **Tadpole**, an LLM agent from scratch in ~3,500 lines of Python, then post-trained Qwen3-4B behind it with SFT, expert iteration and GRPO; it runs 24/7 on Telegram, and the repo shares code, adapters, data and failures.",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/shakewingo/Tadpole",
+      "short_url": "https://t.co/l1Zq8CKWgc",
+      "title": "GitHub - shakewingo/Tadpole: Build an LLM agent from scratch and continuously evolve it.",
+      "from_post": "2115476274735132874"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev",
+    "local-models"
+  ],
+  "relevance": "An end-to-end small-model agent plus post-training recipe that is fully open.",
+  "media": [
+    {
+      "type": "gif",
+      "url": "https://x.com/YingYaoShakewin/status/2115476274735132874/photo/1",
+      "from_post": "2115476274735132874",
+      "description": "Animated GIF of the from-scratch LLM agent running on Telegram (not downloaded; referenced only)."
+    }
+  ]
+}

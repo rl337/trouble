@@ -1,0 +1,38 @@
+{
+  "id": "2115405924646985924",
+  "permalink": "https://x.com/tom_doerr/status/2115405924646985924",
+  "author": {
+    "name": "Tom Dörr",
+    "handle": "@tom_doerr",
+    "profile_url": "https://x.com/tom_doerr"
+  },
+  "posted_at": "2026-10-28T11:30:49Z",
+  "collected_at": "2026-10-29T16:31:16Z",
+  "updated_at": "2026-10-29T16:31:16Z",
+  "thread": [],
+  "summary_md": "**Tom Dörr ([@tom_doerr](https://x.com/tom_doerr/status/2115405924646985924))** shares **ffmpeg-skill**, which gives Claude Code, Cursor and other MCP clients 42 local FFmpeg video-editing tools via `npx ffmpeg-skill`.\n\nThe README screenshot describes it as giving your coding agent a video editor: a fixed probe → edit losslessly → check → verify workflow, tools for cuts, captions/karaoke, reframing to 9:16, silence removal, loudness, HDR→SDR/LUTs and more, also exposed as an MCP server; no cloud and no API keys.",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/kajisho5/ffmpeg-skill",
+      "short_url": "https://t.co/Mxe09BrYbZ",
+      "title": "GitHub - kajisho5/ffmpeg-skill: Local video editor for coding agents: 42 FFmpeg tools with a machine-readable contract and an MCP server, for Claude Code, Cursor and Codex. Cut, captions, reframe, loudness, platform exports. No cloud, no API keys.",
+      "from_post": "2115405924646985924"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-media"
+  ],
+  "relevance": "A broadly adopted, local-only toolkit that turns any coding agent into a verifiable video editor.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HVtuem8WgAAuauc.jpg",
+      "from_post": "2115405924646985924",
+      "description": "Screenshot of the ffmpeg-skill GitHub README with logo, badges, install command and before/after demo tiles for captions, crop to 9:16, silence removal and loudness.",
+      "thumbnail": "posts/2026/10/28/2115405924646985924/media/0.webp",
+      "kind": "screenshot",
+      "ocr_text": "ffmpeg-skill\nGive your coding agent a video editor.\nClaude Code, Cursor, Codex or any MCP client edits your footage with local FFmpeg, then checks its own output.\nNo cloud · No API keys · Python standard library\nnpx ffmpeg-skill\ncaption.py --animate pop --karaoke · fit.py --aspect 9:16 --fit crop · silence.py --threshold -35 · loudness.py -I -14 --tp -1\nffmpeg-skill is an Agent Skill for Claude Code, Cursor, Codex and any agent that reads SKILL.md. It teaches the agent a fixed workflow (probe → edit losslessly where possible → check → verify) and ships 42 tools that do the actual work with ffmpeg / ffprobe"
+    }
+  ]
+}

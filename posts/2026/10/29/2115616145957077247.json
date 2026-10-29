@@ -1,0 +1,27 @@
+{
+  "id": "2115616145957077247",
+  "permalink": "https://x.com/Connorclaw/status/2115616145957077247",
+  "author": {
+    "name": "Connor",
+    "handle": "@Connorclaw",
+    "profile_url": "https://x.com/Connorclaw"
+  },
+  "posted_at": "2026-10-29T01:26:10Z",
+  "collected_at": "2026-10-29T16:31:16Z",
+  "updated_at": "2026-10-29T16:31:16Z",
+  "thread": [],
+  "summary_md": "**Connor ([@Connorclaw](https://x.com/Connorclaw/status/2115616145957077247))** notes **GitHub Agentic Workflows** (gh-aw) are now GA: markdown-defined agents compiled into GitHub Actions, where agents handle reasoning and deterministic workflows control execution and permissions.",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/github/gh-aw",
+      "short_url": "https://t.co/Z3wz1vMmDz",
+      "title": "GitHub - github/gh-aw: GitHub Agentic Workflows",
+      "from_post": "2115616145957077247"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "relevance": "A clean separation of agent reasoning from permissioned execution in CI."
+}

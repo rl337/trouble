@@ -1,0 +1,38 @@
+{
+  "id": "2115513261143519259",
+  "permalink": "https://x.com/ComputerPapers/status/2115513261143519259",
+  "author": {
+    "name": "Software Engineering Papers",
+    "handle": "@ComputerPapers",
+    "profile_url": "https://x.com/ComputerPapers"
+  },
+  "posted_at": "2026-10-28T18:37:20Z",
+  "collected_at": "2026-10-29T16:31:16Z",
+  "updated_at": "2026-10-29T16:31:16Z",
+  "thread": [],
+  "summary_md": "**Software Engineering Papers ([@ComputerPapers](https://x.com/ComputerPapers/status/2115513261143519259))** shares **Toward Evidence-Based Agentic Software Engineering** by Baltes and Treude.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.35348",
+      "short_url": "https://t.co/GBZl7Wj2DH",
+      "title": "Toward Evidence-Based Agentic Software Engineering",
+      "from_post": "2115513261143519259"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "relevance": "A call for evidence standards in agentic SE claims.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HVvQGcfWwAIVwmc.png",
+      "from_post": "2115513261143519259",
+      "description": "Abstract excerpt of a meta-study of 325 experiments in 146 SE papers (2025–2026) showing harness effects are rarely isolated or versioned in agentic coding evaluations.",
+      "thumbnail": "posts/2026/10/28/2115513261143519259/media/0.webp",
+      "kind": "paper",
+      "ocr_text": "Task success rates and execution costs of agentic coding tools depend on both model and harness. The harness manages context, provides tools, and runs the agent loop. In empirical software engineering (SE) studies, comparisons that change model and harness together cannot isolate their effects. We qualitatively annotated 325 experiments reported in 146 peer-reviewed full papers published between 2025 and 2026. We examined the reported configurations and whether comparisons isolated harness effects, including harness configuration and version, model, tasks, and user interaction. The exact version of every harness used was reported for only 15 experiments. For five, the paper reported when the experiments were run, and for 31, authors shared execution traces for every session. Of the 226 experiments comparing harnesses, 35 never varied the harness in isolation. Based on this analysis, we derive…"
+    }
+  ]
+}

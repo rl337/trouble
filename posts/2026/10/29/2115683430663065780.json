@@ -1,0 +1,27 @@
+{
+  "id": "2115683430663065780",
+  "permalink": "https://x.com/hellonearthis/status/2115683430663065780",
+  "author": {
+    "name": "Brett Cooper",
+    "handle": "@hellonearthis",
+    "profile_url": "https://x.com/hellonearthis"
+  },
+  "posted_at": "2026-10-29T05:53:32Z",
+  "collected_at": "2026-10-29T16:31:16Z",
+  "updated_at": "2026-10-29T16:31:16Z",
+  "thread": [],
+  "summary_md": "**Brett Cooper ([@hellonearthis](https://x.com/hellonearthis/status/2115683430663065780))** describes **Hallmark** by Nutlope, an anti-AI-slop design skill for coding agents (Claude Code, Cursor, Codex) that combines curated themes, real open-source photos and strict slop-linting checks so generated web pages look human-designed.",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/Nutlope/hallmark",
+      "short_url": "https://t.co/PBjrvo4wyQ",
+      "title": "GitHub - Nutlope/hallmark: Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+      "from_post": "2115683430663065780"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "relevance": "A skill that adds taste constraints and lint gates to agent-generated UI."
+}

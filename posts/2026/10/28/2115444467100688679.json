@@ -1,0 +1,93 @@
+{
+  "id": "2115444467100688679",
+  "permalink": "https://x.com/PerraultAndrew/status/2115444467100688679",
+  "author": {
+    "name": "Andrew Perrault",
+    "handle": "@PerraultAndrew",
+    "profile_url": "https://x.com/PerraultAndrew"
+  },
+  "posted_at": "2026-10-28T14:03:58Z",
+  "collected_at": "2026-10-29T16:31:16Z",
+  "updated_at": "2026-10-29T16:31:16Z",
+  "thread": [
+    {
+      "id": "2115444470544298299",
+      "permalink": "https://x.com/PerraultAndrew/status/2115444470544298299",
+      "posted_at": "2026-10-28T14:03:59Z",
+      "position": 1
+    },
+    {
+      "id": "2115444473165758556",
+      "permalink": "https://x.com/PerraultAndrew/status/2115444473165758556",
+      "posted_at": "2026-10-28T14:04:00Z",
+      "position": 2
+    },
+    {
+      "id": "2115444474683793627",
+      "permalink": "https://x.com/PerraultAndrew/status/2115444474683793627",
+      "posted_at": "2026-10-28T14:04:00Z",
+      "position": 3
+    },
+    {
+      "id": "2115444476126662902",
+      "permalink": "https://x.com/PerraultAndrew/status/2115444476126662902",
+      "posted_at": "2026-10-28T14:04:00Z",
+      "position": 4
+    },
+    {
+      "id": "2115444478656057689",
+      "permalink": "https://x.com/PerraultAndrew/status/2115444478656057689",
+      "posted_at": "2026-10-28T14:04:01Z",
+      "position": 5
+    },
+    {
+      "id": "2115444480606425527",
+      "permalink": "https://x.com/PerraultAndrew/status/2115444480606425527",
+      "posted_at": "2026-10-28T14:04:01Z",
+      "position": 6
+    },
+    {
+      "id": "2115444482262860066",
+      "permalink": "https://x.com/PerraultAndrew/status/2115444482262860066",
+      "posted_at": "2026-10-28T14:04:02Z",
+      "position": 7
+    },
+    {
+      "id": "2115444483747664079",
+      "permalink": "https://x.com/PerraultAndrew/status/2115444483747664079",
+      "posted_at": "2026-10-28T14:04:02Z",
+      "position": 8
+    }
+  ],
+  "summary_md": "**Andrew Perrault ([@PerraultAndrew](https://x.com/PerraultAndrew/status/2115444467100688679))** introduces **AfterDeleteBench**: when a coding agent saves a memory and you later delete it, the agent often still knows what was in it. A long self-thread walks through the findings.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.31366",
+      "short_url": "https://t.co/qFccVeXVRI",
+      "title": "AfterDeleteBench: Auditing Post-Deletion Information Persistence...",
+      "from_post": "2115444467100688679"
+    },
+    {
+      "url": "https://shortspan.ai/deleted-agent-memories-survive-in-summaries-and-fragments.html",
+      "short_url": "https://t.co/iYp70KgsLH",
+      "title": "Deleted LLM agent memory still leaks secrets | ShortSpan.ai",
+      "from_post": "2115444483747664079"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev",
+    "agentic-cognition"
+  ],
+  "relevance": "Shows deletion in agent memory systems is often not real forgetting.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HVuRh4_XYAAHKah.jpg",
+      "from_post": "2115444467100688679",
+      "description": "Figure 'Paired worlds, consolidation and source deletion': a synthetic profile secret (code=ZX-47) survives in summaries after exact source deletion in the 'forget world', while dependency closure (retiring and rebuilding summaries by recorded lineage) removes it; a clean world with neutral exposure serves as control.",
+      "thumbnail": "posts/2026/10/28/2115444467100688679/media/0.webp",
+      "kind": "diagram"
+    }
+  ]
+}

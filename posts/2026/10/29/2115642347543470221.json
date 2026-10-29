@@ -1,0 +1,39 @@
+{
+  "id": "2115642347543470221",
+  "permalink": "https://x.com/rlaope/status/2115642347543470221",
+  "author": {
+    "name": "HOPE.",
+    "handle": "@rlaope",
+    "profile_url": "https://x.com/rlaope"
+  },
+  "posted_at": "2026-10-29T03:10:17Z",
+  "collected_at": "2026-10-29T16:31:16Z",
+  "updated_at": "2026-10-29T16:31:16Z",
+  "thread": [],
+  "summary_md": "**HOPE. ([@rlaope](https://x.com/rlaope/status/2115642347543470221))** added built-in video-generation skills to **oh-my-hermes**, an open-source skills/harness package for Hermes Agent: hyperframe clips, reels-style videos, 3D modeling renders, pixel art and more. He says all his recent interaction videos were made with it, mostly using Opus and Kimi under the hood.",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/rlaope/oh-my-hermes",
+      "short_url": "https://t.co/5OoCqbz58X",
+      "title": "GitHub - rlaope/oh-my-hermes: The coding intelligence and skills package for Hermes Agent ⚚ Install once, then just type 'dag-ulw' to be graph engineering master.",
+      "from_post": "2115642347543470221"
+    }
+  ],
+  "hashtags": [
+    "hermes",
+    "video"
+  ],
+  "topics": [
+    "agentic-media",
+    "harness-dev"
+  ],
+  "relevance": "Packaged agent skills spanning video, 3D renders and pixel art inside a reusable harness.",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://x.com/rlaope/status/2115642347543470221/video/1",
+      "from_post": "2115642347543470221",
+      "description": "Demo video; preview frame is a grid of oh-my-hermes generated clips and UI screens."
+    }
+  ]
+}

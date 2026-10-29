@@ -1,0 +1,28 @@
+{
+  "id": "2115591436875993244",
+  "permalink": "https://x.com/QAInsights/status/2115591436875993244",
+  "author": {
+    "name": "NaveenKumar Namachivayam",
+    "handle": "@QAInsights",
+    "profile_url": "https://x.com/QAInsights"
+  },
+  "posted_at": "2026-10-28T23:47:58Z",
+  "collected_at": "2026-10-29T16:31:16Z",
+  "updated_at": "2026-10-29T16:31:16Z",
+  "thread": [],
+  "summary_md": "**NaveenKumar Namachivayam ([@QAInsights](https://x.com/QAInsights/status/2115591436875993244))** compares **Atomic Agent, Nanocoder, Goose and Zero** on local-model support, setup, approvals, sandboxing, telemetry and licensing, with every fact checked against official docs and repos in October 2026.",
+  "referenced_urls": [
+    {
+      "url": "https://ai.dosa.dev/blog/atomic-agent-vs-nanocoder-vs-goose-vs-zero",
+      "short_url": "https://t.co/MQp3i6YOg3",
+      "title": "Atomic Agent vs Nanocoder vs Goose vs Zero (2026): Local-First Coding Agents Compared | ai.dosa.dev",
+      "from_post": "2115591436875993244"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev",
+    "local-models"
+  ],
+  "relevance": "A side-by-side of local-first coding agents for picking a harness."
+}

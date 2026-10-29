@@ -1,0 +1,27 @@
+{
+  "id": "2115372641511174292",
+  "permalink": "https://x.com/_tabaza/status/2115372641511174292",
+  "author": {
+    "name": "Tabaza",
+    "handle": "@_tabaza",
+    "profile_url": "https://x.com/_tabaza"
+  },
+  "posted_at": "2026-10-28T09:18:34Z",
+  "collected_at": "2026-10-29T16:31:16Z",
+  "updated_at": "2026-10-29T16:31:16Z",
+  "thread": [],
+  "summary_md": "**Tabaza ([@_tabaza](https://x.com/_tabaza/status/2115372641511174292))** shares an alpha of **Work** (work.software), an open-source browser, agent orchestrator and \"brain\" app for getting work done.",
+  "referenced_urls": [
+    {
+      "url": "https://work.software",
+      "short_url": "https://t.co/RUNrPp9uy9",
+      "title": "Work",
+      "from_post": "2115372641511174292"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "relevance": "A browser-centric take on an agent orchestration workspace."
+}

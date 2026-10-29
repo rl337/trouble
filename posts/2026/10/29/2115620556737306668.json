@@ -1,0 +1,43 @@
+{
+  "id": "2115620556737306668",
+  "permalink": "https://x.com/CSVisionPapers/status/2115620556737306668",
+  "author": {
+    "name": "Computer Vision and Pattern Recognition Papers",
+    "handle": "@CSVisionPapers",
+    "profile_url": "https://x.com/CSVisionPapers"
+  },
+  "posted_at": "2026-10-29T01:43:41Z",
+  "collected_at": "2026-10-29T16:31:16Z",
+  "updated_at": "2026-10-29T16:31:16Z",
+  "thread": [],
+  "summary_md": "**Computer Vision and Pattern Recognition Papers ([@CSVisionPapers](https://x.com/CSVisionPapers/status/2115620556737306668))** shares **AgentVQA**, a unified benchmark for agentic visual understanding from Princeton's Zhuang Liu group, with a project page.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.31494",
+      "short_url": "https://t.co/JLANamlgZR",
+      "title": "AgentVQA: A Unified Benchmark for Agentic Visual Understanding",
+      "from_post": "2115620556737306668"
+    },
+    {
+      "url": "https://zlab-princeton.github.io/AgentVQA",
+      "short_url": "https://t.co/p4b1uSYa4y",
+      "from_post": "2115620556737306668"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-media"
+  ],
+  "relevance": "A benchmark for agents that must actively look and reason over images.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HVwxr3cWYAIe833.png",
+      "from_post": "2115620556737306668",
+      "description": "Abstract excerpt of AgentVQA, an offline benchmark of 1,000 agentic visual examples from 23 datasets across web agents, robotics, egocentric video, games and spatial planning.",
+      "thumbnail": "posts/2026/10/29/2115620556737306668/media/0.webp",
+      "kind": "paper",
+      "ocr_text": "Vision-language models (VLMs) can perform a broad range of tasks across diverse settings, yet their performance in agentic contexts remains poorly understood. Although online evaluations in simulators and real-world environments are essential for measuring interactive agent performance, they are costly and challenging to scale. Complementary offline VQA benchmarks can enable faster and more reliable comparisons across agentic domains, yet existing benchmarks remain limited and fragmented. To address this gap, we introduce AgentVQA, an offline benchmark for evaluating VLMs on realistic agentic scenarios across five agent domains: Web Agents, Robotics, Egocentric Videos, Games, and Spatial Planning. We build AgentVQA by manually selecting 1000 challenging, real-world agent examples from 23 source datasets and adapting them for reliable offline evaluation. The resulting benchmark…"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "2115443029800628719",
+  "permalink": "https://x.com/prince_twets/status/2115443029800628719",
+  "author": {
+    "name": "prince",
+    "handle": "@prince_twets",
+    "profile_url": "https://x.com/prince_twets"
+  },
+  "posted_at": "2026-10-28T13:58:15Z",
+  "collected_at": "2026-10-29T16:31:16Z",
+  "updated_at": "2026-10-29T16:31:16Z",
+  "thread": [],
+  "summary_md": "**prince ([@prince_twets](https://x.com/prince_twets/status/2115443029800628719))** built **Shiba**, an open-source self-hosted coding agent that runs on Cloudflare Workers and Durable Objects in your own Cloudflare account.",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/princepal9120/shiba",
+      "short_url": "https://t.co/KH87tQQyQf",
+      "title": "GitHub - princepal9120/shiba: Shiba: Self-hosted AI cowoker on Cloudflare.",
+      "from_post": "2115443029800628719"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "relevance": "A serverless, self-hosted coding-agent architecture on edge primitives."
+}

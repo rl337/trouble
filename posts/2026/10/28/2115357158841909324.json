@@ -1,0 +1,38 @@
+{
+  "id": "2115357158841909324",
+  "permalink": "https://x.com/oaichu95/status/2115357158841909324",
+  "author": {
+    "name": "Oai Chu",
+    "handle": "@oaichu95",
+    "profile_url": "https://x.com/oaichu95"
+  },
+  "posted_at": "2026-10-28T08:17:02Z",
+  "collected_at": "2026-10-29T16:31:16Z",
+  "updated_at": "2026-10-29T16:31:16Z",
+  "thread": [],
+  "summary_md": "**Oai Chu ([@oaichu95](https://x.com/oaichu95/status/2115357158841909324))** highlights **digital-human-koubo**, an MIT Claude Code/Codex skill (1.1K+ stars) that turns one photo plus one sentence into a talking-head video using Renoise MCP lip-sync, Whisper QA, five edit styles and Remotion.",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/andyhuo520/digital-human-koubo",
+      "short_url": "https://t.co/dRQ0SoE9sI",
+      "title": "GitHub - andyhuo520/digital-human-koubo: AI digital-human talking-head videos from one photo: Renoise MCP generation + 5 editing styles + 48 creator-grade packaging components. Agent skill for Claude Code / Codex / OpenClaw / WorkBuddy …",
+      "from_post": "2115357158841909324"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-media"
+  ],
+  "relevance": "Packaged talking-head video generation as a coding-agent skill.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HVtCGuka4AA-FRC.jpg",
+      "from_post": "2115357158841909324",
+      "description": "Promo banner for the digital-human skill: Chinese text reading 'one photo + one sentence = a 27-second livestream sales ad' beside three vertical frames of an AI-generated presenter with captions.",
+      "thumbnail": "posts/2026/10/28/2115357158841909324/media/0.webp",
+      "kind": "screenshot",
+      "ocr_text": "一张照片 + 一句话 27 秒直播带货广告\nAI 数字人工作流 · 最终版\n482 积分 · 5 段口播 · 48 个包装组件"
+    }
+  ]
+}

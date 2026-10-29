@@ -1,0 +1,38 @@
+{
+  "id": "2115411254760353960",
+  "permalink": "https://x.com/DwarfStarDS4/status/2115411254760353960",
+  "author": {
+    "name": "DwarfStar",
+    "handle": "@DwarfStarDS4",
+    "profile_url": "https://x.com/DwarfStarDS4"
+  },
+  "posted_at": "2026-10-28T11:52:00Z",
+  "collected_at": "2026-10-29T16:31:16Z",
+  "updated_at": "2026-10-29T16:31:16Z",
+  "thread": [],
+  "summary_md": "**DwarfStar ([@DwarfStarDS4](https://x.com/DwarfStarDS4/status/2115411254760353960))** introduces **DwarfStar (ds4)**, antirez's small native inference engine for DeepSeek V4 Flash, GLM 5.x and Qwen3.8 on machines people own (Mac, DGX Spark, Strix Halo), with Metal, CUDA and ROCm backends.",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/antirez/ds4",
+      "short_url": "https://t.co/T5dzGxVjkJ",
+      "title": "GitHub - antirez/ds4: DeepSeek 4 Flash and PRO local inference engine for Metal, CUDA and ROCm",
+      "from_post": "2115411254760353960"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "local-models"
+  ],
+  "relevance": "A lean, purpose-built engine for running max-tier open models on a single Spark or Mac.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HVsuzLobAAAdIu8.jpg",
+      "from_post": "2115411254760353960",
+      "description": "DwarfStar (ds4) banner: 'Big models. Hardware you own.' Lists DeepSeek V4 Flash, GLM 5.x and Qwen3.8 with targets Metal (Apple Silicon, primary), CUDA (DGX Spark, multi-GPU incl. L40S) and ROCm (Strix Halo, Framework Desktop), plus make targets and memory needs.",
+      "thumbnail": "posts/2026/10/28/2115411254760353960/media/0.webp",
+      "kind": "screenshot",
+      "ocr_text": "DwarfStar ds4\nBig models. Hardware you own.\nDeepSeek V4 Flash, GLM 5.x and Qwen3.8 on machines people can actually own.\nMETAL · PRIMARY TARGET Mac, Apple Silicon\nCUDA DGX Spark, multi-GPU incl. L40S\nROCM Strix Halo, Framework Desktop\n$ make · make cuda-spark · make strix-halo\n96 GB+ for DeepSeek and GLM · 64 GB for Qwen3.8 Flash Next\ngithub.com/antirez/ds4 MIT licensed · open source"
+    }
+  ]
+}

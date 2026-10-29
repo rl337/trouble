@@ -1,0 +1,34 @@
+{
+  "id": "2115676788131287368",
+  "permalink": "https://x.com/SuerTe_H/status/2115676788131287368",
+  "author": {
+    "name": "Altas",
+    "handle": "@SuerTe_H",
+    "profile_url": "https://x.com/SuerTe_H"
+  },
+  "posted_at": "2026-10-29T05:27:08Z",
+  "collected_at": "2026-10-29T16:31:16Z",
+  "updated_at": "2026-10-29T16:31:16Z",
+  "thread": [
+    {
+      "id": "2115676790236549377",
+      "permalink": "https://x.com/SuerTe_H/status/2115676790236549377",
+      "posted_at": "2026-10-29T05:27:08Z",
+      "position": 1
+    }
+  ],
+  "summary_md": "**Altas ([@SuerTe_H](https://x.com/SuerTe_H/status/2115676788131287368))** built **Compose Studio**, a free browser app where you pick a face, outfit and pose and it writes the prompt and sends all three to Gemini, OpenAI or your local ComfyUI.",
+  "referenced_urls": [
+    {
+      "url": "https://kos5c23123.github.io/open-compose-studio/",
+      "short_url": "https://t.co/zjMsW71Hgs",
+      "title": "合成棚：人物 + 服裝 + 姿勢 一鍵生成",
+      "from_post": "2115676788131287368"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-media"
+  ],
+  "relevance": "Structured prompt assembly for local or cloud image generation."
+}

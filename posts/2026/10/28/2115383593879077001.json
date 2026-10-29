@@ -1,0 +1,28 @@
+{
+  "id": "2115383593879077001",
+  "permalink": "https://x.com/localllmrig/status/2115383593879077001",
+  "author": {
+    "name": "Alan",
+    "handle": "@localllmrig",
+    "profile_url": "https://x.com/localllmrig"
+  },
+  "posted_at": "2026-10-28T10:02:05Z",
+  "collected_at": "2026-10-29T16:31:16Z",
+  "updated_at": "2026-10-29T16:31:16Z",
+  "thread": [],
+  "summary_md": "**Alan ([@localllmrig](https://x.com/localllmrig/status/2115383593879077001))** describes n8n's no-cloud-API agent stack running a 35B MoE (vLLM NVFP4) on a 128 GB DGX Spark, and lists what fits on a 24 GB GPU at Q4 (Qwen3.6-35B-A3B 23.1 GB, Qwen3 Coder 30B A3B 20.2 GB, Gemma 4 26B A4B 18.1 GB), linking his can-I-run page.",
+  "referenced_urls": [
+    {
+      "url": "https://localllmrig.com/can-i-run/qwen3.6-35b-a3b",
+      "short_url": "https://t.co/f7kbldXCi4",
+      "title": "Which GPUs and Macs run Qwen3.6-35B-A3B? RTX 3090/4090/5090",
+      "from_post": "2115383593879077001"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "local-models",
+    "harness-dev"
+  ],
+  "relevance": "Memory-fit numbers for agent-friendly ~30B MoE models on Spark versus a 24 GB card."
+}

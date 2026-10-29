@@ -1,0 +1,46 @@
+{
+  "id": "2115467615497830830",
+  "permalink": "https://x.com/wellecks/status/2115467615497830830",
+  "author": {
+    "name": "Sean Welleck",
+    "handle": "@wellecks",
+    "profile_url": "https://x.com/wellecks"
+  },
+  "posted_at": "2026-10-28T15:35:57Z",
+  "collected_at": "2026-10-29T16:31:16Z",
+  "updated_at": "2026-10-29T16:31:16Z",
+  "thread": [
+    {
+      "id": "2115467618664730660",
+      "permalink": "https://x.com/wellecks/status/2115467618664730660",
+      "posted_at": "2026-10-28T15:35:58Z",
+      "position": 1
+    }
+  ],
+  "summary_md": "**Sean Welleck ([@wellecks](https://x.com/wellecks/status/2115467615497830830))** kicks off CUA Week with **Gym-Anything-RT**, which synthesizes real-time minigames that change while the model is thinking; frontier models score low (GPT Astra 9%, Opus 5.5 5%).",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.37567",
+      "short_url": "https://t.co/7Im6SA41LT",
+      "title": "Gym-Anything-RT: Scaling Real-Time Environments for Vision-Language Agents",
+      "from_post": "2115467615497830830"
+    },
+    {
+      "url": "https://gym-anything.github.io/gym-anything-rt/",
+      "short_url": "https://t.co/lNAWlMVTod",
+      "title": "Gym-Anything-RT: Scaling Real-Time Environments for Vision-Language Agents",
+      "from_post": "2115467618664730660"
+    },
+    {
+      "url": "https://cmu-l3.github.io/cua-week/",
+      "short_url": "https://t.co/R5foyneS1E",
+      "title": "L3 Lab CUA Week | L3 Lab at CMU",
+      "from_post": "2115467618664730660"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-cognition"
+  ],
+  "relevance": "Exposes the real-time weakness of current agents."
+}

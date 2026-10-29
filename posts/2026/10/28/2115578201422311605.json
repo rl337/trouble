@@ -1,0 +1,38 @@
+{
+  "id": "2115578201422311605",
+  "permalink": "https://x.com/SciFi/status/2115578201422311605",
+  "author": {
+    "name": "Artificial Intelligence Papers",
+    "handle": "@SciFi",
+    "profile_url": "https://x.com/SciFi"
+  },
+  "posted_at": "2026-10-28T22:55:23Z",
+  "collected_at": "2026-10-29T16:31:16Z",
+  "updated_at": "2026-10-29T16:31:16Z",
+  "thread": [],
+  "summary_md": "**[@SciFi](https://x.com/SciFi/status/2115578201422311605)** shares **Collective Emergent Alignment** (Wang, Li, Ramchurn, Huang, Dong).\n\nPer the abstract, the authors ask whether interaction among LLM agents yields reasoning alignment beyond matched individual self-refinement. Their **REMAP** framework measures this via semantic coverage and interaction-specific gains; across model families and two multi-hop benchmarks they find broadly positive gains, strongest when evidence is spread across agents, tied to peer-information recovery and shaped by team composition and capability asymmetry.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.34836",
+      "short_url": "https://t.co/x46FAIbogk",
+      "title": "Collective Emergent Alignment: Measuring and Amplifying Interaction-Induced Reasoning Alignment in Multi-Agent LLMs",
+      "from_post": "2115578201422311605"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-cognition"
+  ],
+  "relevance": "Quantifies when multi-agent interaction genuinely improves reasoning versus a single agent refining itself.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HVwLKb6W4AA95cB.png",
+      "from_post": "2115578201422311605",
+      "description": "Screenshot of the paper's abstract on a beige background.",
+      "thumbnail": "posts/2026/10/28/2115578201422311605/media/0.webp",
+      "kind": "paper",
+      "ocr_text": "Multi-agent large language model (LLM) systems can exhibit emergent behaviors through interaction, yet whether a similar phenomenon exists for reasoning alignment remains largely unexplored. We study whether agent interaction produces additional reference-grounded reasoning alignment beyond matched individual self-refinement, and introduce REMAP (Reference-Entailment-Matrix for Agentic Process), a framework that quantifies this effect through Semantic Coverage and interaction-specific alignment gains. Across diverse model families and two multi-hop reasoning benchmarks, we observe broadly positive interaction gains, particularly on reasoning content that depends on integrating evidence distributed across agents. These gains are consistently associated with independently measured peer-information recovery, while further analysis reveals composition-dependen…"
+    }
+  ]
+}

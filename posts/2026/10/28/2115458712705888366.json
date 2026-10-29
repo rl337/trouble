@@ -1,0 +1,27 @@
+{
+  "id": "2115458712705888366",
+  "permalink": "https://x.com/sfxnz/status/2115458712705888366",
+  "author": {
+    "name": "Sufyan",
+    "handle": "@sfxnz",
+    "profile_url": "https://x.com/sfxnz"
+  },
+  "posted_at": "2026-10-28T15:00:35Z",
+  "collected_at": "2026-10-29T16:31:16Z",
+  "updated_at": "2026-10-29T16:31:16Z",
+  "thread": [],
+  "summary_md": "**Sufyan ([@sfxnz](https://x.com/sfxnz/status/2115458712705888366))** summarizes **DeepSeek Harness v0.2.2-alpha.2**: hand tasks to local Codex/Claude CLIs, sessions in git worktrees with linked PRs, plugin updates with rollback and six new UI languages, per the GitHub release notes.",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/deepseek-ai/deepseek-harness/releases#release-dsh-v0.2.2-alpha.2",
+      "short_url": "https://t.co/G7XiE12Rtb",
+      "title": "Releases · deepseek-ai/deepseek-harness",
+      "from_post": "2115458712705888366"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "relevance": "Release-level changes in a major lab's open agent harness, including delegation to local CLIs."
+}

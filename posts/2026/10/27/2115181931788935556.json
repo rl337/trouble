@@ -8,15 +8,28 @@
   },
   "posted_at": "2026-10-27T20:40:45Z",
   "collected_at": "2026-10-29T16:31:06Z",
-  "updated_at": "2026-10-29T16:31:06Z",
-  "thread": [],
-  "summary_md": "**Aleksandar Perisic ([@apsolut](https://x.com/apsolut/status/2115181931788935556))** open-sources **one-shot-multicam**: a single phone selfie stays as camera A, while open-weight models on ComfyUI generate lip-synced B and C angles from his real voice and then auto-cut the edit. The GitHub repo describes it as ComfyUI plus an LTX-2.3 ID LoRA, all open weights.",
+  "updated_at": "2026-10-29T16:31:16Z",
+  "thread": [
+    {
+      "id": "2115397887236424043",
+      "permalink": "https://x.com/apsolut/status/2115397887236424043",
+      "posted_at": "2026-10-28T10:58:53Z",
+      "position": 1
+    }
+  ],
+  "summary_md": "**Aleksandar Perisic ([@apsolut](https://x.com/apsolut/status/2115181931788935556))** open-sources **one-shot-multicam**: a single phone selfie stays as camera A, while open-weight models on ComfyUI generate lip-synced B and C angles from his real voice and then auto-cut the edit. The GitHub repo describes it as ComfyUI plus an LTX-2.3 ID LoRA, all open weights.\n\n- **Follow-up (thread):** he added a live, no-setup demo at multicam.apsolut.dev. You upload a talking selfie clip of up to 30 s; it picks cut points and generates the other angles on ComfyUI Cloud. Free runs are limited, but you can paste your own Comfy key for more.",
   "referenced_urls": [
     {
       "url": "https://github.com/apsolut/one-shot-multicam",
       "short_url": "https://t.co/mkeDql7m2k",
       "title": "GitHub - apsolut/one-shot-multicam: Multicam from one phone shot — turn a single selfie video into a multi-camera edit with ComfyUI + LTX-2.3 ID LoRA (open weights). #OpenSourceHiggsfield",
       "from_post": "2115181931788935556"
+    },
+    {
+      "url": "https://multicam.apsolut.dev/",
+      "short_url": "https://t.co/nNXETu1431",
+      "title": "Multicam: one phone shot in. A whole camera crew out.",
+      "from_post": "2115397887236424043"
     }
   ],
   "hashtags": [

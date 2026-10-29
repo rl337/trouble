@@ -1,0 +1,27 @@
+{
+  "id": "2115685301678907769",
+  "permalink": "https://x.com/GuentherBuilds/status/2115685301678907769",
+  "author": {
+    "name": "Guenther Builds",
+    "handle": "@GuentherBuilds",
+    "profile_url": "https://x.com/GuentherBuilds"
+  },
+  "posted_at": "2026-10-29T06:00:58Z",
+  "collected_at": "2026-10-29T16:31:16Z",
+  "updated_at": "2026-10-29T16:31:16Z",
+  "thread": [],
+  "summary_md": "**Guenther Builds ([@GuentherBuilds](https://x.com/GuentherBuilds/status/2115685301678907769))** tested write-path safety in a mock-tool harness: DeepSeek Flash reached 91/100 correct end states with zero duplicate-write runs for $0.14 total, framed as a harness-behavior check rather than a ranking.",
+  "referenced_urls": [
+    {
+      "url": "https://0xguenther.org/en/audit/?utm_source=x&utm_medium=social&utm_campaign=writepath&utm_content=deepseek",
+      "short_url": "https://t.co/PnozkYEh44",
+      "title": "Agent Check · Does your agent write twice?",
+      "from_post": "2115685301678907769"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "relevance": "A cheap, reproducible test for duplicate side effects in agent tool calls."
+}

@@ -1,0 +1,34 @@
+{
+  "id": "2115483736913699069",
+  "permalink": "https://x.com/JudicialMind_/status/2115483736913699069",
+  "author": {
+    "name": "JudicialMind",
+    "handle": "@JudicialMind_",
+    "profile_url": "https://x.com/JudicialMind_"
+  },
+  "posted_at": "2026-10-28T16:40:01Z",
+  "collected_at": "2026-10-29T16:31:16Z",
+  "updated_at": "2026-10-29T16:31:16Z",
+  "thread": [
+    {
+      "id": "2115483764449222893",
+      "permalink": "https://x.com/JudicialMind_/status/2115483764449222893",
+      "posted_at": "2026-10-28T16:40:07Z",
+      "position": 1
+    }
+  ],
+  "summary_md": "**JudicialMind ([@JudicialMind_](https://x.com/JudicialMind_/status/2115483736913699069))** releases **Counsel-27B**, a legal and general model tuned to think less and call tools better, claiming 4.3x speed on one GPU (~220 tok/s) and 6x on two; weights are on Hugging Face, with a follow-up reply.",
+  "referenced_urls": [
+    {
+      "url": "https://huggingface.co/judicialmind/Counsel-27B",
+      "short_url": "https://t.co/apW8OOSs06",
+      "title": "judicialmind/Counsel-27B · Hugging Face",
+      "from_post": "2115483736913699069"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "local-models"
+  ],
+  "relevance": "A ~30B open model explicitly tuned for shorter reasoning and tool use: the agent-friendly trade-off."
+}

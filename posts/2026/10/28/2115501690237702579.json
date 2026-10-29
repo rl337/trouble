@@ -1,0 +1,27 @@
+{
+  "id": "2115501690237702579",
+  "permalink": "https://x.com/setimmediate/status/2115501690237702579",
+  "author": {
+    "name": "Andrew Imm",
+    "handle": "@setimmediate",
+    "profile_url": "https://x.com/setimmediate"
+  },
+  "posted_at": "2026-10-28T17:51:21Z",
+  "collected_at": "2026-10-29T16:31:16Z",
+  "updated_at": "2026-10-29T16:31:16Z",
+  "thread": [],
+  "summary_md": "**Andrew Imm ([@setimmediate](https://x.com/setimmediate/status/2115501690237702579))** points to the Next.js post on **shipping less JavaScript with your AI agent**: prompt \"make my static assets smaller\" and the agent finds overlooked opportunities, which he calls self-improving sites.",
+  "referenced_urls": [
+    {
+      "url": "https://nextjs.org/blog/ship-less-javascript-with-ai",
+      "short_url": "https://t.co/kBsy9ffw3n",
+      "title": "Ship less JavaScript in Next.js with your AI agent",
+      "from_post": "2115501690237702579"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "relevance": "A framework vendor designing agent-actionable optimization workflows."
+}

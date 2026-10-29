@@ -1,0 +1,38 @@
+{
+  "id": "2115442678678626483",
+  "permalink": "https://x.com/DPZ/status/2115442678678626483",
+  "author": {
+    "name": "Distributed, Parallel, and Cluster Computing",
+    "handle": "@DPZ",
+    "profile_url": "https://x.com/DPZ"
+  },
+  "posted_at": "2026-10-28T13:56:52Z",
+  "collected_at": "2026-10-29T16:31:16Z",
+  "updated_at": "2026-10-29T16:31:16Z",
+  "thread": [],
+  "summary_md": "**Distributed, Parallel, and Cluster Computing ([@DPZ](https://x.com/DPZ/status/2115442678678626483))** shares **TAO**, a paper on tool-aware joint scheduling for LLM-based agentic serving.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.37230",
+      "short_url": "https://t.co/Mmv1csC4g1",
+      "title": "TAO: Tool-Aware Joint Scheduling for LLM-Based Agentic Serving",
+      "from_post": "2115442678678626483"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "relevance": "Serving-layer scheduling tuned for tool-calling agent workloads.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HVuP5_NWcAArili.png",
+      "from_post": "2115442678678626483",
+      "description": "Abstract excerpt of TAO, a tool-aware joint scheduling framework for LLM agentic serving that weighs tool readiness, cache credit and token footprint.",
+      "thumbnail": "posts/2026/10/28/2115442678678626483/media/0.webp",
+      "kind": "paper",
+      "ocr_text": "Agentic services alternate between model inference on clustered GPUs and external tools on distributed CPUs. In this scenario, existing systems (1) overlook tool-return readiness in service evaluation, wasting limited resources, and (2) use heuristic strategies to decide admission and placement on GPUs, resulting in suboptimal scheduling decisions. To bridge this gap, we present TAO, a tool-aware joint scheduling framework for LLM-based agentic serving. Its value interface combines near-term tool readiness, node-specific cache credit with time-aware decay, and token footprint; a dynamic program jointly selects and places waiting sessions under capacity constraints. Across the 12 reported model-workload-concurrency settings, TAO reduces latency by up to 26.8%, reduces mean time to first token (TTFT) by up to 36.3%, and increases decode throughput by up to 29.5%…"
+    }
+  ]
+}

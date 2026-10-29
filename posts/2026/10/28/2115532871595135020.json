@@ -1,0 +1,38 @@
+{
+  "id": "2115532871595135020",
+  "permalink": "https://x.com/HEI/status/2115532871595135020",
+  "author": {
+    "name": "Natural Language Processing Papers",
+    "handle": "@HEI",
+    "profile_url": "https://x.com/HEI"
+  },
+  "posted_at": "2026-10-28T19:55:15Z",
+  "collected_at": "2026-10-29T16:31:16Z",
+  "updated_at": "2026-10-29T16:31:16Z",
+  "thread": [],
+  "summary_md": "**Natural Language Processing Papers ([@HEI](https://x.com/HEI/status/2115532871595135020))** shares **Frontier-OPD**, which discovers the edge of agent capability and trains agents to go beyond it.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.32802",
+      "short_url": "https://t.co/UqVTwHdDSq",
+      "title": "Frontier-OPD: Discovering the Edge of Agent Capability and...",
+      "from_post": "2115532871595135020"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-cognition"
+  ],
+  "relevance": "Curriculum at the capability frontier for agent learning.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HVvh767XUAI8itg.png",
+      "from_post": "2115532871595135020",
+      "description": "Abstract excerpt of Frontier-OPD, on-policy distillation that targets a multi-turn agent's learning frontier using a shared-state trajectory graph and short teacher bridges.",
+      "thumbnail": "posts/2026/10/28/2115532871595135020/media/0.webp",
+      "kind": "paper",
+      "ocr_text": "On-policy distillation aligns teacher feedback with a student's current behavior, yet acquiring useful supervision for multi-turn agents requires identifying both where guidance is needed and whether the student can sustain the interaction afterward. We introduce Frontier-OPD, which addresses this problem through the student's learning frontier: decision situations that remain challenging but admit useful autonomous continuation after brief teacher guidance. To operationalize this frontier, Frontier-OPD organizes on-policy experience into a shared-state trajectory graph, where trajectory-balanced aggregation of teacher-student disagreement identifies distinct intervention candidates while preserving the histories needed for replay. Short teacher bridges are then assessed by comparing agreement over the bridge and the ensuing student continuation with an equally long…"
+    }
+  ]
+}

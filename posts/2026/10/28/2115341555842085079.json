@@ -1,0 +1,27 @@
+{
+  "id": "2115341555842085079",
+  "permalink": "https://x.com/KitchExtremeX/status/2115341555842085079",
+  "author": {
+    "name": "KitchExtremeX",
+    "handle": "@KitchExtremeX",
+    "profile_url": "https://x.com/KitchExtremeX"
+  },
+  "posted_at": "2026-10-28T07:15:02Z",
+  "collected_at": "2026-10-29T16:31:16Z",
+  "updated_at": "2026-10-29T16:31:16Z",
+  "thread": [],
+  "summary_md": "**KitchExtremeX ([@KitchExtremeX](https://x.com/KitchExtremeX/status/2115341555842085079))** spots **tstack**, the agent skills @theo uses daily in Claude Code and Codex (MIT), singling out **council**, where three models from different providers review a change and loop until they agree.",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/t3dotgg/tstack",
+      "short_url": "https://t.co/UHXtTvt52C",
+      "title": "GitHub - t3dotgg/tstack: The agent skills I use every day. Works with Claude Code and Codex.",
+      "from_post": "2115341555842085079"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "relevance": "Cross-provider consensus review as a reusable skill."
+}

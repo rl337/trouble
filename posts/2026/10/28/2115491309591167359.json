@@ -1,0 +1,27 @@
+{
+  "id": "2115491309591167359",
+  "permalink": "https://x.com/vercel_dev/status/2115491309591167359",
+  "author": {
+    "name": "Vercel Developers",
+    "handle": "@vercel_dev",
+    "profile_url": "https://x.com/vercel_dev"
+  },
+  "posted_at": "2026-10-28T17:10:06Z",
+  "collected_at": "2026-10-29T16:31:16Z",
+  "updated_at": "2026-10-29T16:31:16Z",
+  "thread": [],
+  "summary_md": "**Vercel Developers ([@vercel_dev](https://x.com/vercel_dev/status/2115491309591167359))** announces that **fx**, Vercel's open-source agent harness, is now a built-in provider in T3 Code, running on web, desktop and mobile with existing models and skills.",
+  "referenced_urls": [
+    {
+      "url": "https://vercel.com/changelog/fx-is-now-available-in-t3-code",
+      "short_url": "https://t.co/1wpkvQ0RRg",
+      "title": "fx is now available in T3 Code - Vercel",
+      "from_post": "2115491309591167359"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "relevance": "An open harness being adopted as a pluggable provider by another coding front end."
+}

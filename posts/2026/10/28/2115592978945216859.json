@@ -1,0 +1,38 @@
+{
+  "id": "2115592978945216859",
+  "permalink": "https://x.com/ComputerPapers/status/2115592978945216859",
+  "author": {
+    "name": "Software Engineering Papers",
+    "handle": "@ComputerPapers",
+    "profile_url": "https://x.com/ComputerPapers"
+  },
+  "posted_at": "2026-10-28T23:54:06Z",
+  "collected_at": "2026-10-29T16:31:16Z",
+  "updated_at": "2026-10-29T16:31:16Z",
+  "thread": [],
+  "summary_md": "**Software Engineering Papers ([@ComputerPapers](https://x.com/ComputerPapers/status/2115592978945216859))** shares **Before the First Edit?**, a paper measuring when coding-agent guidance actually arrives during a run.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.35992",
+      "short_url": "https://t.co/btB2Wewul0",
+      "title": "Before the First Edit? Measuring When Coding-Agent Guidance...",
+      "from_post": "2115592978945216859"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "relevance": "Timing of guidance injection is a harness design lever.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HVwYmoxWcAAx87F.png",
+      "from_post": "2115592978945216859",
+      "description": "Abstract excerpt auditing what event a coding-agent harness's 'guidance before first edit' gate actually intercepts, using local Qwen2.5-Coder 14B agents and file hashing in a 76-arm study.",
+      "thumbnail": "posts/2026/10/28/2115592978945216859/media/0.webp",
+      "kind": "paper",
+      "ocr_text": "When a coding-agent harness promises guidance before the first source edit, what event does it actually intercept? We audit five separate events: policy assignment, request eligibility, trigger, plan delivery, and observed source-content change. A prescribed-action comparison exposes the coverage of three gate rules but cannot tell us how an agent would continue after receiving a plan. We therefore run local agents on public software issues and hash Python files before and after each executed action. In a pilot-guided, 76-arm study using Qwen2.5-Coder 14B, 15 arms change Python source across seven tasks and three repositories. Guidance precedes every observed first change, but every change uses a structured editor and the study misses its prespecified 20-arm coverage target. Post hoc local tests find seven changed arms that pass the tested target and regression selectors; four of those seven u…"
+    }
+  ]
+}

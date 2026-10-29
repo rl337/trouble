@@ -1,0 +1,45 @@
+{
+  "id": "2115643319783239758",
+  "permalink": "https://x.com/greyreddington/status/2115643319783239758",
+  "author": {
+    "name": "Raymond R.",
+    "handle": "@greyreddington",
+    "profile_url": "https://x.com/greyreddington"
+  },
+  "posted_at": "2026-10-29T03:14:08Z",
+  "collected_at": "2026-10-29T16:31:16Z",
+  "updated_at": "2026-10-29T16:31:16Z",
+  "thread": [],
+  "summary_md": "**Raymond R. ([@greyreddington](https://x.com/greyreddington/status/2115643319783239758))** open-sourced **Excalibur Agent Hub**, a local chat room for you and your AI coding agents (Claude Code, Codex, Antigravity and others), with no account or cloud.",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/huseyindemir02/excalibur-agent-hub",
+      "short_url": "https://t.co/jFxtiFglpZ",
+      "title": "GitHub - huseyindemir02/excalibur-agent-hub",
+      "from_post": "2115643319783239758"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "relevance": "A shared room as a coordination surface for multiple coding agents.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HVxGYdja8AASFd1.jpg",
+      "from_post": "2115643319783239758",
+      "description": "Excalibur Agent Hub desktop UI: project list, a 'pocket-studio' room where agents (Luna, Leyla, Marslı, Nezle02, Excalibur) post REQUEST/ACK/CLAIM/DONE messages and reviews, and a sidebar showing each agent's harness (Claude Code, Codex, Antigravity) with 5-hour and weekly usage limits.",
+      "thumbnail": "posts/2026/10/29/2115643319783239758/media/0.webp",
+      "kind": "screenshot"
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HVxGYvQbAAA3atx.jpg",
+      "from_post": "2115643319783239758",
+      "description": "Phone screenshot of the Agent Hub chat over a LAN address, showing the announcement text in English and Japanese with copy buttons.",
+      "thumbnail": "posts/2026/10/29/2115643319783239758/media/1.webp",
+      "kind": "screenshot"
+    }
+  ]
+}

@@ -1,0 +1,250 @@
+{
+  "id": "2115438632672645153",
+  "permalink": "https://x.com/sermakarevich/status/2115438632672645153",
+  "author": {
+    "name": "Sergii Makarevych",
+    "handle": "@sermakarevich",
+    "profile_url": "https://x.com/sermakarevich"
+  },
+  "posted_at": "2026-10-28T13:40:47Z",
+  "collected_at": "2026-10-29T16:31:16Z",
+  "updated_at": "2026-10-29T16:31:16Z",
+  "thread": [],
+  "summary_md": "**Sergii Makarevych ([@sermakarevich](https://x.com/sermakarevich/status/2115438632672645153))** reviews context management across **30 agent products and 8 strategies**, replaying one 30-turn coding ticket under each; clearing tool results lost a fact needed at turn 28, while compaction kept it and saved 10%. The article cites Anthropic, OpenAI, Google ADK, LangChain, Letta and other docs.",
+  "referenced_urls": [
+    {
+      "url": "https://docs.claude.com/en/docs/build-with-claude/compaction",
+      "from_post": "2115438632672645153"
+    },
+    {
+      "url": "https://docs.claude.com/en/docs/build-with-claude/context-editing",
+      "from_post": "2115438632672645153"
+    },
+    {
+      "url": "https://docs.claude.com/en/docs/build-with-claude/prompt-caching",
+      "from_post": "2115438632672645153"
+    },
+    {
+      "url": "https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents",
+      "from_post": "2115438632672645153"
+    },
+    {
+      "url": "https://www.anthropic.com/engineering/advanced-tool-use",
+      "from_post": "2115438632672645153"
+    },
+    {
+      "url": "https://www.anthropic.com/engineering/multi-agent-research-system",
+      "from_post": "2115438632672645153"
+    },
+    {
+      "url": "https://code.claude.com/docs/en/costs",
+      "from_post": "2115438632672645153"
+    },
+    {
+      "url": "https://platform.openai.com/docs/guides/compaction",
+      "from_post": "2115438632672645153"
+    },
+    {
+      "url": "https://docs.x.ai/docs/guides/compaction",
+      "from_post": "2115438632672645153"
+    },
+    {
+      "url": "https://ai.google.dev/gemini-api/docs/caching",
+      "from_post": "2115438632672645153"
+    },
+    {
+      "url": "https://google.github.io/adk-docs/context/compaction/",
+      "from_post": "2115438632672645153"
+    },
+    {
+      "url": "https://docs.langchain.com/oss/python/langchain/middleware",
+      "from_post": "2115438632672645153"
+    },
+    {
+      "url": "https://docs.langchain.com/oss/python/deepagents/overview",
+      "from_post": "2115438632672645153"
+    },
+    {
+      "url": "https://docs.letta.com/guides/agents/context-engineering",
+      "from_post": "2115438632672645153"
+    },
+    {
+      "url": "https://inspect.aisi.org.uk/compaction.html",
+      "from_post": "2115438632672645153"
+    },
+    {
+      "url": "https://learn.microsoft.com/en-us/agent-framework/",
+      "from_post": "2115438632672645153"
+    },
+    {
+      "url": "https://mastra.ai/docs/memory/memory-processors",
+      "from_post": "2115438632672645153"
+    },
+    {
+      "url": "https://ai.pydantic.dev/message-history/",
+      "from_post": "2115438632672645153"
+    },
+    {
+      "url": "https://openai.github.io/openai-agents-python/sessions/",
+      "from_post": "2115438632672645153"
+    },
+    {
+      "url": "https://docs.llamaindex.ai/en/stable/module_guides/deploying/agents/memory/",
+      "from_post": "2115438632672645153"
+    },
+    {
+      "url": "https://github.com/openai/codex",
+      "from_post": "2115438632672645153"
+    },
+    {
+      "url": "https://github.com/google-gemini/gemini-cli",
+      "from_post": "2115438632672645153"
+    },
+    {
+      "url": "https://cursor.com/docs",
+      "from_post": "2115438632672645153"
+    },
+    {
+      "url": "https://docs.cline.bot",
+      "from_post": "2115438632672645153"
+    },
+    {
+      "url": "https://kilo.ai/docs/customize/context/context-condensing",
+      "from_post": "2115438632672645153"
+    },
+    {
+      "url": "https://docs.github.com/en/copilot/how-tos/copilot-cli",
+      "from_post": "2115438632672645153"
+    },
+    {
+      "url": "https://aider.chat/docs/repomap.html",
+      "from_post": "2115438632672645153"
+    },
+    {
+      "url": "https://cognition.ai/blog/dont-build-multi-agents",
+      "from_post": "2115438632672645153"
+    },
+    {
+      "url": "https://manus.im/blog/Context-Engineering-for-AI-Agents-Lessons-from-Building-Manus",
+      "from_post": "2115438632672645153"
+    },
+    {
+      "url": "https://github.com/chopratejas/headroom",
+      "from_post": "2115438632672645153"
+    },
+    {
+      "url": "https://morphllm.com/compact",
+      "from_post": "2115438632672645153"
+    },
+    {
+      "url": "https://compresr.ai",
+      "from_post": "2115438632672645153"
+    },
+    {
+      "url": "https://thetokencompany.com",
+      "from_post": "2115438632672645153"
+    },
+    {
+      "url": "https://github.com/microsoft/LLMLingua",
+      "from_post": "2115438632672645153"
+    },
+    {
+      "url": "https://docs.litellm.ai/docs/claude_code_context_management",
+      "from_post": "2115438632672645153"
+    },
+    {
+      "url": "https://www.truefoundry.com/docs/ai-gateway/compaction",
+      "from_post": "2115438632672645153"
+    },
+    {
+      "url": "https://docs.getbifrost.ai/api-reference/compaction/compact-context",
+      "from_post": "2115438632672645153"
+    },
+    {
+      "url": "https://developer.konghq.com/plugins/ai-prompt-compressor/",
+      "from_post": "2115438632672645153"
+    },
+    {
+      "url": "https://github.com/rtk-ai/rtk",
+      "from_post": "2115438632672645153"
+    },
+    {
+      "url": "https://github.com/mksglu/context-mode",
+      "from_post": "2115438632672645153"
+    },
+    {
+      "url": "https://github.com/Opiqo/opencode-dynamic-context-pruning",
+      "from_post": "2115438632672645153"
+    },
+    {
+      "url": "https://rlancemartin.github.io/2025/06/23/context_engineering/",
+      "from_post": "2115438632672645153"
+    },
+    {
+      "url": "https://arxiv.org/abs/2602.07962",
+      "from_post": "2115438632672645153"
+    },
+    {
+      "url": "https://www.trychroma.com/research/context-rot",
+      "from_post": "2115438632672645153"
+    },
+    {
+      "url": "https://arxiv.org/abs/2606.23525",
+      "from_post": "2115438632672645153"
+    },
+    {
+      "url": "https://arxiv.org/abs/2606.30005",
+      "from_post": "2115438632672645153"
+    },
+    {
+      "url": "https://arxiv.org/abs/2510.00615",
+      "from_post": "2115438632672645153"
+    },
+    {
+      "url": "https://arxiv.org/abs/2604.01664",
+      "from_post": "2115438632672645153"
+    },
+    {
+      "url": "https://arxiv.org/abs/2601.16746",
+      "from_post": "2115438632672645153"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.16370",
+      "from_post": "2115438632672645153"
+    },
+    {
+      "url": "https://arxiv.org/abs/2603.23525",
+      "from_post": "2115438632672645153"
+    },
+    {
+      "url": "https://arxiv.org/abs/2604.02985",
+      "from_post": "2115438632672645153"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.06370",
+      "from_post": "2115438632672645153"
+    },
+    {
+      "url": "https://arxiv.org/abs/2607.06906",
+      "from_post": "2115438632672645153"
+    },
+    {
+      "url": "https://arxiv.org/abs/2603.05344",
+      "from_post": "2115438632672645153"
+    },
+    {
+      "url": "https://arxiv.org/abs/2307.03172",
+      "from_post": "2115438632672645153"
+    },
+    {
+      "url": "https://arxiv.org/abs/2512.13564",
+      "from_post": "2115438632672645153"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev",
+    "agentic-cognition"
+  ],
+  "relevance": "An empirical comparison of context-management strategies that harness builders can act on directly."
+}

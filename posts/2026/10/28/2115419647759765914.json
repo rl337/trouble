@@ -1,0 +1,27 @@
+{
+  "id": "2115419647759765914",
+  "permalink": "https://x.com/Alexlannmi/status/2115419647759765914",
+  "author": {
+    "name": "Alex lan",
+    "handle": "@Alexlannmi",
+    "profile_url": "https://x.com/Alexlannmi"
+  },
+  "posted_at": "2026-10-28T12:25:21Z",
+  "collected_at": "2026-10-29T16:31:16Z",
+  "updated_at": "2026-10-29T16:31:16Z",
+  "thread": [],
+  "summary_md": "**Alex lan ([@Alexlannmi](https://x.com/Alexlannmi/status/2115419647759765914))** notes **Hybrid Reasoning Agents**, which switch between latent and textual reasoning for tool use; the authors report fewer tokens and faster inference, with Alex flagging that independent replication will matter.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.18861",
+      "short_url": "https://t.co/1eNIh2KdnK",
+      "title": "Hybrid Reasoning Agents",
+      "from_post": "2115419647759765914"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-cognition"
+  ],
+  "relevance": "Latent reasoning as an efficiency lever for tool-using agents."
+}

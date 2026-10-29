@@ -1,0 +1,27 @@
+{
+  "id": "2115581732431024376",
+  "permalink": "https://x.com/minus1ms/status/2115581732431024376",
+  "author": {
+    "name": "minus1ms",
+    "handle": "@minus1ms",
+    "profile_url": "https://x.com/minus1ms"
+  },
+  "posted_at": "2026-10-28T23:09:25Z",
+  "collected_at": "2026-10-29T16:31:16Z",
+  "updated_at": "2026-10-29T16:31:16Z",
+  "thread": [],
+  "summary_md": "**minus1ms ([@minus1ms](https://x.com/minus1ms/status/2115581732431024376))** built **Phrasebook**, a free Claude Code hook that bans phrases you list (e.g. \"load-bearing\"); if one slips into a reply, Claude resends it reworded. Installable from the minus1ms-dev/phrasebook plugin marketplace.",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/minus1ms-dev/phrasebook",
+      "short_url": "https://t.co/ILZov7Jqlz",
+      "title": "GitHub - minus1ms-dev/phrasebook: Claude Code plugin: ban phrases Claude overuses (load-bearing, you're absolutely right, delve...). It rewords instead.",
+      "from_post": "2115581732431024376"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "relevance": "A tiny, concrete example of using harness hooks to enforce style rules that CLAUDE.md alone does not."
+}

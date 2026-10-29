@@ -1,0 +1,27 @@
+{
+  "id": "2115454293658776058",
+  "permalink": "https://x.com/DanteMMartin/status/2115454293658776058",
+  "author": {
+    "name": "Dante Martin",
+    "handle": "@DanteMMartin",
+    "profile_url": "https://x.com/DanteMMartin"
+  },
+  "posted_at": "2026-10-28T14:43:01Z",
+  "collected_at": "2026-10-29T16:31:16Z",
+  "updated_at": "2026-10-29T16:31:16Z",
+  "thread": [],
+  "summary_md": "**Dante Martin ([@DanteMMartin](https://x.com/DanteMMartin/status/2115454293658776058))** points to a r/LocalLLaMA story where someone used **Qwen 3.8 Flash** on an underpowered PC to root an LG TV and strip its adware, framing local models as a repair tool for hardware you already own.",
+  "referenced_urls": [
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xhoeo3/used_qwen_38_flash_next_on_underspeced_pc_to_root/",
+      "short_url": "https://t.co/AQDthtbwUR",
+      "title": "From the LocalLLaMA community on Reddit",
+      "from_post": "2115454293658776058"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "local-models"
+  ],
+  "relevance": "A concrete, offbeat agentic use of a local model doing real systems work."
+}

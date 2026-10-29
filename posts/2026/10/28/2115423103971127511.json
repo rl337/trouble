@@ -1,0 +1,41 @@
+{
+  "id": "2115423103971127511",
+  "permalink": "https://x.com/stanfossum/status/2115423103971127511",
+  "author": {
+    "name": "Stan Fossum",
+    "handle": "@stanfossum",
+    "profile_url": "https://x.com/stanfossum"
+  },
+  "posted_at": "2026-10-28T12:39:05Z",
+  "collected_at": "2026-10-29T16:31:16Z",
+  "updated_at": "2026-10-29T16:31:16Z",
+  "thread": [],
+  "summary_md": "**Stan Fossum ([@stanfossum](https://x.com/stanfossum/status/2115423103971127511))** points to Google Research's **sleep framework**, which gives an LLM a \"sleep\" phase to consolidate new facts into long-term memory while limiting forgetting, and asks who decides what deployed models remember.",
+  "referenced_urls": [
+    {
+      "url": "https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning/",
+      "short_url": "https://t.co/jaTLjJvFSQ",
+      "title": "The sleep framework: A new way for LLMs to retain knowledge in continual learning",
+      "from_post": "2115423103971127511"
+    }
+  ],
+  "hashtags": [
+    "LLM",
+    "ContinualLearning",
+    "MachineLearning"
+  ],
+  "topics": [
+    "agentic-cognition"
+  ],
+  "relevance": "Continual-learning consolidation relevant to long-lived agents.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HVt-BRyWQAACSdL.jpg",
+      "from_post": "2115423103971127511",
+      "description": "Illustration in an embroidered-textile style: patchwork squares with leaves, stars and waves being woven into a quilt on a wooden loom at night, a metaphor for consolidating memories.",
+      "thumbnail": "posts/2026/10/28/2115423103971127511/media/0.webp",
+      "kind": "other"
+    }
+  ]
+}

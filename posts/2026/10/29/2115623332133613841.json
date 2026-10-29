@@ -1,0 +1,39 @@
+{
+  "id": "2115623332133613841",
+  "permalink": "https://x.com/tungoldshou/status/2115623332133613841",
+  "author": {
+    "name": "Echo Zhong",
+    "handle": "@tungoldshou",
+    "profile_url": "https://x.com/tungoldshou"
+  },
+  "posted_at": "2026-10-29T01:54:43Z",
+  "collected_at": "2026-10-29T16:31:16Z",
+  "updated_at": "2026-10-29T16:31:16Z",
+  "thread": [],
+  "summary_md": "**Echo Zhong ([@tungoldshou](https://x.com/tungoldshou/status/2115623332133613841))** finds **earshot** (Leonxlnx), an open-source, CPU-only, MCP-friendly tool that lets coding agents hear, review and generate sound, with the rule of reviewing audio like code before it ships.",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/Leonxlnx/earshot",
+      "short_url": "https://t.co/r3oTqk6gKi",
+      "title": "GitHub - Leonxlnx/earshot: Ears for coding agents: let AI hear, review and make sound. CPU-only, open source.",
+      "from_post": "2115623332133613841"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev",
+    "agentic-media"
+  ],
+  "relevance": "Adds an audio modality to coding agents via MCP.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HVwz4uibcAAtF7f.png",
+      "from_post": "2115623332133613841",
+      "description": "Card 'Give your coding agent ears' for Leonxlnx/earshot (~3.1k stars): CPU-only tooling so an agent can hear audio in the repo, review clips before they ship, generate sound without a cloud GPU, hook in via MCP, and treat audio like code.",
+      "thumbnail": "posts/2026/10/29/2115623332133613841/media/0.webp",
+      "kind": "screenshot",
+      "ocr_text": "Give your coding agent ears\nLeonxlnx/earshot — hear, review, and make sound. CPU-only.\nHear: agent can listen to audio in the repo\nReview: catch bad clips before they ship\nMake: generate sound without a cloud GPU\nMCP: hooks into coding-agent workflows\nRule: treat audio like code: review before merge\ngithub.com/Leonxlnx/earshot · ~3.1k stars"
+    }
+  ]
+}

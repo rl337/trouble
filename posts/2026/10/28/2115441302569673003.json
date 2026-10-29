@@ -1,0 +1,35 @@
+{
+  "id": "2115441302569673003",
+  "permalink": "https://x.com/arkyyang/status/2115441302569673003",
+  "author": {
+    "name": "Arky Yang",
+    "handle": "@arkyyang",
+    "profile_url": "https://x.com/arkyyang"
+  },
+  "posted_at": "2026-10-28T13:51:24Z",
+  "collected_at": "2026-10-29T16:31:16Z",
+  "updated_at": "2026-10-29T16:31:16Z",
+  "thread": [],
+  "summary_md": "**Arky Yang ([@arkyyang](https://x.com/arkyyang/status/2115441302569673003))** explains **When Retrieval Is Not Enough: Obsolete Facts in Agent Memory**: finding the corrected fact is not enough if the outdated version is also retrieved; in one test Qwen2.5-7B fell from 74/74 to 33/74, all new errors being the stale answer. Advice: retire or mark superseded memories.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.36308",
+      "short_url": "https://t.co/7KUXLEPrci",
+      "title": "When Retrieval Is Not Enough: Obsolete Facts in Agent Memory",
+      "from_post": "2115441302569673003"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-cognition"
+  ],
+  "relevance": "Concrete memory-hygiene guidance with a striking failure measurement.",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://x.com/arkyyang/status/2115441302569673003/video/1",
+      "from_post": "2115441302569673003",
+      "description": "Video accompanying the 'When Retrieval Is Not Enough: Obsolete Facts in Agent Memory' paper summary (not downloaded; referenced only)."
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": "2115676300836766125",
+  "permalink": "https://x.com/FSFG/status/2115676300836766125",
+  "author": {
+    "name": "Cryptography and Security Papers",
+    "handle": "@FSFG",
+    "profile_url": "https://x.com/FSFG"
+  },
+  "posted_at": "2026-10-29T05:25:12Z",
+  "collected_at": "2026-10-29T16:31:16Z",
+  "updated_at": "2026-10-29T16:31:16Z",
+  "thread": [],
+  "summary_md": "**Cryptography and Security Papers ([@FSFG](https://x.com/FSFG/status/2115676300836766125))** shares **The Envelope Layer**, a paper arguing the envelope around LLM agent inputs and outputs is an underestimated defense surface.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.37415",
+      "short_url": "https://t.co/Gh0j4a45Xp",
+      "title": "The Envelope Layer: An Underestimated Surface of LLM Agent Defense",
+      "from_post": "2115676300836766125"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "relevance": "A new place in the harness to put agent defenses.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HVxkYm4WsAAcpbP.png",
+      "from_post": "2115676300836766125",
+      "description": "Abstract excerpt characterizing the envelope layer as an agent defense surface using the A2A-TIBA attack; with authentic envelopes, strong labels consistently reduce semantic breach rate.",
+      "thumbnail": "posts/2026/10/29/2115676300836766125/media/0.webp",
+      "kind": "paper",
+      "ocr_text": "Prior work framed the envelope layer as the channel through which malicious content enters an agent, and established it as a defense surface independent of the LLM layer and the agent layer; however, that work only tested the envelope layer briefly and did not examine how label strength, envelope authenticity, scaffold differences, or existing memories affect defense effectiveness. Following its GDA Measurement methodology and the A/B/C/D outcome taxonomy, this paper takes the A2A-TIBA attack as the test vehicle, uses the semantic breach rate as the primary indicator with the semantic refusal rate as its complementary reference, and characterizes the security boundary of the envelope layer through a two-by-two factorial experiment and a memory experiment. The results show that: when the envelope is authentic, strong labels consistently reduce the semantic breach rate, whereas wea…"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": "2115624753054572947",
+  "permalink": "https://x.com/ComputerPapers/status/2115624753054572947",
+  "author": {
+    "name": "Software Engineering Papers",
+    "handle": "@ComputerPapers",
+    "profile_url": "https://x.com/ComputerPapers"
+  },
+  "posted_at": "2026-10-29T02:00:22Z",
+  "collected_at": "2026-10-29T16:31:16Z",
+  "updated_at": "2026-10-29T16:31:16Z",
+  "thread": [],
+  "summary_md": "**Software Engineering Papers ([@ComputerPapers](https://x.com/ComputerPapers/status/2115624753054572947))** shares **Stratum**, a paper on repository memory for coding agents beyond the context window.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.36153",
+      "short_url": "https://t.co/lXvmyRpq3p",
+      "title": "Stratum: Repository Memory for Coding Agents Beyond the Context Window",
+      "from_post": "2115624753054572947"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "relevance": "Repo-level memory design for long-running coding agents.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HVw1gIiWEAAjBHZ.png",
+      "from_post": "2115624753054572947",
+      "description": "Abstract excerpt arguing coding agents need persistent, experience-aware repository memory; KV-cache storage costs 10^4–10^5x more bytes than indexed text, and median bug fixes touch two files.",
+      "thumbnail": "posts/2026/10/29/2115624753054572947/media/0.webp",
+      "kind": "paper",
+      "ocr_text": "Context windows have grown a thousand-fold, yet coding agents still start every session with no memory of their past work. They re-read files, retry failed approaches, and forget root causes they established hours earlier. This is not a context-length problem but a memory-architecture problem. Our hypothesis: coding agents need persistent, experience-aware repository memory, so that knowledge survives from one session to the next. Three measurements on real repositories motivate the design. First, mid-size projects already exceed the largest production context windows, and storing knowledge inside the model's key-value (KV) cache costs 10⁴ to 10⁵ times more bytes than storing it as indexed text. Second, across 752 real bug-fix commits, the median fix edits two files, and these files plus their direct imports amount to less than 10% of the repository; the bottleneck is selection, not…"
+    }
+  ]
+}

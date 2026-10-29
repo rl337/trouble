@@ -1,0 +1,27 @@
+{
+  "id": "2115450985682518222",
+  "permalink": "https://x.com/vibetested/status/2115450985682518222",
+  "author": {
+    "name": "VibeTested",
+    "handle": "@vibetested",
+    "profile_url": "https://x.com/vibetested"
+  },
+  "posted_at": "2026-10-28T14:29:52Z",
+  "collected_at": "2026-10-29T16:31:16Z",
+  "updated_at": "2026-10-29T16:31:16Z",
+  "thread": [],
+  "summary_md": "**VibeTested ([@vibetested](https://x.com/vibetested/status/2115450985682518222))** points to **Awesome Game-Dev Agent Skills**, 76 open-source (Apache-2.0) agent skills plus a router that loads the right ones for Godot, Unity, Unreal, Bevy, Roblox and more.",
+  "referenced_urls": [
+    {
+      "url": "https://vibetested.app/tools/awesome-gamedev-agent-skills/odot",
+      "short_url": "https://t.co/pGm5Y1VN65",
+      "from_post": "2115450985682518222"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev",
+    "agentic-media"
+  ],
+  "relevance": "A skill-routing pattern for domain-specific coding agents in game development."
+}

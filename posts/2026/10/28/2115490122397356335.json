@@ -1,0 +1,27 @@
+{
+  "id": "2115490122397356335",
+  "permalink": "https://x.com/jtdavies/status/2115490122397356335",
+  "author": {
+    "name": "John T Davies 🇪🇺",
+    "handle": "@jtdavies",
+    "profile_url": "https://x.com/jtdavies"
+  },
+  "posted_at": "2026-10-28T17:05:23Z",
+  "collected_at": "2026-10-29T16:31:16Z",
+  "updated_at": "2026-10-29T16:31:16Z",
+  "thread": [],
+  "summary_md": "**John T Davies ([@jtdavies](https://x.com/jtdavies/status/2115490122397356335))** points to Mia's AI Lab's GitHub release that runs **Qwen3.8-Flash-Next at over 100 tok/s on a single DGX Spark** via TensorFold, calling it impressive progress and saying he plans to test it.",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/MiaAI-Lab/Qwen3.8-Flash-Next-Single-DGX-Spark-TensorFold",
+      "short_url": "https://t.co/uSCSKsfmso",
+      "title": "GitHub - MiaAI-Lab/Qwen3.8-Flash-Next-Single-DGX-Spark-TensorFold: Qwen3.8 Flash Next on one DGX Spark (TensorFold)",
+      "from_post": "2115490122397356335"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "local-models"
+  ],
+  "relevance": "A public repo for the fastest reported single-Spark setup of the Qwen3.8 Flash Next tier."
+}

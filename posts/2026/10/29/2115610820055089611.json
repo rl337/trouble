@@ -1,0 +1,27 @@
+{
+  "id": "2115610820055089611",
+  "permalink": "https://x.com/aiproduck/status/2115610820055089611",
+  "author": {
+    "name": "aiproduck",
+    "handle": "@aiproduck",
+    "profile_url": "https://x.com/aiproduck"
+  },
+  "posted_at": "2026-10-29T01:05:00Z",
+  "collected_at": "2026-10-29T16:31:16Z",
+  "updated_at": "2026-10-29T16:31:16Z",
+  "thread": [],
+  "summary_md": "**[@aiproduck](https://x.com/aiproduck/status/2115610820055089611)** describes **Orca**, an MIT desktop app that runs coding agents (Codex, Claude Code, OpenCode…) side by side, each in its own git worktree: fan one prompt to several agents, compare, and merge the best. It also offers a mobile companion and SSH worktrees; the poster notes anonymous usage data is collected (opt-out).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/stablyai/orca",
+      "short_url": "https://t.co/YTUOeid9Nm",
+      "title": "GitHub - stablyai/orca: Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+      "from_post": "2115610820055089611"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "relevance": "Worktree-per-agent fan-out is a practical harness pattern for best-of-N agentic coding."
+}

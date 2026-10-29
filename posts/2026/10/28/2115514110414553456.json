@@ -1,0 +1,27 @@
+{
+  "id": "2115514110414553456",
+  "permalink": "https://x.com/clhdev/status/2115514110414553456",
+  "author": {
+    "name": "Charlie",
+    "handle": "@clhdev",
+    "profile_url": "https://x.com/clhdev"
+  },
+  "posted_at": "2026-10-28T18:40:42Z",
+  "collected_at": "2026-10-29T16:31:16Z",
+  "updated_at": "2026-10-29T16:31:16Z",
+  "thread": [],
+  "summary_md": "**Charlie ([@clhdev](https://x.com/clhdev/status/2115514110414553456))** relays **Compaction Laundering** (Pixee): forged user approvals survived compaction in 87-100% of runs across five role-flattening coding agents, versus 0% for four role-typed agents. He reads it as a poisoned-memory result and recommends keeping roles typed.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.29869",
+      "short_url": "https://t.co/5K4F0GU6UV",
+      "title": "Compaction Laundering: Provenance Destruction in...",
+      "from_post": "2115514110414553456"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "relevance": "A concrete compaction-time vulnerability with a clear harness-design fix."
+}

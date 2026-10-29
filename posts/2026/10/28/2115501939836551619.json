@@ -1,0 +1,41 @@
+{
+  "id": "2115501939836551619",
+  "permalink": "https://x.com/LeahStamm44/status/2115501939836551619",
+  "author": {
+    "name": "LeahStamm",
+    "handle": "@LeahStamm44",
+    "profile_url": "https://x.com/LeahStamm44"
+  },
+  "posted_at": "2026-10-28T17:52:21Z",
+  "collected_at": "2026-10-29T16:31:16Z",
+  "updated_at": "2026-10-29T16:31:16Z",
+  "thread": [
+    {
+      "id": "2115502762050122055",
+      "permalink": "https://x.com/LeahStamm44/status/2115502762050122055",
+      "posted_at": "2026-10-28T17:55:37Z",
+      "position": 1
+    },
+    {
+      "id": "2115503692359336193",
+      "permalink": "https://x.com/LeahStamm44/status/2115503692359336193",
+      "posted_at": "2026-10-28T17:59:19Z",
+      "position": 2
+    }
+  ],
+  "summary_md": "**LeahStamm ([@LeahStamm44](https://x.com/LeahStamm44/status/2115501939836551619))** announces **Glen**, an agentic memory plugin that hooks into Cursor, Claude Code, Cloud Agents, Pi and others to share memory across agents; follow-up replies describe how it works.",
+  "referenced_urls": [
+    {
+      "url": "https://app.tryglen.com/login",
+      "short_url": "https://t.co/iTCziNxO5S",
+      "title": "Glen",
+      "from_post": "2115501939836551619"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev",
+    "agentic-cognition"
+  ],
+  "relevance": "Another cross-harness memory layer to compare with ai-memory and similar tools."
+}

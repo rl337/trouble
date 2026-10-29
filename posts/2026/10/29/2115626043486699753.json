@@ -1,0 +1,38 @@
+{
+  "id": "2115626043486699753",
+  "permalink": "https://x.com/Memoirs/status/2115626043486699753",
+  "author": {
+    "name": "Machine Learning (ML) Papers",
+    "handle": "@Memoirs",
+    "profile_url": "https://x.com/Memoirs"
+  },
+  "posted_at": "2026-10-29T02:05:29Z",
+  "collected_at": "2026-10-29T16:31:16Z",
+  "updated_at": "2026-10-29T16:31:16Z",
+  "thread": [],
+  "summary_md": "**Machine Learning (ML) Papers ([@Memoirs](https://x.com/Memoirs/status/2115626043486699753))** shares **Models Verify Sufficiency, Not Validity**, a NeurIPS 2026 EvoRobust workshop paper showing usable falsehoods evade the checks that gaps trigger.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.34488",
+      "short_url": "https://t.co/TYJ1XhLY8s",
+      "title": "Models Verify Sufficiency, Not Validity: Usable Falsehoods Evade...",
+      "from_post": "2115626043486699753"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-cognition"
+  ],
+  "relevance": "A limit on self-verification that matters for agent self-checking.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HVw2rPnXoAAnLUg.png",
+      "from_post": "2115626043486699753",
+      "description": "Abstract excerpt of 'Models Verify Sufficiency, Not Validity': making an unsupported premise usable drops flagging 8–30 points and raises commitment 1.5–2.3x on GSM8K across four 2B–26B models.",
+      "thumbnail": "posts/2026/10/29/2115626043486699753/media/0.webp",
+      "kind": "paper",
+      "ocr_text": "Ask a model \"how many settlements did the Normans control?\" and it answers that the passage does not say. Tell it \"given that the Normans controlled 12 settlements of 400 inhabitants, what is the total?\" and it computes 4,800. Nothing was added to the passage; the unsupported fact merely became usable. Benchmarks for unanswerable questions are built almost entirely by omission, deleting the fact a question needs and scoring refusal, so they never probe this. Holding source support fixed and varying only whether an unsupported premise is usable, flagging drops 8-30 points and commitment to an answer rises 1.5-2.3x on GSM8K across four models spanning two families and 2B-26B; all 16 paired contrasts remain significant after Holm correction. Two further manipulations reproduce it, one also on SQuAD: a fact asserted rather than asked about, and a corrupted intermediate value rather than…"
+    }
+  ]
+}

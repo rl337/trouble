@@ -1,0 +1,38 @@
+{
+  "id": "2115415926866649092",
+  "permalink": "https://x.com/jerome_etienne/status/2115415926866649092",
+  "author": {
+    "name": "Jerome Etienne #AI",
+    "handle": "@jerome_etienne",
+    "profile_url": "https://x.com/jerome_etienne"
+  },
+  "posted_at": "2026-10-28T12:10:34Z",
+  "collected_at": "2026-10-29T16:31:16Z",
+  "updated_at": "2026-10-29T16:31:16Z",
+  "thread": [],
+  "summary_md": "**Jerome Etienne #AI ([@jerome_etienne](https://x.com/jerome_etienne/status/2115415926866649092))** shipped **Heidrun Code v0.3.5**, an open-source app for managing multiple AI coding agents, adding chat timelines, better code navigation, voice input and notifications.",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/heidrun-org/heidrun_code/releases/tag/v0.3.5",
+      "short_url": "https://t.co/O3Trc8aele",
+      "title": "Release Heidrun Code 0.3.5 · heidrun-org/heidrun_code",
+      "from_post": "2115415926866649092"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "relevance": "Another multi-agent coding cockpit, useful for comparing orchestration UX.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HVt3kdaXEAArU7e.jpg",
+      "from_post": "2115415926866649092",
+      "description": "Release banner for Heidrun Code v0.3.5 ('Keep your agents working. Know which one needs you.') showing a dashboard of Planner, Backend, Frontend, Tests and Docs coding agents with statuses and a recent-activity feed, beside an illustrated desk with a sleeping dog.",
+      "thumbnail": "posts/2026/10/28/2115415926866649092/media/0.webp",
+      "kind": "screenshot",
+      "ocr_text": "HEIDRUN CODE v0.3.5 · OUT NOW\nKeep your agents working. Know which one needs you.\nMultiple coding agents · Organized conversations · Clear status & handoffs\ngithub.com/heidrun-org/heidrun_code"
+    }
+  ]
+}

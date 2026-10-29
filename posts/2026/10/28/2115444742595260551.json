@@ -1,0 +1,27 @@
+{
+  "id": "2115444742595260551",
+  "permalink": "https://x.com/simonw/status/2115444742595260551",
+  "author": {
+    "name": "Simon Willison",
+    "handle": "@simonw",
+    "profile_url": "https://x.com/simonw"
+  },
+  "posted_at": "2026-10-28T14:05:04Z",
+  "collected_at": "2026-10-29T16:31:16Z",
+  "updated_at": "2026-10-29T16:31:16Z",
+  "thread": [],
+  "summary_md": "**Simon Willison ([@simonw](https://x.com/simonw/status/2115444742595260551))** argues October marks another inflection point for coding agents: Claude Opus 5.5 can now build video games that are actually fun, per his post on vibe game development.",
+  "referenced_urls": [
+    {
+      "url": "https://simonwillison.net/2026/Oct/28/vibe-game-development/",
+      "short_url": "https://t.co/aPsJ14RHR0",
+      "title": "The October inflection point for vibe game development",
+      "from_post": "2115444742595260551"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "relevance": "A trusted practitioner's capability read on coding agents building interactive media."
+}

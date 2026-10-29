@@ -1,0 +1,44 @@
+{
+  "id": "2115634802858836327",
+  "permalink": "https://x.com/ka1n0s/status/2115634802858836327",
+  "author": {
+    "name": "Darkly Energized",
+    "handle": "@ka1n0s",
+    "profile_url": "https://x.com/ka1n0s"
+  },
+  "posted_at": "2026-10-29T02:40:18Z",
+  "collected_at": "2026-10-29T16:31:16Z",
+  "updated_at": "2026-10-29T16:31:16Z",
+  "thread": [
+    {
+      "id": "2115650816996700192",
+      "permalink": "https://x.com/ka1n0s/status/2115650816996700192",
+      "posted_at": "2026-10-29T03:43:56Z",
+      "position": 1
+    }
+  ],
+  "summary_md": "**Darkly Energized ([@ka1n0s](https://x.com/ka1n0s/status/2115634802858836327))** runs **Qwen3.8-Flash-Next (125B MoE, 6B active)** locally on an M5 Max via mlx-serve with an iQ-MLX 4.7bpw pack (~82 GB resident), reporting 199/200 on an invoice-coding task and 7/8 on a site-scrape task, with results posted to evals.darkmux.com; a follow-up reply adds further eval notes.",
+  "referenced_urls": [
+    {
+      "url": "https://evals.darkmux.com",
+      "short_url": "https://t.co/OMoGnxDa2C",
+      "title": "darkmux evals",
+      "from_post": "2115634802858836327"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "local-models"
+  ],
+  "relevance": "Task-level (not just tok/s) evals of the largest single-machine Qwen tier, useful for judging agent fitness locally.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HVxNF1AbwAAM8s2.jpg",
+      "from_post": "2115650816996700192",
+      "description": "Eval run dashboard filtered to Qwen3.8-Flash-Next-MLX-Serve-iQ-MLX-4.7bpw on an M5 Max 128 GB with mlx-serve: ten runs dated 2026-10-29 across path-traversal, webhook-forgery, invoice-coding and biz-scrape evals, mostly passed, at roughly 37–99 tokens/s.",
+      "thumbnail": "posts/2026/10/29/2115634802858836327/media/0.webp",
+      "kind": "screenshot"
+    }
+  ]
+}

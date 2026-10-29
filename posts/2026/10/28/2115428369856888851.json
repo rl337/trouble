@@ -1,0 +1,32 @@
+{
+  "id": "2115428369856888851",
+  "permalink": "https://x.com/jasongrowthdata/status/2115428369856888851",
+  "author": {
+    "name": "Jason | growth data for AI agents",
+    "handle": "@jasongrowthdata",
+    "profile_url": "https://x.com/jasongrowthdata"
+  },
+  "posted_at": "2026-10-28T13:00:00Z",
+  "collected_at": "2026-10-29T16:31:16Z",
+  "updated_at": "2026-10-29T16:31:16Z",
+  "thread": [],
+  "summary_md": "**Jason | growth data for AI agents ([@jasongrowthdata](https://x.com/jasongrowthdata/status/2115428369856888851))** pulled the skills.sh security audits for 1,723 agent skills: 86% passed every scanner, 13% got a warning, 6 failed, and automation skills were flagged about 3x as often as writing skills. His advice is to read the audit and the flagged part of SKILL.md before installing.",
+  "referenced_urls": [
+    {
+      "url": "https://www.skills.sh/",
+      "short_url": "https://t.co/Ro9VTvcHy5",
+      "title": "The Agent Skills Directory",
+      "from_post": "2115428369856888851"
+    },
+    {
+      "url": "http://skills.sh",
+      "short_url": "https://t.co/Ax7GlFWSZZ",
+      "from_post": "2115428369856888851"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "relevance": "Ecosystem-level data on agent-skill risk by category."
+}

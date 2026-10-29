@@ -1,0 +1,27 @@
+{
+  "id": "2115602308427915580",
+  "permalink": "https://x.com/youshenlim/status/2115602308427915580",
+  "author": {
+    "name": "Aaron (Youshen) Lim",
+    "handle": "@youshenlim",
+    "profile_url": "https://x.com/youshenlim"
+  },
+  "posted_at": "2026-10-29T00:31:10Z",
+  "collected_at": "2026-10-29T16:31:16Z",
+  "updated_at": "2026-10-29T16:31:16Z",
+  "thread": [],
+  "summary_md": "**Aaron (Youshen) Lim ([@youshenlim](https://x.com/youshenlim/status/2115602308427915580))** summarizes a paper comparing **MCP vs CLI** for AI agents across 14 dimensions: CLI wins for local workflows, while MCP handles enterprise needs such as access control, credential isolation and audit trails.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.30157",
+      "short_url": "https://t.co/sgI2awq2Ci",
+      "title": "MCP vs CLI for AI Agents: A Comparative Analysis of Tool...",
+      "from_post": "2115602308427915580"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "relevance": "Guidance on when to expose tools as CLI versus MCP."
+}

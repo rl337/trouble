@@ -1,0 +1,28 @@
+{
+  "id": "2115484502566862915",
+  "permalink": "https://x.com/makevoid/status/2115484502566862915",
+  "author": {
+    "name": "makevoid",
+    "handle": "@makevoid",
+    "profile_url": "https://x.com/makevoid"
+  },
+  "posted_at": "2026-10-28T16:43:03Z",
+  "collected_at": "2026-10-29T16:31:16Z",
+  "updated_at": "2026-10-29T16:31:16Z",
+  "thread": [],
+  "summary_md": "**makevoid ([@makevoid](https://x.com/makevoid/status/2115484502566862915))** open-sourced **mk-video-editing**, an MIT Claude Code skill and plugin that turns raw footage into a finished edit (transcript cuts, speaker tracking, audio cleanup, Swift titles) locally on a Mac.",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/makevoid/mk-video-editing",
+      "short_url": "https://t.co/AFs48tGrlg",
+      "title": "GitHub - makevoid/mk-video-editing: Claude Code skill + plugin that edits camera footage into finished videos on macOS.",
+      "from_post": "2115484502566862915"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-media",
+    "harness-dev"
+  ],
+  "relevance": "A complete agentic video-editing pipeline as a coding-agent skill."
+}

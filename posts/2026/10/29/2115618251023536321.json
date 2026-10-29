@@ -1,0 +1,38 @@
+{
+  "id": "2115618251023536321",
+  "permalink": "https://x.com/ComputerPapers/status/2115618251023536321",
+  "author": {
+    "name": "Software Engineering Papers",
+    "handle": "@ComputerPapers",
+    "profile_url": "https://x.com/ComputerPapers"
+  },
+  "posted_at": "2026-10-29T01:34:31Z",
+  "collected_at": "2026-10-29T16:31:16Z",
+  "updated_at": "2026-10-29T16:31:16Z",
+  "thread": [],
+  "summary_md": "**Software Engineering Papers ([@ComputerPapers](https://x.com/ComputerPapers/status/2115618251023536321))** shares **Context Is a Pipeline, Not a Window** (Sehgal, Panahandeh, Ezzati-Jivan). Per the abstract shown, in 720 runs of a kernel-trace debugging agent the context window was nearly empty, yet a third of tool results were cut into broken JSON by fixed-length slicing in the harness, so some fields reached the model only 4.7% of the time.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.36114",
+      "short_url": "https://t.co/A4xyjspjwd",
+      "title": "Context Is a Pipeline, Not a Window: Information Attrition in LLM...",
+      "from_post": "2115618251023536321"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "relevance": "A concrete harness bug class: tool-output truncation silently hiding evidence.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HVwvlpnW4AALvyz.png",
+      "from_post": "2115618251023536321",
+      "description": "Abstract excerpt of 'Context Is a Pipeline, Not a Window': across 720 runs, a third of tool results (3,827 of 11,189) were truncated into broken JSON before reaching the model despite a nearly empty context window.",
+      "thumbnail": "posts/2026/10/29/2115618251023536321/media/0.webp",
+      "kind": "paper",
+      "ocr_text": "LLM agents are judged by two numbers: the size of the context window, and how often the final answer is correct. Both numbers miss a third thing: how much of a tool's output is lost before the model ever sees it. We measured this loss in a real tool-using agent. The agent finds the cause of injected faults by reading Linux kernel traces. The context window was almost empty: across 720 runs, the single largest prompt used only 5.75% of it. Yet a third of all tool results (3,827 of 11,189) were cut before they reached the model, and every cut result became broken JSON. The harness cut each result by slicing its JSON text at a fixed length. This does not shorten a result evenly. It deletes whatever data sits near the end. One field reached the model in only 4.7% of calls. A second field, in the very same results, reached the model in 99.3% of calls. Which field held the fault's evidence depended on when the…"
+    }
+  ]
+}

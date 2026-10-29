@@ -1,0 +1,59 @@
+{
+  "id": "2115419183957844077",
+  "permalink": "https://x.com/halcyonwisp/status/2115419183957844077",
+  "author": {
+    "name": "Yang",
+    "handle": "@halcyonwisp",
+    "profile_url": "https://x.com/halcyonwisp"
+  },
+  "posted_at": "2026-10-28T12:23:30Z",
+  "collected_at": "2026-10-29T16:31:16Z",
+  "updated_at": "2026-10-29T16:31:16Z",
+  "thread": [
+    {
+      "id": "2115514738486718841",
+      "permalink": "https://x.com/halcyonwisp/status/2115514738486718841",
+      "posted_at": "2026-10-28T18:43:12Z",
+      "position": 1
+    }
+  ],
+  "summary_md": "**Yang ([@halcyonwisp](https://x.com/halcyonwisp/status/2115419183957844077))** shares **RSI-Opt: Recursive Self-Improvement Optimizer Agents for Model Training** (Lu, Sun, Lin; Purdue): a meta-agent evolves an archive of agent policies across runs while an in-run agent rewrites optimizer code during training; a self-reply shows the paper's title block.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/pdf/2610.32026",
+      "short_url": "https://t.co/Km2S9ZPnLt",
+      "from_post": "2115419183957844077"
+    }
+  ],
+  "hashtags": [
+    "RSI",
+    "RSI_Opt",
+    "LLM",
+    "AI",
+    "Optimizer",
+    "Agents"
+  ],
+  "topics": [
+    "agentic-cognition"
+  ],
+  "relevance": "Agents that improve the training optimizer itself.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HVt6IlSaoAAAFcI.png",
+      "from_post": "2115419183957844077",
+      "description": "RSI-Opt diagram: (a) across runs, a meta-agent samples a parent policy from an archive and rewrites it into a child policy (prompt, playbook, code library); (b) within a run, an in-run agent rewrites optimizer code using loss history and diagnostic reports while the training run's model, data and budget stay fixed.",
+      "thumbnail": "posts/2026/10/28/2115419183957844077/media/0.webp",
+      "kind": "diagram"
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HVvRcIWaQAAm8gs.png",
+      "from_post": "2115514738486718841",
+      "description": "Title block of 'RSI-Opt: Recursive Self-Improvement Optimizer Agents For Model Training' by Binghang Lu, Yige Sun and Guang Lin (Purdue University / independent researcher).",
+      "thumbnail": "posts/2026/10/28/2115419183957844077/media/1.webp",
+      "kind": "paper",
+      "ocr_text": "RSI-Opt: Recursive Self-Improvement Optimizer Agents For Model Training\nBinghang Lu, Yige Sun, Guang Lin\nPurdue University; Independent Researcher"
+    }
+  ]
+}

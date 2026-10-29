@@ -1,0 +1,27 @@
+{
+  "id": "2115602422919758049",
+  "permalink": "https://x.com/youshenlim/status/2115602422919758049",
+  "author": {
+    "name": "Aaron (Youshen) Lim",
+    "handle": "@youshenlim",
+    "profile_url": "https://x.com/youshenlim"
+  },
+  "posted_at": "2026-10-29T00:31:38Z",
+  "collected_at": "2026-10-29T16:31:16Z",
+  "updated_at": "2026-10-29T16:31:16Z",
+  "thread": [],
+  "summary_md": "**Aaron (Youshen) Lim ([@youshenlim](https://x.com/youshenlim/status/2115602422919758049))** summarizes **The Cost of Saying Hello**, which benchmarks handshake overhead across agent protocols: legacy MCP takes 230 ms and three round trips, A2A 61 ms and one, and agents can lose 11% of context to handshakes.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.30151",
+      "short_url": "https://t.co/2yEi8KP00i",
+      "title": "The Cost of Saying Hello: An Empirical Study of Handshake Overhead...",
+      "from_post": "2115602422919758049"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "relevance": "Protocol overhead numbers for agent tool and peer connections."
+}

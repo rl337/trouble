@@ -1,0 +1,61 @@
+{
+  "id": "2115511110120120437",
+  "permalink": "https://x.com/DecagonAI/status/2115511110120120437",
+  "author": {
+    "name": "Decagon",
+    "handle": "@DecagonAI",
+    "profile_url": "https://x.com/DecagonAI"
+  },
+  "posted_at": "2026-10-28T18:28:47Z",
+  "collected_at": "2026-10-29T16:31:16Z",
+  "updated_at": "2026-10-29T16:31:16Z",
+  "thread": [],
+  "summary_md": "**Decagon ([@DecagonAI](https://x.com/DecagonAI/status/2115511110120120437))** describes building an inference stack that improves itself, citing papers such as EAGLE (arXiv 2401.15077) and Anthropic's context-engineering research.",
+  "referenced_urls": [
+    {
+      "url": "https://Z.ai",
+      "from_post": "2115511110120120437"
+    },
+    {
+      "url": "https://arxiv.org/abs/2401.15077",
+      "from_post": "2115511110120120437"
+    },
+    {
+      "url": "https://www.anthropic.com/research/effective-context-engineering-for-ai-agents",
+      "from_post": "2115511110120120437"
+    },
+    {
+      "url": "https://arxiv.org/abs/2605.29343",
+      "from_post": "2115511110120120437"
+    },
+    {
+      "url": "https://inco.ai/blog/dflash2/",
+      "from_post": "2115511110120120437"
+    },
+    {
+      "url": "https://arxiv.org/abs/2605.18810",
+      "from_post": "2115511110120120437"
+    },
+    {
+      "url": "https://arxiv.org/abs/2607.05147",
+      "from_post": "2115511110120120437"
+    },
+    {
+      "url": "https://z.ai/blog/glm-built-its-inference-infrastructure",
+      "from_post": "2115511110120120437"
+    },
+    {
+      "url": "https://arxiv.org/abs/2602.06036",
+      "from_post": "2115511110120120437"
+    },
+    {
+      "url": "https://cognition.com/blog/devin-can-now-manage-devins",
+      "from_post": "2115511110120120437"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-cognition"
+  ],
+  "relevance": "A production team's view of self-improving inference infrastructure for agents."
+}

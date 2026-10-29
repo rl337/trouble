@@ -1,0 +1,27 @@
+{
+  "id": "2115488555099119691",
+  "permalink": "https://x.com/topg_openmaus/status/2115488555099119691",
+  "author": {
+    "name": "TopG",
+    "handle": "@topg_openmaus",
+    "profile_url": "https://x.com/topg_openmaus"
+  },
+  "posted_at": "2026-10-28T16:59:10Z",
+  "collected_at": "2026-10-29T16:31:16Z",
+  "updated_at": "2026-10-29T16:31:16Z",
+  "thread": [],
+  "summary_md": "**TopG ([@topg_openmaus](https://x.com/topg_openmaus/status/2115488555099119691))** highlights **MemBubble**, which finds a 34.7% average drop in response-class entropy across memory systems versus full chat history, arguing evaluations should measure what memory narrows, not just what it recalls.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.25127",
+      "short_url": "https://t.co/Btik0IyCUE",
+      "title": "MemBubble: Benchmarking How Agent Memory Shapes LLM Response Diversity",
+      "from_post": "2115488555099119691"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-cognition"
+  ],
+  "relevance": "Shows memory can reduce agent output diversity."
+}

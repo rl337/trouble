@@ -1,0 +1,55 @@
+{
+  "id": "2115676009123189144",
+  "permalink": "https://x.com/vintcessun/status/2115676009123189144",
+  "author": {
+    "name": "恒星sun",
+    "handle": "@vintcessun",
+    "profile_url": "https://x.com/vintcessun"
+  },
+  "posted_at": "2026-10-29T05:24:02Z",
+  "collected_at": "2026-10-29T16:31:16Z",
+  "updated_at": "2026-10-29T16:31:16Z",
+  "thread": [],
+  "summary_md": "**恒星sun ([@vintcessun](https://x.com/vintcessun/status/2115676009123189144))** (in Chinese) summarizes a paper that treats agents as having OS-level power without OS-level protection: across 19 subsystems and 116 mechanisms only 11 match traditional OS designs and 65 are missing (privilege separation, quotas, tamper-proof audit), and experiments on three CLIs found single-tool guards bypassable via shell and forged session records accepted on resume.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.33753",
+      "short_url": "https://t.co/B75iutRYgH",
+      "title": "Ring-0 by Default: Agents as Operating Systems (AaOS)",
+      "from_post": "2115676009123189144"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "relevance": "Maps missing OS-style protections in coding-agent CLIs, with concrete bypasses.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HVxkHT8bcAAxKA3.jpg",
+      "from_post": "2115676009123189144",
+      "description": "Table 2 from the Agent-as-OS paper: a reference-monitor audit showing defenses expressed as model input (system-prompt rules, spotlighting, instruction hierarchy, StruQ/SecAlign) fail tamper-proofness, while external ones (hooks, IFC/dual-LLM, capability gating, runtime constraint DSL, monitoring, formal policy enforcement, host sandbox) can be relied on.",
+      "thumbnail": "posts/2026/10/29/2115676009123189144/media/0.webp",
+      "kind": "paper",
+      "ocr_text": "Table 2: Reference-monitor audit of representative defenses. Defenses expressed as model input (top) fail tamper-proofness; external ones (bottom) can be relied upon.\nColumns: Non-byp. / Tamper-pf. / Verif."
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HVxkHfIbEAALWpU.jpg",
+      "from_post": "2115676009123189144",
+      "description": "Timeline mapping OS responsibilities (action loop, tool interface, drivers/MCP, memory, file I/O, packaging/skills, autostart, suspend/resume, multi-agent IPC) to their first release in widely used agents (ReAct, AutoGPT, function calling, MCP, MemGPT, SWE-agent, Agent Skills, A2A) and the missing protection in each (e.g. no signing, no ACL, sender label is text).",
+      "thumbnail": "posts/2026/10/29/2115676009123189144/media/1.webp",
+      "kind": "diagram"
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HVxkHo4a4AA8psc.png",
+      "from_post": "2115676009123189144",
+      "description": "Stacked bar chart classifying agent-OS counterparts across 19 OS subsystems (process, scheduling, memory, filesystem, IPC, network, identity, isolation, accounting, state, etc.): 65 missing (56%), 26 degraded (22%), 14 mutated (12%), 11 isomorphic (9%), plus 9 novel.",
+      "thumbnail": "posts/2026/10/29/2115676009123189144/media/2.webp",
+      "kind": "chart",
+      "ocr_text": "Missing 65 (56%) no counterpart · Degraded 26 (22%) present, weaker · Mutated 14 (12%) other meaning · Isomorphic 11 (9%) same protection · Novel 9 no OS analogue"
+    }
+  ]
+}

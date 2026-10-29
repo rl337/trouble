@@ -1,0 +1,27 @@
+{
+  "id": "2115344618384736595",
+  "permalink": "https://x.com/ErdvkuHLYlVPlIL/status/2115344618384736595",
+  "author": {
+    "name": "戈培尔",
+    "handle": "@ErdvkuHLYlVPlIL",
+    "profile_url": "https://x.com/ErdvkuHLYlVPlIL"
+  },
+  "posted_at": "2026-10-28T07:27:12Z",
+  "collected_at": "2026-10-29T16:31:16Z",
+  "updated_at": "2026-10-29T16:31:16Z",
+  "thread": [],
+  "summary_md": "**戈培尔 ([@ErdvkuHLYlVPlIL](https://x.com/ErdvkuHLYlVPlIL/status/2115344618384736595))** open-sourced an agent skill (smallyear/summarize-to-a4) that condenses any PDF, PPTX, DOCX, XLSX or web page into a 1-6 page printable A4 cheat sheet.",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/smallyear/summarize-to-a4",
+      "short_url": "https://t.co/tH0VhFK7S9",
+      "title": "GitHub - smallyear/summarize-to-a4",
+      "from_post": "2115344618384736595"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "relevance": "A small, reusable document-to-artifact skill."
+}

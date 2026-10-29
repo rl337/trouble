@@ -1,0 +1,39 @@
+{
+  "id": "2115396040417505736",
+  "permalink": "https://x.com/ArthurLiu0725/status/2115396040417505736",
+  "author": {
+    "name": "Arthur.",
+    "handle": "@ArthurLiu0725",
+    "profile_url": "https://x.com/ArthurLiu0725"
+  },
+  "posted_at": "2026-10-28T10:51:32Z",
+  "collected_at": "2026-10-29T16:31:16Z",
+  "updated_at": "2026-10-29T16:31:16Z",
+  "thread": [],
+  "summary_md": "**Arthur. ([@ArthurLiu0725](https://x.com/ArthurLiu0725/status/2115396040417505736))** (in Chinese) explains Google's open-source **Elephant-Goldfish Model (EGM)** plugin: one AI drafts a design with full project context and a second, starting from a clean context, hunts for hidden assumptions and logic gaps, turning it into an explore, draft-spec, independent-review flow. The article links the google/elephant-goldfish-model repo and Google's open-source blog post.",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/google/elephant-goldfish-model",
+      "from_post": "2115396040417505736"
+    },
+    {
+      "url": "https://egm.dev/",
+      "from_post": "2115396040417505736"
+    },
+    {
+      "url": "https://opensource.googleblog.com/2026/10/introducing-elephant-goldfish-model-plugin.html",
+      "from_post": "2115396040417505736"
+    }
+  ],
+  "hashtags": [
+    "AI",
+    "开源",
+    "GitHub",
+    "AIAgent",
+    "ClaudeCode"
+  ],
+  "topics": [
+    "harness-dev"
+  ],
+  "relevance": "A fresh-context reviewer pattern from Google for spec-first agentic coding."
+}

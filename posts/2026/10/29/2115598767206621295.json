@@ -1,0 +1,25 @@
+{
+  "id": "2115598767206621295",
+  "permalink": "https://x.com/PeasantSmith/status/2115598767206621295",
+  "author": {
+    "name": "Peasant Smith",
+    "handle": "@PeasantSmith",
+    "profile_url": "https://x.com/PeasantSmith"
+  },
+  "posted_at": "2026-10-29T00:17:06Z",
+  "collected_at": "2026-10-29T16:31:16Z",
+  "updated_at": "2026-10-29T16:31:16Z",
+  "thread": [],
+  "summary_md": "**Peasant Smith ([@PeasantSmith](https://x.com/PeasantSmith/status/2115598767206621295))** explains Project Maya's **loop guard**, a mechanism to stop a local model from repeating itself during generation; the X article links the mw00/project-maya GitHub repo.",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/mw00/project-maya",
+      "from_post": "2115598767206621295"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "relevance": "A practical harness-side fix for a common failure mode of small local models in agent loops."
+}

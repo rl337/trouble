@@ -1,0 +1,44 @@
+{
+  "id": "2115580354820026716",
+  "permalink": "https://x.com/HEI/status/2115580354820026716",
+  "author": {
+    "name": "Natural Language Processing Papers",
+    "handle": "@HEI",
+    "profile_url": "https://x.com/HEI"
+  },
+  "posted_at": "2026-10-28T23:03:56Z",
+  "collected_at": "2026-10-29T16:31:16Z",
+  "updated_at": "2026-10-29T16:31:16Z",
+  "thread": [],
+  "summary_md": "**Natural Language Processing Papers ([@HEI](https://x.com/HEI/status/2115580354820026716))** shares **Position, Role or Label?**, a controlled study of instruction conflicts in LLM agents, with code in the WhoWins repo.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.33201",
+      "short_url": "https://t.co/k7Ojne3p0p",
+      "title": "Position, Role or Label? A Controlled Study of Instruction...",
+      "from_post": "2115580354820026716"
+    },
+    {
+      "url": "https://github.com/anishh15/WhoWins",
+      "short_url": "https://t.co/zlVSoPjvLS",
+      "title": "GitHub - anishh15/WhoWins: Position, Role or Label? A Controlled Study of Instruction Conflicts in LLM Agents",
+      "from_post": "2115580354820026716"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "relevance": "Which instruction source wins in agents: key for prompt/harness layering.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HVwNH0fWsAEAVKV.png",
+      "from_post": "2115580354820026716",
+      "description": "Abstract excerpt of the WhoWins study: 1,080 code-scored instruction-conflict scenarios over 14 open-weight models; within one message the first of two conflicting lines wins 72–95% of the time.",
+      "thumbnail": "posts/2026/10/28/2115580354820026716/media/0.webp",
+      "kind": "paper",
+      "ocr_text": "LLM agents take instructions from the operator, repository configuration, user, tool results and saved memory, which often conflict. Instruction-hierarchy benchmarks ask whether the higher-ranked source wins, but a source sets position, role and label at once. First, we build WhoWins, 1,080 code-scored scenarios in five task types, each with up to five mutually exclusive instructions, and seven controlled experiments that vary only how instructions are delivered. Second, we study 14 open-weight models (0.6B to 122B, thinking off and on) over 1,887,356 scored replies, checking main findings on held-out scenarios. Inside one message the first of two conflicting lines wins 72.42 to 94.66%, and across messages it keeps 22.95 to 62.65%. A policy sent first in the system (or developer) message loses most conflicts with later lines in every Qwen model but wins most on gpt-oss when it acts. In tool…"
+    }
+  ]
+}

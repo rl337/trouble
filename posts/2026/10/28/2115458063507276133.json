@@ -1,0 +1,27 @@
+{
+  "id": "2115458063507276133",
+  "permalink": "https://x.com/_anishmahapatra/status/2115458063507276133",
+  "author": {
+    "name": "Anish Mahapatra",
+    "handle": "@_anishmahapatra",
+    "profile_url": "https://x.com/_anishmahapatra"
+  },
+  "posted_at": "2026-10-28T14:58:00Z",
+  "collected_at": "2026-10-29T16:31:16Z",
+  "updated_at": "2026-10-29T16:31:16Z",
+  "thread": [],
+  "summary_md": "**Anish Mahapatra ([@_anishmahapatra](https://x.com/_anishmahapatra/status/2115458063507276133))** summarizes **Measuring Agents in Production**, a survey of 86 practitioners: 68% of agents run 10 or fewer steps before a human steps in, 70% prompt off-the-shelf models rather than fine-tune, and 74% rely mainly on human evaluation.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2512.04123",
+      "short_url": "https://t.co/OiELVzh7mh",
+      "title": "Measuring Agents in Production",
+      "from_post": "2115458063507276133"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "relevance": "Ground truth on how production agents are actually built and evaluated."
+}

@@ -1,0 +1,38 @@
+{
+  "id": "2115513838741463119",
+  "permalink": "https://x.com/VagabondTruffle/status/2115513838741463119",
+  "author": {
+    "name": "Mrs. Truffle",
+    "handle": "@VagabondTruffle",
+    "profile_url": "https://x.com/VagabondTruffle"
+  },
+  "posted_at": "2026-10-28T18:39:38Z",
+  "collected_at": "2026-10-29T16:31:16Z",
+  "updated_at": "2026-10-29T16:31:16Z",
+  "thread": [],
+  "summary_md": "**Mrs. Truffle ([@VagabondTruffle](https://x.com/VagabondTruffle/status/2115513838741463119))** shares tuned benchmarks of **DeepSeek V4.1 Flash 1017** on a 2021 M1 Max (64 GB) using @Beamsters1's 1.75-bit Sushi STQ quant from Hugging Face; the screenshot shows the measured settings.",
+  "referenced_urls": [
+    {
+      "url": "https://huggingface.co/beamster/DeepSeek-V4.1-Flash-1017-Sushi-STQ-1.75bpw",
+      "short_url": "https://t.co/zFJvP80Ny8",
+      "title": "beamster/DeepSeek-V4.1-Flash-1017-Sushi-STQ-1.75bpw · Hugging Face",
+      "from_post": "2115513838741463119"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "local-models"
+  ],
+  "relevance": "Extreme low-bit quant makes a frontier MoE usable on an older Mac.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HVvP_a6WUAAMHlf.jpg",
+      "from_post": "2115513838741463119",
+      "description": "'Results on your M1 Max' table and bar charts comparing memory configs (40–48 GiB, DSpark speculative decoding on/off) on slots per layer, cache hit, prefill and decode tok/s and free memory for a cold 8.6K prompt; 42 GiB with DSpark off and 512K context is chosen (76 tok/s prefill, 5.2–5.4 tok/s decode, 6.3 GB free).",
+      "thumbnail": "posts/2026/10/28/2115513838741463119/media/0.webp",
+      "kind": "chart",
+      "ocr_text": "Results on your M1 Max — Cold 8.6k prompt, 200-token decode, auto context.\n44 GiB, DSpark on: 82 slots/layer, 85% cache hit, 73 prefill, 5.0–5.1 decode, 2.8 GB min available — DSpark accepted only about 0.2 drafts per round on your text\n44 GiB, DSpark off: 92, 86%, 78, 5.6–6.5, 3.7 GB — 12–28% faster than DSpark on\n48 GiB, DSpark off: 103, 90%, 46, 6.5–7.0, 1.6 GB — 26 GB compressed, about 5 GB swapped, prefill collapsed\n40 GiB, DSpark off: 81, 84%, 75, 4.9–5.0, 8.1 GB\n42 GiB, DSpark off, 512k: 86, 87%, 76, 5.2–5.4, 6.3 GB — chosen, matches your 6 GB headroom"
+    }
+  ]
+}

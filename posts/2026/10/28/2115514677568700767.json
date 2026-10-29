@@ -1,0 +1,27 @@
+{
+  "id": "2115514677568700767",
+  "permalink": "https://x.com/UjjwalJagtap3/status/2115514677568700767",
+  "author": {
+    "name": "UjjwalSays",
+    "handle": "@UjjwalJagtap3",
+    "profile_url": "https://x.com/UjjwalJagtap3"
+  },
+  "posted_at": "2026-10-28T18:42:58Z",
+  "collected_at": "2026-10-29T16:31:16Z",
+  "updated_at": "2026-10-29T16:31:16Z",
+  "thread": [],
+  "summary_md": "**[@UjjwalJagtap3](https://x.com/UjjwalJagtap3/status/2115514677568700767)** shares **learn-harness-engineering**, a free open-source curriculum (14 lectures, 8 hands-on projects) on building reliable coding agents beyond prompting — covering memory, orchestration, testing and agent workflows.",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/walkinglabs/learn-harness-engineering",
+      "short_url": "https://t.co/4ZE58uJIfa",
+      "title": "GitHub - walkinglabs/learn-harness-engineering: Harness engineering beginner tutorial, from 0 to 1",
+      "from_post": "2115514677568700767"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "relevance": "A structured from-scratch course on harness engineering, useful for onboarding or borrowing exercises."
+}

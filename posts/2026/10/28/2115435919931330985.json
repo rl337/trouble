@@ -1,0 +1,67 @@
+{
+  "id": "2115435919931330985",
+  "permalink": "https://x.com/johnrobinsn/status/2115435919931330985",
+  "author": {
+    "name": "John Robinson",
+    "handle": "@johnrobinsn",
+    "profile_url": "https://x.com/johnrobinsn"
+  },
+  "posted_at": "2026-10-28T13:30:00Z",
+  "collected_at": "2026-10-29T16:31:16Z",
+  "updated_at": "2026-10-29T16:31:16Z",
+  "thread": [
+    {
+      "id": "2115435920765940044",
+      "permalink": "https://x.com/johnrobinsn/status/2115435920765940044",
+      "posted_at": "2026-10-28T13:30:01Z",
+      "position": 1
+    },
+    {
+      "id": "2115435921281794230",
+      "permalink": "https://x.com/johnrobinsn/status/2115435921281794230",
+      "posted_at": "2026-10-28T13:30:01Z",
+      "position": 2
+    },
+    {
+      "id": "2115435921747386419",
+      "permalink": "https://x.com/johnrobinsn/status/2115435921747386419",
+      "posted_at": "2026-10-28T13:30:01Z",
+      "position": 3
+    },
+    {
+      "id": "2115435922288411034",
+      "permalink": "https://x.com/johnrobinsn/status/2115435922288411034",
+      "posted_at": "2026-10-28T13:30:01Z",
+      "position": 4
+    }
+  ],
+  "summary_md": "**John Robinson ([@johnrobinsn](https://x.com/johnrobinsn/status/2115435919931330985))** built **MacVoice**, a full voice loop on a MacBook running on a local LLM: you can talk over the agent to interrupt it, the first spoken word arrives ~0.7 s after you stop, and it fits in 1.4 GB without PyTorch. The self-thread covers Smart Turn end-of-speech detection (1,504 ms to 288 ms), dropping torch (5.4 GB to 1.3 GB), macOS echo cancellation, and pointing it at any OpenAI-compatible server or an ACP coding agent.",
+  "referenced_urls": [
+    {
+      "url": "https://www.storminthecastle.com/posts/mac_voice/",
+      "short_url": "https://t.co/gfv1fQ5NqO",
+      "title": "A Local Voice Agent on a MacBook in Under 2 GB",
+      "from_post": "2115435919931330985"
+    },
+    {
+      "url": "https://github.com/johnrobinsn/macvoice",
+      "short_url": "https://t.co/GW4UOJyJLa",
+      "title": "GitHub - johnrobinsn/macvoice: A local voice agent loop for Apple Silicon in under 2 GB: Silero VAD, Smart Turn, Parakeet (MLX), Phonon. No PyTorch. Bring your own LLM, or Claude Code over ACP.",
+      "from_post": "2115435919931330985"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "local-models",
+    "agentic-media"
+  ],
+  "relevance": "Low-latency local voice front end that can drive coding agents.",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://x.com/johnrobinsn/status/2115435919931330985/video/1",
+      "from_post": "2115435919931330985",
+      "description": "Demo video, with sound, of MacVoice's local full-duplex voice loop on a MacBook (not downloaded; referenced only)."
+    }
+  ]
+}

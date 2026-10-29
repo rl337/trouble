@@ -1,0 +1,38 @@
+{
+  "id": "2115660960728047630",
+  "permalink": "https://x.com/oaichu95/status/2115660960728047630",
+  "author": {
+    "name": "Oai Chu",
+    "handle": "@oaichu95",
+    "profile_url": "https://x.com/oaichu95"
+  },
+  "posted_at": "2026-10-29T04:24:14Z",
+  "collected_at": "2026-10-29T16:31:16Z",
+  "updated_at": "2026-10-29T16:31:16Z",
+  "thread": [],
+  "summary_md": "**Oai Chu ([@oaichu95](https://x.com/oaichu95/status/2115660960728047630))** reports that MiniMax's coding team open-sourced **mcode-stack**, the 17 SKILL.md workflows they use daily — from `subagent-split-check` to `independent-review` — installable in Claude Code via its plugin marketplace.\n\nThe attached card groups them as plan & split, context & tools (tool-budget and context-tax audits), long sessions (handoff docs, long-command checks), review, and experiments/hotfixes (including `harness-experiment` and `trajectory-review`).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/MiniMax-AI/mcode-stack",
+      "short_url": "https://t.co/uQr8waLIYC",
+      "title": "GitHub - MiniMax-AI/mcode-stack: The workflows and skills the MiniMax Code team uses to build MiniMax Code. Open source, install and use.",
+      "from_post": "2115660960728047630"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "relevance": "A production team's real skill set, including harness-experiment and context-cost audits — great raw material for agent rules.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HVxWazcbcAE2iue.png",
+      "from_post": "2115660960728047630",
+      "description": "Dark info card listing the 17 mcode-stack skills grouped by category, with the Claude Code install command.",
+      "thumbnail": "posts/2026/10/29/2115660960728047630/media/0.webp",
+      "kind": "screenshot",
+      "ocr_text": "MiniMax-AI/mcode-stack\n17 skills the MiniMax Code team uses every day | MIT (6 engineering-* skills CC-BY 3.0)\nPlan & split: /subagent-split-check /engineering-small-prs /engineering-change-descriptions\nContext & tools: /tool-budget-audit /context-tax-audit\nLong sessions: /long-session-check /handoff-doc /long-command-check\nReview: /independent-review /engineering-code-review /engineering-review-comments /engineering-review-feedback\nExperiments & hotfixes: /harness-experiment /trajectory-review /engineering-emergency-changes\nJiachen's stack: /lifting-loops /making-content\nClaude Code: /plugin marketplace add MiniMax-AI/mcode-stack\nSource: github.com/MiniMax-AI/mcode-stack README and repo tree, checked Oct 29, 2026 11:25 UTC+7"
+    }
+  ]
+}

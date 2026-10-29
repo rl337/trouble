@@ -1,0 +1,27 @@
+{
+  "id": "2115586912102609357",
+  "permalink": "https://x.com/EstimandLab/status/2115586912102609357",
+  "author": {
+    "name": "EstimandLab",
+    "handle": "@EstimandLab",
+    "profile_url": "https://x.com/EstimandLab"
+  },
+  "posted_at": "2026-10-28T23:30:00Z",
+  "collected_at": "2026-10-29T16:31:16Z",
+  "updated_at": "2026-10-29T16:31:16Z",
+  "thread": [],
+  "summary_md": "**EstimandLab ([@EstimandLab](https://x.com/EstimandLab/status/2115586912102609357))** summarizes **Nonstandard Errors in AI Agents**: 150 AI coding agents given the same six hypotheses and NYSE data reached widely varying answers, partly by choosing different measures, and written AI peer review barely narrowed the spread.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2603.16744",
+      "short_url": "https://t.co/VLlOfdyKQp",
+      "title": "Nonstandard Errors in AI Agents",
+      "from_post": "2115586912102609357"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-cognition"
+  ],
+  "relevance": "Variance in agent reasoning on identical research tasks: a caution for agent-driven analysis."
+}

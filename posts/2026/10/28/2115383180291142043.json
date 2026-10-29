@@ -1,0 +1,46 @@
+{
+  "id": "2115383180291142043",
+  "permalink": "https://x.com/ModelScope2022/status/2115383180291142043",
+  "author": {
+    "name": "ModelScope",
+    "handle": "@ModelScope2022",
+    "profile_url": "https://x.com/ModelScope2022"
+  },
+  "posted_at": "2026-10-28T10:00:26Z",
+  "collected_at": "2026-10-29T16:31:16Z",
+  "updated_at": "2026-10-29T16:31:16Z",
+  "thread": [],
+  "summary_md": "**ModelScope ([@ModelScope2022](https://x.com/ModelScope2022/status/2115383180291142043))** announces **MOSS-Image-EntroPack**, pre-quantized MOSS-Image packages (4.5-bit, 6-bit, entropy-coded INT8) that fit in 4 GB VRAM, with INT8 acceleration, separable DiT and text-encoder packages, and DiffSynth-Studio / ComfyUI support.",
+  "referenced_urls": [
+    {
+      "url": "https://modelscope.ai/models/DiffSynth-Studio/MOSS-Image-EntroPack",
+      "short_url": "https://t.co/v1rUhG68aP",
+      "title": "MOSS-Image-EntroPack - ModelScope",
+      "from_post": "2115383180291142043"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-media",
+    "local-models"
+  ],
+  "relevance": "Brings an open image model down to very small local GPUs.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HVtZynqXYAADWkI.jpg",
+      "from_post": "2115383180291142043",
+      "description": "Grid of MOSS-Image samples of the same prompt (a woman in a pink dress on a Paris street with an 'EntroPack' neon sign) under the base model at bf16, 6-bit, int8@7, int8@6 and 4.5-bit quantization, showing near-identical outputs.",
+      "thumbnail": "posts/2026/10/28/2115383180291142043/media/0.webp",
+      "kind": "photo"
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HVtZymhWEAAJLAW.jpg",
+      "from_post": "2115383180291142043",
+      "description": "Same comparison grid for the SFT model: bf16 reference vs int8@7, int8@6, 6-bit, 4.5-bit and 3.5-bit, with the image staying close to the reference until the lowest bit width.",
+      "thumbnail": "posts/2026/10/28/2115383180291142043/media/1.webp",
+      "kind": "photo"
+    }
+  ]
+}

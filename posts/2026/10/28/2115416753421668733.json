@@ -1,0 +1,43 @@
+{
+  "id": "2115416753421668733",
+  "permalink": "https://x.com/nithin_r_g/status/2115416753421668733",
+  "author": {
+    "name": "Nithin",
+    "handle": "@nithin_r_g",
+    "profile_url": "https://x.com/nithin_r_g"
+  },
+  "posted_at": "2026-10-28T12:13:51Z",
+  "collected_at": "2026-10-29T16:31:16Z",
+  "updated_at": "2026-10-29T16:31:16Z",
+  "thread": [],
+  "summary_md": "**Nithin ([@nithin_r_g](https://x.com/nithin_r_g/status/2115416753421668733))** reports **Memory Tax**: 11 agent memory systems tested against plain retrieval lost 90 of 99 matchups and cost more, so verify a memory layer beats plain search before building one.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.34073",
+      "short_url": "https://t.co/3vT2M0y2Yb",
+      "title": "Memory Tax: Dissecting the Net Value of Agent Memory",
+      "from_post": "2115416753421668733"
+    },
+    {
+      "url": "https://unknown.ac/open/?url=https%3A%2F%2Farxiv.org%2Fpdf%2F2610.34073",
+      "short_url": "https://t.co/0Be1XEFd2g",
+      "title": "Listen to this in Unknown",
+      "from_post": "2115416753421668733"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-cognition"
+  ],
+  "relevance": "A strong empirical check on whether agent memory layers pay off.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HVt4Ux6WcAANVwj.jpg",
+      "from_post": "2115416753421668733",
+      "description": "Bubble chart 'Acc-Cost Pareto · LongMemEval-s · Qwen3.6-27B': accuracy vs token cost per corpus (log scale). Plain RAG variants sit top-left (high accuracy, ~10K tokens) while memory systems such as MemOS, HippoRAG2, A-Mem, Mem-T, MemoryOS, MAGMA and OpenViking cost far more for similar or lower accuracy.",
+      "thumbnail": "posts/2026/10/28/2115416753421668733/media/0.webp",
+      "kind": "chart"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": "2115418480010817846",
+  "permalink": "https://x.com/EnriTarta/status/2115418480010817846",
+  "author": {
+    "name": "Enrico Tartarotti",
+    "handle": "@EnriTarta",
+    "profile_url": "https://x.com/EnriTarta"
+  },
+  "posted_at": "2026-10-28T12:20:42Z",
+  "collected_at": "2026-10-29T16:31:16Z",
+  "updated_at": "2026-10-29T16:31:16Z",
+  "thread": [],
+  "summary_md": "**Enrico Tartarotti ([@EnriTarta](https://x.com/EnriTarta/status/2115418480010817846))** compared 10,000+ videos on flask.do: teams editing with agents (Claude Code, HyperFrames, Remotion) produce 2.65 versions per video versus 1.23, land a new version a median 16 minutes after feedback versus 11 hours, and leave fewer but more often recorded comments.",
+  "referenced_urls": [
+    {
+      "url": "https://flask.do",
+      "short_url": "https://t.co/1hciW49Ivf",
+      "title": "Flask - Video Review Workspace for Teams and Agents",
+      "from_post": "2115418480010817846"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-media"
+  ],
+  "relevance": "Real usage data on how agentic video editing changes iteration speed and feedback style.",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://x.com/EnriTarta/status/2115418480010817846/video/1",
+      "from_post": "2115418480010817846",
+      "description": "Video accompanying the stats comparing video editing with and without agents (not downloaded; referenced only)."
+    }
+  ]
+}

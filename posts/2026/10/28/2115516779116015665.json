@@ -1,0 +1,38 @@
+{
+  "id": "2115516779116015665",
+  "permalink": "https://x.com/FSFG/status/2115516779116015665",
+  "author": {
+    "name": "Cryptography and Security Papers",
+    "handle": "@FSFG",
+    "profile_url": "https://x.com/FSFG"
+  },
+  "posted_at": "2026-10-28T18:51:19Z",
+  "collected_at": "2026-10-29T16:31:16Z",
+  "updated_at": "2026-10-29T16:31:16Z",
+  "thread": [],
+  "summary_md": "**Cryptography and Security Papers ([@FSFG](https://x.com/FSFG/status/2115516779116015665))** shares **Log-To-Leak**, a paper on prompt-injection attacks against tool-using LLM agents via the Model Context Protocol.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.36108",
+      "short_url": "https://t.co/ntzMSncETJ",
+      "title": "Log-To-Leak: Prompt Injection Attacks on Tool-Using LLM Agents via...",
+      "from_post": "2115516779116015665"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "relevance": "A new MCP attack class to defend against in agent harnesses.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HVvTTNXW0AAH85D.png",
+      "from_post": "2115516779116015665",
+      "description": "Abstract excerpt of Log-To-Leak, a post-hoc logging attack via MCP tool metadata that induces an extra attacker-controlled call leaking the query and responses, evaluated on five MCP servers and four agents.",
+      "thumbnail": "posts/2026/10/28/2115516779116015665/media/0.webp",
+      "kind": "paper",
+      "ocr_text": "LLM agents increasingly access external tools through the Model Context Protocol (MCP), but the natural-language metadata used to describe those tools creates a prompt-injection surface. Within this established tool-poisoning surface, we study Log-To-Leak, an additive post-hoc logging attack that induces a separate attacker-controlled call after the final legitimate call. Its payload targets the user query, MCP server name, server response, and agent response. We operationalize the injected directive through Trigger, Tool Binding, Justification, and Pressure, and separately measure call success, payload fidelity, and preservation of legitimate behavior. We evaluate five MCP servers and four LLM agents using five metrics spanning effectiveness, utility, and efficiency. Across 18 model-server pairs with valid tool execution, Log-To-Leak achieves an attack success rate…"
+    }
+  ]
+}

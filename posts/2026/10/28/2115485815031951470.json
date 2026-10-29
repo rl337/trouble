@@ -1,0 +1,37 @@
+{
+  "id": "2115485815031951470",
+  "permalink": "https://x.com/aswinhq/status/2115485815031951470",
+  "author": {
+    "name": "ASWIN | F1",
+    "handle": "@aswinhq",
+    "profile_url": "https://x.com/aswinhq"
+  },
+  "posted_at": "2026-10-28T16:48:16Z",
+  "collected_at": "2026-10-29T16:31:16Z",
+  "updated_at": "2026-10-29T16:31:16Z",
+  "thread": [],
+  "summary_md": "**ASWIN | F1 ([@aswinhq](https://x.com/aswinhq/status/2115485815031951470))** notes **OpenCode v2.2.0** adds experimental desktop plugins you can create and share, plus experimental image and decision-generation APIs, per the changelog.",
+  "referenced_urls": [
+    {
+      "url": "https://dev.opencode.ai/changelog/",
+      "short_url": "https://t.co/3apsxX5TuF",
+      "title": "OpenCode | Changelog",
+      "from_post": "2115485815031951470"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "relevance": "Tracks an open coding-agent harness growing a plugin ecosystem.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HVu3IlWacAA9AYf.jpg",
+      "from_post": "2115485815031951470",
+      "description": "Promo graphic for OpenCode v2.2.0 'Desktop Plugins are here!' listing experimental desktop plugins, an image generation API and a decision generation API, with a mock plugin browser (GitHub, Image Gen, Decision Gen).",
+      "thumbnail": "posts/2026/10/28/2115485815031951470/media/0.webp",
+      "kind": "screenshot"
+    }
+  ]
+}

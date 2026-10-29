@@ -1,0 +1,39 @@
+{
+  "id": "2115471476581130611",
+  "permalink": "https://x.com/0xquinto/status/2115471476581130611",
+  "author": {
+    "name": "Diego Gomez",
+    "handle": "@0xquinto",
+    "profile_url": "https://x.com/0xquinto"
+  },
+  "posted_at": "2026-10-28T15:51:18Z",
+  "collected_at": "2026-10-29T16:31:16Z",
+  "updated_at": "2026-10-29T16:31:16Z",
+  "thread": [],
+  "summary_md": "**Diego Gomez ([@0xquinto](https://x.com/0xquinto/status/2115471476581130611))** highlights **Knowing When to Stop: The Evidence-Action Gap in Coding Agents**: agents that recognize they are stuck still burn tokens on retries. Per the quoted excerpt, an escalation tool cuts budget exhaustion from 34.0% to 6.7%, and an external monitor (for models that ignore the tool) nearly triples task success.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.31895",
+      "short_url": "https://t.co/78w0YDfBIM",
+      "title": "Knowing When to Stop: The Evidence-Action Gap in Coding Agents",
+      "from_post": "2115471476581130611"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev",
+    "agentic-cognition"
+  ],
+  "relevance": "A simple stop/escalate affordance in the harness with a large measured effect.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HVuqGHXWcAALvDx.jpg",
+      "from_post": "2115471476581130611",
+      "description": "Highlighted excerpt from 'Knowing When to Stop: The Evidence-Action Gap in Coding Agents' (arXiv 2610.31895, p. 1).",
+      "thumbnail": "posts/2026/10/28/2115471476581130611/media/0.webp",
+      "kind": "paper",
+      "ocr_text": "tool, or an external monitor for models that ignore the tool, already guards against much of this behavior: the tool cuts budget exhaustion from 34.0% to 6.7%, and the monitor nearly triples task success after environment restoration. Even then, a fired escalation is not yet a useful handoff: tickets reliably name the blocker but\nKnowing When to Stop: The Evidence-Action Gap in Coding Agents\nTianyu Chen, Xinran Zhao, Vijay Viswanathan, Shoubin Yu, Mingyuan Zhou, Tongshuang Wu"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": "2115460873091510581",
+  "permalink": "https://x.com/dad__vibes/status/2115460873091510581",
+  "author": {
+    "name": "Adam",
+    "handle": "@dad__vibes",
+    "profile_url": "https://x.com/dad__vibes"
+  },
+  "posted_at": "2026-10-28T15:09:10Z",
+  "collected_at": "2026-10-29T16:31:16Z",
+  "updated_at": "2026-10-29T16:31:16Z",
+  "thread": [],
+  "summary_md": "**Adam ([@dad__vibes](https://x.com/dad__vibes/status/2115460873091510581))** promotes AMD-Pro-Bench, a benchmark database for AMD Pro cards, citing one Radeon PRO W7900 running **Gemma 4 26B-A4B** (UD-Q4_K_XL) at 75.76 tok/s on hipEngine versus 69.25 on llama.cpp.",
+  "referenced_urls": [
+    {
+      "url": "https://AMD-Pro-Bench.com",
+      "short_url": "https://t.co/xamU6WRKf0",
+      "title": "AMD-Pro-Bench | AI Benchmarks for AMD GPUs",
+      "from_post": "2115460873091510581"
+    }
+  ],
+  "hashtags": [
+    "LocalLLM"
+  ],
+  "topics": [
+    "local-models"
+  ],
+  "relevance": "Benchmark source for non-NVIDIA local inference of agent-capable MoE models."
+}

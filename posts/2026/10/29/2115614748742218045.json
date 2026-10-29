@@ -1,0 +1,41 @@
+{
+  "id": "2115614748742218045",
+  "permalink": "https://x.com/mdp_sec/status/2115614748742218045",
+  "author": {
+    "name": "Marius du Preez",
+    "handle": "@mdp_sec",
+    "profile_url": "https://x.com/mdp_sec"
+  },
+  "posted_at": "2026-10-29T01:20:36Z",
+  "collected_at": "2026-10-29T16:31:16Z",
+  "updated_at": "2026-10-29T16:31:16Z",
+  "thread": [],
+  "summary_md": "**Marius du Preez ([@mdp_sec](https://x.com/mdp_sec/status/2115614748742218045))** writes up how to build your own AI bug-bounty hunter, linking usestrix/strix and his mdpsec/bug-bounty-hunting-prompts repo.",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/usestrix/strix",
+      "from_post": "2115614748742218045"
+    },
+    {
+      "url": "https://github.com/mdpsec/bug-bounty-hunting-prompts",
+      "from_post": "2115614748742218045"
+    },
+    {
+      "url": "https://blackboxarena.ai",
+      "from_post": "2115614748742218045"
+    },
+    {
+      "url": "https://abs.twimg.com/emoji/v2/svg/1f480.svg",
+      "from_post": "2115614748742218045"
+    },
+    {
+      "url": "https://abs.twimg.com/emoji/v2/svg/1f91d.svg",
+      "from_post": "2115614748742218045"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "relevance": "A security-research agent setup built from open components."
+}

@@ -1,0 +1,29 @@
+{
+  "id": "2115380804415021436",
+  "permalink": "https://x.com/cv_usk/status/2115380804415021436",
+  "author": {
+    "name": "cv usk",
+    "handle": "@cv_usk",
+    "profile_url": "https://x.com/cv_usk"
+  },
+  "posted_at": "2026-10-28T09:51:00Z",
+  "collected_at": "2026-10-29T16:31:16Z",
+  "updated_at": "2026-10-29T16:31:16Z",
+  "thread": [],
+  "summary_md": "**cv usk ([@cv_usk](https://x.com/cv_usk/status/2115380804415021436))** summarizes Qingyao Ai's perspective paper arguing **agentic memory management is the next frontier of IR**: it frames memory as constants (facts), functions (skills/workflows) and operators (preferences), with add/update/delete/search/use operations, and classifies RAG, MemGPT and Mem0 within it.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/pdf/2610.32464v1",
+      "short_url": "https://t.co/50UXLIUvVY",
+      "from_post": "2115380804415021436"
+    }
+  ],
+  "hashtags": [
+    "AgentMemory",
+    "InformationRetrieval"
+  ],
+  "topics": [
+    "agentic-cognition"
+  ],
+  "relevance": "A unifying taxonomy for agent memory systems."
+}

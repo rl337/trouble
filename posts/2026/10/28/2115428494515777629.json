@@ -1,0 +1,27 @@
+{
+  "id": "2115428494515777629",
+  "permalink": "https://x.com/natolambert/status/2115428494515777629",
+  "author": {
+    "name": "Nathan Lambert",
+    "handle": "@natolambert",
+    "profile_url": "https://x.com/natolambert"
+  },
+  "posted_at": "2026-10-28T13:00:30Z",
+  "collected_at": "2026-10-29T16:31:16Z",
+  "updated_at": "2026-10-29T16:31:16Z",
+  "thread": [],
+  "summary_md": "**Nathan Lambert ([@natolambert](https://x.com/natolambert/status/2115428494515777629))** publishes a meta-review of the benchmarking industry around Artificial Analysis v5, arguing open models' demise is exaggerated but the old index flattered them, and calling for more task-specific intelligence indices.",
+  "referenced_urls": [
+    {
+      "url": "https://www.interconnects.ai/p/artificial-analysis-v5-and-the-benchmarkers",
+      "short_url": "https://t.co/7lT09ijAqj",
+      "title": "Artificial Analysis v5 and the benchmarker's dilemma",
+      "from_post": "2115428494515777629"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "local-models"
+  ],
+  "relevance": "Context for reading open-model leaderboards when picking local models."
+}

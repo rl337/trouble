@@ -1,0 +1,39 @@
+{
+  "id": "2115535543006367873",
+  "permalink": "https://x.com/tadanorealai/status/2115535543006367873",
+  "author": {
+    "name": "tadanoai",
+    "handle": "@tadanorealai",
+    "profile_url": "https://x.com/tadanorealai"
+  },
+  "posted_at": "2026-10-28T20:05:52Z",
+  "collected_at": "2026-10-29T16:31:16Z",
+  "updated_at": "2026-10-29T16:31:16Z",
+  "thread": [
+    {
+      "id": "2115536516584034355",
+      "permalink": "https://x.com/tadanorealai/status/2115536516584034355",
+      "posted_at": "2026-10-28T20:09:44Z",
+      "position": 1
+    }
+  ],
+  "summary_md": "**[@tadanorealai](https://x.com/tadanorealai/status/2115535543006367873)** shares the **VibeVideoBench** paper, which evaluates multimodal agents on *code-driven* video generation (video produced by writing code rather than sampling a video model), and in a [follow-up](https://x.com/tadanorealai/status/2115536516584034355) links the benchmark's project site.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.35864v2",
+      "short_url": "https://t.co/gZTtv6YgQW",
+      "title": "VibeVideoBench: Evaluating Multimodal Agents on Code-Driven Video Generation",
+      "from_post": "2115535543006367873"
+    },
+    {
+      "url": "https://vibevideobench.github.io/",
+      "short_url": "https://t.co/Im3X2joWvg",
+      "from_post": "2115536516584034355"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-media"
+  ],
+  "relevance": "A benchmark for exactly the agentic programmatic-video workflow (Remotion/HyperFrames style) appearing across this topic."
+}

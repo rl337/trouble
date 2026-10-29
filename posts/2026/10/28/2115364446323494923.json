@@ -1,0 +1,35 @@
+{
+  "id": "2115364446323494923",
+  "permalink": "https://x.com/WojakTheDev/status/2115364446323494923",
+  "author": {
+    "name": "Wojak | AI × Web3 Dev",
+    "handle": "@WojakTheDev",
+    "profile_url": "https://x.com/WojakTheDev"
+  },
+  "posted_at": "2026-10-28T08:46:00Z",
+  "collected_at": "2026-10-29T16:31:16Z",
+  "updated_at": "2026-10-29T16:31:16Z",
+  "thread": [],
+  "summary_md": "**Wojak | AI × Web3 Dev ([@WojakTheDev](https://x.com/WojakTheDev/status/2115364446323494923))** shows **Strata**, a disk-offloading launcher that runs DeepSeek V4.1 Flash on a single GPU with ~46-64 GB RAM and exposes an OpenAI-compatible API usable from Claude Code, Codex or OpenCode; he notes it needs lots of SSD and gives only a few tok/s on consumer GPUs.",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/Niko1221/Strata",
+      "short_url": "https://t.co/X9C1oBn5a8",
+      "title": "GitHub - Niko1221/Strata: Qwen3.8-Flash-Next on any consumer hardware: one-click install for Windows / Linux. Strata inference engine, OpenAI/Anthropic API on localhost, optional image input.",
+      "from_post": "2115364446323494923"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "local-models"
+  ],
+  "relevance": "Low-end path to a frontier open model behind agent harnesses, with honest speed caveats.",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://x.com/WojakTheDev/status/2115364446323494923/video/1",
+      "from_post": "2115364446323494923",
+      "description": "Demo video of launching DeepSeek V4.1 Flash locally on one GPU with Strata's disk offloading (not downloaded; referenced only)."
+    }
+  ]
+}

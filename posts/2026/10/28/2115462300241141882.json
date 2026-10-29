@@ -1,0 +1,144 @@
+{
+  "id": "2115462300241141882",
+  "permalink": "https://x.com/NVIDIAAI/status/2115462300241141882",
+  "author": {
+    "name": "NVIDIA AI",
+    "handle": "@NVIDIAAI",
+    "profile_url": "https://x.com/NVIDIAAI"
+  },
+  "posted_at": "2026-10-28T15:14:50Z",
+  "collected_at": "2026-10-29T16:31:16Z",
+  "updated_at": "2026-10-29T16:31:16Z",
+  "thread": [
+    {
+      "id": "2115462302078320816",
+      "permalink": "https://x.com/NVIDIAAI/status/2115462302078320816",
+      "posted_at": "2026-10-28T15:14:50Z",
+      "position": 1
+    },
+    {
+      "id": "2115462304615801310",
+      "permalink": "https://x.com/NVIDIAAI/status/2115462304615801310",
+      "posted_at": "2026-10-28T15:14:51Z",
+      "position": 2
+    },
+    {
+      "id": "2115462306398421451",
+      "permalink": "https://x.com/NVIDIAAI/status/2115462306398421451",
+      "posted_at": "2026-10-28T15:14:51Z",
+      "position": 3
+    },
+    {
+      "id": "2115462308445262329",
+      "permalink": "https://x.com/NVIDIAAI/status/2115462308445262329",
+      "posted_at": "2026-10-28T15:14:52Z",
+      "position": 4
+    },
+    {
+      "id": "2115462310668247485",
+      "permalink": "https://x.com/NVIDIAAI/status/2115462310668247485",
+      "posted_at": "2026-10-28T15:14:52Z",
+      "position": 5
+    },
+    {
+      "id": "2115462312454971760",
+      "permalink": "https://x.com/NVIDIAAI/status/2115462312454971760",
+      "posted_at": "2026-10-28T15:14:53Z",
+      "position": 6
+    },
+    {
+      "id": "2115492750779101419",
+      "permalink": "https://x.com/NVIDIAAI/status/2115492750779101419",
+      "posted_at": "2026-10-28T17:15:50Z",
+      "position": 7
+    },
+    {
+      "id": "2115502016684536080",
+      "permalink": "https://x.com/NVIDIAAI/status/2115502016684536080",
+      "posted_at": "2026-10-28T17:52:39Z",
+      "position": 8
+    }
+  ],
+  "summary_md": "**NVIDIA AI ([@NVIDIAAI](https://x.com/NVIDIAAI/status/2115462300241141882))** launches **Nemotron 3.5 Transcribe**, an open-weight promptable 30B MoE (~4B active) combining transcription in 40 languages, speaker attribution, translation, contextual prompting and audio understanding in one checkpoint. The self-thread says it ranks #1 among open-weight models on the Hugging Face Open ASR English leaderboard (5.33% avg WER), links the weights, a demo Space and a Granary v2 fine-tuning blog, and notes vLLM and SGLang support.",
+  "referenced_urls": [
+    {
+      "url": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B",
+      "short_url": "https://t.co/2AF9hFzg27",
+      "title": "nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B · Hugging Face",
+      "from_post": "2115462302078320816"
+    },
+    {
+      "url": "https://huggingface.co/spaces/hf-audio/open_asr_leaderboard?proprietary=false",
+      "short_url": "https://t.co/PTuC9SvQVj",
+      "title": "Open ASR Leaderboard - a Hugging Face Space by hf-audio",
+      "from_post": "2115462302078320816"
+    },
+    {
+      "url": "https://artificialanalysis.ai/speech-to-text/non-streaming",
+      "short_url": "https://t.co/KesFF3CgKt",
+      "title": "Speech to Text (ASR) Providers Leaderboard & Comparison | Artificial Analysis",
+      "from_post": "2115462308445262329"
+    },
+    {
+      "url": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
+      "short_url": "https://t.co/AcswYLnuc9",
+      "title": "NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
+      "from_post": "2115462310668247485"
+    },
+    {
+      "url": "https://huggingface.co/spaces/nvidia/nemotron-transcribe",
+      "short_url": "https://t.co/oQR37ddIFb",
+      "title": "Nemotron Transcribe - a Hugging Face Space by nvidia",
+      "from_post": "2115462312454971760"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "local-models"
+  ],
+  "relevance": "An open ~30B-A4B audio model for local speech pipelines feeding agents.",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://x.com/NVIDIAAI/status/2115462300241141882/video/1",
+      "from_post": "2115462300241141882",
+      "description": "Demo video of Nemotron 3.5 Transcribe tracking who said what in overlapping speech (not downloaded; referenced only)."
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HVudZSsa8AAJT6C.png",
+      "from_post": "2115462302078320816",
+      "description": "Hugging Face Open ASR leaderboard screenshot with nvidia/Nemotron-3.5-Transcribe-30B-A4B highlighted at rank 1 (5.33 average WER), ahead of Qwen3-ASR-1.7B, granite-speech-5.0-2b and cohere-transcribe.",
+      "thumbnail": "posts/2026/10/28/2115462300241141882/media/1.webp",
+      "kind": "screenshot"
+    },
+    {
+      "type": "video",
+      "url": "https://x.com/NVIDIAAI/status/2115462304615801310/video/1",
+      "from_post": "2115462304615801310",
+      "description": "Demo video of Nemotron 3.5 Transcribe adding speaker labels, translating and redacting PII in a meeting recording (not downloaded; referenced only)."
+    },
+    {
+      "type": "video",
+      "url": "https://x.com/NVIDIAAI/status/2115462306398421451/video/1",
+      "from_post": "2115462306398421451",
+      "description": "Video accompanying Nemotron 3.5 Transcribe's diarization benchmark rankings (not downloaded; referenced only)."
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HVudyjmaQAA8bf5.jpg",
+      "from_post": "2115462306398421451",
+      "description": "David AI DAI-ASR-I18N diarization accuracy chart (DER, lower is better): Nemotron 3.5 Transcribe ranks #1 at 18.26, ahead of Nemotron 3 Diarization (18.38) and other commercial and open systems up to 37.55.",
+      "thumbnail": "posts/2026/10/28/2115462300241141882/media/4.webp",
+      "kind": "chart"
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HVud88iaoAAwm8A.jpg",
+      "from_post": "2115462308445262329",
+      "description": "Artificial Analysis scatter of word error rate vs active parameters for open-weight ASR models: Nemotron 3.5 Transcribe (~4B active, ~2.8% WER) sits on the Pareto line near Voxtral Small (24B).",
+      "thumbnail": "posts/2026/10/28/2115462300241141882/media/5.webp",
+      "kind": "chart"
+    }
+  ]
+}

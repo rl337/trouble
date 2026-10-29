@@ -1,0 +1,38 @@
+{
+  "id": "2115543808125420022",
+  "permalink": "https://x.com/SciFi/status/2115543808125420022",
+  "author": {
+    "name": "Artificial Intelligence Papers",
+    "handle": "@SciFi",
+    "profile_url": "https://x.com/SciFi"
+  },
+  "posted_at": "2026-10-28T20:38:43Z",
+  "collected_at": "2026-10-29T16:31:16Z",
+  "updated_at": "2026-10-29T16:31:16Z",
+  "thread": [],
+  "summary_md": "**Artificial Intelligence Papers ([@SciFi](https://x.com/SciFi/status/2115543808125420022))** shares **Scope-Gap Injection**, which exploits evaluator-channel blind spots in the OpenClaw agent security competition.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.34777",
+      "short_url": "https://t.co/jvMiyJlDKc",
+      "title": "Scope-Gap Injection: Exploiting Evaluator Channel Blind Spots in...",
+      "from_post": "2115543808125420022"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "relevance": "Shows agent security evals can themselves be gamed.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HVvr4gKXsAAqBHW.png",
+      "from_post": "2115543808125420022",
+      "description": "Abstract excerpt of Scope-Gap Injection: hiding attack instructions in an attachment that the LLM judge stage does not inspect but the agent reads, bypassing all three stages of the OpenClaw competition pipeline in some cases.",
+      "thumbnail": "posts/2026/10/28/2115543808125420022/media/0.webp",
+      "kind": "paper",
+      "ocr_text": "This paper introduces Scope-Gap Injection (SGI), an indirect prompt injection method for multi-stage LLM-agent safety pipelines. In the IJCAI 2026 OpenClaw Agent Security Attack Competition, each attack package is judged by a static skill scan (S1), an LLM-judge safety check over the task and skill definition (S2), and a live execution audit (S3). Our observations suggest a scope gap: S2 appears to inspect the task instruction and skill definition without inspecting attachment contents, while the agent reads attachments during S3. SGI keeps the visible task and skill benign, while target identifiers, bypass parameters, and authorization procedures are moved into an attachment written as a business worklist. The S2 judge therefore sees a harmless task, while the agent follows the hidden worklist and triggers the permission bypass. In OpenClaw, SGI bypassed all three stages for 5 of 19…"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": "2115700147258597692",
+  "permalink": "https://x.com/CSVisionPapers/status/2115700147258597692",
+  "author": {
+    "name": "Computer Vision and Pattern Recognition Papers",
+    "handle": "@CSVisionPapers",
+    "profile_url": "https://x.com/CSVisionPapers"
+  },
+  "posted_at": "2026-10-29T06:59:57Z",
+  "collected_at": "2026-10-29T16:31:16Z",
+  "updated_at": "2026-10-29T16:31:16Z",
+  "thread": [],
+  "summary_md": "**Computer Vision and Pattern Recognition Papers ([@CSVisionPapers](https://x.com/CSVisionPapers/status/2115700147258597692))** shares **BrickWright**, agentic creation of physically feasible brick builds (Zhu, Ramanan, Agrawala et al.).",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.31651",
+      "short_url": "https://t.co/1vkUnioKsX",
+      "title": "BrickWright: Agentic Creation of Physically Feasible Brick Builds",
+      "from_post": "2115700147258597692"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-media"
+  ],
+  "relevance": "Agents producing physically valid 3D designs.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HVx6EpcXgAE-Zn-.png",
+      "from_post": "2115700147258597692",
+      "description": "Abstract excerpt of BrickWright: coding agents write code with the BrickLayer Python toolkit to assemble and verify physically feasible LEGO brick builds from text or image prompts.",
+      "thumbnail": "posts/2026/10/29/2115700147258597692/media/0.webp",
+      "kind": "paper",
+      "ocr_text": "Frontier coding agents are becoming increasingly adept at 3D modeling. Yet, they still face challenges when building objects meant to be assembled in the physical world, often creating invalid assemblies with floating, colliding, or disconnected parts. We argue that providing agents with tools for assembling builds and verifying their physical feasibility is sufficient for them to produce physically valid assemblies that still adhere to input prompts. Focusing on the domain of LEGO brick builds, we present BrickWright, a framework for generating physically feasible brick builds from text or image prompts using pre-trained agents, where a build is physically feasible if it uses only real parts, has no colliding or floating parts, and forms a connected structure if possible. BrickWright guides agents to create builds by writing code with BrickLayer, a Python toolkit with two main components: an…"
+    }
+  ]
+}

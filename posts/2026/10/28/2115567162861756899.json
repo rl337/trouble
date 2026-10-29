@@ -1,0 +1,38 @@
+{
+  "id": "2115567162861756899",
+  "permalink": "https://x.com/RichieHakim/status/2115567162861756899",
+  "author": {
+    "name": "Rich Hakim",
+    "handle": "@RichieHakim",
+    "profile_url": "https://x.com/RichieHakim"
+  },
+  "posted_at": "2026-10-28T22:11:31Z",
+  "collected_at": "2026-10-29T16:31:16Z",
+  "updated_at": "2026-10-29T16:31:16Z",
+  "thread": [],
+  "summary_md": "**Rich Hakim ([@RichieHakim](https://x.com/RichieHakim/status/2115567162861756899))** wrote a **deslop** agent skill that makes agents \"talk normal\", influenced by an arXiv paper, plus a companion tldr skill, both in RichieHakim/agent_skills.",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/RichieHakim/agent_skills/blob/main/skills/deslop/SKILL.md",
+      "short_url": "https://t.co/yGWQWciJ8z",
+      "title": "agent_skills/skills/deslop/SKILL.md at main · RichieHakim/agent_skills",
+      "from_post": "2115567162861756899"
+    },
+    {
+      "url": "https://arxiv.org/pdf/2610.29162",
+      "short_url": "https://t.co/FA7Besj743",
+      "from_post": "2115567162861756899"
+    },
+    {
+      "url": "https://github.com/RichieHakim/agent_skills/blob/main/skills/tldr/SKILL.md",
+      "short_url": "https://t.co/p9WSXo3GQc",
+      "title": "agent_skills/skills/tldr/SKILL.md at main · RichieHakim/agent_skills",
+      "from_post": "2115567162861756899"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "relevance": "Small, inspectable SKILL.md examples for agent output style."
+}

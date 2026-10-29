@@ -1,0 +1,27 @@
+{
+  "id": "2115436044980023347",
+  "permalink": "https://x.com/vibestackweekly/status/2115436044980023347",
+  "author": {
+    "name": "Vibe Stack Weekly",
+    "handle": "@vibestackweekly",
+    "profile_url": "https://x.com/vibestackweekly"
+  },
+  "posted_at": "2026-10-28T13:30:30Z",
+  "collected_at": "2026-10-29T16:31:16Z",
+  "updated_at": "2026-10-29T16:31:16Z",
+  "thread": [],
+  "summary_md": "**Vibe Stack Weekly ([@vibestackweekly](https://x.com/vibestackweekly/status/2115436044980023347))** spotlights **Beacon** by @asymptotelabs, MIT-licensed local memory for coding agents that captures sessions from Claude Code, Cursor, Codex and 20+ others and turns lessons you approve into skills that agents fetch over MCP.",
+  "referenced_urls": [
+    {
+      "url": "https://beacon.sh",
+      "short_url": "https://t.co/g2LQjiafhi",
+      "title": "Beacon | Open Source Self-Improving Memory for Coding Agents",
+      "from_post": "2115436044980023347"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "relevance": "Human-approved session lessons promoted into MCP-served skills: a self-improving harness loop."
+}

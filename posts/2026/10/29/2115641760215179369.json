@@ -1,0 +1,27 @@
+{
+  "id": "2115641760215179369",
+  "permalink": "https://x.com/Pandasandproff/status/2115641760215179369",
+  "author": {
+    "name": "DataLoop",
+    "handle": "@Pandasandproff",
+    "profile_url": "https://x.com/Pandasandproff"
+  },
+  "posted_at": "2026-10-29T03:07:57Z",
+  "collected_at": "2026-10-29T16:31:16Z",
+  "updated_at": "2026-10-29T16:31:16Z",
+  "thread": [],
+  "summary_md": "**DataLoop ([@Pandasandproff](https://x.com/Pandasandproff/status/2115641760215179369))** built **Skill Selector** for Codex: preview relevant skills, toggle them and add others before a task starts, invoked with $skill-selector.",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/ZoroSec/skill-selector",
+      "short_url": "https://t.co/LCcficpTAy",
+      "title": "GitHub - ZoroSec/skill-selector: Choose relevant Codex skills with an interactive in-chat selector",
+      "from_post": "2115641760215179369"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "relevance": "Makes skill loading explicit and controllable in a harness."
+}

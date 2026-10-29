@@ -1,0 +1,35 @@
+{
+  "id": "2115647313762812158",
+  "permalink": "https://x.com/Harshithsai939/status/2115647313762812158",
+  "author": {
+    "name": "Harshith Sai Batthini",
+    "handle": "@Harshithsai939",
+    "profile_url": "https://x.com/Harshithsai939"
+  },
+  "posted_at": "2026-10-29T03:30:01Z",
+  "collected_at": "2026-10-29T16:31:16Z",
+  "updated_at": "2026-10-29T16:31:16Z",
+  "thread": [],
+  "summary_md": "**Harshith Sai Batthini ([@Harshithsai939](https://x.com/Harshithsai939/status/2115647313762812158))** introduces **jevgrep**, a CLI that hands coding agents the relevant files with line numbers by asking what code *does*. On 10 real tasks he reports Claude Code's bill falling from about $7.62 to $5.44 with the same 8/10 solved.",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/dzhng/jevgrep",
+      "short_url": "https://t.co/mLeU3ZDAKy",
+      "title": "GitHub - dzhng/jevgrep: Find code by asking what it does. A CLI for coding agents that uses Jev to discover relevant files and source context.",
+      "from_post": "2115647313762812158"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "relevance": "Context-retrieval tooling that measurably cuts agent token spend without hurting success.",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://x.com/Harshithsai939/status/2115647313762812158/video/1",
+      "from_post": "2115647313762812158",
+      "description": "Short promo video; preview frame shows an illustrated robot in a file-cabinet room with the text 'Your agent pays to search — Agent bill cut by 1/4?'."
+    }
+  ]
+}
