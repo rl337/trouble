@@ -37,6 +37,11 @@ html_sidebars = {
     "**": ["localtoc.html", "relations.html", "searchbox.html"],
 }
 
+# Empty genindex is confusing; use generated browse.rst instead.
+html_use_index = False
+html_use_modindex = False
+html_domain_indices = False
+
 # Slashdot-ish nav header via layout template
 html_context = {
     "topics_yaml": str(REPO_ROOT / "topics.yaml"),

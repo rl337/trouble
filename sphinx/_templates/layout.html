@@ -1,4 +1,24 @@
 {% extends "!layout.html" %}
+
 {% block rootrellink %}
-  <li><a href="{{ pathto('index') }}">Inspiration</a> &#187;</li>
+  <li class="nav-item nav-item-0"><a href="{{ pathto('index') }}">Recent</a>{{ reldelim1 }}</li>
+{% endblock %}
+
+{% block relbaritems %}
+  <li class="nav-item"><a href="{{ pathto('browse') }}">Browse</a></li>
+{% endblock %}
+
+{% block linktags %}
+  {%- if hasdoc('search') %}
+  <link rel="search" title="{{ _('Search') }}" href="{{ pathto('search') }}" />
+  {%- endif %}
+  {%- if hasdoc('browse') %}
+  <link rel="index" title="{{ _('Browse') }}" href="{{ pathto('browse') }}" />
+  {%- endif %}
+  {%- if next %}
+  <link rel="next" title="{{ next.title|striptags|e }}" href="{{ next.link|e }}" />
+  {%- endif %}
+  {%- if prev %}
+  <link rel="prev" title="{{ prev.title|striptags|e }}" href="{{ prev.link|e }}" />
+  {%- endif %}
 {% endblock %}
