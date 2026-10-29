@@ -157,6 +157,12 @@
       "type": "string",
       "minLength": 1,
       "description": "Why this post is worth the reader's attention."
+    },
+    "keywords": {
+      "type": "array",
+      "description": "Optional curated index keywords (override auto-extracted noun singles).",
+      "items": { "type": "string", "minLength": 1 },
+      "uniqueItems": true
     }
   }
 }

@@ -8,6 +8,7 @@ from datetime import datetime
 from pathlib import Path
 from typing import Any
 
+from inspiration.index_terms import build_post_index_lines, render_myst_index_block
 from inspiration.posts import PostRecord
 from inspiration.topics import Topic
 
@@ -256,6 +257,9 @@ def generate_sphinx_sources(
                 "",
             ]
         )
+
+        index_lines = build_post_index_lines(data, topics_by_slug=topic_map)
+        md_lines.extend(render_myst_index_block(index_lines))
 
         _write(posts_dir / f"{rec.id}.md", "\n".join(md_lines))
 
