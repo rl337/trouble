@@ -28,6 +28,9 @@
   "topics": [
     "agentic-media"
   ],
+  "keywords": [
+    "agentvqa"
+  ],
   "relevance": "A benchmark for agents that must actively look and reason over images.",
   "media": [
     {

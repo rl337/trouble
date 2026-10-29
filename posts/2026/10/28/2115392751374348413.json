@@ -31,6 +31,12 @@
     "agentic-media",
     "harness-dev"
   ],
+  "keywords": [
+    "slopcore",
+    "lip-sync",
+    "open-source",
+    "self-reply"
+  ],
   "relevance": "A real agentic media pipeline, with reviewer agents and draft-then-render gating, packaged as a harness plugin.",
   "media": [
     {

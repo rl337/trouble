@@ -23,5 +23,8 @@
   "topics": [
     "harness-dev"
   ],
+  "keywords": [
+    "the-cost-of-saying-hello"
+  ],
   "relevance": "Protocol overhead numbers for agent tool and peer connections."
 }

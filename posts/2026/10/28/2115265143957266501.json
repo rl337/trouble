@@ -23,5 +23,8 @@
   "topics": [
     "local-models"
   ],
+  "keywords": [
+    "ling-3"
+  ],
   "relevance": "A specific DGX Spark MoE tuning pitfall worth knowing before copying NVIDIA's recipe."
 }

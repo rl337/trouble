@@ -21,5 +21,10 @@
   "topics": [
     "harness-dev"
   ],
+  "keywords": [
+    "nousresearch",
+    "advanced-delegation",
+    "herme-official-plugin"
+  ],
   "relevance": "Profile-based delegation in an open agent harness."
 }

@@ -39,6 +39,21 @@
     "agentic-media",
     "local-models"
   ],
+  "keywords": [
+    "multicam",
+    "comfyui",
+    "github",
+    "lora",
+    "ltx-2",
+    "one-shot-multicam",
+    "auto-cut",
+    "follow-up",
+    "follow-up-thread",
+    "lip-synced",
+    "no-setup",
+    "open-source",
+    "open-weight"
+  ],
   "relevance": "A fully local, open-weight agentic video pipeline that turns one shot into a multicam edit.",
   "media": [
     {

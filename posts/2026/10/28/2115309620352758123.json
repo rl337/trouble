@@ -48,6 +48,11 @@
   "topics": [
     "agentic-cognition"
   ],
+  "keywords": [
+    "audiorsi",
+    "self-improving",
+    "test-mini"
+  ],
   "relevance": "Self-improvement loop with the model as its own process-reward judge.",
   "media": [
     {

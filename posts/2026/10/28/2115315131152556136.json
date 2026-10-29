@@ -23,5 +23,11 @@
   "topics": [
     "harness-dev"
   ],
+  "keywords": [
+    "github",
+    "gateway-run",
+    "airlock",
+    "prompt-injection"
+  ],
   "relevance": "A real approval-gate bypass in an agent harness plugin, with an advisory to learn from."
 }

@@ -23,6 +23,10 @@
   "topics": [
     "agentic-cognition"
   ],
+  "keywords": [
+    "diffusion-lm",
+    "metacognitive-decoding"
+  ],
   "relevance": "Adaptive compute for diffusion-decoding agents.",
   "media": [
     {

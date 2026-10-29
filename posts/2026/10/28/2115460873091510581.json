@@ -25,5 +25,10 @@
   "topics": [
     "local-models"
   ],
+  "keywords": [
+    "amd-pro-bench",
+    "26b-a4b",
+    "gemma-4-26b-a4b"
+  ],
   "relevance": "Benchmark source for non-NVIDIA local inference of agent-capable MoE models."
 }

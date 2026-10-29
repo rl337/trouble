@@ -23,5 +23,13 @@
   "topics": [
     "harness-dev"
   ],
+  "keywords": [
+    "anti-ai-slop",
+    "hallmark",
+    "human-designed",
+    "open-source",
+    "slop-linting",
+    "github-nutlope-hallmark"
+  ],
   "relevance": "A skill that adds taste constraints and lint gates to agent-generated UI."
 }

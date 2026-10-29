@@ -23,6 +23,11 @@
   "topics": [
     "harness-dev"
   ],
+  "keywords": [
+    "userswe",
+    "multi-turn",
+    "gpt-6-astra"
+  ],
   "relevance": "Multi-turn, user-in-the-loop evaluation of coding agents.",
   "media": [
     {

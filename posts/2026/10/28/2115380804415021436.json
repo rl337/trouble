@@ -25,5 +25,8 @@
   "topics": [
     "agentic-cognition"
   ],
+  "keywords": [
+    "memgpt"
+  ],
   "relevance": "A unifying taxonomy for agent memory systems."
 }

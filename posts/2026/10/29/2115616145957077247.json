@@ -23,5 +23,12 @@
   "topics": [
     "harness-dev"
   ],
+  "keywords": [
+    "github",
+    "gh-aw",
+    "markdown-defined",
+    "github-agentic-workflow",
+    "github-github-gh-aw"
+  ],
   "relevance": "A clean separation of agent reasoning from permissioned execution in CI."
 }

@@ -23,5 +23,8 @@
   "topics": [
     "local-models"
   ],
+  "keywords": [
+    "localllama"
+  ],
   "relevance": "Long-context speed for the ~30B tier on a five-year-old consumer GPU."
 }

@@ -35,5 +35,9 @@
   "topics": [
     "agentic-cognition"
   ],
+  "keywords": [
+    "memorytax-res",
+    "memory-tax"
+  ],
   "relevance": "Evidence to weigh before adding a complex memory layer to an agent."
 }

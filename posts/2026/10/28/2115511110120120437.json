@@ -57,5 +57,9 @@
   "topics": [
     "agentic-cognition"
   ],
+  "keywords": [
+    "context-engineering",
+    "dflash2"
+  ],
   "relevance": "A production team's view of self-improving inference infrastructure for agents."
 }

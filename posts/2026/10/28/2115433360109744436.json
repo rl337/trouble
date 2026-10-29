@@ -23,5 +23,10 @@
   "topics": [
     "local-models"
   ],
+  "keywords": [
+    "localllama",
+    "sub-q4",
+    "tesla-p40"
+  ],
   "relevance": "Shows how cheap old hardware can host agent-friendly MoE models at long context."
 }

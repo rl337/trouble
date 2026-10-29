@@ -23,6 +23,20 @@
   "topics": [
     "harness-dev"
   ],
+  "keywords": [
+    "deepseek",
+    "minimax",
+    "visualbench",
+    "builder-oriented",
+    "expert-judged",
+    "fresh-context",
+    "self-check",
+    "swe-bench",
+    "terminal-bench",
+    "agent-seldom-self-check",
+    "an-independent-critic-win",
+    "more-review-has-diminishing-return"
+  ],
   "relevance": "Evidence-backed design guidance for harness builders: add a diff-only critic step before investing in retry loops or prompt nagging.",
   "media": [
     {

@@ -23,6 +23,12 @@
   "topics": [
     "harness-dev"
   ],
+  "keywords": [
+    "deepseek",
+    "multi-model",
+    "arnold",
+    "open-source"
+  ],
   "relevance": "Tiered model routing inside a coding harness.",
   "media": [
     {

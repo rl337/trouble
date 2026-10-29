@@ -27,5 +27,13 @@
   "topics": [
     "agentic-media"
   ],
+  "keywords": [
+    "github",
+    "design-agent",
+    "langchain-ai",
+    "on-brand",
+    "open-source",
+    "github-langchain-ai-design-agent"
+  ],
   "relevance": "An open reference implementation of a design/motion-graphics agent from LangChain."
 }

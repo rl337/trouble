@@ -23,6 +23,11 @@
   "topics": [
     "local-models"
   ],
+  "keywords": [
+    "diffuspace",
+    "clover-35b-a3b-preview",
+    "block-wise"
+  ],
   "relevance": "A new open diffusion-decoding model in the agent-friendly 35B-A3B shape, worth testing for local throughput.",
   "media": [
     {

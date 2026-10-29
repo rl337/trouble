@@ -23,5 +23,10 @@
   "topics": [
     "harness-dev"
   ],
+  "keywords": [
+    "goose",
+    "goose-1-56-0",
+    "release-v1-56-0-aaif-goose-goose"
+  ],
   "relevance": "Subagent concurrency controls in an open harness."
 }

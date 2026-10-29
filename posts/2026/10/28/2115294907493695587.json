@@ -23,6 +23,11 @@
   "topics": [
     "agentic-media"
   ],
+  "keywords": [
+    "anymove",
+    "minimax",
+    "github-patch-gg-anymove"
+  ],
   "relevance": "Agentic motion capture for non-human rigs from generated video.",
   "media": [
     {

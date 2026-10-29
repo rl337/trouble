@@ -23,6 +23,9 @@
   "topics": [
     "agentic-media"
   ],
+  "keywords": [
+    "brickwright"
+  ],
   "relevance": "Agents producing physically valid 3D designs.",
   "media": [
     {

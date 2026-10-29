@@ -23,5 +23,9 @@
   "topics": [
     "local-models"
   ],
+  "keywords": [
+    "localllama",
+    "qwen-3-8-flash"
+  ],
   "relevance": "A concrete, offbeat agentic use of a local model doing real systems work."
 }

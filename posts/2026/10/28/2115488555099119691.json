@@ -23,5 +23,9 @@
   "topics": [
     "agentic-cognition"
   ],
+  "keywords": [
+    "membubble",
+    "response-class"
+  ],
   "relevance": "Shows memory can reduce agent output diversity."
 }

@@ -23,5 +23,10 @@
   "topics": [
     "agentic-media"
   ],
+  "keywords": [
+    "comfyui",
+    "comfyui-hi3d-refinement",
+    "hi3d"
+  ],
   "relevance": "Plugs a new 3D refiner into ComfyUI pipelines."
 }

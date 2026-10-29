@@ -23,6 +23,12 @@
   "topics": [
     "harness-dev"
   ],
+  "keywords": [
+    "scope-gap",
+    "openclaw",
+    "evaluator-channel",
+    "scope-gap-injection"
+  ],
   "relevance": "Shows agent security evals can themselves be gamed.",
   "media": [
     {

@@ -24,6 +24,12 @@
     "agentic-media",
     "harness-dev"
   ],
+  "keywords": [
+    "genxr",
+    "genxr-bench",
+    "app-development",
+    "cm-vs-m"
+  ],
   "relevance": "Pinpoints why agents struggle with 3D spatial code — coordinate frames and units — which is exactly what to guard against in 3D/XR agent tooling.",
   "media": [
     {

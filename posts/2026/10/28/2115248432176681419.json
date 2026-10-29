@@ -23,5 +23,11 @@
   "topics": [
     "harness-dev"
   ],
+  "keywords": [
+    "agent-toolkit",
+    "agent-toolkit-for-aws",
+    "read-only",
+    "github-aws-agent-toolkit-for-aws"
+  ],
   "relevance": "Vendor-official agent tooling with an IAM-level way to scope agent permissions."
 }

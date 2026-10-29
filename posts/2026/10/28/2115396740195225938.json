@@ -23,5 +23,10 @@
   "topics": [
     "local-models"
   ],
+  "keywords": [
+    "github",
+    "slotstream",
+    "github-carloslfu-slotstream"
+  ],
   "relevance": "SSD-streaming lets max-tier MoE models run on Macs without enough RAM: relevant for local agents on smaller boxes."
 }

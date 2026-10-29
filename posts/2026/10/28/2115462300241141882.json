@@ -96,6 +96,14 @@
   "topics": [
     "local-models"
   ],
+  "keywords": [
+    "nemotron-transcribe",
+    "nemotron-transcribe-granary",
+    "fine-tuning",
+    "open-weight",
+    "self-thread",
+    "nemotron-3-5-transcribe"
+  ],
   "relevance": "An open ~30B-A4B audio model for local speech pipelines feeding agents.",
   "media": [
     {

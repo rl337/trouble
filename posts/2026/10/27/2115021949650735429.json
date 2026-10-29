@@ -28,5 +28,9 @@
   "topics": [
     "harness-dev"
   ],
+  "keywords": [
+    "mcp-warden",
+    "github-ermoluk-mcp-warden"
+  ],
   "relevance": "Credential isolation for MCP tools — a practical harness security pattern."
 }

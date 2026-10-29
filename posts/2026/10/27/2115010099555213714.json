@@ -22,5 +22,9 @@
   "topics": [
     "harness-dev"
   ],
+  "keywords": [
+    "agent-skill",
+    "delegated-engineering"
+  ],
   "relevance": "A reusable delegation/orchestration skill."
 }

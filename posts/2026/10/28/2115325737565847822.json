@@ -23,6 +23,11 @@
   "topics": [
     "agentic-media"
   ],
+  "keywords": [
+    "teller",
+    "agent-native",
+    "real-time"
+  ],
   "relevance": "A local video-editing engine designed for agents.",
   "media": [
     {

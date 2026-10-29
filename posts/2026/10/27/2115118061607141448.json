@@ -23,5 +23,12 @@
   "topics": [
     "local-models"
   ],
+  "keywords": [
+    "fine-tuning",
+    "30b-class",
+    "passport-stamp",
+    "persona-grounded",
+    "nemotron-3-5-lightning"
+  ],
   "relevance": "Shows the 30B Nemotron tier being fine-tuned (not just served) on one Spark, with an official NVIDIA walkthrough."
 }

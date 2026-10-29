@@ -246,5 +246,25 @@
     "harness-dev",
     "agentic-cognition"
   ],
+  "keywords": [
+    "doc",
+    "compact",
+    "compaction",
+    "openai",
+    "langchain",
+    "caching",
+    "memory",
+    "context-mode",
+    "gemini-cli",
+    "codex",
+    "copilot",
+    "cost",
+    "headroom",
+    "llmlingua",
+    "middleware",
+    "overview",
+    "rtk",
+    "session"
+  ],
   "relevance": "An empirical comparison of context-management strategies that harness builders can act on directly."
 }

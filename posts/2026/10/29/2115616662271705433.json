@@ -23,6 +23,12 @@
   "topics": [
     "local-models"
   ],
+  "keywords": [
+    "open-source",
+    "hob",
+    "gpt-oss",
+    "open-weight"
+  ],
   "relevance": "A simple local-model front end; a baseline UX reference for local assistants.",
   "media": [
     {

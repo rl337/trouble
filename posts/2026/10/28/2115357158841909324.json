@@ -23,6 +23,11 @@
   "topics": [
     "agentic-media"
   ],
+  "keywords": [
+    "talking-head",
+    "digital-human-koubo",
+    "lip-sync"
+  ],
   "relevance": "Packaged talking-head video generation as a coding-agent skill.",
   "media": [
     {

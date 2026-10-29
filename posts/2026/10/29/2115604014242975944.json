@@ -23,6 +23,10 @@
   "topics": [
     "agentic-cognition"
   ],
+  "keywords": [
+    "budget-adaptive",
+    "flexa-mem"
+  ],
   "relevance": "Memory that scales with a cost budget.",
   "media": [
     {

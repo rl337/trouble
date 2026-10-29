@@ -23,5 +23,12 @@
   "topics": [
     "harness-dev"
   ],
+  "keywords": [
+    "deepseek",
+    "duplicate-write",
+    "harness-behavior",
+    "mock-tool",
+    "write-path"
+  ],
   "relevance": "A cheap, reproducible test for duplicate side effects in agent tool calls."
 }

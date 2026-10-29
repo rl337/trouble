@@ -23,6 +23,14 @@
   "topics": [
     "agentic-cognition"
   ],
+  "keywords": [
+    "multi-hop",
+    "peer-information",
+    "self-refinement",
+    "interaction-specific",
+    "remap",
+    "collective-emergent-alignment"
+  ],
   "relevance": "Quantifies when multi-agent interaction genuinely improves reasoning versus a single agent refining itself.",
   "media": [
     {

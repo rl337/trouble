@@ -23,5 +23,10 @@
   "topics": [
     "harness-dev"
   ],
+  "keywords": [
+    "swe-residual",
+    "deepswe",
+    "hku-led"
+  ],
   "relevance": "Measures robustness to inheriting broken agent work, a real multi-agent hand-off risk."
 }

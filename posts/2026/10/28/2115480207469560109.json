@@ -36,6 +36,11 @@
   "topics": [
     "harness-dev"
   ],
+  "keywords": [
+    "copilot",
+    "self-reply",
+    "copilot-fusion-max"
+  ],
   "relevance": "Cost/performance data point for coding-agent harness choice (vendor-funded, so read with care).",
   "media": [
     {

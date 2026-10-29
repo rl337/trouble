@@ -23,5 +23,10 @@
   "topics": [
     "harness-dev"
   ],
+  "keywords": [
+    "agentboundary",
+    "tool-using",
+    "risky-looking"
+  ],
   "relevance": "Measures over-refusal alongside safety, a balance every agent harness has to strike."
 }

@@ -42,6 +42,18 @@
     "local-models",
     "harness-dev"
   ],
+  "keywords": [
+    "k2-horizon",
+    "k2-horizon-gguf",
+    "k2-local-deploy",
+    "skill",
+    "mova",
+    "openai",
+    "follow-up",
+    "mova-36b",
+    "openai-compatible",
+    "k2-horizon-gguf-a-ifm-collection"
+  ],
   "relevance": "A new open family with a ~32–36B option sized for a Spark, plus an agent skill that automates local deployment.",
   "media": [
     {

@@ -23,5 +23,8 @@
   "topics": [
     "agentic-media"
   ],
+  "keywords": [
+    "davinci"
+  ],
   "relevance": "A harness built specifically for creative/video agents."
 }

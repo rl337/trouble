@@ -23,6 +23,11 @@
   "topics": [
     "harness-dev"
   ],
+  "keywords": [
+    "log-to-leak",
+    "tool-using",
+    "prompt-injection"
+  ],
   "relevance": "A new MCP attack class to defend against in agent harnesses.",
   "media": [
     {

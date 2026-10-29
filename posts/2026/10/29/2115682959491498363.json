@@ -23,5 +23,10 @@
   "topics": [
     "local-models"
   ],
+  "keywords": [
+    "ling-3",
+    "single-node",
+    "ling-3-0-flash-sante-fp4-spark-arena"
+  ],
   "relevance": "Another single-Spark FP4 data point from the community benchmark board."
 }

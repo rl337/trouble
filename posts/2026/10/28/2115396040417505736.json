@@ -35,5 +35,13 @@
   "topics": [
     "harness-dev"
   ],
+  "keywords": [
+    "elephant-goldfish",
+    "elephant-goldfish-model",
+    "draft-spec",
+    "open-source",
+    "independent-review",
+    "elephant-goldfish-model-egm"
+  ],
   "relevance": "A fresh-context reviewer pattern from Google for spec-first agentic coding."
 }

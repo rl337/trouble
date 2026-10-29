@@ -23,5 +23,8 @@
   "topics": [
     "harness-dev"
   ],
+  "keywords": [
+    "single-agent-loop-kit"
+  ],
   "relevance": "An eval-gated approach to the single-agent vs multi-agent decision, from a model vendor."
 }

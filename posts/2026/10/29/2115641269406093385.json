@@ -45,6 +45,14 @@
   "topics": [
     "harness-dev"
   ],
+  "keywords": [
+    "security-audit-skill",
+    "bug-hunting",
+    "mid-september",
+    "open-sourced",
+    "sub-agent",
+    "trust-boundary"
+  ],
   "relevance": "A strong reference architecture for multi-agent harnesses: coverage ledgers, isolated workers, and adversarial verification.",
   "media": [
     {

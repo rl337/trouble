@@ -35,5 +35,10 @@
   "topics": [
     "agentic-media"
   ],
+  "keywords": [
+    "vibevideobench",
+    "code-driven",
+    "follow-up"
+  ],
   "relevance": "A benchmark for exactly the agentic programmatic-video workflow (Remotion/HyperFrames style) appearing across this topic."
 }

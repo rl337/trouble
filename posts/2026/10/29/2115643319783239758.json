@@ -23,6 +23,10 @@
   "topics": [
     "harness-dev"
   ],
+  "keywords": [
+    "excalibur-agent-hub",
+    "open-sourced"
+  ],
   "relevance": "A shared room as a coordination surface for multiple coding agents.",
   "media": [
     {

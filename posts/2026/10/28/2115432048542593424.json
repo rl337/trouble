@@ -23,5 +23,9 @@
   "topics": [
     "harness-dev"
   ],
+  "keywords": [
+    "whatsmyagentdoing",
+    "github-charonyuu-whatsmyagentdoing"
+  ],
   "relevance": "Observability UI for running multiple local coding agents at once."
 }

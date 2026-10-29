@@ -23,5 +23,8 @@
   "topics": [
     "agentic-cognition"
   ],
+  "keywords": [
+    "explorationbench"
+  ],
   "relevance": "A benchmark for exploratory reasoning in agents."
 }

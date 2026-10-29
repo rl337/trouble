@@ -71,5 +71,11 @@
   "topics": [
     "local-models"
   ],
+  "keywords": [
+    "openai",
+    "on-disk",
+    "self-reply",
+    "single-user"
+  ],
   "relevance": "A new local serving engine with batched multi-agent throughput numbers on the ~27B and Flash-Next tiers."
 }

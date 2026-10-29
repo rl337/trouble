@@ -23,6 +23,10 @@
   "topics": [
     "local-models"
   ],
+  "keywords": [
+    "qwen3.8-flash-next-nvfp4",
+    "hybrid-attention"
+  ],
   "relevance": "An NVFP4 build of the Flash-Next tier sized for Blackwell-class hardware like DGX Spark.",
   "media": [
     {

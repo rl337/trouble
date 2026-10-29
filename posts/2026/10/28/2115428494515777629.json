@@ -23,5 +23,9 @@
   "topics": [
     "local-models"
   ],
+  "keywords": [
+    "meta-review",
+    "task-specific"
+  ],
   "relevance": "Context for reading open-model leaderboards when picking local models."
 }

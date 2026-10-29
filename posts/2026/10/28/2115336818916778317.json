@@ -23,5 +23,12 @@
   "topics": [
     "harness-dev"
   ],
+  "keywords": [
+    "openbot",
+    "agent-to-agent",
+    "local-first",
+    "opencode",
+    "github-nightly-lab-openbot"
+  ],
   "relevance": "A multi-harness desktop host built on ACP — relevant to running several coding agents side by side."
 }

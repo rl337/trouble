@@ -24,5 +24,10 @@
     "local-models",
     "harness-dev"
   ],
+  "keywords": [
+    "github",
+    "overseer",
+    "plan-locally-execute"
+  ],
   "relevance": "A working frontier-plans / Spark-executes harness pattern on the exact hardware and model tier Richard runs."
 }

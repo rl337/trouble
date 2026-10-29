@@ -25,5 +25,12 @@
   "topics": [
     "harness-dev"
   ],
+  "keywords": [
+    "openai",
+    "assumed-breach",
+    "no-network",
+    "red-team",
+    "attacker-favorable"
+  ],
   "relevance": "Sandboxing lessons that apply directly to isolating coding agents."
 }

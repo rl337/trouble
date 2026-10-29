@@ -23,6 +23,13 @@
   "topics": [
     "agentic-media"
   ],
+  "keywords": [
+    "unitybench",
+    "unitybench-mini3d",
+    "held-out",
+    "human-authored",
+    "project-level"
+  ],
   "relevance": "Evaluates agents on 3D game creation inside a real engine, with deterministic partial credit.",
   "media": [
     {

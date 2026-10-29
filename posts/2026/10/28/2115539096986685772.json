@@ -26,5 +26,8 @@
   "topics": [
     "agentic-cognition"
   ],
+  "keywords": [
+    "rare-relevant-and-still-wrong"
+  ],
   "relevance": "Memory-compression design matters for multi-agent decisions."
 }

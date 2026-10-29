@@ -23,6 +23,11 @@
   "topics": [
     "harness-dev"
   ],
+  "keywords": [
+    "herdr-room",
+    "read-only",
+    "open-source"
+  ],
   "relevance": "A drop-in writer/reviewer loop — the same independent-critic pattern the verification research recommends — packaged as a harness plugin.",
   "media": [
     {

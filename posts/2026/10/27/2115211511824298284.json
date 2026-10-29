@@ -53,6 +53,17 @@
   "topics": [
     "local-models"
   ],
+  "keywords": [
+    "deepseek",
+    "gsq-rco",
+    "deepseek-v41-upstream",
+    "ista-daslab",
+    "byte-identical",
+    "full-precision",
+    "self-reply",
+    "write-up",
+    "deepseek-v4-1-flash"
+  ],
   "relevance": "Shows the max-tier DeepSeek running on upstream llama.cpp at low bit-width, with published quality comparisons.",
   "media": [
     {

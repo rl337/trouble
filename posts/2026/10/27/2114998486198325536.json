@@ -29,6 +29,10 @@
   "topics": [
     "agentic-cognition"
   ],
+  "keywords": [
+    "tac-rf",
+    "chip-design"
+  ],
   "relevance": "An agent operating professional engineering tools end-to-end.",
   "media": [
     {

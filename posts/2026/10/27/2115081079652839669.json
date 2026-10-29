@@ -23,6 +23,11 @@
   "topics": [
     "harness-dev"
   ],
+  "keywords": [
+    "line-level",
+    "open-code-review",
+    "github-alibaba-open-code-review"
+  ],
   "relevance": "A hybrid deterministic/agentic code-review harness at production scale.",
   "media": [
     {

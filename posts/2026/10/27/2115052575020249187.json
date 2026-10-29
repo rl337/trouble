@@ -23,5 +23,11 @@
   "topics": [
     "local-models"
   ],
+  "keywords": [
+    "tandemllm",
+    "128-row",
+    "cuda-graphed",
+    "tandemllm-0-15-0"
+  ],
   "relevance": "Batched speculative decoding that roughly quadruples throughput for a 27B thinking model on a single Spark — directly relevant to running parallel agents locally."
 }

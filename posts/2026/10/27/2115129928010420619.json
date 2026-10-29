@@ -33,6 +33,16 @@
   "topics": [
     "agentic-cognition"
   ],
+  "keywords": [
+    "cycleuncover",
+    "black-box",
+    "drift-analysis",
+    "frontier-model",
+    "machine-checked",
+    "open-weight",
+    "zero-shot",
+    "agentic-algorithm-design"
+  ],
   "relevance": "A striking demonstration of agentic problem-solving where creativity (new algorithms) is gated by formal proof rather than benchmarks.",
   "media": [
     {

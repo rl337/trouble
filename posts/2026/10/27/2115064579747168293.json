@@ -39,6 +39,9 @@
   "topics": [
     "local-models"
   ],
+  "keywords": [
+    "nemotron-3-5-lightning"
+  ],
   "relevance": "Crowd-sourced kernel/serving speedups for a reasoning model on DGX Spark, with public leaderboards to follow.",
   "media": [
     {

@@ -30,6 +30,12 @@
   "topics": [
     "agentic-media"
   ],
+  "keywords": [
+    "vid-flow",
+    "ltx-based",
+    "frameboard",
+    "github-dimakuzov-vid-flow"
+  ],
   "relevance": "Human-in-the-loop agentic video pipeline on local models.",
   "media": [
     {

@@ -23,5 +23,11 @@
   "topics": [
     "harness-dev"
   ],
+  "keywords": [
+    "orca",
+    "opencode",
+    "opt-out",
+    "github-stablyai-orca"
+  ],
   "relevance": "Worktree-per-agent fan-out is a practical harness pattern for best-of-N agentic coding."
 }

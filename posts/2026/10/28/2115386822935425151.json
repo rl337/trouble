@@ -23,5 +23,8 @@
   "topics": [
     "harness-dev"
   ],
+  "keywords": [
+    "harnessmm"
+  ],
   "relevance": "Cost reduction by reusing harness decisions rather than switching to smaller models."
 }

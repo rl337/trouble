@@ -23,6 +23,10 @@
   "topics": [
     "harness-dev"
   ],
+  "keywords": [
+    "over-compliant",
+    "your-wish-is-my-commit"
+  ],
   "relevance": "Shows why open-ended refactor prompts need goals and stop conditions.",
   "media": [
     {

@@ -23,6 +23,11 @@
   "topics": [
     "local-models"
   ],
+  "keywords": [
+    "open-jet",
+    "llama-server",
+    "github-l-forster-open-jet"
+  ],
   "relevance": "Multi-agent batched serving of a ~27B model on a single consumer GPU.",
   "media": [
     {

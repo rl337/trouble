@@ -23,6 +23,9 @@
   "topics": [
     "agentic-cognition"
   ],
+  "keywords": [
+    "tampered-ml"
+  ],
   "relevance": "Measures whether models can vet research methodology — key for automated research agents.",
   "media": [
     {

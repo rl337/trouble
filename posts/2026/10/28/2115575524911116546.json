@@ -29,5 +29,9 @@
   "topics": [
     "local-models"
   ],
+  "keywords": [
+    "multi-token",
+    "nemotron-3-5-lightning"
+  ],
   "relevance": "Public leaderboards for squeezing a reasoning model on DGX Spark: both a resource and a benchmark reference."
 }

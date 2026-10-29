@@ -21,5 +21,6 @@
   "topics": [
     "harness-dev"
   ],
+  "keywords": [],
   "relevance": "An empirical check of a harness default versus its actual behavior."
 }

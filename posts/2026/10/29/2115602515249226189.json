@@ -25,5 +25,9 @@
   "topics": [
     "agentic-media"
   ],
+  "keywords": [
+    "ata-any-time-any-space",
+    "world-state-centric"
+  ],
   "relevance": "Verified world-state memory for multi-shot agentic video consistency."
 }

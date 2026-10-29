@@ -79,6 +79,16 @@
     "local-models",
     "agentic-cognition"
   ],
+  "keywords": [
+    "appworld",
+    "data-composition",
+    "gemini-built",
+    "multi-step",
+    "on-device",
+    "self-thread",
+    "three-phase",
+    "458-752-rl-environment"
+  ],
   "relevance": "Scaling laws for synthetic tool-use environments, with a ~30B open model as the trained agent.",
   "media": [
     {

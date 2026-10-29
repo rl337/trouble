@@ -23,5 +23,9 @@
   "topics": [
     "harness-dev"
   ],
+  "keywords": [
+    "agenticbench",
+    "github"
+  ],
   "relevance": "Comparative security testing of coding-agent harnesses."
 }

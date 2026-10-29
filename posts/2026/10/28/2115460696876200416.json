@@ -46,5 +46,12 @@
   "topics": [
     "local-models"
   ],
+  "keywords": [
+    "long-term",
+    "kv-cache",
+    "open-sourced",
+    "self-reply",
+    "zero-shot"
+  ],
   "relevance": "A complete local agent stack with memory, voice and avatar."
 }

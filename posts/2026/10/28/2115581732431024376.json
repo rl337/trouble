@@ -23,5 +23,9 @@
   "topics": [
     "harness-dev"
   ],
+  "keywords": [
+    "load-bearing",
+    "phrasebook"
+  ],
   "relevance": "A tiny, concrete example of using harness hooks to enforce style rules that CLAUDE.md alone does not."
 }

@@ -23,5 +23,10 @@
   "topics": [
     "harness-dev"
   ],
+  "keywords": [
+    "learn-harness-engineering",
+    "hand-on",
+    "open-source"
+  ],
   "relevance": "A structured from-scratch course on harness engineering, useful for onboarding or borrowing exercises."
 }

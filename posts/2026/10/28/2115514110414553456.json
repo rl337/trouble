@@ -23,5 +23,11 @@
   "topics": [
     "harness-dev"
   ],
+  "keywords": [
+    "poisoned-memory",
+    "role-flattening",
+    "role-typed",
+    "compaction-laundering"
+  ],
   "relevance": "A concrete compaction-time vulnerability with a clear harness-design fix."
 }

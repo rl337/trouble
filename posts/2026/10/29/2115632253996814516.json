@@ -25,6 +25,11 @@
   "topics": [
     "agentic-media"
   ],
+  "keywords": [
+    "comfyui",
+    "openkatana",
+    "open-source"
+  ],
   "relevance": "Agent-driven editing integrated with ComfyUI generation, with MCP access for other harnesses.",
   "media": [
     {

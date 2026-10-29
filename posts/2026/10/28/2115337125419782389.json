@@ -29,6 +29,9 @@
   "topics": [
     "agentic-cognition"
   ],
+  "keywords": [
+    "thinking-in-bet"
+  ],
   "relevance": "A training-free anti-sycophancy technique for agents under user pushback.",
   "media": [
     {

@@ -23,6 +23,11 @@
   "topics": [
     "harness-dev"
   ],
+  "keywords": [
+    "repository-level",
+    "utility-preserving",
+    "rivet"
+  ],
   "relevance": "A context-pruning technique for repo-scale agents.",
   "media": [
     {

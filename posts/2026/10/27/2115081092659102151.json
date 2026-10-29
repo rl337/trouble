@@ -23,6 +23,10 @@
   "topics": [
     "harness-dev"
   ],
+  "keywords": [
+    "trace-canvas",
+    "github-callsymmetryecho-trace-canvas"
+  ],
   "relevance": "Visibility tooling for many concurrent agent sessions.",
   "media": [
     {

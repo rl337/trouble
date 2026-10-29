@@ -23,5 +23,10 @@
   "topics": [
     "agentic-cognition"
   ],
+  "keywords": [
+    "gpt-5",
+    "reasoning-effort",
+    "swe-bench"
+  ],
   "relevance": "A benchmark-contamination caveat on how extra reasoning effort 'helps'."
 }

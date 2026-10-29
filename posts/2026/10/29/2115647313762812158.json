@@ -23,6 +23,10 @@
   "topics": [
     "harness-dev"
   ],
+  "keywords": [
+    "jevgrep",
+    "github-dzhng-jevgrep"
+  ],
   "relevance": "Context-retrieval tooling that measurably cuts agent token spend without hurting success.",
   "media": [
     {

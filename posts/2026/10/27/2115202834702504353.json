@@ -23,6 +23,12 @@
   "topics": [
     "harness-dev"
   ],
+  "keywords": [
+    "grep-only",
+    "open-weight",
+    "qwen3-8b",
+    "swe-bench"
+  ],
   "relevance": "Tells local-model harness builders when code-graph tools are worth it.",
   "media": [
     {

@@ -28,5 +28,13 @@
   "topics": [
     "local-models"
   ],
+  "keywords": [
+    "local-inference-lab",
+    "vllm",
+    "github",
+    "blackwell-llm-docker",
+    "deepseek",
+    "deepseek-v4"
+  ],
   "relevance": "A fully specified, reproducible serving config for a frontier open MoE on workstation GPUs."
 }

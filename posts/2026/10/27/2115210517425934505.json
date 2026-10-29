@@ -83,6 +83,14 @@
   "topics": [
     "agentic-cognition"
   ],
+  "keywords": [
+    "forecast-dojo",
+    "fine-tune",
+    "qwen3-30b-a3b",
+    "real-world",
+    "trade-off",
+    "github-forecast-dojo-forecast-dojo"
+  ],
   "relevance": "A training/eval environment for agents reasoning under evolving evidence.",
   "media": [
     {

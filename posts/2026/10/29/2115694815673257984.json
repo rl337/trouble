@@ -25,5 +25,12 @@
   "topics": [
     "local-models"
   ],
+  "keywords": [
+    "llama.cpp",
+    "liquidai",
+    "host-resident",
+    "llama-cpp-v0-8-0",
+    "release-v0-8-0-ggml-org-llama-cpp"
+  ],
   "relevance": "Key local-inference engine release, including MoE expert caching and realtime audio."
 }

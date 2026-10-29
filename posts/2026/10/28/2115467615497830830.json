@@ -42,5 +42,10 @@
   "topics": [
     "agentic-cognition"
   ],
+  "keywords": [
+    "gym-anything-rt",
+    "real-time",
+    "l3-lab-cua-week-l3-lab-at-cmu"
+  ],
   "relevance": "Exposes the real-time weakness of current agents."
 }

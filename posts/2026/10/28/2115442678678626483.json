@@ -23,6 +23,11 @@
   "topics": [
     "harness-dev"
   ],
+  "keywords": [
+    "llm-based",
+    "tool-aware",
+    "tao"
+  ],
   "relevance": "Serving-layer scheduling tuned for tool-calling agent workloads.",
   "media": [
     {

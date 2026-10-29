@@ -24,6 +24,10 @@
     "harness-dev",
     "agentic-cognition"
   ],
+  "keywords": [
+    "evidence-action",
+    "knowing-when-to-stop"
+  ],
   "relevance": "A simple stop/escalate affordance in the harness with a large measured effect.",
   "media": [
     {

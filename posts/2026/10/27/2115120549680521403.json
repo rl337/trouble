@@ -77,6 +77,14 @@
   "topics": [
     "agentic-cognition"
   ],
+  "keywords": [
+    "novelty-eval",
+    "novelty-judge-bench",
+    "gpt-5",
+    "human-vs-ai",
+    "purpose-built",
+    "old-idea-novel-problem"
+  ],
   "relevance": "Cautions against trusting LLM novelty judgments in automated research loops.",
   "media": [
     {

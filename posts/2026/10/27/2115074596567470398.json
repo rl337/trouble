@@ -23,5 +23,9 @@
   "topics": [
     "harness-dev"
   ],
+  "keywords": [
+    "postgresql",
+    "mcp-postgre-starter"
+  ],
   "relevance": "A small, honest MCP-over-database example with cost and correctness noted."
 }

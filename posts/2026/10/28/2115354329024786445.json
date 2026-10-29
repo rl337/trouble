@@ -23,6 +23,9 @@
   "topics": [
     "harness-dev"
   ],
+  "keywords": [
+    "cred-1"
+  ],
   "relevance": "A local credibility check tool for research agents via MCP.",
   "media": [
     {

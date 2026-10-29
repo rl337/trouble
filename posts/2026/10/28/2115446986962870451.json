@@ -24,6 +24,10 @@
     "harness-dev",
     "agentic-cognition"
   ],
+  "keywords": [
+    "coding-agent",
+    "self-evolve"
+  ],
   "relevance": "Directly studies self-modifying harnesses.",
   "media": [
     {

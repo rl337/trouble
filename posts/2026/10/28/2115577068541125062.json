@@ -25,6 +25,12 @@
   "topics": [
     "agentic-media"
   ],
+  "keywords": [
+    "comfyui",
+    "openfield",
+    "mit-licensed",
+    "github-wexloop-openfield"
+  ],
   "relevance": "An open, GPU-local media studio built entirely on swappable workflows.",
   "media": [
     {

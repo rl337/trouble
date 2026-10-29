@@ -23,5 +23,10 @@
   "topics": [
     "agentic-media"
   ],
+  "keywords": [
+    "openmontage",
+    "self-hosted",
+    "agpl-3"
+  ],
   "relevance": "A full multi-stage agentic video pipeline you can self-host."
 }

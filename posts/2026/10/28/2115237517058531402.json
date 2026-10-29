@@ -23,5 +23,13 @@
   "topics": [
     "harness-dev"
   ],
+  "keywords": [
+    "openclaw",
+    "ai-agent",
+    "key-stealing",
+    "look-alike",
+    "supply-chain",
+    "agent-supply-chain-auditor"
+  ],
   "relevance": "Supply-chain auditing for skill marketplaces, a growing risk for agent harnesses."
 }

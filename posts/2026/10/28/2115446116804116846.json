@@ -23,5 +23,9 @@
   "topics": [
     "local-models"
   ],
+  "keywords": [
+    "localllama",
+    "tensorsharp"
+  ],
   "relevance": "Engine-by-engine throughput for the ~30B reasoning tier on a single consumer GPU, with speculative decoding as the big lever."
 }

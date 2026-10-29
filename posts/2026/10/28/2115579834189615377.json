@@ -28,6 +28,10 @@
   "topics": [
     "agentic-cognition"
   ],
+  "keywords": [
+    "ai-generated",
+    "novelty-judge"
+  ],
   "relevance": "Limits of LLM-as-judge for autonomous research agents.",
   "media": [
     {

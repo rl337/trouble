@@ -23,5 +23,8 @@
   "topics": [
     "harness-dev"
   ],
+  "keywords": [
+    "framework-level"
+  ],
   "relevance": "Argues harness error handling matters more than model size for tool reliability."
 }

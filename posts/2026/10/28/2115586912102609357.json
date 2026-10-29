@@ -23,5 +23,8 @@
   "topics": [
     "agentic-cognition"
   ],
+  "keywords": [
+    "nonstandard-error-in-ai-agent"
+  ],
   "relevance": "Variance in agent reasoning on identical research tasks: a caution for agent-driven analysis."
 }

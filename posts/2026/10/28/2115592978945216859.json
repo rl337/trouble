@@ -23,6 +23,10 @@
   "topics": [
     "harness-dev"
   ],
+  "keywords": [
+    "coding-agent",
+    "before-the-first-edit"
+  ],
   "relevance": "Timing of guidance injection is a harness design lever.",
   "media": [
     {

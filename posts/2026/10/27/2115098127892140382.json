@@ -23,5 +23,9 @@
   "topics": [
     "agentic-cognition"
   ],
+  "keywords": [
+    "slowlab",
+    "bayesian-optimisation"
+  ],
   "relevance": "Long-horizon, irreversible-decision benchmark exposing agent planning limits."
 }

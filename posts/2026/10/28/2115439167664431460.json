@@ -23,5 +23,6 @@
   "topics": [
     "local-models"
   ],
+  "keywords": [],
   "relevance": "A debugging lesson for anyone benchmarking local inference rigs."
 }

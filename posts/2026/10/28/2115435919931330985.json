@@ -55,6 +55,15 @@
     "local-models",
     "agentic-media"
   ],
+  "keywords": [
+    "macbook",
+    "macvoice",
+    "pytorch",
+    "openai",
+    "end-of-speech",
+    "self-thread",
+    "openai-compatible"
+  ],
   "relevance": "Low-latency local voice front end that can drive coding agents.",
   "media": [
     {

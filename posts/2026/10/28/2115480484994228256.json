@@ -24,5 +24,13 @@
     "agentic-media",
     "local-models"
   ],
+  "keywords": [
+    "code2video",
+    "sensenova",
+    "sensenova-6.8-code2video",
+    "open-weight",
+    "re-generation",
+    "sensenova-6-8-code2video"
+  ],
   "relevance": "An open ~30B model that makes video generation programmable, bridging local models and agentic media."
 }

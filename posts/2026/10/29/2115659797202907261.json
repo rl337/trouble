@@ -23,5 +23,12 @@
   "topics": [
     "harness-dev"
   ],
+  "keywords": [
+    "agentlen",
+    "pypi",
+    "agentlen-v0-2-2",
+    "local-first",
+    "github-kp183-agentlen"
+  ],
   "relevance": "Self-hosted agent tracing."
 }

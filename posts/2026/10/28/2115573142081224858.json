@@ -23,5 +23,9 @@
   "topics": [
     "local-models"
   ],
+  "keywords": [
+    "localllama",
+    "job-per-hour"
+  ],
   "relevance": "Workload-level comparison of two ~30B reasoning models on AMD hardware: the metric that matters for agent throughput."
 }

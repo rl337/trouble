@@ -27,5 +27,12 @@
     "agentic-cognition",
     "harness-dev"
   ],
+  "keywords": [
+    "memoryagentbench",
+    "256-token",
+    "atomic-fact",
+    "raw-rag",
+    "cross-encoder-rerank"
+  ],
   "relevance": "A strong reality check for agent memory design: raw evidence plus good retrieval may beat elaborate memory pipelines."
 }

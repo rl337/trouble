@@ -23,5 +23,11 @@
   "topics": [
     "harness-dev"
   ],
+  "keywords": [
+    "hallmark",
+    "opencode",
+    "machine-made",
+    "github-nutlope-hallmark"
+  ],
   "relevance": "An anti-AI-slop UI review skill for coding agents."
 }

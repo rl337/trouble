@@ -24,5 +24,15 @@
     "local-models",
     "harness-dev"
   ],
+  "keywords": [
+    "recursivesi",
+    "flint",
+    "apache-2",
+    "self-report",
+    "swe-bench",
+    "vendor-reported",
+    "mixture-of-expert",
+    "recursivesi-flint-hugging-face"
+  ],
   "relevance": "A permissively licensed ~40B-total / ~2.5B-active agentic coding MoE sits squarely in the mid-size tier that fits comfortably on a Spark."
 }

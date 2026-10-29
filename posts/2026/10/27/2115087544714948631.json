@@ -24,6 +24,13 @@
     "harness-dev",
     "agentic-cognition"
   ],
+  "keywords": [
+    "markovsim",
+    "bounded-context",
+    "long-horizon",
+    "schema-defined",
+    "finite-state-machine"
+  ],
   "relevance": "FSM-bounded context as a harness design for long workflows.",
   "media": [
     {

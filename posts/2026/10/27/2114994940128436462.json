@@ -23,5 +23,10 @@
   "topics": [
     "harness-dev"
   ],
+  "keywords": [
+    "swiftui",
+    "bama",
+    "github-daveebbelaar-bama"
+  ],
   "relevance": "A well-structured example of decomposing a large build into research → stories → test-gated commits via skills."
 }

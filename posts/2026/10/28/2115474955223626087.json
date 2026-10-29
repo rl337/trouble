@@ -23,6 +23,10 @@
   "topics": [
     "agentic-cognition"
   ],
+  "keywords": [
+    "agentic-context-engineering",
+    "agentic-context-engineering-ace"
+  ],
   "relevance": "A crisp illustration of context collapse in self-improving agents.",
   "media": [
     {

@@ -24,6 +24,13 @@
     "harness-dev",
     "agentic-media"
   ],
+  "keywords": [
+    "cpu-only",
+    "earshot",
+    "mcp-friendly",
+    "open-source",
+    "github-leonxlnx-earshot"
+  ],
   "relevance": "Adds an audio modality to coding agents via MCP.",
   "media": [
     {

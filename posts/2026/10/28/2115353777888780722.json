@@ -23,6 +23,12 @@
   "topics": [
     "agentic-cognition"
   ],
+  "keywords": [
+    "speaker-memory",
+    "multi-user",
+    "from-voiceprint-to-user-entity",
+    "online-speaker-memory-construction"
+  ],
   "relevance": "Memory design for voice agents serving several people.",
   "media": [
     {

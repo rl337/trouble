@@ -28,5 +28,8 @@
   "topics": [
     "harness-dev"
   ],
+  "keywords": [
+    "write-up"
+  ],
   "relevance": "A real-world MCP sandbox escape: required reading for anyone exposing code-execution tools to agents."
 }

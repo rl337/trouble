@@ -23,6 +23,11 @@
   "topics": [
     "harness-dev"
   ],
+  "keywords": [
+    "claude-neoize",
+    "neoize",
+    "github-foobar-beer-claude-neoize"
+  ],
   "relevance": "A graph-backed memory alternative to markdown notes for coding-agent context.",
   "media": [
     {

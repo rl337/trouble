@@ -23,6 +23,11 @@
   "topics": [
     "harness-dev"
   ],
+  "keywords": [
+    "any-subagent",
+    "coding-agent",
+    "follow-up"
+  ],
   "relevance": "A minimal, dependency-light pattern for cross-harness subagents with persistent named sessions.",
   "media": [
     {

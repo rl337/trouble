@@ -24,6 +24,12 @@
     "harness-dev",
     "local-models"
   ],
+  "keywords": [
+    "effectworld",
+    "lora",
+    "effect-typed",
+    "qwen3-4b"
+  ],
   "relevance": "Makes small local models far safer and more efficient tool users.",
   "media": [
     {
