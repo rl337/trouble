@@ -30,7 +30,7 @@ Install: `pip install -e ".[dev]"` (Python 3.10+).
 - `summary_md`: paraphrased, attributed — not verbatim X text.
 - `referenced_urls`: at least one fully expanded URL (GitHub or other external).
 - `topics`: slugs from `topics.yaml` only.
-- Optional `keywords`: **pre-normalized** before write — lowercase, no leading `#`, singular form (e.g. `aiagent` not `aiagents`), no `@handles` or author names. The builder merges hashtags, topics, keywords, and extracted nouns into one normalized genindex term set per post.
+- Optional `keywords`: **pre-normalized** before write — lowercase, no leading `#`, singular form (e.g. `aiagent` not `aiagents`), no `@handles` or author names. The builder merges hashtags, topics, and keywords into per-term pages under `terms/<slug>.html` and the A–Z `terms-index` page (Sphinx genindex is disabled).
 - Sample data only under `sample/fixtures/`, not `posts/`.
 
 ### Media

@@ -38,6 +38,7 @@ html_sidebars = {
 }
 
 html_use_modindex = False
+html_use_index = False
 html_domain_indices = False
 
 # Slashdot-ish nav header via layout template
