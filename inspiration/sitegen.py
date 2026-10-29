@@ -3,17 +3,19 @@
 from __future__ import annotations
 
 import re
+import html
 from collections import defaultdict
 from datetime import datetime
 from pathlib import Path
 from typing import Any
 
-from inspiration.index_terms import (
-    build_index_corpus,
-    build_post_index_lines,
-    render_myst_index_block,
-)
+from inspiration.index_terms import normalize_index_term, normalize_topic_term
 from inspiration.posts import PostRecord
+from inspiration.terms_index import (
+    build_site_terms,
+    render_term_page_md,
+    render_terms_index_rst,
+)
 from inspiration.topics import Topic
 
 
@@ -89,6 +91,14 @@ def _index_entry_line(rec: PostRecord) -> str:
     return f"* :doc:`posts/{rec.id}` — {rec.data['relevance']}{marker}"
 
 
+def _term_link(norm: str, term_to_slug: dict[str, str], label: str | None = None) -> str:
+    slug = term_to_slug.get(norm)
+    text = html.escape(label if label is not None else norm)
+    if not slug:
+        return text
+    return f'<a href="../terms/{html.escape(slug, quote=True)}.html">{text}</a>'
+
+
 def generate_sphinx_sources(
     *,
     records: list[PostRecord],
@@ -105,6 +115,17 @@ def generate_sphinx_sources(
     topics_dir = out_dir / "topics"
     archive_dir = out_dir / "archive"
     posts_dir = out_dir / "posts"
+    terms_dir = out_dir / "terms"
+
+    topic_map = {t.slug: t for t in topics}
+
+    term_pages, term_to_slug, _index_corpus = build_site_terms(records, topics=topics)
+    for page in term_pages:
+        _write(
+            terms_dir / f"{page.slug}.md",
+            render_term_page_md(page, topic_map=topic_map),
+        )
+    _write(out_dir / "terms-index.rst", render_terms_index_rst(term_pages))
 
     by_update_day: dict[str, list[PostRecord]] = defaultdict(list)
     for rec in records:
@@ -125,6 +146,7 @@ def generate_sphinx_sources(
         '   <p class="tagline">Curated X threads — sorted by last update (UTC), grouped by update day.</p>',
         "",
         "* :doc:`browse` — browse all topics and archive days (with post counts)",
+        "* :doc:`terms-index` — A–Z index of hashtags, topics, and keywords",
         "",
     ]
 
@@ -157,8 +179,6 @@ def generate_sphinx_sources(
         lines.append(f"* :doc:`archive/{day_key}` — {day_key}")
     lines.append("")
 
-    topic_map = {t.slug: t for t in topics}
-    index_corpus = build_index_corpus(records, topics_by_slug=topic_map)
     for topic in topics:
         matching = [r for r in records if topic.slug in r.data.get("topics", [])]
         matching.sort(key=lambda r: (r.updated_at, r.id), reverse=True)
@@ -238,15 +258,35 @@ def generate_sphinx_sources(
 
         tags = data.get("hashtags") or []
         if tags:
-            md_lines.extend(["## Hashtags", "", ", ".join(f"#{t}" for t in tags), ""])
+            md_lines.extend(["## Hashtags", ""])
+            tag_links = []
+            for tag in tags:
+                norm = normalize_index_term(str(tag), _index_corpus)
+                if norm:
+                    tag_links.append(_term_link(norm, term_to_slug, f"#{tag.lstrip('#')}"))
+            if tag_links:
+                md_lines.append(", ".join(tag_links))
+            md_lines.append("")
 
         topic_slugs = data.get("topics", [])
         if topic_slugs:
             md_lines.extend(["## Topics", ""])
             for slug in topic_slugs:
-                if slug in topic_map:
-                    title = topic_map[slug].title
-                    md_lines.append(f'* <a href="../topics/{slug}.html">{title}</a>')
+                norm = normalize_topic_term(str(slug), _index_corpus)
+                if norm and norm in term_to_slug:
+                    label = topic_map[slug].title if slug in topic_map else slug
+                    md_lines.append(f"* {_term_link(norm, term_to_slug, label)}")
+            md_lines.append("")
+
+        keywords = data.get("keywords") or []
+        if keywords:
+            md_lines.extend(["## Keywords", ""])
+            kw_links = [
+                _term_link(str(kw), term_to_slug, str(kw))
+                for kw in keywords
+                if str(kw).strip()
+            ]
+            md_lines.append(", ".join(kw_links))
             md_lines.append("")
 
         day_heading = _format_day_heading(rec.day_key)
@@ -259,14 +299,10 @@ def generate_sphinx_sources(
                 "## Browse",
                 "",
                 '* <a href="../browse.html">All topics and archive days</a>',
+                '* <a href="../terms-index.html">A–Z term index</a>',
                 "",
             ]
         )
-
-        index_lines = build_post_index_lines(
-            data, topics_by_slug=topic_map, corpus=index_corpus
-        )
-        md_lines.extend(render_myst_index_block(index_lines))
 
         _write(posts_dir / f"{rec.id}.md", "\n".join(md_lines))
 
@@ -308,9 +344,12 @@ def generate_sphinx_sources(
         [
             ".. toctree::",
             "   :hidden:",
+            "   :glob:",
             "   :maxdepth: 1",
             "",
             "   browse",
+            "   terms-index",
+            "   terms/*",
         ]
     )
     for topic in topics:
