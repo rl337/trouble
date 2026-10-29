@@ -1,0 +1,28 @@
+{
+  "id": "2115680276634563048",
+  "permalink": "https://x.com/HUNTER_z1389/status/2115680276634563048",
+  "author": {
+    "name": "miqu | Building in public",
+    "handle": "@HUNTER_z1389",
+    "profile_url": "https://x.com/HUNTER_z1389"
+  },
+  "posted_at": "2026-10-29T05:41:00Z",
+  "collected_at": "2026-10-29T15:06:14Z",
+  "updated_at": "2026-10-29T15:06:14Z",
+  "thread": [],
+  "summary_md": "**[@HUNTER_z1389](https://x.com/HUNTER_z1389/status/2115680276634563048)** flags **Nanbeige4.3-33B**, an open agentic-coding model. Citing its Hugging Face model card (vendor-reported): ~80.9 on Terminal-Bench 2.1 vs ~73.0 for Qwen3.8-27B, and ~60.3 on SWE-Bench Pro vs Qwen's ~61.7.",
+  "referenced_urls": [
+    {
+      "url": "https://huggingface.co/Nanbeige/Nanbeige4.3-33B",
+      "short_url": "https://t.co/fSmFrn0b6Q",
+      "title": "Nanbeige/Nanbeige4.3-33B · Hugging Face",
+      "from_post": "2115680276634563048"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "local-models",
+    "harness-dev"
+  ],
+  "relevance": "A fresh ~33B agent-oriented challenger to the Qwen 27–30B tier that fits a Spark."
+}

@@ -1,0 +1,27 @@
+{
+  "id": "2115497618944282892",
+  "permalink": "https://x.com/KitchExtremeX/status/2115497618944282892",
+  "author": {
+    "name": "KitchExtremeX",
+    "handle": "@KitchExtremeX",
+    "profile_url": "https://x.com/KitchExtremeX"
+  },
+  "posted_at": "2026-10-28T17:35:11Z",
+  "collected_at": "2026-10-29T15:06:14Z",
+  "updated_at": "2026-10-29T15:06:14Z",
+  "thread": [],
+  "summary_md": "**[@KitchExtremeX](https://x.com/KitchExtremeX/status/2115497618944282892)** points to Anthropic's **single-agent-loop-kit**, a Claude Code skill for folding subagents back into one agent loop with skills and tools. It evaluates every change, so splitting work into a subagent happens only when the eval numbers justify it.",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/anthropics/single-agent-loop-kit",
+      "short_url": "https://t.co/h6d9HadT7U",
+      "title": "GitHub - anthropics/single-agent-loop-kit",
+      "from_post": "2115497618944282892"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "relevance": "An eval-gated approach to the single-agent vs multi-agent decision, from a model vendor."
+}

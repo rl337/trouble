@@ -1,0 +1,33 @@
+{
+  "id": "2115619306453020803",
+  "permalink": "https://x.com/yuvalkansal/status/2115619306453020803",
+  "author": {
+    "name": "Yuval Kansal",
+    "handle": "@yuvalkansal",
+    "profile_url": "https://x.com/yuvalkansal"
+  },
+  "posted_at": "2026-10-29T01:38:43Z",
+  "collected_at": "2026-10-29T15:06:14Z",
+  "updated_at": "2026-10-29T15:06:14Z",
+  "thread": [],
+  "summary_md": "**Yuval Kansal ([@yuvalkansal](https://x.com/yuvalkansal/status/2115619306453020803))** introduces **Self-Direction** (paper *\"Don't Forget What You Just Learned: Self-Directed Repair…\"*), exploring how lessons from each failure can be encoded as lightweight adapters so agents learn new skills quickly and recover more reliably — without RL. Paper and project website are linked.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.31846",
+      "short_url": "https://t.co/t7FYNbtpE6",
+      "title": "Don't Forget What You Just Learned: Self-Directed Repair Turns...",
+      "from_post": "2115619306453020803"
+    },
+    {
+      "url": "https://self-direction.github.io/",
+      "short_url": "https://t.co/Mh0FdyKno4",
+      "title": "Self-Direction project website",
+      "from_post": "2115619306453020803"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-cognition"
+  ],
+  "relevance": "A cheap, non-RL path to agents that learn from their own mistakes."
+}
