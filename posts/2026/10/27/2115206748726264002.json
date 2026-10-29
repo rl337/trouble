@@ -1,0 +1,38 @@
+{
+  "id": "2115206748726264002",
+  "permalink": "https://x.com/SciFi/status/2115206748726264002",
+  "author": {
+    "name": "Artificial Intelligence Papers",
+    "handle": "@SciFi",
+    "profile_url": "https://x.com/SciFi"
+  },
+  "posted_at": "2026-10-27T22:19:22Z",
+  "collected_at": "2026-10-29T15:06:13Z",
+  "updated_at": "2026-10-29T15:06:13Z",
+  "thread": [],
+  "summary_md": "**[@SciFi](https://x.com/SciFi/status/2115206748726264002)** (an AI-papers feed) shares **CauProphet** by Kaiwen Wu and Chaochao Lu.\n\nPer the abstract, the work argues that agent memory today mostly retrieves records or summaries and never builds causal understanding. CauProphet maintains a persistent *Causal Cognition* store; for each task it fuses that knowledge with current evidence into a structured *Causal Belief* (causal factors and likely effects of actions), acts on it, and keeps updating both as observations arrive — so causal knowledge accumulates across episodes.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.32477",
+      "short_url": "https://t.co/Fvku3YqAC6",
+      "title": "CauProphet: Teaching Agents to Develop Causal Cognition like Humans",
+      "from_post": "2115206748726264002"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-cognition"
+  ],
+  "relevance": "Moves agent memory from recall toward a persistent, updatable causal model of the world — a core cognition question.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HVq5VD9WYAENhG0.png",
+      "from_post": "2115206748726264002",
+      "description": "Screenshot of the CauProphet paper abstract on a beige background.",
+      "thumbnail": "posts/2026/10/27/2115206748726264002/media/0.webp",
+      "kind": "paper",
+      "ocr_text": "Large language model (LLM) agents increasingly support long-horizon tasks by leveraging external memory and past experience. However, existing agents mainly retrieve records or summaries, lacking the ability to form and refine causal understanding of the world. Inspired by human causal cognition, we introduce CauProphet, an agent that develops and updates causal knowledge within its Causal Cognition. For each task, CauProphet combines relevant knowledge in Causal Cognition with current evidence to construct a Causal Belief, a structured belief capturing causal factors and the effects of possible actions. It uses this belief for decision-making and continuously updates both the belief and Causal Cognition as new observations emerge, enabling causal knowledge that persists beyond individual experiences. Evaluations demonstrate that…"
+    }
+  ]
+}

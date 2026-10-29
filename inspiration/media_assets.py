@@ -22,6 +22,21 @@ def copy_post_media_to_site(posts_root: Path, html_out: Path) -> None:
                 shutil.copy2(item, dest / item.name)
 
 
+def stage_post_media_for_sphinx(posts_root: Path, sources_dir: Path) -> None:
+    """Copy media next to generated post sources so Sphinx can read thumbnails during build."""
+    posts_sources = sources_dir / "posts"
+    for json_path in discover_post_files(posts_root):
+        media_src = json_path.parent / json_path.stem / "media"
+        if not media_src.is_dir():
+            continue
+        rel = json_path.relative_to(posts_root).parent / json_path.stem / "media"
+        dest = posts_sources / rel
+        dest.mkdir(parents=True, exist_ok=True)
+        for item in media_src.iterdir():
+            if item.is_file():
+                shutil.copy2(item, dest / item.name)
+
+
 def copy_fixture_media_assets(repo_root: Path, html_out: Path) -> None:
     """Copy fixture media-assets/posts/... into html_out/posts/... for local fixture builds."""
     assets_root = repo_root / "sample" / "fixtures" / "media-assets" / "posts"

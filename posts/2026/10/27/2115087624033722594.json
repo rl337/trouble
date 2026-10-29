@@ -1,0 +1,37 @@
+{
+  "id": "2115087624033722594",
+  "permalink": "https://x.com/oaichu95/status/2115087624033722594",
+  "author": {
+    "name": "Oai Chu",
+    "handle": "@oaichu95",
+    "profile_url": "https://x.com/oaichu95"
+  },
+  "posted_at": "2026-10-27T14:26:00Z",
+  "collected_at": "2026-10-29T15:06:13Z",
+  "updated_at": "2026-10-29T15:06:13Z",
+  "thread": [],
+  "summary_md": "**Oai Chu ([@oaichu95](https://x.com/oaichu95/status/2115087624033722594))** shares **vvv**, which gives coding agents reusable **Remotion** video templates: build a template once, swap in photos and copy, and render the film locally. MIT licensed, installable as a skill (`npx skills add actionow-ai/vvv`), and works across 25+ agents.",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/actionow-ai/vvv",
+      "short_url": "https://t.co/J7XyJYGqLF",
+      "title": "GitHub - actionow-ai/vvv: Build a video template once, reuse it across coding agents. Editable Remotion templates and an Agent Skill for Claude Code, Codex and 25+ agents.",
+      "from_post": "2115087624033722594"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-media"
+  ],
+  "relevance": "Template-driven programmatic video lets agents produce consistent motion pieces without a video-generation model.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HVpM9MGbsAArvDj.jpg",
+      "from_post": "2115087624033722594",
+      "description": "Promotional banner for vvv: a row of 3D 'V' letters receding into darkness, the front one neon yellow, with text about reusable open-source video templates for coding agents (Claude Code, Codex).",
+      "thumbnail": "posts/2026/10/27/2115087624033722594/media/0.webp",
+      "kind": "other"
+    }
+  ]
+}

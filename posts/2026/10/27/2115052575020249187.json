@@ -1,0 +1,27 @@
+{
+  "id": "2115052575020249187",
+  "permalink": "https://x.com/SympathyLabs/status/2115052575020249187",
+  "author": {
+    "name": "Sympathy",
+    "handle": "@SympathyLabs",
+    "profile_url": "https://x.com/SympathyLabs"
+  },
+  "posted_at": "2026-10-27T12:06:44Z",
+  "collected_at": "2026-10-29T15:06:13Z",
+  "updated_at": "2026-10-29T15:06:13Z",
+  "thread": [],
+  "summary_md": "**Sympathy ([@SympathyLabs](https://x.com/SympathyLabs/status/2115052575020249187))**, quoting [@0xBakeer](https://x.com/0xBakeer/status/2115040161037992294), breaks down how **TandemLLM 0.15.0** scales on one DGX Spark: eight request \"lanes\" share a 128-row packed speculative draft and a CUDA-graphed joint verification pass.\n\nPer the post and the linked CHANGELOG, that takes a *qwen3.8-27b thinkingcap* EXL3 4.0-bpw quant from ~38.3 tok/s with one lane to ~154.5 tok/s aggregate across eight.",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/0xBakeer/TandemLLM/blob/main/CHANGELOG.md",
+      "short_url": "https://t.co/84rpbWTolZ",
+      "title": "TandemLLM/CHANGELOG.md at main · 0xBakeer/TandemLLM",
+      "from_post": "2115052575020249187"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "local-models"
+  ],
+  "relevance": "Batched speculative decoding that roughly quadruples throughput for a 27B thinking model on a single Spark — directly relevant to running parallel agents locally."
+}

@@ -1,0 +1,27 @@
+{
+  "id": "2115443044866797930",
+  "permalink": "https://x.com/DanteMMartin/status/2115443044866797930",
+  "author": {
+    "name": "Dante Martin",
+    "handle": "@DanteMMartin",
+    "profile_url": "https://x.com/DanteMMartin"
+  },
+  "posted_at": "2026-10-28T13:58:19Z",
+  "collected_at": "2026-10-29T15:06:14Z",
+  "updated_at": "2026-10-29T15:06:14Z",
+  "thread": [],
+  "summary_md": "**Dante Martin ([@DanteMMartin](https://x.com/DanteMMartin/status/2115443044866797930))** highlights a merged **llama.cpp** CUDA PR (#31188) that fuses MoE gate/up matmuls and the GLU into a single MMQ launch, giving about **+17% prefill throughput on DGX Spark (GB10)** and ~+6% on an RTX 5090 — no model or VRAM changes needed.",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/ggml-org/llama.cpp/pull/31188",
+      "short_url": "https://t.co/HC9SShM8tr",
+      "title": "CUDA: fuse MoE gate/up matmuls and GLU in MMQ by anujj · Pull Request #31188 · ggml-org/llama.cpp",
+      "from_post": "2115443044866797930"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "local-models"
+  ],
+  "relevance": "A free kernel-level speed-up for MoE models on exactly Richard's hardware via the most common local runtime."
+}

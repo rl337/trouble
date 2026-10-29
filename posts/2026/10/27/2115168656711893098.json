@@ -1,0 +1,27 @@
+{
+  "id": "2115168656711893098",
+  "permalink": "https://x.com/himanshutwtxs/status/2115168656711893098",
+  "author": {
+    "name": "hims",
+    "handle": "@himanshutwtxs",
+    "profile_url": "https://x.com/himanshutwtxs"
+  },
+  "posted_at": "2026-10-27T19:48:00Z",
+  "collected_at": "2026-10-29T15:06:13Z",
+  "updated_at": "2026-10-29T15:06:13Z",
+  "thread": [],
+  "summary_md": "**[@himanshutwtxs](https://x.com/himanshutwtxs/status/2115168656711893098)** recommends the paper **\"Are Self-Evolving Agents Continual Learners?\"**, quoting the author's announcement thread, as a very interesting read on whether agents that rewrite their own memory/skills actually learn continually.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.25858",
+      "short_url": "https://t.co/npCPoNMP6f",
+      "title": "Are Self-Evolving Agents Continual Learners?",
+      "from_post": "2115168656711893098"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-cognition"
+  ],
+  "relevance": "Directly probes whether self-evolving agents genuinely accumulate competence — a central question for agent cognition."
+}

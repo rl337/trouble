@@ -1,0 +1,39 @@
+{
+  "id": "2115011873259348282",
+  "permalink": "https://x.com/i_Am_Snow_Flake/status/2115011873259348282",
+  "author": {
+    "name": "debugmodeon ",
+    "handle": "@i_Am_Snow_Flake",
+    "profile_url": "https://x.com/i_Am_Snow_Flake"
+  },
+  "posted_at": "2026-10-27T09:25:00Z",
+  "collected_at": "2026-10-29T15:06:13Z",
+  "updated_at": "2026-10-29T15:06:13Z",
+  "thread": [],
+  "summary_md": "**[@i_Am_Snow_Flake](https://x.com/i_Am_Snow_Flake/status/2115011873259348282)** summarizes **GenXR-Bench**, a benchmark of 112 XR app-development tasks for coding agents: even the top model (Opus 5) passes only ~51%.\n\nThe dominant failure (64.4% of failed runs, per the paper's Table 14) is comparing positions defined under different parent frames (e.g. hand vs world) without converting to a common frame. Other common failures: starting before assets or the headset load, cm-vs-m scale errors, and broken reset/undo.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.29014",
+      "short_url": "https://t.co/upEETVme6v",
+      "title": "GenXR-Bench: Benchmarking Coding Agents for Interactive XR Development",
+      "from_post": "2115011873259348282"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-media",
+    "harness-dev"
+  ],
+  "relevance": "Pinpoints why agents struggle with 3D spatial code — coordinate frames and units — which is exactly what to guard against in 3D/XR agent tooling.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HVoIFETWcAAB1qN.jpg",
+      "from_post": "2115011873259348282",
+      "description": "Horizontal bar chart 'why coding agents fail at xr apps (% of failed runs, genxr-bench)', sourced to GenXR-Bench Table 14.",
+      "thumbnail": "posts/2026/10/27/2115011873259348282/media/0.webp",
+      "kind": "chart",
+      "ocr_text": "why coding agents fail at xr apps\n(% of failed runs, genxr-bench)\npositions mixed up across parent frames — 64.4%\napp started before assets/headset loaded — 44.9%\ncm vs m scale error — 30.6%\nbroken reset/undo — 26.6%\nsource: GenXR-Bench (arXiv 2610.29014), Table 14"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "id": "2115004953001607334",
+  "permalink": "https://x.com/YCX15385071/status/2115004953001607334",
+  "author": {
+    "name": "Xi Chen",
+    "handle": "@YCX15385071",
+    "profile_url": "https://x.com/YCX15385071"
+  },
+  "posted_at": "2026-10-27T08:57:30Z",
+  "collected_at": "2026-10-29T15:06:13Z",
+  "updated_at": "2026-10-29T15:06:13Z",
+  "thread": [
+    {
+      "id": "2115004954817802520",
+      "permalink": "https://x.com/YCX15385071/status/2115004954817802520",
+      "posted_at": "2026-10-27T08:57:30Z",
+      "position": 1
+    }
+  ],
+  "summary_md": "**Xi Chen ([@YCX15385071](https://x.com/YCX15385071/status/2115004953001607334))** announces the **Auto-Research Arena** paper, which asks what AI research agents can discover when optimizing for nine different objectives (model size, inference speed, etc.) rather than just validation loss, and evaluates both the research *harnesses* and their discoveries.\n\nIn the [follow-up](https://x.com/YCX15385071/status/2115004954817802520), Chen reports the agents produced 32 findings in 9 idea families; a new search that recombines these ideas (1-hour training per candidate) yields a model with lower loss than the baseline using less compute and data. The attached figure ranks harnesses by Elo — simple sequential search places second, while a narrowly tuned method (TPE) places last.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.35866",
+      "short_url": "https://t.co/Gm8UuxCA2L",
+      "title": "Auto-Research Arena: Benchmarking and Advancing Auto-Research in...",
+      "from_post": "2115004953001607334"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-cognition",
+    "harness-dev"
+  ],
+  "relevance": "Benchmarks auto-research harnesses on open-ended discovery and shows agent-found ideas compounding into measurable gains.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HVn96o2a0AA1lC8.jpg",
+      "from_post": "2115004954817802520",
+      "description": "Two-panel figure: (1) a radar chart and Elo table showing the arena distinguishes research harnesses; (2) an idea-library diagram (32 findings, 9 idea families) with a training-loss curve and small result tables.",
+      "thumbnail": "posts/2026/10/27/2115004953001607334/media/0.webp",
+      "kind": "chart",
+      "ocr_text": "1 Arena distinguishes research harnesses\nHarness · Opus 5 · Elo: AutoScientists 1729.4; Sequential Search 1687.6; Arbor 1632.4; GEAR 1622.4; Beam Search 1438.6; Heuresis 1350.4; TPE 1039.2\nSIMPLE ≠ WEAK: Sequential Search ranks #2 with both LLMs.\nSPECIALIZED ≠ BROAD: TPE, originally tuned for BPB, ranks last among seven harnesses\n2 A broad idea frontier with measurable utility\nIDEA LIBRARY: 32 findings, 9 idea families (Looped Transformers; Cross-layer K/V sharing; Lookup-augmented FFNs; Reuse & recombine; Activation reconstruction; Decode compilation regions)\nLarger-scale validation: 1-hour training · same ~50.33M parameters\nSAME DATA 2.6751 → 2.5438 (4.91% lower loss); SAME FLOPs 2.6166 → 2.5438 (2.78% lower loss); HELD-OUT BPB 0.9295 → 0.9112 (1.97% lower)"
+    }
+  ]
+}

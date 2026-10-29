@@ -1,0 +1,44 @@
+{
+  "id": "2115135215718879449",
+  "permalink": "https://x.com/CSVisionPapers/status/2115135215718879449",
+  "author": {
+    "name": "Computer Vision and Pattern Recognition Papers",
+    "handle": "@CSVisionPapers",
+    "profile_url": "https://x.com/CSVisionPapers"
+  },
+  "posted_at": "2026-10-27T17:35:07Z",
+  "collected_at": "2026-10-29T15:06:13Z",
+  "updated_at": "2026-10-29T15:06:13Z",
+  "thread": [],
+  "summary_md": "**[@CSVisionPapers](https://x.com/CSVisionPapers/status/2115135215718879449)** shares **AgentDreamer** (Kim, Park, Park, Han — SNU), which uses an off-the-shelf agent to plan 3D motion for text-controllable physics simulation.\n\nPer the abstract shown in the post, the agent turns an instruction plus scene geometry into a structured motion prior — what moves, which way, in what order — expressed as parametric trajectories over time chunks. A differentiable MPM simulator is then optimized to match that prior while staying physically plausible. The authors also propose **Motion-IG**, an information-theoretic text–motion alignment metric. Paper and project page are linked.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.30679",
+      "short_url": "https://t.co/9KCEUwxtfo",
+      "title": "AgentDreamer: Agentic 3D Motion Reasoning for Text-Controllable Physics Simulation",
+      "from_post": "2115135215718879449"
+    },
+    {
+      "url": "https://cv.snu.ac.kr/research/AgentDreamer",
+      "short_url": "https://t.co/hbE0jbJxy6",
+      "from_post": "2115135215718879449"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-media",
+    "agentic-cognition"
+  ],
+  "relevance": "Agent-planned, physics-grounded 3D animation from text — a concrete bridge between LLM planning and simulation-driven motion.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HVp4RS1XQAA_aMA.png",
+      "from_post": "2115135215718879449",
+      "description": "Screenshot of the paper's abstract text on a beige background.",
+      "thumbnail": "posts/2026/10/27/2115135215718879449/media/0.webp",
+      "kind": "paper",
+      "ocr_text": "We propose AgentDreamer, an agent-guided optimization framework that aligns text instructions with simulated motion through explicit 3D motion planning. Given a text instruction and scene geometry, an off-the-shelf agent translates the instruction into a structured semantic motion prior, specifying what should move, in which direction, and in what temporal order. The agent represents this prior using parametric functions over a series of temporal chunks, yielding dense 3D trajectories. We then optimize the parameters of a differentiable MPM simulator such that its rollout best matches the prior while remaining constrained by the scene dynamics. This allows the agent to provide semantic guidance from language, while the simulator grounds it in physically feasible motion. We further introduce Motion-IG, an information-theoretic metric for text-motion alignment based on masked text…"
+    }
+  ]
+}

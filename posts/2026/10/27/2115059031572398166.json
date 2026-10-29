@@ -1,0 +1,28 @@
+{
+  "id": "2115059031572398166",
+  "permalink": "https://x.com/7zSushi/status/2115059031572398166",
+  "author": {
+    "name": "7zSushi",
+    "handle": "@7zSushi",
+    "profile_url": "https://x.com/7zSushi"
+  },
+  "posted_at": "2026-10-27T12:32:23Z",
+  "collected_at": "2026-10-29T15:06:13Z",
+  "updated_at": "2026-10-29T15:06:13Z",
+  "thread": [],
+  "summary_md": "**[@7zSushi](https://x.com/7zSushi/status/2115059031572398166)** highlights **flint** from RecursiveSI: an Apache-2.0 mixture-of-experts model aimed at coding agents, with ~39.8B total and ~2.5B active parameters.\n\n- RecursiveSI self-reports 74.2% on SWE-bench Verified (the poster explicitly notes this is vendor-reported).\n- Hugging Face Transformers added support in v5.21 on Oct 26.",
+  "referenced_urls": [
+    {
+      "url": "https://huggingface.co/RecursiveSI/flint",
+      "short_url": "https://t.co/eDWy8eZALb",
+      "title": "RecursiveSI/flint · Hugging Face",
+      "from_post": "2115059031572398166"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "local-models",
+    "harness-dev"
+  ],
+  "relevance": "A permissively licensed ~40B-total / ~2.5B-active agentic coding MoE sits squarely in the mid-size tier that fits comfortably on a Spark."
+}

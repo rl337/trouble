@@ -1,0 +1,35 @@
+{
+  "id": "2115245271907209604",
+  "permalink": "https://x.com/yw0nam/status/2115245271907209604",
+  "author": {
+    "name": "yw0nam",
+    "handle": "@yw0nam",
+    "profile_url": "https://x.com/yw0nam"
+  },
+  "posted_at": "2026-10-28T00:52:26Z",
+  "collected_at": "2026-10-29T15:06:13Z",
+  "updated_at": "2026-10-29T15:06:13Z",
+  "thread": [],
+  "summary_md": "**[@yw0nam](https://x.com/yw0nam/status/2115245271907209604)** shares **any-subagent**, a single bash script plus a skill that lets Claude Code dispatch work to other coding-agent CLIs (Codex, opencode, pi, agy) in the background.\n\nEach delegated conversation is named, so a follow-up like \"tests fail, fix it\" goes back to the same agent with its context intact. No MCP server is required; MIT licensed.",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/yw0nam/any-subagent",
+      "short_url": "https://t.co/p5feJjrOqn",
+      "title": "GitHub - yw0nam/any-subagent: Run Codex, opencode, pi and other coding-agent CLIs as background subagents from Claude Code. Each conversation has a name, so follow-ups keep their context.",
+      "from_post": "2115245271907209604"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "relevance": "A minimal, dependency-light pattern for cross-harness subagents with persistent named sessions.",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://x.com/yw0nam/status/2115245271907209604/video/1",
+      "from_post": "2115245271907209604",
+      "description": "Terminal screen recording of Claude Code invoking a background subagent."
+    }
+  ]
+}
