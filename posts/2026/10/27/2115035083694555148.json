@@ -42,6 +42,17 @@
   "topics": [
     "local-models"
   ],
+  "keywords": [
+    "sushi",
+    "deepseek",
+    "apple-silicon",
+    "per-memory",
+    "self-reply",
+    "stq-1",
+    "sushi-1-4-0",
+    "github-beamivalice-sushi",
+    "deepseek-4-1-flash-1017-stq-1-75bpw"
+  ],
   "relevance": "Max-tier DeepSeek running on a single Mac at very low bit-width, with tool-eval results.",
   "media": [
     {

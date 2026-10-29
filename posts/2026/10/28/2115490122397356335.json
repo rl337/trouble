@@ -23,5 +23,9 @@
   "topics": [
     "local-models"
   ],
+  "keywords": [
+    "github",
+    "tensorfold"
+  ],
   "relevance": "A public repo for the fastest reported single-Spark setup of the Qwen3.8 Flash Next tier."
 }

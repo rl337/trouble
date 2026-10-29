@@ -23,5 +23,11 @@
   "topics": [
     "local-models"
   ],
+  "keywords": [
+    "tandemllm",
+    "flash-next",
+    "ornith-1",
+    "tandemllm-0-15-0"
+  ],
   "relevance": "Apples-to-apples Spark throughput across the 24B–122B range, including a 120B-class model, for picking a mid vs max tier."
 }

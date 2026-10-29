@@ -24,6 +24,11 @@
     "agentic-cognition",
     "harness-dev"
   ],
+  "keywords": [
+    "vista",
+    "meta-agent",
+    "self-exploration"
+  ],
   "relevance": "Automated harness improvement driven by environment evidence.",
   "media": [
     {

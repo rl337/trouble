@@ -21,5 +21,8 @@
   "topics": [
     "harness-dev"
   ],
+  "keywords": [
+    "axi"
+  ],
   "relevance": "Task-tracker-driven orchestration of local coding agents."
 }

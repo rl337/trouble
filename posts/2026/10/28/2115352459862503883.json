@@ -28,6 +28,12 @@
     "agentic-media",
     "local-models"
   ],
+  "keywords": [
+    "chathub",
+    "comfyui-llm-chathub",
+    "chatgpt-style",
+    "github-verolelb-comfyui-llm-chathub"
+  ],
   "relevance": "Bridges local LLMs into ComfyUI media pipelines.",
   "media": [
     {

@@ -23,5 +23,9 @@
   "topics": [
     "harness-dev"
   ],
+  "keywords": [
+    "javascript",
+    "self-improving"
+  ],
   "relevance": "A framework vendor designing agent-actionable optimization workflows."
 }

@@ -23,5 +23,9 @@
   "topics": [
     "harness-dev"
   ],
+  "keywords": [
+    "mcp-vs-cli",
+    "mcp-vs-cli-for-ai-agent"
+  ],
   "relevance": "Guidance on when to expose tools as CLI versus MCP."
 }

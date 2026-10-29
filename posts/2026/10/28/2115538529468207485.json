@@ -23,5 +23,9 @@
   "topics": [
     "harness-dev"
   ],
+  "keywords": [
+    "skill-diet",
+    "github-nicobailon-skill-diet"
+  ],
   "relevance": "Eval-gated skill maintenance: a useful pattern for keeping agent context lean."
 }

@@ -23,6 +23,11 @@
   "topics": [
     "local-models"
   ],
+  "keywords": [
+    "minimax",
+    "vic305",
+    "single-stream"
+  ],
   "relevance": "A reproducible max-tier model recipe for paired DGX Sparks.",
   "media": [
     {

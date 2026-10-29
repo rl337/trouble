@@ -23,5 +23,9 @@
   "topics": [
     "local-models"
   ],
+  "keywords": [
+    "gpt-oss-120b",
+    "qwen3.8-27b"
+  ],
   "relevance": "A practitioner data point that the ~27–30B Qwen tier can outperform a much larger open model, useful when choosing between the mid and max tiers on a Spark."
 }

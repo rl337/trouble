@@ -22,5 +22,10 @@
     "local-models",
     "agentic-media"
   ],
+  "keywords": [
+    "github",
+    "keel-h3-turbo",
+    "minimax"
+  ],
   "relevance": "Shows a single-Spark deployment recipe for a max-tier open model with a measured 3x speedup."
 }

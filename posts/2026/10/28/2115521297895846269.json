@@ -24,6 +24,9 @@
     "agentic-cognition",
     "harness-dev"
   ],
+  "keywords": [
+    "memory-injection"
+  ],
   "relevance": "Persistent memory turns prompt injection into a lasting compromise: a harness security concern.",
   "media": [
     {

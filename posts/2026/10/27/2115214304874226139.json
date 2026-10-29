@@ -23,5 +23,13 @@
   "topics": [
     "agentic-media"
   ],
+  "keywords": [
+    "playcanva",
+    "supersplat",
+    "webmcp",
+    "gaussian-splat",
+    "supersplat-3-7",
+    "release-v3-7-0-playcanva-supersplat"
+  ],
   "relevance": "Browser-native MCP tooling for 3D scene editing — agents operating a real 3D editor rather than generating files blind."
 }

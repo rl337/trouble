@@ -23,5 +23,8 @@
   "topics": [
     "local-models"
   ],
+  "keywords": [
+    "lfm3"
+  ],
   "relevance": "Tiny local model availability for on-device agent subtasks."
 }

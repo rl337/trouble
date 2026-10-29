@@ -53,5 +53,13 @@
   "topics": [
     "harness-dev"
   ],
+  "keywords": [
+    "multi-agent",
+    "openai",
+    "team-commonly",
+    "commonly",
+    "30-agent",
+    "write-ups"
+  ],
   "relevance": "Operational lessons from a sizable real multi-agent setup."
 }

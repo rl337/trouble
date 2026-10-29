@@ -23,5 +23,10 @@
   "topics": [
     "agentic-media"
   ],
+  "keywords": [
+    "build123d-mcp",
+    "apache-2",
+    "github-pzfreo-build123d-mcp"
+  ],
   "relevance": "Code-CAD exposed to agents with measurement and render feedback loops."
 }

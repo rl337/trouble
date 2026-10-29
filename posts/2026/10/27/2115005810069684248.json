@@ -23,5 +23,8 @@
   "topics": [
     "agentic-cognition"
   ],
+  "keywords": [
+    "deploybench"
+  ],
   "relevance": "Highlights premature success claims in research-reproduction agents."
 }

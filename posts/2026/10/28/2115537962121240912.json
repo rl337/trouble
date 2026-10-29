@@ -23,6 +23,10 @@
   "topics": [
     "agentic-cognition"
   ],
+  "keywords": [
+    "scivaliditybench",
+    "the-right-fact-the-wrong-decision"
+  ],
   "relevance": "Tests whether retrieved memories lead to valid scientific decisions.",
   "media": [
     {

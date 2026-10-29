@@ -23,6 +23,9 @@
   "topics": [
     "harness-dev"
   ],
+  "keywords": [
+    "the-hidden-cost-of-forgetting"
+  ],
   "relevance": "What coding agents lose when past trajectory is pruned.",
   "media": [
     {

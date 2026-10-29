@@ -23,6 +23,10 @@
   "topics": [
     "harness-dev"
   ],
+  "keywords": [
+    "pixij",
+    "awesome-gamedev-agent-skill"
+  ],
   "relevance": "A large skill pack with a router pattern for domain-specific agent work.",
   "media": [
     {

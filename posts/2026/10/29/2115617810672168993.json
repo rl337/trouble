@@ -23,5 +23,12 @@
   "topics": [
     "harness-dev"
   ],
+  "keywords": [
+    "black-box",
+    "red-team",
+    "argus",
+    "apache-2",
+    "github-gy15901580825-argus"
+  ],
   "relevance": "System-level adversarial testing for agent harnesses."
 }

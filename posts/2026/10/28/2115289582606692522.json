@@ -29,5 +29,11 @@
   "topics": [
     "local-models"
   ],
+  "keywords": [
+    "tensorfold",
+    "mia-s-ai-lab",
+    "speed-ups",
+    "nvidia-s-technical-blog"
+  ],
   "relevance": "Two concrete, Spark-specific optimization sources for MoE reasoning models in exactly the hardware class Richard runs."
 }

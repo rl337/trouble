@@ -23,6 +23,12 @@
   "topics": [
     "harness-dev"
   ],
+  "keywords": [
+    "large-scale",
+    "agent-supported",
+    "human-authored",
+    "testing-with-coding-agent"
+  ],
   "relevance": "Evidence on how coding agents change testing practices in real PRs.",
   "media": [
     {

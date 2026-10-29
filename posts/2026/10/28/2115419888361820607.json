@@ -24,6 +24,9 @@
     "agentic-media",
     "agentic-cognition"
   ],
+  "keywords": [
+    "oneira"
+  ],
   "relevance": "Agent-maintained state plus generative rendering: a recipe for persistent interactive worlds.",
   "media": [
     {

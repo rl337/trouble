@@ -23,5 +23,10 @@
   "topics": [
     "harness-dev"
   ],
+  "keywords": [
+    "summarize-to-a4",
+    "open-sourced",
+    "github-smallyear-summarize-to-a4"
+  ],
   "relevance": "A small, reusable document-to-artifact skill."
 }

@@ -26,6 +26,15 @@
   "topics": [
     "agentic-media"
   ],
+  "keywords": [
+    "comfyui",
+    "reframe",
+    "restyle",
+    "agent-mode",
+    "all-in-one",
+    "auto-create",
+    "open-sourced"
+  ],
   "relevance": "An open, ComfyUI-based agentic video studio — storyboard-to-shots with an agent in the loop.",
   "media": [
     {

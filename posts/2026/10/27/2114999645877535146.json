@@ -23,5 +23,10 @@
   "topics": [
     "agentic-media"
   ],
+  "keywords": [
+    "anime-sery-maker",
+    "one-line",
+    "github-mayzmei-anime-sery-maker"
+  ],
   "relevance": "An end-to-end agentic animation pipeline packaged as a skill."
 }

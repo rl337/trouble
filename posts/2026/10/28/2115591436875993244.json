@@ -24,5 +24,6 @@
     "harness-dev",
     "local-models"
   ],
+  "keywords": [],
   "relevance": "A side-by-side of local-first coding agents for picking a harness."
 }

@@ -23,5 +23,8 @@
   "topics": [
     "local-models"
   ],
+  "keywords": [
+    "qwen-3-8-fp4"
+  ],
   "relevance": "A data point on OS choice for GB10-class hardware: Linux still wins for FP4 Qwen inference."
 }

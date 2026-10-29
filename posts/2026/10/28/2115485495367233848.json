@@ -25,5 +25,9 @@
   "topics": [
     "agentic-cognition"
   ],
+  "keywords": [
+    "whatif",
+    "large-scale"
+  ],
   "relevance": "Tooling for inspecting and reasoning about many-agent simulations."
 }

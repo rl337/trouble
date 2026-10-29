@@ -38,6 +38,15 @@
   "topics": [
     "agentic-media"
   ],
+  "keywords": [
+    "seam",
+    "comfyui",
+    "open-weight",
+    "in-between",
+    "ltx-2",
+    "self-reply",
+    "seam-two-shot-in-one-transition-out"
+  ],
   "relevance": "Open, local transitions as reproducible workflows that a coding agent can drive over MCP.",
   "media": [
     {

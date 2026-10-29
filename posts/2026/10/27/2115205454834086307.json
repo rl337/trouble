@@ -23,6 +23,10 @@
   "topics": [
     "agentic-media"
   ],
+  "keywords": [
+    "blender-lab-mcp-server",
+    "mcp-server-blender"
+  ],
   "relevance": "Evidence of Blender's own MCP server being used for agent-driven 3D work.",
   "media": [
     {

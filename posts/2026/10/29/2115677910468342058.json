@@ -47,5 +47,10 @@
   "topics": [
     "harness-dev"
   ],
+  "keywords": [
+    "warden-ai",
+    "zero-trust",
+    "self-thread"
+  ],
   "relevance": "Human-in-the-loop policy enforcement for local coding agents."
 }

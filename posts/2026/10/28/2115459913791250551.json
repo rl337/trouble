@@ -23,6 +23,13 @@
   "topics": [
     "local-models"
   ],
+  "keywords": [
+    "fujitsupolycom",
+    "sparkring",
+    "deepseek",
+    "deepseek-v4-1-flash-1017",
+    "github-fujitsupolycom-sparkring"
+  ],
   "relevance": "Long-context prefill numbers and a multi-Spark transport repo for serving a frontier MoE locally.",
   "media": [
     {

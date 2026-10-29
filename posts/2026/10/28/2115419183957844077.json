@@ -36,6 +36,13 @@
   "topics": [
     "agentic-cognition"
   ],
+  "keywords": [
+    "in-run",
+    "meta-agent",
+    "rsi-opt",
+    "self-improvement",
+    "self-reply"
+  ],
   "relevance": "Agents that improve the training optimizer itself.",
   "media": [
     {

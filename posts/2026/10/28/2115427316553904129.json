@@ -33,5 +33,14 @@
   "topics": [
     "harness-dev"
   ],
+  "keywords": [
+    "ai-memory",
+    "opencode",
+    "grep-able",
+    "hand-off",
+    "long-term",
+    "single-rust-binary",
+    "github-akitaonrail-ai-memory"
+  ],
   "relevance": "A detailed cross-agent memory and hand-off design with default zero-LLM-call capture."
 }

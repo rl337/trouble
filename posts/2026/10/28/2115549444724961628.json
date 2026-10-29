@@ -23,6 +23,12 @@
     "local-models",
     "harness-dev"
   ],
+  "keywords": [
+    "megatron-lm",
+    "qwen3-30b-a3b",
+    "swe-bench",
+    "mile-on-amd-mi355x"
+  ],
   "relevance": "Agentic RL recipe for exactly the ~30B-A3B model class that runs locally.",
   "media": [
     {

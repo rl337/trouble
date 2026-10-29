@@ -23,5 +23,9 @@
   "topics": [
     "harness-dev"
   ],
+  "keywords": [
+    "terminal-bench",
+    "test-time"
+  ],
   "relevance": "Quantifies the value of a reviewer step in a harness."
 }

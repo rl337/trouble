@@ -29,6 +29,14 @@
   "topics": [
     "harness-dev"
   ],
+  "keywords": [
+    "alibaba-aaig",
+    "v$^3$ast-bench",
+    "vast-bench",
+    "v3ast",
+    "v3ast-bench",
+    "github-alibaba-aaig-vast-bench"
+  ],
   "relevance": "An open safety benchmark specific to coding agents.",
   "media": [
     {

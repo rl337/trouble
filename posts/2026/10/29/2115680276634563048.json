@@ -24,5 +24,12 @@
     "local-models",
     "harness-dev"
   ],
+  "keywords": [
+    "nanbeige4.3-33b",
+    "agentic-coding",
+    "swe-bench",
+    "terminal-bench",
+    "vendor-reported"
+  ],
   "relevance": "A fresh ~33B agent-oriented challenger to the Qwen 27–30B tier that fits a Spark."
 }

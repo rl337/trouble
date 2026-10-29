@@ -29,5 +29,13 @@
   "topics": [
     "harness-dev"
   ],
+  "keywords": [
+    "flow-os",
+    "flowo",
+    "manus-style",
+    "open-sourced",
+    "flowo-ai-research-workspace",
+    "github-alexbieber-flow-os"
+  ],
   "relevance": "An open deep-research agent architecture with sandboxed code execution."
 }

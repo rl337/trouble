@@ -265,7 +265,7 @@ def collect_raw_terms_for_post(
         topic = topics_by_slug.get(str(slug))
         if topic:
             raw.append(topic.title)
-    if data.get("keywords"):
+    if "keywords" in data:
         raw.extend(str(k) for k in data["keywords"])
     else:
         raw.extend(collect_raw_noun_candidates(data))
@@ -317,7 +317,7 @@ def normalized_index_terms_for_post(
                 seen.add(topic_norm)
                 ordered.append(topic_norm)
 
-    if data.get("keywords"):
+    if "keywords" in data:
         for kw in data["keywords"]:
             add_raw(str(kw))
     else:

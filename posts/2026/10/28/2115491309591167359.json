@@ -23,5 +23,9 @@
   "topics": [
     "harness-dev"
   ],
+  "keywords": [
+    "built-in",
+    "open-source"
+  ],
   "relevance": "An open harness being adopted as a pluggable provider by another coding front end."
 }

@@ -23,6 +23,12 @@
   "topics": [
     "harness-dev"
   ],
+  "keywords": [
+    "ezzati-jivan",
+    "fixed-length",
+    "kernel-trace",
+    "context-is-a-pipeline-not-a-window"
+  ],
   "relevance": "A concrete harness bug class: tool-output truncation silently hiding evidence.",
   "media": [
     {

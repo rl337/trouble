@@ -23,6 +23,14 @@
   "topics": [
     "agentic-cognition"
   ],
+  "keywords": [
+    "closed-loop",
+    "llm-agent",
+    "llm-driven",
+    "moving-horizon",
+    "two-level",
+    "isolation-peeling"
+  ],
   "relevance": "Agentic scientific model discovery in an engineering domain.",
   "media": [
     {

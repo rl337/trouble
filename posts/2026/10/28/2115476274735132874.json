@@ -24,6 +24,12 @@
     "harness-dev",
     "local-models"
   ],
+  "keywords": [
+    "tadpole",
+    "post-trained",
+    "qwen3-4b",
+    "github-shakewingo-tadpole"
+  ],
   "relevance": "An end-to-end small-model agent plus post-training recipe that is fully open.",
   "media": [
     {

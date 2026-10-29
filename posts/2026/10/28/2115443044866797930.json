@@ -23,5 +23,9 @@
   "topics": [
     "local-models"
   ],
+  "keywords": [
+    "cuda",
+    "llama.cpp"
+  ],
   "relevance": "A free kernel-level speed-up for MoE models on exactly Richard's hardware via the most common local runtime."
 }

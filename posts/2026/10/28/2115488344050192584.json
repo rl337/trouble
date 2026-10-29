@@ -42,6 +42,15 @@
   "topics": [
     "agentic-cognition"
   ],
+  "keywords": [
+    "nanodreamer",
+    "750k-parameter",
+    "actor-critic",
+    "dreamer-inspired",
+    "self-thread",
+    "world-model",
+    "write-up"
+  ],
   "relevance": "A tiny, local, readable world-model agent: a good entry point to imagination-based agents.",
   "media": [
     {

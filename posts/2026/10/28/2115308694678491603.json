@@ -23,5 +23,11 @@
   "topics": [
     "local-models"
   ],
+  "keywords": [
+    "ling-3",
+    "ling-3.1-flash-1019",
+    "byte-identical",
+    "model-path"
+  ],
   "relevance": "A silent model-card pitfall for anyone serving Ling locally."
 }

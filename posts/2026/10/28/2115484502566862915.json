@@ -24,5 +24,9 @@
     "agentic-media",
     "harness-dev"
   ],
+  "keywords": [
+    "mk-video-editing",
+    "open-sourced"
+  ],
   "relevance": "A complete agentic video-editing pipeline as a coding-agent skill."
 }

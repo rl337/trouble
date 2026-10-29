@@ -50,5 +50,14 @@
   "topics": [
     "local-models"
   ],
+  "keywords": [
+    "minimax",
+    "minimax-m3.1-flash",
+    "multi-gpu",
+    "self-hosted",
+    "self-hosting",
+    "self-thread",
+    "minimax-m3-1-flash"
+  ],
   "relevance": "License and hardware due-diligence for a max-tier open model before committing to self-hosting."
 }

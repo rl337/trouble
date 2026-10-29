@@ -23,6 +23,10 @@
   "topics": [
     "agentic-cognition"
   ],
+  "keywords": [
+    "evorobust",
+    "neurip"
+  ],
   "relevance": "A limit on self-verification that matters for agent self-checking.",
   "media": [
     {

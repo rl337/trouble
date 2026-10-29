@@ -30,5 +30,8 @@
   "topics": [
     "agentic-media"
   ],
+  "keywords": [
+    "meshy-s-herme-agent-plugin"
+  ],
   "relevance": "Agent-to-physical-fabrication pipeline via a harness plugin."
 }

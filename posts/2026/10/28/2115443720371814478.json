@@ -36,6 +36,11 @@
   "topics": [
     "harness-dev"
   ],
+  "keywords": [
+    "deepseek",
+    "response-api",
+    "self-thread"
+  ],
   "relevance": "Another major vendor adopting a Responses-style agent API, plus hosted open models for subagents.",
   "media": [
     {

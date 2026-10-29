@@ -23,6 +23,11 @@
   "topics": [
     "harness-dev"
   ],
+  "keywords": [
+    "skillspector",
+    "nvidia-skillspector",
+    "open-source"
+  ],
   "relevance": "A vendor-backed scanner for the skill/MCP supply chain.",
   "media": [
     {

@@ -37,5 +37,13 @@
     "harness-dev",
     "agentic-cognition"
   ],
+  "keywords": [
+    "100-task",
+    "follow-ups",
+    "kv-cache",
+    "re-prefill",
+    "threshold-triggered",
+    "cache-engineering-for-agent"
+  ],
   "relevance": "Moves context management from prompt hacks into the serving layer."
 }

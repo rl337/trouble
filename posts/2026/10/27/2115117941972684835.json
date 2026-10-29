@@ -24,6 +24,13 @@
     "harness-dev",
     "agentic-cognition"
   ],
+  "keywords": [
+    "mirl",
+    "paper-page-mirl",
+    "terminal-bench",
+    "tmax-4b",
+    "misbehavior-driven"
+  ],
   "relevance": "Error-targeted RL for small terminal agents — relevant to local coding models.",
   "media": [
     {

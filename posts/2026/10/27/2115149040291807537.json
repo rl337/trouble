@@ -29,5 +29,10 @@
   "topics": [
     "agentic-cognition"
   ],
+  "keywords": [
+    "searchhorizonbench",
+    "github",
+    "github-ethanning-searchhorizonbench"
+  ],
   "relevance": "Cost-aware search decisions for research agents."
 }

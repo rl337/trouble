@@ -26,5 +26,11 @@
     "agentic-cognition",
     "local-models"
   ],
+  "keywords": [
+    "computer-use",
+    "fixed-interface",
+    "agent-s4-evolving-agent-interface",
+    "evolving-agent-interface"
+  ],
   "relevance": "Big computer-use gains for a local-class 27B model from interface evolution alone."
 }

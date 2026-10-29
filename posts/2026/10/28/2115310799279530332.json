@@ -25,6 +25,13 @@
   "topics": [
     "harness-dev"
   ],
+  "keywords": [
+    "oh-my-herme",
+    "long-term",
+    "multi-model",
+    "one-line",
+    "memory-management"
+  ],
   "relevance": "An opinionated Hermes Agent distribution to mine for skills and routing ideas.",
   "media": [
     {

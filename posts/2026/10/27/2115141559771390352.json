@@ -23,6 +23,15 @@
   "topics": [
     "local-models"
   ],
+  "keywords": [
+    "deepseek",
+    "tensorfold",
+    "ai-muninn",
+    "single-stream",
+    "write-up",
+    "deepseek-v4-1-flash",
+    "time-to-first-token"
+  ],
   "relevance": "A measured recipe for running a model that exceeds one Spark's memory by pairing two units, with head-to-head numbers against the Qwen3.8 Flash tier.",
   "media": [
     {

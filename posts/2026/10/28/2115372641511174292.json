@@ -23,5 +23,9 @@
   "topics": [
     "harness-dev"
   ],
+  "keywords": [
+    "work",
+    "open-source"
+  ],
   "relevance": "A browser-centric take on an agent orchestration workspace."
 }

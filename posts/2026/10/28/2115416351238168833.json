@@ -29,6 +29,10 @@
   "topics": [
     "agentic-cognition"
   ],
+  "keywords": [
+    "self-improving",
+    "build-don-t-play"
+  ],
   "relevance": "Agents choosing to build tools (a simulator) rather than brute-force play is a vivid example of agentic problem-solving strategy.",
   "media": [
     {

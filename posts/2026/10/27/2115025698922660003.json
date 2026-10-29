@@ -28,5 +28,11 @@
   "topics": [
     "harness-dev"
   ],
+  "keywords": [
+    "github",
+    "openai",
+    "agent-skill",
+    "agent-skill-overview-agent-skill"
+  ],
   "relevance": "Governance change for the SKILL.md standard that harness builders depend on."
 }

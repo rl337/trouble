@@ -23,5 +23,9 @@
   "topics": [
     "harness-dev"
   ],
+  "keywords": [
+    "cli",
+    "open-sourced"
+  ],
   "relevance": "An agent-invoked repo scanner designed to be auditable."
 }

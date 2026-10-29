@@ -23,6 +23,9 @@
   "topics": [
     "agentic-media"
   ],
+  "keywords": [
+    "awesome-opus5-5-video"
+  ],
   "relevance": "A large prompt corpus for code-generated video, useful as reference material.",
   "media": [
     {

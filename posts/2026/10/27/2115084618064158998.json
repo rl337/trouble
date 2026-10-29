@@ -29,5 +29,10 @@
   "topics": [
     "harness-dev"
   ],
+  "keywords": [
+    "context-mode",
+    "home",
+    "github-mksglu-context-mode"
+  ],
   "relevance": "Context-window hygiene for long coding sessions."
 }

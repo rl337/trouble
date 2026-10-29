@@ -23,6 +23,13 @@
   "topics": [
     "agentic-media"
   ],
+  "keywords": [
+    "explainspec",
+    "free-form",
+    "llm-generated",
+    "qwen3-14b",
+    "shorter-is-not-cheaper"
+  ],
   "relevance": "Challenges assumptions about constrained formats for agent-generated visuals.",
   "media": [
     {

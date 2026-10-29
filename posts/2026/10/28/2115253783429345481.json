@@ -23,5 +23,8 @@
   "topics": [
     "local-models"
   ],
+  "keywords": [
+    "local-llm"
+  ],
   "relevance": "Hardware-aware local model setup tooling."
 }

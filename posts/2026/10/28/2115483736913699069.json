@@ -30,5 +30,9 @@
   "topics": [
     "local-models"
   ],
+  "keywords": [
+    "counsel-27b",
+    "follow-up"
+  ],
   "relevance": "A ~30B open model explicitly tuned for shorter reasoning and tool use: the agent-friendly trade-off."
 }

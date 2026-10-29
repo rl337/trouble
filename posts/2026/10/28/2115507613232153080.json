@@ -23,6 +23,10 @@
   "topics": [
     "harness-dev"
   ],
+  "keywords": [
+    "repotrace",
+    "multi-round"
+  ],
   "relevance": "Keeps coding agents tied to requirements over many turns.",
   "media": [
     {

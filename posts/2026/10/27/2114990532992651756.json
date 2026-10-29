@@ -23,6 +23,13 @@
   "topics": [
     "local-models"
   ],
+  "keywords": [
+    "atria-dawn",
+    "automationbench",
+    "cybergym",
+    "skillsbench",
+    "widesearch"
+  ],
   "relevance": "A new open agent-oriented model with FP8 weights and SGLang/vLLM recipes — a candidate for the agent-friendly open model list.",
   "media": [
     {

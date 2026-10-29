@@ -23,6 +23,9 @@
   "topics": [
     "harness-dev"
   ],
+  "keywords": [
+    "probe"
+  ],
   "relevance": "Highlights mismatch between agent bug-finding and maintainer priorities.",
   "media": [
     {

@@ -23,5 +23,9 @@
   "topics": [
     "harness-dev"
   ],
+  "keywords": [
+    "swe-bench",
+    "what-doe-a-harness-buy-token-mostly"
+  ],
   "relevance": "Direct evidence that harness prompt design dominates cost."
 }

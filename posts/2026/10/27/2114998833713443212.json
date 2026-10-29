@@ -23,6 +23,13 @@
   "topics": [
     "harness-dev"
   ],
+  "keywords": [
+    "deepseek",
+    "deepseek-bot",
+    "alway-on",
+    "mit-licensed",
+    "one-line"
+  ],
   "relevance": "Shows how a CLI agent harness gets extended into a persistent, chat-connected personal agent with memory.",
   "media": [
     {

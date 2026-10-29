@@ -34,5 +34,8 @@
   "topics": [
     "harness-dev"
   ],
+  "keywords": [
+    "deslop"
+  ],
   "relevance": "Small, inspectable SKILL.md examples for agent output style."
 }

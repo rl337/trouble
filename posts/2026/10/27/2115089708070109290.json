@@ -23,5 +23,9 @@
   "topics": [
     "harness-dev"
   ],
+  "keywords": [
+    "server",
+    "mcp-server-fetch"
+  ],
   "relevance": "Security patch notice for a widely used MCP server."
 }

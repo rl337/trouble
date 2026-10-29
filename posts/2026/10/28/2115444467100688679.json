@@ -79,6 +79,10 @@
     "harness-dev",
     "agentic-cognition"
   ],
+  "keywords": [
+    "afterdeletebench",
+    "self-thread"
+  ],
   "relevance": "Shows deletion in agent memory systems is often not real forgetting.",
   "media": [
     {

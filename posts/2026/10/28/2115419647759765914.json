@@ -23,5 +23,8 @@
   "topics": [
     "agentic-cognition"
   ],
+  "keywords": [
+    "hybrid-reasoning-agent"
+  ],
   "relevance": "Latent reasoning as an efficiency lever for tool-using agents."
 }

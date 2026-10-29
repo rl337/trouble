@@ -23,5 +23,10 @@
   "topics": [
     "local-models"
   ],
+  "keywords": [
+    "nanbeige4.3-33b",
+    "swe-bench",
+    "terminal-bench"
+  ],
   "relevance": "A sober take on a new ~30B reasoning model, including its real memory footprint."
 }

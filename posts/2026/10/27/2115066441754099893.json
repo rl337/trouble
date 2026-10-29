@@ -23,5 +23,10 @@
   "topics": [
     "local-models"
   ],
+  "keywords": [
+    "d3-ultra",
+    "apache-2",
+    "vllm-sr-d3-ultra-hugging-face"
+  ],
   "relevance": "A ~27B open classifier-style model for routing and judging inside agent stacks."
 }

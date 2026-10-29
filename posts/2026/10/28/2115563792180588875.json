@@ -30,6 +30,11 @@
     "agentic-media",
     "agentic-cognition"
   ],
+  "keywords": [
+    "hy-noma",
+    "free-form",
+    "paper-page-hy-noma"
+  ],
   "relevance": "An interactive world-generation model with a runnable demo.",
   "media": [
     {

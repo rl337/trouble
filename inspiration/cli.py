@@ -13,6 +13,7 @@ from inspiration.media_assets import (
     copy_post_media_to_site,
     stage_post_media_for_sphinx,
 )
+from inspiration.keywords_backfill import backfill_keywords_in_tree
 from inspiration.posts import load_posts, validate_all_posts, validate_json_files
 from inspiration.sitegen import generate_sphinx_sources
 from inspiration.state import validate_state_file
@@ -57,6 +58,23 @@ def cmd_validate(args: argparse.Namespace) -> int:
         print("\n".join(errors), file=sys.stderr)
         return 1
     print("All posts valid.")
+    return 0
+
+
+def cmd_backfill_keywords(args: argparse.Namespace) -> int:
+    posts_root = Path(args.posts)
+    schema = Path(args.schema)
+    topics = Path(args.topics)
+    count, errors = backfill_keywords_in_tree(
+        posts_root,
+        schema_path=schema,
+        topics_path=topics,
+        repo_root=REPO_ROOT,
+    )
+    if errors:
+        print("\n".join(errors), file=sys.stderr)
+        return 1
+    print(f"Backfilled keywords on {count} posts.")
     return 0
 
 
@@ -114,6 +132,15 @@ def main(argv: list[str] | None = None) -> int:
     p_build.add_argument("--schema", default=str(DEFAULT_SCHEMA))
     p_build.add_argument("--topics", default=str(DEFAULT_TOPICS))
     p_build.set_defaults(func=cmd_build)
+
+    p_kw = sub.add_parser(
+        "backfill-keywords",
+        help="Write curated normalized keywords into post JSON (does not change updated_at)",
+    )
+    p_kw.add_argument("--posts", default=str(DEFAULT_POSTS))
+    p_kw.add_argument("--schema", default=str(DEFAULT_SCHEMA))
+    p_kw.add_argument("--topics", default=str(DEFAULT_TOPICS))
+    p_kw.set_defaults(func=cmd_backfill_keywords)
 
     args = parser.parse_args(argv)
     return int(args.func(args))

@@ -23,5 +23,10 @@
   "topics": [
     "local-models"
   ],
+  "keywords": [
+    "ninfer-kvmem-async",
+    "apache-2",
+    "github-paicat1-ninfer-kvmem-async"
+  ],
   "relevance": "KV offload technique for long-context ~27B models on small GPUs."
 }

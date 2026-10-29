@@ -23,6 +23,12 @@
   "topics": [
     "harness-dev"
   ],
+  "keywords": [
+    "opencode",
+    "opencode-v2-2-0",
+    "decision-generation",
+    "opencode-changelog"
+  ],
   "relevance": "Tracks an open coding-agent harness growing a plugin ecosystem.",
   "media": [
     {

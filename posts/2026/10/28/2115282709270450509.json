@@ -23,6 +23,11 @@
   "topics": [
     "harness-dev"
   ],
+  "keywords": [
+    "pytorch",
+    "project-goal",
+    "from-gpu-to-tpu-with-coding-agent"
+  ],
   "relevance": "Realistic measure of agent reliability on infrastructure migrations.",
   "media": [
     {

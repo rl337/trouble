@@ -23,5 +23,12 @@
     "harness-dev",
     "agentic-media"
   ],
+  "keywords": [
+    "odot",
+    "apache-2",
+    "game-dev",
+    "open-source",
+    "awesome-game-dev-agent-skill"
+  ],
   "relevance": "A skill-routing pattern for domain-specific coding agents in game development."
 }

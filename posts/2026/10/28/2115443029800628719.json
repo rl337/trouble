@@ -23,5 +23,10 @@
   "topics": [
     "harness-dev"
   ],
+  "keywords": [
+    "self-hosted",
+    "shiba",
+    "open-source"
+  ],
   "relevance": "A serverless, self-hosted coding-agent architecture on edge primitives."
 }

@@ -34,5 +34,11 @@
   "topics": [
     "agentic-cognition"
   ],
+  "keywords": [
+    "self-direction",
+    "self-directed",
+    "don-t-forget-what-you-just-learned",
+    "self-direction-project-website"
+  ],
   "relevance": "A cheap, non-RL path to agents that learn from their own mistakes."
 }

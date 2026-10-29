@@ -23,5 +23,12 @@
   "topics": [
     "harness-dev"
   ],
+  "keywords": [
+    "deepseek",
+    "github",
+    "deepseek-harness",
+    "deepseek-harness-v0-2-2-alpha-2",
+    "release-deepseek-ai-deepseek-harness"
+  ],
   "relevance": "Release-level changes in a major lab's open agent harness, including delegation to local CLIs."
 }

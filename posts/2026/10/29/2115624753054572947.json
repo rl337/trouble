@@ -23,6 +23,9 @@
   "topics": [
     "harness-dev"
   ],
+  "keywords": [
+    "stratum"
+  ],
   "relevance": "Repo-level memory design for long-running coding agents.",
   "media": [
     {

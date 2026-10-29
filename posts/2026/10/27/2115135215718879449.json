@@ -29,6 +29,13 @@
     "agentic-media",
     "agentic-cognition"
   ],
+  "keywords": [
+    "agentdreamer",
+    "text-controllable",
+    "motion-ig",
+    "off-the-shelf",
+    "information-theoretic"
+  ],
   "relevance": "Agent-planned, physics-grounded 3D animation from text — a concrete bridge between LLM planning and simulation-driven motion.",
   "media": [
     {

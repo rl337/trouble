@@ -30,6 +30,14 @@
   "topics": [
     "local-models"
   ],
+  "keywords": [
+    "darkmux-eval",
+    "follow-up",
+    "invoice-coding",
+    "iq-mlx",
+    "mlx-serve",
+    "site-scrape"
+  ],
   "relevance": "Task-level (not just tok/s) evals of the largest single-machine Qwen tier, useful for judging agent fitness locally.",
   "media": [
     {

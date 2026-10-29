@@ -28,5 +28,8 @@
   "topics": [
     "harness-dev"
   ],
+  "keywords": [
+    "the-agent-skill-directory"
+  ],
   "relevance": "Ecosystem-level data on agent-skill risk by category."
 }

@@ -23,6 +23,10 @@
   "topics": [
     "agentic-cognition"
   ],
+  "keywords": [
+    "multi-agent",
+    "replication-or-corroboration"
+  ],
   "relevance": "Formalizes when agreeing agents are really independent evidence.",
   "media": [
     {

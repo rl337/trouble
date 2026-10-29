@@ -26,5 +26,13 @@
   "topics": [
     "harness-dev"
   ],
+  "keywords": [
+    "deepseek",
+    "deepseek-memory",
+    "long-term",
+    "open-source",
+    "plain-file",
+    "two-tier"
+  ],
   "relevance": "Another concrete memory design for coding-agent harnesses that can be compared with other session-persistence approaches."
 }

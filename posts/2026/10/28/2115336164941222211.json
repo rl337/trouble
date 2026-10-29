@@ -23,6 +23,11 @@
   "topics": [
     "harness-dev"
   ],
+  "keywords": [
+    "hsc-bench",
+    "same-length",
+    "tool-state"
+  ],
   "relevance": "Guidance on what to pass between agents at handoff.",
   "media": [
     {

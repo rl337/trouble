@@ -23,6 +23,7 @@
   "topics": [
     "harness-dev"
   ],
+  "keywords": [],
   "relevance": "Evaluates agents on writing tests that actually check required behavior.",
   "media": [
     {

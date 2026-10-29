@@ -23,6 +23,12 @@
   "topics": [
     "harness-dev"
   ],
+  "keywords": [
+    "os-level",
+    "single-tool",
+    "tamper-proof",
+    "ring-0-by-default"
+  ],
   "relevance": "Maps missing OS-style protections in coding-agent CLIs, with concrete bypasses.",
   "media": [
     {

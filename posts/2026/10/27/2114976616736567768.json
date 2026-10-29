@@ -23,5 +23,13 @@
   "topics": [
     "local-models"
   ],
+  "keywords": [
+    "frigadehq",
+    "gpt-oss",
+    "open-weight",
+    "hob",
+    "mit-licensed",
+    "github-frigadehq-hob"
+  ],
   "relevance": "A turnkey local-inference front end that auto-sizes models to hardware."
 }

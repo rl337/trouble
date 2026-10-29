@@ -23,6 +23,10 @@
   "topics": [
     "harness-dev"
   ],
+  "keywords": [
+    "deltadb",
+    "claude-code-is-now-multiplayer"
+  ],
   "relevance": "Shared-session collaboration as a harness feature.",
   "media": [
     {

@@ -45,5 +45,13 @@
   "topics": [
     "harness-dev"
   ],
+  "keywords": [
+    "agent-bridge-mcp",
+    "learn-harness-engineering",
+    "spec-kit",
+    "leanrea",
+    "safemcp",
+    "step-by-step"
+  ],
   "relevance": "A minimal, practical harness-engineering template for coding agents."
 }

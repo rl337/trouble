@@ -23,6 +23,10 @@
   "topics": [
     "harness-dev"
   ],
+  "keywords": [
+    "coding-agent",
+    "continue-or-restart"
+  ],
   "relevance": "Informs when a harness should abort and retry an agent run.",
   "media": [
     {

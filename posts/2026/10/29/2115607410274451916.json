@@ -37,5 +37,14 @@
   "topics": [
     "local-models"
   ],
+  "keywords": [
+    "github",
+    "mlx",
+    "opensourcewtf",
+    "turboexl3",
+    "mlx-serve",
+    "qwen3.8-flash-next-exl3",
+    "exl3-via-turboexl3"
+  ],
   "relevance": "An alternative quant/runtime path for Mac local inference with repos and weights to try."
 }

@@ -55,5 +55,16 @@
     "harness-dev",
     "local-models"
   ],
+  "keywords": [
+    "re-runnable",
+    "stepswitch",
+    "cross-family",
+    "gpt-oss-120b",
+    "mini-swe-agent",
+    "open-source",
+    "self-hosted",
+    "small-suite",
+    "swe-bench"
+  ],
   "relevance": "Evidence-first local-model coding harness with candid benchmark reporting."
 }

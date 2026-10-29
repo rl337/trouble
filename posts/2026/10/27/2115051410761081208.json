@@ -37,6 +37,14 @@
   "topics": [
     "agentic-cognition"
   ],
+  "keywords": [
+    "dynaflow",
+    "free-form",
+    "multi-agent",
+    "follow-up",
+    "self-refine",
+    "sub-agent"
+  ],
   "relevance": "Learned, selective orchestration (knowing when *not* to spawn agents) is a key cognition skill for agent systems.",
   "media": [
     {

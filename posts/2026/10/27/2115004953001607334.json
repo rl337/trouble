@@ -31,6 +31,11 @@
     "agentic-cognition",
     "harness-dev"
   ],
+  "keywords": [
+    "auto-research",
+    "follow-up",
+    "auto-research-arena"
+  ],
   "relevance": "Benchmarks auto-research harnesses on open-ended discovery and shows agent-found ideas compounding into measurable gains.",
   "media": [
     {

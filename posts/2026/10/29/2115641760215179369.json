@@ -23,5 +23,9 @@
   "topics": [
     "harness-dev"
   ],
+  "keywords": [
+    "skill-selector",
+    "github-zorosec-skill-selector"
+  ],
   "relevance": "Makes skill loading explicit and controllable in a harness."
 }

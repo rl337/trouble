@@ -23,6 +23,10 @@
   "topics": [
     "agentic-cognition"
   ],
+  "keywords": [
+    "multi-agent",
+    "emma"
+  ],
   "relevance": "Episodic memory used to build multi-agent workflows.",
   "media": [
     {

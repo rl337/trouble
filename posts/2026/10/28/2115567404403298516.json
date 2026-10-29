@@ -22,5 +22,9 @@
     "local-models",
     "harness-dev"
   ],
+  "keywords": [
+    "deepseek",
+    "step-by-step"
+  ],
   "relevance": "Concrete recipe for pointing a mainstream coding harness at a local max-tier model while sandboxing it."
 }

@@ -24,6 +24,17 @@
     "agentic-media",
     "local-models"
   ],
+  "keywords": [
+    "diffsynth",
+    "entropack",
+    "diffsynth-studio",
+    "moss-image",
+    "moss-image-entropack",
+    "comfyui",
+    "entropy-coded",
+    "pre-quantized",
+    "text-encoder"
+  ],
   "relevance": "Brings an open image model down to very small local GPUs.",
   "media": [
     {

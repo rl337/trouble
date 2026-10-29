@@ -23,6 +23,11 @@
   "topics": [
     "local-models"
   ],
+  "keywords": [
+    "deepseek",
+    "ds4",
+    "github-antirez-ds4"
+  ],
   "relevance": "A lean, purpose-built engine for running max-tier open models on a single Spark or Mac.",
   "media": [
     {

@@ -23,6 +23,11 @@
   "topics": [
     "agentic-cognition"
   ],
+  "keywords": [
+    "insightagent",
+    "callison-burch",
+    "distill-debate-discover"
+  ],
   "relevance": "Grounds multi-agent creativity in literature-derived expertise, a concrete recipe for better AI ideation.",
   "media": [
     {

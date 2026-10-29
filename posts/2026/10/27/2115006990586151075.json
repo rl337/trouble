@@ -29,5 +29,12 @@
   "topics": [
     "agentic-media"
   ],
+  "keywords": [
+    "skill",
+    "open-source",
+    "self-reply",
+    "video-editing",
+    "filler-word-removal"
+  ],
   "relevance": "A lightweight starter skill for agent-driven screen-recording edits."
 }

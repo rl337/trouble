@@ -23,6 +23,9 @@
   "topics": [
     "harness-dev"
   ],
+  "keywords": [
+    "frontier-model"
+  ],
   "relevance": "Asks whether debugger tools still add value to strong coding agents.",
   "media": [
     {

@@ -28,5 +28,6 @@
   "topics": [
     "local-models"
   ],
+  "keywords": [],
   "relevance": "Supply-chain trust signal for anyone running Qwen weights locally: what was actually observed versus the panic."
 }

@@ -23,5 +23,8 @@
   "topics": [
     "agentic-cognition"
   ],
+  "keywords": [
+    "self-evolving"
+  ],
   "relevance": "Directly probes whether self-evolving agents genuinely accumulate competence — a central question for agent cognition."
 }

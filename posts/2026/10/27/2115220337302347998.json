@@ -75,6 +75,14 @@
   "topics": [
     "agentic-cognition"
   ],
+  "keywords": [
+    "alphabet",
+    "forecast-dojo",
+    "glm-4",
+    "mean-centering",
+    "real-world",
+    "proper-scoring-rule"
+  ],
   "relevance": "RL that improves an agent's research process, not just its final answer.",
   "media": [
     {

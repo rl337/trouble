@@ -126,5 +126,13 @@
     "agentic-cognition",
     "harness-dev"
   ],
+  "keywords": [
+    "langchain",
+    "continual-learning",
+    "llama-prompt-guard-2-86m",
+    "agent-companion-model",
+    "anatomy-of-a-harness",
+    "complementary-learning-system"
+  ],
   "relevance": "A conceptual case for models that learn alongside the harness."
 }

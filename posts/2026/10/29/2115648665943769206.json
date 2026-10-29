@@ -23,5 +23,10 @@
   "topics": [
     "harness-dev"
   ],
+  "keywords": [
+    "loopprism",
+    "zero-config",
+    "github-amark-cs-loopprism"
+  ],
   "relevance": "Local observability for coding-agent sessions."
 }

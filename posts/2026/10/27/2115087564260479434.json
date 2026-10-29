@@ -23,6 +23,13 @@
   "topics": [
     "local-models"
   ],
+  "keywords": [
+    "llamastash",
+    "local-llm",
+    "terminal-native",
+    "comfyui",
+    "llamastash-v0-10-0"
+  ],
   "relevance": "One proxy in front of many local inference engines is useful plumbing for agents that need chat, speech and image models locally.",
   "media": [
     {

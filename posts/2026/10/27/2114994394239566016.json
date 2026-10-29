@@ -24,6 +24,12 @@
     "agentic-media",
     "harness-dev"
   ],
+  "keywords": [
+    "github",
+    "pr-video",
+    "remotion",
+    "github-directionallyai-pr-video"
+  ],
   "relevance": "Agents producing video artifacts as part of code review is a practical crossover of agentic media and harness workflows.",
   "media": [
     {

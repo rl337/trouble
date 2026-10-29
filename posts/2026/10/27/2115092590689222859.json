@@ -24,6 +24,10 @@
     "local-models",
     "harness-dev"
   ],
+  "keywords": [
+    "opencode",
+    "tool-call"
+  ],
   "relevance": "A debugging checklist for running coding harnesses against local models.",
   "media": [
     {

@@ -23,6 +23,9 @@
   "topics": [
     "agentic-cognition"
   ],
+  "keywords": [
+    "searchhorizonbench"
+  ],
   "relevance": "Measures when more search actually helps an agent.",
   "media": [
     {

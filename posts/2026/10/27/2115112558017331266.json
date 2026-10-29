@@ -24,6 +24,10 @@
     "agentic-media",
     "agentic-cognition"
   ],
+  "keywords": [
+    "stateful-harness",
+    "state-world-model"
+  ],
   "relevance": "A harness-around-a-generator pattern that gives video world models consistent hidden state.",
   "media": [
     {

@@ -23,6 +23,11 @@
   "topics": [
     "harness-dev"
   ],
+  "keywords": [
+    "quality-constrained",
+    "neurip",
+    "the-physical-cost-of-context"
+  ],
   "relevance": "A framework for measuring what context actually costs coding agents.",
   "media": [
     {

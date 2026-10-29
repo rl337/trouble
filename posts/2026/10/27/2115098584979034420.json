@@ -24,5 +24,12 @@
     "local-models",
     "harness-dev"
   ],
+  "keywords": [
+    "deepseek",
+    "dsh-local-ai",
+    "apache-2",
+    "dsh-local-ai-0-2-23",
+    "github-perrylink-dsh-local-ai"
+  ],
   "relevance": "Concrete local-first routing for a coding harness, with cloud fallback semantics spelled out."
 }

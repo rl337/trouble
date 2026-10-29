@@ -23,6 +23,9 @@
   "topics": [
     "harness-dev"
   ],
+  "keywords": [
+    "featureloop"
+  ],
   "relevance": "Benchmarks multi-step requirement changes rather than one-shot tasks.",
   "media": [
     {

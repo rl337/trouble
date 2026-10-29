@@ -23,5 +23,11 @@
   "topics": [
     "harness-dev"
   ],
+  "keywords": [
+    "gitlab",
+    "flaky-test",
+    "re-run",
+    "siftwise-v0-2"
+  ],
   "relevance": "CI-side tooling that makes coding-agent test runs less noisy."
 }

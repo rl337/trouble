@@ -23,6 +23,11 @@
   "topics": [
     "local-models"
   ],
+  "keywords": [
+    "deepseek",
+    "75-bit",
+    "deepseek-v4-1-flash-1017"
+  ],
   "relevance": "Extreme low-bit quant makes a frontier MoE usable on an older Mac.",
   "media": [
     {

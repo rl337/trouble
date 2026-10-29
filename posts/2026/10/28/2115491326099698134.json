@@ -24,6 +24,11 @@
     "agentic-media",
     "agentic-cognition"
   ],
+  "keywords": [
+    "video-centered",
+    "beyond-watching-and-searching",
+    "video-centered-deep-research-report"
+  ],
   "relevance": "Evaluates research agents that must reason over video sources.",
   "media": [
     {

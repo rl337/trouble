@@ -23,6 +23,10 @@
   "topics": [
     "harness-dev"
   ],
+  "keywords": [
+    "coding-agent",
+    "ethic-by-configuration"
+  ],
   "relevance": "What people actually put in agent instruction files about ethics.",
   "media": [
     {

@@ -23,5 +23,9 @@
   "topics": [
     "agentic-media"
   ],
+  "keywords": [
+    "video-to-game",
+    "github-lovisdotio-video-to-game"
+  ],
   "relevance": "End-to-end multimodal generation orchestrated by a coding agent, with self-testing."
 }

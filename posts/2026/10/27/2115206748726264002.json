@@ -23,6 +23,9 @@
   "topics": [
     "agentic-cognition"
   ],
+  "keywords": [
+    "cauprophet"
+  ],
   "relevance": "Moves agent memory from recall toward a persistent, updatable causal model of the world — a core cognition question.",
   "media": [
     {

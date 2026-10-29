@@ -23,5 +23,10 @@
   "topics": [
     "harness-dev"
   ],
+  "keywords": [
+    "opencode",
+    "kora",
+    "github-koragraph-kora"
+  ],
   "relevance": "Unifies MCP config across multiple harnesses."
 }

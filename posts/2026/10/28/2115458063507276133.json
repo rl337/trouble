@@ -23,5 +23,10 @@
   "topics": [
     "harness-dev"
   ],
+  "keywords": [
+    "fine-tune",
+    "off-the-shelf",
+    "measuring-agent-in-production"
+  ],
   "relevance": "Ground truth on how production agents are actually built and evaluated."
 }

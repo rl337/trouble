@@ -23,5 +23,9 @@
   "topics": [
     "agentic-cognition"
   ],
+  "keywords": [
+    "short-term",
+    "language-model-need-sleep"
+  ],
   "relevance": "A self-modifying memory-consolidation idea for continual learning."
 }

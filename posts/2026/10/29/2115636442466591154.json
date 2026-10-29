@@ -23,6 +23,9 @@
   "topics": [
     "harness-dev"
   ],
+  "keywords": [
+    "agent-or-human"
+  ],
   "relevance": "Provenance detection for agent-written code.",
   "media": [
     {

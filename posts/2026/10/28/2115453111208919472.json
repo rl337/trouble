@@ -30,6 +30,10 @@
     "local-models",
     "harness-dev"
   ],
+  "keywords": [
+    "browser-use",
+    "qwen3.8-27b"
+  ],
   "relevance": "Agentic computer-use with a ~27B local model is exactly the 'agent-friendly mid-tier' workload a Spark is suited for.",
   "media": [
     {
