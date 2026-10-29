@@ -1,0 +1,38 @@
+{
+  "id": "2115141559771390352",
+  "permalink": "https://x.com/coolthor/status/2115141559771390352",
+  "author": {
+    "name": "Thor",
+    "handle": "@coolthor",
+    "profile_url": "https://x.com/coolthor"
+  },
+  "posted_at": "2026-10-27T18:00:19Z",
+  "collected_at": "2026-10-29T15:06:13Z",
+  "updated_at": "2026-10-29T15:06:13Z",
+  "thread": [],
+  "summary_md": "**Thor ([@coolthor](https://x.com/coolthor/status/2115141559771390352))** reports splitting **DeepSeek V4.1 Flash** across *two* DGX Sparks with TensorFold tensor parallelism (TP=2), since the weights are too large for a single box (~98 GiB per node per the attached graphic).\n\n- Single-stream code generation came out roughly 20% ahead of Qwen3.8-Flash-Next (about 111.5 vs 92.4 tok/s); single-stream Chinese was also ahead (59.2 vs 46.4 tok/s).\n- With 8 concurrent Chinese streams the two models were roughly tied (~150.6 vs 148.0 tok/s), and running with PARALLEL=8 cut time-to-first-token from ~8.6 s to ~1 s.\n- Thor's linked write-up on ai-muninn.com walks through the setup and the gotchas.",
+  "referenced_urls": [
+    {
+      "url": "https://ai-muninn.com/en/blog/deepseek-v41-flash-dual-dgx-spark-tensorfold",
+      "short_url": "https://t.co/RMlJnjDSXk",
+      "title": "[DGX Spark] DeepSeek V4.1 Flash on Two DGX Sparks: TensorFold TP=2 Setup, 20% Faster Single-Stream Than Qwen3.8",
+      "from_post": "2115141559771390352"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "local-models"
+  ],
+  "relevance": "A measured recipe for running a model that exceeds one Spark's memory by pairing two units, with head-to-head numbers against the Qwen3.8 Flash tier.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HVp-CjBXwAAiNwR.jpg",
+      "from_post": "2115141559771390352",
+      "description": "Hand-drawn style infographic titled 'Two Sparks, One DeepSeek V4.1 Flash' showing two cartoon DGX Spark boxes holding up a 'V4.1' crate, plus four benchmark tiles comparing against Qwen3.8.",
+      "thumbnail": "posts/2026/10/27/2115141559771390352/media/0.webp",
+      "kind": "chart",
+      "ocr_text": "Two Sparks, One DeepSeek V4.1 Flash\n20% faster single-stream than Qwen3.8\nCode, 1 stream: 111.5 vs 92.4 tok/s\nChinese, 1 stream: 59.2 vs 46.4 tok/s\nChinese, 8 streams: 150.6 vs 148.0 (on par)\nPARALLEL=8: TTFT 8.6 s → ~1 s\nToo big for one box: ~98 GiB of weights on each."
+    }
+  ]
+}

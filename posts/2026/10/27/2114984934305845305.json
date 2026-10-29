@@ -1,0 +1,27 @@
+{
+  "id": "2114984934305845305",
+  "permalink": "https://x.com/jaekwon/status/2114984934305845305",
+  "author": {
+    "name": "jae kwon",
+    "handle": "@jaekwon",
+    "profile_url": "https://x.com/jaekwon"
+  },
+  "posted_at": "2026-10-27T07:37:57Z",
+  "collected_at": "2026-10-29T15:06:13Z",
+  "updated_at": "2026-10-29T15:06:13Z",
+  "thread": [],
+  "summary_md": "**Jae Kwon ([@jaekwon](https://x.com/jaekwon/status/2114984934305845305))** says that in his own local testing with simple prompts, **Qwen3.8-27B** came across as clearly smarter than **GPT-OSS-120B**, and that this already seems to be common knowledge. He links an opencode.ai comparison page (Qwen3.8 27B vs GPT OSS Safeguard 120B).",
+  "referenced_urls": [
+    {
+      "url": "https://opencode.ai/data/compare/alibaba/qwen3-8-27b/openai/gpt-oss-safeguard-120b",
+      "short_url": "https://t.co/MCvftuKLK1",
+      "title": "Qwen3.8 27B vs GPT OSS Safeguard 120B - AI Model Comparison",
+      "from_post": "2114984934305845305"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "local-models"
+  ],
+  "relevance": "A practitioner data point that the ~27–30B Qwen tier can outperform a much larger open model, useful when choosing between the mid and max tiers on a Spark."
+}

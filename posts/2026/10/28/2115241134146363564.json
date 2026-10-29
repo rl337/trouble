@@ -1,0 +1,31 @@
+{
+  "id": "2115241134146363564",
+  "permalink": "https://x.com/cv_usk/status/2115241134146363564",
+  "author": {
+    "name": "cv usk",
+    "handle": "@cv_usk",
+    "profile_url": "https://x.com/cv_usk"
+  },
+  "posted_at": "2026-10-28T00:36:00Z",
+  "collected_at": "2026-10-29T15:06:13Z",
+  "updated_at": "2026-10-29T15:06:13Z",
+  "thread": [],
+  "summary_md": "**[@cv_usk](https://x.com/cv_usk/status/2115241134146363564)** walks through **\"Is Complex Agentic Memory Always Needed? Naive RAG Is Stronger Than We Thought.\"**\n\n- The baseline (\"Raw-RAG\") just windows conversations into 256-token chunks, embeds, retrieves 128, cross-encoder-reranks to 15 — no LLM extraction, summaries or graphs.\n- It ranks first among memory systems in 6 of 7 settings (e.g. 48.32 vs Memora's 43.84 on MemoryAgentBench) and ingests ~1M tokens in ~0.33 h vs ~27 h.\n- The paper attributes gaps to *evidence delivery*: atomic-fact extraction cost ~19.6 points; summaries and graph expansion ~6 points each.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/pdf/2610.30755",
+      "short_url": "https://t.co/a0cbRPjNbG",
+      "title": "Is Complex Agentic Memory Always Needed? Naive RAG Is Stronger Than We Thought",
+      "from_post": "2115241134146363564"
+    }
+  ],
+  "hashtags": [
+    "AIAgents",
+    "rag"
+  ],
+  "topics": [
+    "agentic-cognition",
+    "harness-dev"
+  ],
+  "relevance": "A strong reality check for agent memory design: raw evidence plus good retrieval may beat elaborate memory pipelines."
+}

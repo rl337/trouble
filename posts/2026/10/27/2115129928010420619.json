@@ -1,0 +1,37 @@
+{
+  "id": "2115129928010420619",
+  "permalink": "https://x.com/arnaudmercier/status/2115129928010420619",
+  "author": {
+    "name": "Arnaud Mercier - #Entrepreneur #Versailles",
+    "handle": "@arnaudmercier",
+    "profile_url": "https://x.com/arnaudmercier"
+  },
+  "posted_at": "2026-10-27T17:14:06Z",
+  "collected_at": "2026-10-29T15:06:13Z",
+  "updated_at": "2026-10-29T15:06:13Z",
+  "thread": [],
+  "summary_md": "**Arnaud Mercier ([@arnaudmercier](https://x.com/arnaudmercier/status/2115129928010420619))** shares Per Kristian Lehre's (Birmingham) **Agentic Algorithm Design** paper, where LLM agents both *design* black-box optimisation algorithms and *prove* their expected runtime in Lean.\n\n- A staged pipeline mirrors how a theorist works: informal design → Lean formalisation with guard proofs that reject flawed designs → a potential function → drift-analysis runtime bound. No empirical benchmarking is used anywhere.\n- Highlights: an O(n²) algorithm on a CycleUncover problem where the classic (1+1) EA is exponential, and 12 of 15 frontier-model runs completing with a machine-checked bound.\n- Ablations show zero-shot design without staging collapses to copying the baseline; the tested open-weight models did not finish the pipeline.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/html/2610.35595v1",
+      "short_url": "https://t.co/1JSSLjVom3",
+      "title": "Agentic Algorithm Design: LLMs that Propose, Formalise, and Prove Runtime Bounds for Evolutionary Algorithms in Lean",
+      "from_post": "2115129928010420619"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-cognition"
+  ],
+  "relevance": "A striking demonstration of agentic problem-solving where creativity (new algorithms) is gated by formal proof rather than benchmarks.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HVpzczQWwAAdugb.jpg",
+      "from_post": "2115129928010420619",
+      "description": "Pipeline figure from the paper: numbered LLM stages (0, 1, 1c-8, 9a-9f, 10a-10j) alternating with Lean verification boxes, flowing from a problem card and baseline algorithm to an improved algorithm, potential function and runtime bound, then looping.",
+      "thumbnail": "posts/2026/10/27/2115129928010420619/media/0.webp",
+      "kind": "diagram"
+    }
+  ]
+}

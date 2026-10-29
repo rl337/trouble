@@ -1,0 +1,33 @@
+{
+  "id": "2115289582606692522",
+  "permalink": "https://x.com/attnsumit/status/2115289582606692522",
+  "author": {
+    "name": "Sumit Agrawal",
+    "handle": "@attnsumit",
+    "profile_url": "https://x.com/attnsumit"
+  },
+  "posted_at": "2026-10-28T03:48:31Z",
+  "collected_at": "2026-10-29T15:06:13Z",
+  "updated_at": "2026-10-29T15:06:13Z",
+  "thread": [],
+  "summary_md": "**Sumit Agrawal ([@attnsumit](https://x.com/attnsumit/status/2115289582606692522))** flags two DGX Spark speed-ups that landed the same week and recommends Spark owners try both:\n\n1. **Mia's AI Lab** — a TensorFold build for running **Qwen3.8 Flash Next on a single DGX Spark**.\n2. **NVIDIA's technical blog** — *3 Ways to Boost MoE Inference on NVIDIA DGX Spark*.\n\nThe post itself is a pointer; the substance lives in the two linked pages.",
+  "referenced_urls": [
+    {
+      "url": "https://mia-ai.net/models/Qwen3.8-Flash-Next-Single-DGX-Spark-TensorFold",
+      "short_url": "https://t.co/31IbYovCAY",
+      "title": "Qwen3.8 Flash Next on one DGX Spark with TensorFold · Mia's AI Lab",
+      "from_post": "2115289582606692522"
+    },
+    {
+      "url": "https://developer.nvidia.com/blog/3-ways-to-boost-moe-inference-on-nvidia-dgx-spark/",
+      "short_url": "https://t.co/S33IBf4Pz1",
+      "title": "3 Ways to Boost MoE Inference on NVIDIA DGX Spark | NVIDIA Technical Blog",
+      "from_post": "2115289582606692522"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "local-models"
+  ],
+  "relevance": "Two concrete, Spark-specific optimization sources for MoE reasoning models in exactly the hardware class Richard runs."
+}

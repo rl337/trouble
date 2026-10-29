@@ -1,0 +1,37 @@
+{
+  "id": "2115179226802364886",
+  "permalink": "https://x.com/SadraMajidi04/status/2115179226802364886",
+  "author": {
+    "name": "Sadra Majidi",
+    "handle": "@SadraMajidi04",
+    "profile_url": "https://x.com/SadraMajidi04"
+  },
+  "posted_at": "2026-10-27T20:30:00Z",
+  "collected_at": "2026-10-29T15:06:13Z",
+  "updated_at": "2026-10-29T15:06:13Z",
+  "thread": [],
+  "summary_md": "**Sadra Majidi ([@SadraMajidi04](https://x.com/SadraMajidi04/status/2115179226802364886))** notes that **Expo** has published official, MIT-licensed agent skills covering Expo Router, animation, data fetching, SDK upgrades and EAS builds/updates, usable from Claude Code, Codex, Cursor and others. He cautions that the EAS-related skills depend on Expo's paid services.",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/expo/skills",
+      "short_url": "https://t.co/cJMshWZVZI",
+      "title": "GitHub - expo/skills: A collection of AI agent skills for working with Expo projects and Expo Application Services",
+      "from_post": "2115179226802364886"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "relevance": "A first-party vendor shipping agent skills is a template for how frameworks will document themselves for coding agents.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HVoAxKAWQAArW0T.jpg",
+      "from_post": "2115179226802364886",
+      "description": "Expo 'expo-skills' banner: the Expo logo over a blue sky and rolling green grassy hills.",
+      "thumbnail": "posts/2026/10/27/2115179226802364886/media/0.webp",
+      "kind": "other"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "id": "2115051410761081208",
+  "permalink": "https://x.com/sakikoazu/status/2115051410761081208",
+  "author": {
+    "name": "sakikoazu",
+    "handle": "@sakikoazu",
+    "profile_url": "https://x.com/sakikoazu"
+  },
+  "posted_at": "2026-10-27T12:02:06Z",
+  "collected_at": "2026-10-29T15:06:13Z",
+  "updated_at": "2026-10-29T15:06:13Z",
+  "thread": [
+    {
+      "id": "2115051556500550025",
+      "permalink": "https://x.com/sakikoazu/status/2115051556500550025",
+      "posted_at": "2026-10-27T12:02:41Z",
+      "position": 1
+    }
+  ],
+  "summary_md": "**[@sakikoazu](https://x.com/sakikoazu/status/2115051410761081208)** summarizes **DynaFlow: Learning Free-Form Multi-Agent Orchestration** — only the *main* agent is trained to write its own multi-agent workflows while sub-agents stay frozen. With Qwen3.5-27B it reaches ~88% overall across six benchmarks vs ~77% for the best baseline, and it chooses to skip workflows entirely on about 47% of questions.\n\nIn a [follow-up](https://x.com/sakikoazu/status/2115051556500550025) they add (having read but not run it) that the *untrained* base model does worse with forced workflows than answering directly on most math sets — training is what makes collaboration pay — and note caveats: only 688 questions, and GPQA still trails Self-Refine.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.34467",
+      "short_url": "https://t.co/CZfWaLGxND",
+      "title": "DynaFlow: Learning Free-Form Multi-Agent Orchestration",
+      "from_post": "2115051410761081208"
+    }
+  ],
+  "hashtags": [
+    "AI",
+    "AIAgents",
+    "LLM",
+    "arXiv",
+    "AIResearch",
+    "MultiAgent"
+  ],
+  "topics": [
+    "agentic-cognition"
+  ],
+  "relevance": "Learned, selective orchestration (knowing when *not* to spawn agents) is a key cognition skill for agent systems.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HVor_5nagAA3qVy.png",
+      "from_post": "2115051410761081208",
+      "description": "Results table image from DynaFlow (arXiv 2610.34467), Table 1, accuracy % with Qwen3.5-27B across methods.",
+      "thumbnail": "posts/2026/10/27/2115051410761081208/media/0.webp",
+      "kind": "chart",
+      "ocr_text": "DynaFlow (arXiv 2610.34467) - Table 1, accuracy %, all Qwen3.5-27B\nMethod | AIME24 | AIME25 | AIME26 | PolyMATH | GPQA-D | HotpotQA | Overall\nCoT | 96.67 | 93.33 | 86.67 | 83.00 | 85.35 | 46.50 | 74.27\nCoT-SC | 90.00 | 93.33 | 96.67 | 84.50 | 85.86 | 50.50 | 76.16\nSelf-Refine | 96.67 | 93.33 | 93.33 | 87.50 | 88.38 | 48.00 | 77.18\nAFlow | 93.33 | 96.67 | 100.00 | 86.00 | 87.37 | 47.00 | 76.45\nBase, Forced | 76.67 | 70.00 | 70.00 | 70.00 | 77.78 | 81.50 | 75.87\nDynaFlow (Dynamic) | 93.33 | 100.00 | 96.67 | 91.50 | 83.84 | 84.50 | 87.94\nDynaFlow (Forced) | 100.00 | 100.00 | 100.00 | 90.50 | 84.85 | 83.50 | 88.08\nSource: arxiv.org/abs/2610.34467 (rows abridged from the paper's Table 1)"
+    }
+  ]
+}

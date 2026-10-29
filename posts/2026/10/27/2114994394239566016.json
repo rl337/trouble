@@ -1,0 +1,36 @@
+{
+  "id": "2114994394239566016",
+  "permalink": "https://x.com/stskeeps/status/2114994394239566016",
+  "author": {
+    "name": "Carsten Munk",
+    "handle": "@stskeeps",
+    "profile_url": "https://x.com/stskeeps"
+  },
+  "posted_at": "2026-10-27T08:15:32Z",
+  "collected_at": "2026-10-29T15:06:13Z",
+  "updated_at": "2026-10-29T15:06:13Z",
+  "thread": [],
+  "summary_md": "**Carsten Munk ([@stskeeps](https://x.com/stskeeps/status/2114994394239566016))** had his agent build **pr-video**, a small tool that renders a PR walkthrough video with **Remotion** and uploads it to the GitHub pull request.",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/directionallyai/pr-video",
+      "short_url": "https://t.co/r0gWA29W5i",
+      "title": "GitHub - directionallyai/pr-video",
+      "from_post": "2114994394239566016"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-media",
+    "harness-dev"
+  ],
+  "relevance": "Agents producing video artifacts as part of code review is a practical crossover of agentic media and harness workflows.",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://x.com/stskeeps/status/2114994394239566016/video/1",
+      "from_post": "2114994394239566016",
+      "description": "Attached demo video (preview frame is a dark, mostly blank screen)."
+    }
+  ]
+}

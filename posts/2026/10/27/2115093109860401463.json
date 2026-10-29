@@ -1,0 +1,35 @@
+{
+  "id": "2115093109860401463",
+  "permalink": "https://x.com/eneskantepe/status/2115093109860401463",
+  "author": {
+    "name": "Enes Kantepe",
+    "handle": "@eneskantepe",
+    "profile_url": "https://x.com/eneskantepe"
+  },
+  "posted_at": "2026-10-27T14:47:48Z",
+  "collected_at": "2026-10-29T15:06:13Z",
+  "updated_at": "2026-10-29T15:06:13Z",
+  "thread": [],
+  "summary_md": "**Enes Kantepe ([@eneskantepe](https://x.com/eneskantepe/status/2115093109860401463))** released **herdr-rooms**, an open-source plugin for herdr that sets up a *review room*: one coding agent writes, a second reviews read-only, and they iterate until they agree. Either Claude Code or Codex can fill either role.",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/enes/herdr-rooms",
+      "short_url": "https://t.co/fWAIi9wz4a",
+      "title": "GitHub - enes/herdr-rooms: Review rooms for herdr: a second coding agent reviews your session, read-only, until the two agree.",
+      "from_post": "2115093109860401463"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "relevance": "A drop-in writer/reviewer loop — the same independent-critic pattern the verification research recommends — packaged as a harness plugin.",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://x.com/eneskantepe/status/2115093109860401463/video/1",
+      "from_post": "2115093109860401463",
+      "description": "Demo video of the review-room flow; the preview frame shows the caption 'One agent writes the code.' on a dark background."
+    }
+  ]
+}

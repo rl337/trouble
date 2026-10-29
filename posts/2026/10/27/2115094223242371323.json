@@ -1,0 +1,31 @@
+{
+  "id": "2115094223242371323",
+  "permalink": "https://x.com/Gleaming0427/status/2115094223242371323",
+  "author": {
+    "name": "gleaming",
+    "handle": "@Gleaming0427",
+    "profile_url": "https://x.com/Gleaming0427"
+  },
+  "posted_at": "2026-10-27T14:52:14Z",
+  "collected_at": "2026-10-29T15:06:13Z",
+  "updated_at": "2026-10-29T15:06:13Z",
+  "thread": [],
+  "summary_md": "**[@Gleaming0427](https://x.com/Gleaming0427/status/2115094223242371323)** built **Monument**, an open-source skill for Claude Code, Codex, OpenCode and Antigravity: name a building and the agent reconstructs it in 3D on its real footprint, phase by phase, with each construction phase dated and sourced.",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/Gleaming0427/monument",
+      "short_url": "https://t.co/Rk3vkmrPAS",
+      "title": "GitHub - Gleaming0427/monument: A skill for Claude Code, Codex and OpenCode: name a building, and it is built stone by stone on its real plan, with every phase dated and sourced.",
+      "from_post": "2115094223242371323"
+    }
+  ],
+  "hashtags": [
+    "ia",
+    "claude",
+    "skill"
+  ],
+  "topics": [
+    "agentic-media"
+  ],
+  "relevance": "A creative example of agents doing sourced research and procedural 3D modeling in one loop."
+}
