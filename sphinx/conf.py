@@ -21,7 +21,7 @@ source_suffix = {
     ".md": "markdown",
 }
 
-myst_enable_extensions = ["colon_fence", "deflist"]
+myst_enable_extensions = ["colon_fence", "deflist", "replacements"]
 
 html_theme = "basic"
 html_static_path = ["_static"]
@@ -36,6 +36,9 @@ html_theme_options = {
 html_sidebars = {
     "**": ["localtoc.html", "relations.html", "searchbox.html"],
 }
+
+html_use_modindex = False
+html_domain_indices = False
 
 # Slashdot-ish nav header via layout template
 html_context = {

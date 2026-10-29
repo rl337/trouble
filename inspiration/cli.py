@@ -3,6 +3,7 @@
 from __future__ import annotations
 
 import argparse
+import shutil
 import subprocess
 import sys
 from pathlib import Path
@@ -69,7 +70,9 @@ def cmd_build(args: argparse.Namespace) -> int:
     generate_sphinx_sources(records=records, topics=topics, out_dir=GENERATED)
     stage_post_media_for_sphinx(posts_root, GENERATED)
 
-    HTML_OUT.mkdir(parents=True, exist_ok=True)
+    if HTML_OUT.exists():
+        shutil.rmtree(HTML_OUT)
+    HTML_OUT.mkdir(parents=True)
     cmd = [
         sys.executable,
         "-m",

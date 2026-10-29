@@ -8,6 +8,7 @@ from datetime import datetime
 from pathlib import Path
 from typing import Any
 
+from inspiration.index_terms import build_post_index_lines, render_myst_index_block
 from inspiration.posts import PostRecord
 from inspiration.topics import Topic
 
@@ -118,6 +119,8 @@ def generate_sphinx_sources(
         ".. raw:: html",
         "",
         '   <p class="tagline">Curated X threads — sorted by last update (UTC), grouped by update day.</p>',
+        "",
+        "* :doc:`browse` — browse all topics and archive days (with post counts)",
         "",
     ]
 
@@ -232,11 +235,67 @@ def generate_sphinx_sources(
         if tags:
             md_lines.extend(["## Hashtags", "", ", ".join(f"#{t}" for t in tags), ""])
 
-        topic_links = [topic_map[s].title for s in data.get("topics", []) if s in topic_map]
-        if topic_links:
-            md_lines.extend(["## Topics", "", ", ".join(topic_links), ""])
+        topic_slugs = data.get("topics", [])
+        if topic_slugs:
+            md_lines.extend(["## Topics", ""])
+            for slug in topic_slugs:
+                if slug in topic_map:
+                    title = topic_map[slug].title
+                    md_lines.append(f'* <a href="../topics/{slug}.html">{title}</a>')
+            md_lines.append("")
+
+        day_heading = _format_day_heading(rec.day_key)
+        md_lines.extend(
+            [
+                "## Archive",
+                "",
+                f'* <a href="../archive/{rec.day_key}.html">{day_heading}</a>',
+                "",
+                "## Browse",
+                "",
+                '* <a href="../browse.html">All topics and archive days</a>',
+                "",
+            ]
+        )
+
+        index_lines = build_post_index_lines(data, topics_by_slug=topic_map)
+        md_lines.extend(render_myst_index_block(index_lines))
 
         _write(posts_dir / f"{rec.id}.md", "\n".join(md_lines))
+
+    browse_lines = [
+        "Browse",
+        "======",
+        "",
+        "Site map of topic categories and archive days.",
+        "",
+        "Topics",
+        "------",
+        "",
+    ]
+    for topic in topics:
+        count = sum(1 for r in records if topic.slug in r.data.get("topics", []))
+        plural = "posts" if count != 1 else "post"
+        browse_lines.append(
+            f"* :doc:`topics/{topic.slug}` — {topic.title} ({count} {plural})"
+        )
+    browse_lines.extend(
+        [
+            "",
+            "Archives by day",
+            "---------------",
+            "",
+        ]
+    )
+    for day_key in sorted(by_archive_day.keys(), reverse=True):
+        count = len(by_archive_day[day_key])
+        plural = "posts" if count != 1 else "post"
+        heading = _format_day_heading(day_key)
+        browse_lines.append(
+            f"* :doc:`archive/{day_key}` — {heading} ({count} {plural})"
+        )
+    browse_lines.append("")
+    _write(out_dir / "browse.rst", "\n".join(browse_lines))
 
     lines.extend(
         [
@@ -244,6 +303,7 @@ def generate_sphinx_sources(
             "   :hidden:",
             "   :maxdepth: 1",
             "",
+            "   browse",
         ]
     )
     for topic in topics:
