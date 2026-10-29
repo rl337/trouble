@@ -10,6 +10,7 @@ This repository is an **inspiration blog** (Sphinx static site from curated X po
 |------|---------|
 | Validate fixtures, `posts/`, state | `python -m inspiration validate` |
 | Build HTML site | `python -m inspiration build` |
+| Backfill post keywords | `python -m inspiration backfill-keywords` |
 | Image thumbnail | `python scripts/make_thumbnail.py <url-or-path> posts/YYYY/MM/DD/<id>/media/0.webp` |
 | Tests | `pytest tests/` |
 | Serve built site | `python -m http.server --directory .build/html 8000` |
