@@ -1,0 +1,27 @@
+{
+  "id": "2115573142081224858",
+  "permalink": "https://x.com/DanteMMartin/status/2115573142081224858",
+  "author": {
+    "name": "Dante Martin",
+    "handle": "@DanteMMartin",
+    "profile_url": "https://x.com/DanteMMartin"
+  },
+  "posted_at": "2026-10-28T22:35:17Z",
+  "collected_at": "2026-10-29T16:31:16Z",
+  "updated_at": "2026-10-29T16:31:16Z",
+  "thread": [],
+  "summary_md": "**Dante Martin ([@DanteMMartin](https://x.com/DanteMMartin/status/2115573142081224858))** relays a r/LocalLLaMA benchmark of **Qwen 3.8 27B vs Nanbeige 4.3 33B on four Radeon R9700s**, measured in jobs-per-hour on a real workload rather than raw tok/s.",
+  "referenced_urls": [
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xi07lg/qwen_38_27b_vs_nanbeige_43_33b_on_4xr9700s_real/",
+      "short_url": "https://t.co/H4dpp27Gut",
+      "title": "From the LocalLLaMA community on Reddit: Qwen 3.8 27B vs Nanbeige 4.3 33B on 4xR9700s: Real World TPS and jobs/hour on my workload",
+      "from_post": "2115573142081224858"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "local-models"
+  ],
+  "relevance": "Workload-level comparison of two ~30B reasoning models on AMD hardware: the metric that matters for agent throughput."
+}

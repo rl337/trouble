@@ -1,0 +1,38 @@
+{
+  "id": "2115276328081457278",
+  "permalink": "https://x.com/MathOCPapers/status/2115276328081457278",
+  "author": {
+    "name": "Optimization and Control Papers",
+    "handle": "@MathOCPapers",
+    "profile_url": "https://x.com/MathOCPapers"
+  },
+  "posted_at": "2026-10-28T02:55:51Z",
+  "collected_at": "2026-10-29T16:31:06Z",
+  "updated_at": "2026-10-29T16:31:06Z",
+  "thread": [],
+  "summary_md": "**Optimization and Control Papers ([@MathOCPapers](https://x.com/MathOCPapers/status/2115276328081457278))** posts *Autonomous Structural Discovery of Bioprocess Dynamics and Kinetics via LLM-Driven Agents* (Aydin, Arkun): a closed-loop LLM-agent architecture with 'isolation-peeling', two-level RAG and moving-horizon estimation to discover kinetic models for biomanufacturing digital twins.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.35391",
+      "short_url": "https://t.co/2Mm5RQ7TW5",
+      "title": "Autonomous Structural Discovery Of Bioprocess Dynamics And...",
+      "from_post": "2115276328081457278"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-cognition"
+  ],
+  "relevance": "Agentic scientific model discovery in an engineering domain.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HVr4nGDXQAAgf1C.png",
+      "from_post": "2115276328081457278",
+      "description": "Screenshot of a paper abstract on an LLM-agent closed-loop architecture for autonomous kinetic state-space discovery in biomanufacturing digital twins ('isolation-peeling', two-level RAG, moving horizon estimation).",
+      "thumbnail": "posts/2026/10/28/2115276328081457278/media/0.webp",
+      "kind": "paper",
+      "ocr_text": "High-fidelity digital twins in continuous biomanufacturing are often bottlenecked by incomplete kinetic models, while standard data-driven algorithms (e.g., SINDy, PINNs) lack interpretability or impose rigid physical assumptions. This paper introduces a hybrid closed-loop architecture for autonomous kinetic state-space discovery driven by a Large Language Model (LLM) agent. The framework employs a sequential \"isolation-peeling\" methodology across orthogonal operational regimes. This algorithmic peeling mathematically decouples entangled multiplicative (inhibitory) and additive (catalytic) biological rate law. Grounded in a Two-Level Retrieval-Augmented Generation (RAG) library, the framework utilizes Moving Horizon Estimation (MHE) and logarithmic decomposition to decouple complex cell growth kinetics into orthogonal multiplicative…"
+    }
+  ]
+}

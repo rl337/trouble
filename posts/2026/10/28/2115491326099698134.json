@@ -1,0 +1,39 @@
+{
+  "id": "2115491326099698134",
+  "permalink": "https://x.com/CSVisionPapers/status/2115491326099698134",
+  "author": {
+    "name": "Computer Vision and Pattern Recognition Papers",
+    "handle": "@CSVisionPapers",
+    "profile_url": "https://x.com/CSVisionPapers"
+  },
+  "posted_at": "2026-10-28T17:10:10Z",
+  "collected_at": "2026-10-29T16:31:16Z",
+  "updated_at": "2026-10-29T16:31:16Z",
+  "thread": [],
+  "summary_md": "**Computer Vision and Pattern Recognition Papers ([@CSVisionPapers](https://x.com/CSVisionPapers/status/2115491326099698134))** shares a benchmark for agents that write **video-centered deep research reports**, going beyond watching and searching.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.31158",
+      "short_url": "https://t.co/iMSWGHnmCb",
+      "title": "Beyond Watching and Searching: Benchmarking Agents for...",
+      "from_post": "2115491326099698134"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-media",
+    "agentic-cognition"
+  ],
+  "relevance": "Evaluates research agents that must reason over video sources.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HVu8JofWEAENtlG.png",
+      "from_post": "2115491326099698134",
+      "description": "Abstract excerpt introducing Video-Centered Deep Research Report Generation, a skill-based workflow, OmniDR-Bench and Omni Atomic Rubric Trees for evaluation.",
+      "thumbnail": "posts/2026/10/28/2115491326099698134/media/0.webp",
+      "kind": "paper",
+      "ocr_text": "Deep research agents synthesize open-web evidence into long reports, but current benchmarks do not evaluate research centered on a source video. We introduce Video-Centered Deep Research Report Generation. Given a video and user request, an agent identifies research questions, retrieves external multimodal evidence, and produces an interactive report linked to relevant video moments. This task has direct practical value because it helps users locate relevant moments, verify claims, reproduce demonstrated procedures, and make informed decisions from video content. We present a skill-based workflow and OmniDR-Bench for this task. For evaluation, we propose Omni Atomic Rubric Trees (Omni-ARTs). Each tree contains three dimensions, 23 shared directions, and task-specific atomic binary criteria. The directions test audiovisual grounding,…"
+    }
+  ]
+}

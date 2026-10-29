@@ -1,0 +1,29 @@
+{
+  "id": "2115481802043199701",
+  "permalink": "https://x.com/kbhaskar_95/status/2115481802043199701",
+  "author": {
+    "name": "Karthik Bhaskar",
+    "handle": "@kbhaskar_95",
+    "profile_url": "https://x.com/kbhaskar_95"
+  },
+  "posted_at": "2026-10-28T16:32:20Z",
+  "collected_at": "2026-10-29T16:31:16Z",
+  "updated_at": "2026-10-29T16:31:16Z",
+  "thread": [],
+  "summary_md": "**Karthik Bhaskar ([@kbhaskar_95](https://x.com/kbhaskar_95/status/2115481802043199701))** draws three lessons from OpenAI's containment red-team, in which agents in separate no-network VMs still passed secrets: covert channels, assumed-breach egress, and what an attacker-favorable test actually measures. The article links OpenAI's post on securing its training environment.",
+  "referenced_urls": [
+    {
+      "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
+      "from_post": "2115481802043199701"
+    },
+    {
+      "url": "https://sel4.systems/About/FAQ.html",
+      "from_post": "2115481802043199701"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "relevance": "Sandboxing lessons that apply directly to isolating coding agents."
+}

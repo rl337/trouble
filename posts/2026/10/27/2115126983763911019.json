@@ -1,0 +1,27 @@
+{
+  "id": "2115126983763911019",
+  "permalink": "https://x.com/cooolernemesis/status/2115126983763911019",
+  "author": {
+    "name": "Faheem | FrontierMind AI",
+    "handle": "@cooolernemesis",
+    "profile_url": "https://x.com/cooolernemesis"
+  },
+  "posted_at": "2026-10-27T17:02:24Z",
+  "collected_at": "2026-10-29T16:31:06Z",
+  "updated_at": "2026-10-29T16:31:06Z",
+  "thread": [],
+  "summary_md": "**Faheem | FrontierMind AI ([@cooolernemesis](https://x.com/cooolernemesis/status/2115126983763911019))** cites *Rethinking Verification in Agent Harnesses*: on Terminal-Bench subsets across seven coding models, independent review improved average accuracy by 5.9–9.5 points at 1.13–1.25x baseline API cost, framing review design as a test-time scaling choice.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.34577",
+      "short_url": "https://t.co/51M2AF2wfR",
+      "title": "Rethinking Verification in Agent Harnesses",
+      "from_post": "2115126983763911019"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "relevance": "Quantifies the value of a reviewer step in a harness."
+}

@@ -1,0 +1,27 @@
+{
+  "id": "2115446116804116846",
+  "permalink": "https://x.com/Gael_DDOS/status/2115446116804116846",
+  "author": {
+    "name": "Gaël Caporale",
+    "handle": "@Gael_DDOS",
+    "profile_url": "https://x.com/Gael_DDOS"
+  },
+  "posted_at": "2026-10-28T14:10:31Z",
+  "collected_at": "2026-10-29T16:31:16Z",
+  "updated_at": "2026-10-29T16:31:16Z",
+  "thread": [],
+  "summary_md": "**Gaël Caporale ([@Gael_DDOS](https://x.com/Gael_DDOS/status/2115446116804116846))** summarizes a r/LocalLLaMA comparison of six inference engines running **Qwen3.8 27B on one RTX 5090**: llama.cpp 84.2 tok/s, TensorSharp 80.0, SGLang 78.5, vLLM 247.8 with speculative decoding, and NInfer 280.5 with DFlash2 (488 aggregate at 4 concurrent). He warns that quant and drafter differ per engine, so it is \"a map not a race\".",
+  "referenced_urls": [
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xgkzb9/qwen38_27b_on_one_rtx_5090_six_inference_engines/",
+      "short_url": "https://t.co/OeqRjzJ7u4",
+      "title": "From the LocalLLaMA community on Reddit: Qwen3.8 27B on one RTX 5090: six inference engines benchmarked with and without DFlash2",
+      "from_post": "2115446116804116846"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "local-models"
+  ],
+  "relevance": "Engine-by-engine throughput for the ~30B reasoning tier on a single consumer GPU, with speculative decoding as the big lever."
+}

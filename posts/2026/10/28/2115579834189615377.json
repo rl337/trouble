@@ -1,0 +1,42 @@
+{
+  "id": "2115579834189615377",
+  "permalink": "https://x.com/extrapolatorai/status/2115579834189615377",
+  "author": {
+    "name": "Extrapolator AI",
+    "handle": "@extrapolatorai",
+    "profile_url": "https://x.com/extrapolatorai"
+  },
+  "posted_at": "2026-10-28T23:01:52Z",
+  "collected_at": "2026-10-29T16:31:16Z",
+  "updated_at": "2026-10-29T16:31:16Z",
+  "thread": [],
+  "summary_md": "**Extrapolator AI ([@extrapolatorai](https://x.com/extrapolatorai/status/2115579834189615377))** reports Ai2 benchmarking six LLMs as **novelty judges** for AI-generated research ideas: prompt changes flip verdicts and accuracy falls below chance on generated ideas.",
+  "referenced_urls": [
+    {
+      "url": "https://extrapolator.ai/2026/10/28/ai2-benchmarks-llm-novelty-judges-on-ai-generated-research-ideas/",
+      "short_url": "https://t.co/80jB1zSXYY",
+      "title": "Ai2 benchmarks LLM novelty judges on AI-generated research ideas - Extrapolator AI",
+      "from_post": "2115579834189615377"
+    }
+  ],
+  "hashtags": [
+    "AI",
+    "AITools",
+    "DataScience",
+    "LLM"
+  ],
+  "topics": [
+    "agentic-cognition"
+  ],
+  "relevance": "Limits of LLM-as-judge for autonomous research agents.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HVwMowFaoAAlJbr.jpg",
+      "from_post": "2115579834189615377",
+      "description": "Moody illustration of two stacks of paper on a desk at night, one covered in handwritten notes and one blank, lit by a desk lamp and a laptop screen, illustrating AI-generated research ideas.",
+      "thumbnail": "posts/2026/10/28/2115579834189615377/media/0.webp",
+      "kind": "other"
+    }
+  ]
+}

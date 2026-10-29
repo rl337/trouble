@@ -1,0 +1,30 @@
+{
+  "id": "2115590715686150616",
+  "permalink": "https://x.com/EricDBrownDsC/status/2115590715686150616",
+  "author": {
+    "name": "Eric D. Brown, D.Sc.",
+    "handle": "@EricDBrownDsC",
+    "profile_url": "https://x.com/EricDBrownDsC"
+  },
+  "posted_at": "2026-10-28T23:45:07Z",
+  "collected_at": "2026-10-29T16:31:16Z",
+  "updated_at": "2026-10-29T16:31:16Z",
+  "thread": [],
+  "summary_md": "**Eric D. Brown, D.Sc. ([@EricDBrownDsC](https://x.com/EricDBrownDsC/status/2115590715686150616))** covers Simular's **Agent S4 (Evolving Agent Interfaces)**, which evolves the interfaces a computer-use agent works through while the model stays fixed: Qwen3.8-27B scored 21.3% on OSWorld V2, 3.8x its fixed-interface score, at $1.10 per task.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.28601",
+      "short_url": "https://t.co/I1EbIB3rM0",
+      "title": "Evolving Agent Interfaces",
+      "from_post": "2115590715686150616"
+    }
+  ],
+  "hashtags": [
+    "AIAgents"
+  ],
+  "topics": [
+    "agentic-cognition",
+    "local-models"
+  ],
+  "relevance": "Big computer-use gains for a local-class 27B model from interface evolution alone."
+}

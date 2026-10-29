@@ -1,0 +1,38 @@
+{
+  "id": "2115698098290770092",
+  "permalink": "https://x.com/ComputerPapers/status/2115698098290770092",
+  "author": {
+    "name": "Software Engineering Papers",
+    "handle": "@ComputerPapers",
+    "profile_url": "https://x.com/ComputerPapers"
+  },
+  "posted_at": "2026-10-29T06:51:49Z",
+  "collected_at": "2026-10-29T16:31:16Z",
+  "updated_at": "2026-10-29T16:31:16Z",
+  "thread": [],
+  "summary_md": "**Software Engineering Papers ([@ComputerPapers](https://x.com/ComputerPapers/status/2115698098290770092))** shares **Beyond QASecClaw**, a paper on agent scaling, verifier feedback and evidence reliability in software assurance.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.36947",
+      "short_url": "https://t.co/kHHZelSYjU",
+      "title": "Beyond QASecClaw: Agent Scaling, Verifier Feedback, and Evidence...",
+      "from_post": "2115698098290770092"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "relevance": "How verifier feedback and more agents affect security-assurance results.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HVx4NYqXMAAkipe.png",
+      "from_post": "2115698098290770092",
+      "description": "Abstract excerpt testing whether extra specialist LM contexts help software assurance when deterministic tool evidence exists, using Qwen2.5-Coder-7B over 13,638 requests; 50 contexts cost 49x tokens without better unsafe clearance.",
+      "thumbnail": "posts/2026/10/29/2115698098290770092/media/0.webp",
+      "kind": "paper",
+      "ocr_text": "Can additional specialist language-model contexts improve software assurance when deterministic tool evidence is already available? We study this question through five experiments spanning authored Java warning controls, OWASP Benchmark assessment, Defects4J test generation, SV-COMP assertion verdicts, and deliberately misleading evidence packages. The evaluated systems use Qwen2.5-Coder-7B-Instruct, with a 1.5B sensitivity analysis, and complete 13,638 model requests. On eight related development warnings, increasing the context count from 1 to 50 increases token use 49-fold without improving unsafe clearance. On 160 OWASP cases, model configurations trade clearance against unresolved outcomes; the ten-context arm assesses only 96 cases. On 32 SV-COMP tasks, raw verifier feedback raises mean correct model verdicts from 12.7 to 22.0, but also rais…"
+    }
+  ]
+}

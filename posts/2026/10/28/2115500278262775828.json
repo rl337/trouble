@@ -1,0 +1,38 @@
+{
+  "id": "2115500278262775828",
+  "permalink": "https://x.com/ComputerPapers/status/2115500278262775828",
+  "author": {
+    "name": "Software Engineering Papers",
+    "handle": "@ComputerPapers",
+    "profile_url": "https://x.com/ComputerPapers"
+  },
+  "posted_at": "2026-10-28T17:45:45Z",
+  "collected_at": "2026-10-29T16:31:16Z",
+  "updated_at": "2026-10-29T16:31:16Z",
+  "thread": [],
+  "summary_md": "**Software Engineering Papers ([@ComputerPapers](https://x.com/ComputerPapers/status/2115500278262775828))** shares a large-scale paper comparing **agent-supported and human-authored pull requests** in how they handle testing.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.35297",
+      "short_url": "https://t.co/qVZKcZi8Lm",
+      "title": "Testing with Coding Agents: A Large-Scale Comparison of...",
+      "from_post": "2115500278262775828"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "relevance": "Evidence on how coding agents change testing practices in real PRs.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HVvESvWWkAEWH7x.png",
+      "from_post": "2115500278262775828",
+      "description": "Abstract excerpt of a study comparing agent-supported vs human-authored pull requests on test changes, test smells and coverage across 114,134 merged PRs in 391 Java repositories.",
+      "thumbnail": "posts/2026/10/28/2115500278262775828/media/0.webp",
+      "kind": "paper",
+      "ocr_text": "Context. Coding agents increasingly contribute tests through pull requests that developers then maintain, so how testing work is divided affects long-term maintainability. Objective. We compare pull requests in which developers and coding agents collaborate (agent-supported) with pull requests without detectable agent involvement (human-authored) along five dimensions: the frequency and extent of test changes, their type and context, test structure, test smells, and code coverage. Method. We analyze 114,134 pull requests merged between January 2025 and April 2026 in 391 Java repositories, identifying five coding agents through pull-request-level and commit-level signals. Since agent adoption varies across projects, we compare the two groups within repositories with mixed-effects models that control for change size. Results. Pooled across repositories, both groups change test code…"
+    }
+  ]
+}

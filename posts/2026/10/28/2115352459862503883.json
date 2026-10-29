@@ -1,0 +1,40 @@
+{
+  "id": "2115352459862503883",
+  "permalink": "https://x.com/verolelevrai21/status/2115352459862503883",
+  "author": {
+    "name": "Vérole",
+    "handle": "@verolelevrai21",
+    "profile_url": "https://x.com/verolelevrai21"
+  },
+  "posted_at": "2026-10-28T07:58:22Z",
+  "collected_at": "2026-10-29T16:31:16Z",
+  "updated_at": "2026-10-29T16:31:16Z",
+  "thread": [],
+  "summary_md": "**Vérole ([@verolelevrai21](https://x.com/verolelevrai21/status/2115352459862503883))** released **ComfyUI-LLM-ChatHub**, ChatGPT-style chat inside ComfyUI backed by LM Studio, local Ollama or Ollama Cloud, with SQLite history, image input, document RAG and nodes that feed replies into workflows.",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/Verolelb/ComfyUI-LLM-ChatHub",
+      "short_url": "https://t.co/iYbSjbyn7T",
+      "title": "GitHub - Verolelb/ComfyUI-LLM-ChatHub: Chat with LM Studio, Ollama or Ollama Cloud inside ComfyUI: persistent history, image input, document RAG, editable prompts, and nodes that feed the answer into any workflow.",
+      "from_post": "2115352459862503883"
+    }
+  ],
+  "hashtags": [
+    "comfyui",
+    "chatgpt",
+    "llm"
+  ],
+  "topics": [
+    "agentic-media",
+    "local-models"
+  ],
+  "relevance": "Bridges local LLMs into ComfyUI media pipelines.",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://x.com/verolelevrai21/status/2115352459862503883/video/1",
+      "from_post": "2115352459862503883",
+      "description": "Demo video of a ChatGPT-style chat running inside ComfyUI with local model backends (not downloaded; referenced only)."
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": "2115446986962870451",
+  "permalink": "https://x.com/ComputerPapers/status/2115446986962870451",
+  "author": {
+    "name": "Software Engineering Papers",
+    "handle": "@ComputerPapers",
+    "profile_url": "https://x.com/ComputerPapers"
+  },
+  "posted_at": "2026-10-28T14:13:59Z",
+  "collected_at": "2026-10-29T16:31:16Z",
+  "updated_at": "2026-10-29T16:31:16Z",
+  "thread": [],
+  "summary_md": "**Software Engineering Papers ([@ComputerPapers](https://x.com/ComputerPapers/status/2115446986962870451))** shares **How Do Coding-Agent Harnesses Self-Evolve?**, an empirical study of retrospective adaptation by Treude and Baltes.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.34938",
+      "short_url": "https://t.co/YhPq7HnoZX",
+      "title": "How Do Coding-Agent Harnesses Self-Evolve? An Empirical Study of...",
+      "from_post": "2115446986962870451"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev",
+    "agentic-cognition"
+  ],
+  "relevance": "Directly studies self-modifying harnesses.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HVuT0RlXcAEibmW.png",
+      "from_post": "2115446986962870451",
+      "description": "Abstract excerpt of a study of 'retro', a skill asking Claude Code to review a finished session and propose harness changes, tested on 30 SWE-bench Verified issues (125 proposals, 24 implemented, 12 evaluated).",
+      "thumbnail": "posts/2026/10/28/2115446986962870451/media/0.webp",
+      "kind": "paper",
+      "ocr_text": "Coding agents can adapt their harnesses, the software, configuration, and instructions used to run them, based on experience from earlier tasks, but whether these adaptations improve their behavior on later tasks remains unclear. We study retro, a skill that asks an agent to review a completed session and propose harness changes, and ask what changes it proposes and whether implemented changes reduce repeated work on later tasks. We ran Claude Code on 30 SWE-bench Verified issues, qualitatively coded the 125 proposals from retro, implemented 24, and evaluated 12 harness changes on later issues from the same repositories in fresh sessions with and without each change. Most proposals referred to an event in the session, but 18 of 43 lint-related proposals recommended a practice regardless of what had happened. Among the seven evaluations in which sessions without the change encountered the targeted…"
+    }
+  ]
+}

@@ -7,8 +7,8 @@
     "profile_url": "https://x.com/SciFi"
   },
   "posted_at": "2026-10-28T22:55:23Z",
-  "collected_at": "2026-10-29T15:06:14Z",
-  "updated_at": "2026-10-29T15:06:14Z",
+  "collected_at": "2026-10-29T16:31:16Z",
+  "updated_at": "2026-10-29T16:31:16Z",
   "thread": [],
   "summary_md": "**[@SciFi](https://x.com/SciFi/status/2115578201422311605)** shares **Collective Emergent Alignment** (Wang, Li, Ramchurn, Huang, Dong).\n\nPer the abstract, the authors ask whether interaction among LLM agents yields reasoning alignment beyond matched individual self-refinement. Their **REMAP** framework measures this via semantic coverage and interaction-specific gains; across model families and two multi-hop benchmarks they find broadly positive gains, strongest when evidence is spread across agents, tied to peer-information recovery and shaped by team composition and capability asymmetry.",
   "referenced_urls": [

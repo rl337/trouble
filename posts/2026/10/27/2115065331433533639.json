@@ -1,0 +1,34 @@
+{
+  "id": "2115065331433533639",
+  "permalink": "https://x.com/productflo_io/status/2115065331433533639",
+  "author": {
+    "name": "ProductFlo.io",
+    "handle": "@productflo_io",
+    "profile_url": "https://x.com/productflo_io"
+  },
+  "posted_at": "2026-10-27T12:57:25Z",
+  "collected_at": "2026-10-29T16:31:06Z",
+  "updated_at": "2026-10-29T16:31:06Z",
+  "thread": [
+    {
+      "id": "2115065335296794949",
+      "permalink": "https://x.com/productflo_io/status/2115065335296794949",
+      "posted_at": "2026-10-27T12:57:26Z",
+      "position": 1
+    }
+  ],
+  "summary_md": "**ProductFlo.io ([@productflo_io](https://x.com/productflo_io/status/2115065331433533639))** documents a SolidWorks MCP bug: a CAD agent's screenshot calls returned blank white images while exports worked, so the agent silently couldn't see. A follow-up explains an inner call re-silenced the view before saving, and that the missing check is proving the image isn't blank before handing it to the agent.",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/hjbaard/solidworks-mcp/issues/5",
+      "short_url": "https://t.co/4wQ9Wp7Ke8",
+      "title": "screenshot() writes a blank image: _require_model re-silences the view inside run_guarded · Issue #5 · hjbaard/SolidWorks-MCP",
+      "from_post": "2115065331433533639"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-media"
+  ],
+  "relevance": "A concrete lesson in verifying perception tools in agentic CAD loops."
+}

@@ -1,0 +1,44 @@
+{
+  "id": "2115480424805777626",
+  "permalink": "https://x.com/ComputerPapers/status/2115480424805777626",
+  "author": {
+    "name": "Software Engineering Papers",
+    "handle": "@ComputerPapers",
+    "profile_url": "https://x.com/ComputerPapers"
+  },
+  "posted_at": "2026-10-28T16:26:51Z",
+  "collected_at": "2026-10-29T16:31:16Z",
+  "updated_at": "2026-10-29T16:31:16Z",
+  "thread": [],
+  "summary_md": "**Software Engineering Papers ([@ComputerPapers](https://x.com/ComputerPapers/status/2115480424805777626))** shares **V3AST-Bench**, a verifiable safety evaluation for coding agents, with code in Alibaba-AAIG/VAST-Bench.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.35188",
+      "short_url": "https://t.co/wReSkEcWtK",
+      "title": "V$^3$AST-Bench: Verifiable, Valid, and Versatile Safety Evaluation...",
+      "from_post": "2115480424805777626"
+    },
+    {
+      "url": "https://github.com/Alibaba-AAIG/VAST-Bench",
+      "short_url": "https://t.co/NrbqlNbgtF",
+      "title": "GitHub - Alibaba-AAIG/VAST-Bench",
+      "from_post": "2115480424805777626"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "relevance": "An open safety benchmark specific to coding agents.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HVuyPGTXsAAAOqi.png",
+      "from_post": "2115480424805777626",
+      "description": "Abstract excerpt of V3AST-Bench: 212 coding-agent risk tasks in 18 categories with executable harm and outcome checks, run over 51 model-harness combinations (86,496 trials).",
+      "thumbnail": "posts/2026/10/28/2115480424805777626/media/0.webp",
+      "kind": "paper",
+      "ocr_text": "Large language models increasingly act through code, modifying repositories, executing programs, and interacting with services in agent form. Their actions introduce risks that cannot be assessed from generated responses alone. Safety evaluation must verify actual consequences, distinguish harm avoidance from task incapability, and cover realistic workflows. We introduce V³AST-Bench, a benchmark for Verifiable results, Valid interpretation, and Versatile risk coverage of Agent Safety. It comprises 212 risk tasks spanning 18 categories. Dedicated runtime environments verify harm and task outcomes through executable checks over states, records, and artifact behavior, while paired capability twin tasks verify workflow competence. Our experiments span 51 combinations of 11 models and five harnesses, spanning 86,496 trials and over 9 billion tokens of model interaction.…"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "2115436703322152973",
+  "permalink": "https://x.com/peterpany84343/status/2115436703322152973",
+  "author": {
+    "name": "Peter Müller",
+    "handle": "@peterpany84343",
+    "profile_url": "https://x.com/peterpany84343"
+  },
+  "posted_at": "2026-10-28T13:33:07Z",
+  "collected_at": "2026-10-29T16:31:16Z",
+  "updated_at": "2026-10-29T16:31:16Z",
+  "thread": [],
+  "summary_md": "**Peter Müller ([@peterpany84343](https://x.com/peterpany84343/status/2115436703322152973))** shares a custom ComfyUI node (wadimh/ComfyUI-Hi3D-Refinement) for the newly released **Hi3D** mesh refiner.",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/wadimh/ComfyUI-Hi3D-Refinement",
+      "short_url": "https://t.co/ZJvjod6ffM",
+      "title": "GitHub - wadimh/ComfyUI-Hi3D-Refinement: Comfy UI Custom Node to refine coarse meshes using Hi3D V1.0",
+      "from_post": "2115436703322152973"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-media"
+  ],
+  "relevance": "Plugs a new 3D refiner into ComfyUI pipelines."
+}

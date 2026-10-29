@@ -1,0 +1,38 @@
+{
+  "id": "2115646583681266117",
+  "permalink": "https://x.com/FSFG/status/2115646583681266117",
+  "author": {
+    "name": "Cryptography and Security Papers",
+    "handle": "@FSFG",
+    "profile_url": "https://x.com/FSFG"
+  },
+  "posted_at": "2026-10-29T03:27:07Z",
+  "collected_at": "2026-10-29T16:31:16Z",
+  "updated_at": "2026-10-29T16:31:16Z",
+  "thread": [],
+  "summary_md": "**Cryptography and Security Papers ([@FSFG](https://x.com/FSFG/status/2115646583681266117))** shares **Blindfold**, a paper on keeping the audit \"coin\" secret from LLM agents so they cannot game audits.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.37055",
+      "short_url": "https://t.co/yaQNHg2MXT",
+      "title": "Blindfold: Keeping the Audit Coin Secret from LLM Agents",
+      "from_post": "2115646583681266117"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "relevance": "Unpredictable auditing as a defense against agents that adapt to oversight.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HVxJW1aXgAAA9xu.png",
+      "from_post": "2115646583681266117",
+      "description": "Abstract excerpt of Blindfold: audit-based certification of LLM agents also requires pre-commit noninterference (the audit coin must not leak into the agent's view), with worst-case bias (1-ε)D_A.",
+      "thumbnail": "posts/2026/10/29/2115646583681266117/media/0.webp",
+      "kind": "paper",
+      "ocr_text": "Audit-based certification bounds the violation rate of an LLM agent by auditing a random fraction ε of actions and reweighting the audited labels; its validity is meant to rest only on the defender's audit coin. We show that it also rests on a confidentiality property: the coin must not interfere with the agent's view before the action commits, at a time the agent chooses. We call this pre-commit noninterference (PNI) and measure its violation by D_A, the total-variation distance between the agent's views under the two coin values. PNI is necessary and sufficient for an unbiased certificate against adaptive agents, the worst-case bias is (1-ε)D_A, and no procedure that sees only audited labels can pay less. Leakage composes across steps, a resource shared across episodes opens a channel of computable size, and raising the audit rate cannot restore validity. On a monitor we built,…"
+    }
+  ]
+}

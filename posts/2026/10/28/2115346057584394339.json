@@ -1,0 +1,27 @@
+{
+  "id": "2115346057584394339",
+  "permalink": "https://x.com/HuggingPapers/status/2115346057584394339",
+  "author": {
+    "name": "DailyPapers",
+    "handle": "@HuggingPapers",
+    "profile_url": "https://x.com/HuggingPapers"
+  },
+  "posted_at": "2026-10-28T07:32:56Z",
+  "collected_at": "2026-10-29T16:31:16Z",
+  "updated_at": "2026-10-29T16:31:16Z",
+  "thread": [],
+  "summary_md": "**DailyPapers ([@HuggingPapers](https://x.com/HuggingPapers/status/2115346057584394339))** flags Tencent's **ExplorationBench** dataset on Hugging Face, which measures how well AI systems explore and discover unfamiliar rules in verifiable \"Alien Worlds\".",
+  "referenced_urls": [
+    {
+      "url": "https://huggingface.co/datasets/tencent/ExplorationBench",
+      "short_url": "https://t.co/N8IKRToHUv",
+      "title": "tencent/ExplorationBench · Datasets at Hugging Face",
+      "from_post": "2115346057584394339"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-cognition"
+  ],
+  "relevance": "A benchmark for exploratory reasoning in agents."
+}

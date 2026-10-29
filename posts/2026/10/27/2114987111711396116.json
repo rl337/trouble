@@ -1,0 +1,38 @@
+{
+  "id": "2114987111711396116",
+  "permalink": "https://x.com/ComputerPapers/status/2114987111711396116",
+  "author": {
+    "name": "Software Engineering Papers",
+    "handle": "@ComputerPapers",
+    "profile_url": "https://x.com/ComputerPapers"
+  },
+  "posted_at": "2026-10-27T07:46:36Z",
+  "collected_at": "2026-10-29T16:31:06Z",
+  "updated_at": "2026-10-29T16:31:06Z",
+  "thread": [],
+  "summary_md": "**Software Engineering Papers ([@ComputerPapers](https://x.com/ComputerPapers/status/2114987111711396116))** posts *Navigating Epistemic Parity in LLM Agents* (Pandey; NeurIPS 2026 Verify-Agents Workshop): a 52-scenario benchmark for how agents resolve contradictions between episodic memory and SKILL.md skills injected into the same context.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.33128",
+      "short_url": "https://t.co/n56XLTjHJe",
+      "title": "Navigating Epistemic Parity in LLM Agents: A Benchmark for...",
+      "from_post": "2114987111711396116"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-cognition"
+  ],
+  "relevance": "Directly relevant to harnesses that combine memory and skills without precedence rules.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HVnxkgYWcAA8f1i.png",
+      "from_post": "2114987111711396116",
+      "description": "Screenshot of a paper abstract on 'epistemic parity': conflicts between episodic memory and SKILL.md skill modules injected into the same context, and a 52-scenario benchmark for how agents resolve them.",
+      "thumbnail": "posts/2026/10/27/2114987111711396116/media/0.webp",
+      "kind": "paper",
+      "ocr_text": "Production LLM agents increasingly run episodic memory pipelines and procedural skill modules (e.g., SKILL.md files) in tandem. Both are injected into the same context region with no defined precedence, so they can issue contradictory instructions that no instruction hierarchy resolves, a condition we term epistemic parity. We introduce a benchmark for measuring how LLM agents adjudicate such cross-source conflicts. We (i) develop a four-way taxonomy of memory-skill contradictions (factual, format, procedural, permission); (ii) instantiate 52 scenarios under a tripartite test-case anatomy (memory injection, skill injection, ambiguous user task), scored almost entirely by deterministic checkers over tool-call payloads and output structure; and (iii) run each scenario under three context conditions to isolate positional bias, measure the efficacy of an explicit precedence directiv…"
+    }
+  ]
+}

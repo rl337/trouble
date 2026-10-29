@@ -1,0 +1,37 @@
+{
+  "id": "2115483098456662352",
+  "permalink": "https://x.com/HOCupdate/status/2115483098456662352",
+  "author": {
+    "name": "Hackers Online Club (HOC)",
+    "handle": "@HOCupdate",
+    "profile_url": "https://x.com/HOCupdate"
+  },
+  "posted_at": "2026-10-28T16:37:29Z",
+  "collected_at": "2026-10-29T16:31:16Z",
+  "updated_at": "2026-10-29T16:31:16Z",
+  "thread": [],
+  "summary_md": "**Hackers Online Club (HOC) ([@HOCupdate](https://x.com/HOCupdate/status/2115483098456662352))** covers **NVIDIA SkillSpector**, an open-source security scanner for AI agent skills and MCP servers.",
+  "referenced_urls": [
+    {
+      "url": "https://hackersonlineclub.com/nvidia-skillspector-ai-agent-mcp-security-scanner/",
+      "short_url": "https://t.co/0EyeUcJKPF",
+      "title": "NVIDIA SkillSpector: Complete Security Scanner for AI Agent Skills & MCP",
+      "from_post": "2115483098456662352"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "relevance": "A vendor-backed scanner for the skill/MCP supply chain.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HVu0qZ5a8AAn8bC.jpg",
+      "from_post": "2115483098456662352",
+      "description": "Infographic 'How NVIDIA SkillSpector Works': an agent skill or MCP package is ingested (Git, URL, zip, local folder), checked by a static analysis engine (AST taint tracking, YARA, OSV.dev CVE lookups) and LLM semantic analysis (description vs behavior mismatch, prompt injection, MCP over-privileging), producing a verdict as SARIF/JSON/Markdown/terminal reports.",
+      "thumbnail": "posts/2026/10/28/2115483098456662352/media/0.webp",
+      "kind": "diagram"
+    }
+  ]
+}

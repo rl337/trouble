@@ -1,0 +1,38 @@
+{
+  "id": "2115459913791250551",
+  "permalink": "https://x.com/VilmerRose/status/2115459913791250551",
+  "author": {
+    "name": "Vilmer Rose",
+    "handle": "@VilmerRose",
+    "profile_url": "https://x.com/VilmerRose"
+  },
+  "posted_at": "2026-10-28T15:05:21Z",
+  "collected_at": "2026-10-29T16:31:16Z",
+  "updated_at": "2026-10-29T16:31:16Z",
+  "thread": [],
+  "summary_md": "**Vilmer Rose ([@VilmerRose](https://x.com/VilmerRose/status/2115459913791250551))** runs the official **DeepSeek V4.1 Flash 1017** checkpoint (MXFP4 experts + FP8 rest, 1M context) on SGLang with prefill holding 4,500-4,800 tok/s out to 137K tokens, crediting @MiaAI_lab's recipe and an NCCL patch from the FujitsuPolycom/sparkring repo.",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/FujitsuPolycom/sparkring",
+      "short_url": "https://t.co/XcChe1YPcE",
+      "title": "GitHub - FujitsuPolycom/sparkring: Low-latency collective transport and distributed LLM serving stack for switchless GB10 clusters.",
+      "from_post": "2115459913791250551"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "local-models"
+  ],
+  "relevance": "Long-context prefill numbers and a multi-Spark transport repo for serving a frontier MoE locally.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HVueS4dXYAA4ml4.png",
+      "from_post": "2115459913791250551",
+      "description": "Table of per-user generation speed for concurrent users each writing a 600-token answer with thinking off, plain chat vs a 41K-token Hermes-like history, plus whole-server throughput.",
+      "thumbnail": "posts/2026/10/28/2115459913791250551/media/0.webp",
+      "kind": "chart",
+      "ocr_text": "Here's the ladder. Each user writes a 600-token answer with thinking off, all at the same time.\nUsers at once | Speed per user, plain chat | Speed per user, 41K-token history (Hermes-like) | Whole server\n1 | 60 tok/s | 53 tok/s | 53-60\n2 | 38 | 39 | ~77\n4 | 29 | 27 | ~105\n8 | 19 | 17 | ~140\n16 | 13 | 11 | ~170-200"
+    }
+  ]
+}

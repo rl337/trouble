@@ -1,0 +1,38 @@
+{
+  "id": "2115567672456888604",
+  "permalink": "https://x.com/ComputerPapers/status/2115567672456888604",
+  "author": {
+    "name": "Software Engineering Papers",
+    "handle": "@ComputerPapers",
+    "profile_url": "https://x.com/ComputerPapers"
+  },
+  "posted_at": "2026-10-28T22:13:33Z",
+  "collected_at": "2026-10-29T16:31:16Z",
+  "updated_at": "2026-10-29T16:31:16Z",
+  "thread": [],
+  "summary_md": "**Software Engineering Papers ([@ComputerPapers](https://x.com/ComputerPapers/status/2115567672456888604))** shares **UnityBench-Mini3D**: 77 project-level Unity tasks across seven skill categories, scored by 1,178 held-out human-authored milestone tests of scene structure, components and runtime behavior.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.35980",
+      "short_url": "https://t.co/b8JhxnJWYQ",
+      "title": "UnityBench-Mini3D: Evaluating LLM Agents for 3D Game Development in Unity",
+      "from_post": "2115567672456888604"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-media"
+  ],
+  "relevance": "Evaluates agents on 3D game creation inside a real engine, with deterministic partial credit.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HVwBlmIWYAAqR5H.png",
+      "from_post": "2115567672456888604",
+      "description": "Abstract excerpt of UnityBench-Mini3D: 77 project-level Unity tasks in seven skill categories evaluated with 1,178 held-out human-authored milestone tests.",
+      "thumbnail": "posts/2026/10/28/2115567672456888604/media/0.webp",
+      "kind": "paper",
+      "ocr_text": "Game development stresses coding agents in ways general software engineering does not: correctness depends on how engine APIs, serialized scene state, and runtime behavior interact, not on source code alone. Existing benchmarks mainly target platforms such as Godot and heavily rely on LLM judges or coarse task-level outcomes. We present UnityBench-Mini3D, a benchmark of 77 project-level Unity tasks organized around seven expert-defined skill categories rather than tutorials or genres, with three difficulty tiers. Each task pairs a complete Unity project with natural-language requirements and is evaluated using 1,178 held-out, human-authored milestone tests covering scene structure, component configuration, and runtime behavior. This in-engine evaluation provides deterministic partial credit, localizes failures, and distinguishes partial implementations fro…"
+    }
+  ]
+}

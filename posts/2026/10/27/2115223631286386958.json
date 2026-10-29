@@ -1,0 +1,38 @@
+{
+  "id": "2115223631286386958",
+  "permalink": "https://x.com/HEI/status/2115223631286386958",
+  "author": {
+    "name": "Natural Language Processing Papers",
+    "handle": "@HEI",
+    "profile_url": "https://x.com/HEI"
+  },
+  "posted_at": "2026-10-27T23:26:27Z",
+  "collected_at": "2026-10-29T16:31:06Z",
+  "updated_at": "2026-10-29T16:31:06Z",
+  "thread": [],
+  "summary_md": "**Natural Language Processing Papers ([@HEI](https://x.com/HEI/status/2115223631286386958))** posts **Tampered ML** (Ebadian, Alamdari, Benton, Joren; EMNLP 2026): 1,858 pairs of ML experiment proposals vs minimally flawed counterfactuals; frontier models beat chance but remain unreliable (Opus 5 at 77.9%).",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.32114",
+      "short_url": "https://t.co/kHrjiHWy0P",
+      "title": "Tampered ML: Evaluating LLM Judgment of Machine Learning Research",
+      "from_post": "2115223631286386958"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-cognition"
+  ],
+  "relevance": "Measures whether models can vet research methodology — key for automated research agents.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HVrIrwsWgAEKsv6.png",
+      "from_post": "2115223631286386958",
+      "description": "Screenshot of the Tampered ML paper abstract: 1,858 item-pairs of ML experiment proposals vs minimally edited flawed counterfactuals, testing whether models can spot methodological flaws to help automate alignment research.",
+      "thumbnail": "posts/2026/10/27/2115223631286386958/media/0.webp",
+      "kind": "paper",
+      "ocr_text": "One approach to accelerating progress on AI alignment is to automate parts of alignment research itself. Doing so requires systems that can perform reliably on hard-to-supervise research tasks, including identifying flaws in research proposals and evaluating whether a proposed experiment supports its intended claim. To evaluate this capability, we introduce Tampered ML, a benchmark of 1,858 item-pairs, each consisting of an experiment proposal reconstructed from a published machine learning paper and a minimally edited counterfactual that introduces a targeted methodological flaw. Models must identify the more methodologically sound proposal in both presentation orders. A human validation study on a stratified sample estimates that 86% of items are valid (95% CI: 81-91%). Frontier models perform above chance but remain far from reliable (with Opus 5 achieving 77.9%…"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "2115577068541125062",
+  "permalink": "https://x.com/strangelooptv/status/2115577068541125062",
+  "author": {
+    "name": "👁STRANGELOOP💥",
+    "handle": "@strangelooptv",
+    "profile_url": "https://x.com/strangelooptv"
+  },
+  "posted_at": "2026-10-28T22:50:53Z",
+  "collected_at": "2026-10-29T16:31:16Z",
+  "updated_at": "2026-10-29T16:31:16Z",
+  "thread": [],
+  "summary_md": "**👁STRANGELOOP💥 ([@strangelooptv](https://x.com/strangelooptv/status/2115577068541125062))** made **OpenField**, a local Higgsfield clone for video, stills and 3D where every app is a ComfyUI workflow using open weights; MIT-licensed.",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/wexloops/openfield",
+      "short_url": "https://t.co/ulkQMr5Z64",
+      "title": "GitHub - wexloops/openfield: Open-source studio for video, stills and 3D on your own GPU through ComfyUI",
+      "from_post": "2115577068541125062"
+    }
+  ],
+  "hashtags": [
+    "OpenSourceHiggsfield"
+  ],
+  "topics": [
+    "agentic-media"
+  ],
+  "relevance": "An open, GPU-local media studio built entirely on swappable workflows.",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://x.com/strangelooptv/status/2115577068541125062/video/1",
+      "from_post": "2115577068541125062",
+      "description": "Demo video of OpenField, a local Higgsfield-style app for video, stills and 3D built on ComfyUI workflows (not downloaded; referenced only)."
+    }
+  ]
+}

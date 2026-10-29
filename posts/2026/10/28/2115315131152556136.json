@@ -1,0 +1,27 @@
+{
+  "id": "2115315131152556136",
+  "permalink": "https://x.com/cleitonaugustob/status/2115315131152556136",
+  "author": {
+    "name": "Cleiton Augusto",
+    "handle": "@cleitonaugustob",
+    "profile_url": "https://x.com/cleitonaugustob"
+  },
+  "posted_at": "2026-10-28T05:30:02Z",
+  "collected_at": "2026-10-29T16:31:06Z",
+  "updated_at": "2026-10-29T16:31:06Z",
+  "thread": [],
+  "summary_md": "**Cleiton Augusto ([@cleitonaugustob](https://x.com/cleitonaugustob/status/2115315131152556136))** reports a bypass in **airlock**, a prompt-injection plugin for Hermes Agent: with `approvals_off: block`, a gateway-run `hermes -z` turn could execute an action that required approval. It was fixed in 0.2.3; the GitHub security advisory has details.",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/otsoa-dubief/airlock/security/advisories/GHSA-mgf8-gh7g-q4rg",
+      "short_url": "https://t.co/Q6FbMwkvPr",
+      "title": "Approval-required actions run without approval in gateway-run `hermes -z` turns",
+      "from_post": "2115315131152556136"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "relevance": "A real approval-gate bypass in an agent harness plugin, with an advisory to learn from."
+}

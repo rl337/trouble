@@ -1,0 +1,37 @@
+{
+  "id": "2115218342814355870",
+  "permalink": "https://x.com/Motionzkit/status/2115218342814355870",
+  "author": {
+    "name": "Motionz",
+    "handle": "@Motionzkit",
+    "profile_url": "https://x.com/Motionzkit"
+  },
+  "posted_at": "2026-10-27T23:05:26Z",
+  "collected_at": "2026-10-29T16:31:06Z",
+  "updated_at": "2026-10-29T16:31:06Z",
+  "thread": [],
+  "summary_md": "**Motionz ([@Motionzkit](https://x.com/Motionzkit/status/2115218342814355870))** launches **Motionz**: open-source motion components for Remotion, copied into a project with one shadcn command, each shipping with an agent skill.",
+  "referenced_urls": [
+    {
+      "url": "https://motionz.dev",
+      "short_url": "https://t.co/DCzo4wUWBF",
+      "title": "Motionz",
+      "from_post": "2115218342814355870"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-media"
+  ],
+  "relevance": "Agent-ready motion-graphics building blocks for programmatic video.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HVrD3onXkAAOHbu.jpg",
+      "from_post": "2115218342814355870",
+      "description": "Banner 'Motion components for Remotion.' (copy the source with the shadcn CLI, motionz.dev) with colorful pill shapes labeled Title Card, Pill Drop, Logo Pill, Handwriting, Beat Grid and Cursor.",
+      "thumbnail": "posts/2026/10/27/2115218342814355870/media/0.webp",
+      "kind": "screenshot"
+    }
+  ]
+}

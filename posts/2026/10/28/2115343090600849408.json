@@ -1,0 +1,43 @@
+{
+  "id": "2115343090600849408",
+  "permalink": "https://x.com/jdnichollsc/status/2115343090600849408",
+  "author": {
+    "name": "J.D. Nicholls is building in public",
+    "handle": "@jdnichollsc",
+    "profile_url": "https://x.com/jdnichollsc"
+  },
+  "posted_at": "2026-10-28T07:21:08Z",
+  "collected_at": "2026-10-29T16:31:16Z",
+  "updated_at": "2026-10-29T16:31:16Z",
+  "thread": [],
+  "summary_md": "**J.D. Nicholls is building in public ([@jdnichollsc](https://x.com/jdnichollsc/status/2115343090600849408))** relaunches **Blender Skills** as an upgraded AI technical-art team inside Blender: 85+ MCP-powered skills that plug into agents such as Claude, Cursor and Hermes, in the proyecto26/blender-ai-plugin repo.",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/proyecto26/blender-ai-plugin",
+      "short_url": "https://t.co/Uvn8W8gGzi",
+      "from_post": "2115343090600849408"
+    }
+  ],
+  "hashtags": [
+    "Blender",
+    "AI",
+    "Skills",
+    "AgentPlugin",
+    "Claude",
+    "Codex",
+    "Cursor"
+  ],
+  "topics": [
+    "agentic-media",
+    "harness-dev"
+  ],
+  "relevance": "A large skill pack turning coding agents into 3D content tools.",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://x.com/jdnichollsc/status/2115343090600849408/video/1",
+      "from_post": "2115343090600849408",
+      "description": "Promo video for the upgraded Blender Skills pack of 85+ MCP-powered skills (not downloaded; referenced only)."
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": "2115364600988455409",
+  "permalink": "https://x.com/jdnichollsc/status/2115364600988455409",
+  "author": {
+    "name": "J.D. Nicholls is building in public",
+    "handle": "@jdnichollsc",
+    "profile_url": "https://x.com/jdnichollsc"
+  },
+  "posted_at": "2026-10-28T08:46:37Z",
+  "collected_at": "2026-10-29T16:31:16Z",
+  "updated_at": "2026-10-29T16:31:16Z",
+  "thread": [
+    {
+      "id": "2115364974902264170",
+      "permalink": "https://x.com/jdnichollsc/status/2115364974902264170",
+      "posted_at": "2026-10-28T08:48:06Z",
+      "position": 1
+    }
+  ],
+  "summary_md": "**J.D. Nicholls is building in public ([@jdnichollsc](https://x.com/jdnichollsc/status/2115364600988455409))** introduces **Seam**: drop two shots (images, clips or 3D models), pick an effect, and LTX-2.5 renders the in-between on ComfyUI, with every take saved as a workflow. The self-reply adds that it is MIT, open-weights only, and ships an MCP plugin so Claude Code can make takes too (jdnichollsc/seam).",
+  "referenced_urls": [
+    {
+      "url": "https://jdnichollsc.github.io/seam/",
+      "short_url": "https://t.co/BupY2h2jyN",
+      "title": "Seam — two shots in, one transition out",
+      "from_post": "2115364600988455409"
+    },
+    {
+      "url": "https://github.com/jdnichollsc/seam",
+      "short_url": "https://t.co/ySDlEzcXqs",
+      "title": "GitHub - jdnichollsc/seam: Two shots in, one transition out. Open-source AI video transitions (smoke, water bend, whip pan) from a first and last image, rendered on your own GPU with open-weights LTX models via ComfyUI + the Comfy SDK. Web app, CLI and a AI agent plugin.",
+      "from_post": "2115364974902264170"
+    }
+  ],
+  "hashtags": [
+    "OpenSourceHiggsfield"
+  ],
+  "topics": [
+    "agentic-media"
+  ],
+  "relevance": "Open, local transitions as reproducible workflows that a coding agent can drive over MCP.",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://x.com/jdnichollsc/status/2115364600988455409/video/1",
+      "from_post": "2115364600988455409",
+      "description": "Demo video of Seam rendering transitions between two shots with LTX-2.5 on ComfyUI (not downloaded; referenced only)."
+    }
+  ]
+}

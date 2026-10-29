@@ -1,0 +1,27 @@
+{
+  "id": "2115066441754099893",
+  "permalink": "https://x.com/DanteMMartin/status/2115066441754099893",
+  "author": {
+    "name": "Dante Martin",
+    "handle": "@DanteMMartin",
+    "profile_url": "https://x.com/DanteMMartin"
+  },
+  "posted_at": "2026-10-27T13:01:50Z",
+  "collected_at": "2026-10-29T16:31:06Z",
+  "updated_at": "2026-10-29T16:31:06Z",
+  "thread": [],
+  "summary_md": "**Dante Martin ([@DanteMMartin](https://x.com/DanteMMartin/status/2115066441754099893))** highlights **d3-ultra** from vLLM Semantic Router: a 27B Apache-2.0 model that reads input once and answers typed questions (multiple choice, yes/no, score, images) as probabilities.",
+  "referenced_urls": [
+    {
+      "url": "https://huggingface.co/vllm-sr/d3-ultra",
+      "short_url": "https://t.co/hWtah5Owku",
+      "title": "vllm-sr/d3-ultra · Hugging Face",
+      "from_post": "2115066441754099893"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "local-models"
+  ],
+  "relevance": "A ~27B open classifier-style model for routing and judging inside agent stacks."
+}

@@ -1,0 +1,38 @@
+{
+  "id": "2115507613232153080",
+  "permalink": "https://x.com/ComputerPapers/status/2115507613232153080",
+  "author": {
+    "name": "Software Engineering Papers",
+    "handle": "@ComputerPapers",
+    "profile_url": "https://x.com/ComputerPapers"
+  },
+  "posted_at": "2026-10-28T18:14:53Z",
+  "collected_at": "2026-10-29T16:31:16Z",
+  "updated_at": "2026-10-29T16:31:16Z",
+  "thread": [],
+  "summary_md": "**Software Engineering Papers ([@ComputerPapers](https://x.com/ComputerPapers/status/2115507613232153080))** shares **RepoTrace**, improving requirement tracing in multi-round agent interactions.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.35333",
+      "short_url": "https://t.co/jxE04MVZWT",
+      "title": "RepoTrace: Improving Requirement Tracing in Multi-Round Agent Interactions",
+      "from_post": "2115507613232153080"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "relevance": "Keeps coding agents tied to requirements over many turns.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HVvK9rDWYAAWfhN.png",
+      "from_post": "2115507613232153080",
+      "description": "Abstract excerpt of RepoTrace, a requirement-driven repository-understanding harness motivated by 'requirement focus misalignment' found in 2,656 EvoCode-Bench trajectories.",
+      "thumbnail": "posts/2026/10/28/2115507613232153080/media/0.webp",
+      "kind": "paper",
+      "ocr_text": "Code agents have become increasingly capable of performing software engineering tasks through interaction with software environments. However, agents tend to degrade as the number of interaction rounds increases, making it difficult to maintain existing software during iterative modification. We analyze 2,656 agent trajectories in EvoCode-Bench and identify requirement focus misalignment as a recurring failure pattern, where agents struggle to distinguish the primary modification targets of a requirement from unrelated code. We propose Repotrace a requirement-driven repository understanding harness that combines repository structure with requirement semantics to construct a requirement-code correspondence and injects it into the agent context. This correspondence enables code agents to follow the repository architecture, trace requirements across multi-round interactions, and identify t…"
+    }
+  ]
+}

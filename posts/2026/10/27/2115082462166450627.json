@@ -1,0 +1,37 @@
+{
+  "id": "2115082462166450627",
+  "permalink": "https://x.com/foobar_beer/status/2115082462166450627",
+  "author": {
+    "name": "Jakub",
+    "handle": "@foobar_beer",
+    "profile_url": "https://x.com/foobar_beer"
+  },
+  "posted_at": "2026-10-27T14:05:29Z",
+  "collected_at": "2026-10-29T16:31:06Z",
+  "updated_at": "2026-10-29T16:31:06Z",
+  "thread": [],
+  "summary_md": "**Jakub ([@foobar_beer](https://x.com/foobar_beer/status/2115082462166450627))** ships **Neoize**, a Claude Code plugin that turns project knowledge — code structure, lessons learned, operational knowledge — into a local searchable Neo4j graph, so Claude pulls relevant nodes instead of grepping Markdown. In replies Jakub explains a `/neoize:wrap` skill run at session end to update the graph.",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/foobar-beer/claude-neoize",
+      "short_url": "https://t.co/6vtGXysURA",
+      "title": "GitHub - foobar-beer/claude-neoize: Turn a codebase and its hard-won knowledge into a local Neo4j graph Claude Code queries by relevance. A plugin.",
+      "from_post": "2115082462166450627"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "relevance": "A graph-backed memory alternative to markdown notes for coding-agent context.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HVpIMmCXgAAg0l8.jpg",
+      "from_post": "2115082462166450627",
+      "description": "Neo4j Browser graph view of a large knowledge graph (14,207 nodes, 26,454 relationships) with node labels such as Artifact, Feature, File, Lesson, Operation, Protocol and Symbol, built by the Neoize plugin for agent sessions.",
+      "thumbnail": "posts/2026/10/27/2115082462166450627/media/0.webp",
+      "kind": "screenshot"
+    }
+  ]
+}

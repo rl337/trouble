@@ -1,0 +1,27 @@
+{
+  "id": "2115396740195225938",
+  "permalink": "https://x.com/qikamatata/status/2115396740195225938",
+  "author": {
+    "name": "Qikaman",
+    "handle": "@qikamatata",
+    "profile_url": "https://x.com/qikamatata"
+  },
+  "posted_at": "2026-10-28T10:54:19Z",
+  "collected_at": "2026-10-29T16:31:16Z",
+  "updated_at": "2026-10-29T16:31:16Z",
+  "thread": [],
+  "summary_md": "**Qikaman ([@qikamatata](https://x.com/qikamatata/status/2115396740195225938))** (in Chinese) highlights **slotstream**, a Swift+MLX project that streams a ~125B 4-bit Qwen from SSD so a 16 GB Mac can run a 105 GB model; the post cites about 16-24 tok/s on a 48 GB M5 Pro and ~600 GitHub stars.",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/carloslfu/slotstream",
+      "short_url": "https://t.co/EneSM3YRUB",
+      "title": "GitHub - carloslfu/slotstream: Run a 105 GB AI model on a Mac that can't hold it. Slotstream streams Qwen3.8-Flash-Next (125B mixture of experts) from your SSD and caches the busiest experts in memory, so it runs on Macs with 16 to 64 GB. One native Swift binary on MLX and Metal, no Python, offline.",
+      "from_post": "2115396740195225938"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "local-models"
+  ],
+  "relevance": "SSD-streaming lets max-tier MoE models run on Macs without enough RAM: relevant for local agents on smaller boxes."
+}

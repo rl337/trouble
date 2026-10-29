@@ -7,8 +7,8 @@
     "profile_url": "https://x.com/attnsumit"
   },
   "posted_at": "2026-10-28T03:48:31Z",
-  "collected_at": "2026-10-29T15:06:13Z",
-  "updated_at": "2026-10-29T15:06:13Z",
+  "collected_at": "2026-10-29T16:31:06Z",
+  "updated_at": "2026-10-29T16:31:06Z",
   "thread": [],
   "summary_md": "**Sumit Agrawal ([@attnsumit](https://x.com/attnsumit/status/2115289582606692522))** flags two DGX Spark speed-ups that landed the same week and recommends Spark owners try both:\n\n1. **Mia's AI Lab** — a TensorFold build for running **Qwen3.8 Flash Next on a single DGX Spark**.\n2. **NVIDIA's technical blog** — *3 Ways to Boost MoE Inference on NVIDIA DGX Spark*.\n\nThe post itself is a pointer; the substance lives in the two linked pages.",
   "referenced_urls": [

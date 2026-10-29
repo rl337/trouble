@@ -1,0 +1,94 @@
+{
+  "id": "2115153311292915976",
+  "permalink": "https://x.com/JLiang51825/status/2115153311292915976",
+  "author": {
+    "name": "Jiarong Liang",
+    "handle": "@JLiang51825",
+    "profile_url": "https://x.com/JLiang51825"
+  },
+  "posted_at": "2026-10-27T18:47:01Z",
+  "collected_at": "2026-10-29T16:31:06Z",
+  "updated_at": "2026-10-29T16:31:06Z",
+  "thread": [
+    {
+      "id": "2115153313809543631",
+      "permalink": "https://x.com/JLiang51825/status/2115153313809543631",
+      "posted_at": "2026-10-27T18:47:02Z",
+      "position": 1
+    },
+    {
+      "id": "2115153316800073977",
+      "permalink": "https://x.com/JLiang51825/status/2115153316800073977",
+      "posted_at": "2026-10-27T18:47:03Z",
+      "position": 2
+    },
+    {
+      "id": "2115153319568236849",
+      "permalink": "https://x.com/JLiang51825/status/2115153319568236849",
+      "posted_at": "2026-10-27T18:47:03Z",
+      "position": 3
+    },
+    {
+      "id": "2115153321560514890",
+      "permalink": "https://x.com/JLiang51825/status/2115153321560514890",
+      "posted_at": "2026-10-27T18:47:04Z",
+      "position": 4
+    },
+    {
+      "id": "2115153323540250907",
+      "permalink": "https://x.com/JLiang51825/status/2115153323540250907",
+      "posted_at": "2026-10-27T18:47:04Z",
+      "position": 5
+    },
+    {
+      "id": "2115153325444546617",
+      "permalink": "https://x.com/JLiang51825/status/2115153325444546617",
+      "posted_at": "2026-10-27T18:47:05Z",
+      "position": 6
+    }
+  ],
+  "summary_md": "**Jiarong Liang ([@JLiang51825](https://x.com/JLiang51825/status/2115153311292915976))** introduces **ReGE**: an agent synthesizes its own past attempts into guidance for a fresh attempt by the same model. The thread reports GPT-5.6 Luna + ReGE at 67.4% success vs GPT-5.6 Sol at 67.0% for 28% of the cost across Terminal-Bench 2.0, Spider2-Lite, AndroidWorld and BrowseComp-Plus; guidance is one coach call, and gains are largest when attempts disagree. Code is open.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.33861",
+      "short_url": "https://t.co/M5FyIZ7xxd",
+      "title": "ReGE: Stronger Agents through Experience Synthesis",
+      "from_post": "2115153311292915976"
+    },
+    {
+      "url": "https://tiger-ai-lab.github.io/ReGE/",
+      "short_url": "https://t.co/mN31iV5GuB",
+      "title": "ReGE: Stronger Agents through Experience Synthesis",
+      "from_post": "2115153311292915976"
+    },
+    {
+      "url": "https://huggingface.co/papers/2610.33861",
+      "short_url": "https://t.co/zZDln2H4iE",
+      "title": "Paper page - ReGE: Stronger Agents through Experience Synthesis",
+      "from_post": "2115153311292915976"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-cognition"
+  ],
+  "relevance": "Experience synthesis as a cheap way to lift a smaller model to a bigger one's level.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HVqHi1JaMAAVsSj.jpg",
+      "from_post": "2115153311292915976",
+      "description": "Scatter plot of task success vs cost per task over 4 benchmarks (468 paired tasks): gpt-5.6-luna + ReGE 67.4% at $0.214, gpt-5.6-sol 67.0% at $0.766, gpt-5.6-terra 63.9% at $0.370, gpt-6-luna 49.4% at $0.009.",
+      "thumbnail": "posts/2026/10/27/2115153311292915976/media/0.webp",
+      "kind": "chart"
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HVqH5ZZbUAA_UmT.png",
+      "from_post": "2115153316800073977",
+      "description": "Method diagram: an LLM's K recorded attempts on a task form a trajectory pool; a coach synthesizes guidance (facts, operations, pitfalls, artifacts) that steers a student in a fresh, reset environment (web, terminal, files, apps), evaluated on Terminal-Bench 2.0, Spider2-Lite, AndroidWorld and BrowseComp-Plus.",
+      "thumbnail": "posts/2026/10/27/2115153311292915976/media/1.webp",
+      "kind": "diagram"
+    }
+  ]
+}

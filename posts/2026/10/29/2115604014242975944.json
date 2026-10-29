@@ -1,0 +1,38 @@
+{
+  "id": "2115604014242975944",
+  "permalink": "https://x.com/HEI/status/2115604014242975944",
+  "author": {
+    "name": "Natural Language Processing Papers",
+    "handle": "@HEI",
+    "profile_url": "https://x.com/HEI"
+  },
+  "posted_at": "2026-10-29T00:37:57Z",
+  "collected_at": "2026-10-29T16:31:16Z",
+  "updated_at": "2026-10-29T16:31:16Z",
+  "thread": [],
+  "summary_md": "**Natural Language Processing Papers ([@HEI](https://x.com/HEI/status/2115604014242975944))** shares **FlexA-Mem**, budget-adaptive agentic memory for LLM agents.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.33274",
+      "short_url": "https://t.co/OXCXFjHIlY",
+      "title": "FlexA-Mem: Budget-Adaptive Agentic Memory for LLM Agents",
+      "from_post": "2115604014242975944"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-cognition"
+  ],
+  "relevance": "Memory that scales with a cost budget.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HVwio9zWgAAaMwk.png",
+      "from_post": "2115604014242975944",
+      "description": "Abstract excerpt of FlexA-Mem: an immutable history store that renders a fresh, budget-fitted memory (timeline plus relevant detail) for every call without an extra LLM call.",
+      "thumbnail": "posts/2026/10/29/2115604014242975944/media/0.webp",
+      "kind": "paper",
+      "ocr_text": "Large language model (LLM) agents work in scenarios with very different memory needs. A question about past conversations needs the exact facts it names, while a multi-step task needs a trace of the steps already taken together with details that the next step cannot name. Existing memories are each designed and tested for one kind of scenario. Retrieval memories such as A-Mem miss steps that the current query does not express, summaries drop exact strings, and pairing the two fixes the split of the budget in advance. We propose FlexA-Mem, a general memory that writes each unit of history once into an immutable store and renders a fresh memory for every call. The rendered memory is a compact timeline of records plus detail that a fixed rule fits into the remaining room without an LLM call. The detail is either relevant units as raw text or excerpts or the verbatim pieces that best match the query. Wi…"
+    }
+  ]
+}

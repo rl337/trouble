@@ -1,0 +1,27 @@
+{
+  "id": "2115648665943769206",
+  "permalink": "https://x.com/MarkFutureai/status/2115648665943769206",
+  "author": {
+    "name": "Marko Vale",
+    "handle": "@MarkFutureai",
+    "profile_url": "https://x.com/MarkFutureai"
+  },
+  "posted_at": "2026-10-29T03:35:23Z",
+  "collected_at": "2026-10-29T16:31:16Z",
+  "updated_at": "2026-10-29T16:31:16Z",
+  "thread": [],
+  "summary_md": "**Marko Vale ([@MarkFutureai](https://x.com/MarkFutureai/status/2115648665943769206))** (in Chinese) shares **LoopPrism**, a zero-config local session inspector for Claude Code and Codex that stores data in SQLite and replays each tool call with its cost, showing what fills the context and where time and tokens go.",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/AMark-CS/LoopPrism",
+      "short_url": "https://t.co/KQaJxQt6Bv",
+      "title": "GitHub - AMark-CS/LoopPrism: See what your agents actually do.",
+      "from_post": "2115648665943769206"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "relevance": "Local observability for coding-agent sessions."
+}

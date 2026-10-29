@@ -1,0 +1,41 @@
+{
+  "id": "2115607410274451916",
+  "permalink": "https://x.com/TheDavidTai/status/2115607410274451916",
+  "author": {
+    "name": "TheDavidTai",
+    "handle": "@TheDavidTai",
+    "profile_url": "https://x.com/TheDavidTai"
+  },
+  "posted_at": "2026-10-29T00:51:27Z",
+  "collected_at": "2026-10-29T16:31:16Z",
+  "updated_at": "2026-10-29T16:31:16Z",
+  "thread": [],
+  "summary_md": "**TheDavidTai ([@TheDavidTai](https://x.com/TheDavidTai/status/2115607410274451916))** publishes an X article arguing that **EXL3 (via TurboEXL3)** should be the default model format on modern Macs; the article links the davidtai/turboexl3 GitHub repo, EXL3 quants on Hugging Face (e.g. turboderp's Qwen3.8-Flash-Next-exl3) and mlx-serve for comparison.",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/davidtai/turboexl3",
+      "from_post": "2115607410274451916"
+    },
+    {
+      "url": "https://huggingface.co/OpensourceWTF",
+      "from_post": "2115607410274451916"
+    },
+    {
+      "url": "https://huggingface.co/turboderp/Qwen3.8-Flash-Next-exl3",
+      "from_post": "2115607410274451916"
+    },
+    {
+      "url": "https://github.com/ddalcu/mlx-serve",
+      "from_post": "2115607410274451916"
+    },
+    {
+      "url": "https://github.com/ml-explore/mlx",
+      "from_post": "2115607410274451916"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "local-models"
+  ],
+  "relevance": "An alternative quant/runtime path for Mac local inference with repos and weights to try."
+}

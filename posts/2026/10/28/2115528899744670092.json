@@ -1,0 +1,66 @@
+{
+  "id": "2115528899744670092",
+  "permalink": "https://x.com/positronx_/status/2115528899744670092",
+  "author": {
+    "name": "Shubhu",
+    "handle": "@positronx_",
+    "profile_url": "https://x.com/positronx_"
+  },
+  "posted_at": "2026-10-28T19:39:28Z",
+  "collected_at": "2026-10-29T16:31:16Z",
+  "updated_at": "2026-10-29T16:31:16Z",
+  "thread": [
+    {
+      "id": "2115554118559527301",
+      "permalink": "https://x.com/positronx_/status/2115554118559527301",
+      "posted_at": "2026-10-28T21:19:41Z",
+      "position": 1
+    },
+    {
+      "id": "2115638544085774768",
+      "permalink": "https://x.com/positronx_/status/2115638544085774768",
+      "posted_at": "2026-10-29T02:55:10Z",
+      "position": 2
+    }
+  ],
+  "summary_md": "**Shubhu ([@positronx_](https://x.com/positronx_/status/2115528899744670092))** walks through making anime-style videos by generating artwork and animating it with code instead of a video model, using HeyGen's HyperFrames; the article links heygen-com/hyperframes and his shubhu121/anime-style-video repo, and follow-up replies add details.",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/heygen-com/hyperframes",
+      "from_post": "2115528899744670092"
+    },
+    {
+      "url": "https://github.com/shubhu121/anime-style-video",
+      "from_post": "2115528899744670092"
+    },
+    {
+      "url": "https://github.com/shubhu121/anime-style-video#readme",
+      "from_post": "2115528899744670092"
+    },
+    {
+      "url": "https://hyperframes.heygen.com/quickstart",
+      "from_post": "2115528899744670092"
+    },
+    {
+      "url": "https://github.com/shubhu121/anime-style-video/blob/main/skills/japanese-aesthetic-video/SKILL.md",
+      "from_post": "2115528899744670092"
+    },
+    {
+      "url": "https://docs.gmicloud.ai/mcp/gmi-mcp-server",
+      "from_post": "2115528899744670092"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-media"
+  ],
+  "relevance": "Code-driven animation as a controllable alternative to video models for agent pipelines.",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://x.com/positronx_/status/2115633822738080100/video/1",
+      "from_post": "2115638544085774768",
+      "description": "Additional demo video from the author's follow-up reply (not downloaded; referenced only)."
+    }
+  ]
+}

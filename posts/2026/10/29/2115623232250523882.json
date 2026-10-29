@@ -1,0 +1,38 @@
+{
+  "id": "2115623232250523882",
+  "permalink": "https://x.com/rnZw9HE2Fg14807/status/2115623232250523882",
+  "author": {
+    "name": "旧石",
+    "handle": "@rnZw9HE2Fg14807",
+    "profile_url": "https://x.com/rnZw9HE2Fg14807"
+  },
+  "posted_at": "2026-10-29T01:54:19Z",
+  "collected_at": "2026-10-29T16:31:16Z",
+  "updated_at": "2026-10-29T16:31:16Z",
+  "thread": [],
+  "summary_md": "**旧石 ([@rnZw9HE2Fg14807](https://x.com/rnZw9HE2Fg14807/status/2115623232250523882))** built **ie-mode-mcp**, a local MCP server with 32 tools that lets AI agents operate an IE8-only university platform through Edge IE mode, with multi-window support and crash cleanup.",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/jiushiaaa/ie-mode-mcp",
+      "short_url": "https://t.co/hwuy7neioh",
+      "title": "GitHub - jiushiaaa/ie-mode-mcp: A local MCP server for AI assistants to automate Microsoft Edge in IE mode using Selenium and IEDriver.",
+      "from_post": "2115623232250523882"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "relevance": "MCP as a bridge for agents into legacy software.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HVw0GeLawAA1jlD.png",
+      "from_post": "2115623232250523882",
+      "description": "Four-panel meme in Chinese: the Internet Explorer logo asks the Grim Reaper if it is time to go and whether it was the best browser; the Reaper answers no, everyone hated it, then leaves it behind.",
+      "thumbnail": "posts/2026/10/29/2115623232250523882/media/0.webp",
+      "kind": "other",
+      "ocr_text": "是時候該走了 / 我是最棒的瀏覽器嗎？ / 不 / 你被大家嫌到爆"
+    }
+  ]
+}

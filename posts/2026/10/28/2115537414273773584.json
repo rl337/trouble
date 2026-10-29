@@ -1,0 +1,38 @@
+{
+  "id": "2115537414273773584",
+  "permalink": "https://x.com/ComputerPapers/status/2115537414273773584",
+  "author": {
+    "name": "Software Engineering Papers",
+    "handle": "@ComputerPapers",
+    "profile_url": "https://x.com/ComputerPapers"
+  },
+  "posted_at": "2026-10-28T20:13:19Z",
+  "collected_at": "2026-10-29T16:31:16Z",
+  "updated_at": "2026-10-29T16:31:16Z",
+  "thread": [],
+  "summary_md": "**Software Engineering Papers ([@ComputerPapers](https://x.com/ComputerPapers/status/2115537414273773584))** shares **The Hidden Costs of Forgetting**, a study of trajectory deletion in software engineering agents.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.35496",
+      "short_url": "https://t.co/OSjLV478B9",
+      "title": "The Hidden Costs of Forgetting: A Study of Trajectory Deletion in...",
+      "from_post": "2115537414273773584"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "relevance": "What coding agents lose when past trajectory is pruned.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HVvmEUZW8AAraR1.png",
+      "from_post": "2115537414273773584",
+      "description": "Abstract excerpt of 'The Hidden Costs of Forgetting': 42 trajectory-reduction configurations over 9,400 SWE-bench Verified runs; deleting much old content can preserve effectiveness if applied with a delay.",
+      "thumbnail": "posts/2026/10/28/2115537414273773584/media/0.webp",
+      "kind": "paper",
+      "ocr_text": "Software engineering agents resend their entire trajectory to an LLM at every turn, motivating online trajectory reduction. Prior work shows that randomly deleting 75% of tokens in old turns may preserve agent effectiveness, but it remains unclear why, how agents compensate for missing content, and whether it actually reduces costs. This paper presents an empirical study of 42 trajectory-reduction configurations, focusing on effectiveness, agent behavior, and cost. We systematically explore deleting content from old turns by varying the scope, granularity, amount, and timing of deletion across 9,400 runs with two state-of-the-art agents on SWE-bench Verified. We find deleting large amounts of trajectory content (e.g., up to 100% of reasoning text) can preserve overall effectiveness. Importantly, such deletion must be applied with a delay, as immediate deletion tends to significantly…"
+    }
+  ]
+}

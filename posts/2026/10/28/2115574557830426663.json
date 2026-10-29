@@ -1,0 +1,39 @@
+{
+  "id": "2115574557830426663",
+  "permalink": "https://x.com/ComputerPapers/status/2115574557830426663",
+  "author": {
+    "name": "Software Engineering Papers",
+    "handle": "@ComputerPapers",
+    "profile_url": "https://x.com/ComputerPapers"
+  },
+  "posted_at": "2026-10-28T22:40:54Z",
+  "collected_at": "2026-10-29T16:31:16Z",
+  "updated_at": "2026-10-29T16:31:16Z",
+  "thread": [],
+  "summary_md": "**Software Engineering Papers ([@ComputerPapers](https://x.com/ComputerPapers/status/2115574557830426663))** shares **Small agents should know what their tools do** (Kovalenko, Redchych), which introduces EffectWorld, a world of effect-typed tools that declare their effects, idempotence and read/write sets; per the abstract shown, LoRA adapters trained on its verified traces raise Qwen3-4B task success from 53% to 99% in distribution.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.35981",
+      "short_url": "https://t.co/TKjSUfaswx",
+      "title": "Small agents should know what their tools do",
+      "from_post": "2115574557830426663"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev",
+    "local-models"
+  ],
+  "relevance": "Makes small local models far safer and more efficient tool users.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HVwH2ZBW0AEodId.png",
+      "from_post": "2115574557830426663",
+      "description": "Abstract excerpt introducing EffectWorld, effect-typed tools that let a replay verifier check effect safety; LoRA adapters lift Qwen3-4B task success from 53% to 99% in distribution.",
+      "thumbnail": "posts/2026/10/28/2115574557830426663/media/0.webp",
+      "kind": "paper",
+      "ocr_text": "Small open language models can call tools, but they do not reason about what a call does: they delete without asking, repeat writes, re-read state they already hold, and issue one call per turn where a short program would do. We introduce EffectWorld, an executable world of effect-typed tools in which every tool declares its effect, whether it is idempotent, and which resources it reads and writes. These declarations let a replay verifier decide whether a trace is effect-safe without labels or judge models, let an executor run tool programs of several dependent calls in one turn, and let a compiler-style optimizer turn wasteful traces into verified training signal; together they make EffectWorld a benchmark of effect safety and call efficiency. Low-rank adapters trained on this data deliver large gains: on Qwen3-4B, they raise task success from 53% to 99% in distribution, from 52% to 81% on a held-out…"
+    }
+  ]
+}

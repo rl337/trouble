@@ -1,0 +1,81 @@
+{
+  "id": "2115035083694555148",
+  "permalink": "https://x.com/Beamsters1/status/2115035083694555148",
+  "author": {
+    "name": "Beamsters",
+    "handle": "@Beamsters1",
+    "profile_url": "https://x.com/Beamsters1"
+  },
+  "posted_at": "2026-10-27T10:57:14Z",
+  "collected_at": "2026-10-29T16:31:06Z",
+  "updated_at": "2026-10-29T16:31:06Z",
+  "thread": [
+    {
+      "id": "2115035303279051211",
+      "permalink": "https://x.com/Beamsters1/status/2115035303279051211",
+      "posted_at": "2026-10-27T10:58:06Z",
+      "position": 1
+    },
+    {
+      "id": "2115035743567679823",
+      "permalink": "https://x.com/Beamsters1/status/2115035743567679823",
+      "posted_at": "2026-10-27T10:59:51Z",
+      "position": 2
+    },
+    {
+      "id": "2115036130269942189",
+      "permalink": "https://x.com/Beamsters1/status/2115036130269942189",
+      "posted_at": "2026-10-27T11:01:23Z",
+      "position": 3
+    }
+  ],
+  "summary_md": "**Beamsters ([@Beamsters1](https://x.com/Beamsters1/status/2115035083694555148))** releases a **DeepSeek 4.1 Flash 1017 STQ-1.75bpw** quant with **Sushi 1.4.0**, an Apple-silicon engine: 1M context on 96GB and 128GB Macs, ~1,000 tok/s prefill, 75 code / 45 prose tok/s. Self-replies add a quality chart vs oQ2.5e, per-memory throughput, and a Tool Eval Bench 3.0.0 report.",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/beamivalice/sushi",
+      "short_url": "https://t.co/U0zFJh3xKV",
+      "title": "GitHub - beamivalice/sushi: Sushi engine runs very high quality quant model in Apple Silicon, using both STQ and EXL3 format with special tuning technology.",
+      "from_post": "2115035083694555148"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "local-models"
+  ],
+  "relevance": "Max-tier DeepSeek running on a single Mac at very low bit-width, with tool-eval results.",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://x.com/Beamsters1/status/2115035083694555148/video/1",
+      "from_post": "2115035083694555148",
+      "description": "Grim-reaper animation rendered by the DeepSeek 4.1 Flash STQ-1.75bpw quant running in Sushi, per the post (not downloaded; referenced only)."
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HVodTHSa4AA1zlc.jpg",
+      "from_post": "2115035303279051211",
+      "description": "Bar chart 'DeepSeek-V4.1-Flash · KLD by category' comparing Sushi STQ 1.75bpw with oQ2.5e oMLX (2.96bpw) against the original checkpoint across code, math, reasoning, design, wikitext, multilingual, story and science; overall KLD 0.1843 vs 0.1717 with ~89% top-1 agreement.",
+      "thumbnail": "posts/2026/10/27/2115035083694555148/media/1.webp",
+      "kind": "chart",
+      "ocr_text": "DeepSeek-V4.1-Flash · KLD by category\nKLD vs the original checkpoint, to first EOS (lower is better) · 2 prompts × 512 tokens per category · top-1 agreement beside each bar\nSushi STQ 1.75bpw vs oQ2.5e · oMLX (2.96bpw)\nall: 0.1843 (88.5%) vs 0.1717 (89.2%)"
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HVodcSaaAAA8xDV.jpg",
+      "from_post": "2115035743567679823",
+      "description": "Four line charts 'DeepSeek-V4.1-Flash · Sushi STQ 1.75bpw by SSD budget' on an M5 Max 128 GB with routed experts streamed from SSD: code and prose decode and prefill tok/s from 4k to 128k context at 80, 96 and 108 GiB budgets (e.g. code decode at 128k: 37/52/64 tok/s).",
+      "thumbnail": "posts/2026/10/27/2115035083694555148/media/2.webp",
+      "kind": "chart",
+      "ocr_text": "DeepSeek-V4.1-Flash · Sushi STQ 1.75bpw by SSD budget\nM5 Max 128 GB · routed experts streamed from SSD · sushi bench, greedy, DSpark on\n80 GiB: 182 slots/layer · hits 96.5% code, 99.2% prose\n96 GiB: 227 slots/layer · hits 98.7% code, 99.6% prose\n108 GiB: 260 slots/layer · hits 99.6% code, 99.9% prose"
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HVoeF-BbkAApPgz.jpg",
+      "from_post": "2115036130269942189",
+      "description": "Score card 'DeepSeek-V4.1-Flash STQ 1.75bpw - Tool-eval-bench 3.0.0 (Hard)' at a 108 GiB SSD budget: 92/100 (178/194 points) over 97 scenarios, with per-category scores such as Safety & Boundaries 22/26 and Hard Mode 50/56.",
+      "thumbnail": "posts/2026/10/27/2115035083694555148/media/3.webp",
+      "kind": "screenshot",
+      "ocr_text": "DeepSeek-V4.1-Flash STQ 1.75bpw - Tool-eval-bench 3.0.0 (Hard)\ngreedy (temperature 0) · sushi 1.4.0 · experts streamed from SSD\nSSD BUDGET 108 GiB\nSUSHI STQ 1.75BPW · THINK HIGH 92 / 100 · 97 scenarios\nPOINTS 178 / 194 · Excellent\nTool Selection 6/6, Parameter Precision 6/6, Multi-Step Chains 8/8, Restraint & Refusal 6/6, Error Recovery 6/6, Localization 6/6, Structured Reasoning 6/6, Instruction Following 10/10, Context & State 17/20, Code Patterns 6/6, Safety & Boundaries 22/26, Toolset Scale 7/8, Autonomous Planning 6/6, Creative Composition 6/6, Structured Output 10/12, Hard Mode 50/56"
+    }
+  ]
+}

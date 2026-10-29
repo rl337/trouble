@@ -1,0 +1,27 @@
+{
+  "id": "2115315748394406013",
+  "permalink": "https://x.com/usehiveai/status/2115315748394406013",
+  "author": {
+    "name": "Hive",
+    "handle": "@usehiveai",
+    "profile_url": "https://x.com/usehiveai"
+  },
+  "posted_at": "2026-10-28T05:32:29Z",
+  "collected_at": "2026-10-29T16:31:06Z",
+  "updated_at": "2026-10-29T16:31:06Z",
+  "thread": [],
+  "summary_md": "**Hive ([@usehiveai](https://x.com/usehiveai/status/2115315748394406013))** cites a paper showing realistic MCP faults mined from 1,774 server repos drop agent task scores by 60%; scale doesn't fix it, while framework-level error handling helps more.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.32555",
+      "short_url": "https://t.co/yEJC8V7wz1",
+      "title": "Tool-Calling LLM Agents Under Realistic MCP Faults: Scale Does Not...",
+      "from_post": "2115315748394406013"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "relevance": "Argues harness error handling matters more than model size for tool reliability."
+}

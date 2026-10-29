@@ -1,0 +1,38 @@
+{
+  "id": "2115474955223626087",
+  "permalink": "https://x.com/daimacedoa/status/2115474955223626087",
+  "author": {
+    "name": "Dai Macedo",
+    "handle": "@daimacedoa",
+    "profile_url": "https://x.com/daimacedoa"
+  },
+  "posted_at": "2026-10-28T16:05:07Z",
+  "collected_at": "2026-10-29T16:31:16Z",
+  "updated_at": "2026-10-29T16:31:16Z",
+  "thread": [],
+  "summary_md": "**Dai Macedo ([@daimacedoa](https://x.com/daimacedoa/status/2115474955223626087))** uses **Agentic Context Engineering (ACE)** to show how repeated summarization erodes useful context (\"works, except on Windows\" becomes \"works\"), advising builders to check what survives in agent memory.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2510.04618",
+      "short_url": "https://t.co/9Kad1VoZ5M",
+      "title": "Agentic Context Engineering: Evolving Contexts for Self-Improving...",
+      "from_post": "2115474955223626087"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-cognition"
+  ],
+  "relevance": "A crisp illustration of context collapse in self-improving agents.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HVutHvTWAAAWTWl.jpg",
+      "from_post": "2115474955223626087",
+      "description": "Three-panel comic 'Three summaries later…': an AI memory note reading 'This fix works. Except on Windows.' is summarized repeatedly until only 'This fix works.' remains, and a frustrated developer replies 'Great. I'm on Windows.'",
+      "thumbnail": "posts/2026/10/28/2115474955223626087/media/0.webp",
+      "kind": "other",
+      "ocr_text": "Three summaries later… / Original AI memory: This fix works. Except on Windows. / Summarized. Again. And again. → This fix works. / Great. I'm on Windows."
+    }
+  ]
+}

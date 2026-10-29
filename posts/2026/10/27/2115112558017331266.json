@@ -1,0 +1,38 @@
+{
+  "id": "2115112558017331266",
+  "permalink": "https://x.com/splatworlds/status/2115112558017331266",
+  "author": {
+    "name": "splatsandworlds",
+    "handle": "@splatworlds",
+    "profile_url": "https://x.com/splatworlds"
+  },
+  "posted_at": "2026-10-27T16:05:05Z",
+  "collected_at": "2026-10-29T16:31:06Z",
+  "updated_at": "2026-10-29T16:31:06Z",
+  "thread": [],
+  "summary_md": "**splatsandworlds ([@splatworlds](https://x.com/splatworlds/status/2115112558017331266))** highlights the paper *State World Models: Execute the Rules, Generate the Pixels*: a **Stateful Harness** executes explicit rules and hidden state (e.g., whether a character has a key) before a frozen video world model renders the outcome, so identical frames and actions can settle into different, correct endings.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.26811",
+      "short_url": "https://t.co/dKsKjpgw9z",
+      "title": "State World Models: Execute the Rules, Generate the Pixels",
+      "from_post": "2115112558017331266"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-media",
+    "agentic-cognition"
+  ],
+  "relevance": "A harness-around-a-generator pattern that gives video world models consistent hidden state.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HVpjqU1WQAAmwc2.jpg",
+      "from_post": "2115112558017331266",
+      "description": "'Counterfactual twins' figure: two rollouts with identical first frame and action ('open the chest') but different hidden state (has_key false/true); a frozen video world model collapses both to the same ending, while the proposed stateful harness (semantic ledger, deterministic rules, editable clay model) settles them into different correct endings.",
+      "thumbnail": "posts/2026/10/27/2115112558017331266/media/0.webp",
+      "kind": "diagram"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "2115540309828358379",
+  "permalink": "https://x.com/mjovanc/status/2115540309828358379",
+  "author": {
+    "name": "Marcus",
+    "handle": "@mjovanc",
+    "profile_url": "https://x.com/mjovanc"
+  },
+  "posted_at": "2026-10-28T20:24:49Z",
+  "collected_at": "2026-10-29T16:31:16Z",
+  "updated_at": "2026-10-29T16:31:16Z",
+  "thread": [],
+  "summary_md": "**Marcus ([@mjovanc](https://x.com/mjovanc/status/2115540309828358379))** open-sourced **Recommerce** by Budna, a set of agent skills for buying second-hand items.",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/budna-marketplace/recommerce",
+      "short_url": "https://t.co/jCyZxDOcNQ",
+      "title": "GitHub - budna-marketplace/recommerce: Agent skills for better second-hand decisions.",
+      "from_post": "2115540309828358379"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "relevance": "An example of packaging consumer-task know-how as agent skills."
+}

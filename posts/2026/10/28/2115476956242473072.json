@@ -7,8 +7,8 @@
     "profile_url": "https://x.com/_reachsumit"
   },
   "posted_at": "2026-10-28T16:13:04Z",
-  "collected_at": "2026-10-29T15:06:14Z",
-  "updated_at": "2026-10-29T15:06:14Z",
+  "collected_at": "2026-10-29T16:31:16Z",
+  "updated_at": "2026-10-29T16:31:16Z",
   "thread": [],
   "summary_md": "**Sumit ([@_reachsumit](https://x.com/_reachsumit/status/2115476956242473072))** shares **AutoRSE**, a benchmark of LLM agents acting as recommendation engineers on six recommender tasks. The key finding he highlights: agents' gains come mostly from hyperparameter tuning and ensembling rather than inventing new algorithms. Paper and code are linked.",
   "referenced_urls": [

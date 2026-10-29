@@ -1,0 +1,38 @@
+{
+  "id": "2115604309811384518",
+  "permalink": "https://x.com/ComputerPapers/status/2115604309811384518",
+  "author": {
+    "name": "Software Engineering Papers",
+    "handle": "@ComputerPapers",
+    "profile_url": "https://x.com/ComputerPapers"
+  },
+  "posted_at": "2026-10-29T00:39:08Z",
+  "collected_at": "2026-10-29T16:31:16Z",
+  "updated_at": "2026-10-29T16:31:16Z",
+  "thread": [],
+  "summary_md": "**Software Engineering Papers ([@ComputerPapers](https://x.com/ComputerPapers/status/2115604309811384518))** shares **Do Coding Agents Still Need a Debugger?**, a paper on frontier-model fault localization at the accuracy ceiling.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.36015",
+      "short_url": "https://t.co/PFYFXFkRYX",
+      "title": "Do Coding Agents Still Need a Debugger? Frontier-Model-Based Fault...",
+      "from_post": "2115604309811384518"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "relevance": "Asks whether debugger tools still add value to strong coding agents.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HVwi6IsWAAAI1aU.png",
+      "from_post": "2115604309811384518",
+      "description": "Abstract excerpt of a study of fault localization by coding agents with no, optional or encouraged debugger assistance, on 610 seeded faults in 144 LeetCode solutions.",
+      "thumbnail": "posts/2026/10/29/2115604309811384518/media/0.webp",
+      "kind": "paper",
+      "ocr_text": "Background: To localize a fault, a coding agent can reason from source code alone or use debugger assistance by running the program and stepping through it in an interactive debugger. While earlier agents struggled with static execution tracing and debugger operation, frontier LLMs have improved at both. Objective: We evaluate how accurately coding agents localize faults without tools across original and transformed programs, how much debugger assistance improves accuracy and at what cost, and how agents use it when optional. Methods: We seed 610 single-line faults into 144 LeetCodeDataset solutions and rewrite each faulty program with five recipes of behavior-preserving transformations. Agents based on Sol 6.1, Luna 6, and Qwen 3.8 localize each fault with no, optional, or encouraged debugger assistance. Results: Without tools, the agents localized 98.2 to…"
+    }
+  ]
+}

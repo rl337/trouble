@@ -1,0 +1,27 @@
+{
+  "id": "2115253783429345481",
+  "permalink": "https://x.com/oldsportlinus/status/2115253783429345481",
+  "author": {
+    "name": "Linus | LLMRig",
+    "handle": "@oldsportlinus",
+    "profile_url": "https://x.com/oldsportlinus"
+  },
+  "posted_at": "2026-10-28T01:26:16Z",
+  "collected_at": "2026-10-29T16:31:06Z",
+  "updated_at": "2026-10-29T16:31:06Z",
+  "thread": [],
+  "summary_md": "**Linus | LLMRig ([@oldsportlinus](https://x.com/oldsportlinus/status/2115253783429345481))** releases **LLMRig v0.11**, open source: it checks hardware, plans a viable local-LLM setup, asks before changes, and verifies what actually ran.",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/sunilteja93/llmrig",
+      "short_url": "https://t.co/Fa14PKxGEm",
+      "title": "GitHub - sunilteja93/llmrig: Know what your rig can run. Open compatibility and performance intelligence for local AI.",
+      "from_post": "2115253783429345481"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "local-models"
+  ],
+  "relevance": "Hardware-aware local model setup tooling."
+}

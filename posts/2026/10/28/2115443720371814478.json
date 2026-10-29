@@ -1,0 +1,51 @@
+{
+  "id": "2115443720371814478",
+  "permalink": "https://x.com/MistralAI/status/2115443720371814478",
+  "author": {
+    "name": "Mistral AI",
+    "handle": "@MistralAI",
+    "profile_url": "https://x.com/MistralAI"
+  },
+  "posted_at": "2026-10-28T14:01:00Z",
+  "collected_at": "2026-10-29T16:31:16Z",
+  "updated_at": "2026-10-29T16:31:16Z",
+  "thread": [
+    {
+      "id": "2115443720883454191",
+      "permalink": "https://x.com/MistralAI/status/2115443720883454191",
+      "posted_at": "2026-10-28T14:01:00Z",
+      "position": 1
+    },
+    {
+      "id": "2115443721227440351",
+      "permalink": "https://x.com/MistralAI/status/2115443721227440351",
+      "posted_at": "2026-10-28T14:01:00Z",
+      "position": 2
+    }
+  ],
+  "summary_md": "**Mistral AI ([@MistralAI](https://x.com/MistralAI/status/2115443720371814478))** introduces the **Responses API** in public preview for building agents on Mistral: each response returns the answer, reasoning and tool calls as separate items, for all hosted chat models including Large 4. The self-thread adds that Mistral now serves DeepSeek V4.1 Flash (preview) and GLM 5.3 Flash (GA) for coding and subagent work, and links the docs.",
+  "referenced_urls": [
+    {
+      "url": "https://docs.mistral.ai/studio/conversations/responses",
+      "short_url": "https://t.co/VMYCypdO3S",
+      "title": "Responses API | Mistral Docs",
+      "from_post": "2115443721227440351"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "relevance": "Another major vendor adopting a Responses-style agent API, plus hosted open models for subagents.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HVtfR8WXEAAXYbh.jpg",
+      "from_post": "2115443720371814478",
+      "description": "Mistral announcement card 'Responses API now in public preview' with a Python snippet creating a Mistral client and calling client.responses.create with model 'zai-glm-5-3-flash' and a one-sentence greeting prompt.",
+      "thumbnail": "posts/2026/10/28/2115443720371814478/media/0.webp",
+      "kind": "code",
+      "ocr_text": "Responses API now in public preview\nfrom mistralai.client import Mistral\nclient = Mistral(api_key=os.environ[\"MISTRAL_API_KEY\"])\nresponse = client.responses.create(\n    model=\"zai-glm-5-3-flash\",\n    input=\"Write a one-sentence greeting.\",\n)"
+    }
+  ]
+}

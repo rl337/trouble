@@ -1,0 +1,27 @@
+{
+  "id": "2115555853998989573",
+  "permalink": "https://x.com/CleanSlop/status/2115555853998989573",
+  "author": {
+    "name": "CleanSlop",
+    "handle": "@CleanSlop",
+    "profile_url": "https://x.com/CleanSlop"
+  },
+  "posted_at": "2026-10-28T21:26:35Z",
+  "collected_at": "2026-10-29T16:31:16Z",
+  "updated_at": "2026-10-29T16:31:16Z",
+  "thread": [],
+  "summary_md": "**CleanSlop ([@CleanSlop](https://x.com/CleanSlop/status/2115555853998989573))** open-sourced the **CleanSlop CLI**, the tool a coding agent runs to scan a repo and fix findings: MIT, zero runtime dependencies, with signed npm provenance.",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/cleanslop/cli",
+      "short_url": "https://t.co/9B2Nc7eJCx",
+      "title": "GitHub - cleanslop/cli: Readiness scans from your coding agent. The CLI starts a CleanSlop scan of your repo, waits for it, and hands the report back so the agent can fix what it finds. Published as @cleanslop/cli (bin cleanslop).",
+      "from_post": "2115555853998989573"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "relevance": "An agent-invoked repo scanner designed to be auditable."
+}

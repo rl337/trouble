@@ -1,0 +1,38 @@
+{
+  "id": "2115672320974979212",
+  "permalink": "https://x.com/ComputerPapers/status/2115672320974979212",
+  "author": {
+    "name": "Software Engineering Papers",
+    "handle": "@ComputerPapers",
+    "profile_url": "https://x.com/ComputerPapers"
+  },
+  "posted_at": "2026-10-29T05:09:23Z",
+  "collected_at": "2026-10-29T16:31:16Z",
+  "updated_at": "2026-10-29T16:31:16Z",
+  "thread": [],
+  "summary_md": "**Software Engineering Papers ([@ComputerPapers](https://x.com/ComputerPapers/status/2115672320974979212))** shares a benchmark of LLM agents for **behaviorally adequate test generation** from software requirements.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.36584",
+      "short_url": "https://t.co/nBdMEIGOzX",
+      "title": "Benchmarking LLM Agents for Behaviorally Adequate Test Generation...",
+      "from_post": "2115672320974979212"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "relevance": "Evaluates agents on writing tests that actually check required behavior.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HVxgw8HW0AAAKiQ.png",
+      "from_post": "2115672320974979212",
+      "description": "Abstract excerpt of Req2Test-Bench: 5,086 execution-validated requirement-to-test instances recovered from developer-authored BDD artifacts in 8 open-source projects across 5 languages.",
+      "thumbnail": "posts/2026/10/29/2115672320974979212/media/0.webp",
+      "kind": "paper",
+      "ocr_text": "As large language model agents increasingly compile natural-language requirements into repository-level code, requirement-to-test generation grows in importance to provide validation constraints (or harness) to guide code generation. Yet it remains unclear whether current agents can generate tests that validate the required behavior when the implementation of that behavior is withheld. Existing test-generation benchmarks mostly focus on white-box testing, whereas the requirement–test-related study usually requires evaluation on semantic alignment between the given documents and the generated tests. We introduce Req2Test-Bench, a benchmark containing 5,086 execution-validated instances recovered from developer-authored behavior-driven development (BDD) artifacts in 8 open-source projects, spanning 5 programming languages and 4 BDD…"
+    }
+  ]
+}

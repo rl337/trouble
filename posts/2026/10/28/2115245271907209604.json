@@ -7,8 +7,8 @@
     "profile_url": "https://x.com/yw0nam"
   },
   "posted_at": "2026-10-28T00:52:26Z",
-  "collected_at": "2026-10-29T15:06:13Z",
-  "updated_at": "2026-10-29T15:06:13Z",
+  "collected_at": "2026-10-29T16:31:06Z",
+  "updated_at": "2026-10-29T16:31:06Z",
   "thread": [],
   "summary_md": "**[@yw0nam](https://x.com/yw0nam/status/2115245271907209604)** shares **any-subagent**, a single bash script plus a skill that lets Claude Code dispatch work to other coding-agent CLIs (Codex, opencode, pi, agy) in the background.\n\nEach delegated conversation is named, so a follow-up like \"tests fail, fix it\" goes back to the same agent with its context intact. No MCP server is required; MIT licensed.",
   "referenced_urls": [

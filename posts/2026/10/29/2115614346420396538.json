@@ -1,0 +1,32 @@
+{
+  "id": "2115614346420396538",
+  "permalink": "https://x.com/s0ulmachine/status/2115614346420396538",
+  "author": {
+    "name": "s0ulmachine",
+    "handle": "@s0ulmachine",
+    "profile_url": "https://x.com/s0ulmachine"
+  },
+  "posted_at": "2026-10-29T01:19:01Z",
+  "collected_at": "2026-10-29T16:31:16Z",
+  "updated_at": "2026-10-29T16:31:16Z",
+  "thread": [],
+  "summary_md": "**s0ulmachine ([@s0ulmachine](https://x.com/s0ulmachine/status/2115614346420396538))** posts a detailed **DeepSeek-V4.1-Flash on 4x RTX PRO 6000 (TP4)** throughput benchmark: vLLM fork container (ghcr.io/local-inference-lab/vllm), FP8 weights and KV cache, speculative decoding with 7 draft tokens, measured with sglang.bench_serving; the post corrects an earlier MXFP4 claim against the engine log.",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/local-inference-lab/blackwell-llm-docker/pkgs/container/vllm",
+      "short_url": "https://t.co/0Jk1ueW0Zg",
+      "title": "GitHub",
+      "from_post": "2115614346420396538"
+    },
+    {
+      "url": "http://ghcr.io/local-inference-lab/vllm",
+      "short_url": "https://t.co/eQ0KN2p6UA",
+      "from_post": "2115614346420396538"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "local-models"
+  ],
+  "relevance": "A fully specified, reproducible serving config for a frontier open MoE on workstation GPUs."
+}

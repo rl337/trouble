@@ -1,0 +1,38 @@
+{
+  "id": "2115549444724961628",
+  "permalink": "https://x.com/lmsysorg/status/2115549444724961628",
+  "author": {
+    "name": "LMSYS Org",
+    "handle": "@lmsysorg",
+    "profile_url": "https://x.com/lmsysorg"
+  },
+  "posted_at": "2026-10-28T21:01:07Z",
+  "collected_at": "2026-10-29T16:31:16Z",
+  "updated_at": "2026-10-29T16:31:16Z",
+  "thread": [],
+  "summary_md": "**LMSYS Org ([@lmsysorg](https://x.com/lmsysorg/status/2115549444724961628))** reports training SWE agents with **Miles on AMD MI355X**: fully asynchronous agentic RL on Qwen3-30B-A3B with SGLang, Megatron-LM and Harbor raised SWE-bench Verified pass@1 from 7.3% to 27.5%, with 3x faster RL steps and ~4x rollout throughput across 384 concurrent sandboxes.",
+  "referenced_urls": [
+    {
+      "url": "http://lmsys.org/blog/2026-10-22-miles-mi355x-agentic-rl",
+      "short_url": "https://t.co/BbZBN7nhQW",
+      "from_post": "2115549444724961628"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "local-models",
+    "harness-dev"
+  ],
+  "relevance": "Agentic RL recipe for exactly the ~30B-A3B model class that runs locally.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HVvw1NMbEAAzP0O.jpg",
+      "from_post": "2115549444724961628",
+      "description": "Stack diagram of the agentic RL setup: workload Qwen3-30B-A3B with mini-swe-agent and SWE-smith; RL framework MILES (fully-async GRPO); Megatron-LM training, SGLang inference and Harbor agent sandboxes; ROCm 7.2/RCCL/Ray runtime on AMD Instinct MI355X (288 GB HBM3E per GPU).",
+      "thumbnail": "posts/2026/10/28/2115549444724961628/media/0.webp",
+      "kind": "diagram",
+      "ocr_text": "Workload: Qwen3-30B-A3B · mini-swe-agent · SWE-smith\nRL framework: MILES · fully-async GRPO\nMegatron-LM training | SGLang inference | Harbor agent sandboxes\nRuntime: ROCm 7.2 · RCCL · Ray · one container\nHardware: AMD Instinct MI355X · 288 GB HBM3E per GPU"
+    }
+  ]
+}

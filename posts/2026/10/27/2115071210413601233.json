@@ -1,0 +1,35 @@
+{
+  "id": "2115071210413601233",
+  "permalink": "https://x.com/FlouisLF/status/2115071210413601233",
+  "author": {
+    "name": "Louis",
+    "handle": "@FlouisLF",
+    "profile_url": "https://x.com/FlouisLF"
+  },
+  "posted_at": "2026-10-27T13:20:47Z",
+  "collected_at": "2026-10-29T16:31:06Z",
+  "updated_at": "2026-10-29T16:31:06Z",
+  "thread": [],
+  "summary_md": "**Louis ([@FlouisLF](https://x.com/FlouisLF/status/2115071210413601233))** runs four coding agents on one RTX 3090 at ~290 tok/s total via a custom CUDA engine for Qwen3.8-27B in **open-jet** (3–4x llama-server --parallel): one pass over the weights serves all agents with a shared 132K KV pool. A reply notes it suits shorter tasks given the VRAM limit.",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/l-forster/open-jet",
+      "short_url": "https://t.co/BbieTHnRvP",
+      "title": "GitHub - L-Forster/open-jet: An offline coding agent for local models. One command sets up the best model your GPU can run, and on 24 GB+ RTX 30/40/50-series cards Qwen3.8-27B runs up to 1.9x faster than llama.cpp.",
+      "from_post": "2115071210413601233"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "local-models"
+  ],
+  "relevance": "Multi-agent batched serving of a ~27B model on a single consumer GPU.",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://x.com/FlouisLF/status/2115071210413601233/video/1",
+      "from_post": "2115071210413601233",
+      "description": "Demo video of four coding agents sharing one RTX 3090 via open-jet's CUDA engine (not downloaded; referenced only)."
+    }
+  ]
+}

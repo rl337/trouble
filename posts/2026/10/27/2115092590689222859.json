@@ -1,0 +1,39 @@
+{
+  "id": "2115092590689222859",
+  "permalink": "https://x.com/automater_ai/status/2115092590689222859",
+  "author": {
+    "name": "Automater",
+    "handle": "@automater_ai",
+    "profile_url": "https://x.com/automater_ai"
+  },
+  "posted_at": "2026-10-27T14:45:44Z",
+  "collected_at": "2026-10-29T16:31:06Z",
+  "updated_at": "2026-10-29T16:31:06Z",
+  "thread": [],
+  "summary_md": "**Automater ([@automater_ai](https://x.com/automater_ai/status/2115092590689222859))** publishes a guide to pointing Claude Code or OpenCode at a model served by LM Studio, covering real context lengths, tool-call tests, and the five places a local request quietly breaks (agent config, base URL, server, model id, loaded model).",
+  "referenced_urls": [
+    {
+      "url": "https://automater.ai/intel/lm-studio-claude-code-codex-opencode-setup/",
+      "short_url": "https://t.co/zg5tBZdmPH",
+      "title": "LM Studio Claude Code Setup, Plus OpenCode and Codex | Automater Intel",
+      "from_post": "2115092590689222859"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "local-models",
+    "harness-dev"
+  ],
+  "relevance": "A debugging checklist for running coding harnesses against local models.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HVpRfM4WkAAEbXD.jpg",
+      "from_post": "2115092590689222859",
+      "description": "Flow diagram 'Five hops, five ways a local request fails' for pointing Claude Code/OpenCode at LM Studio: agent config, base URL, LM Studio server :1234, model identifier and loaded model, each with its failure symptom and fix.",
+      "thumbnail": "posts/2026/10/27/2115092590689222859/media/0.webp",
+      "kind": "diagram",
+      "ocr_text": "Five hops, five ways a local request fails. Debug top to bottom. Based on LM Studio, OpenCode and Anthropic docs, Oct 2026. 1 · Agent config (settings env block or opencode.json) — Answers come from a hosted API: the local config was never loaded. 2 · Base URL (root (Claude Code), /v1 (OpenCode)) — 404 at /v1/v1/messages: remove /v1 from ANTHROPIC_BASE_URL. 3 · LM Studio server :1234 (lms server start; no auth by default) — Connection refused: run lms server start --port 1234. 4 · Model identifier (the id that GET /v1/models returns) — Model not found: copy the id; point every alias at it. 5 · Loaded model (context length and chat template) — Truncation, or tool calls as text: reload with 32,768; use a native-tool model. The first hop that fails owns the symptom; fix it before the next."
+    }
+  ]
+}

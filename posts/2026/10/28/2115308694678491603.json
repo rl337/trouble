@@ -1,0 +1,27 @@
+{
+  "id": "2115308694678491603",
+  "permalink": "https://x.com/jus_eng_njainam/status/2115308694678491603",
+  "author": {
+    "name": "Naman Jain",
+    "handle": "@jus_eng_njainam",
+    "profile_url": "https://x.com/jus_eng_njainam"
+  },
+  "posted_at": "2026-10-28T05:04:28Z",
+  "collected_at": "2026-10-29T16:31:06Z",
+  "updated_at": "2026-10-29T16:31:06Z",
+  "thread": [],
+  "summary_md": "**Naman Jain ([@jus_eng_njainam](https://x.com/jus_eng_njainam/status/2115308694678491603))** warns that the new **Ling-3.1-flash-1019** model card's SGLang command still serves the old model (`--model-path inclusionAI/Ling-3.1-flash`), and because config and chat template are byte-identical nothing errors to warn you.",
+  "referenced_urls": [
+    {
+      "url": "https://huggingface.co/inclusionAI/Ling-3.1-flash-1019",
+      "short_url": "https://t.co/cSv1gZ7OmK",
+      "title": "inclusionAI/Ling-3.1-flash-1019 · Hugging Face",
+      "from_post": "2115308694678491603"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "local-models"
+  ],
+  "relevance": "A silent model-card pitfall for anyone serving Ling locally."
+}

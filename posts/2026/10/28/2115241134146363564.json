@@ -7,8 +7,8 @@
     "profile_url": "https://x.com/cv_usk"
   },
   "posted_at": "2026-10-28T00:36:00Z",
-  "collected_at": "2026-10-29T15:06:13Z",
-  "updated_at": "2026-10-29T15:06:13Z",
+  "collected_at": "2026-10-29T16:31:06Z",
+  "updated_at": "2026-10-29T16:31:06Z",
   "thread": [],
   "summary_md": "**[@cv_usk](https://x.com/cv_usk/status/2115241134146363564)** walks through **\"Is Complex Agentic Memory Always Needed? Naive RAG Is Stronger Than We Thought.\"**\n\n- The baseline (\"Raw-RAG\") just windows conversations into 256-token chunks, embeds, retrieves 128, cross-encoder-reranks to 15 — no LLM extraction, summaries or graphs.\n- It ranks first among memory systems in 6 of 7 settings (e.g. 48.32 vs Memora's 43.84 on MemoryAgentBench) and ingests ~1M tokens in ~0.33 h vs ~27 h.\n- The paper attributes gaps to *evidence delivery*: atomic-fact extraction cost ~19.6 points; summaries and graph expansion ~6 points each.",
   "referenced_urls": [

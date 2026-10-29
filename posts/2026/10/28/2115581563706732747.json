@@ -1,0 +1,54 @@
+{
+  "id": "2115581563706732747",
+  "permalink": "https://x.com/smartsaver01/status/2115581563706732747",
+  "author": {
+    "name": "China AI for US Builders",
+    "handle": "@smartsaver01",
+    "profile_url": "https://x.com/smartsaver01"
+  },
+  "posted_at": "2026-10-28T23:08:45Z",
+  "collected_at": "2026-10-29T16:31:16Z",
+  "updated_at": "2026-10-29T16:31:16Z",
+  "thread": [
+    {
+      "id": "2115581565636051196",
+      "permalink": "https://x.com/smartsaver01/status/2115581565636051196",
+      "posted_at": "2026-10-28T23:08:45Z",
+      "position": 1
+    },
+    {
+      "id": "2115581567582327128",
+      "permalink": "https://x.com/smartsaver01/status/2115581567582327128",
+      "posted_at": "2026-10-28T23:08:45Z",
+      "position": 2
+    },
+    {
+      "id": "2115581569603891659",
+      "permalink": "https://x.com/smartsaver01/status/2115581569603891659",
+      "posted_at": "2026-10-28T23:08:46Z",
+      "position": 3
+    },
+    {
+      "id": "2115581571440975932",
+      "permalink": "https://x.com/smartsaver01/status/2115581571440975932",
+      "posted_at": "2026-10-28T23:08:46Z",
+      "position": 4
+    }
+  ],
+  "summary_md": "**China AI for US Builders ([@smartsaver01](https://x.com/smartsaver01/status/2115581563706732747))** cautions against budgeting **MiniMax M3.1 Flash** as a free self-hosted model: the weights (on Hugging Face since Oct 23) are under MiniMax's community license, not Apache/MIT. The self-thread adds that it is a 428B MoE with 23B active and 1M context (~250 GB download needing a multi-GPU server), that commercial use requires attribution and notice with prior authorization above $20M revenue, and recommends the $0.15/$0.60 API unless volume or data control justify self-hosting.",
+  "referenced_urls": [
+    {
+      "url": "https://huggingface.co/MiniMaxAI/MiniMax-M3.1-Flash",
+      "short_url": "https://t.co/5IKJfHGHco",
+      "title": "MiniMaxAI/MiniMax-M3.1-Flash · Hugging Face",
+      "from_post": "2115581563706732747"
+    }
+  ],
+  "hashtags": [
+    "ChinaAI"
+  ],
+  "topics": [
+    "local-models"
+  ],
+  "relevance": "License and hardware due-diligence for a max-tier open model before committing to self-hosting."
+}

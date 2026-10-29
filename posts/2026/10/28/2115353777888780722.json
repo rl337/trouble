@@ -1,0 +1,38 @@
+{
+  "id": "2115353777888780722",
+  "permalink": "https://x.com/SoundPapers/status/2115353777888780722",
+  "author": {
+    "name": "Sound Papers",
+    "handle": "@SoundPapers",
+    "profile_url": "https://x.com/SoundPapers"
+  },
+  "posted_at": "2026-10-28T08:03:36Z",
+  "collected_at": "2026-10-29T16:31:16Z",
+  "updated_at": "2026-10-29T16:31:16Z",
+  "thread": [],
+  "summary_md": "**Sound Papers ([@SoundPapers](https://x.com/SoundPapers/status/2115353777888780722))** shares a paper on **online speaker-memory construction** for multi-user spoken agents, going from voiceprints to user entities.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.36713",
+      "short_url": "https://t.co/Ah9Pu3jkk4",
+      "title": "From Voiceprints to User Entities: Online Speaker-Memory...",
+      "from_post": "2115353777888780722"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-cognition"
+  ],
+  "relevance": "Memory design for voice agents serving several people.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HVs_DR5WcAEb4xn.png",
+      "from_post": "2115353777888780722",
+      "description": "Abstract excerpt introducing EvoSpeakerMem, a training-free speaker-memory layer for personalized spoken agents, and the LoCoMo-ID spoken-memory benchmark.",
+      "thumbnail": "posts/2026/10/28/2115353777888780722/media/0.webp",
+      "kind": "paper",
+      "ocr_text": "Personalized spoken agents must identify speakers before accessing user-specific memory, yet memory benchmarks typically assume correctly attributed histories. We argue that voiceprints are observations of identity, not identities themselves, and formulate online speaker-memory construction to maintain persistent user entities as acoustic evidence evolves. We introduce EvoSpeakerMem, a training-free layer for causal speaker routing, selective acoustic-state updates, and identity-partitioned memory writes and retrieval through a replaceable text-memory backend. We also construct LoCoMo-ID, a spoken-memory benchmark with hidden speaker identities, speaker-sensitive queries, simulated recording-condition shifts, and four-speaker identity-confusion tests. On longitudinal SMIIP-TV, genuine-probe rejection under a frozen near-enrollment…"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "2115567439366799410",
+  "permalink": "https://x.com/sandeep_alluru/status/2115567439366799410",
+  "author": {
+    "name": "Sandeep Alluru",
+    "handle": "@sandeep_alluru",
+    "profile_url": "https://x.com/sandeep_alluru"
+  },
+  "posted_at": "2026-10-28T22:12:37Z",
+  "collected_at": "2026-10-29T16:31:16Z",
+  "updated_at": "2026-10-29T16:31:16Z",
+  "thread": [],
+  "summary_md": "**Sandeep Alluru ([@sandeep_alluru](https://x.com/sandeep_alluru/status/2115567439366799410))** reports **Keel H3 Turbo**, fitting MiniMax H3 onto a single DGX Spark and cutting a render job from 635 s to 201 s; the accompanying X article links the sandeep-alluru/keel-h3-turbo GitHub repo.",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/sandeep-alluru/keel-h3-turbo",
+      "from_post": "2115567439366799410"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "local-models",
+    "agentic-media"
+  ],
+  "relevance": "Shows a single-Spark deployment recipe for a max-tier open model with a measured 3x speedup."
+}

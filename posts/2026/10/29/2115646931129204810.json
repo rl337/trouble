@@ -1,0 +1,27 @@
+{
+  "id": "2115646931129204810",
+  "permalink": "https://x.com/KajianD65580/status/2115646931129204810",
+  "author": {
+    "name": "Kajian",
+    "handle": "@KajianD65580",
+    "profile_url": "https://x.com/KajianD65580"
+  },
+  "posted_at": "2026-10-29T03:28:29Z",
+  "collected_at": "2026-10-29T16:31:16Z",
+  "updated_at": "2026-10-29T16:31:16Z",
+  "thread": [],
+  "summary_md": "**Kajian ([@KajianD65580](https://x.com/KajianD65580/status/2115646931129204810))** (in Chinese) highlights **video-to-game** (lovisdotio), an MIT skill for Claude Code and Codex: feed a gameplay video, the agent breaks it down frame by frame, generates images, 3D and sound on fal, writes a playable Three.js game and playtests it, at about $6 per game per the author.",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/lovisdotio/video-to-game",
+      "short_url": "https://t.co/VbOpIwOmDl",
+      "title": "GitHub - lovisdotio/video-to-game: Skills for coding agents: turn a gameplay video into a playable Three.js game, every asset generated on fal, checked side by side and playtested",
+      "from_post": "2115646931129204810"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-media"
+  ],
+  "relevance": "End-to-end multimodal generation orchestrated by a coding agent, with self-testing."
+}

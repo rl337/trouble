@@ -1,0 +1,27 @@
+{
+  "id": "2115110777270960429",
+  "permalink": "https://x.com/groveriskunal/status/2115110777270960429",
+  "author": {
+    "name": "Grover Kunal",
+    "handle": "@groveriskunal",
+    "profile_url": "https://x.com/groveriskunal"
+  },
+  "posted_at": "2026-10-27T15:58:00Z",
+  "collected_at": "2026-10-29T16:31:06Z",
+  "updated_at": "2026-10-29T16:31:06Z",
+  "thread": [],
+  "summary_md": "**Grover Kunal ([@groveriskunal](https://x.com/groveriskunal/status/2115110777270960429))** reads the fine print on **Nanbeige4.3-33B** (Apache 2.0, 512K context): it beats Qwen3.8-27B on Terminal-Bench but loses on SWE-Bench Pro and GPQA, the scores are the lab's own, and the Q4 file won't fit a 24GB GPU at full context.",
+  "referenced_urls": [
+    {
+      "url": "https://huggingface.co/Nanbeige/Nanbeige4.3-33B",
+      "short_url": "https://t.co/AmKvQrp0Df",
+      "title": "Nanbeige/Nanbeige4.3-33B · Hugging Face",
+      "from_post": "2115110777270960429"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "local-models"
+  ],
+  "relevance": "A sober take on a new ~30B reasoning model, including its real memory footprint."
+}

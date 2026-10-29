@@ -1,0 +1,38 @@
+{
+  "id": "2115551411211534687",
+  "permalink": "https://x.com/HEI/status/2115551411211534687",
+  "author": {
+    "name": "Natural Language Processing Papers",
+    "handle": "@HEI",
+    "profile_url": "https://x.com/HEI"
+  },
+  "posted_at": "2026-10-28T21:08:56Z",
+  "collected_at": "2026-10-29T16:31:16Z",
+  "updated_at": "2026-10-29T16:31:16Z",
+  "thread": [],
+  "summary_md": "**Natural Language Processing Papers ([@HEI](https://x.com/HEI/status/2115551411211534687))** shares **J-Comm**, Jacobian-guided latent communication between LLM agents.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.32871",
+      "short_url": "https://t.co/u1kuT0Mi27",
+      "title": "J-Comm: Jacobian-Guided Latent Communication between LLM Agents",
+      "from_post": "2115551411211534687"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-cognition"
+  ],
+  "relevance": "Agents communicating through latent states rather than text.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HVvyzDiWsAArcj5.png",
+      "from_post": "2115551411211534687",
+      "description": "Abstract excerpt of J-Comm: training-free GEAR latent reasoning plus a Hidden-and-Jacobian (H+J) interface for latent communication between sender and receiver LLM agents.",
+      "thumbnail": "posts/2026/10/28/2115551411211534687/media/0.webp",
+      "kind": "paper",
+      "ocr_text": "Latent communication requires both an effective continuous reasoning process and an interface through which an external model can leverage its intermediate computation. We present J-Comm, a framework comprising two core components. First, a training-free Geometric Agreement for Latent Reasoning (GEAR) reweights token candidates over existing model embeddings, which monotonically optimizes geometric consensus among candidate tokens in embedding space at each step. Second, we introduce an H+J (Hidden-and-Jacobian) communication interface that gives the Receiver two complementary views of the Sender's reasoning. The H channel supplies continuous inputs derived from feedback distributions, while the J channel conveys intermediate-state cues in vocabulary-indexed Jacobian-lens coordinates. Intuitively, H provides inputs for the Receiver…"
+    }
+  ]
+}

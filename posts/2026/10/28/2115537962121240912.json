@@ -1,0 +1,38 @@
+{
+  "id": "2115537962121240912",
+  "permalink": "https://x.com/SciFi/status/2115537962121240912",
+  "author": {
+    "name": "Artificial Intelligence Papers",
+    "handle": "@SciFi",
+    "profile_url": "https://x.com/SciFi"
+  },
+  "posted_at": "2026-10-28T20:15:29Z",
+  "collected_at": "2026-10-29T16:31:16Z",
+  "updated_at": "2026-10-29T16:31:16Z",
+  "thread": [],
+  "summary_md": "**Artificial Intelligence Papers ([@SciFi](https://x.com/SciFi/status/2115537962121240912))** shares **SciValidityBench** (\"The Right Fact, the Wrong Decision\") for scientific agent memory.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.34767",
+      "short_url": "https://t.co/9VCxpd5rFb",
+      "title": "The Right Fact, the Wrong Decision: SciValidityBench for...",
+      "from_post": "2115537962121240912"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-cognition"
+  ],
+  "relevance": "Tests whether retrieved memories lead to valid scientific decisions.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HVvmkL6XUAA0G6J.png",
+      "from_post": "2115537962121240912",
+      "description": "Abstract excerpt of SciValidityBench, which tests 'scientific use validity' of remembered evidence with 64 TaskSpecs across five validity modules and six domains.",
+      "thumbnail": "posts/2026/10/28/2115537962121240912/media/0.webp",
+      "kind": "paper",
+      "ocr_text": "Most agent-memory benchmarks frame long-term memory as retrieval: can an agent recover the relevant record from a long and evolving history? Scientific agents face a stricter problem: a correctly remembered fact may still be invalid to use. The same reported test result can support confirmation when the outcome and stopping rule were fixed in advance, yet only exploration when the outcome was selected from twenty inspected results. We call this scientific use validity: whether remembered evidence is eligible to influence a decision under the state governing its interpretation. We introduce SciValidityBench, an executable benchmark factory with 64 TaskSpecs spanning five validity modules and six scientific domains. TaskSpecs couple generated experimental histories with scientific-state definitions, programmatic decision oracles, controlled…"
+    }
+  ]
+}

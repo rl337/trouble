@@ -7,8 +7,8 @@
     "profile_url": "https://x.com/oaichu95"
   },
   "posted_at": "2026-10-29T04:24:14Z",
-  "collected_at": "2026-10-29T15:06:14Z",
-  "updated_at": "2026-10-29T15:06:14Z",
+  "collected_at": "2026-10-29T16:31:16Z",
+  "updated_at": "2026-10-29T16:31:16Z",
   "thread": [],
   "summary_md": "**Oai Chu ([@oaichu95](https://x.com/oaichu95/status/2115660960728047630))** reports that MiniMax's coding team open-sourced **mcode-stack**, the 17 SKILL.md workflows they use daily — from `subagent-split-check` to `independent-review` — installable in Claude Code via its plugin marketplace.\n\nThe attached card groups them as plan & split, context & tools (tool-budget and context-tax audits), long sessions (handoff docs, long-command checks), review, and experiments/hotfixes (including `harness-experiment` and `trajectory-review`).",
   "referenced_urls": [

@@ -1,0 +1,38 @@
+{
+  "id": "2115354329024786445",
+  "permalink": "https://x.com/xlth/status/2115354329024786445",
+  "author": {
+    "name": "Alex Loth | Dev & Author",
+    "handle": "@xlth",
+    "profile_url": "https://x.com/xlth"
+  },
+  "posted_at": "2026-10-28T08:05:48Z",
+  "collected_at": "2026-10-29T16:31:16Z",
+  "updated_at": "2026-10-29T16:31:16Z",
+  "thread": [],
+  "summary_md": "**Alex Loth | Dev & Author ([@xlth](https://x.com/xlth/status/2115354329024786445))** put **CRED-1** in the official MCP registry: check_domain and batch_check over 2,672 scored domains so an agent can flag known misinformation sites before citing them; runs locally and refreshes weekly.",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/aloth/cred-1",
+      "short_url": "https://t.co/txVFkqVgpG",
+      "title": "GitHub - aloth/cred-1: CRED-1: Open, reproducible domain credibility dataset for automated pre-bunking of online misinformation. TypeScript library, CLI & MCP server. Check any news source's reliability from terminal, code, or AI agents. CC BY 4.0, DOI-citable.",
+      "from_post": "2115354329024786445"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "relevance": "A local credibility check tool for research agents via MCP.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HVs_jKEWoAAlDar.jpg",
+      "from_post": "2115354329024786445",
+      "description": "Terminal-style card for the CRED-1 MCP server: running it with npx, its tools (check_domain, batch_check, search_domains, get_stats, get_categories) and a sample check_domain result scoring a site as low-credibility 'fake'.",
+      "thumbnail": "posts/2026/10/28/2115354329024786445/media/0.webp",
+      "kind": "code",
+      "ocr_text": "CRED-1 MCP server\nnow in the official MCP registry\n$ npx -y @aloth/cred1 --mcp\ntools: check_domain batch_check search_domains get_stats get_categories\n> check_domain(\"infowars.com\")\n{ \"score\": 0.139, \"category\": \"fake\", \"level\": \"low\", \"sources\": 2, \"domainAge\": 27.6, \"trancoRank\": 22784 }\n2,672 domains | data bundled, runs locally | weekly snapshots | github.com/aloth/cred-1"
+    }
+  ]
+}

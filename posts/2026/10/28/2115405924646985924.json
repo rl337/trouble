@@ -7,8 +7,8 @@
     "profile_url": "https://x.com/tom_doerr"
   },
   "posted_at": "2026-10-28T11:30:49Z",
-  "collected_at": "2026-10-29T15:06:14Z",
-  "updated_at": "2026-10-29T15:06:14Z",
+  "collected_at": "2026-10-29T16:31:16Z",
+  "updated_at": "2026-10-29T16:31:16Z",
   "thread": [],
   "summary_md": "**Tom Dörr ([@tom_doerr](https://x.com/tom_doerr/status/2115405924646985924))** shares **ffmpeg-skill**, which gives Claude Code, Cursor and other MCP clients 42 local FFmpeg video-editing tools via `npx ffmpeg-skill`.\n\nThe README screenshot describes it as giving your coding agent a video editor: a fixed probe → edit losslessly → check → verify workflow, tools for cuts, captions/karaoke, reframing to 9:16, silence removal, loudness, HDR→SDR/LUTs and more, also exposed as an MCP server; no cloud and no API keys.",
   "referenced_urls": [

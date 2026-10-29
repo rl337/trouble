@@ -1,0 +1,64 @@
+{
+  "id": "2115674848630591970",
+  "permalink": "https://x.com/spiritform/status/2115674848630591970",
+  "author": {
+    "name": "B. Elliott Baker",
+    "handle": "@spiritform",
+    "profile_url": "https://x.com/spiritform"
+  },
+  "posted_at": "2026-10-29T05:19:25Z",
+  "collected_at": "2026-10-29T16:31:16Z",
+  "updated_at": "2026-10-29T16:31:16Z",
+  "thread": [
+    {
+      "id": "2115683509364765141",
+      "permalink": "https://x.com/spiritform/status/2115683509364765141",
+      "posted_at": "2026-10-29T05:53:50Z",
+      "position": 1
+    },
+    {
+      "id": "2115695458534424625",
+      "permalink": "https://x.com/spiritform/status/2115695458534424625",
+      "posted_at": "2026-10-29T06:41:19Z",
+      "position": 2
+    }
+  ],
+  "summary_md": "**B. Elliott Baker ([@spiritform](https://x.com/spiritform/status/2115674848630591970))** submits **Hero's Journey** to the Open Source Higgsfield Challenge, a ComfyUI-based generative monomyth experience with a demo video and the spiritform/herosjourney repo.",
+  "referenced_urls": [
+    {
+      "url": "https://www.youtube.com/watch?v=cau_e-NcMqo&feature=youtu.be",
+      "short_url": "https://t.co/mATiIACBrS",
+      "title": "HEROS JOURNEY : Open Source Higgsfield Challenge Demo Video",
+      "from_post": "2115674848630591970"
+    },
+    {
+      "url": "https://github.com/spiritform/herosjourney",
+      "short_url": "https://t.co/XwHibaAZUy",
+      "title": "GitHub - spiritform/herosjourney: Generative AI Monomyth as an experience. Become someone, find your place, cross the threshold…",
+      "from_post": "2115674848630591970"
+    }
+  ],
+  "hashtags": [
+    "OpenSourceHiggsfield",
+    "comfyui",
+    "herosjourney"
+  ],
+  "topics": [
+    "agentic-media"
+  ],
+  "relevance": "An example of narrative-driven generative media pipelines.",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://x.com/spiritform/status/2115683509364765141/video/1",
+      "from_post": "2115683509364765141",
+      "description": "Video of spiritform's ComfyUI generative-media platform built with Claude Code and the Comfy MCP (not downloaded; referenced only)."
+    },
+    {
+      "type": "video",
+      "url": "https://x.com/spiritform/status/2115695458534424625/video/1",
+      "from_post": "2115695458534424625",
+      "description": "Video of the UI/UX control panel and parallax layers in spiritform's platform (not downloaded; referenced only)."
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "2115316572848116023",
+  "permalink": "https://x.com/solomonwalker/status/2115316572848116023",
+  "author": {
+    "name": "Solomon Walker",
+    "handle": "@solomonwalker",
+    "profile_url": "https://x.com/solomonwalker"
+  },
+  "posted_at": "2026-10-28T05:35:46Z",
+  "collected_at": "2026-10-29T16:31:06Z",
+  "updated_at": "2026-10-29T16:31:06Z",
+  "thread": [],
+  "summary_md": "**Solomon Walker ([@solomonwalker](https://x.com/solomonwalker/status/2115316572848116023))** links an article on **Meshy's Hermes Agent plugin**, which takes the agent from chat to slicer with 3D generation and printing.",
+  "referenced_urls": [
+    {
+      "url": "https://3dprintingindustry.com/news/meshy-takes-hermes-agent-from-chat-to-slicer-with-new-3d-generation-and-printing-plugin-255973/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=meshy-takes-hermes-agent-from-chat-to-slicer-with-new-3d-generation-and-printing-plugin",
+      "short_url": "https://t.co/JNFOH0bo9B",
+      "title": "Meshy Takes Hermes Agent From Chat to Slicer With New 3D Generation and Printing Plugin - 3D Printing Industry",
+      "from_post": "2115316572848116023"
+    }
+  ],
+  "hashtags": [
+    "ai",
+    "digital",
+    "graphics",
+    "art",
+    "design",
+    "3D"
+  ],
+  "topics": [
+    "agentic-media"
+  ],
+  "relevance": "Agent-to-physical-fabrication pipeline via a harness plugin."
+}

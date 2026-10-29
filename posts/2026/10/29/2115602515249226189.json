@@ -1,0 +1,29 @@
+{
+  "id": "2115602515249226189",
+  "permalink": "https://x.com/cv_usk/status/2115602515249226189",
+  "author": {
+    "name": "cv usk",
+    "handle": "@cv_usk",
+    "profile_url": "https://x.com/cv_usk"
+  },
+  "posted_at": "2026-10-29T00:32:00Z",
+  "collected_at": "2026-10-29T16:31:16Z",
+  "updated_at": "2026-10-29T16:31:16Z",
+  "thread": [],
+  "summary_md": "**cv usk ([@cv_usk](https://x.com/cv_usk/status/2115602515249226189))** (in Japanese) summarizes **ATAS (Any Time, Any Space)**, a world-state-centric framework for agentic video generation that separates scene and event memory, compiles scripts into shot requests, and only commits verified observations; it tops four video backbones at about 1.25x runtime.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/pdf/2610.20571",
+      "short_url": "https://t.co/hJKQh9BEYQ",
+      "from_post": "2115602515249226189"
+    }
+  ],
+  "hashtags": [
+    "動画生成AI",
+    "AIエージェント"
+  ],
+  "topics": [
+    "agentic-media"
+  ],
+  "relevance": "Verified world-state memory for multi-shot agentic video consistency."
+}

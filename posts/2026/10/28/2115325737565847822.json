@@ -1,0 +1,35 @@
+{
+  "id": "2115325737565847822",
+  "permalink": "https://x.com/rguignar/status/2115325737565847822",
+  "author": {
+    "name": "Robin Guignard-Perret",
+    "handle": "@rguignar",
+    "profile_url": "https://x.com/rguignar"
+  },
+  "posted_at": "2026-10-28T06:12:11Z",
+  "collected_at": "2026-10-29T16:31:06Z",
+  "updated_at": "2026-10-29T16:31:06Z",
+  "thread": [],
+  "summary_md": "**Robin Guignard-Perret ([@rguignar](https://x.com/rguignar/status/2115325737565847822))** announces that the **Tellers** agent-native, real-time video editing engine is now free for Claude and Codex as skills: runs locally, no account, no uploads; the attached video demos it.",
+  "referenced_urls": [
+    {
+      "url": "https://tellers.ai/skills",
+      "short_url": "https://t.co/0BPaSmKcmt",
+      "title": "Tellers Skills | Free video editing for Claude & Codex",
+      "from_post": "2115325737565847822"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-media"
+  ],
+  "relevance": "A local video-editing engine designed for agents.",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://x.com/rguignar/status/2115325737565847822/video/1",
+      "from_post": "2115325737565847822",
+      "description": "Demo video, with sound, of what the Tellers agent-native video editing engine can do (not downloaded; referenced only)."
+    }
+  ]
+}

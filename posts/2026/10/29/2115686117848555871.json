@@ -1,0 +1,130 @@
+{
+  "id": "2115686117848555871",
+  "permalink": "https://x.com/chris_jun_jin/status/2115686117848555871",
+  "author": {
+    "name": "Jun Jin",
+    "handle": "@chris_jun_jin",
+    "profile_url": "https://x.com/chris_jun_jin"
+  },
+  "posted_at": "2026-10-29T06:04:12Z",
+  "collected_at": "2026-10-29T16:31:16Z",
+  "updated_at": "2026-10-29T16:31:16Z",
+  "thread": [],
+  "summary_md": "**Jun Jin ([@chris_jun_jin](https://x.com/chris_jun_jin/status/2115686117848555871))** argues for continual-learning **agent companion models** beyond the harness; the article cites arXiv work, LangChain's anatomy-of-a-harness post and complementary-learning-systems literature.",
+  "referenced_urls": [
+    {
+      "url": "https://doi.org/10.48550/arXiv.2407.04620",
+      "from_post": "2115686117848555871"
+    },
+    {
+      "url": "https://www.langchain.com/blog/the-anatomy-of-an-agent-harness",
+      "from_post": "2115686117848555871"
+    },
+    {
+      "url": "https://web.stanford.edu/~jlmcc/papers/McCMcNaughtonOReilly95.pdf",
+      "from_post": "2115686117848555871"
+    },
+    {
+      "url": "https://bair.berkeley.edu/blog/2024/02/18/compound-ai-systems/",
+      "from_post": "2115686117848555871"
+    },
+    {
+      "url": "https://doi.org/10.48550/arXiv.2505.16067",
+      "from_post": "2115686117848555871"
+    },
+    {
+      "url": "https://doi.org/10.48550/arXiv.2601.13060",
+      "from_post": "2115686117848555871"
+    },
+    {
+      "url": "https://www.langchain.com/state-of-agent-engineering",
+      "from_post": "2115686117848555871"
+    },
+    {
+      "url": "https://www.letta.com/blog/towards-agents-that-learn/",
+      "from_post": "2115686117848555871"
+    },
+    {
+      "url": "https://proceedings.neurips.cc/paper_files/paper/2015/hash/86df7dcfd896fcaf2674f757a2463eba-Abstract.html",
+      "from_post": "2115686117848555871"
+    },
+    {
+      "url": "https://doi.org/10.48550/arXiv.2604.27003",
+      "from_post": "2115686117848555871"
+    },
+    {
+      "url": "https://doi.org/10.1037/0033-295X.102.3.419",
+      "from_post": "2115686117848555871"
+    },
+    {
+      "url": "https://doi.org/10.48550/arXiv.2606.08656",
+      "from_post": "2115686117848555871"
+    },
+    {
+      "url": "https://doi.org/10.48550/arXiv.2608.22752",
+      "from_post": "2115686117848555871"
+    },
+    {
+      "url": "https://doi.org/10.48550/arXiv.2607.01763",
+      "from_post": "2115686117848555871"
+    },
+    {
+      "url": "https://doi.org/10.48550/arXiv.2406.18665",
+      "from_post": "2115686117848555871"
+    },
+    {
+      "url": "https://www.capgemini.com/news/press-releases/trust-and-human-ai-collaboration-set-to-define-the-next-era-of-agentic-ai-unlocking-450-billion-opportunity-by-2028/",
+      "from_post": "2115686117848555871"
+    },
+    {
+      "url": "https://continual-learning-bench.com/",
+      "from_post": "2115686117848555871"
+    },
+    {
+      "url": "https://huggingface.co/meta-llama/Llama-Prompt-Guard-2-86M",
+      "from_post": "2115686117848555871"
+    },
+    {
+      "url": "https://doi.org/10.48550/arXiv.2603.03800",
+      "from_post": "2115686117848555871"
+    },
+    {
+      "url": "https://doi.org/10.3389/fpsyg.2013.00504",
+      "from_post": "2115686117848555871"
+    },
+    {
+      "url": "https://doi.org/10.48550/arXiv.2602.04254",
+      "from_post": "2115686117848555871"
+    },
+    {
+      "url": "https://doi.org/10.48550/arXiv.2312.06674",
+      "from_post": "2115686117848555871"
+    },
+    {
+      "url": "https://doi.org/10.48550/arXiv.2606.05661",
+      "from_post": "2115686117848555871"
+    },
+    {
+      "url": "https://doi.org/10.48550/arXiv.1610.06258",
+      "from_post": "2115686117848555871"
+    },
+    {
+      "url": "https://doi.org/10.48550/arXiv.2410.13232",
+      "from_post": "2115686117848555871"
+    },
+    {
+      "url": "https://doi.org/10.48550/arXiv.2601.20802",
+      "from_post": "2115686117848555871"
+    },
+    {
+      "url": "https://doi.org/10.48550/arXiv.2501.00663",
+      "from_post": "2115686117848555871"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-cognition",
+    "harness-dev"
+  ],
+  "relevance": "A conceptual case for models that learn alongside the harness."
+}

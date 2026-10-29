@@ -1,0 +1,27 @@
+{
+  "id": "2115134544940576934",
+  "permalink": "https://x.com/techtactician/status/2115134544940576934",
+  "author": {
+    "name": "VB",
+    "handle": "@techtactician",
+    "profile_url": "https://x.com/techtactician"
+  },
+  "posted_at": "2026-10-27T17:32:27Z",
+  "collected_at": "2026-10-29T16:31:06Z",
+  "updated_at": "2026-10-29T16:31:06Z",
+  "thread": [],
+  "summary_md": "**VB ([@techtactician](https://x.com/techtactician/status/2115134544940576934))** summarizes *What Does a Harness Buy? Tokens, Mostly.*: on SWE-bench with the same models in three harnesses, accuracy stayed within 5 points but cost per task varied up to 3x, largely because the setup prompt is resent every step (16.6K tokens vs ~800).",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/html/2610.04433",
+      "short_url": "https://t.co/tU6zQdp2uq",
+      "title": "What Does a Harness Buy? Tokens, Mostly.",
+      "from_post": "2115134544940576934"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "relevance": "Direct evidence that harness prompt design dominates cost."
+}

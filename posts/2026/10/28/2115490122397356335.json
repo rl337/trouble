@@ -7,8 +7,8 @@
     "profile_url": "https://x.com/jtdavies"
   },
   "posted_at": "2026-10-28T17:05:23Z",
-  "collected_at": "2026-10-29T15:06:14Z",
-  "updated_at": "2026-10-29T15:06:14Z",
+  "collected_at": "2026-10-29T16:31:16Z",
+  "updated_at": "2026-10-29T16:31:16Z",
   "thread": [],
   "summary_md": "**John T Davies ([@jtdavies](https://x.com/jtdavies/status/2115490122397356335))** points to Mia's AI Lab's GitHub release that runs **Qwen3.8-Flash-Next at over 100 tok/s on a single DGX Spark** via TensorFold, calling it impressive progress and saying he plans to test it.",
   "referenced_urls": [

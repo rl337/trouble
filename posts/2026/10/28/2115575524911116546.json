@@ -1,0 +1,33 @@
+{
+  "id": "2115575524911116546",
+  "permalink": "https://x.com/yukonresearch/status/2115575524911116546",
+  "author": {
+    "name": "Yukon",
+    "handle": "@yukonresearch",
+    "profile_url": "https://x.com/yukonresearch"
+  },
+  "posted_at": "2026-10-28T22:44:45Z",
+  "collected_at": "2026-10-29T16:31:16Z",
+  "updated_at": "2026-10-29T16:31:16Z",
+  "thread": [],
+  "summary_md": "**Yukon ([@yukonresearch](https://x.com/yukonresearch/status/2115575524911116546))** opens the next round of its **Nemotron 3.5 Lightning** optimization challenge, with separate Apple Silicon (MLX.fast) and NVIDIA DGX Spark (CUDA.fast) tracks targeting kernels, caches and native multi-token prediction.",
+  "referenced_urls": [
+    {
+      "url": "https://www.yukon.org/mlxfast?benchmark=nemotron35&platform=mlx",
+      "short_url": "https://t.co/2E3GZ6C0ks",
+      "title": "mlx.fast — Nemotron 3.5 Lightning, faster with speculative decode",
+      "from_post": "2115575524911116546"
+    },
+    {
+      "url": "https://www.yukon.org/cudafast?benchmark=nemotron35&platform=cuda",
+      "short_url": "https://t.co/idNtoKRqfy",
+      "title": "cuda.fast — Nemotron 3.5 Lightning, faster with speculative decode",
+      "from_post": "2115575524911116546"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "local-models"
+  ],
+  "relevance": "Public leaderboards for squeezing a reasoning model on DGX Spark: both a resource and a benchmark reference."
+}

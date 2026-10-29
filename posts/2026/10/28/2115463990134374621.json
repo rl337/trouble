@@ -1,0 +1,38 @@
+{
+  "id": "2115463990134374621",
+  "permalink": "https://x.com/ComputerPapers/status/2115463990134374621",
+  "author": {
+    "name": "Software Engineering Papers",
+    "handle": "@ComputerPapers",
+    "profile_url": "https://x.com/ComputerPapers"
+  },
+  "posted_at": "2026-10-28T15:21:33Z",
+  "collected_at": "2026-10-29T16:31:16Z",
+  "updated_at": "2026-10-29T16:31:16Z",
+  "thread": [],
+  "summary_md": "**Software Engineering Papers ([@ComputerPapers](https://x.com/ComputerPapers/status/2115463990134374621))** shares **Rivet**, a paper on utility-preserving context control for repository-level coding agents.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.34967",
+      "short_url": "https://t.co/Ok7sA27h9K",
+      "title": "Rivet: Utility-Preserving Context Control for Repository-Level...",
+      "from_post": "2115463990134374621"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "relevance": "A context-pruning technique for repo-scale agents.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HVujSeKWUAAB6jZ.png",
+      "from_post": "2115463990134374621",
+      "description": "Abstract excerpt of Rivet, a context-control framework for repository-level code generation that targets 'context utility dilution', where selected context looks relevant but misses needed evidence.",
+      "thumbnail": "posts/2026/10/28/2115463990134374621/media/0.webp",
+      "kind": "paper",
+      "ocr_text": "Repository-level code generation asks an agent to implement a task requirement inside an existing repository. To produce code that works in the repository, the agent needs repository evidence, such as target locations, helper definitions, caller usages, and configuration constraints, which determine how the code should be located, integrated, and executed. Because the context budget cannot hold the entire repository, existing retrieval, compression, and structure-aware methods select context by task similarity, context length, or structural proximity, but these criteria do not directly measure whether the selected context contains this evidence. As a result, the selected context can appear relevant to the task yet miss the evidence that the implementation depends on. We call this failure mode context utility dilution. In this paper, we propose Rivet, a context control framework that preserves…"
+    }
+  ]
+}

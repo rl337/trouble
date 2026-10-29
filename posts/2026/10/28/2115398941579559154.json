@@ -1,0 +1,38 @@
+{
+  "id": "2115398941579559154",
+  "permalink": "https://x.com/ComputerPapers/status/2115398941579559154",
+  "author": {
+    "name": "Software Engineering Papers",
+    "handle": "@ComputerPapers",
+    "profile_url": "https://x.com/ComputerPapers"
+  },
+  "posted_at": "2026-10-28T11:03:04Z",
+  "collected_at": "2026-10-29T16:31:16Z",
+  "updated_at": "2026-10-29T16:31:16Z",
+  "thread": [],
+  "summary_md": "**Software Engineering Papers ([@ComputerPapers](https://x.com/ComputerPapers/status/2115398941579559154))** shares **Ethics by Configuration**, a study of AI ethics principles written into coding-agent instruction files.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.34847",
+      "short_url": "https://t.co/eVBwZwhpNT",
+      "title": "Ethics by Configuration: AI Ethics Principles in Coding Agent Instructions",
+      "from_post": "2115398941579559154"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "relevance": "What people actually put in agent instruction files about ethics.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HVtoILSXkAAJtVf.png",
+      "from_post": "2115398941579559154",
+      "description": "Abstract excerpt of a study of ethics principles in 40,079 coding-agent configuration files (context files and skills) across 8,893 GitHub repos.",
+      "thumbnail": "posts/2026/10/28/2115398941579559154/media/0.webp",
+      "kind": "paper",
+      "ocr_text": "As AI coding agents become integral to software development, projects increasingly utilise configuration files, such as context files and skills, to govern agent behaviour. While AI ethics principles are widely used in research and policy, little is known about whether and how they are reflected when developers configure coding agents. We studied ethics principles in 40,079 configuration files across 8,893 GitHub repositories. Using a validated large language model (LLM) classification, we measured the prevalence of ethics-related statements, and qualitatively analysed 702 stratified samples across 679 files to uncover the ethical considerations reflected in these files and the parties they concern. Ethics-related statements appeared in 39.4% of files and 61.5% of repositories; concentrated on accountability, transparency, privacy protection, and reliability; and occurred more often in…"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "2115471895743389810",
+  "permalink": "https://x.com/maxosme/status/2115471895743389810",
+  "author": {
+    "name": "maxOS",
+    "handle": "@maxosme",
+    "profile_url": "https://x.com/maxosme"
+  },
+  "posted_at": "2026-10-28T15:52:58Z",
+  "collected_at": "2026-10-29T16:31:16Z",
+  "updated_at": "2026-10-29T16:31:16Z",
+  "thread": [],
+  "summary_md": "**maxOS ([@maxosme](https://x.com/maxosme/status/2115471895743389810))** built **Axis** to connect Linear with Codex and Claude Code running on his own machines, organizing agent work around tasks instead of chats; the article links the axisosme/Axis repo.",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/axisosme/Axis",
+      "from_post": "2115471895743389810"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "relevance": "Task-tracker-driven orchestration of local coding agents."
+}

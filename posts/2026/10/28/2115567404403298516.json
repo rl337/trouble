@@ -1,0 +1,26 @@
+{
+  "id": "2115567404403298516",
+  "permalink": "https://x.com/nvk/status/2115567404403298516",
+  "author": {
+    "name": "NVK",
+    "handle": "@nvk",
+    "profile_url": "https://x.com/nvk"
+  },
+  "posted_at": "2026-10-28T22:12:29Z",
+  "collected_at": "2026-10-29T16:31:16Z",
+  "updated_at": "2026-10-29T16:31:16Z",
+  "thread": [],
+  "summary_md": "**NVK ([@nvk](https://x.com/nvk/status/2115567404403298516))** writes up running **Codex on DeepSeek V4 (DS4) locally on an M5 Max** at about 35 tok/s, with an emphasis on not leaking the host environment to the agent; the article links a step-by-step guide on learntoprompt.org.",
+  "referenced_urls": [
+    {
+      "url": "https://learntoprompt.org/guides/codex-ds4.html",
+      "from_post": "2115567404403298516"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "local-models",
+    "harness-dev"
+  ],
+  "relevance": "Concrete recipe for pointing a mainstream coding harness at a local max-tier model while sandboxing it."
+}

@@ -1,0 +1,25 @@
+{
+  "id": "2115644857888985246",
+  "permalink": "https://x.com/tonysimons/status/2115644857888985246",
+  "author": {
+    "name": "Tony Simons",
+    "handle": "@tonysimons",
+    "profile_url": "https://x.com/tonysimons"
+  },
+  "posted_at": "2026-10-29T03:20:15Z",
+  "collected_at": "2026-10-29T16:31:16Z",
+  "updated_at": "2026-10-29T16:31:16Z",
+  "thread": [],
+  "summary_md": "**Tony Simons ([@tonysimons](https://x.com/tonysimons/status/2115644857888985246))** explains how Hermes can now put specialist profiles to work through delegation; the article links the NousResearch hermes-official-plugins advanced-delegation plugin.",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/NousResearch/hermes-official-plugins/tree/main/advanced-delegation",
+      "from_post": "2115644857888985246"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "relevance": "Profile-based delegation in an open agent harness."
+}

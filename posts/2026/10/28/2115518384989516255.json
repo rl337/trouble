@@ -1,0 +1,48 @@
+{
+  "id": "2115518384989516255",
+  "permalink": "https://x.com/digisoulhub/status/2115518384989516255",
+  "author": {
+    "name": "Digital Soul Hub",
+    "handle": "@digisoulhub",
+    "profile_url": "https://x.com/digisoulhub"
+  },
+  "posted_at": "2026-10-28T18:57:42Z",
+  "collected_at": "2026-10-29T16:31:16Z",
+  "updated_at": "2026-10-29T16:31:16Z",
+  "thread": [
+    {
+      "id": "2115518756776812648",
+      "permalink": "https://x.com/digisoulhub/status/2115518756776812648",
+      "posted_at": "2026-10-28T18:59:10Z",
+      "position": 1
+    }
+  ],
+  "summary_md": "**Digital Soul Hub ([@digisoulhub](https://x.com/digisoulhub/status/2115518384989516255))** highlights **JetBrains ThinkRail**, an open-source (Apache-2.0) IDE for vibe coding with the pi agent: git worktree workspaces, parallel chats and living SPEC.md files.",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/JetBrains/thinkrail",
+      "short_url": "https://t.co/vQjcHJSw6z",
+      "title": "GitHub - JetBrains/thinkrail: Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need",
+      "from_post": "2115518384989516255"
+    },
+    {
+      "url": "https://digisoulhub.com/blog/jetbrains-thinkrail/",
+      "short_url": "https://t.co/Z4mNrgSWYk",
+      "title": "ThinkRail: JetBrains' open-source IDE for vibe coding | Digital Soul Hub",
+      "from_post": "2115518756776812648"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "relevance": "A major IDE vendor's open take on a parallel-agent coding harness.",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://x.com/digisoulhub/status/2115518384989516255/video/1",
+      "from_post": "2115518384989516255",
+      "description": "Demo video of JetBrains' ThinkRail IDE with worktree workspaces and parallel pi-agent chats (not downloaded; referenced only)."
+    }
+  ]
+}

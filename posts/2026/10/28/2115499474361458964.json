@@ -1,0 +1,38 @@
+{
+  "id": "2115499474361458964",
+  "permalink": "https://x.com/SciFi/status/2115499474361458964",
+  "author": {
+    "name": "Artificial Intelligence Papers",
+    "handle": "@SciFi",
+    "profile_url": "https://x.com/SciFi"
+  },
+  "posted_at": "2026-10-28T17:42:33Z",
+  "collected_at": "2026-10-29T16:31:16Z",
+  "updated_at": "2026-10-29T16:31:16Z",
+  "thread": [],
+  "summary_md": "**Artificial Intelligence Papers ([@SciFi](https://x.com/SciFi/status/2115499474361458964))** shares **SearchHorizonBench**, a benchmark for the value of search in AI agents.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.34714",
+      "short_url": "https://t.co/DvwkYa41Fv",
+      "title": "SearchHorizonBench: A Benchmark for Search Value in AI Agents",
+      "from_post": "2115499474361458964"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-cognition"
+  ],
+  "relevance": "Measures when more search actually helps an agent.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HVvDj8BXAAAeEH3.png",
+      "from_post": "2115499474361458964",
+      "description": "Abstract excerpt of SearchHorizonBench: 45,632 executions across 3,168 questions for learning when another search is worth its cost.",
+      "thumbnail": "posts/2026/10/28/2115499474361458964/media/0.webp",
+      "kind": "paper",
+      "ocr_text": "AI agents must decide when another search is worth its cost. Answer-success probabilities capture question difficulty, while this decision requires estimating the additional benefit of search. We introduce SearchHorizonBench, a benchmark for learning and evaluating search value from execution experience. Paired continuations and repeated executions separate expected search gain from generation noise and connect prediction quality to decision utility. The resource contains 45,632 executions across 3,168 questions. On 1,632 held-out questions, historical calibration reduces Brier error by 16.2%, with the improvement concentrated in success-level information. Search gains have a standard deviation of 21.4 percentage points, and tested historical estimators explain less than 2% of this variance in point estimates. Matched-configuration learning curves probe this distinction across training scales. At the…"
+    }
+  ]
+}

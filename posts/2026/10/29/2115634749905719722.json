@@ -1,0 +1,81 @@
+{
+  "id": "2115634749905719722",
+  "permalink": "https://x.com/MemOS_dev/status/2115634749905719722",
+  "author": {
+    "name": "MemOS",
+    "handle": "@MemOS_dev",
+    "profile_url": "https://x.com/MemOS_dev"
+  },
+  "posted_at": "2026-10-29T02:40:05Z",
+  "collected_at": "2026-10-29T16:31:16Z",
+  "updated_at": "2026-10-29T16:31:16Z",
+  "thread": [],
+  "summary_md": "**MemOS ([@MemOS_dev](https://x.com/MemOS_dev/status/2115634749905719722))** presents MemOS for cross-session agent memory: components and cloud APIs to store, fetch, modify and erase memories, with test workflows; the article links MemOS docs and the MemOS arXiv paper.",
+  "referenced_urls": [
+    {
+      "url": "https://memos-docs.openmem.net/memos_cloud/features/async_mode/",
+      "from_post": "2115634749905719722"
+    },
+    {
+      "url": "https://memos-docs.openmem.net/memos_cloud/introduction/isolation_filters/",
+      "from_post": "2115634749905719722"
+    },
+    {
+      "url": "https://arxiv.org/abs/2507.03724",
+      "from_post": "2115634749905719722"
+    },
+    {
+      "url": "https://memos-docs.openmem.net/memos_cloud/introduction/time_awareness/",
+      "from_post": "2115634749905719722"
+    },
+    {
+      "url": "https://memos-docs.openmem.net/api_docs/core/update_memory/",
+      "from_post": "2115634749905719722"
+    },
+    {
+      "url": "https://memos-docs.openmem.net/api_docs/message/get_status/",
+      "from_post": "2115634749905719722"
+    },
+    {
+      "url": "https://memos-docs.openmem.net/open_source/modules/memories/kv_cache_memory/",
+      "from_post": "2115634749905719722"
+    },
+    {
+      "url": "https://memos-docs.openmem.net/memos_cloud/getting_started/overview/",
+      "from_post": "2115634749905719722"
+    },
+    {
+      "url": "https://memos-docs.openmem.net/memos_cloud/mem_operations/add_feedback/",
+      "from_post": "2115634749905719722"
+    },
+    {
+      "url": "https://memos-docs.openmem.net/memos_cloud/mem_operations/add_message/",
+      "from_post": "2115634749905719722"
+    },
+    {
+      "url": "https://memos-docs.openmem.net/memos_cloud/getting_started/quick_start/",
+      "from_post": "2115634749905719722"
+    },
+    {
+      "url": "https://memos-docs.openmem.net/memos_cloud/mem_operations/delete_memory/",
+      "from_post": "2115634749905719722"
+    },
+    {
+      "url": "https://memos-docs.openmem.net/memos_cloud/introduction/memory_types/",
+      "from_post": "2115634749905719722"
+    },
+    {
+      "url": "https://memos-docs.openmem.net/open_source/modules/mos/overview/",
+      "from_post": "2115634749905719722"
+    },
+    {
+      "url": "https://memos-docs.openmem.net/memos_cloud/mem_operations/search_memory/",
+      "from_post": "2115634749905719722"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "relevance": "A documented memory-OS design to compare with other agent memory layers."
+}

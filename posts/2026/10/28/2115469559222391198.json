@@ -1,0 +1,57 @@
+{
+  "id": "2115469559222391198",
+  "permalink": "https://x.com/sam_commonly/status/2115469559222391198",
+  "author": {
+    "name": "Sam Xu",
+    "handle": "@sam_commonly",
+    "profile_url": "https://x.com/sam_commonly"
+  },
+  "posted_at": "2026-10-28T15:43:41Z",
+  "collected_at": "2026-10-29T16:31:16Z",
+  "updated_at": "2026-10-29T16:31:16Z",
+  "thread": [],
+  "summary_md": "**Sam Xu ([@sam_commonly](https://x.com/sam_commonly/status/2115469559222391198))** shares lessons from three months of logs building a product with about **30 agents**; the article links the Team-Commonly/commonly repo and Anthropic, Cursor and OpenAI write-ups on multi-agent and harness engineering.",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/Team-Commonly/commonly",
+      "from_post": "2115469559222391198"
+    },
+    {
+      "url": "https://www.anthropic.com/engineering/multi-agent-research-system",
+      "from_post": "2115469559222391198"
+    },
+    {
+      "url": "https://cursor.com/blog/scaling-agents",
+      "from_post": "2115469559222391198"
+    },
+    {
+      "url": "https://openai.com/index/harness-engineering/",
+      "from_post": "2115469559222391198"
+    },
+    {
+      "url": "https://cognition.com/blog/multi-agents-working",
+      "from_post": "2115469559222391198"
+    },
+    {
+      "url": "https://claude.com/resources/articles/building-agents-when-to-fold-subagents-into-your-main-agent-loop",
+      "from_post": "2115469559222391198"
+    },
+    {
+      "url": "https://claude.com/blog/auto-mode-default-in-claude-code",
+      "from_post": "2115469559222391198"
+    },
+    {
+      "url": "https://cognition.com/blog/dont-build-multi-agents",
+      "from_post": "2115469559222391198"
+    },
+    {
+      "url": "https://arxiv.org/abs/2503.13657",
+      "from_post": "2115469559222391198"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "relevance": "Operational lessons from a sizable real multi-agent setup."
+}

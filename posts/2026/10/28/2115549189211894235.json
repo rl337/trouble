@@ -1,0 +1,27 @@
+{
+  "id": "2115549189211894235",
+  "permalink": "https://x.com/EricDBrownDsC/status/2115549189211894235",
+  "author": {
+    "name": "Eric D. Brown, D.Sc.",
+    "handle": "@EricDBrownDsC",
+    "profile_url": "https://x.com/EricDBrownDsC"
+  },
+  "posted_at": "2026-10-28T21:00:06Z",
+  "collected_at": "2026-10-29T16:31:16Z",
+  "updated_at": "2026-10-29T16:31:16Z",
+  "thread": [],
+  "summary_md": "**Eric D. Brown, D.Sc. ([@EricDBrownDsC](https://x.com/EricDBrownDsC/status/2115549189211894235))** covers **SWE-Residual**, a HKU-led benchmark that starts coding agents from another agent's \"done\" work that still fails hidden tests; five agents lost 20.6-53.5 points on DeepSWE.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.25899",
+      "short_url": "https://t.co/rX2J4MJaxp",
+      "title": "SWE-Residual: Evaluating Starting-State Robustness of Coding Agents",
+      "from_post": "2115549189211894235"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "relevance": "Measures robustness to inheriting broken agent work, a real multi-agent hand-off risk."
+}

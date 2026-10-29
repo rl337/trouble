@@ -1,0 +1,38 @@
+{
+  "id": "2115489558204747956",
+  "permalink": "https://x.com/arrd_el/status/2115489558204747956",
+  "author": {
+    "name": "Arrdel",
+    "handle": "@arrd_el",
+    "profile_url": "https://x.com/arrd_el"
+  },
+  "posted_at": "2026-10-28T17:03:09Z",
+  "collected_at": "2026-10-29T16:31:16Z",
+  "updated_at": "2026-10-29T16:31:16Z",
+  "thread": [],
+  "summary_md": "**Arrdel ([@arrd_el](https://x.com/arrd_el/status/2115489558204747956))** summarizes **Metacognitive Decoding**, a controller that decides when diffusion-LM agents finalize tokens and how far to generate, cutting inference FLOPs by 20.6% at equal accuracy.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.37642",
+      "short_url": "https://t.co/e5mHztVrRC",
+      "title": "Metacognitive Decoding: Efficient Inference for Diffusion Language Agents",
+      "from_post": "2115489558204747956"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-cognition"
+  ],
+  "relevance": "Adaptive compute for diffusion-decoding agents.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HVu6h51WsAAnD3b.jpg",
+      "from_post": "2115489558204747956",
+      "description": "First page of 'Metacognitive Decoding: Efficient Inference for Diffusion Language Agents' (Rutgers et al., arXiv 2610.37642): a controller deciding when to finalize tokens and how far to generate cuts inference FLOPs 20.6% on average across five benchmarks.",
+      "thumbnail": "posts/2026/10/28/2115489558204747956/media/0.webp",
+      "kind": "paper",
+      "ocr_text": "Metacognitive Decoding: Efficient Inference for Diffusion Language Agents\nAbstract: Diffusion language models offer a promising path to efficient agents through parallel token generation. However, efficient interaction requires adapting both where computation is spent and how much text is generated. We introduce a metacognitive controller that guides diffusion generation according to the needs of the current response and the agent's interaction with the environment. It learns when to finalize tokens and how far generation should extend, reducing overall computation within responses. Our controller, a lightweight plug-in for the diffusion backbone, is trained on agent trajectories to balance correctness and generation cost. This approach connects the agent's generation process to the interaction the agent serves. Experiments across five benchmarks demonstrate that our approach reduces inference FLOPs by 20.6% on average compared with the most efficient baseline, while maintaining competitive task accuracy."
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "2115336818916778317",
+  "permalink": "https://x.com/H359kkk/status/2115336818916778317",
+  "author": {
+    "name": "杨飞飞",
+    "handle": "@H359kkk",
+    "profile_url": "https://x.com/H359kkk"
+  },
+  "posted_at": "2026-10-28T06:56:13Z",
+  "collected_at": "2026-10-29T16:31:06Z",
+  "updated_at": "2026-10-29T16:31:06Z",
+  "thread": [],
+  "summary_md": "**杨飞飞 ([@H359kkk](https://x.com/H359kkk/status/2115336818916778317))** describes **OpenBot**, a local-first desktop workspace for persistent AI teammates: it drives Codex App Server and Claude Code, plus Grok CLI, OpenCode, Gemini, Cursor CLI and Cline CLI through ACP, giving each agent its own workspace and conversation with local queues, file transfer, an embedded browser and agent-to-agent messaging.",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/nightly-labs/openbot",
+      "short_url": "https://t.co/RVZJBV5Ttn",
+      "title": "GitHub - nightly-labs/openbot: A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.",
+      "from_post": "2115336818916778317"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "relevance": "A multi-harness desktop host built on ACP — relevant to running several coding agents side by side."
+}

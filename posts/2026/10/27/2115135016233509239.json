@@ -1,0 +1,35 @@
+{
+  "id": "2115135016233509239",
+  "permalink": "https://x.com/zeddotdev/status/2115135016233509239",
+  "author": {
+    "name": "Zed",
+    "handle": "@zeddotdev",
+    "profile_url": "https://x.com/zeddotdev"
+  },
+  "posted_at": "2026-10-27T17:34:19Z",
+  "collected_at": "2026-10-29T16:31:06Z",
+  "updated_at": "2026-10-29T16:31:06Z",
+  "thread": [],
+  "summary_md": "**Zed ([@zeddotdev](https://x.com/zeddotdev/status/2115135016233509239))** announces Claude Code multiplayer via DeltaDB: running `/delta share` lets a teammate join in their own session with your full context and uncommitted work on the same thread.",
+  "referenced_urls": [
+    {
+      "url": "https://delta.dev/blog/claude-code-multiplayer",
+      "short_url": "https://t.co/prGSZiSzHm",
+      "title": "Claude Code is now multiplayer",
+      "from_post": "2115135016233509239"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "relevance": "Shared-session collaboration as a harness feature.",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://x.com/zeddotdev/status/2115135016233509239/video/1",
+      "from_post": "2115135016233509239",
+      "description": "Demo video of Claude Code multiplayer via /delta share (not downloaded; referenced only)."
+    }
+  ]
+}

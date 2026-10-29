@@ -1,0 +1,38 @@
+{
+  "id": "2115434982151798870",
+  "permalink": "https://x.com/PIN/status/2115434982151798870",
+  "author": {
+    "name": "Multiagent Systems Papers",
+    "handle": "@PIN",
+    "profile_url": "https://x.com/PIN"
+  },
+  "posted_at": "2026-10-28T13:26:17Z",
+  "collected_at": "2026-10-29T16:31:16Z",
+  "updated_at": "2026-10-29T16:31:16Z",
+  "thread": [],
+  "summary_md": "**Multiagent Systems Papers ([@PIN](https://x.com/PIN/status/2115434982151798870))** shares **EMMA**, structured episodic memory for multi-agent workflow synthesis.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.35966",
+      "short_url": "https://t.co/9khHmWhVuA",
+      "title": "EMMA: Structured Episodic Memory for Multi-Agent Workflow Synthesis",
+      "from_post": "2115434982151798870"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-cognition"
+  ],
+  "relevance": "Episodic memory used to build multi-agent workflows.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HVuI6AXXEAAc6UE.png",
+      "from_post": "2115434982151798870",
+      "description": "Abstract excerpt of EMMA, structured episodic memory for multi-agent workflow synthesis, motivated by ill-scoped multi-agent evolution.",
+      "thumbnail": "posts/2026/10/28/2115434982151798870/media/0.webp",
+      "kind": "paper",
+      "ocr_text": "Deploying LLM agents in specialized domains often require fine-grained task-specific procedures and knowledge a general model lacks, yet parameter training is costly and non-interpretable, and hand-engineered agent systems shift the cost to expert labor. Episodic memory updates at context level, but single agent adaptation struggles to alleviate cross-task interference, especially with complex tasks such as multi-application navigation or data pool analysis. Although multi-agent evolution alleviates this problem, existing methods lack clear definitions on update rules and rely on the backbone model to decide where and how much the system changes. This ill-scoped evolution makes learning follow the backbone's structural preferences rather than the observed failures: one backbone accumulates skills while another spawns agents. We present EMMA (structured Episodic Memory for Multi-Agent workflow…"
+    }
+  ]
+}

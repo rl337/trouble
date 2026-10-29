@@ -1,0 +1,27 @@
+{
+  "id": "2115668625575010571",
+  "permalink": "https://x.com/katakamakh/status/2115668625575010571",
+  "author": {
+    "name": "akhil katakam",
+    "handle": "@katakamakh",
+    "profile_url": "https://x.com/katakamakh"
+  },
+  "posted_at": "2026-10-29T04:54:42Z",
+  "collected_at": "2026-10-29T16:31:16Z",
+  "updated_at": "2026-10-29T16:31:16Z",
+  "thread": [],
+  "summary_md": "**akhil katakam ([@katakamakh](https://x.com/katakamakh/status/2115668625575010571))** built **Kora**, a free Apple Silicon app to add an MCP server once for Claude Code, Codex, OpenCode and Antigravity and run them as one orchestrated setup.",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/Koragraph/Kora",
+      "short_url": "https://t.co/BmMldAijOA",
+      "title": "GitHub - Koragraph/Kora: Kora runs Claude Code, Codex, OpenCode and Antigravity as one orchestrated team. Every agent reads from one local graph of your code, so it starts out knowing where things are and who calls them.",
+      "from_post": "2115668625575010571"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "relevance": "Unifies MCP config across multiple harnesses."
+}

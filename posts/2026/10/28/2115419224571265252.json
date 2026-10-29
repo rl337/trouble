@@ -7,8 +7,8 @@
     "profile_url": "https://x.com/Alexlannmi"
   },
   "posted_at": "2026-10-28T12:23:40Z",
-  "collected_at": "2026-10-29T15:06:14Z",
-  "updated_at": "2026-10-29T15:06:14Z",
+  "collected_at": "2026-10-29T16:31:16Z",
+  "updated_at": "2026-10-29T16:31:16Z",
   "thread": [],
   "summary_md": "**Alex lan ([@Alexlannmi](https://x.com/Alexlannmi/status/2115419224571265252))** summarizes the preprint **\"Scaling Discovery Requires Forgetting\"**: agents plateau when anchored to their past attempts, and restarting from the best candidate while discarding search history can do better at the same compute. His takeaway — agent memory needs an eviction strategy.",
   "referenced_urls": [

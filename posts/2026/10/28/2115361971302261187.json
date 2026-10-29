@@ -1,0 +1,32 @@
+{
+  "id": "2115361971302261187",
+  "permalink": "https://x.com/ptdbugs/status/2115361971302261187",
+  "author": {
+    "name": "dbugs",
+    "handle": "@ptdbugs",
+    "profile_url": "https://x.com/ptdbugs"
+  },
+  "posted_at": "2026-10-28T08:36:10Z",
+  "collected_at": "2026-10-29T16:31:16Z",
+  "updated_at": "2026-10-29T16:31:16Z",
+  "thread": [],
+  "summary_md": "**dbugs ([@ptdbugs](https://x.com/ptdbugs/status/2115361971302261187))** relays a write-up on **breaking the AWS MCP Server's Python sandbox**: the aws___run_script tool's AST validator and runtime restrictions could be bypassed to get command execution inside the Lambda environment.",
+  "referenced_urls": [
+    {
+      "url": "https://dbu.gs/news/breaking-the-aws-mcp-python-sandbox-20261028",
+      "short_url": "https://t.co/gfRLW0kQZ7",
+      "title": "Breaking the AWS MCP Python Sandbox — Attack Techniques & Methods | dbugs",
+      "from_post": "2115361971302261187"
+    },
+    {
+      "url": "https://xplo1t-sec.github.io/posts/breaking-the-aws-mcp-python-sandbox/",
+      "short_url": "https://t.co/qQz9mHab6L",
+      "from_post": "2115361971302261187"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "relevance": "A real-world MCP sandbox escape: required reading for anyone exposing code-execution tools to agents."
+}

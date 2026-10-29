@@ -1,0 +1,27 @@
+{
+  "id": "2115089708070109290",
+  "permalink": "https://x.com/onishimura/status/2115089708070109290",
+  "author": {
+    "name": "O(1)",
+    "handle": "@onishimura",
+    "profile_url": "https://x.com/onishimura"
+  },
+  "posted_at": "2026-10-27T14:34:17Z",
+  "collected_at": "2026-10-29T16:31:06Z",
+  "updated_at": "2026-10-29T16:31:06Z",
+  "thread": [],
+  "summary_md": "**O(1) ([@onishimura](https://x.com/onishimura/status/2115089708070109290))** warns that the reference **mcp-server-fetch** had an SSRF bypass and points to the modelcontextprotocol/servers release containing the fix.",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/modelcontextprotocol/servers/releases/tag/v2.1.0",
+      "short_url": "https://t.co/KsXDl7g5bo",
+      "title": "Release v2.1.0 · modelcontextprotocol/servers",
+      "from_post": "2115089708070109290"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "relevance": "Security patch notice for a widely used MCP server."
+}

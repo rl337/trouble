@@ -7,8 +7,8 @@
     "profile_url": "https://x.com/coolthor"
   },
   "posted_at": "2026-10-27T18:00:19Z",
-  "collected_at": "2026-10-29T15:06:13Z",
-  "updated_at": "2026-10-29T15:06:13Z",
+  "collected_at": "2026-10-29T16:31:06Z",
+  "updated_at": "2026-10-29T16:31:06Z",
   "thread": [],
   "summary_md": "**Thor ([@coolthor](https://x.com/coolthor/status/2115141559771390352))** reports splitting **DeepSeek V4.1 Flash** across *two* DGX Sparks with TensorFold tensor parallelism (TP=2), since the weights are too large for a single box (~98 GiB per node per the attached graphic).\n\n- Single-stream code generation came out roughly 20% ahead of Qwen3.8-Flash-Next (about 111.5 vs 92.4 tok/s); single-stream Chinese was also ahead (59.2 vs 46.4 tok/s).\n- With 8 concurrent Chinese streams the two models were roughly tied (~150.6 vs 148.0 tok/s), and running with PARALLEL=8 cut time-to-first-token from ~8.6 s to ~1 s.\n- Thor's linked write-up on ai-muninn.com walks through the setup and the gotchas.",
   "referenced_urls": [

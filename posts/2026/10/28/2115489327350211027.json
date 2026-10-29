@@ -1,0 +1,29 @@
+{
+  "id": "2115489327350211027",
+  "permalink": "https://x.com/gcpweekly/status/2115489327350211027",
+  "author": {
+    "name": "GCP Weekly",
+    "handle": "@gcpweekly",
+    "profile_url": "https://x.com/gcpweekly"
+  },
+  "posted_at": "2026-10-28T17:02:14Z",
+  "collected_at": "2026-10-29T16:31:16Z",
+  "updated_at": "2026-10-29T16:31:16Z",
+  "thread": [],
+  "summary_md": "**GCP Weekly ([@gcpweekly](https://x.com/gcpweekly/status/2115489327350211027))** shares a Google Cloud blog post on how Google ships its **Agent Skills like products**, two months after launch.",
+  "referenced_urls": [
+    {
+      "url": "https://cloud.google.com/blog/topics/developers-practitioners/behind-the-scenes-two-months-later-how-we-ship-google-agent-skills-like-products/",
+      "short_url": "https://t.co/Eg1ftweG32",
+      "title": "Behind the scenes, two months later: How we ship Google Agent Skills like products | Google Cloud Blog",
+      "from_post": "2115489327350211027"
+    }
+  ],
+  "hashtags": [
+    "googlecloud"
+  ],
+  "topics": [
+    "harness-dev"
+  ],
+  "relevance": "Process lessons from a large vendor maintaining official agent skills."
+}

@@ -1,0 +1,29 @@
+{
+  "id": "2115601458884153671",
+  "permalink": "https://x.com/TheTuringPost/status/2115601458884153671",
+  "author": {
+    "name": "Turing Post (Ksenia Se)",
+    "handle": "@TheTuringPost",
+    "profile_url": "https://x.com/TheTuringPost"
+  },
+  "posted_at": "2026-10-29T00:27:48Z",
+  "collected_at": "2026-10-29T16:31:16Z",
+  "updated_at": "2026-10-29T16:31:16Z",
+  "thread": [],
+  "summary_md": "**Turing Post (Ksenia Se) ([@TheTuringPost](https://x.com/TheTuringPost/status/2115601458884153671))** traces the history of **self-improving AI** from I. J. Good to Flint; the article links Turing Post's longer piece and its open-endedness explainer.",
+  "referenced_urls": [
+    {
+      "url": "https://www.turingpost.com/p/from-i-j-good-to-flint-the-long-strange-quest-for-self-improving-ai",
+      "from_post": "2115601458884153671"
+    },
+    {
+      "url": "https://www.turingpost.com/p/openendedness",
+      "from_post": "2115601458884153671"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-cognition"
+  ],
+  "relevance": "Background framing for recursive self-improvement work."
+}

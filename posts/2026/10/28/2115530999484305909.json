@@ -1,0 +1,38 @@
+{
+  "id": "2115530999484305909",
+  "permalink": "https://x.com/ComputerPapers/status/2115530999484305909",
+  "author": {
+    "name": "Software Engineering Papers",
+    "handle": "@ComputerPapers",
+    "profile_url": "https://x.com/ComputerPapers"
+  },
+  "posted_at": "2026-10-28T19:47:49Z",
+  "collected_at": "2026-10-29T16:31:16Z",
+  "updated_at": "2026-10-29T16:31:16Z",
+  "thread": [],
+  "summary_md": "**Software Engineering Papers ([@ComputerPapers](https://x.com/ComputerPapers/status/2115530999484305909))** shares **FeatureLoop**, a benchmark for coding agents under evolving requirements.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.35488",
+      "short_url": "https://t.co/Nqy2O51XGJ",
+      "title": "FeatureLoop: Benchmarking Coding Agents under Evolving Requirements",
+      "from_post": "2115530999484305909"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "relevance": "Benchmarks multi-step requirement changes rather than one-shot tasks.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HVvgO8zWUAERE1n.png",
+      "from_post": "2115530999484305909",
+      "description": "Abstract excerpt of FeatureLoop, a benchmark of 61 human-reviewed iterative feature tasks from 34 repositories with evolution and completion feedback; the best of 12 models completes 72.1%.",
+      "thumbnail": "posts/2026/10/28/2115530999484305909/media/0.webp",
+      "kind": "paper",
+      "ocr_text": "Software development with coding agents often begins with a rough request that users refine after trying the implementation. Final correctness alone does not capture the repeated guidance this process requires. We introduce FeatureLoop, a benchmark of 61 human-reviewed tasks from 34 repositories across five primary programming languages and seven software forms. Each task follows one development goal in a persistent workspace through evolution feedback, which adds or clarifies requirements, and completion feedback, which reports failures of stated requirements. Cumulative executable checks track new behavior, repair, and preservation of earlier functionality. We evaluate 12 frontier models and find that the strongest completes 72.1% of tasks with both feedback types. Across models, however, only 15.4% of observed failed stages recover within two…"
+    }
+  ]
+}

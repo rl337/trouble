@@ -1,0 +1,37 @@
+{
+  "id": "2115099517699981666",
+  "permalink": "https://x.com/0x0SojalSec/status/2115099517699981666",
+  "author": {
+    "name": "Md Ismail Šojal 🕷️",
+    "handle": "@0x0SojalSec",
+    "profile_url": "https://x.com/0x0SojalSec"
+  },
+  "posted_at": "2026-10-27T15:13:16Z",
+  "collected_at": "2026-10-29T16:31:06Z",
+  "updated_at": "2026-10-29T16:31:06Z",
+  "thread": [],
+  "summary_md": "**Md Ismail Šojal 🕷️ ([@0x0SojalSec](https://x.com/0x0SojalSec/status/2115099517699981666))** highlights **nvidia/Qwen3.8-Flash-Next-NVFP4**: NVIDIA's NVFP4 quantization of the 125B hybrid-attention MoE, about 63% smaller with almost no accuracy loss per the post.",
+  "referenced_urls": [
+    {
+      "url": "https://huggingface.co/nvidia/Qwen3.8-Flash-Next-NVFP4",
+      "short_url": "https://t.co/KDeZHTOoDt",
+      "title": "nvidia/Qwen3.8-Flash-Next-NVFP4 · Hugging Face",
+      "from_post": "2115099517699981666"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "local-models"
+  ],
+  "relevance": "An NVFP4 build of the Flash-Next tier sized for Blackwell-class hardware like DGX Spark.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HVpXcvYbcAA70Tr.jpg",
+      "from_post": "2115099517699981666",
+      "description": "Hugging Face model page header for nvidia/Qwen3.8-Flash-Next-NVFP4 (Model Optimizer, FP4 quantized, nvidia-open-model-license, 370,019 downloads) under a banner of optimization techniques: quantization, pruning, distillation, speculative decoding, sparsity.",
+      "thumbnail": "posts/2026/10/27/2115099517699981666/media/0.webp",
+      "kind": "screenshot"
+    }
+  ]
+}

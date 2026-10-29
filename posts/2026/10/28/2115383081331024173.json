@@ -1,0 +1,33 @@
+{
+  "id": "2115383081331024173",
+  "permalink": "https://x.com/Alexbieber12341/status/2115383081331024173",
+  "author": {
+    "name": "Ambar Singh",
+    "handle": "@Alexbieber12341",
+    "profile_url": "https://x.com/Alexbieber12341"
+  },
+  "posted_at": "2026-10-28T10:00:03Z",
+  "collected_at": "2026-10-29T16:31:16Z",
+  "updated_at": "2026-10-29T16:31:16Z",
+  "thread": [],
+  "summary_md": "**Ambar Singh ([@Alexbieber12341](https://x.com/Alexbieber12341/status/2115383081331024173))** open-sourced **FlowOS**, a Manus-style workspace where a chat assistant decides when to launch deep research; the agent searches, scrapes and runs Python in an E2B sandbox and returns a report.",
+  "referenced_urls": [
+    {
+      "url": "https://flow-os-nu.vercel.app",
+      "short_url": "https://t.co/WstH8CiN1C",
+      "title": "FlowOS — AI research workspace",
+      "from_post": "2115383081331024173"
+    },
+    {
+      "url": "https://github.com/alexbieber/Flow-OS",
+      "short_url": "https://t.co/sMr4libQQ3",
+      "title": "GitHub - alexbieber/Flow-OS: Open Source Alternative for Manus ( Research, Code , imagine , Planning, etc)❤️🚀",
+      "from_post": "2115383081331024173"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "relevance": "An open deep-research agent architecture with sandboxed code execution."
+}

@@ -1,0 +1,28 @@
+{
+  "id": "2115480484994228256",
+  "permalink": "https://x.com/oaichu95/status/2115480484994228256",
+  "author": {
+    "name": "Oai Chu",
+    "handle": "@oaichu95",
+    "profile_url": "https://x.com/oaichu95"
+  },
+  "posted_at": "2026-10-28T16:27:06Z",
+  "collected_at": "2026-10-29T16:31:16Z",
+  "updated_at": "2026-10-29T16:31:16Z",
+  "thread": [],
+  "summary_md": "**Oai Chu ([@oaichu95](https://x.com/oaichu95/status/2115480484994228256))** highlights **SenseNova 6.8 Code2Video**, a 27B open-weight (Apache 2.0, 512K context) model that writes code which renders video, so edits are code changes rather than re-generations; weights are on Hugging Face.",
+  "referenced_urls": [
+    {
+      "url": "https://huggingface.co/sensenova/SenseNova-6.8-Code2Video",
+      "short_url": "https://t.co/qkaacgQsXN",
+      "title": "sensenova/SenseNova-6.8-Code2Video · Hugging Face",
+      "from_post": "2115480484994228256"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-media",
+    "local-models"
+  ],
+  "relevance": "An open ~30B model that makes video generation programmable, bridging local models and agentic media."
+}

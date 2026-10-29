@@ -1,0 +1,27 @@
+{
+  "id": "2115432048542593424",
+  "permalink": "https://x.com/KitchExtremeX/status/2115432048542593424",
+  "author": {
+    "name": "KitchExtremeX",
+    "handle": "@KitchExtremeX",
+    "profile_url": "https://x.com/KitchExtremeX"
+  },
+  "posted_at": "2026-10-28T13:14:37Z",
+  "collected_at": "2026-10-29T16:31:16Z",
+  "updated_at": "2026-10-29T16:31:16Z",
+  "thread": [],
+  "summary_md": "**KitchExtremeX ([@KitchExtremeX](https://x.com/KitchExtremeX/status/2115432048542593424))** shares **whatsmyagentdoing** (Charonyuu), an MIT dashboard showing whether each local Claude Code or Codex agent is thinking, running a tool or waiting for you.",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/Charonyuu/whatsmyagentdoing",
+      "short_url": "https://t.co/s1cKaRJv6u",
+      "title": "GitHub - Charonyuu/whatsmyagentdoing: See what every Claude Code and Codex agent on your machine is doing — live, in a little office.",
+      "from_post": "2115432048542593424"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "relevance": "Observability UI for running multiple local coding agents at once."
+}

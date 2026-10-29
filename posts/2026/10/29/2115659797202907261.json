@@ -1,0 +1,27 @@
+{
+  "id": "2115659797202907261",
+  "permalink": "https://x.com/Kunal_183/status/2115659797202907261",
+  "author": {
+    "name": "Kunal",
+    "handle": "@Kunal_183",
+    "profile_url": "https://x.com/Kunal_183"
+  },
+  "posted_at": "2026-10-29T04:19:37Z",
+  "collected_at": "2026-10-29T16:31:16Z",
+  "updated_at": "2026-10-29T16:31:16Z",
+  "thread": [],
+  "summary_md": "**Kunal ([@Kunal_183](https://x.com/Kunal_183/status/2115659797202907261))** shipped **AgentLens v0.2.2** on PyPI, an MIT local-first tracer for AI agents that shows parent/child trace trees, tool inputs and token costs without cloud telemetry.",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/kp183/Agentlens",
+      "short_url": "https://t.co/Uwt2X90yMJ",
+      "title": "GitHub - kp183/Agentlens: Real-time observability and tracing for AI agents. Add 2 lines of code, see every LLM call, tool execution, and cost in a live dashboard.",
+      "from_post": "2115659797202907261"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "relevance": "Self-hosted agent tracing."
+}

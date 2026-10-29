@@ -1,0 +1,68 @@
+{
+  "id": "2115211511824298284",
+  "permalink": "https://x.com/vveerrgg/status/2115211511824298284",
+  "author": {
+    "name": "vveerrgg",
+    "handle": "@vveerrgg",
+    "profile_url": "https://x.com/vveerrgg"
+  },
+  "posted_at": "2026-10-27T22:38:17Z",
+  "collected_at": "2026-10-29T16:31:06Z",
+  "updated_at": "2026-10-29T16:31:06Z",
+  "thread": [
+    {
+      "id": "2115212365553869061",
+      "permalink": "https://x.com/vveerrgg/status/2115212365553869061",
+      "posted_at": "2026-10-27T22:41:41Z",
+      "position": 1
+    },
+    {
+      "id": "2115288668915286049",
+      "permalink": "https://x.com/vveerrgg/status/2115288668915286049",
+      "posted_at": "2026-10-28T03:44:53Z",
+      "position": 2
+    },
+    {
+      "id": "2115308973729730684",
+      "permalink": "https://x.com/vveerrgg/status/2115308973729730684",
+      "posted_at": "2026-10-28T05:05:34Z",
+      "position": 3
+    }
+  ],
+  "summary_md": "**vveerrgg ([@vveerrgg](https://x.com/vveerrgg/status/2115211511824298284))** runs **DeepSeek V4.1 Flash** on stock llama.cpp by repacking ISTA-DASLab's GSQ-RCO quant into upstream GGUF format (byte-identical weights), reaching ~40 tok/s on one RTX PRO 6000 plus system RAM. Self-replies add an eval write-up (EVALS.md): against Unsloth's UD-IQ1_M in the same size class, GSM8K 97.2% vs 96.4% and MMLU 84.4% vs 84.6%, and against the full-precision API math was untouched.",
+  "referenced_urls": [
+    {
+      "url": "https://huggingface.co/HumanjavaEnterprises/DeepSeek-V4.1-Flash-1017-GSQ-RCO-upstream-GGUF",
+      "short_url": "https://t.co/nza9MwKDaX",
+      "title": "HumanjavaEnterprises/DeepSeek-V4.1-Flash-1017-GSQ-RCO-upstream-GGUF · Hugging Face",
+      "from_post": "2115211511824298284"
+    },
+    {
+      "url": "https://github.com/HumanjavaEnterprises/deepseek-v41-upstream",
+      "short_url": "https://t.co/LnkHMMLicR",
+      "title": "GitHub - HumanjavaEnterprises/deepseek-v41-upstream: Run ISTA-DASLab's DeepSeek-V4.1-Flash GSQ-RCO quant (748B) on stock upstream llama.cpp — repack tool + one-GPU tuning recipe",
+      "from_post": "2115211511824298284"
+    },
+    {
+      "url": "http://github.com/HumanjavaEnterprises/deepseek-v41-upstream/blob/main/EVALS.md",
+      "short_url": "https://t.co/MhsZ7K8qDR",
+      "from_post": "2115288668915286049"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "local-models"
+  ],
+  "relevance": "Shows the max-tier DeepSeek running on upstream llama.cpp at low bit-width, with published quality comparisons.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HVsWSh7XIAAGONs.png",
+      "from_post": "2115308973729730684",
+      "description": "Table comparing DeepSeek-V4.1-Flash 2-bit quants (ISTA GSQ-RCO IQ2_XXS, unsloth UD-IQ1_M) with full-precision DeepSeek API on 250 GSM8K and 500 MMLU questions, plus local decode speed on one RTX PRO 6000 plus RAM.",
+      "thumbnail": "posts/2026/10/27/2115211511824298284/media/0.webp",
+      "kind": "chart",
+      "ocr_text": "DeepSeek-V4.1-Flash: 2-bit quants vs full precision\nSame 250 GSM8K and 500 MMLU questions · temperature 0 · thinking off\nISTA GSQ-RCO IQ2_XXS | unsloth UD-IQ1_M | DeepSeek API (full precision)\nGSM8K (math): 97.2% | 96.4% | 96.8%\nMMLU (knowledge): 84.4% | 84.6% | 87.0%\ndecode speed (1× RTX PRO 6000 + RAM): 31.9 tok/s | 24.3 tok/s | n/a\n• GSM8K: all three are a statistical tie\n• MMLU: full precision beats both quants (p < 0.05); the two quants tie each other"
+    }
+  ]
+}

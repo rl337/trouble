@@ -1,0 +1,27 @@
+{
+  "id": "2115617810672168993",
+  "permalink": "https://x.com/GY24680394/status/2115617810672168993",
+  "author": {
+    "name": "Yang G.",
+    "handle": "@GY24680394",
+    "profile_url": "https://x.com/GY24680394"
+  },
+  "posted_at": "2026-10-29T01:32:46Z",
+  "collected_at": "2026-10-29T16:31:16Z",
+  "updated_at": "2026-10-29T16:31:16Z",
+  "thread": [],
+  "summary_md": "**Yang G. ([@GY24680394](https://x.com/GY24680394/status/2115617810672168993))** built **Argus**, Apache-2.0 black-box red-team testing for AI agents that attacks the whole system (tools, pages, state, spending) rather than single prompts.",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/gy15901580825/Argus",
+      "short_url": "https://t.co/bkG2AcVC7n",
+      "title": "GitHub - gy15901580825/Argus: Black-box, open-source red-team testing for AI agents. Point it at any HTTP, gRPC, or browser-using agent endpoint; run 205 probes mapped to OWASP LLM Top 10 / MITRE ATLAS / NIST AI RMF, incl. payment and MCP tool-abuse families whose verdicts come from captured evidenc",
+      "from_post": "2115617810672168993"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "relevance": "System-level adversarial testing for agent harnesses."
+}

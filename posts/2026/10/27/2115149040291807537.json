@@ -1,0 +1,33 @@
+{
+  "id": "2115149040291807537",
+  "permalink": "https://x.com/_reachsumit/status/2115149040291807537",
+  "author": {
+    "name": "Sumit",
+    "handle": "@_reachsumit",
+    "profile_url": "https://x.com/_reachsumit"
+  },
+  "posted_at": "2026-10-27T18:30:03Z",
+  "collected_at": "2026-10-29T16:31:06Z",
+  "updated_at": "2026-10-29T16:31:06Z",
+  "thread": [],
+  "summary_md": "**Sumit ([@_reachsumit](https://x.com/_reachsumit/status/2115149040291807537))** posts **SearchHorizonBench**, a benchmark for judging when an extra web search is worth its cost for an agent; paper and GitHub code linked.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.34714",
+      "short_url": "https://t.co/6oJvlkt43R",
+      "title": "SearchHorizonBench: A Benchmark for Search Value in AI Agents",
+      "from_post": "2115149040291807537"
+    },
+    {
+      "url": "https://github.com/EthanNing/SearchHorizonBench",
+      "short_url": "https://t.co/LtpRgZHdOQ",
+      "title": "GitHub - EthanNing/SearchHorizonBench: A benchmark for search value in AI agents. Paired execution, gain prediction, and cost-aware decisions across 45,632 executions.",
+      "from_post": "2115149040291807537"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-cognition"
+  ],
+  "relevance": "Cost-aware search decisions for research agents."
+}

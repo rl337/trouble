@@ -1,0 +1,43 @@
+{
+  "id": "2115392751374348413",
+  "permalink": "https://x.com/obie/status/2115392751374348413",
+  "author": {
+    "name": "Obie Fernandez",
+    "handle": "@obie",
+    "profile_url": "https://x.com/obie"
+  },
+  "posted_at": "2026-10-28T10:38:28Z",
+  "collected_at": "2026-10-29T16:31:16Z",
+  "updated_at": "2026-10-29T16:31:16Z",
+  "thread": [
+    {
+      "id": "2115392754129752475",
+      "permalink": "https://x.com/obie/status/2115392754129752475",
+      "posted_at": "2026-10-28T10:38:29Z",
+      "position": 1
+    }
+  ],
+  "summary_md": "**Obie Fernandez ([@obie](https://x.com/obie/status/2115392751374348413))** updated **slopcore**, his open-source Claude Code plugin and skill for making AI music videos from your own songs. The self-reply lists v0.3.0 changes: characters and sets designed before stills, GPT Image stills checked by two reviewer agents, 480p Seedance drafts with only approved shots rendered at 1080p, and mandatory lip-sync for singing shots.",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/obie/slopcore",
+      "short_url": "https://t.co/qDvlqgyeNx",
+      "title": "GitHub - obie/slopcore: A Claude Code skill and toolkit for making AI music videos from a finished song: Midjourney stills, Seedance clips, and every lyric drawn in code on the beat.",
+      "from_post": "2115392751374348413"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-media",
+    "harness-dev"
+  ],
+  "relevance": "A real agentic media pipeline, with reviewer agents and draft-then-render gating, packaged as a harness plugin.",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://x.com/obie/status/2115392751374348413/video/1",
+      "from_post": "2115392751374348413",
+      "description": "Video showing slopcore, the Claude Code plugin for making AI music videos from your own songs (not downloaded; referenced only)."
+    }
+  ]
+}

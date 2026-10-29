@@ -1,0 +1,66 @@
+{
+  "id": "2115114254621880499",
+  "permalink": "https://x.com/ChanglerD/status/2115114254621880499",
+  "author": {
+    "name": "Fisher D.",
+    "handle": "@ChanglerD",
+    "profile_url": "https://x.com/ChanglerD"
+  },
+  "posted_at": "2026-10-27T16:11:49Z",
+  "collected_at": "2026-10-29T16:31:06Z",
+  "updated_at": "2026-10-29T16:31:06Z",
+  "thread": [
+    {
+      "id": "2115114512605184190",
+      "permalink": "https://x.com/ChanglerD/status/2115114512605184190",
+      "posted_at": "2026-10-27T16:12:51Z",
+      "position": 1
+    },
+    {
+      "id": "2115114592506704380",
+      "permalink": "https://x.com/ChanglerD/status/2115114592506704380",
+      "posted_at": "2026-10-27T16:13:10Z",
+      "position": 2
+    },
+    {
+      "id": "2115114651210158292",
+      "permalink": "https://x.com/ChanglerD/status/2115114651210158292",
+      "posted_at": "2026-10-27T16:13:24Z",
+      "position": 3
+    }
+  ],
+  "summary_md": "**Fisher D. ([@ChanglerD](https://x.com/ChanglerD/status/2115114254621880499))** open-sources **scientific-workflow-skills**: six Agent Skills used during PhD thesis writing so Codex, Claude Code and Cursor can handle repetitive lab-software work in medicinal chemistry (MestReNova NMR processing, Prism IC50 analysis, ChemDraw OLE, Illustrator figures, characterization curation, figure formatting). The self-reply thread lists the skills and design rules: originals are never modified, work happens on copies, and the agent reports what it did and didn't check.",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/ESRShbb/scientific-workflow-skills",
+      "short_url": "https://t.co/pi5VuorAgW",
+      "title": "GitHub - ESRShbb/scientific-workflow-skills: AI agent skills for chemistry and life sciences: NMR/Mnova, GraphPad Prism IC50 analysis, ChemDraw, compound characterization, and Illustrator scientific figures. 化学与生命科学科研技能。",
+      "from_post": "2115114254621880499"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "relevance": "A domain-specific skill pack with explicit safety rules for driving desktop science software.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HVplM0dasAAQG4b.jpg",
+      "from_post": "2115114254621880499",
+      "description": "Slide 1/9 of scientific-workflow-skills: '6 Agent Skills for med-chem labs' (MIT, free, v0.1.0 experimental) covering MestReNova, Prism, ChemDraw and Illustrator; repetitive lab-software work handed to AI coding agents.",
+      "thumbnail": "posts/2026/10/27/2115114254621880499/media/0.webp",
+      "kind": "screenshot",
+      "ocr_text": "scientific-workflow-skills. 6 Agent Skills for med-chem labs. Repetitive lab software work handed to AI coding agents. Scientific judgment stays with you. MIT · Free. v0.1.0 experimental. MestReNova · Prism · ChemDraw · Illustrator"
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HVplM0nbsAA_I0c.jpg",
+      "from_post": "2115114254621880499",
+      "description": "Slide 2/9 'Software → Skill → Output' mapping MestReNova to nmr-processing, GraphPad Prism to prism-ic50-analysis, ChemDraw+Word/PPT to chemdraw-ole, Adobe Illustrator to illustrator-scientific-figure, plus general skills characterization-curation and scientific-figure-format.",
+      "thumbnail": "posts/2026/10/27/2115114254621880499/media/1.webp",
+      "kind": "screenshot",
+      "ocr_text": "Software → Skill → Output. MestReNova: nmr-processing → .mnova + .png spectra. GraphPad Prism: prism-ic50-analysis → IC50 summary table. ChemDraw + Word/PPT: chemdraw-ole → editable Word/PPT. Adobe Illustrator: illustrator-scientific-figure → editable .ai figure. General skills, not tied to specific software: NMR / IR / HRMS / HPLC records: characterization-curation → SI characterization table. Any figure software: scientific-figure-format → format review notes."
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "id": "2115220337302347998",
+  "permalink": "https://x.com/liqinye27/status/2115220337302347998",
+  "author": {
+    "name": "Liqin Ye",
+    "handle": "@liqinye27",
+    "profile_url": "https://x.com/liqinye27"
+  },
+  "posted_at": "2026-10-27T23:13:21Z",
+  "collected_at": "2026-10-29T16:31:06Z",
+  "updated_at": "2026-10-29T16:31:06Z",
+  "thread": [
+    {
+      "id": "2115220338921365978",
+      "permalink": "https://x.com/liqinye27/status/2115220338921365978",
+      "posted_at": "2026-10-27T23:13:22Z",
+      "position": 1
+    },
+    {
+      "id": "2115220340825600162",
+      "permalink": "https://x.com/liqinye27/status/2115220340825600162",
+      "posted_at": "2026-10-27T23:13:22Z",
+      "position": 2
+    },
+    {
+      "id": "2115220344541749582",
+      "permalink": "https://x.com/liqinye27/status/2115220344541749582",
+      "posted_at": "2026-10-27T23:13:23Z",
+      "position": 3
+    },
+    {
+      "id": "2115220347834204472",
+      "permalink": "https://x.com/liqinye27/status/2115220347834204472",
+      "posted_at": "2026-10-27T23:13:24Z",
+      "position": 4
+    },
+    {
+      "id": "2115220351189930217",
+      "permalink": "https://x.com/liqinye27/status/2115220351189930217",
+      "posted_at": "2026-10-27T23:13:25Z",
+      "position": 5
+    },
+    {
+      "id": "2115220355081966020",
+      "permalink": "https://x.com/liqinye27/status/2115220355081966020",
+      "posted_at": "2026-10-27T23:13:26Z",
+      "position": 6
+    }
+  ],
+  "summary_md": "**Liqin Ye ([@liqinye27](https://x.com/liqinye27/status/2115220337302347998))** (Amazon internship work) introduces **AlphaBet**, an agentic RL framework that trains one policy to search, read, reason and forecast real-world events across multiple historical forecast dates, rewarding each forecast against the eventual outcome. The thread reports:\n\n- On GLM-4.5-Air: Forecast-Dojo accuracy 41.6% → 50.5% and FutureX 51.3% → 57.9%, with Brier scores down ~14%.\n- Gains come from both better evidence and better probability reporting; other models forecast better using evidence AlphaBet retrieved.\n- Std normalization in GRPO distorts proper-scoring-rule targets; AlphaBet keeps mean-centering only.\n- Paper, website, code, models and data are released.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.22684",
+      "short_url": "https://t.co/neNGn4maOa",
+      "title": "AlphaBet: Reinforcement Learning for LLM Event Forecasting Agents",
+      "from_post": "2115220337302347998"
+    },
+    {
+      "url": "https://alphabet-agent.github.io/",
+      "short_url": "https://t.co/yAyHPD9ul7",
+      "from_post": "2115220355081966020"
+    },
+    {
+      "url": "https://github.com/AlphaBet-Agent/AlphaBet",
+      "short_url": "https://t.co/jtC6ewPuxj",
+      "from_post": "2115220355081966020"
+    },
+    {
+      "url": "https://huggingface.co/collections/liqinye/alphabet",
+      "short_url": "https://t.co/RF7hyDXpG6",
+      "from_post": "2115220355081966020"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-cognition"
+  ],
+  "relevance": "RL that improves an agent's research process, not just its final answer.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HVrBhblWwAAlrhP.jpg",
+      "from_post": "2115220340825600162",
+      "description": "AlphaBet method diagram: longitudinal forecasting over an evolving corpus, where an LLM agent uses search, read and compute tools over a date-gated offline corpus and sandbox, optionally keeps a notebook, reports probabilities, and is trained with GRPO without std normalization using negative Brier score rewards.",
+      "thumbnail": "posts/2026/10/27/2115220337302347998/media/0.webp",
+      "kind": "diagram"
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HVrBdRwXkAEUozJ.jpg",
+      "from_post": "2115220344541749582",
+      "description": "Scatter plots of Brier score vs accuracy on Forecast-Dojo and FutureX, showing AlphaBet improving GLM-4.5-Air by +8.9 pp accuracy (-14.4% Brier) and +6.6 pp (-13.7% Brier), compared with Sonnet 4.6, Kimi K2.5, Qwen3.5 397B, MiniMax-M2.5, BLF and OpenForecaster.",
+      "thumbnail": "posts/2026/10/27/2115220337302347998/media/1.webp",
+      "kind": "chart"
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HVrFJlQWgAAhVg4.png",
+      "from_post": "2115220347834204472",
+      "description": "Table of Brier scores for readers (GPT-5.6 Terra xhigh, Claude Sonnet 4.6 high, GLM-4.5-Air, +AlphaBet memory-free) given base evidence, AlphaBet-gathered evidence, or none, with Δacq and Δreport improvements.",
+      "thumbnail": "posts/2026/10/27/2115220337302347998/media/2.webp",
+      "kind": "chart"
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HVrCFirWoAAHN7Z.png",
+      "from_post": "2115220351189930217",
+      "description": "Training curves comparing GRPO with and without std normalization under Brier and log rewards: without normalization Brier falls from 0.731 to 0.668 and log prob improves, while with normalization calibration degrades.",
+      "thumbnail": "posts/2026/10/27/2115220337302347998/media/3.webp",
+      "kind": "chart"
+    }
+  ]
+}

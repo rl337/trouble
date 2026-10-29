@@ -1,0 +1,27 @@
+{
+  "id": "2115432240649748622",
+  "permalink": "https://x.com/charlieonai/status/2115432240649748622",
+  "author": {
+    "name": "Charlie | AI Agent 实战",
+    "handle": "@charlieonai",
+    "profile_url": "https://x.com/charlieonai"
+  },
+  "posted_at": "2026-10-28T13:15:23Z",
+  "collected_at": "2026-10-29T16:31:16Z",
+  "updated_at": "2026-10-29T16:31:16Z",
+  "thread": [],
+  "summary_md": "**Charlie | AI Agent 实战 ([@charlieonai](https://x.com/charlieonai/status/2115432240649748622))** shares **OpenMontage** (AGPL-3.0), a self-hosted AI video studio that runs idea, script, cast, storyboard, video, voice and edit as one pipeline with your own LLM and Seedance API keys.",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/charliewwdev/OpenMontage",
+      "short_url": "https://t.co/TCWvZG3B1P",
+      "title": "GitHub - charliewwdev/OpenMontage: Open-source AI studio for short dramas, short videos and product ads: one-line idea → script, cast, storyboard, video, voice, edit. Self-hosted. | AI 短剧/短视频工坊",
+      "from_post": "2115432240649748622"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-media"
+  ],
+  "relevance": "A full multi-stage agentic video pipeline you can self-host."
+}

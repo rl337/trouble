@@ -1,0 +1,132 @@
+{
+  "id": "2115452992220762302",
+  "permalink": "https://x.com/mkirchhof_/status/2115452992220762302",
+  "author": {
+    "name": "Michael Kirchhof",
+    "handle": "@mkirchhof_",
+    "profile_url": "https://x.com/mkirchhof_"
+  },
+  "posted_at": "2026-10-28T14:37:51Z",
+  "collected_at": "2026-10-29T16:31:16Z",
+  "updated_at": "2026-10-29T16:31:16Z",
+  "thread": [
+    {
+      "id": "2115452997702680614",
+      "permalink": "https://x.com/mkirchhof_/status/2115452997702680614",
+      "posted_at": "2026-10-28T14:37:52Z",
+      "position": 1
+    },
+    {
+      "id": "2115453000651014596",
+      "permalink": "https://x.com/mkirchhof_/status/2115453000651014596",
+      "posted_at": "2026-10-28T14:37:53Z",
+      "position": 2
+    },
+    {
+      "id": "2115453005281804606",
+      "permalink": "https://x.com/mkirchhof_/status/2115453005281804606",
+      "posted_at": "2026-10-28T14:37:54Z",
+      "position": 3
+    },
+    {
+      "id": "2115453009941688577",
+      "permalink": "https://x.com/mkirchhof_/status/2115453009941688577",
+      "posted_at": "2026-10-28T14:37:55Z",
+      "position": 4
+    },
+    {
+      "id": "2115453014529962392",
+      "permalink": "https://x.com/mkirchhof_/status/2115453014529962392",
+      "posted_at": "2026-10-28T14:37:56Z",
+      "position": 5
+    },
+    {
+      "id": "2115453019252760796",
+      "permalink": "https://x.com/mkirchhof_/status/2115453019252760796",
+      "posted_at": "2026-10-28T14:37:57Z",
+      "position": 6
+    },
+    {
+      "id": "2115453024353271989",
+      "permalink": "https://x.com/mkirchhof_/status/2115453024353271989",
+      "posted_at": "2026-10-28T14:37:58Z",
+      "position": 7
+    },
+    {
+      "id": "2115453030204350555",
+      "permalink": "https://x.com/mkirchhof_/status/2115453030204350555",
+      "posted_at": "2026-10-28T14:38:00Z",
+      "position": 8
+    },
+    {
+      "id": "2115453034134200456",
+      "permalink": "https://x.com/mkirchhof_/status/2115453034134200456",
+      "posted_at": "2026-10-28T14:38:01Z",
+      "position": 9
+    }
+  ],
+  "summary_md": "**Michael Kirchhof ([@mkirchhof_](https://x.com/mkirchhof_/status/2115452992220762302))** and Apple ML Research colleagues generated **458,752 RL environments** (64 apps, 10,472 APIs) to train an agent on stateful, multi-step on-device tasks. The 9-part self-thread explains the three-phase Gemini-built env pipeline, says their Qwen 3.5 27B finetune ranks near the top of AppWorld, and shows that data-composition scaling laws predict when to add diversity rather than more prompts.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.37648",
+      "short_url": "https://t.co/lqyzIyvvtF",
+      "title": "Scaling Laws for Tool-Use Agents via Controllable Environment Synthesis",
+      "from_post": "2115452992220762302"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "local-models",
+    "agentic-cognition"
+  ],
+  "relevance": "Scaling laws for synthetic tool-use environments, with a ~30B open model as the trained agent.",
+  "media": [
+    {
+      "type": "gif",
+      "url": "https://x.com/mkirchhof_/status/2115452992220762302/photo/1",
+      "from_post": "2115452992220762302",
+      "description": "Animated GIF introducing the 458,000 generated RL environments for on-device agent tasks (not downloaded; referenced only)."
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HVuYKF6WQAA2gcu.jpg",
+      "from_post": "2115452997702680614",
+      "description": "SynthAPI overview: a multi-step tool-agent example (play a playlist long enough for today's workout, using notes and playlist APIs) next to a panel showing SynthAPI controlling diversity along tools, tasks and data profiles of synthesized environments.",
+      "thumbnail": "posts/2026/10/28/2115452992220762302/media/1.webp",
+      "kind": "diagram"
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HVuYP5HWMAAfmLq.jpg",
+      "from_post": "2115453009941688577",
+      "description": "Table 1 of the SynthAPI paper with SynthAPI-Big highlighted: success rates on AppWorld, ASTRA-Bench, BFCL and a SynthAPI holdout at 4B/9B/27B; SynthAPI-Big reaches 81.5 on AppWorld at 27B vs 61.5 zero-shot.",
+      "thumbnail": "posts/2026/10/28/2115452992220762302/media/2.webp",
+      "kind": "chart",
+      "ocr_text": "Approach | AppWorld 4B 9B 27B | ASTRA-Bench 4B 9B 27B | BFCL 4B 9B 27B | SynthAPI-Holdout 4B 9B 27B\nZero-shot 14.7 26.4 61.5 | 57.4 71.8 80.2 | 27.3 39.3 54.4 | 0.3 1.5 20.0\nNemotron 17.5 20.8 - | 54.4 67.7 - | 15.9 39.7 - | 1.0 0.5 -\nSynthAPI-SubOpt 38.4 53.0 73.8 | 71.1 74.2 77.3 | 44.9 47.5 59.6 | 51.3 56.0 64.0\nSynthAPI-Opt 45.0 56.2 74.1 | 72.3 75.5 79.3 | 48.8 49.9 61.5 | 56.0 63.0 68.0\nSynthAPI-Big 66.4 77.0 81.5 | 74.2 76.8 82.3 | 51.1 53.6 65.0 | 53.0 64.0 69.8"
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HVuYStZW0AEQ5d4.jpg",
+      "from_post": "2115453014529962392",
+      "description": "The same SynthAPI Table 1, now highlighting the SubOpt and Opt rows to show that, at equal environment counts, the optimized data composition scores higher.",
+      "thumbnail": "posts/2026/10/28/2115452992220762302/media/3.webp",
+      "kind": "chart"
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HVuYWZfWAAE3QIY.jpg",
+      "from_post": "2115453019252760796",
+      "description": "Scaling-law plot of normalized score vs training compute (FLOPs) for 2B, 4B, 9B and 27B models: fitted curves on filled points extrapolate to held-out open points at higher compute.",
+      "thumbnail": "posts/2026/10/28/2115452992220762302/media/4.webp",
+      "kind": "chart"
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HVuYZfNW8AATfUI.jpg",
+      "from_post": "2115453024353271989",
+      "description": "Figure 2 of the SynthAPI paper: three panels of normalized score vs number of training tasks for the 9B student, varying app-to-task allocation, database breadth and database depth.",
+      "thumbnail": "posts/2026/10/28/2115452992220762302/media/5.webp",
+      "kind": "chart"
+    }
+  ]
+}

@@ -7,8 +7,8 @@
     "profile_url": "https://x.com/HEI"
   },
   "posted_at": "2026-10-29T02:16:17Z",
-  "collected_at": "2026-10-29T15:06:14Z",
-  "updated_at": "2026-10-29T15:06:14Z",
+  "collected_at": "2026-10-29T16:31:16Z",
+  "updated_at": "2026-10-29T16:31:16Z",
   "thread": [],
   "summary_md": "**[@HEI](https://x.com/HEI/status/2115628761215344847)** (an NLP-papers feed) shares **Distill, Debate, Discover** (Ma, Liu, Kim, Liang, Callison-Burch).\n\nPer the abstract, it tackles how to give debating research agents distinct, meaningful expertise. **InsightAgents** distills insights from graphs of related papers — how approaches evolved, hidden assumptions, open challenges — and agents then jointly pick a problem and propose, challenge and refine approaches into a research proposal, evaluated against three ideation frameworks on 100 NLP topics.",
   "referenced_urls": [

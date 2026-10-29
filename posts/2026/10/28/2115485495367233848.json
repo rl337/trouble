@@ -1,0 +1,29 @@
+{
+  "id": "2115485495367233848",
+  "permalink": "https://x.com/YuxuanL_/status/2115485495367233848",
+  "author": {
+    "name": "Yuxuan Li",
+    "handle": "@YuxuanL_",
+    "profile_url": "https://x.com/YuxuanL_"
+  },
+  "posted_at": "2026-10-28T16:47:00Z",
+  "collected_at": "2026-10-29T16:31:16Z",
+  "updated_at": "2026-10-29T16:31:16Z",
+  "thread": [],
+  "summary_md": "**Yuxuan Li ([@YuxuanL_](https://x.com/YuxuanL_/status/2115485495367233848))** will present **WhatIf** at UIST 2026: interactive exploration of large-scale LLM agent simulations for policy reasoning.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2604.17615",
+      "short_url": "https://t.co/o1yAPHOYoO",
+      "title": "WhatIf: Interactive Exploration of Large-Scale LLM Agent...",
+      "from_post": "2115485495367233848"
+    }
+  ],
+  "hashtags": [
+    "UIST2026"
+  ],
+  "topics": [
+    "agentic-cognition"
+  ],
+  "relevance": "Tooling for inspecting and reasoning about many-agent simulations."
+}

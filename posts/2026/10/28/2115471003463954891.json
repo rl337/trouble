@@ -1,0 +1,27 @@
+{
+  "id": "2115471003463954891",
+  "permalink": "https://x.com/shaitrish37/status/2115471003463954891",
+  "author": {
+    "name": "Shaitrish",
+    "handle": "@shaitrish37",
+    "profile_url": "https://x.com/shaitrish37"
+  },
+  "posted_at": "2026-10-28T15:49:25Z",
+  "collected_at": "2026-10-29T16:31:16Z",
+  "updated_at": "2026-10-29T16:31:16Z",
+  "thread": [],
+  "summary_md": "**Shaitrish ([@shaitrish37](https://x.com/shaitrish37/status/2115471003463954891))** open-sourced **37Studio**, an AI video studio that runs on your own computer, described in the linked blog post.",
+  "referenced_urls": [
+    {
+      "url": "https://shaitrish.com/blog/37studio-is-now-open-source-an-ai-video-studio-that-runs-on-your-own-computer",
+      "short_url": "https://t.co/VcfViJjZIx",
+      "title": "37Studio is open source: AI video studio that runs locally | Shaitrish",
+      "from_post": "2115471003463954891"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-media"
+  ],
+  "relevance": "Another local video-generation studio to compare."
+}

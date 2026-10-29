@@ -7,8 +7,8 @@
     "profile_url": "https://x.com/IFM_AI"
   },
   "posted_at": "2026-10-28T17:00:01Z",
-  "collected_at": "2026-10-29T15:06:14Z",
-  "updated_at": "2026-10-29T15:06:14Z",
+  "collected_at": "2026-10-29T16:31:16Z",
+  "updated_at": "2026-10-29T16:31:16Z",
   "thread": [
     {
       "id": "2115488772020138164",
@@ -34,7 +34,6 @@
     {
       "url": "https://github.com/MBZUAI-IFM/k2-local-deploy/blob/main/k2-horizon-local/SKILL.md",
       "short_url": "https://t.co/vxZdYYmuwx",
-      "title": "K2 Horizon local deployment skill (SKILL.md)",
       "from_post": "2115488772020138164"
     }
   ],

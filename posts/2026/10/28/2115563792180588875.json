@@ -1,0 +1,42 @@
+{
+  "id": "2115563792180588875",
+  "permalink": "https://x.com/_akhaliq/status/2115563792180588875",
+  "author": {
+    "name": "AK",
+    "handle": "@_akhaliq",
+    "profile_url": "https://x.com/_akhaliq"
+  },
+  "posted_at": "2026-10-28T21:58:07Z",
+  "collected_at": "2026-10-29T16:31:16Z",
+  "updated_at": "2026-10-29T16:31:16Z",
+  "thread": [],
+  "summary_md": "**AK ([@_akhaliq](https://x.com/_akhaliq/status/2115563792180588875))** shares **Hy-Nomas**, Tencent's paper and Hugging Face Space for free-form interactive world generation.",
+  "referenced_urls": [
+    {
+      "url": "https://huggingface.co/papers/2610.36729",
+      "short_url": "https://t.co/by82MMznL9",
+      "title": "Paper page - Hy-Nomas: Towards Free-form Interactive World Generation",
+      "from_post": "2115563792180588875"
+    },
+    {
+      "url": "https://huggingface.co/spaces/tencent/hy-nomas",
+      "short_url": "https://t.co/clt7ItswBD",
+      "title": "Hy-Nomas Tencent Studio - a Hugging Face Space by tencent",
+      "from_post": "2115563792180588875"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-media",
+    "agentic-cognition"
+  ],
+  "relevance": "An interactive world-generation model with a runnable demo.",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://x.com/_akhaliq/status/2115563792180588875/video/1",
+      "from_post": "2115563792180588875",
+      "description": "Demo video of Hy-Nomas free-form interactive world generation (not downloaded; referenced only)."
+    }
+  ]
+}

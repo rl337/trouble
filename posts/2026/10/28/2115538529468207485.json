@@ -1,0 +1,27 @@
+{
+  "id": "2115538529468207485",
+  "permalink": "https://x.com/LLMpsycho/status/2115538529468207485",
+  "author": {
+    "name": "Bessi S",
+    "handle": "@LLMpsycho",
+    "profile_url": "https://x.com/LLMpsycho"
+  },
+  "posted_at": "2026-10-28T20:17:44Z",
+  "collected_at": "2026-10-29T16:31:16Z",
+  "updated_at": "2026-10-29T16:31:16Z",
+  "thread": [],
+  "summary_md": "**Bessi S ([@LLMpsycho](https://x.com/LLMpsycho/status/2115538529468207485))** highlights **skill-diet**, an agent skill that slims other skills: it moves rarely needed detail from SKILL.md into reference files, fixes commands that drifted from the tool, and keeps the slim version only if agents score at least as well.",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/nicobailon/skill-diet",
+      "short_url": "https://t.co/zYYt7de0sF",
+      "title": "GitHub - nicobailon/skill-diet: An agent skill that keeps other skills lean and correct: a checklist for every edit, and a tested diet for bloated ones.",
+      "from_post": "2115538529468207485"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "relevance": "Eval-gated skill maintenance: a useful pattern for keeping agent context lean."
+}

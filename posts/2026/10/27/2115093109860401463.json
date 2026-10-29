@@ -7,8 +7,8 @@
     "profile_url": "https://x.com/eneskantepe"
   },
   "posted_at": "2026-10-27T14:47:48Z",
-  "collected_at": "2026-10-29T15:06:13Z",
-  "updated_at": "2026-10-29T15:06:13Z",
+  "collected_at": "2026-10-29T16:31:06Z",
+  "updated_at": "2026-10-29T16:31:06Z",
   "thread": [],
   "summary_md": "**Enes Kantepe ([@eneskantepe](https://x.com/eneskantepe/status/2115093109860401463))** released **herdr-rooms**, an open-source plugin for herdr that sets up a *review room*: one coding agent writes, a second reviews read-only, and they iterate until they agree. Either Claude Code or Codex can fill either role.",
   "referenced_urls": [

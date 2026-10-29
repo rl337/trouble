@@ -1,0 +1,27 @@
+{
+  "id": "2115139934101344715",
+  "permalink": "https://x.com/Yance16z/status/2115139934101344715",
+  "author": {
+    "name": "Yance Zhang",
+    "handle": "@Yance16z",
+    "profile_url": "https://x.com/Yance16z"
+  },
+  "posted_at": "2026-10-27T17:53:52Z",
+  "collected_at": "2026-10-29T16:31:06Z",
+  "updated_at": "2026-10-29T16:31:06Z",
+  "thread": [],
+  "summary_md": "**Yance Zhang ([@Yance16z](https://x.com/Yance16z/status/2115139934101344715))** shares **anatomy**, an agent skill that turns a concept into an interactive isometric illustration — a small machine you can hover over and take apart to see how it works.",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/wheresryan22/anatomy",
+      "short_url": "https://t.co/dsVon42Tr0",
+      "title": "GitHub - wheresryan22/anatomy: An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects.",
+      "from_post": "2115139934101344715"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-media"
+  ],
+  "relevance": "A skill for generating explorable explanatory visuals."
+}

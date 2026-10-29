@@ -1,0 +1,38 @@
+{
+  "id": "2115282709270450509",
+  "permalink": "https://x.com/ComputerPapers/status/2115282709270450509",
+  "author": {
+    "name": "Software Engineering Papers",
+    "handle": "@ComputerPapers",
+    "profile_url": "https://x.com/ComputerPapers"
+  },
+  "posted_at": "2026-10-28T03:21:12Z",
+  "collected_at": "2026-10-29T16:31:06Z",
+  "updated_at": "2026-10-29T16:31:06Z",
+  "thread": [],
+  "summary_md": "**Software Engineering Papers ([@ComputerPapers](https://x.com/ComputerPapers/status/2115282709270450509))** posts *From GPU to TPU with Coding Agents* (Sun, Uchôa, Assunção): Claude Code migrated ten PyTorch projects from NVIDIA GPUs to Cloud TPUs; eight met the project-goal criterion with 2.4 human interventions on average, and 53 of 70 execution attempts failed.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.34422",
+      "short_url": "https://t.co/tiZeh8NYDi",
+      "title": "From GPU to TPU with Coding Agents: What Works, What Fails, and...",
+      "from_post": "2115282709270450509"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "relevance": "Realistic measure of agent reliability on infrastructure migrations.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HVr-akAXQAAkGf1.png",
+      "from_post": "2115282709270450509",
+      "description": "Screenshot of a paper abstract on trusting coding-agent migrations of PyTorch ML projects from NVIDIA GPUs to Google Cloud TPUs with Claude Code (148-project dataset, ten migrated).",
+      "thumbnail": "posts/2026/10/28/2115282709270450509/media/0.webp",
+      "kind": "paper",
+      "ocr_text": "A coding agent can migrate a machine learning workload, report success, and still change how the model trains. Rising compute costs, limited accelerator capacity, and vendor dependence are pushing organizations toward alternatives to graphics processing units (GPUs); a key question is whether agent-generated migrations to tensor processing units (TPUs) can be trusted and at what cost. We build a dataset of 148 PyTorch ML research projects and use Claude Code to migrate ten of them from NVIDIA GPUs to Google Cloud TPUs. We independently assess whether each migration runs, preserves numerical behavior, executes on the intended hardware, maintains the project's goal, and delivers acceptable performance. We also examine failures, human effort, and costs. Eight projects meet our project-goal criterion, and migrations require 2.4 human interventions on average. Of 70 execution attempts, 53 fail…"
+    }
+  ]
+}

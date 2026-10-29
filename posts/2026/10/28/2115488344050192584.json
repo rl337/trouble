@@ -1,0 +1,54 @@
+{
+  "id": "2115488344050192584",
+  "permalink": "https://x.com/benbye/status/2115488344050192584",
+  "author": {
+    "name": "ben",
+    "handle": "@benbye",
+    "profile_url": "https://x.com/benbye"
+  },
+  "posted_at": "2026-10-28T16:58:19Z",
+  "collected_at": "2026-10-29T16:31:16Z",
+  "updated_at": "2026-10-29T16:31:16Z",
+  "thread": [
+    {
+      "id": "2115488573893829041",
+      "permalink": "https://x.com/benbye/status/2115488573893829041",
+      "posted_at": "2026-10-28T16:59:14Z",
+      "position": 1
+    },
+    {
+      "id": "2115488647055052814",
+      "permalink": "https://x.com/benbye/status/2115488647055052814",
+      "posted_at": "2026-10-28T16:59:31Z",
+      "position": 2
+    },
+    {
+      "id": "2115491201378119808",
+      "permalink": "https://x.com/benbye/status/2115491201378119808",
+      "posted_at": "2026-10-28T17:09:40Z",
+      "position": 3
+    }
+  ],
+  "summary_md": "**ben ([@benbye](https://x.com/benbye/status/2115488344050192584))** trained **NanoDreamer**, a 750K-parameter Dreamer-inspired world-model agent on an M5 Pro that learns game dynamics and trains an actor-critic in latent imagination; the write-up and a self-thread explain the setup.",
+  "referenced_urls": [
+    {
+      "url": "https://www.benjamin-bai.com/projects/nanodreamer",
+      "short_url": "https://t.co/bXoODifBDX",
+      "title": "NanoDreamer: Learning to Act Through Imagination",
+      "from_post": "2115488344050192584"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-cognition"
+  ],
+  "relevance": "A tiny, local, readable world-model agent: a good entry point to imagination-based agents.",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://x.com/benbye/status/2115488344050192584/video/1",
+      "from_post": "2115488344050192584",
+      "description": "Video of NanoDreamer, a 750K-parameter world-model agent learning to play games (not downloaded; referenced only)."
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "2115548189520732407",
+  "permalink": "https://x.com/oLeonardoFrito/status/2115548189520732407",
+  "author": {
+    "name": "Leonardo Fries",
+    "handle": "@oLeonardoFrito",
+    "profile_url": "https://x.com/oLeonardoFrito"
+  },
+  "posted_at": "2026-10-28T20:56:08Z",
+  "collected_at": "2026-10-29T16:31:16Z",
+  "updated_at": "2026-10-29T16:31:16Z",
+  "thread": [],
+  "summary_md": "**Leonardo Fries ([@oLeonardoFrito](https://x.com/oLeonardoFrito/status/2115548189520732407))** walks through **Director's Cut**, his open-source creation app on local ComfyUI: pick presets, build a cast and turn references into video.",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/leonardofrito/Directors-Cut",
+      "short_url": "https://t.co/siG6UKr0nq",
+      "title": "GitHub - leonardofrito/Directors-Cut: Create locally. A local asset and REF2VA video studio for ComfyUI, powered by Qwen-Image 2.1, MiniMax H3 and the official Comfy SDK.",
+      "from_post": "2115548189520732407"
+    }
+  ],
+  "hashtags": [
+    "OpenSourceHiggsfield"
+  ],
+  "topics": [
+    "agentic-media"
+  ],
+  "relevance": "A local reference-to-video studio for agentic media workflows.",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://x.com/oLeonardoFrito/status/2115548189520732407/video/1",
+      "from_post": "2115548189520732407",
+      "description": "Walkthrough video of Director's Cut, an open-source creation app powered by local ComfyUI (not downloaded; referenced only)."
+    }
+  ]
+}

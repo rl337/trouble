@@ -1,0 +1,38 @@
+{
+  "id": "2115636442466591154",
+  "permalink": "https://x.com/ComputerPapers/status/2115636442466591154",
+  "author": {
+    "name": "Software Engineering Papers",
+    "handle": "@ComputerPapers",
+    "profile_url": "https://x.com/ComputerPapers"
+  },
+  "posted_at": "2026-10-29T02:46:49Z",
+  "collected_at": "2026-10-29T16:31:16Z",
+  "updated_at": "2026-10-29T16:31:16Z",
+  "thread": [],
+  "summary_md": "**Software Engineering Papers ([@ComputerPapers](https://x.com/ComputerPapers/status/2115636442466591154))** shares **Agent or Human?**, a paper on detecting commits by AI coding agents when authorship signatures are absent.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.36229",
+      "short_url": "https://t.co/NwWEqlud0c",
+      "title": "Agent or Human? Detecting Commits by AI Coding Agents in the...",
+      "from_post": "2115636442466591154"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "relevance": "Provenance detection for agent-written code.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HVxAIi0W0AASX5t.png",
+      "from_post": "2115636442466591154",
+      "description": "Abstract excerpt on detecting coding-agent commits without signatures across 7,837,946 commits in 1,226 repos; detectors reach ROC AUC up to 0.859, mostly from message verbosity and change size.",
+      "thumbnail": "posts/2026/10/29/2115636442466591154/media/0.webp",
+      "kind": "paper",
+      "ocr_text": "AI coding agents such as Claude Code, GitHub Copilot coding agent, and Cursor now commit directly to open-source repositories. Empirical studies of these agents identify their commits through authorship signatures, such as bot accounts and Co-authored-by trailers. These signatures are optional, can be removed, and are often attached to pull requests rather than to individual commits. Hence, it is unclear whether Agent commits can be told apart from Human commits once the signatures are gone. We investigate the signals and limits of signature-free detection using 7,837,946 commits from 1,226 repositories, covering five coding agents and Human commits. After signatures are masked, detectors rank Agent commits above Human commits with a ROC AUC of up to 0.859, and most of this signal comes from message verbosity and change size rather than from the code itself. On the shared…"
+    }
+  ]
+}

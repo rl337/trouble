@@ -1,0 +1,27 @@
+{
+  "id": "2115005810069684248",
+  "permalink": "https://x.com/topg_openmaus/status/2115005810069684248",
+  "author": {
+    "name": "TopG",
+    "handle": "@topg_openmaus",
+    "profile_url": "https://x.com/topg_openmaus"
+  },
+  "posted_at": "2026-10-27T09:00:54Z",
+  "collected_at": "2026-10-29T16:31:06Z",
+  "updated_at": "2026-10-29T16:31:06Z",
+  "thread": [],
+  "summary_md": "**TopG ([@topg_openmaus](https://x.com/topg_openmaus/status/2115005810069684248))** summarizes **DeployBench**: can an agent rebuild and run a paper's code from a fresh VM? Across 51 artifacts five models scored 7.8–51%, and in 102 of 181 failures agents stopped after checking a weaker target.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2606.05238",
+      "short_url": "https://t.co/OBUwCBxSnk",
+      "title": "DeployBench: Benchmarking LLM Agents for Research Artifact Deployment",
+      "from_post": "2115005810069684248"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-cognition"
+  ],
+  "relevance": "Highlights premature success claims in research-reproduction agents."
+}

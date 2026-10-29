@@ -1,0 +1,37 @@
+{
+  "id": "2115280207728754920",
+  "permalink": "https://x.com/LockerGnome/status/2115280207728754920",
+  "author": {
+    "name": "LockerGnome",
+    "handle": "@LockerGnome",
+    "profile_url": "https://x.com/LockerGnome"
+  },
+  "posted_at": "2026-10-28T03:11:16Z",
+  "collected_at": "2026-10-29T16:31:06Z",
+  "updated_at": "2026-10-29T16:31:06Z",
+  "thread": [],
+  "summary_md": "**LockerGnome ([@LockerGnome](https://x.com/LockerGnome/status/2115280207728754920))** covers **Concat**, a free open-source CapCut replacement that ships an MCP server so Claude can cut video on the user's own machine (LockerGnome article).",
+  "referenced_urls": [
+    {
+      "url": "https://lockergnome.com/concat-capcut-replacement-mcp-server-claude-cuts-video/",
+      "short_url": "https://t.co/CSIT7LXB7c",
+      "title": "Concat, a free open-source CapCut replacement, ships an MCP server so Claude can cut your video on your own machine",
+      "from_post": "2115280207728754920"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-media"
+  ],
+  "relevance": "Local video editing exposed to agents through MCP.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HVr8I8NXUAAmvIB.jpg",
+      "from_post": "2115280207728754920",
+      "description": "Cartoon of a man feeding film strip into a laptop video editor while a small orange robot holds scissors, illustrating AI-assisted video editing.",
+      "thumbnail": "posts/2026/10/28/2115280207728754920/media/0.webp",
+      "kind": "other"
+    }
+  ]
+}

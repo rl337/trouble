@@ -1,0 +1,50 @@
+{
+  "id": "2115460696876200416",
+  "permalink": "https://x.com/DeineiDev/status/2115460696876200416",
+  "author": {
+    "name": "Deinei | 泥濘 ローカルAI×Live2D",
+    "handle": "@DeineiDev",
+    "profile_url": "https://x.com/DeineiDev"
+  },
+  "posted_at": "2026-10-28T15:08:28Z",
+  "collected_at": "2026-10-29T16:31:16Z",
+  "updated_at": "2026-10-29T16:31:16Z",
+  "thread": [
+    {
+      "id": "2115460698734268700",
+      "permalink": "https://x.com/DeineiDev/status/2115460698734268700",
+      "posted_at": "2026-10-28T15:08:28Z",
+      "position": 1
+    },
+    {
+      "id": "2115460700764332058",
+      "permalink": "https://x.com/DeineiDev/status/2115460700764332058",
+      "posted_at": "2026-10-28T15:08:29Z",
+      "position": 2
+    }
+  ],
+  "summary_md": "**Deinei | 泥濘 ローカルAI×Live2D ([@DeineiDev](https://x.com/DeineiDev/status/2115460696876200416))** open-sourced **Deinei**, an MIT, fully local LLM companion combining long-term memory RAG, KV-cache preservation within 16K context, VRM/Live2D rendering and 24 kHz zero-shot TTS in one launcher; self-replies add details.",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/kakushiarerukea/Deinei",
+      "short_url": "https://t.co/FYfAFaBjOM",
+      "title": "GitHub - kakushiarerukea/Deinei: Fully local AI companion with Long-Term Memory RAG, branch-isolated worldlines, Live2D/VRM 3D avatars, and real-time TTS for consumer GPUs (8GB+ VRAM).",
+      "from_post": "2115460696876200416"
+    },
+    {
+      "url": "https://github.com/kakushiarerukea/Deinei/blob/main/README.en.md",
+      "short_url": "https://t.co/hlE45yusU1",
+      "title": "Deinei/README.en.md at main · kakushiarerukea/Deinei",
+      "from_post": "2115460700764332058"
+    }
+  ],
+  "hashtags": [
+    "LocalLLM",
+    "llama_cpp",
+    "VRM"
+  ],
+  "topics": [
+    "local-models"
+  ],
+  "relevance": "A complete local agent stack with memory, voice and avatar."
+}

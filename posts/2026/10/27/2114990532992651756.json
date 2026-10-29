@@ -1,0 +1,37 @@
+{
+  "id": "2114990532992651756",
+  "permalink": "https://x.com/ModelScope2022/status/2114990532992651756",
+  "author": {
+    "name": "ModelScope",
+    "handle": "@ModelScope2022",
+    "profile_url": "https://x.com/ModelScope2022"
+  },
+  "posted_at": "2026-10-27T08:00:12Z",
+  "collected_at": "2026-10-29T16:31:06Z",
+  "updated_at": "2026-10-29T16:31:06Z",
+  "thread": [],
+  "summary_md": "**ModelScope ([@ModelScope2022](https://x.com/ModelScope2022/status/2114990532992651756))** announces the full release of **Atria Dawn** on ModelScope: open weights (MIT) with 512K context aimed at research and engineering agents. In the team's own comparison it leads on AutomationBench, CyberGym, SkillsBench and WideSearch; it targets deep research, building software and reports, and security workflows, and ships full and FP8 weights with local deployment via SGLang and vLLM.",
+  "referenced_urls": [
+    {
+      "url": "https://modelscope.ai/models/Shanghai_AI_Laboratory/Atria-Dawn",
+      "short_url": "https://t.co/1vSrN73uO0",
+      "title": "Atria-Dawn - ModelScope",
+      "from_post": "2114990532992651756"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "local-models"
+  ],
+  "relevance": "A new open agent-oriented model with FP8 weights and SGLang/vLLM recipes — a candidate for the agent-friendly open model list.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HVn0rcsW4AAnxtF.jpg",
+      "from_post": "2114990532992651756",
+      "description": "Grid of eight bar charts (AutomationBench, CyberGym, SkillsBench, WideSearch, MLE-bench Lite, Workspace-Bench, PaperBench, JobBench) comparing Atria Dawn and Atria Dawn Preview with DeepSeek V4 Pro 0813, Kimi K3, Qwen 3.8 Max, GLM 5.3, GPT 5.6 sol and Claude Opus 5.",
+      "thumbnail": "posts/2026/10/27/2114990532992651756/media/0.webp",
+      "kind": "chart"
+    }
+  ]
+}

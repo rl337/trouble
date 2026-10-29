@@ -1,0 +1,37 @@
+{
+  "id": "2115245683305247115",
+  "permalink": "https://x.com/poseidanai/status/2115245683305247115",
+  "author": {
+    "name": "poseidanai",
+    "handle": "@poseidanai",
+    "profile_url": "https://x.com/poseidanai"
+  },
+  "posted_at": "2026-10-28T00:54:04Z",
+  "collected_at": "2026-10-29T16:31:06Z",
+  "updated_at": "2026-10-29T16:31:06Z",
+  "thread": [],
+  "summary_md": "**poseidanai ([@poseidanai](https://x.com/poseidanai/status/2115245683305247115))** shares **awesome-opus5-5-videos**, a collection of 703 viral Claude Opus 5.5 videos with the exact prompts behind them; each is generated as code rather than by a video model, so prompts can be pasted into Claude Code.",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/yihui-dev/awesome-opus5-5-videos",
+      "short_url": "https://t.co/xZYhDBZkzs",
+      "title": "GitHub - yihui-dev/awesome-opus5-5-videos: A growing collection of viral videos made with Claude Opus 5.5 and the prompts behind them. Watch each original next to a live remake on Skillry. Updated regularly.",
+      "from_post": "2115245683305247115"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-media"
+  ],
+  "relevance": "A large prompt corpus for code-generated video, useful as reference material.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HVrcvWuXMAAqpHZ.jpg",
+      "from_post": "2115245683305247115",
+      "description": "Mosaic grid of roughly a hundred small screenshots of different 3D web games and scenes (racing, space, platformers, puzzle) on a dark background.",
+      "thumbnail": "posts/2026/10/28/2115245683305247115/media/0.webp",
+      "kind": "screenshot"
+    }
+  ]
+}

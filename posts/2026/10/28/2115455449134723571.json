@@ -1,0 +1,38 @@
+{
+  "id": "2115455449134723571",
+  "permalink": "https://x.com/PIN/status/2115455449134723571",
+  "author": {
+    "name": "Multiagent Systems Papers",
+    "handle": "@PIN",
+    "profile_url": "https://x.com/PIN"
+  },
+  "posted_at": "2026-10-28T14:47:36Z",
+  "collected_at": "2026-10-29T16:31:16Z",
+  "updated_at": "2026-10-29T16:31:16Z",
+  "thread": [],
+  "summary_md": "**Multiagent Systems Papers ([@PIN](https://x.com/PIN/status/2115455449134723571))** shares **Replication or Corroboration?**, an axiomatic framework for evidential dependence in multi-agent debate.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.36151",
+      "short_url": "https://t.co/8Lu6vgSad6",
+      "title": "Replication or Corroboration? An Axiomatic Framework for...",
+      "from_post": "2115455449134723571"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-cognition"
+  ],
+  "relevance": "Formalizes when agreeing agents are really independent evidence.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HVubhVVXgAAwydd.png",
+      "from_post": "2115455449134723571",
+      "description": "Abstract excerpt of 'Replication or Corroboration?', formalizing how a judge in multi-agent debate should tell repeated evidence from independent corroboration (root replication invariance).",
+      "thumbnail": "posts/2026/10/28/2115455449134723571/media/0.webp",
+      "kind": "paper",
+      "ocr_text": "In multi-agent debates, matching reports can arise for two different reasons: agents may repeat the same evidence (replication), or they may provide separate evidential roots that support the same claim (corroboration). A judge must distinguish these two cases. Counting report occurrences gives extra weight to relays, paraphrases, alias resubmissions, and excerpt splits, while merging all matching content avoids this only by also removing genuine corroboration. We formalize this tension as a minimal judgment game in which acquiring new evidence is costly, but replication is cheap. We show that root replication invariance (RRI) is exactly threshold-uniform replication immunity. Under RRI, replication-only deviations cannot change the verdict, and positive-cost replication is strictly dominated, whereas occurrence-sensitive and content-keyed judges admit profitable deviations. We also…"
+    }
+  ]
+}

@@ -7,8 +7,8 @@
     "profile_url": "https://x.com/0xBakeer"
   },
   "posted_at": "2026-10-28T10:30:01Z",
-  "collected_at": "2026-10-29T15:06:14Z",
-  "updated_at": "2026-10-29T15:06:14Z",
+  "collected_at": "2026-10-29T16:31:16Z",
+  "updated_at": "2026-10-29T16:31:16Z",
   "thread": [],
   "summary_md": "**[@0xBakeer](https://x.com/0xBakeer/status/2115390623125831798)** benchmarks six models on one DGX Spark with an identical test (8 requests, 512 tokens each, temp 1.0, thinking off, 3 rounds) now shown on every model card in **TandemLLM 0.15.0**.\n\n- Single request: lfm2.5-24b-a2b ~123 tok/s, flint ~108, flash-next ~44, qwen3.8-27b ~35, bolt ~35, ornith-1.5-122b ~35.\n- Eight at once: lfm2.5 ~239, flint ~216, qwen3.8-27b ~146, flash-next ~108, bolt ~92, ornith-1.5-122b ~86.\n- Notable: the dense 27B scales ~4.1× from 1→8 requests while everything else gains only ~1.9–2.6×, lifting it to third under load.",
   "referenced_urls": [

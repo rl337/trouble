@@ -1,0 +1,35 @@
+{
+  "id": "2115463926184116648",
+  "permalink": "https://x.com/_akhaliq/status/2115463926184116648",
+  "author": {
+    "name": "AK",
+    "handle": "@_akhaliq",
+    "profile_url": "https://x.com/_akhaliq"
+  },
+  "posted_at": "2026-10-28T15:21:18Z",
+  "collected_at": "2026-10-29T16:31:16Z",
+  "updated_at": "2026-10-29T16:31:16Z",
+  "thread": [],
+  "summary_md": "**AK ([@_akhaliq](https://x.com/_akhaliq/status/2115463926184116648))** shares **ThinkWorld**, a paper where world imagination reinforces chain-of-dynamics reasoning.",
+  "referenced_urls": [
+    {
+      "url": "https://huggingface.co/papers/2610.37666",
+      "short_url": "https://t.co/DCyVCUs3wa",
+      "title": "Paper page - ThinkWorld: World Imagination Reinforces Chain-of-Dynamics Reasoning",
+      "from_post": "2115463926184116648"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-cognition"
+  ],
+  "relevance": "Links world-model imagination to stepwise reasoning.",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://x.com/_akhaliq/status/2115463926184116648/video/1",
+      "from_post": "2115463926184116648",
+      "description": "Video accompanying the ThinkWorld paper on world imagination for chain-of-dynamics reasoning (not downloaded; referenced only)."
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "2115439167664431460",
+  "permalink": "https://x.com/robotnurseio/status/2115439167664431460",
+  "author": {
+    "name": "RobotNurse",
+    "handle": "@robotnurseio",
+    "profile_url": "https://x.com/robotnurseio"
+  },
+  "posted_at": "2026-10-28T13:42:55Z",
+  "collected_at": "2026-10-29T16:31:16Z",
+  "updated_at": "2026-10-29T16:31:16Z",
+  "thread": [],
+  "summary_md": "**RobotNurse ([@robotnurseio](https://x.com/robotnurseio/status/2115439167664431460))** recounts two identical Mac Studios prefilling at 373.7 vs 118.2 tok/s because one chip was stuck near a third of its clock while power telemetry reported 0 mW; the linked post argues for benchmarking the hardware before the software.",
+  "referenced_urls": [
+    {
+      "url": "https://robotnurse.io/posts/11-benchmark-the-hardware-first",
+      "short_url": "https://t.co/Pzf5Efbkxt",
+      "title": "Benchmark the Hardware Before You Benchmark the Software",
+      "from_post": "2115439167664431460"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "local-models"
+  ],
+  "relevance": "A debugging lesson for anyone benchmarking local inference rigs."
+}
