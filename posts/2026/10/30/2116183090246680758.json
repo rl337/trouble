@@ -1,0 +1,33 @@
+{
+  "id": "2116183090246680758",
+  "permalink": "https://x.com/DigitalBayy/status/2116183090246680758",
+  "author": {
+    "name": "DigitalBayy",
+    "handle": "@DigitalBayy",
+    "profile_url": "https://x.com/DigitalBayy"
+  },
+  "posted_at": "2026-10-30T14:59:00Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**DigitalBayy ([@DigitalBayy](https://x.com/DigitalBayy/status/2116183090246680758))** summarizes Balestriero and LeCun's *Proving and Improving the Platonic Representation Hypothesis with JEPAs* ([arXiv 2610.39302](https://arxiv.org/abs/2610.39302)): a 109M text-only JEPA aligned with DINOv2 image embeddings better than every LLM tested up to Qwen2.5-72B, while next-token training needed 42× more samples.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.39302",
+      "from_post": "2116183090246680758",
+      "short_url": "https://t.co/p2wzM9aggM",
+      "title": "Proving and Improving the Platonic Representation Hypothesis with JEPAs"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-cognition"
+  ],
+  "keywords": [
+    "platonic-representation-hypothesis",
+    "jepa",
+    "dinov2",
+    "representation-alignment"
+  ],
+  "relevance": "Evidence for sample-efficient shared representations."
+}

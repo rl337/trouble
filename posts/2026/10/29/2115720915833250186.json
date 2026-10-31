@@ -1,0 +1,51 @@
+{
+  "id": "2115720915833250186",
+  "permalink": "https://x.com/dedene/status/2115720915833250186",
+  "author": {
+    "name": "Peter Dedene",
+    "handle": "@dedene",
+    "profile_url": "https://x.com/dedene"
+  },
+  "posted_at": "2026-10-29T08:22:29Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [
+    {
+      "id": "2115720927724114085",
+      "permalink": "https://x.com/dedene/status/2115720927724114085",
+      "posted_at": "2026-10-29T08:22:32Z",
+      "position": 1
+    }
+  ],
+  "summary_md": "**Peter Dedene ([@dedene](https://x.com/dedene/status/2115720915833250186))** benchmarks the diffusion LLM **Clover-35B-A3B** on one DGX Spark: with thinking off it rarely calls tools, but with thinking on it is the best he has measured on a Spark (BFCL 89.6 / 61.5 multi-turn, AgentDojo 86.5, GPQA 78.3, 23 agent steps/min vs. 14 for Qwen3.8 FP4), though 49 of 200 prompt injections succeeded versus 2 for Qwen; the follow-up shares a Docker Compose setup with SGLang and a GB10-patched Clover PR ([dedene/Clover-35B-A3B-DGX-Spark](https://github.com/dedene/Clover-35B-A3B-DGX-Spark)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/dedene/Clover-35B-A3B-DGX-Spark",
+      "from_post": "2115720927724114085",
+      "short_url": "https://t.co/CryztCIs3p",
+      "title": "GitHub - dedene/Clover-35B-A3B-DGX-Spark"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "local-models"
+  ],
+  "keywords": [
+    "clover-35b-a3b",
+    "diffusion-llm",
+    "dgx-spark",
+    "sglang",
+    "bfcl",
+    "agentdojo",
+    "prompt-injection"
+  ],
+  "relevance": "Hands-on DGX Spark numbers for a new ~35B agent model, including security caveats.",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://x.com/dedene/status/2115720915833250186/video/1",
+      "from_post": "2115720915833250186",
+      "description": "Video of the Clover benchmark run on DGX Spark (not downloaded; referenced only)."
+    }
+  ]
+}

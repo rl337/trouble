@@ -1,0 +1,44 @@
+{
+  "id": "2116379641808367878",
+  "permalink": "https://x.com/_vMyth/status/2116379641808367878",
+  "author": {
+    "name": "Vishal Pandey",
+    "handle": "@_vMyth",
+    "profile_url": "https://x.com/_vMyth"
+  },
+  "posted_at": "2026-10-31T04:00:01Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**Vishal Pandey ([@_vMyth](https://x.com/_vMyth/status/2116379641808367878))** explains **confine** from agentutils. It runs Claude Code in a copy-on-write fork of the repo without access to SSH keys, and `fsdiff` exports the changes as a Git patch. The network is not restricted, so readable data can still leave ([penberg/agentutils](https://github.com/penberg/agentutils)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/penberg/agentutils",
+      "from_post": "2116379641808367878",
+      "short_url": "https://t.co/Qp9jvVy5Rs",
+      "title": "GitHub - penberg/agentutils: Small UNIX tools for letting a coding agent, or anything else you would rather not trust with your files, work on a directory."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "agentutils",
+    "confine",
+    "copy-on-write",
+    "sandbox",
+    "fsdiff"
+  ],
+  "relevance": "Simple filesystem sandboxing.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV7IGF7a4AAX90G.jpg",
+      "from_post": "2116379641808367878",
+      "description": "GitHub card for penberg/agentutils with a terminal demo.",
+      "kind": "screenshot",
+      "thumbnail": "posts/2026/10/31/2116379641808367878/media/0.webp"
+    }
+  ]
+}

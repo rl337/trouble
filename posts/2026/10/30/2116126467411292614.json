@@ -1,0 +1,33 @@
+{
+  "id": "2116126467411292614",
+  "permalink": "https://x.com/SMishra61/status/2116126467411292614",
+  "author": {
+    "name": "Shorya Mishra",
+    "handle": "@SMishra61",
+    "profile_url": "https://x.com/SMishra61"
+  },
+  "posted_at": "2026-10-30T11:14:00Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**Shorya Mishra ([@SMishra61](https://x.com/SMishra61/status/2116126467411292614))** summarizes *A Reality Check of Inference-Time Context Augmentation Methods* ([arXiv 2610.30983](https://arxiv.org/abs/2610.30983)): across 5 methods, 7 models and 3 datasets, extra context changed answers without improving reliability, with gains offset by right-to-wrong flips.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.30983",
+      "from_post": "2116126467411292614",
+      "short_url": "https://t.co/1RECIuqQg5",
+      "title": "A Reality Check of Inference-Time Context Augmentation Methods"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-cognition"
+  ],
+  "keywords": [
+    "context-augmentation",
+    "reliability",
+    "answer-flip",
+    "evaluation"
+  ],
+  "relevance": "Caution on context stuffing in agent pipelines."
+}

@@ -1,0 +1,49 @@
+{
+  "id": "2116165162407219703",
+  "permalink": "https://x.com/Neo_MarcoPolo/status/2116165162407219703",
+  "author": {
+    "name": "NeoMarcoPolo",
+    "handle": "@Neo_MarcoPolo",
+    "profile_url": "https://x.com/Neo_MarcoPolo"
+  },
+  "posted_at": "2026-10-30T13:47:45Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**NeoMarcoPolo ([@Neo_MarcoPolo](https://x.com/Neo_MarcoPolo/status/2116165162407219703))** made **MarcoStudio**, 13 image and video tools running on your own ComfyUI with open models, no account or credits, MIT, showing real generation times ([page](https://neomarcopolo.co/marcostudio/), [NeoMarcoPolo/marcostudio](https://github.com/NeoMarcoPolo/marcostudio)).",
+  "referenced_urls": [
+    {
+      "url": "https://neomarcopolo.co/marcostudio/",
+      "from_post": "2116165162407219703",
+      "short_url": "https://t.co/t0iUsEMH4P"
+    },
+    {
+      "url": "https://github.com/NeoMarcoPolo/marcostudio",
+      "from_post": "2116165162407219703",
+      "short_url": "https://t.co/8u62UrS2A8",
+      "title": "GitHub - NeoMarcoPolo/marcostudio: 13 image and video tools that run on your own ComfyUI with open-weight models. Use the hosted app or run it locally."
+    }
+  ],
+  "hashtags": [
+    "OpenSourceHiggsfield"
+  ],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "marcostudio",
+    "comfyui",
+    "image-generation",
+    "video-generation",
+    "opensourcehiggsfield"
+  ],
+  "relevance": "Local tool bundle for media generation.",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://x.com/Neo_MarcoPolo/status/2116165162407219703/video/1",
+      "from_post": "2116165162407219703",
+      "description": "Demo with real generation timings (not downloaded; referenced only)."
+    }
+  ]
+}

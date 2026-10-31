@@ -1,0 +1,34 @@
+{
+  "id": "2116168099011678384",
+  "permalink": "https://x.com/LRuibiao69297/status/2116168099011678384",
+  "author": {
+    "name": "lin ruibiao",
+    "handle": "@LRuibiao69297",
+    "profile_url": "https://x.com/LRuibiao69297"
+  },
+  "posted_at": "2026-10-30T13:59:25Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**lin ruibiao ([@LRuibiao69297](https://x.com/LRuibiao69297/status/2116168099011678384))** notes Liquid AI's **LFM3** family: six ~2B open-weight models sharing one backbone for text, vision, audio and omni; the text model is about 1 GB at 4-bit with 256K context and fine-tunable on one GPU ([LiquidAI LFM3 collection](https://huggingface.co/collections/LiquidAI/lfm3)).",
+  "referenced_urls": [
+    {
+      "url": "https://huggingface.co/collections/LiquidAI/lfm3",
+      "from_post": "2116168099011678384",
+      "short_url": "https://t.co/2bL3wSLlMR",
+      "title": "💧 LFM3 - a LiquidAI Collection"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "local-models"
+  ],
+  "keywords": [
+    "lfm3",
+    "liquid-ai",
+    "small-model",
+    "multimodal",
+    "256k-context"
+  ],
+  "relevance": "Small multimodal local models for agents."
+}

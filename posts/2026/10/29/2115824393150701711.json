@@ -1,0 +1,99 @@
+{
+  "id": "2115824393150701711",
+  "permalink": "https://x.com/vllm_project/status/2115824393150701711",
+  "author": {
+    "name": "vLLM",
+    "handle": "@vllm_project",
+    "profile_url": "https://x.com/vllm_project"
+  },
+  "posted_at": "2026-10-29T15:13:40Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [
+    {
+      "id": "2115824409219105019",
+      "permalink": "https://x.com/vllm_project/status/2115824409219105019",
+      "posted_at": "2026-10-29T15:13:43Z",
+      "position": 1
+    },
+    {
+      "id": "2115824423953694873",
+      "permalink": "https://x.com/vllm_project/status/2115824423953694873",
+      "posted_at": "2026-10-29T15:13:47Z",
+      "position": 2
+    },
+    {
+      "id": "2115824438302462230",
+      "permalink": "https://x.com/vllm_project/status/2115824438302462230",
+      "posted_at": "2026-10-29T15:13:50Z",
+      "position": 3
+    }
+  ],
+  "summary_md": "**vLLM ([@vllm_project](https://x.com/vllm_project/status/2115824393150701711))** announces day-0 vLLM support for **Mistral Large 4**, a 1T multimodal MoE with 1M context, FP8 and NVFP4 checkpoints and a built-in DSpark drafter giving roughly 2× output throughput; the thread adds low/medium/high reasoning effort, Pixtral multi-image vision, SkyRL RL support, cross-layer KV sharing and disaggregated serving ([weights](https://huggingface.co/mistralai/Mistral-Large-4-1T-A52B), [NVFP4](https://huggingface.co/mistralai/Mistral-Large-4-1T-A52B-NVFP4), [blog](https://vllm.ai/blog/2026-10-29-mistral-large-4)).",
+  "referenced_urls": [
+    {
+      "url": "https://huggingface.co/mistralai/Mistral-Large-4-1T-A52B",
+      "from_post": "2115824438302462230",
+      "short_url": "https://t.co/niX2dUk8zy",
+      "title": "mistralai/Mistral-Large-4-1T-A52B · Upcoming release · Hugging Face"
+    },
+    {
+      "url": "https://huggingface.co/mistralai/Mistral-Large-4-1T-A52B-NVFP4",
+      "from_post": "2115824438302462230",
+      "short_url": "https://t.co/5ZJsPVbUOy",
+      "title": "mistralai/Mistral-Large-4-1T-A52B-NVFP4 · Hugging Face"
+    },
+    {
+      "url": "https://vllm.ai/blog/2026-10-29-mistral-large-4",
+      "from_post": "2115824438302462230",
+      "short_url": "https://t.co/EeLie6bzf5",
+      "title": "Day 0 support for Mistral Large 4 on vLLM"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "local-models"
+  ],
+  "keywords": [
+    "vllm",
+    "mistral-large-4",
+    "nvfp4",
+    "speculative-decoding",
+    "mixture-of-experts"
+  ],
+  "relevance": "Serving details for a frontier open model, including NVFP4.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HVzrEtmaEAARPiZ.jpg",
+      "from_post": "2115824393150701711",
+      "description": "Card \"Le Chonk, meet vLLM\": ~1T total parameters MoE, 1M token context, coding, reasoning and images.",
+      "kind": "diagram",
+      "thumbnail": "posts/2026/10/29/2115824393150701711/media/0.webp"
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HVzrFqjasAAIj_N.jpg",
+      "from_post": "2115824409219105019",
+      "description": "Card on reasoning across text and images with reasoning effort levels.",
+      "kind": "diagram",
+      "thumbnail": "posts/2026/10/29/2115824393150701711/media/1.webp"
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HVzrGhLbQAA2rID.jpg",
+      "from_post": "2115824423953694873",
+      "description": "Bar chart of built-in DSpark throughput gains: 1.92–2.16× FP8 and 2.00–2.23× NVFP4.",
+      "kind": "chart",
+      "thumbnail": "posts/2026/10/29/2115824393150701711/media/2.webp"
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HVzrHXba4AAMFro.jpg",
+      "from_post": "2115824438302462230",
+      "description": "\"Serve the long context\" diagram of FP8/NVFP4 checkpoints and disaggregated prefill/decode with NIXL.",
+      "kind": "diagram",
+      "thumbnail": "posts/2026/10/29/2115824393150701711/media/3.webp"
+    }
+  ]
+}

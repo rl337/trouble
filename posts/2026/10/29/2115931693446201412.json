@@ -1,0 +1,34 @@
+{
+  "id": "2115931693446201412",
+  "permalink": "https://x.com/uk_indiehack_JP/status/2115931693446201412",
+  "author": {
+    "name": "Yuki｜AIと個人開発",
+    "handle": "@uk_indiehack_JP",
+    "profile_url": "https://x.com/uk_indiehack_JP"
+  },
+  "posted_at": "2026-10-29T22:20:02Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**Yuki｜AIと個人開発 ([@uk_indiehack_JP](https://x.com/uk_indiehack_JP/status/2115931693446201412))** notes that AI-written Rust often compiles but stays C++-minded, and points to **BeautifulRust**, a plugin with vetted clippy settings that teaches Claude Code and four other agents idiomatic Rust ([morganlinton/BeautifulRust](https://github.com/morganlinton/BeautifulRust)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/morganlinton/BeautifulRust",
+      "from_post": "2115931693446201412",
+      "short_url": "https://t.co/22Gz83LQ0A",
+      "title": "GitHub - morganlinton/BeautifulRust: A Claude Code plugin that teaches Claude to write idiomatic, robust Rust"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "beautifulrust",
+    "rust",
+    "clippy",
+    "claude-code",
+    "plugin"
+  ],
+  "relevance": "Language-idiom skills for coding agents."
+}

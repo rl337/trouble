@@ -1,0 +1,86 @@
+{
+  "id": "2115826775972581750",
+  "permalink": "https://x.com/1weiho/status/2115826775972581750",
+  "author": {
+    "name": "Yiwei Ho",
+    "handle": "@1weiho",
+    "profile_url": "https://x.com/1weiho"
+  },
+  "posted_at": "2026-10-29T15:23:08Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [
+    {
+      "id": "2115826779852345457",
+      "permalink": "https://x.com/1weiho/status/2115826779852345457",
+      "posted_at": "2026-10-29T15:23:09Z",
+      "position": 1
+    }
+  ],
+  "summary_md": "**Yiwei Ho ([@1weiho](https://x.com/1weiho/status/2115826775972581750))** published **clean-ui-shot**, an agent skill that stages a real usage scene for a described feature and crops a product-page-style screenshot with rounded window, shadow and stage, with examples for open-slide ([1weiho/skills](https://github.com/1weiho/skills), [open-slide](https://open-slide.dev)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/1weiho/skills",
+      "from_post": "2115826775972581750",
+      "short_url": "https://t.co/j5urpHswcL",
+      "title": "GitHub - 1weiho/skills: A collection of Yiwei's agent skills"
+    },
+    {
+      "url": "https://open-slide.dev",
+      "from_post": "2115826779852345457",
+      "short_url": "https://t.co/aLpClzDinX",
+      "title": "open-slide — a slide framework built for agents"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "clean-ui-shot",
+    "screenshot",
+    "agent-skill",
+    "open-slide"
+  ],
+  "relevance": "Agent-produced marketing screenshots.",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://x.com/1weiho/status/2115826775972581750/video/1",
+      "from_post": "2115826775972581750",
+      "description": "Demo of clean-ui-shot (not downloaded; referenced only)."
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HVzsg3PaUAAQkCd.jpg",
+      "from_post": "2115826779852345457",
+      "description": "Example shot of the open-slide editor showing \"The FY27 operating plan\" slide on a gradient stage.",
+      "kind": "screenshot",
+      "thumbnail": "posts/2026/10/29/2115826775972581750/media/1.webp"
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HVzsipsaQAA1znJ.jpg",
+      "from_post": "2115826779852345457",
+      "description": "Example shot of the slide editor with an agent chat panel.",
+      "kind": "screenshot",
+      "thumbnail": "posts/2026/10/29/2115826775972581750/media/2.webp"
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HVzsjtHaMAAc2uI.jpg",
+      "from_post": "2115826779852345457",
+      "description": "Example shot of a \"The plan, on one page\" slide with metrics.",
+      "kind": "screenshot",
+      "thumbnail": "posts/2026/10/29/2115826775972581750/media/3.webp"
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HVzskKdbcAAilkF.jpg",
+      "from_post": "2115826779852345457",
+      "description": "Example shot of the slide app in a dark window frame.",
+      "kind": "screenshot",
+      "thumbnail": "posts/2026/10/29/2115826775972581750/media/4.webp"
+    }
+  ]
+}

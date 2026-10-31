@@ -1,0 +1,78 @@
+{
+  "id": "2115775426736144771",
+  "permalink": "https://x.com/aevedyaaa/status/2115775426736144771",
+  "author": {
+    "name": "harshit",
+    "handle": "@aevedyaaa",
+    "profile_url": "https://x.com/aevedyaaa"
+  },
+  "posted_at": "2026-10-29T11:59:05Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [
+    {
+      "id": "2115775511427485913",
+      "permalink": "https://x.com/aevedyaaa/status/2115775511427485913",
+      "posted_at": "2026-10-29T11:59:25Z",
+      "position": 1
+    },
+    {
+      "id": "2115775688909447351",
+      "permalink": "https://x.com/aevedyaaa/status/2115775688909447351",
+      "posted_at": "2026-10-29T12:00:08Z",
+      "position": 2
+    },
+    {
+      "id": "2115775744374915185",
+      "permalink": "https://x.com/aevedyaaa/status/2115775744374915185",
+      "posted_at": "2026-10-29T12:00:21Z",
+      "position": 3
+    },
+    {
+      "id": "2115776923800682950",
+      "permalink": "https://x.com/aevedyaaa/status/2115776923800682950",
+      "posted_at": "2026-10-29T12:05:02Z",
+      "position": 4
+    },
+    {
+      "id": "2115776954800779277",
+      "permalink": "https://x.com/aevedyaaa/status/2115776954800779277",
+      "posted_at": "2026-10-29T12:05:09Z",
+      "position": 5
+    },
+    {
+      "id": "2115776993254121524",
+      "permalink": "https://x.com/aevedyaaa/status/2115776993254121524",
+      "posted_at": "2026-10-29T12:05:19Z",
+      "position": 6
+    },
+    {
+      "id": "2115777067610669382",
+      "permalink": "https://x.com/aevedyaaa/status/2115777067610669382",
+      "posted_at": "2026-10-29T12:05:36Z",
+      "position": 7
+    }
+  ],
+  "summary_md": "**harshit ([@aevedyaaa](https://x.com/aevedyaaa/status/2115775426736144771))** built a **first-principles** skill for Claude Code and Codex, inspired by Farnam Street, that breaks a problem into assumptions, separates knowledge from belief, questions constraints, rebuilds from what holds and explores at least one fundamentally different solution; the thread gives engineering and product examples ([v60samurai/first-principles](https://github.com/v60samurai/first-principles)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/v60samurai/first-principles",
+      "from_post": "2115775426736144771",
+      "short_url": "https://t.co/QeFdmoqAS8",
+      "title": "GitHub - v60samurai/first-principles: An agent skill for reasoning from first principles instead of by analogy, for dev, product and strategy work."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-cognition",
+    "harness-dev"
+  ],
+  "keywords": [
+    "first-principles",
+    "agent-skill",
+    "reasoning",
+    "problem-framing",
+    "claude-code"
+  ],
+  "relevance": "Encodes a reasoning discipline as an agent skill."
+}

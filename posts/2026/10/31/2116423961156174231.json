@@ -1,0 +1,58 @@
+{
+  "id": "2116423961156174231",
+  "permalink": "https://x.com/AgentsWatch/status/2116423961156174231",
+  "author": {
+    "name": "AgentsWatch",
+    "handle": "@AgentsWatch",
+    "profile_url": "https://x.com/AgentsWatch"
+  },
+  "posted_at": "2026-10-31T06:56:08Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [
+    {
+      "id": "2116424778882105656",
+      "permalink": "https://x.com/AgentsWatch/status/2116424778882105656",
+      "posted_at": "2026-10-31T06:59:23Z",
+      "position": 1
+    }
+  ],
+  "summary_md": "**AgentsWatch ([@AgentsWatch](https://x.com/AgentsWatch/status/2116423961156174231))** summarizes Zettl and Gosmar ([arXiv 2610.37700](https://arxiv.org/abs/2610.37700)). A planner-coder-reviewer pipeline costs 3.22x and runs 3.24x longer than one strong call on 135 coding tasks while solving no more. A per-task oracle reaches 94.3% at half cost, but their actual router gets 71.4% at $0.0046.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.37700",
+      "from_post": "2116423961156174231",
+      "short_url": "https://t.co/1SAwCjakuz",
+      "title": "The Coordination Tax and the Heterogeneity Dividend: Break-Even..."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "coordination-tax",
+    "multi-agent",
+    "model-routing",
+    "cost"
+  ],
+  "relevance": "Multi-agent coordination cost.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV8MKVvWwAACG0-.png",
+      "from_post": "2116423961156174231",
+      "description": "Break-even threshold curves vs decomposition inflation.",
+      "kind": "chart",
+      "thumbnail": "posts/2026/10/31/2116423961156174231/media/0.webp"
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV8M_NTW8AAmpus.png",
+      "from_post": "2116424778882105656",
+      "description": "Accuracy vs cost per solved task for single call and three-role pipeline.",
+      "kind": "chart",
+      "thumbnail": "posts/2026/10/31/2116423961156174231/media/1.webp"
+    }
+  ]
+}

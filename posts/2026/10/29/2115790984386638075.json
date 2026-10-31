@@ -1,0 +1,45 @@
+{
+  "id": "2115790984386638075",
+  "permalink": "https://x.com/SciFi/status/2115790984386638075",
+  "author": {
+    "name": "Artificial Intelligence Papers",
+    "handle": "@SciFi",
+    "profile_url": "https://x.com/SciFi"
+  },
+  "posted_at": "2026-10-29T13:00:54Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**Artificial Intelligence Papers ([@SciFi](https://x.com/SciFi/status/2115790984386638075))** shares **BCMAAC** ([arXiv 2610.35398](https://arxiv.org/abs/2610.35398)), a belief-conditioned multi-agent actor-critic for decentralized LLM collaboration where agents maintain beliefs about context they cannot see, improving over naive actor-critic baselines on Minecraft, web search and tool-use tasks.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.35398",
+      "from_post": "2115790984386638075",
+      "short_url": "https://t.co/NS7sVYv0a7",
+      "title": "Belief-Conditioned Multi-Agent Actor Critic for Decentralized LLM..."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-cognition"
+  ],
+  "keywords": [
+    "bcmaac",
+    "multi-agent-reinforcement-learning",
+    "actor-critic",
+    "decentralized-collaboration",
+    "belief"
+  ],
+  "relevance": "Multi-agent coordination under partial information.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HVzMsDhXgAAEVdy.png",
+      "from_post": "2115790984386638075",
+      "description": "Image of the paper's abstract text.",
+      "kind": "paper",
+      "thumbnail": "posts/2026/10/29/2115790984386638075/media/0.webp",
+      "ocr_text": "Recent work has explored optimizing LLM collaboration through Multi-Agent Reinforcement Learning (MARL), but many approaches still rely on predefined workflows, limiting efficiency and scalability. Decentralized LLM collaboration is challenging because agents execute independently with limited communication, share a joint objective, and must infer useful information from communication traces. In this paper, we propose BCMAAC, a Belief-Conditioned Multi-Agent Actor-Critic method that maintains beliefs over contextual information and uses them to facilitate training. Experiments on Minecraft game-playing, web searching and tool-using tasks show that BCMAAC improves task performance and collaborative behavior compared to naive actor-critic baselines. The improvements are particularly pronounced in multi-turn tasks with richer contextual information, where belief modeling provides a clear advantage."
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "id": "2116175026009555181",
+  "permalink": "https://x.com/christiannonis/status/2116175026009555181",
+  "author": {
+    "name": "Christian Nonis",
+    "handle": "@christiannonis",
+    "profile_url": "https://x.com/christiannonis"
+  },
+  "posted_at": "2026-10-30T14:26:57Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [
+    {
+      "id": "2116175028001636511",
+      "permalink": "https://x.com/christiannonis/status/2116175028001636511",
+      "posted_at": "2026-10-30T14:26:57Z",
+      "position": 1
+    },
+    {
+      "id": "2116175031009214887",
+      "permalink": "https://x.com/christiannonis/status/2116175031009214887",
+      "posted_at": "2026-10-30T14:26:58Z",
+      "position": 2
+    },
+    {
+      "id": "2116175033953644761",
+      "permalink": "https://x.com/christiannonis/status/2116175033953644761",
+      "posted_at": "2026-10-30T14:26:59Z",
+      "position": 3
+    },
+    {
+      "id": "2116175035828219998",
+      "permalink": "https://x.com/christiannonis/status/2116175035828219998",
+      "posted_at": "2026-10-30T14:26:59Z",
+      "position": 4
+    }
+  ],
+  "summary_md": "**Christian Nonis ([@christiannonis](https://x.com/christiannonis/status/2116175026009555181))** explains *MemDerive* ([arXiv 2610.25373](https://arxiv.org/abs/2610.25373)) from NUS/SJTU/0G Labs, which tests derived facts that follow from multiple records plus rules: Mem0, Cognee, LightMem and MemoryOS score 30–48% versus ~58% for BM25 and refresh only 41% of implicit changes; the proposed fix is versioned rules, dependency tracking and incremental view maintenance.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.25373",
+      "from_post": "2116175026009555181",
+      "short_url": "https://t.co/5lyRF9l0Q7",
+      "title": "MemDerive: A Diagnostic Benchmark for Agent Memory over Evolving Data"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "memderive",
+    "agent-memory",
+    "bm25",
+    "mem0",
+    "derived-state"
+  ],
+  "relevance": "Agent memory design informed by a hard benchmark."
+}

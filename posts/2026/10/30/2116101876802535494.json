@@ -1,0 +1,44 @@
+{
+  "id": "2116101876802535494",
+  "permalink": "https://x.com/Creationeerxyz/status/2116101876802535494",
+  "author": {
+    "name": "Creationeerxyz",
+    "handle": "@Creationeerxyz",
+    "profile_url": "https://x.com/Creationeerxyz"
+  },
+  "posted_at": "2026-10-30T09:36:17Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**Creationeerxyz ([@Creationeerxyz](https://x.com/Creationeerxyz/status/2116101876802535494))** presents **CreativeField** for the Open Source Higgsfield challenge, aiming to give ComfyUI's power with Photoshop-like simplicity for free local image, video and 3D creation, plus their own AI Photoshop alternative ([rhymeas/Creativefield](https://github.com/rhymeas/Creativefield)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/rhymeas/Creativefield",
+      "from_post": "2116101876802535494",
+      "short_url": "https://t.co/cE2Usst5ho",
+      "title": "GitHub - rhymeas/Creativefield: Open Source Visual AI Platform"
+    }
+  ],
+  "hashtags": [
+    "OpenSourceHiggsfield"
+  ],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "creativefield",
+    "comfyui",
+    "image-editing",
+    "video-generation",
+    "opensourcehiggsfield"
+  ],
+  "relevance": "Local all-in-one creative AI front end.",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://x.com/Creationeerxyz/status/2116101876802535494/video/1",
+      "from_post": "2116101876802535494",
+      "description": "Tour of the CreativeField interface (not downloaded; referenced only)."
+    }
+  ]
+}

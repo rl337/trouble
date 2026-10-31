@@ -1,0 +1,44 @@
+{
+  "id": "2115909124961558546",
+  "permalink": "https://x.com/HEI/status/2115909124961558546",
+  "author": {
+    "name": "Natural Language Processing Papers",
+    "handle": "@HEI",
+    "profile_url": "https://x.com/HEI"
+  },
+  "posted_at": "2026-10-29T20:50:21Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**Natural Language Processing Papers ([@HEI](https://x.com/HEI/status/2115909124961558546))** shares **Δτ-Bench** ([arXiv 2610.34238](https://arxiv.org/abs/2610.34238)), an executable benchmark modeling evolving tool ecosystems where familiar tools disappear or are superseded, testing whether agents discover better tool use and update procedural knowledge; it spans 1,588 multi-turn tasks across 42 domains.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.34238",
+      "from_post": "2115909124961558546",
+      "short_url": "https://t.co/9dBARwCkWR",
+      "title": "$Δτ$-Bench: Pushing Agents Toward a Moving Capability"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "delta-tau-bench",
+    "benchmark",
+    "tool-evolution",
+    "procedural-knowledge"
+  ],
+  "relevance": "Tests agent adaptation to changing tool ecosystems.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV04IvVWAAAjsfR.png",
+      "from_post": "2115909124961558546",
+      "description": "Image of the paper's abstract text.",
+      "kind": "paper",
+      "thumbnail": "posts/2026/10/29/2115909124961558546/media/0.webp",
+      "ocr_text": "In this paper, we introduce Δτ-Bench, an executable agent benchmark that models the structural evolution of large tool ecosystems. In Δτ-Bench, independently evolving services continually reshape how tasks can be accomplished: familiar tools may disappear or be replaced, while more efficient alternatives emerge amid overlapping functionality and noisy documentation. Against this moving capability frontier, we evaluate whether agents can proactively discover efficient tool-use paths and promptly revise their accumulated procedural knowledge, bringing together demands that existing benchmarks fail to examine. Δτ-Bench comprises 1,588 validated multi-turn tasks across 42 domains and six successive ecosystem states generated through capability-preserving transformations. Our evaluation shows that even the strongest evaluated model or harness achieves only 42.3% task success, while initial gains from existing skill-learning methods can not consistently translate into better adaptation as th"
+    }
+  ]
+}

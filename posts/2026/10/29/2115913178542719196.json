@@ -1,0 +1,70 @@
+{
+  "id": "2115913178542719196",
+  "permalink": "https://x.com/fly51fly/status/2115913178542719196",
+  "author": {
+    "name": "fly51fly",
+    "handle": "@fly51fly",
+    "profile_url": "https://x.com/fly51fly"
+  },
+  "posted_at": "2026-10-29T21:06:28Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**fly51fly ([@fly51fly](https://x.com/fly51fly/status/2115913178542719196))** shares UC Berkeley's **Evolving Agent Teams** ([arXiv 2610.36848](https://arxiv.org/abs/2610.36848)), in which a supervisor restructures a team of agents from execution feedback and a persistent file system; on GPU kernel optimization its MLA decode kernel trajectory ends at roughly 1.2× the production FlashInfer baseline, per the paper's Figure 1.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.36848",
+      "from_post": "2115913178542719196",
+      "short_url": "https://t.co/pv8d9BM4P5",
+      "title": "Evolving Agent Teams"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-cognition"
+  ],
+  "keywords": [
+    "evolving-agent-team",
+    "multi-agent",
+    "supervisor",
+    "kernel-optimization",
+    "flashinfer"
+  ],
+  "relevance": "Self-reorganizing multi-agent teams for hard engineering problems.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV07zDdaIAAiZYO.png",
+      "from_post": "2115913178542719196",
+      "description": "Summary page listing the paper's key contributions.",
+      "kind": "paper",
+      "thumbnail": "posts/2026/10/29/2115913178542719196/media/0.webp",
+      "ocr_text": "or nvod multi-agent setups are sunclent for\nconiplox tasks lke Gru kemel optimizatbion\nreveals that anents naturally drift tovard easier.\nsub-optimal paths le.a abandoning WGMMA\nsseuaoo ksns Apcinb o Vwwn o)\nconstraints\nnxed-role agemt teamg, strict rale boundaniese\ncause them to miss cross-boundary bugs (e.g:\nmomory lavour mismatchesl, as no agont auditse\nthe byta-lsval coce of anotner due to reliancs\nan aoatract commumication\n Introduces Evolving Agent eams, a trannewonk\nwhers a central supervisor agent dynamically\nfestctures tho team's rolaa, ccordination, ama\nknowledga inanagomemt based on diagnosing\naurrant slgortihmio plateaus or dead ands\nHignlianta that restnioting agemt autonomy cane\ndrive breakthrouohs: far example, invonting a\n\"Disciplinanian\" rolo to bloek nan-optmal\nworkarounds or a \"Focused nebuggor\nfoibldden fronm touching tho nain codebase\nforces the tean to solvo mand haraware\ntottlenecks.\nDiscovora nat cross-session knoledae loss ls\na critical structural weakness in long-nunning\ntasks, solvod not fuat by logoina, but by\nintrotucing a persistemt fls systomm and\ndynanicaly spawning a \"Knowledoe lntegratoy\"\nto synthesize scattered hndings into actionable\narchitectural plans.\nEmpinically achiavoa stata-of-the-an fosults:\nI.2x faster than the erpert-witeri, highly\noptimized pnoduction Flashinter MlA decode\nkeinel.\nDenmanstrates axtreme ganeralizabllity by vasty\noutpenoming human boselines aeross dvorso\ndomams:. AMD Mls5X kemmels (olx over\nvuuM,Anple siicon MoE cmoaaina.and oven\ntopping the FoboDojo fobot manipulation\nloaderboard."
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV07zPEbkAEg10V.jpg",
+      "from_post": "2115913178542719196",
+      "description": "Abstract of \"Evolving Agent Teams\".",
+      "kind": "paper",
+      "thumbnail": "posts/2026/10/29/2115913178542719196/media/1.webp",
+      "ocr_text": "Abstract\nTherapid progress of software engineering agents drives interest in applying them\nto open-ended problems such as GPU kernel optimization.However,we find that\nexisting coding agents converge tolocal optima on real-world, expert-writtenker-\nnels (e.g., FLASHINFER).We introduce EVOLVING AGENT TEAMS, a multi-agent\nframework that escapes such local optima.Itfeatures (1)a central supervisor\nthat diagnoses eachlocal optimumand restructures ateam of agents; and(2)a\npersistent file system that comprises a learning document, an evolution history,and\nper-team artifacts,grounding restructuringwith accumulated experience.Under\na matched tokenbudget, EVOLVINGAGENTTEAMSconsistently outperforms\nstrong coding-agent baselines.With an extended token budget,EVOLVING AGENT\nTEAMSgeneratesaCUDAkernelthatreaches1.2xmeanspeedupovertheproduc-\ntionFLASHINFERMLApageddecodekernelfromscratchandwinson36of47\nproduction wWorkloads from FLASHINFER-BENCH (0.86-0.99× on the remaining\n11).It also demonstrates superior performanceon tasks such as KDAprefillon\nAMDMI350X(3.01×overvLLM)andNVIDIAB200(3.44×overFlashKDA),\nMoEexpert-offload servingonApple silicon(30.3tokens/sdecodeforQwen3.8-\nFlash-Next inMLX4-bit on a 48GBM4Pro),andRoboDojorobotmanipulation\n(62.1onheld-out seeds vs.55.3for the best leaderboard entry).Code is available\nathttps://github.com/caoshiyi/EAT."
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV07z-jaEAAvpGl.jpg",
+      "from_post": "2115913178542719196",
+      "description": "Figure 1: MLA decode kernel performance vs. baseline across kernel versions with supervisor interventions marked.",
+      "kind": "chart",
+      "thumbnail": "posts/2026/10/29/2115913178542719196/media/2.webp"
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV07z-kaUAEsE-C.jpg",
+      "from_post": "2115913178542719196",
+      "description": "Figure 2: the framework with team evolution, file system and team execution loops.",
+      "kind": "diagram",
+      "thumbnail": "posts/2026/10/29/2115913178542719196/media/3.webp"
+    }
+  ]
+}

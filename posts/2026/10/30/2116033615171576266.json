@@ -1,0 +1,44 @@
+{
+  "id": "2116033615171576266",
+  "permalink": "https://x.com/albz_marocchino/status/2116033615171576266",
+  "author": {
+    "name": "Alberto Marocchino",
+    "handle": "@albz_marocchino",
+    "profile_url": "https://x.com/albz_marocchino"
+  },
+  "posted_at": "2026-10-30T05:05:02Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**Alberto Marocchino ([@albz_marocchino](https://x.com/albz_marocchino/status/2116033615171576266))** reports **llama.cpp 0.8.0** adds audio streaming, `/v1/realtime` and `/tts` with LFM3 Audio/Omni support, as an experimental API ([release](https://github.com/ggml-org/llama.cpp/releases/tag/v0.8.0)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/v0.8.0",
+      "from_post": "2116033615171576266",
+      "short_url": "https://t.co/nPSjhcIgea",
+      "title": "Release v0.8.0 · ggml-org/llama.cpp"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "local-models"
+  ],
+  "keywords": [
+    "llama.cpp",
+    "realtime-api",
+    "tts",
+    "lfm3",
+    "audio"
+  ],
+  "relevance": "Voice in the core local runtime.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV2pXCWWEAAeKRF.jpg",
+      "from_post": "2116033615171576266",
+      "description": "Graphic \"Il computer ora ascolta e risponde\" with a vintage projector illustration.",
+      "kind": "other",
+      "thumbnail": "posts/2026/10/30/2116033615171576266/media/0.webp"
+    }
+  ]
+}

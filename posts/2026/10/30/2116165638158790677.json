@@ -1,0 +1,33 @@
+{
+  "id": "2116165638158790677",
+  "permalink": "https://x.com/AllenYZL/status/2116165638158790677",
+  "author": {
+    "name": "YZ_L",
+    "handle": "@AllenYZL",
+    "profile_url": "https://x.com/AllenYZL"
+  },
+  "posted_at": "2026-10-30T13:49:39Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**YZ_L ([@AllenYZL](https://x.com/AllenYZL/status/2116165638158790677))** argues every installed skill adds context cost on every prompt without evidence it helps, and offers **skills_wiki**, one self-hostable skill library for all agents with persistent corrections and blind with/without benchmarks ([appleaa123/skills_wiki_opensource](https://github.com/appleaa123/skills_wiki_opensource)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/appleaa123/skills_wiki_opensource",
+      "from_post": "2116165638158790677",
+      "short_url": "https://t.co/pTQMw4Vskd",
+      "title": "GitHub - appleaa123/skills_wiki_opensource: Manage the AI skills you already installed for Claude Code, Codex and Antigravity: route each request to the right skill, keep your corrections as learnings, and benchmark skills on your local machine."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "skills-wiki",
+    "agent-skill",
+    "context-cost",
+    "benchmark"
+  ],
+  "relevance": "Measuring whether skills actually help."
+}

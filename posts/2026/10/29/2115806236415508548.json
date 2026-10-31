@@ -1,0 +1,41 @@
+{
+  "id": "2115806236415508548",
+  "permalink": "https://x.com/ker102dev/status/2115806236415508548",
+  "author": {
+    "name": "Ker102",
+    "handle": "@ker102dev",
+    "profile_url": "https://x.com/ker102dev"
+  },
+  "posted_at": "2026-10-29T14:01:31Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**Ker102 ([@ker102dev](https://x.com/ker102dev/status/2115806236415508548))** packages a reusable agent skill for **paper-unfolding animations**: generate nine frames of a crumpled ball becoming a flat note, cut them out and play them like stop-motion ([OpenRootdev/paper-unfold-frames](https://github.com/OpenRootdev/paper-unfold-frames)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/OpenRootdev/paper-unfold-frames",
+      "from_post": "2115806236415508548",
+      "short_url": "https://t.co/NGB0G9SiJD",
+      "title": "GitHub - OpenRootdev/paper-unfold-frames: Crumpled paper ball → flat note, frame by frame: an AI-agent skill that makes photo-real paper-unfold stop-motion from GPT-image keyframes."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "paper-unfold-frames",
+    "stop-motion",
+    "animation",
+    "agent-skill"
+  ],
+  "relevance": "Agent skill for stop-motion style animation.",
+  "media": [
+    {
+      "type": "gif",
+      "url": "https://x.com/ker102dev/status/2115806236415508548/photo/1",
+      "from_post": "2115806236415508548",
+      "description": "Animated paper-unfolding example (not downloaded; referenced only)."
+    }
+  ]
+}

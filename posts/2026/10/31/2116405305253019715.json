@@ -1,0 +1,56 @@
+{
+  "id": "2116405305253019715",
+  "permalink": "https://x.com/laolinwalks/status/2116405305253019715",
+  "author": {
+    "name": "老林在路上",
+    "handle": "@laolinwalks",
+    "profile_url": "https://x.com/laolinwalks"
+  },
+  "posted_at": "2026-10-31T05:42:00Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**老林在路上 ([@laolinwalks](https://x.com/laolinwalks/status/2116405305253019715))** explains *DiscoveryRSI* ([arXiv 2610.23839](https://arxiv.org/abs/2610.23839), [code](https://github.com/Gen-Verse/DiscoveryRSI), [arena](https://foundry-arena.rsi-arena.workers.dev/arena)). Lead, generate, evolve, critique and progress agents grow hypothesis trees and compile them into Harbor tasks. The system improves itself through TrueSkill credit for hypotheses (DiscoveryRSI-27B), harness replay of failures and rediscovery on new problems in DFM-Bench life-science domains.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.23839",
+      "from_post": "2116405305253019715",
+      "short_url": "https://t.co/GFLF45Vbjc",
+      "title": "DiscoveryRSI: Recursively Learning to Discover Valuable Hypotheses"
+    },
+    {
+      "url": "https://github.com/Gen-Verse/DiscoveryRSI",
+      "from_post": "2116405305253019715",
+      "short_url": "https://t.co/kpKFapSTi1",
+      "title": "GitHub - Gen-Verse/DiscoveryRSI: DiscoveryRSI: Recursively Learning to Discover Valuable Hypotheses"
+    },
+    {
+      "url": "https://foundry-arena.rsi-arena.workers.dev/arena",
+      "from_post": "2116405305253019715",
+      "short_url": "https://t.co/2U0x5jfMIz"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-cognition"
+  ],
+  "keywords": [
+    "discoveryrsi",
+    "hypothesis-generation",
+    "self-improvement",
+    "trueskill",
+    "harbor"
+  ],
+  "relevance": "Recursive self-improvement for scientific agents.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV62-t9aIAAnFc5.jpg",
+      "from_post": "2116405305253019715",
+      "description": "DiscoveryRSI title page with result charts.",
+      "kind": "paper",
+      "thumbnail": "posts/2026/10/31/2116405305253019715/media/0.webp",
+      "ocr_text": "DiscoveryRSI: Recursively Learning to\nDiscover Valuable Hypotheses\nJianyuan Zhong1,2,* Chenwei Wu3,* Zhaochen Yu4* Xixian Jiang11 Xuewei Li6 Hao Xiao5\nXilin Dai?2 Junyang Wang? Jiaru Zou8 Zhiqing Cui9 Boyuan Zheng3 Jing Xiong10 Zhen Zhang10\nQiang Gao5 Michael Morley12 Luis Nakayama13,14 Qiang Xu? Liyue Shen3 Tao Gui5\nLeo Anthony Celi12,14,t James Zou8.t Zhenfei Yin1,15,t Yingcheng Wu1,8,t Ling Yang1,7,16,\n4National University of Singapore 5Fudan University 6Peking University People's Hospital\n*Equal contribution tCorresponding authors\nCode:GitHub\nModels:Hugging Face\nIWebsite:DiscoveryRsIArena\n(a) Hypothesis hits in subsequentpublished research\nActionable references (%)\n6.3%\n5.4%\n2.8%\n2.5%\n2.3%\nDiscoveryRSI-27B\nDeepSeek\nGLM\nGPT\nClaude\n(b)RSI shifts evolutionarybehavior\n(c)Greatergainsperrevision\nRoundo\nRound 1\nRound 2\nDiscoveryRSI-27B\n+0.07\n5.39\nGPT-5.6 Sol\nEvolve\nRestart\n+0.03\n5.4\n5.18\nRepair\nScore\nCrossover\n5.0-4.86\nR2\nGPT-6 Luna\n-0.01\nR1\n4.6\nRO\n50\n100\n-0.04\n0.00\n0.04\n0.08\nAction share (%)\nRound\nMean revision improvement"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "id": "2116098118194446348",
+  "permalink": "https://x.com/ywenn2026/status/2116098118194446348",
+  "author": {
+    "name": "ywenn",
+    "handle": "@ywenn2026",
+    "profile_url": "https://x.com/ywenn2026"
+  },
+  "posted_at": "2026-10-30T09:21:21Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**ywenn ([@ywenn2026](https://x.com/ywenn2026/status/2116098118194446348))** lists three runnable recursive self-improvement loops: the **Darwin Gödel Machine** editing its own harness code (SWE about 20%→50%) ([jennyzzt/dgm](https://github.com/jennyzzt/dgm)), **SEAL** writing its own fine-tuning data ([Continual-Intelligence/SEAL](https://github.com/Continual-Intelligence/SEAL)), and **OpenRSI** with real research repos and immutable verifiers ([FrontisAI/OpenRSI](https://github.com/FrontisAI/OpenRSI)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/jennyzzt/dgm",
+      "from_post": "2116098118194446348",
+      "short_url": "https://t.co/fv1tSut0aF",
+      "title": "GitHub - jennyzzt/dgm: Darwin Gödel Machine: Open-Ended Evolution of Self-Improving Agents"
+    },
+    {
+      "url": "https://github.com/Continual-Intelligence/SEAL",
+      "from_post": "2116098118194446348",
+      "short_url": "https://t.co/kzOIxPRAwE",
+      "title": "GitHub - Continual-Intelligence/SEAL: Self-Adapting Language Models"
+    },
+    {
+      "url": "https://github.com/FrontisAI/OpenRSI",
+      "from_post": "2116098118194446348",
+      "short_url": "https://t.co/8KNR6Pn94z",
+      "title": "GitHub - FrontisAI/OpenRSI: Executable, measurable, and reproducible AI4AI toward recursive self-improvement. Home of OpenMLE and Frontis-MA1."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-cognition"
+  ],
+  "keywords": [
+    "recursive-self-improvement",
+    "darwin-godel-machine",
+    "seal",
+    "openrsi",
+    "self-improving-agent"
+  ],
+  "relevance": "Concise map of working self-improvement codebases."
+}

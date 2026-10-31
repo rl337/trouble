@@ -1,0 +1,39 @@
+{
+  "id": "2116171385282383999",
+  "permalink": "https://x.com/painandtears3/status/2116171385282383999",
+  "author": {
+    "name": "Delta",
+    "handle": "@painandtears3",
+    "profile_url": "https://x.com/painandtears3"
+  },
+  "posted_at": "2026-10-30T14:12:29Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**Delta ([@painandtears3](https://x.com/painandtears3/status/2116171385282383999))** reports DeepSeek open-sourced **DeepInfer**, the production engine behind V4.1-Flash (~155T tokens/day on one cluster) with async batch scheduling, expert parallelism to EP128 and speculative decoding ([deepseek-ai/DeepInfer](https://github.com/deepseek-ai/DeepInfer)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/deepseek-ai/DeepInfer",
+      "from_post": "2116171385282383999",
+      "short_url": "https://t.co/01Q1vxLVL7",
+      "title": "GitHub - deepseek-ai/DeepInfer: DeepInfer: High-performance, large-scale inference framework for DeepSeek models"
+    }
+  ],
+  "hashtags": [
+    "DeepSeek",
+    "OpenSource",
+    "AI",
+    "LLM"
+  ],
+  "topics": [
+    "local-models"
+  ],
+  "keywords": [
+    "deepinfer",
+    "deepseek",
+    "expert-parallelism",
+    "speculative-decoding",
+    "inference-engine"
+  ],
+  "relevance": "Production MoE inference techniques now public."
+}

@@ -1,0 +1,36 @@
+{
+  "id": "2116178910312571254",
+  "permalink": "https://x.com/Adityakuma8784/status/2116178910312571254",
+  "author": {
+    "name": "Aditya kumar Singh",
+    "handle": "@Adityakuma8784",
+    "profile_url": "https://x.com/Adityakuma8784"
+  },
+  "posted_at": "2026-10-30T14:42:23Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**Aditya kumar Singh ([@Adityakuma8784](https://x.com/Adityakuma8784/status/2116178910312571254))** built **cdebt**, which quizzes you on AI-written code before you push with answers verified by running it, covering about 85% of 2,298 functions across three repos ([Adityakk9031/cdebt](https://github.com/Adityakk9031/cdebt)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/Adityakk9031/cdebt",
+      "from_post": "2116178910312571254",
+      "short_url": "https://t.co/FfmvmCJqg8",
+      "title": "GitHub - Adityakk9031/cdebt: Measure, test and pay down comprehension debt: AI-written code nobody has verifiably understood."
+    }
+  ],
+  "hashtags": [
+    "AI",
+    "Python"
+  ],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "cdebt",
+    "comprehension-debt",
+    "code-review",
+    "python"
+  ],
+  "relevance": "Tackles comprehension debt from agent code."
+}

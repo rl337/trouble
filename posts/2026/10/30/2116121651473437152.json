@@ -1,0 +1,38 @@
+{
+  "id": "2116121651473437152",
+  "permalink": "https://x.com/halogenengine/status/2116121651473437152",
+  "author": {
+    "name": "Halogen",
+    "handle": "@halogenengine",
+    "profile_url": "https://x.com/halogenengine"
+  },
+  "posted_at": "2026-10-30T10:54:52Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**Halogen ([@halogenengine](https://x.com/halogenengine/status/2116121651473437152))** ships **Halogen 0.18.19** for running Qwen3.8-Flash-Next on Strix Halo: about 3% faster at three concurrent requests, no 64-image cap for screenshot agents, Claude Code auto-compaction and tool-call fixes ([changelog](https://github.com/peonist-ai/halogen-flash-server/blob/main/CHANGELOG.md)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/peonist-ai/halogen-flash-server/blob/main/CHANGELOG.md",
+      "from_post": "2116121651473437152",
+      "short_url": "https://t.co/gTstxfEfJr",
+      "title": "halogen-flash-server/CHANGELOG.md at main · peonist-ai/halogen-flash-server"
+    }
+  ],
+  "hashtags": [
+    "StrixHalo",
+    "LocalLLM",
+    "qwen"
+  ],
+  "topics": [
+    "local-models"
+  ],
+  "keywords": [
+    "halogen",
+    "strix-halo",
+    "qwen3.8-flash-next",
+    "local-llm",
+    "tool-call"
+  ],
+  "relevance": "Local serving improvements for agent use on unified-memory hardware."
+}

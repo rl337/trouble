@@ -1,0 +1,44 @@
+{
+  "id": "2115721902140375294",
+  "permalink": "https://x.com/ComputerPapers/status/2115721902140375294",
+  "author": {
+    "name": "Software Engineering Papers",
+    "handle": "@ComputerPapers",
+    "profile_url": "https://x.com/ComputerPapers"
+  },
+  "posted_at": "2026-10-29T08:26:24Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**Software Engineering Papers ([@ComputerPapers](https://x.com/ComputerPapers/status/2115721902140375294))** shares **BenchMeUp** ([arXiv 2610.37283](https://arxiv.org/abs/2610.37283)), which automatically builds software-engineering benchmarks from natural-language specifications of the desired instances, data sources and evaluation procedures, generating search rules and a construction plan.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.37283",
+      "from_post": "2115721902140375294",
+      "short_url": "https://t.co/Rmyl4NPZ2I",
+      "title": "BenchMeUp: Building Software Engineering Benchmarks from..."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "benchmeup",
+    "benchmark",
+    "software-engineering",
+    "llm-agent"
+  ],
+  "relevance": "Automated benchmark construction for evaluating coding agents.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HVyN280XAAAsaNs.png",
+      "from_post": "2115721902140375294",
+      "description": "Image of the paper's abstract text.",
+      "kind": "paper",
+      "thumbnail": "posts/2026/10/29/2115721902140375294/media/0.webp",
+      "ocr_text": "Software-engineering research relies on benchmarks that evaluate new techniques on a set of problem instances. Unfortunately, manually constructing benchmarks is labor-intensive, as researchers must find suitable instances, prepare execution environments, establish expected outcomes, and validate correctness. This paper presents BenchMeUp, an approach for automatically creating software-engineering benchmarks from natural-language specifications. Given a specification defining the desired instances, data sources, and evaluation procedures, BenchMeUp generates search rules and a construction plan, invokes parallel LLM agents that identify candidate instances and construct executable instances, validates the results in fresh execution environments, and packages the instances behind a unified command-line interface. We evaluate the approach on four tasks: program repair, issue reproduction, compiler autotuning, and fixing static-analysis warnings. Targeting 50 instances per task (200 in t"
+    }
+  ]
+}

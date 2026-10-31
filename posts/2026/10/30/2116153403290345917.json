@@ -1,0 +1,33 @@
+{
+  "id": "2116153403290345917",
+  "permalink": "https://x.com/ziqinyuan/status/2116153403290345917",
+  "author": {
+    "name": "Garry Yuan",
+    "handle": "@ziqinyuan",
+    "profile_url": "https://x.com/ziqinyuan"
+  },
+  "posted_at": "2026-10-30T13:01:02Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**Garry Yuan ([@ziqinyuan](https://x.com/ziqinyuan/status/2116153403290345917))** found **LyricFrame**, a skill letting Claude or Codex turn a song and lyrics into an animated music video frame by frame with code, no video model or GPU ([leolv131/lyricframe](https://github.com/leolv131/lyricframe)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/leolv131/lyricframe",
+      "from_post": "2116153403290345917",
+      "short_url": "https://t.co/89Pm8zuDxx",
+      "title": "GitHub - leolv131/lyricframe: LyricFrame 词帧 — turn a song into an animated MV: AI writes code that draws every frame (8bit pixel / flat chibi). Works with Claude app, Claude Code, Codex."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "lyricframe",
+    "music-video",
+    "code-rendered-video",
+    "agent-skill"
+  ],
+  "relevance": "Code-rendered music videos by agents."
+}

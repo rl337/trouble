@@ -1,0 +1,44 @@
+{
+  "id": "2116226256547070079",
+  "permalink": "https://x.com/OpenSILEX/status/2116226256547070079",
+  "author": {
+    "name": "OpenSILEX",
+    "handle": "@OpenSILEX",
+    "profile_url": "https://x.com/OpenSILEX"
+  },
+  "posted_at": "2026-10-30T17:50:31Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**OpenSILEX ([@OpenSILEX](https://x.com/OpenSILEX/status/2116226256547070079))** summarizes *GatewayBench* ([arXiv 2610.23449](https://arxiv.org/abs/2610.23449)) by Zheng et al.: across 7 MCP gateways, 524 tasks and 11,118 tools, gateway design itself shifts capability, efficiency and attack resilience.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.23449",
+      "from_post": "2116226256547070079",
+      "short_url": "https://t.co/FgaqeE9dtr",
+      "title": "GatewayBench: Unified Capability and Security Evaluation Platform..."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "gatewaybench",
+    "mcp-gateway",
+    "tool-use",
+    "security"
+  ],
+  "relevance": "MCP gateway choice as a control.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV5YkQPXMAAnKZa.jpg",
+      "from_post": "2116226256547070079",
+      "description": "First page of the GatewayBench paper.",
+      "kind": "paper",
+      "thumbnail": "posts/2026/10/30/2116226256547070079/media/0.webp",
+      "ocr_text": "Preprint.\nGATEWAYBENCH:UNIFIEDCAPABILITYAND SECU-\nRITYEVALUATIONPLATFORMFORMCPGATEWAYS\nYitian Zhengl Zhaorun Chen?Haoyu Li3Bo Li3\n1 Tsinghua University\nABSTRACT\n1 [cs.AI] 16 Oct 2026\nAI agents have increasingly interacted with external environments by invoking\ntools, with Model Context Protocol (MCP)emerging as a standard interface for con-\nnecting agents to heterogeneous tools and services.As organizations deploy agents\nat scale,MCP gateways have become a critical middlewarelayerfor aggregating,\ngoverning,and shaping the tool surfaceexposed to agents.However,gatewayde-\nsign can substantially affect agent behavior: as the number of available tools grows,\nagents may struggle with tool discovery and selection, leading to degraded task\nperformance,increased computational overhead, and potentially greater exposure\nto malicious tools. Despite the growing importance of MCP gateways in agentic\nsystems,no prior work has systematically studied how gateway design affects agent\ncapability,efficiency,and security.To address this gap, we introduce GATEwAY\nBENCH, thefirst unified evaluation framework and benchmark for MCP gateways.\nWe characterize gateway architectures into two major paradigms:flattened gate-\nways,which expose the complete set of available tools to theagentupfront,and\nhierarchical gateways,which provide tool-discovery meta-tools that allow agents\nto selectively retrieve relevant tools on demand.GATEWAYBENCH comprises 524\narXiv:2610.23449v1\ntasks across six domains,together with a pool of 11,118 real-world tools from 251\nauthentic MCP servers.To emulate large-scale deployments, we systematically\ninject task-irrelevant tools sampled from this pool into each agent environment,\nenabling controlled evaluation as the accessible tool surface scales. Each task\nis evaluated using verifiable judges that inspect the resulting environment state\nquantitatively. Based on GATEwAYBENCH, we conduct extensive experiments\ncovering both benign and adversarial tasks.Our results reveal substantial differ-\nences across gatewaydesigns in task completion,tool-usefficiency,and resilience\nto attacks,and further demonstrate that these effects interact strongly with the\nunderlying model and agent harness. These findings highlight the MCP gateway as\na consequential yet underexplored component of the agentic AI stack.By enabling\ncontrolled evaluation of gateway architectures under realistic tool ecosystems,\nGATEWAYBENCH provides both practical guidance for MCP gateway design and a\nrigorous testbedfor developing more capable,efficient,and secure agentic systems.\nINTRODUCTION\nLarge language model (LLM) agents are rapidly evolving from single-step tool calling into au-\ntonomoussystemscapableofexecuting complex,multi-stepworkflows(Gauravetal2025Qin\net al2023Wuetal.2023.In practice,the agent'sbehavior is shaped not only by theunderlying\nmodel but also by its surrounding harness:the engineering infrastructure that manages the full\nlifecycleofcontext,including systemprompts,toolexecution,memorymanagement,verification,\nandfailure recoveryAnthropic2025OpenA2026LangChain2026)\nWithin the harness,tool execution is the component that determines how an agent accesses external\nenvironments and services. The Model Context Protocol (MCP) (Anthropic 2024 has emerged as a\nwidely adopted standard for exposing tools to agents.MCP servers can run remotely and expose their"
+    }
+  ]
+}

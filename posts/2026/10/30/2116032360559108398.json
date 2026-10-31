@@ -1,0 +1,44 @@
+{
+  "id": "2116032360559108398",
+  "permalink": "https://x.com/aiedge_/status/2116032360559108398",
+  "author": {
+    "name": "AI Edge",
+    "handle": "@aiedge_",
+    "profile_url": "https://x.com/aiedge_"
+  },
+  "posted_at": "2026-10-30T05:00:03Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**AI Edge ([@aiedge_](https://x.com/aiedge_/status/2116032360559108398))** highlights **console-skill**, 11 Claude Code skills for porting PlayStation 2 games you own to PC, covering reverse engineering, graphics, sound, controllers and code mods ([Jakeschincariol/console-skill](https://github.com/Jakeschincariol/console-skill)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/Jakeschincariol/console-skill",
+      "from_post": "2116032360559108398",
+      "short_url": "https://t.co/1Vo9KoLm6n",
+      "title": "GitHub - Jakeschincariol/console-skill: 11 Claude skills that port PlayStation 2 games you own to PC: reverse engineer the code, rebuild the graphics and backend, any controller, play it anywhere, then mod it however you want."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "console-skill",
+    "reverse-engineering",
+    "ps2",
+    "recompilation",
+    "claude-code"
+  ],
+  "relevance": "Complex reverse-engineering workflow as skills.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV2oN-RaUAAcv56.jpg",
+      "from_post": "2116032360559108398",
+      "description": "README section \"The Console skill\" describing the PS2 porting approach.",
+      "kind": "screenshot",
+      "thumbnail": "posts/2026/10/30/2116032360559108398/media/0.webp"
+    }
+  ]
+}

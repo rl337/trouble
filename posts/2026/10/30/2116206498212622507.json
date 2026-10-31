@@ -1,0 +1,33 @@
+{
+  "id": "2116206498212622507",
+  "permalink": "https://x.com/lassejlv/status/2116206498212622507",
+  "author": {
+    "name": "Lasse",
+    "handle": "@lassejlv",
+    "profile_url": "https://x.com/lassejlv"
+  },
+  "posted_at": "2026-10-30T16:32:01Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**Lasse ([@lassejlv](https://x.com/lassejlv/status/2116206498212622507))** adds pi-durable to **pi-rs**, an in-progress Rust port of the whole pi agent codebase ready for daily use ([lassejlv/pi-rs](https://github.com/lassejlv/pi-rs)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/lassejlv/pi-rs",
+      "from_post": "2116206498212622507",
+      "short_url": "https://t.co/B2TVRlTQWS",
+      "title": "GitHub - lassejlv/pi-rs"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "pi-rs",
+    "pi-agent",
+    "rust",
+    "agent-harness"
+  ],
+  "relevance": "Rust port of a minimal agent harness."
+}

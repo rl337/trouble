@@ -1,0 +1,44 @@
+{
+  "id": "2115875283291041967",
+  "permalink": "https://x.com/kscius/status/2115875283291041967",
+  "author": {
+    "name": "Mitzael Serna",
+    "handle": "@kscius",
+    "profile_url": "https://x.com/kscius"
+  },
+  "posted_at": "2026-10-29T18:35:53Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**Mitzael Serna ([@kscius](https://x.com/kscius/status/2115875283291041967))** points to **Repowise**, which indexes code, git history and tests locally so agents can query what calls what, what breaks and what to fix first over MCP, with graph, risk, health and dead-code analysis needing no API key ([repowise-dev/repowise](https://github.com/repowise-dev/repowise)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/repowise-dev/repowise",
+      "from_post": "2115875283291041967",
+      "short_url": "https://t.co/gnyVbRT4mB",
+      "title": "GitHub - repowise-dev/repowise: Codebase intelligence for AI and humans: code health scores, auto-generated docs, git analytics, dead code detection, and architectural decisions via MCP."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "repowise",
+    "code-index",
+    "mcp",
+    "call-graph",
+    "code-health"
+  ],
+  "relevance": "Codebase intelligence for agents instead of grep.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV0ZG66W0AE7ePy.png",
+      "from_post": "2115875283291041967",
+      "description": "\"Ask the index, not grep\" graphic: call-graph nodes with a coral impact hub and ripple rings.",
+      "kind": "diagram",
+      "thumbnail": "posts/2026/10/29/2115875283291041967/media/0.webp"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "2115988345608122401",
+  "permalink": "https://x.com/jeevanpillay/status/2115988345608122401",
+  "author": {
+    "name": "jp",
+    "handle": "@jeevanpillay",
+    "profile_url": "https://x.com/jeevanpillay"
+  },
+  "posted_at": "2026-10-30T02:05:09Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**jp ([@jeevanpillay](https://x.com/jeevanpillay/status/2115988345608122401))** discusses *A Mathematical Theory of the Jacobian Lens* ([arXiv 2610.31955](https://arxiv.org/abs/2610.31955)), noting that the public fitting code weights lag d by (n−d)/n instead of equally as the theory assumes, and that his team is fitting per-offset Jacobians on Qwen3.5-4B.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.31955",
+      "from_post": "2115988345608122401",
+      "short_url": "https://t.co/S1vR5ok9fl",
+      "title": "A Mathematical Theory of the Jacobian Lens"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-cognition"
+  ],
+  "keywords": [
+    "jacobian-lens",
+    "interpretability",
+    "qwen3.5-4b"
+  ],
+  "relevance": "Interpretability theory with a practical implementation caveat."
+}

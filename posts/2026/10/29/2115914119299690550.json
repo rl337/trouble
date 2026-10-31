@@ -1,0 +1,44 @@
+{
+  "id": "2115914119299690550",
+  "permalink": "https://x.com/marcuspat/status/2115914119299690550",
+  "author": {
+    "name": "Marcus",
+    "handle": "@marcuspat",
+    "profile_url": "https://x.com/marcuspat"
+  },
+  "posted_at": "2026-10-29T21:10:12Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**Marcus ([@marcuspat](https://x.com/marcuspat/status/2115914119299690550))** releases **Sentinel v0.2.1**, a Rust agentic sysadmin tool with exec allow/deny, audit log, MCP gate and confined runs ([marcuspat/Sentinel](https://github.com/marcuspat/Sentinel)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/marcuspat/Sentinel",
+      "from_post": "2115914119299690550",
+      "short_url": "https://t.co/dIKKC3oe9S",
+      "title": "GitHub - marcuspat/Sentinel: Safe, auditable agentic sysadmin tool in Rust. LLM-driven Investigate → Plan → Approve → Act loop with a deny-by-default policy engine, operator approval gate, and hash-chained audit log."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "sentinel",
+    "policy",
+    "audit-log",
+    "mcp",
+    "sysadmin"
+  ],
+  "relevance": "Policy enforcement for agents with system access.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV08n9CWgAA6FqJ.jpg",
+      "from_post": "2115914119299690550",
+      "description": "Card \"sentinel v0.2.1: safe agentic system administration\" listing features and the brew install command.",
+      "kind": "other",
+      "thumbnail": "posts/2026/10/29/2115914119299690550/media/0.webp"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "2116177146544795708",
+  "permalink": "https://x.com/Manojkumar2257/status/2116177146544795708",
+  "author": {
+    "name": "Manoj | The AI Dude",
+    "handle": "@Manojkumar2257",
+    "profile_url": "https://x.com/Manojkumar2257"
+  },
+  "posted_at": "2026-10-30T14:35:23Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**Manoj | The AI Dude ([@Manojkumar2257](https://x.com/Manojkumar2257/status/2116177146544795708))** recommends **video-editing-skills**, 14 Apache-2.0 Claude Code skills from a team's in-house workflow for reels, podcasts, shorts and ads; setup installs ffmpeg and whisper.cpp, and a video-studio skill routes plain-language requests from an inbox folder ([ukvalley/video-editing-skills](https://github.com/ukvalley/video-editing-skills)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/ukvalley/video-editing-skills",
+      "from_post": "2116177146544795708",
+      "short_url": "https://t.co/fXVJq1qE8i",
+      "title": "GitHub - ukvalley/video-editing-skills: 14 production-tested Claude Code skills for video editing: podcasts, reels, shorts, motion graphics, explainers, courses, YouTube, ad creatives, thumbnails."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "video-editing-skill",
+    "claude-code",
+    "agent-skill",
+    "ffmpeg",
+    "whisper.cpp"
+  ],
+  "relevance": "Production video editing via agent skills."
+}

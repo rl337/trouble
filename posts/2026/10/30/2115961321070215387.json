@@ -1,0 +1,47 @@
+{
+  "id": "2115961321070215387",
+  "permalink": "https://x.com/daveycodez/status/2115961321070215387",
+  "author": {
+    "name": "daveycodez",
+    "handle": "@daveycodez",
+    "profile_url": "https://x.com/daveycodez"
+  },
+  "posted_at": "2026-10-30T00:17:46Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**daveycodez ([@daveycodez](https://x.com/daveycodez/status/2115961321070215387))** got an **LFM3 1.7B** agent running offline in iOS Safari with tool calling and MCP ([demo](https://lofi-agent.daveycodez.workers.dev), [daveycodez/lofi-agent](https://github.com/daveycodez/lofi-agent), [model](https://huggingface.co/daveycodez/LFM3-1.7B-Web)).",
+  "referenced_urls": [
+    {
+      "url": "https://lofi-agent.daveycodez.workers.dev",
+      "from_post": "2115961321070215387",
+      "short_url": "https://t.co/TeJH3D8IiS",
+      "title": "lofi-agent"
+    },
+    {
+      "url": "https://github.com/daveycodez/lofi-agent",
+      "from_post": "2115961321070215387",
+      "short_url": "https://t.co/U1YgRO1LNW",
+      "title": "GitHub - daveycodez/lofi-agent: Local-first AI agent: TanStack Start web, Electron desktop, Capacitor mobile, on-device LLMs"
+    },
+    {
+      "url": "https://huggingface.co/daveycodez/LFM3-1.7B-Web",
+      "from_post": "2115961321070215387",
+      "short_url": "https://t.co/aBUXDwIXi0",
+      "title": "daveycodez/LFM3-1.7B-Web · Hugging Face"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "local-models",
+    "harness-dev"
+  ],
+  "keywords": [
+    "lfm3",
+    "on-device",
+    "browser",
+    "tool-calling",
+    "mcp"
+  ],
+  "relevance": "Tiny on-device agent model with tools."
+}

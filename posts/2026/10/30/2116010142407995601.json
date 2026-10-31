@@ -1,0 +1,52 @@
+{
+  "id": "2116010142407995601",
+  "permalink": "https://x.com/KOF97AI/status/2116010142407995601",
+  "author": {
+    "name": "Nathan AI Lab（互fo, CD后马上回）",
+    "handle": "@KOF97AI",
+    "profile_url": "https://x.com/KOF97AI"
+  },
+  "posted_at": "2026-10-30T03:31:46Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**Nathan AI Lab（互fo, CD后马上回） ([@KOF97AI](https://x.com/KOF97AI/status/2116010142407995601))** describes **Hypit**, which lets agents clone a viral YouTube or TikTok video into a workflow of beats, shots, captions, B-roll, sound and transitions, anchoring effects to words rather than timestamps and rendering motion in code to produce many variants cheaply ([hypit-ai/hypit](https://github.com/hypit-ai/hypit)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/hypit-ai/hypit",
+      "from_post": "2116010142407995601",
+      "short_url": "https://t.co/pCqoplE2tf",
+      "title": "GitHub - hypit-ai/hypit: Clone any viral video with AI agents. Not just a script, the whole workflow: swap the face, the words, the B-roll, ship 100 variants in one command, and get your 100M views."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "hypit",
+    "short-video",
+    "video-cloning",
+    "claude-code",
+    "motion-graphic"
+  ],
+  "relevance": "Structural video cloning for agentic production.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV2T_-PbcAA9jw4.png",
+      "from_post": "2116010142407995601",
+      "description": "Hypit README header with badges and description.",
+      "kind": "screenshot",
+      "thumbnail": "posts/2026/10/30/2116010142407995601/media/0.webp"
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV2T_-Fa8AAQwk-.jpg",
+      "from_post": "2116010142407995601",
+      "description": "Slide summarizing Hypit's three ideas: clone, word-anchored edits, code-rendered motion.",
+      "kind": "diagram",
+      "thumbnail": "posts/2026/10/30/2116010142407995601/media/1.webp"
+    }
+  ]
+}

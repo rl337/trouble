@@ -1,0 +1,33 @@
+{
+  "id": "2115828569725366466",
+  "permalink": "https://x.com/thebylinehq/status/2115828569725366466",
+  "author": {
+    "name": "bylinehq",
+    "handle": "@thebylinehq",
+    "profile_url": "https://x.com/thebylinehq"
+  },
+  "posted_at": "2026-10-29T15:30:15Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**bylinehq ([@thebylinehq](https://x.com/thebylinehq/status/2115828569725366466))** points to GitHub's free course **copilot-app-for-beginners**, eight hands-on chapters on running a team of agents that plan, code and fix while you review and ship ([github/copilot-app-for-beginners](https://github.com/github/copilot-app-for-beginners)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/github/copilot-app-for-beginners",
+      "from_post": "2115828569725366466",
+      "short_url": "https://t.co/tOf8ZWJ1gv",
+      "title": "GitHub - github/copilot-app-for-beginners: Learn how to get started using the GitHub Copilot app!"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "copilot-app",
+    "course",
+    "multi-agent",
+    "github-copilot"
+  ],
+  "relevance": "Structured intro to multi-agent coding workflows."
+}

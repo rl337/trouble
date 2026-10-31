@@ -1,0 +1,48 @@
+{
+  "id": "2115862143761621075",
+  "permalink": "https://x.com/FrontiersMind/status/2115862143761621075",
+  "author": {
+    "name": "FrontiersMind",
+    "handle": "@FrontiersMind",
+    "profile_url": "https://x.com/FrontiersMind"
+  },
+  "posted_at": "2026-10-29T17:43:40Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**FrontiersMind ([@FrontiersMind](https://x.com/FrontiersMind/status/2115862143761621075))** introduces the **Lumma-fev-v2** family of decision models from 27B down to 0.1B ([collection](https://huggingface.co/collections/FrontiersMind/lumma-decision-v2-models), [blog](https://huggingface.co/blog/FrontiersMind/lumma-fev-27b-v2)).",
+  "referenced_urls": [
+    {
+      "url": "https://huggingface.co/collections/FrontiersMind/lumma-decision-v2-models",
+      "from_post": "2115862143761621075",
+      "short_url": "https://t.co/9wfd6clcQf",
+      "title": "Lumma Decision V2 Models - a FrontiersMind Collection"
+    },
+    {
+      "url": "https://huggingface.co/blog/FrontiersMind/lumma-fev-27b-v2",
+      "from_post": "2115862143761621075",
+      "short_url": "https://t.co/zLTdpLFt3F",
+      "title": "Introducing Lumma-Fev-v2"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "local-models"
+  ],
+  "keywords": [
+    "lumma-fev-v2",
+    "decision-model",
+    "small-model"
+  ],
+  "relevance": "Range of local decision models for agent routing.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV0NRklbAAAkUt9.jpg",
+      "from_post": "2115862143761621075",
+      "description": "Bar chart comparing Lumma-fev v2 sizes across decision benchmarks.",
+      "kind": "chart",
+      "thumbnail": "posts/2026/10/29/2115862143761621075/media/0.webp"
+    }
+  ]
+}

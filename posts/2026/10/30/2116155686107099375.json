@@ -1,0 +1,43 @@
+{
+  "id": "2116155686107099375",
+  "permalink": "https://x.com/splatworlds/status/2116155686107099375",
+  "author": {
+    "name": "splatsandworlds",
+    "handle": "@splatworlds",
+    "profile_url": "https://x.com/splatworlds"
+  },
+  "posted_at": "2026-10-30T13:10:06Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**splatsandworlds ([@splatworlds](https://x.com/splatworlds/status/2116155686107099375))** explains *CCT-GS* ([arXiv 2610.26920](https://arxiv.org/abs/2610.26920)), which learns to convert view-dependent splat color coefficients into maps HEVC can compress, adapting per scene.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.26920",
+      "from_post": "2116155686107099375",
+      "short_url": "https://t.co/PQcrGxfaCJ",
+      "title": "Codec-Compatible Learned Compression for 3D Gaussian Splatting"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "cct-gs",
+    "gaussian-splat",
+    "compression",
+    "hevc"
+  ],
+  "relevance": "Practical compression for Gaussian-splat assets.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV4YYUMW8AA_Aov.jpg",
+      "from_post": "2116155686107099375",
+      "description": "CCT-GS figure: SH-AC maps through a learned transform, HEVC and LoRA scene adaptation.",
+      "kind": "diagram",
+      "thumbnail": "posts/2026/10/30/2116155686107099375/media/0.webp"
+    }
+  ]
+}

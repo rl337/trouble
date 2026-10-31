@@ -1,0 +1,45 @@
+{
+  "id": "2116098178550215045",
+  "permalink": "https://x.com/PIN/status/2116098178550215045",
+  "author": {
+    "name": "Multiagent Systems Papers",
+    "handle": "@PIN",
+    "profile_url": "https://x.com/PIN"
+  },
+  "posted_at": "2026-10-30T09:21:35Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**Multiagent Systems Papers ([@PIN](https://x.com/PIN/status/2116098178550215045))** shares *Selective and Hybrid-State Communication for Latent Multi-Agent Systems* ([arXiv 2610.37779](https://arxiv.org/abs/2610.37779)) by Liao et al. (NeurIPS 2026 RAAAI workshop): SelectKV sends only some KV states and HyLaMAS passes recurrent states for hybrid models, cutting communicated payload with little accuracy loss.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.37779",
+      "from_post": "2116098178550215045",
+      "short_url": "https://t.co/FsGEi2kAAz",
+      "title": "Selective and Hybrid-State Communication for Latent Multi-Agent Systems"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-cognition"
+  ],
+  "keywords": [
+    "selectkv",
+    "hylamas",
+    "latent-communication",
+    "kv-cache",
+    "multi-agent"
+  ],
+  "relevance": "Efficient latent communication between agents.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV3kFGzXEAA6i8S.png",
+      "from_post": "2116098178550215045",
+      "description": "Abstract describing SelectKV and HyLaMAS.",
+      "kind": "paper",
+      "thumbnail": "posts/2026/10/30/2116098178550215045/media/0.webp",
+      "ocr_text": "Efficient communication remains a major bottleneck in large language model multiagent systems. Latent communication reduces repeated natural-language exchange by transferring internal model states between agents, but these transfers remain costly and are typically designed around conventional KV-cache representations. We address this problem from two complementary perspectives. We introduce SelectKV, a boundary-aware method that selectively communicates KV states while protecting inherited context, and HyLaMAS, which extends latent collaboration to hybrid linear-attention models by communicating both KV caches and recurrent states through a shared workspace. Across six benchmarks, SelectKV reduces communicated KV positions and logical KV payload by 9.7-9.9%, with accuracy unchanged on two benchmarks, within one percentage point on three, and six points lower on HumanEval+. Across Qwen3.5 model scales, HyLaMAS reduces decoded output tokens by 53-80% and achieves 1.16-2.78x speedups rela"
+    }
+  ]
+}

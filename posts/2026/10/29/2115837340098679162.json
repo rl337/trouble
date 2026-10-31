@@ -1,0 +1,34 @@
+{
+  "id": "2115837340098679162",
+  "permalink": "https://x.com/vibeconnectfyi/status/2115837340098679162",
+  "author": {
+    "name": "Vibe Connect",
+    "handle": "@vibeconnectfyi",
+    "profile_url": "https://x.com/vibeconnectfyi"
+  },
+  "posted_at": "2026-10-29T16:05:06Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**Vibe Connect ([@vibeconnectfyi](https://x.com/vibeconnectfyi/status/2115837340098679162))** spotlights **MetaHarness**, an MIT CLI that scaffolds a repo-specific agent harness with an npx CLI, MCP server, project memory and Ed25519-signed releases ([ruvnet/metaharness](https://github.com/ruvnet/metaharness)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/ruvnet/metaharness",
+      "from_post": "2115837340098679162",
+      "short_url": "https://t.co/j8NGDp8OO4",
+      "title": "GitHub - ruvnet/metaharness: 🛠️ The meta-harness for AI agents — scaffold your own focused, branded agent harness with its own npx CLI, MCP server, memory, learning loop, and witness-signed releases. Works with Claude Code, Codex, pi.dev, Hermes, OpenClaw, and RVM (hardware-isolated sandbox)."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "metaharness",
+    "agent-harness",
+    "mcp",
+    "project-memory",
+    "signed-release"
+  ],
+  "relevance": "Generating focused harnesses from a repo."
+}

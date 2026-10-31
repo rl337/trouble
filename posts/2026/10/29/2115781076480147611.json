@@ -1,0 +1,33 @@
+{
+  "id": "2115781076480147611",
+  "permalink": "https://x.com/Parnee0wl/status/2115781076480147611",
+  "author": {
+    "name": "Parnee",
+    "handle": "@Parnee0wl",
+    "profile_url": "https://x.com/Parnee0wl"
+  },
+  "posted_at": "2026-10-29T12:21:32Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**Parnee ([@Parnee0wl](https://x.com/Parnee0wl/status/2115781076480147611))** recommends **ffmpeg-skill**, a local video editor for coding agents with 42 FFmpeg tools installable with one npx command, so no Premiere, FFmpeg syntax or uploads are needed ([kajisho5/ffmpeg-skill](https://github.com/kajisho5/ffmpeg-skill)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/kajisho5/ffmpeg-skill",
+      "from_post": "2115781076480147611",
+      "short_url": "https://t.co/qHDqiHvjIY",
+      "title": "GitHub - kajisho5/ffmpeg-skill: Local video editor for coding agents: 42 FFmpeg tools with a machine-readable contract and an MCP server, for Claude Code, Cursor and Codex. Cut, captions, reframe, loudness, platform exports. No cloud, no API keys."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "ffmpeg-skill",
+    "ffmpeg",
+    "video-editing",
+    "agent-skill"
+  ],
+  "relevance": "Simple local video editing via agent skill."
+}

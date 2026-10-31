@@ -1,0 +1,34 @@
+{
+  "id": "2115729971092324628",
+  "permalink": "https://x.com/hinoderun/status/2115729971092324628",
+  "author": {
+    "name": "Hinode",
+    "handle": "@hinoderun",
+    "profile_url": "https://x.com/hinoderun"
+  },
+  "posted_at": "2026-10-29T08:58:28Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**Hinode ([@hinoderun](https://x.com/hinoderun/status/2115729971092324628))** notes PrunaAI's v0.2 LoRAs for **Qwen-Image 2.1**, doing generation and edits in 6 steps with ComfyUI workflows, and warns they inherit the Qwen research licence ([PrunaAI/P-Q-Image-2.1](https://huggingface.co/PrunaAI/P-Q-Image-2.1)).",
+  "referenced_urls": [
+    {
+      "url": "https://huggingface.co/PrunaAI/P-Q-Image-2.1",
+      "from_post": "2115729971092324628",
+      "short_url": "https://t.co/PXoJ0VscQ2",
+      "title": "PrunaAI/P-Q-Image-2.1 · Hugging Face"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "qwen-image-2.1",
+    "lora",
+    "comfyui",
+    "few-step-generation",
+    "image-editing"
+  ],
+  "relevance": "Faster open image generation and editing for local pipelines, with licence caveats."
+}

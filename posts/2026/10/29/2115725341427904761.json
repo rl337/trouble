@@ -1,0 +1,90 @@
+{
+  "id": "2115725341427904761",
+  "permalink": "https://x.com/sam_rahmanii/status/2115725341427904761",
+  "author": {
+    "name": "Sam",
+    "handle": "@sam_rahmanii",
+    "profile_url": "https://x.com/sam_rahmanii"
+  },
+  "posted_at": "2026-10-29T08:40:04Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [
+    {
+      "id": "2115725344267481393",
+      "permalink": "https://x.com/sam_rahmanii/status/2115725344267481393",
+      "posted_at": "2026-10-29T08:40:05Z",
+      "position": 1
+    },
+    {
+      "id": "2115725346851139622",
+      "permalink": "https://x.com/sam_rahmanii/status/2115725346851139622",
+      "posted_at": "2026-10-29T08:40:05Z",
+      "position": 2
+    },
+    {
+      "id": "2115725348558233826",
+      "permalink": "https://x.com/sam_rahmanii/status/2115725348558233826",
+      "posted_at": "2026-10-29T08:40:06Z",
+      "position": 3
+    },
+    {
+      "id": "2115725350294700094",
+      "permalink": "https://x.com/sam_rahmanii/status/2115725350294700094",
+      "posted_at": "2026-10-29T08:40:06Z",
+      "position": 4
+    },
+    {
+      "id": "2115725352236683689",
+      "permalink": "https://x.com/sam_rahmanii/status/2115725352236683689",
+      "posted_at": "2026-10-29T08:40:06Z",
+      "position": 5
+    },
+    {
+      "id": "2115725353910153702",
+      "permalink": "https://x.com/sam_rahmanii/status/2115725353910153702",
+      "posted_at": "2026-10-29T08:40:07Z",
+      "position": 6
+    }
+  ],
+  "summary_md": "**Sam ([@sam_rahmanii](https://x.com/sam_rahmanii/status/2115725341427904761))** open-sources **mort-stack**, four Claude Code skills honed over months: *replicate-ui* rebuilds a page by measuring it into a checklist instead of screenshot diffing (39/39 checks on a GitHub page, and learned to measure the font actually loaded), *run-round* runs multi-agent plan→lanes→verify→repair loops with typed reports and local CI, *handover* writes cold-start docs before context runs out, and *cite-precedent* makes agents copy and cite mature open-source solutions ([GeneralVoritzio/mort-stack](https://github.com/GeneralVoritzio/mort-stack)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/GeneralVoritzio/mort-stack",
+      "from_post": "2115725341427904761",
+      "short_url": "https://t.co/LKe7mn5nB1",
+      "title": "GitHub - GeneralVoritzio/mort-stack: Agent skills refined over months of shipping with Claude Code: replicate-ui, run-round, handover, cite-precedent."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "mort-stack",
+    "agent-skill",
+    "claude-code",
+    "replicate-ui",
+    "handover",
+    "verification"
+  ],
+  "relevance": "Battle-tested skill patterns for verification, handover and precedent-driven decisions.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HVyQMJtaYAARb09.jpg",
+      "from_post": "2115725344267481393",
+      "description": "Side-by-side of the original GitHub page and the replicate-ui rebuild.",
+      "kind": "screenshot",
+      "thumbnail": "posts/2026/10/29/2115725341427904761/media/0.webp"
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HVyQPfzbgAAPiCZ.jpg",
+      "from_post": "2115725344267481393",
+      "description": "Second side-by-side comparison of the original GitHub repository page and its rebuilt copy.",
+      "kind": "screenshot",
+      "thumbnail": "posts/2026/10/29/2115725341427904761/media/1.webp"
+    }
+  ]
+}

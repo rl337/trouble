@@ -1,0 +1,62 @@
+{
+  "id": "2115839101559611537",
+  "permalink": "https://x.com/HuggingPapers/status/2115839101559611537",
+  "author": {
+    "name": "DailyPapers",
+    "handle": "@HuggingPapers",
+    "profile_url": "https://x.com/HuggingPapers"
+  },
+  "posted_at": "2026-10-29T16:12:06Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [
+    {
+      "id": "2115839112359854569",
+      "permalink": "https://x.com/HuggingPapers/status/2115839112359854569",
+      "posted_at": "2026-10-29T16:12:09Z",
+      "position": 1
+    }
+  ],
+  "summary_md": "**DailyPapers ([@HuggingPapers](https://x.com/HuggingPapers/status/2115839101559611537))** shares **RealCLI**, a benchmark of 101 tasks evaluating CLI agents in autonomous and interactive settings across five collaboration dimensions; the best joint collaboration score is only 37.6% ([paper](https://paperswithcode.co/paper/2610.22507), [dataset](https://huggingface.co/datasets/RealCLI-Team/RealCLI-Benchmark-v1.0), [leaderboard](https://realcli-team.github.io/RealCLI-Benchmark-v1.0/)).",
+  "referenced_urls": [
+    {
+      "url": "https://paperswithcode.co/paper/2610.22507",
+      "from_post": "2115839112359854569",
+      "short_url": "https://t.co/K5DkSQPNWL",
+      "title": "RealCLI: Toward a Unified Evaluation of Human-Agent Collaboration for CLI Agents | Papers with Code"
+    },
+    {
+      "url": "https://huggingface.co/datasets/RealCLI-Team/RealCLI-Benchmark-v1.0",
+      "from_post": "2115839112359854569",
+      "short_url": "https://t.co/P7EplutVGM",
+      "title": "RealCLI-Team/RealCLI-Benchmark-v1.0 · Datasets at Hugging Face"
+    },
+    {
+      "url": "https://realcli-team.github.io/RealCLI-Benchmark-v1.0/",
+      "from_post": "2115839112359854569",
+      "short_url": "https://t.co/Thc7B6Hx7t",
+      "title": "RealCLI Leaderboard — Paired Evaluation of Autonomous Execution and Human–Agent Collaboration"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "realcli",
+    "benchmark",
+    "cli-agent",
+    "human-agent-collaboration"
+  ],
+  "relevance": "Measures human-agent collaboration quality, not just execution.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HVz4csJWUAAH_mp.jpg",
+      "from_post": "2115839101559611537",
+      "description": "Task setup figure showing an autonomous run vs. a user session with calibration probes and safety boundary checks.",
+      "kind": "diagram",
+      "thumbnail": "posts/2026/10/29/2115839101559611537/media/0.webp"
+    }
+  ]
+}

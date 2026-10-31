@@ -1,0 +1,33 @@
+{
+  "id": "2115882094283169942",
+  "permalink": "https://x.com/kar4th/status/2115882094283169942",
+  "author": {
+    "name": "Bagzhan Karl",
+    "handle": "@kar4th",
+    "profile_url": "https://x.com/kar4th"
+  },
+  "posted_at": "2026-10-29T19:02:57Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**Bagzhan Karl ([@kar4th](https://x.com/kar4th/status/2115882094283169942))** releases **KAP v0.1.2**: `kap install` sets up Claude Code hooks machine-wide, recording still requires a KAP attempt worktree, and `kap doctor` checks the wiring; still pre-alpha ([release](https://github.com/Manifestro/kap/releases/tag/v0.1.2)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/Manifestro/kap/releases/tag/v0.1.2",
+      "from_post": "2115882094283169942",
+      "short_url": "https://t.co/r0XyDqhGO5",
+      "title": "Release v0.1.2 · Manifestro/kap"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "kap",
+    "claude-code",
+    "hook",
+    "session-recording"
+  ],
+  "relevance": "Hook-based session recording for coding agents."
+}

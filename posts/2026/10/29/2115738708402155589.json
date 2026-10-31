@@ -1,0 +1,43 @@
+{
+  "id": "2115738708402155589",
+  "permalink": "https://x.com/tienphat_le/status/2115738708402155589",
+  "author": {
+    "name": "nikola0x0",
+    "handle": "@tienphat_le",
+    "profile_url": "https://x.com/tienphat_le"
+  },
+  "posted_at": "2026-10-29T09:33:11Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**nikola0x0 ([@tienphat_le](https://x.com/tienphat_le/status/2115738708402155589))** shares a diagram of how the Claude Code team reviews agent-written code ([code-review-flow image on GitHub](https://github.com/nikola0x0/claude-code-review-flow/blob/main/code-review-flow-4k.png)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/nikola0x0/claude-code-review-flow/blob/main/code-review-flow-4k.png",
+      "from_post": "2115738708402155589",
+      "short_url": "https://t.co/WdxKfRL3xu",
+      "title": "claude-code-review-flow/code-review-flow-4k.png at main · nikola0x0/claude-code-review-flow"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "code-review",
+    "claude-code",
+    "workflow",
+    "diagram"
+  ],
+  "relevance": "Concrete reference process for reviewing agent output.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HVyc8H3bcAAlBW7.jpg",
+      "from_post": "2115738708402155589",
+      "description": "Flowchart titled \"How the Claude Code team reviews agent-written code\", showing review stages and decision branches.",
+      "kind": "diagram",
+      "thumbnail": "posts/2026/10/29/2115738708402155589/media/0.webp"
+    }
+  ]
+}

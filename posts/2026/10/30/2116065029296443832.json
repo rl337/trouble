@@ -1,0 +1,44 @@
+{
+  "id": "2116065029296443832",
+  "permalink": "https://x.com/jaywcjlove/status/2116065029296443832",
+  "author": {
+    "name": "小弟调调",
+    "handle": "@jaywcjlove",
+    "profile_url": "https://x.com/jaywcjlove"
+  },
+  "posted_at": "2026-10-30T07:09:52Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**小弟调调 ([@jaywcjlove](https://x.com/jaywcjlove/status/2116065029296443832))** shares **AI Meter**, a macOS menu-bar gauge that shows remaining Claude Code or Codex usage and when the quota resets ([getguruhat/ai-meter](https://github.com/getguruhat/ai-meter)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/getguruhat/ai-meter",
+      "from_post": "2116065029296443832",
+      "short_url": "https://t.co/5jOnmIlhGz",
+      "title": "GitHub - getguruhat/ai-meter: A fuel gauge for Claude Code and Codex, always visible on your Mac menu bar or Windows taskbar. Free and open source."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "ai-meter",
+    "claude-code",
+    "codex",
+    "usage-quota",
+    "macos"
+  ],
+  "relevance": "Small quality-of-life tool for people juggling coding-agent subscription limits.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV3F6yHa0AEPphx.jpg",
+      "from_post": "2116065029296443832",
+      "description": "Menu-bar popover with Codex/Claude tabs showing 81% AI usage remaining and the reset time.",
+      "kind": "screenshot",
+      "thumbnail": "posts/2026/10/30/2116065029296443832/media/0.webp"
+    }
+  ]
+}

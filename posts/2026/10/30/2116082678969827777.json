@@ -1,0 +1,53 @@
+{
+  "id": "2116082678969827777",
+  "permalink": "https://x.com/WildVariable01/status/2116082678969827777",
+  "author": {
+    "name": "野生变量",
+    "handle": "@WildVariable01",
+    "profile_url": "https://x.com/WildVariable01"
+  },
+  "posted_at": "2026-10-30T08:20:00Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**野生变量 ([@WildVariable01](https://x.com/WildVariable01/status/2116082678969827777))** shares a way to manage multiple agents and harnesses with **Gugu**: an org chart where Claude acts as first-level managers each overseeing 3–4 Codex executors, plus a five-column kanban (done, awaiting review/merge, in progress, queued, needs you) reported on a schedule by a steward agent ([OpenDCAI/gugu](https://github.com/OpenDCAI/gugu)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/OpenDCAI/gugu",
+      "from_post": "2116082678969827777",
+      "short_url": "https://t.co/kE9Ufb5kfX",
+      "title": "GitHub - OpenDCAI/gugu: Gugu (咕咕): personal assistant, chat and device client — source release"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "gugu",
+    "multi-agent",
+    "kanban",
+    "claude",
+    "codex",
+    "orchestration"
+  ],
+  "relevance": "A concrete manager/worker structure for multi-harness agent teams.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV3SoMEbcAAg6mf.jpg",
+      "from_post": "2116082678969827777",
+      "description": "Gugu desktop app showing the agent org chart with Claude managers and Codex workers.",
+      "kind": "screenshot",
+      "thumbnail": "posts/2026/10/30/2116082678969827777/media/0.webp"
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV3SqoSaYAAub7r.jpg",
+      "from_post": "2116082678969827777",
+      "description": "Gugu task board with the five status columns.",
+      "kind": "screenshot",
+      "thumbnail": "posts/2026/10/30/2116082678969827777/media/1.webp"
+    }
+  ]
+}

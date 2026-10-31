@@ -1,0 +1,33 @@
+{
+  "id": "2116423280185770029",
+  "permalink": "https://x.com/Alex_tra_memory/status/2116423280185770029",
+  "author": {
+    "name": "Alex",
+    "handle": "@Alex_tra_memory",
+    "profile_url": "https://x.com/Alex_tra_memory"
+  },
+  "posted_at": "2026-10-31T06:53:25Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**Alex ([@Alex_tra_memory](https://x.com/Alex_tra_memory/status/2116423280185770029))** got NVIDIA **Canary-1b-v2** merged into vLLM, serving speech-to-text and translation across 25 European languages via OpenAI-compatible audio endpoints ([vllm PR 64215](https://github.com/vllm-project/vllm/pull/64215)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/vllm-project/vllm/pull/64215",
+      "from_post": "2116423280185770029",
+      "short_url": "https://t.co/9BunLHspaA",
+      "title": "[Model] Add NVIDIA Canary (nvidia/canary-1b-v2) speech-to-text support by Alex-Wengg · Pull Request #64215 · vllm-project/vllm"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "local-models"
+  ],
+  "keywords": [
+    "canary",
+    "vllm",
+    "speech-to-text",
+    "translation"
+  ],
+  "relevance": "Speech models in local serving."
+}

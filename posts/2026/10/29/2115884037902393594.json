@@ -1,0 +1,36 @@
+{
+  "id": "2115884037902393594",
+  "permalink": "https://x.com/sintetizacom/status/2115884037902393594",
+  "author": {
+    "name": "Sintetiza Filmes",
+    "handle": "@sintetizacom",
+    "profile_url": "https://x.com/sintetizacom"
+  },
+  "posted_at": "2026-10-29T19:10:40Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**Sintetiza Filmes ([@sintetizacom](https://x.com/sintetizacom/status/2115884037902393594))** presents **EasyComfee**, an MIT Higgsfield-style studio on ComfyUI with LTX video and VFX, image looks, lip sync, voice and music, on your own GPU or Comfy Cloud ([sintetizacom/easycomfee](https://github.com/sintetizacom/easycomfee)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/sintetizacom/easycomfee",
+      "from_post": "2115884037902393594",
+      "short_url": "https://t.co/MLhF6bn95k",
+      "title": "GitHub - sintetizacom/easycomfee: Open-source, Higgsfield-style creative studio on ComfyUI: image, video, LTX VFX, lip sync, music and voice, on your GPU or on Comfy Cloud. Easy Windows install with a one-click model installer."
+    }
+  ],
+  "hashtags": [
+    "OpenSourceHiggsfield"
+  ],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "easycomfee",
+    "comfyui",
+    "ltx",
+    "lip-sync",
+    "creative-studio"
+  ],
+  "relevance": "Open local creative studio for video production."
+}

@@ -1,0 +1,34 @@
+{
+  "id": "2116214928482947512",
+  "permalink": "https://x.com/DanteMMartin/status/2116214928482947512",
+  "author": {
+    "name": "Dante Martin",
+    "handle": "@DanteMMartin",
+    "profile_url": "https://x.com/DanteMMartin"
+  },
+  "posted_at": "2026-10-30T17:05:30Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**Dante Martin ([@DanteMMartin](https://x.com/DanteMMartin/status/2116214928482947512))** highlights **nesformer**, which compiles the NES 6502 CPU and 2 KB RAM directly into a stock Qwen3.5 model's weights without training, running Super Mario Bros 1-1 frame-exact at 1–6 s per frame ([dbreunig/nesformer](https://github.com/dbreunig/nesformer)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/dbreunig/nesformer",
+      "from_post": "2116214928482947512",
+      "short_url": "https://t.co/euFRAjHgby",
+      "title": "GitHub - dbreunig/nesformer: An NES CPU compiled into the weights of a stock Qwen3.5 model"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-cognition"
+  ],
+  "keywords": [
+    "nesformer",
+    "compiled-transformer",
+    "qwen3.5",
+    "6502",
+    "emulation"
+  ],
+  "relevance": "Programs compiled into transformer weights."
+}

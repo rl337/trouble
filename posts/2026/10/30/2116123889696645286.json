@@ -1,0 +1,35 @@
+{
+  "id": "2116123889696645286",
+  "permalink": "https://x.com/kamerFo/status/2116123889696645286",
+  "author": {
+    "name": "kamer",
+    "handle": "@kamerFo",
+    "profile_url": "https://x.com/kamerFo"
+  },
+  "posted_at": "2026-10-30T11:03:45Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**kamer ([@kamerFo](https://x.com/kamerFo/status/2116123889696645286))** benchmarks his **causal-memory** MCP layer honestly: 79.1% on LoCoMo versus mem0's 91.6%, but after five context compactions text-memory recall fell to 45% while its causal table stayed at 100% because it lives outside the window ([JingxuanC/causal-memory](https://github.com/JingxuanC/causal-memory)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/JingxuanC/causal-memory",
+      "from_post": "2116123889696645286",
+      "short_url": "https://t.co/bmcaHx8zH1",
+      "title": "GitHub - JingxuanC/causal-memory: Causal memory layer for AI agents — MCP server that records decision→outcome relationships. Survives compaction."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "causal-memory",
+    "agent-memory",
+    "mem0",
+    "locomo",
+    "context-compaction",
+    "mcp"
+  ],
+  "relevance": "Decision-rationale memory that survives compaction."
+}

@@ -1,0 +1,39 @@
+{
+  "id": "2115767287051374957",
+  "permalink": "https://x.com/matthewabides/status/2115767287051374957",
+  "author": {
+    "name": "Matthew",
+    "handle": "@matthewabides",
+    "profile_url": "https://x.com/matthewabides"
+  },
+  "posted_at": "2026-10-29T11:26:44Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**Matthew ([@matthewabides](https://x.com/matthewabides/status/2115767287051374957))** open-sources the **queen-harness** crypto research harness: code classifies the question into one of 10 kinds and exposes only the needed functions, prefetches a token dossier, computes the verdict in code (worst check wins), and runs 44 functions over Solana RPC and other sources with any tool-calling model ([crawlnet/queen-harness](https://github.com/crawlnet/queen-harness), [queen-v6 weights](http://huggingface.co/Crawlnet/queen-v6)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/crawlnet/queen-harness",
+      "from_post": "2115767287051374957",
+      "short_url": "https://t.co/M3q3po8Ulj",
+      "title": "GitHub - Crawlnet/queen-harness: The research harness behind the queen of crawlnet: a crypto research agent for Solana traders. Any model with tool calls, 44 functions, MIT."
+    },
+    {
+      "url": "http://huggingface.co/Crawlnet/queen-v6",
+      "from_post": "2115767287051374957",
+      "short_url": "https://t.co/yD32GktBSc"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "queen-harness",
+    "research-harness",
+    "tool-routing",
+    "solana",
+    "mit-license"
+  ],
+  "relevance": "Harness design pattern: code-routed tool subsets and code-made verdicts."
+}

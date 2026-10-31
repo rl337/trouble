@@ -1,0 +1,34 @@
+{
+  "id": "2116157546243494309",
+  "permalink": "https://x.com/wuwenzhousear/status/2116157546243494309",
+  "author": {
+    "name": "wuwenzhou",
+    "handle": "@wuwenzhousear",
+    "profile_url": "https://x.com/wuwenzhousear"
+  },
+  "posted_at": "2026-10-30T13:17:29Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**wuwenzhou ([@wuwenzhousear](https://x.com/wuwenzhousear/status/2116157546243494309))** reports his **YoungAi** engine compresses DeepSeek V4.1 Flash 1017 from 510 GB to 113.6 GB and, via post-training and self-learning, reached 85% same-top agreement ([fodelf/YoungAi](https://github.com/fodelf/YoungAi)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/fodelf/YoungAi",
+      "from_post": "2116157546243494309",
+      "short_url": "https://t.co/QWzWeFBpQr",
+      "title": "GitHub - fodelf/YoungAi: DeepSeek 41 Flash local inference engine for Metal and CUDA"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "local-models"
+  ],
+  "keywords": [
+    "youngai",
+    "deepseek-v4.1-flash",
+    "compression",
+    "local-inference",
+    "metal"
+  ],
+  "relevance": "Aggressive compression of a large model for local Metal/CUDA."
+}

@@ -1,0 +1,48 @@
+{
+  "id": "2116267951150301682",
+  "permalink": "https://x.com/linoy_tsaban/status/2116267951150301682",
+  "author": {
+    "name": "Linoy Tsaban",
+    "handle": "@linoy_tsaban",
+    "profile_url": "https://x.com/linoy_tsaban"
+  },
+  "posted_at": "2026-10-30T20:36:12Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**Linoy Tsaban ([@linoy_tsaban](https://x.com/linoy_tsaban/status/2116267951150301682))** releases v1.5 of a **2-step Qwen Image 2.1 DMD2 distill LoRA** with better prompt adherence and edit fidelity plus an updated realtime Space ([linoyts/Qwen-Image-2.1-DMD2-2steps](https://huggingface.co/linoyts/Qwen-Image-2.1-DMD2-2steps), [Space](https://huggingface.co/spaces/linoyts/qwen-image-2-1-realtime)).",
+  "referenced_urls": [
+    {
+      "url": "https://huggingface.co/linoyts/Qwen-Image-2.1-DMD2-2steps",
+      "from_post": "2116267951150301682",
+      "short_url": "https://t.co/5OZNpGGRB9",
+      "title": "linoyts/Qwen-Image-2.1-DMD2-2steps · Hugging Face"
+    },
+    {
+      "url": "https://huggingface.co/spaces/linoyts/qwen-image-2-1-realtime",
+      "from_post": "2116267951150301682",
+      "short_url": "https://t.co/lfDCIlQnYv",
+      "title": "Qwen Image 2.1 Realtime - a Hugging Face Space by linoyts"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "qwen-image-2.1",
+    "dmd2",
+    "distillation",
+    "lora",
+    "realtime"
+  ],
+  "relevance": "Near-realtime open image generation.",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://x.com/linoy_tsaban/status/2116267951150301682/video/1",
+      "from_post": "2116267951150301682",
+      "description": "Realtime generation demo (not downloaded; referenced only)."
+    }
+  ]
+}

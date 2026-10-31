@@ -1,0 +1,41 @@
+{
+  "id": "2115998310943367368",
+  "permalink": "https://x.com/mikeysee/status/2115998310943367368",
+  "author": {
+    "name": "Mikeysee",
+    "handle": "@mikeysee",
+    "profile_url": "https://x.com/mikeysee"
+  },
+  "posted_at": "2026-10-30T02:44:45Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**Mikeysee ([@mikeysee](https://x.com/mikeysee/status/2115998310943367368))** built **ComputerCub**, a Mac computer-use tool that works with Codex, Claude and other agents and plugs into his Threadbear ([mikecann/computercub](https://github.com/mikecann/computercub)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/mikecann/computercub",
+      "from_post": "2115998310943367368",
+      "short_url": "https://t.co/5P7WR2ro1w",
+      "title": "GitHub - mikecann/computercub: Computer use for your Mac: lets your AI agents click around in its apps"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "computercub",
+    "computer-use",
+    "macos",
+    "agent-tool"
+  ],
+  "relevance": "Harness-agnostic computer use.",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://x.com/mikeysee/status/2115998310943367368/video/1",
+      "from_post": "2115998310943367368",
+      "description": "ComputerCub demo (not downloaded; referenced only)."
+    }
+  ]
+}

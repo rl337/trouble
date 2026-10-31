@@ -1,0 +1,74 @@
+{
+  "id": "2115781002924814730",
+  "permalink": "https://x.com/mattt/status/2115781002924814730",
+  "author": {
+    "name": "Mattt",
+    "handle": "@mattt",
+    "profile_url": "https://x.com/mattt"
+  },
+  "posted_at": "2026-10-29T12:21:15Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [
+    {
+      "id": "2115781004040560852",
+      "permalink": "https://x.com/mattt/status/2115781004040560852",
+      "posted_at": "2026-10-29T12:21:15Z",
+      "position": 1
+    },
+    {
+      "id": "2115781005047120124",
+      "permalink": "https://x.com/mattt/status/2115781005047120124",
+      "posted_at": "2026-10-29T12:21:15Z",
+      "position": 2
+    },
+    {
+      "id": "2115781006213218563",
+      "permalink": "https://x.com/mattt/status/2115781006213218563",
+      "posted_at": "2026-10-29T12:21:15Z",
+      "position": 3
+    },
+    {
+      "id": "2115781007567974475",
+      "permalink": "https://x.com/mattt/status/2115781007567974475",
+      "posted_at": "2026-10-29T12:21:16Z",
+      "position": 4
+    },
+    {
+      "id": "2115785552071159852",
+      "permalink": "https://x.com/mattt/status/2115785552071159852",
+      "posted_at": "2026-10-29T12:39:19Z",
+      "position": 5
+    }
+  ],
+  "summary_md": "**Mattt ([@mattt](https://x.com/mattt/status/2115781002924814730))** introduces two Swift packages for on-device ML with open Hub models ([Hugging Face blog](https://huggingface.co/blog/anydecisionmodel)): **AnySpeechRecognizer**, a drop-in for Apple's SpeechAnalyzer API running Parakeet or Qwen3-ASR on Core ML with diarization, and **AnyDecisionModel**, which answers yes/no, multiple-choice and rating questions as typed results with probabilities via MLX, Core AI or llama.cpp; the thread adds an Emoji Magnet demo app.",
+  "referenced_urls": [
+    {
+      "url": "https://huggingface.co/blog/anydecisionmodel",
+      "from_post": "2115781002924814730",
+      "short_url": "https://t.co/T6bAUWHJui",
+      "title": "Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "local-models"
+  ],
+  "keywords": [
+    "anyspeechrecognizer",
+    "anydecisionmodel",
+    "swift",
+    "core-ml",
+    "mlx",
+    "on-device"
+  ],
+  "relevance": "Typed decision outputs from local models are useful agent building blocks.",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://x.com/mattt/status/2115781006213218563/video/1",
+      "from_post": "2115781006213218563",
+      "description": "Demo video of the Swift packages (not downloaded; referenced only)."
+    }
+  ]
+}

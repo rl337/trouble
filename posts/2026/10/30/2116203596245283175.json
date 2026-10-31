@@ -1,0 +1,45 @@
+{
+  "id": "2116203596245283175",
+  "permalink": "https://x.com/oaichu95/status/2116203596245283175",
+  "author": {
+    "name": "Oai Chu",
+    "handle": "@oaichu95",
+    "profile_url": "https://x.com/oaichu95"
+  },
+  "posted_at": "2026-10-30T16:20:29Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**Oai Chu ([@oaichu95](https://x.com/oaichu95/status/2116203596245283175))** notes Aura open-sourced **Autopilot**, an AI playtester that plays Unity, Unreal or Godot games, checks a mechanic and writes bug reports, usable from Claude Code ([ramenvr/autopilot](https://github.com/ramenvr/autopilot)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/ramenvr/autopilot",
+      "from_post": "2116203596245283175",
+      "short_url": "https://t.co/NN6OSWHLgu",
+      "title": "GitHub - ramenvr/autopilot: Playtest any game."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-media",
+    "harness-dev"
+  ],
+  "keywords": [
+    "autopilot",
+    "playtesting",
+    "unity",
+    "unreal",
+    "godot"
+  ],
+  "relevance": "Agentic QA for game development.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV5D7IwasAUTjfs.jpg",
+      "from_post": "2116203596245283175",
+      "description": "Autopilot card listing explore/test/verify/goal prompt types and engine support.",
+      "kind": "screenshot",
+      "thumbnail": "posts/2026/10/30/2116203596245283175/media/0.webp"
+    }
+  ]
+}

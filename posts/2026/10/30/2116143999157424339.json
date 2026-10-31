@@ -1,0 +1,49 @@
+{
+  "id": "2116143999157424339",
+  "permalink": "https://x.com/RyanSpice/status/2116143999157424339",
+  "author": {
+    "name": "M R S P I C E S H O U S E",
+    "handle": "@RyanSpice",
+    "profile_url": "https://x.com/RyanSpice"
+  },
+  "posted_at": "2026-10-30T12:23:40Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**M R S P I C E S H O U S E ([@RyanSpice](https://x.com/RyanSpice/status/2116143999157424339))** is building a library of reusable agent skills for research, engineering, creative work and verification, the newest coordinating Blender and image generation across machines ([ryanspice/agent-skills](https://github.com/ryanspice/agent-skills)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/ryanspice/agent-skills",
+      "from_post": "2116143999157424339",
+      "short_url": "https://t.co/o5i3WndCcB",
+      "title": "GitHub - ryanspice/agent-skills: A practical skill library for AI-assisted software development."
+    }
+  ],
+  "hashtags": [
+    "AIAgents",
+    "AgentSkills",
+    "BuildInPublic",
+    "Blender"
+  ],
+  "topics": [
+    "agentic-media",
+    "harness-dev"
+  ],
+  "keywords": [
+    "agent-skill",
+    "blender",
+    "image-generation",
+    "skill-library"
+  ],
+  "relevance": "Skill library including Blender orchestration.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV4Nq0XWoAAYeGh.jpg",
+      "from_post": "2116143999157424339",
+      "description": "Chalkboard graphic listing the agent skills names.",
+      "kind": "other",
+      "thumbnail": "posts/2026/10/30/2116143999157424339/media/0.webp"
+    }
+  ]
+}

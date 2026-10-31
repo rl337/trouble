@@ -1,0 +1,62 @@
+{
+  "id": "2116418421592383915",
+  "permalink": "https://x.com/auroramaster/status/2116418421592383915",
+  "author": {
+    "name": "Alex",
+    "handle": "@auroramaster",
+    "profile_url": "https://x.com/auroramaster"
+  },
+  "posted_at": "2026-10-31T06:34:07Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [
+    {
+      "id": "2116418943736742134",
+      "permalink": "https://x.com/auroramaster/status/2116418943736742134",
+      "posted_at": "2026-10-31T06:36:12Z",
+      "position": 1
+    },
+    {
+      "id": "2116419031255392483",
+      "permalink": "https://x.com/auroramaster/status/2116419031255392483",
+      "posted_at": "2026-10-31T06:36:32Z",
+      "position": 2
+    },
+    {
+      "id": "2116419183453851910",
+      "permalink": "https://x.com/auroramaster/status/2116419183453851910",
+      "posted_at": "2026-10-31T06:37:09Z",
+      "position": 3
+    }
+  ],
+  "summary_md": "**Alex ([@auroramaster](https://x.com/auroramaster/status/2116418421592383915))** built **mcp-restart**, a proxy that hot-swaps MCP servers in Claude Code desktop. It keeps the original connection, starts the new build, replays initialize and sends list_changed so new tools appear mid-session, and falls back to the old server if a build fails. He asks Anthropic for a native restart ([X-15/mcp-restart](https://github.com/X-15/mcp-restart)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/X-15/mcp-restart",
+      "from_post": "2116418421592383915",
+      "short_url": "https://t.co/FkvLXrt7xp",
+      "title": "GitHub - X-15/mcp-restart: Restart MCP servers in a running Claude Code session: hot-swap with no failed calls, new tools reach the model at once (Windows)"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "mcp-restart",
+    "mcp",
+    "claude-code",
+    "hot-reload"
+  ],
+  "relevance": "MCP server development workflow.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV8HSkZXwAAhRG5.jpg",
+      "from_post": "2116418421592383915",
+      "description": "Claude Code pane listing MCP servers with restart buttons.",
+      "kind": "screenshot",
+      "thumbnail": "posts/2026/10/31/2116418421592383915/media/0.webp"
+    }
+  ]
+}

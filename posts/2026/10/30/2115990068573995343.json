@@ -1,0 +1,37 @@
+{
+  "id": "2115990068573995343",
+  "permalink": "https://x.com/MoyuAI/status/2115990068573995343",
+  "author": {
+    "name": "小鱼学姐",
+    "handle": "@MoyuAI",
+    "profile_url": "https://x.com/MoyuAI"
+  },
+  "posted_at": "2026-10-30T02:12:00Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**小鱼学姐 ([@MoyuAI](https://x.com/MoyuAI/status/2115990068573995343))** describes **Orca**, which runs 30+ coding agents on the same task in separate worktrees and merges only the best result, warning about multiplied tokens and diffs and noting data collection can be turned off ([stablyai/orca](https://github.com/stablyai/orca)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/stablyai/orca",
+      "from_post": "2115990068573995343",
+      "short_url": "https://t.co/aBw9GwYNDL",
+      "title": "GitHub - stablyai/orca: Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime."
+    }
+  ],
+  "hashtags": [
+    "AI编程",
+    "多智能体",
+    "开源工具"
+  ],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "orca",
+    "parallel-agent",
+    "git-worktree",
+    "best-of-n"
+  ],
+  "relevance": "Best-of-N parallel agents with worktrees."
+}

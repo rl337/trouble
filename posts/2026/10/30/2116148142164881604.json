@@ -1,0 +1,33 @@
+{
+  "id": "2116148142164881604",
+  "permalink": "https://x.com/singularityhack/status/2116148142164881604",
+  "author": {
+    "name": "0xJustice.eth 👹🔥",
+    "handle": "@singularityhack",
+    "profile_url": "https://x.com/singularityhack"
+  },
+  "posted_at": "2026-10-30T12:40:07Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**0xJustice.eth 👹🔥 ([@singularityhack](https://x.com/singularityhack/status/2116148142164881604))** highlights *Is this machine playing?* ([arXiv 2610.07130](https://arxiv.org/abs/2610.07130)), where 13 agents alone on virtual islands with no assigned task invented challenges and learned useful tricks, asking whether that counts as play.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.07130",
+      "from_post": "2116148142164881604",
+      "short_url": "https://t.co/3cFLfDJOw4",
+      "title": "Is this machine playing?"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-cognition"
+  ],
+  "keywords": [
+    "machine-play",
+    "open-endedness",
+    "intrinsic-motivation",
+    "agent"
+  ],
+  "relevance": "Open-ended exploration and play in agents."
+}

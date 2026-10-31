@@ -1,0 +1,32 @@
+{
+  "id": "2116356989982785618",
+  "permalink": "https://x.com/Adityawagh_94/status/2116356989982785618",
+  "author": {
+    "name": "Aditya Wagh | AI Engineer",
+    "handle": "@Adityawagh_94",
+    "profile_url": "https://x.com/Adityawagh_94"
+  },
+  "posted_at": "2026-10-31T02:30:01Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**Aditya Wagh | AI Engineer ([@Adityawagh_94](https://x.com/Adityawagh_94/status/2116356989982785618))** introduces **ModelDiff**, regression testing that compares behaviour when you swap local AI models ([OpenWave-India/modeldiff](https://github.com/OpenWave-India/modeldiff)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/OpenWave-India/modeldiff",
+      "from_post": "2116356989982785618",
+      "short_url": "https://t.co/tNNXmyj0IG",
+      "title": "GitHub - OpenWave-India/modeldiff: Regression testing for local AI"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "local-models"
+  ],
+  "keywords": [
+    "modeldiff",
+    "regression-testing",
+    "local-model"
+  ],
+  "relevance": "Safe local model upgrades."
+}

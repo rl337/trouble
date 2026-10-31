@@ -1,0 +1,32 @@
+{
+  "id": "2116097421176680645",
+  "permalink": "https://x.com/Jeff33873799/status/2116097421176680645",
+  "author": {
+    "name": "SheldonGuo",
+    "handle": "@Jeff33873799",
+    "profile_url": "https://x.com/Jeff33873799"
+  },
+  "posted_at": "2026-10-30T09:18:35Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**SheldonGuo ([@Jeff33873799](https://x.com/Jeff33873799/status/2116097421176680645))** open-sources **BuilderHarness**, a harness distilled from daily work covering the full product design and development lifecycle, aiming for maintainable production projects rather than vibe-coded demos ([guoxuedong2018/BuilderHarness](https://github.com/guoxuedong2018/BuilderHarness/tree/main)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/guoxuedong2018/BuilderHarness/tree/main",
+      "from_post": "2116097421176680645",
+      "short_url": "https://t.co/i6KFswRLsF"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "builderharness",
+    "agent-harness",
+    "vibe-coding",
+    "product-lifecycle"
+  ],
+  "relevance": "Lifecycle-oriented harness conventions for agentic coding."
+}

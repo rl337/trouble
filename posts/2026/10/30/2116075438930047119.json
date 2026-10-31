@@ -1,0 +1,34 @@
+{
+  "id": "2116075438930047119",
+  "permalink": "https://x.com/DeaglePc/status/2116075438930047119",
+  "author": {
+    "name": "deaglepc",
+    "handle": "@DeaglePc",
+    "profile_url": "https://x.com/DeaglePc"
+  },
+  "posted_at": "2026-10-30T07:51:14Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**deaglepc ([@DeaglePc](https://x.com/DeaglePc/status/2116075438930047119))** describes **Lampline** (about 550 stars), which builds local AI phone agents and lets you write conversation tests (correct transfer, business-hours answers); its free local mode needs a ~3 GB model download and is slower and simpler than cloud models ([C4rohan/Lampline](https://github.com/C4rohan/Lampline)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/C4rohan/Lampline",
+      "from_post": "2116075438930047119",
+      "short_url": "https://t.co/0656P5Xabg",
+      "title": "GitHub - C4rohan/Lampline: Build AI phone agents on your own computer and test every change with an AI caller. Open source, runs free with no API keys, cents per call with your own keys. Imports Dialogflow CX."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "lampline",
+    "voice-agent",
+    "conversation-test",
+    "local-model",
+    "phone-agent"
+  ],
+  "relevance": "Test-driven development for voice agents, with a local option."
+}

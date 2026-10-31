@@ -1,0 +1,34 @@
+{
+  "id": "2115776173582245944",
+  "permalink": "https://x.com/cjski_/status/2115776173582245944",
+  "author": {
+    "name": "CJSKI",
+    "handle": "@cjski_",
+    "profile_url": "https://x.com/cjski_"
+  },
+  "posted_at": "2026-10-29T12:02:03Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**CJSKI ([@cjski_](https://x.com/cjski_/status/2115776173582245944))** likes **whatsmyagentdoing**, which reads the logs Claude Code and Codex already write and shows both in one dashboard (with a tiny pixel office), no hooks needed for the basic view ([Charonyuu/whatsmyagentdoing](https://github.com/Charonyuu/whatsmyagentdoing)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/Charonyuu/whatsmyagentdoing",
+      "from_post": "2115776173582245944",
+      "short_url": "https://t.co/fmddn9B3AG",
+      "title": "GitHub - Charonyuu/whatsmyagentdoing: See what every Claude Code and Codex agent on your machine is doing — live, in a little office."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "whatsmyagentdoing",
+    "dashboard",
+    "claude-code",
+    "codex",
+    "observability"
+  ],
+  "relevance": "Zero-setup observability across multiple coding agents."
+}

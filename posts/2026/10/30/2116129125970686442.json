@@ -1,0 +1,36 @@
+{
+  "id": "2116129125970686442",
+  "permalink": "https://x.com/AyatNourHachmi/status/2116129125970686442",
+  "author": {
+    "name": "Ayat",
+    "handle": "@AyatNourHachmi",
+    "profile_url": "https://x.com/AyatNourHachmi"
+  },
+  "posted_at": "2026-10-30T11:24:34Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**Ayat ([@AyatNourHachmi](https://x.com/AyatNourHachmi/status/2116129125970686442))** shares *GARDEN* ([arXiv 2610.37926](https://arxiv.org/abs/2610.37926)), where an LLM writes one reward program per task family and reuses it on unseen Overcooked/SMAX maps, raising combat win rate from 51% to 90%.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.37926",
+      "from_post": "2116129125970686442",
+      "short_url": "https://t.co/bFrULIDFZp",
+      "title": "GARDEN: Generalist Autonomous Reward Design Through Evidence..."
+    }
+  ],
+  "hashtags": [
+    "MARL"
+  ],
+  "topics": [
+    "agentic-cognition"
+  ],
+  "keywords": [
+    "garden",
+    "reward-design",
+    "multi-agent-rl",
+    "overcooked",
+    "smax"
+  ],
+  "relevance": "LLM-authored reward design for multi-agent RL."
+}

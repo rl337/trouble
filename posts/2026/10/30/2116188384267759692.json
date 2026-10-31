@@ -1,0 +1,46 @@
+{
+  "id": "2116188384267759692",
+  "permalink": "https://x.com/gauravdhiman_ai/status/2116188384267759692",
+  "author": {
+    "name": "GD",
+    "handle": "@gauravdhiman_ai",
+    "profile_url": "https://x.com/gauravdhiman_ai"
+  },
+  "posted_at": "2026-10-30T15:20:02Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**GD ([@gauravdhiman_ai](https://x.com/gauravdhiman_ai/status/2116188384267759692))** highlights **Voicebox**, a trending open-source local voice studio that clones voices and dictates into any app ([jamiepine/voicebox](https://github.com/jamiepine/voicebox)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/jamiepine/voicebox",
+      "from_post": "2116188384267759692",
+      "short_url": "https://t.co/FImWby7wZv",
+      "title": "GitHub - jamiepine/voicebox: The open-source AI voice studio. Clone, dictate, create."
+    }
+  ],
+  "hashtags": [
+    "AI"
+  ],
+  "topics": [
+    "agentic-media",
+    "local-models"
+  ],
+  "keywords": [
+    "voicebox",
+    "voice-cloning",
+    "dictation",
+    "text-to-speech"
+  ],
+  "relevance": "Local voice cloning for media work.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV42HwOWsAAjXG9.jpg",
+      "from_post": "2116188384267759692",
+      "description": "Thumbnail reading 'Free AI Voice Generator' with a smiling presenter.",
+      "kind": "other",
+      "thumbnail": "posts/2026/10/30/2116188384267759692/media/0.webp"
+    }
+  ]
+}

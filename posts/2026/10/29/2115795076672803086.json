@@ -1,0 +1,51 @@
+{
+  "id": "2115795076672803086",
+  "permalink": "https://x.com/Yuvidew108/status/2115795076672803086",
+  "author": {
+    "name": "yuvraj dewangan",
+    "handle": "@Yuvidew108",
+    "profile_url": "https://x.com/Yuvidew108"
+  },
+  "posted_at": "2026-10-29T13:17:10Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**yuvraj dewangan ([@Yuvidew108](https://x.com/Yuvidew108/status/2115795076672803086))** open-sources **AI Teams**: AI bots with their own Linux desktops, controlled from Claude Code, Codex or Cursor through 27 MCP tools, noting 11 problems hit along the way ([site](https://ai-teams-umber.vercel.app/), [yuvidew/ai-teams](https://github.com/yuvidew/ai-teams)).",
+  "referenced_urls": [
+    {
+      "url": "https://ai-teams-umber.vercel.app/",
+      "from_post": "2115795076672803086",
+      "short_url": "https://t.co/1BfbSVGVgs"
+    },
+    {
+      "url": "https://github.com/yuvidew/ai-teams",
+      "from_post": "2115795076672803086",
+      "short_url": "https://t.co/VS8KwLec2s",
+      "title": "GitHub - yuvidew/ai-teams"
+    }
+  ],
+  "hashtags": [
+    "OpenSource",
+    "MCP"
+  ],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "ai-team",
+    "computer-use",
+    "linux-desktop",
+    "mcp"
+  ],
+  "relevance": "Computer-use agent fleets driven over MCP.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HVzPhHdbUAEHDYa.jpg",
+      "from_post": "2115795076672803086",
+      "description": "AI Teams dashboard showing bots and a connection flow with setup steps.",
+      "kind": "screenshot",
+      "thumbnail": "posts/2026/10/29/2115795076672803086/media/0.webp"
+    }
+  ]
+}

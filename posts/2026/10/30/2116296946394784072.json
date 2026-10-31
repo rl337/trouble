@@ -1,0 +1,41 @@
+{
+  "id": "2116296946394784072",
+  "permalink": "https://x.com/pixelcube/status/2116296946394784072",
+  "author": {
+    "name": "Vasiliy Vasilev",
+    "handle": "@pixelcube",
+    "profile_url": "https://x.com/pixelcube"
+  },
+  "posted_at": "2026-10-30T22:31:25Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**Vasiliy Vasilev ([@pixelcube](https://x.com/pixelcube/status/2116296946394784072))** made **claudit**, a small TUI wrapper for Claude Code that shows everything it does while you chat ([pixelbender/claudit](https://github.com/pixelbender/claudit)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/pixelbender/claudit",
+      "from_post": "2116296946394784072",
+      "short_url": "https://t.co/66PQzBFidn",
+      "title": "GitHub - pixelbender/claudit"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "claudit",
+    "claude-code",
+    "tui",
+    "observability"
+  ],
+  "relevance": "Transparency for agent sessions.",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://x.com/pixelcube/status/2116296946394784072/video/1",
+      "from_post": "2116296946394784072",
+      "description": "TUI demo (not downloaded; referenced only)."
+    }
+  ]
+}

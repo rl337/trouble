@@ -1,0 +1,39 @@
+{
+  "id": "2116169427670712783",
+  "permalink": "https://x.com/MMLA_org/status/2116169427670712783",
+  "author": {
+    "name": "MMLA",
+    "handle": "@MMLA_org",
+    "profile_url": "https://x.com/MMLA_org"
+  },
+  "posted_at": "2026-10-30T14:04:42Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**MMLA ([@MMLA_org](https://x.com/MMLA_org/status/2116169427670712783))** releases **MMLA-Orbit-1B**, its first 1B-class model with adaptive policy state, versioned task memory and a runtime that proposes, tests and conditionally installs memory-management rules ([MMLA-ORG/MMLA-Orbit-1B](https://huggingface.co/MMLA-ORG/MMLA-Orbit-1B), [MMLA-org/MMLA-RSI](https://github.com/MMLA-org/MMLA-RSI)).",
+  "referenced_urls": [
+    {
+      "url": "https://huggingface.co/MMLA-ORG/MMLA-Orbit-1B",
+      "from_post": "2116169427670712783",
+      "short_url": "https://t.co/dYT8FVVQHW",
+      "title": "MMLA-ORG/MMLA-Orbit-1B · Hugging Face"
+    },
+    {
+      "url": "https://github.com/MMLA-org/MMLA-RSI",
+      "from_post": "2116169427670712783",
+      "short_url": "https://t.co/WrYCVqcdMU",
+      "title": "GitHub - MMLA-org/MMLA-RSI"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "local-models"
+  ],
+  "keywords": [
+    "mmla-orbit",
+    "1b-model",
+    "agent-memory",
+    "self-improvement"
+  ],
+  "relevance": "Small self-modifying-memory model to experiment with locally."
+}

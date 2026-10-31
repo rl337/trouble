@@ -1,0 +1,53 @@
+{
+  "id": "2115973962845090228",
+  "permalink": "https://x.com/lin_xiao_xia/status/2115973962845090228",
+  "author": {
+    "name": "林小夏",
+    "handle": "@lin_xiao_xia",
+    "profile_url": "https://x.com/lin_xiao_xia"
+  },
+  "posted_at": "2026-10-30T01:08:00Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**林小夏 ([@lin_xiao_xia](https://x.com/lin_xiao_xia/status/2115973962845090228))** recommends **Pixelle-Video**, an open-source engine that automates short-video production from content creation to composition ([ATH-MaaS/Pixelle-Video](https://github.com/ATH-MaaS/Pixelle-Video), [AIDC-AI/Pixelle-Video](https://github.com/AIDC-AI/Pixelle-Video), [docs](https://aidc-ai.github.io/Pixelle-Video/zh)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/ATH-MaaS/Pixelle-Video",
+      "from_post": "2115973962845090228",
+      "short_url": "https://t.co/W5GjOfdIEF",
+      "title": "GitHub - ATH-MaaS/Pixelle-Video: 🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine"
+    },
+    {
+      "url": "https://github.com/AIDC-AI/Pixelle-Video",
+      "from_post": "2115973962845090228",
+      "short_url": "https://t.co/iGnhk4DUxM"
+    },
+    {
+      "url": "https://aidc-ai.github.io/Pixelle-Video/zh",
+      "from_post": "2115973962845090228",
+      "short_url": "https://t.co/vkGNxQslhl"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "pixelle-video",
+    "short-video",
+    "video-generation",
+    "automation"
+  ],
+  "relevance": "Automated short-video pipeline.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV1sSUlbsAEG5i9.jpg",
+      "from_post": "2115973962845090228",
+      "description": "Pixelle-Video web UI with generation settings and a preview of a vertical video.",
+      "kind": "screenshot",
+      "thumbnail": "posts/2026/10/30/2115973962845090228/media/0.webp"
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "id": "2116242335910805782",
+  "permalink": "https://x.com/paralaifxox/status/2116242335910805782",
+  "author": {
+    "name": "paralaif.xox",
+    "handle": "@paralaifxox",
+    "profile_url": "https://x.com/paralaifxox"
+  },
+  "posted_at": "2026-10-30T18:54:25Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [
+    {
+      "id": "2116242736936554786",
+      "permalink": "https://x.com/paralaifxox/status/2116242736936554786",
+      "posted_at": "2026-10-30T18:56:01Z",
+      "position": 1
+    },
+    {
+      "id": "2116248981579731043",
+      "permalink": "https://x.com/paralaifxox/status/2116248981579731043",
+      "posted_at": "2026-10-30T19:20:49Z",
+      "position": 2
+    }
+  ],
+  "summary_md": "**paralaif.xox ([@paralaifxox](https://x.com/paralaifxox/status/2116242335910805782))** introduces **ComfyUI-Minimax-H3-Komikku**, a node pack and editor for laying out comic pages, prompting each panel as a MiniMax H3 reference-to-video shot and composing dialogue afterwards ([quinteroac/ComfyUI-Minimax-H3-Komikku](https://github.com/quinteroac/ComfyUI-Minimax-H3-Komikku)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/quinteroac/ComfyUI-Minimax-H3-Komikku",
+      "from_post": "2116242335910805782",
+      "short_url": "https://t.co/AYccp60jz5",
+      "title": "GitHub - quinteroac/ComfyUI-Minimax-H3-Komikku: ComfyUI nodes and workflow that turn a MiniMax H3 multishot video into a manga/comic page: page layout editor, panel reframing and lettering."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "komikku",
+    "minimax-h3",
+    "comic",
+    "comfyui",
+    "panel-layout"
+  ],
+  "relevance": "Comic production from a video model.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV5nDaKbsAA50Ex.jpg",
+      "from_post": "2116242335910805782",
+      "description": "Generated gothic comic page with a pale-haired girl holding a lantern.",
+      "kind": "photo",
+      "thumbnail": "posts/2026/10/30/2116242335910805782/media/0.webp"
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV5ngM6a8AA9yoX.jpg",
+      "from_post": "2116242736936554786",
+      "description": "Layout editor node with panel grid.",
+      "kind": "screenshot",
+      "thumbnail": "posts/2026/10/30/2116242335910805782/media/1.webp"
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV5s9z2boAAL20A.jpg",
+      "from_post": "2116248981579731043",
+      "description": "Compose editor showing a finished page with dialogue.",
+      "kind": "screenshot",
+      "thumbnail": "posts/2026/10/30/2116242335910805782/media/2.webp"
+    }
+  ]
+}

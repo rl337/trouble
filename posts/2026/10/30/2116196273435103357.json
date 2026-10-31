@@ -1,0 +1,34 @@
+{
+  "id": "2116196273435103357",
+  "permalink": "https://x.com/Justmeonchain/status/2116196273435103357",
+  "author": {
+    "name": "链上阿白白",
+    "handle": "@Justmeonchain",
+    "profile_url": "https://x.com/Justmeonchain"
+  },
+  "posted_at": "2026-10-30T15:51:23Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**链上阿白白 ([@Justmeonchain](https://x.com/Justmeonchain/status/2116196273435103357))** notes **Toonflow** (about 16.6K stars) turns novels or scripts into short dramas with agents collaborating on writing, storyboards, character design and video, around ¥120 for a 2-minute episode in 2 hours ([HBAI-Ltd/Toonflow-app](https://github.com/HBAI-Ltd/Toonflow-app)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/HBAI-Ltd/Toonflow-app",
+      "from_post": "2116196273435103357",
+      "short_url": "https://t.co/EiaNxaYELz",
+      "title": "GitHub - HBAI-Ltd/Toonflow-app: 短剧、漫剧制作工具 Toonflow：开源 AI 视频创作平台，集成剧本创作、智能分镜、角色与场景资产管理、图像生成和视频生成。融合无限画布、AI Agent 与可视化工作流，支持本地部署、自选模型、跨平台客户端、MCP 与插件扩展。Open-source AI short drama and motion comic creation tool with an infinite canvas, AI agents, storyboarding, image and video generation. Self-hosted an"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "toonflow",
+    "short-drama",
+    "storyboard",
+    "video-generation",
+    "multi-agent"
+  ],
+  "relevance": "Agentic short-drama production."
+}

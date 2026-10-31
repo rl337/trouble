@@ -1,0 +1,57 @@
+{
+  "id": "2116003877954699383",
+  "permalink": "https://x.com/StepShum/status/2116003877954699383",
+  "author": {
+    "name": "Stephen S",
+    "handle": "@StepShum",
+    "profile_url": "https://x.com/StepShum"
+  },
+  "posted_at": "2026-10-30T03:06:52Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [
+    {
+      "id": "2116004403291500813",
+      "permalink": "https://x.com/StepShum/status/2116004403291500813",
+      "posted_at": "2026-10-30T03:08:57Z",
+      "position": 1
+    }
+  ],
+  "summary_md": "**Stephen S ([@StepShum](https://x.com/StepShum/status/2116003877954699383))** released **Rigless** (Apache-2.0): click a person in a clip, add a few pictures, and MiniMax H3 redraws only them as your character with no rig or prompt, built on ComfyUI ([StephenShumway/rigless](https://github.com/StephenShumway/rigless), [LoRA](https://huggingface.co/StephenShumway/rigless-lora)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/StephenShumway/rigless",
+      "from_post": "2116004403291500813",
+      "short_url": "https://t.co/tSfmu5Rfch",
+      "title": "GitHub - StephenShumway/rigless"
+    },
+    {
+      "url": "https://huggingface.co/StephenShumway/rigless-lora",
+      "from_post": "2116004403291500813",
+      "short_url": "https://t.co/HQf5ar1fkJ",
+      "title": "StephenShumway/rigless-lora · Hugging Face"
+    }
+  ],
+  "hashtags": [
+    "OpenSourceHiggsfield"
+  ],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "rigless",
+    "character-swap",
+    "minimax-h3",
+    "lora",
+    "comfyui"
+  ],
+  "relevance": "Open character replacement in video.",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://x.com/StepShum/status/2116003877954699383/video/1",
+      "from_post": "2116003877954699383",
+      "description": "Rigless demo (not downloaded; referenced only)."
+    }
+  ]
+}

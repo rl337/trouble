@@ -1,0 +1,46 @@
+{
+  "id": "2116092766522409170",
+  "permalink": "https://x.com/allsides_tech/status/2116092766522409170",
+  "author": {
+    "name": "ALLSIDES",
+    "handle": "@allsides_tech",
+    "profile_url": "https://x.com/allsides_tech"
+  },
+  "posted_at": "2026-10-30T09:00:05Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**ALLSIDES ([@allsides_tech](https://x.com/allsides_tech/status/2116092766522409170))** posts a Backrooms-themed Halloween clip featuring ALLSIDES' 3D digital-twin assets, which are free on Hugging Face ([ALLSIDES on Hugging Face](https://huggingface.co/ALLSIDES)).",
+  "referenced_urls": [
+    {
+      "url": "https://huggingface.co/ALLSIDES",
+      "from_post": "2116092766522409170",
+      "short_url": "https://t.co/bZYrAy1s5a",
+      "title": "ALLSIDES (ALLSIDES)"
+    }
+  ],
+  "hashtags": [
+    "Halloween2026",
+    "backrooms",
+    "DigitalTwins"
+  ],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "allsides",
+    "digital-twin",
+    "3d-asset",
+    "backrooms",
+    "halloween2026"
+  ],
+  "relevance": "Free scanned 3D assets for media pipelines.",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://x.com/allsides_tech/status/2116092766522409170/video/1",
+      "from_post": "2116092766522409170",
+      "description": "Found-footage style walk through the Backrooms with 3D digital twins (not downloaded; referenced only)."
+    }
+  ]
+}

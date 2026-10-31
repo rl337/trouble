@@ -1,0 +1,59 @@
+{
+  "id": "2116164693085897141",
+  "permalink": "https://x.com/LubomirVesely1/status/2116164693085897141",
+  "author": {
+    "name": "Lubomir Vesely",
+    "handle": "@LubomirVesely1",
+    "profile_url": "https://x.com/LubomirVesely1"
+  },
+  "posted_at": "2026-10-30T13:45:53Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [
+    {
+      "id": "2116165090504581552",
+      "permalink": "https://x.com/LubomirVesely1/status/2116165090504581552",
+      "posted_at": "2026-10-30T13:47:28Z",
+      "position": 1
+    }
+  ],
+  "summary_md": "**Lubomir Vesely ([@LubomirVesely1](https://x.com/LubomirVesely1/status/2116164693085897141))** runs the 763B **DeepSeek-V4.1-Flash** (vision, 262K context) at about 38 tok/s on 2019 hardware (Threadripper 3960X, DDR4, RTX 5090 + 3080 Ti) via the Strata rig; the key fix was recording each layer as a CUDA graph to replace ~1,000 tiny kernel launches per token, verified byte-identical ([hap911/Strata-Windows-Rig](https://github.com/hap911/Strata-Windows-Rig)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/hap911/Strata-Windows-Rig",
+      "from_post": "2116164693085897141",
+      "short_url": "https://t.co/bs1sIgdyYM",
+      "title": "GitHub - hap911/Strata-Windows-Rig: Experimental Strata Windows rig for authorized DeepSeek vision and abliteration research"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "local-models"
+  ],
+  "keywords": [
+    "strata",
+    "deepseek-v4.1-flash",
+    "cuda-graph",
+    "local-inference",
+    "moe"
+  ],
+  "relevance": "CUDA-graph trick for running huge MoE models on desktop hardware.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV4flvnXIAAZ9Fw.jpg",
+      "from_post": "2116164693085897141",
+      "description": "Strata Windows Rig card: 'A 763B model on one desktop', ~38 tok/s with speed bars per configuration.",
+      "kind": "chart",
+      "thumbnail": "posts/2026/10/30/2116164693085897141/media/0.webp"
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV4gswYWYAA9faQ.png",
+      "from_post": "2116165090504581552",
+      "description": "Terminal dashboard showing tokens/s, GPU load, VRAM and recent requests.",
+      "kind": "screenshot",
+      "thumbnail": "posts/2026/10/30/2116164693085897141/media/1.webp"
+    }
+  ]
+}

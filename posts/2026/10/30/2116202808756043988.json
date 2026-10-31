@@ -1,0 +1,45 @@
+{
+  "id": "2116202808756043988",
+  "permalink": "https://x.com/JC1987TN/status/2116202808756043988",
+  "author": {
+    "name": "JC",
+    "handle": "@JC1987TN",
+    "profile_url": "https://x.com/JC1987TN"
+  },
+  "posted_at": "2026-10-30T16:17:21Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**JC ([@JC1987TN](https://x.com/JC1987TN/status/2116202808756043988))** reviews **Acceptance** from LobeHub, a free skill where coding agents capture screenshots and video as end-to-end evidence; signed-in reports publish by default, so redact secrets; reviewed from source, not tested ([lobehub/acceptance](https://github.com/lobehub/acceptance), [page](https://lobehub.com/acceptance)).",
+  "referenced_urls": [
+    {
+      "url": "https://lobehub.com/acceptance",
+      "from_post": "2116202808756043988",
+      "short_url": "https://t.co/IWuHReh1yf",
+      "title": "Acceptance testing for AI coding agents · LobeHub"
+    },
+    {
+      "url": "https://github.com/lobehub/acceptance",
+      "from_post": "2116202808756043988",
+      "short_url": "https://t.co/s1VngzoOTJ",
+      "title": "GitHub - lobehub/acceptance: ✅ Acceptance is open-source e2e testing for Agents. Your coding agent turns a prompt into observable checks, runs the real product, and publishes a report with screenshots, recordings, and logs attached to each check. You can accept the work, or send individual checks ba"
+    },
+    {
+      "url": "https://machineworthy.com",
+      "from_post": "2116202808756043988",
+      "short_url": "https://t.co/eRh7xWZ1cd",
+      "title": "Machineworthy"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "acceptance",
+    "e2e-testing",
+    "coding-agent",
+    "screenshot"
+  ],
+  "relevance": "Visual acceptance evidence for agent work."
+}

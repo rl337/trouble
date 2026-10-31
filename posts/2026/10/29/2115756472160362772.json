@@ -1,0 +1,33 @@
+{
+  "id": "2115756472160362772",
+  "permalink": "https://x.com/javawock7618/status/2115756472160362772",
+  "author": {
+    "name": "ジャヴァノ🍀ボカロP@初音ミク「w/39」10/12アルバムリリース",
+    "handle": "@javawock7618",
+    "profile_url": "https://x.com/javawock7618"
+  },
+  "posted_at": "2026-10-29T10:43:46Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**ジャヴァノ🍀ボカロP@初音ミク「w/39」10/12アルバムリリース ([@javawock7618](https://x.com/javawock7618/status/2115756472160362772))** recommends the MiniMax-H3 version of the **VBVR LoRA**, which corrects motion and physics as it did for LTX-2.3; made for I2V but also usable with Ref2VA ([LiconStudio/Minimax-H3-VBVR](https://huggingface.co/LiconStudio/Minimax-H3-VBVR)).",
+  "referenced_urls": [
+    {
+      "url": "https://huggingface.co/LiconStudio/Minimax-H3-VBVR",
+      "from_post": "2115756472160362772",
+      "short_url": "https://t.co/jjq5eUtPMR",
+      "title": "LiconStudio/Minimax-H3-VBVR · Hugging Face"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "vbvr-lora",
+    "minimax-h3",
+    "video-generation",
+    "physics"
+  ],
+  "relevance": "Quality-fix LoRA for local video generation."
+}

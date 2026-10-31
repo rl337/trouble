@@ -1,0 +1,34 @@
+{
+  "id": "2115943172605915486",
+  "permalink": "https://x.com/CEGM_IA/status/2115943172605915486",
+  "author": {
+    "name": "CEGM",
+    "handle": "@CEGM_IA",
+    "profile_url": "https://x.com/CEGM_IA"
+  },
+  "posted_at": "2026-10-29T23:05:39Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**CEGM ([@CEGM_IA](https://x.com/CEGM_IA/status/2115943172605915486))** points to **OpenBot**, a local-first desktop workspace that runs Codex, Claude Code and Grok side by side, each with its own space and queue, passing tasks between them (preview) ([nightly-labs/openbot](https://github.com/nightly-labs/openbot)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/nightly-labs/openbot",
+      "from_post": "2115943172605915486",
+      "short_url": "https://t.co/PVHTEO0Vcm",
+      "title": "GitHub - nightly-labs/openbot: A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "openbot",
+    "multi-agent",
+    "codex",
+    "claude-code",
+    "desktop-app"
+  ],
+  "relevance": "Multi-agent desktop workspace."
+}

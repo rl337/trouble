@@ -1,0 +1,33 @@
+{
+  "id": "2115852845060919337",
+  "permalink": "https://x.com/dotsMCLOVIN/status/2115852845060919337",
+  "author": {
+    "name": "McLOVIN",
+    "handle": "@dotsMCLOVIN",
+    "profile_url": "https://x.com/dotsMCLOVIN"
+  },
+  "posted_at": "2026-10-29T17:06:43Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**McLOVIN ([@dotsMCLOVIN](https://x.com/dotsMCLOVIN/status/2115852845060919337))** notes **Shoulder 0.3.0** adds a \"while you were away\" recap of coding-agent activity when you refocus the terminal ([changelog](https://github.com/bjarneo/shoulder/blob/main/CHANGELOG.md)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/bjarneo/shoulder/blob/main/CHANGELOG.md",
+      "from_post": "2115852845060919337",
+      "short_url": "https://t.co/PH5rr4t9dl",
+      "title": "shoulder/CHANGELOG.md at main · bjarneo/shoulder"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "shoulder",
+    "terminal",
+    "coding-agent",
+    "recap"
+  ],
+  "relevance": "Ambient awareness of agent activity."
+}

@@ -1,0 +1,33 @@
+{
+  "id": "2116024797477969994",
+  "permalink": "https://x.com/AiAdventurerx/status/2116024797477969994",
+  "author": {
+    "name": "AI Adventurer",
+    "handle": "@AiAdventurerx",
+    "profile_url": "https://x.com/AiAdventurerx"
+  },
+  "posted_at": "2026-10-30T04:30:00Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**AI Adventurer ([@AiAdventurerx](https://x.com/AiAdventurerx/status/2116024797477969994))** highlights **Jellyfish** (Apache-2.0), an AI short-drama studio taking a chapter script to shots, shared assets and video ([Forget-C/Jellyfish](https://github.com/Forget-C/Jellyfish)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/Forget-C/Jellyfish",
+      "from_post": "2116024797477969994",
+      "short_url": "https://t.co/FTygDcarek",
+      "title": "GitHub - Forget-C/Jellyfish: An end-to-end production workspace for AI-generated short dramas. From script input to structured storyboarding, consistency management, shot preparation, video generation, and export."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "jellyfish",
+    "short-drama",
+    "video-production",
+    "storyboard"
+  ],
+  "relevance": "Script-to-video drama production workspace."
+}

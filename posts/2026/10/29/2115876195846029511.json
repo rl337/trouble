@@ -1,0 +1,33 @@
+{
+  "id": "2115876195846029511",
+  "permalink": "https://x.com/Yance16z/status/2115876195846029511",
+  "author": {
+    "name": "Yance Zhang",
+    "handle": "@Yance16z",
+    "profile_url": "https://x.com/Yance16z"
+  },
+  "posted_at": "2026-10-29T18:39:30Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**Yance Zhang ([@Yance16z](https://x.com/Yance16z/status/2115876195846029511))** points to Expo's official **expo/skills**, agent skills so coding agents follow real Expo patterns instead of guessing ([expo/skills](https://github.com/expo/skills)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/expo/skills",
+      "from_post": "2115876195846029511",
+      "short_url": "https://t.co/NPEl28v2eK",
+      "title": "GitHub - expo/skills: A collection of AI agent skills for working with Expo projects and Expo Application Services"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "expo",
+    "agent-skill",
+    "react-native",
+    "coding-agent"
+  ],
+  "relevance": "Vendor-maintained skills as framework knowledge for agents."
+}

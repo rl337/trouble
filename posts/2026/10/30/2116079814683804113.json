@@ -1,0 +1,33 @@
+{
+  "id": "2116079814683804113",
+  "permalink": "https://x.com/_reachsumit/status/2116079814683804113",
+  "author": {
+    "name": "Sumit",
+    "handle": "@_reachsumit",
+    "profile_url": "https://x.com/_reachsumit"
+  },
+  "posted_at": "2026-10-30T08:08:37Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**Sumit ([@_reachsumit](https://x.com/_reachsumit/status/2116079814683804113))** shares *A Sequential Decision Framework for Evaluating LLM-Guided Search* ([arXiv 2610.39231](https://arxiv.org/abs/2610.39231)), which models search as select-or-spawn decisions so retrieval strategies can be compared as policies.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.39231",
+      "from_post": "2116079814683804113",
+      "short_url": "https://t.co/eSP5rSPR1L",
+      "title": "A Sequential Decision Framework for Evaluating LLM-Guided Search"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-cognition"
+  ],
+  "keywords": [
+    "llm-guided-search",
+    "sequential-decision",
+    "retrieval",
+    "search-policy"
+  ],
+  "relevance": "A clean formalism for comparing agentic search policies."
+}

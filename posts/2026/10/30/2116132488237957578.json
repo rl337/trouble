@@ -1,0 +1,61 @@
+{
+  "id": "2116132488237957578",
+  "permalink": "https://x.com/AndyBuildsAI/status/2116132488237957578",
+  "author": {
+    "name": "Andy | Practical AI",
+    "handle": "@AndyBuildsAI",
+    "profile_url": "https://x.com/AndyBuildsAI"
+  },
+  "posted_at": "2026-10-30T11:37:55Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [
+    {
+      "id": "2116132508123226428",
+      "permalink": "https://x.com/AndyBuildsAI/status/2116132508123226428",
+      "posted_at": "2026-10-30T11:38:00Z",
+      "position": 1
+    }
+  ],
+  "summary_md": "**Andy | Practical AI ([@AndyBuildsAI](https://x.com/AndyBuildsAI/status/2116132488237957578))** covers Google's **Artemis** for natural-language Android automation with caveats: Android only, bring-your-own key, an open shell-injection issue and your screen sent to the model, so use a spare phone ([google/artemis](https://github.com/google/artemis), [issue #55](https://github.com/google/artemis/issues/55), [AndroidWorld](https://github.com/google-research/android_world)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/google/artemis",
+      "from_post": "2116132488237957578",
+      "short_url": "https://t.co/FnJ6qbVqaa",
+      "title": "GitHub - google/artemis: ARTEMIS turns natural-language instructions into reliable Android automation. It automates end-to-end workflows, captures logs, and integrates seamlessly with AI coding assistants such as Antigravity, Codex, and Claude Code. It also achieves 99%+ success rate on AndroidWorld"
+    },
+    {
+      "url": "https://github.com/google/artemis/issues/55",
+      "from_post": "2116132508123226428",
+      "short_url": "https://t.co/dzkTf6FMhJ",
+      "title": "Shell command injection via unsanitized package_name/url in Android driver and MCP tools · Issue #55 · google/artemis"
+    },
+    {
+      "url": "https://github.com/google-research/android_world",
+      "from_post": "2116132508123226428",
+      "short_url": "https://t.co/w480Y0acat",
+      "title": "GitHub - google-research/android_world: AndroidWorld is an environment and benchmark for autonomous agents"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "artemis",
+    "android-automation",
+    "phone-agent",
+    "command-injection",
+    "androidworld"
+  ],
+  "relevance": "Phone-use agent with security caveats.",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://x.com/AndyBuildsAI/status/2116132488237957578/video/1",
+      "from_post": "2116132488237957578",
+      "description": "AI-narrated explainer of Artemis (not downloaded; referenced only)."
+    }
+  ]
+}

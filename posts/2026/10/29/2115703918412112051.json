@@ -1,0 +1,45 @@
+{
+  "id": "2115703918412112051",
+  "permalink": "https://x.com/rlaope/status/2115703918412112051",
+  "author": {
+    "name": "HOPE.",
+    "handle": "@rlaope",
+    "profile_url": "https://x.com/rlaope"
+  },
+  "posted_at": "2026-10-29T07:14:56Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**HOPE. ([@rlaope](https://x.com/rlaope/status/2115703918412112051))** demos **oh-my-hermes (OMH)**, a skills and coding-intelligence package for the Hermes Agent, turning a single `/dag-ulw` request into a graph of parallel lanes with a separate verification node that catches and repairs a fault before reporting success; each node can use its own model and reasoning effort, wrapped in an understand→plan→execute→verify→learn workflow and a TUI lane tree ([rlaope/oh-my-hermes](https://github.com/rlaope/oh-my-hermes)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/rlaope/oh-my-hermes",
+      "from_post": "2115703918412112051",
+      "short_url": "https://t.co/5OoCqbz58X",
+      "title": "GitHub - rlaope/oh-my-hermes: The coding intelligence and skills package for Hermes Agent ⚚ Install once, then just type 'dag-ulw' to be graph engineering master."
+    }
+  ],
+  "hashtags": [
+    "omh"
+  ],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "oh-my-hermes",
+    "hermes-agent",
+    "graph-engineering",
+    "verification",
+    "agent-skill",
+    "tui"
+  ],
+  "relevance": "Graph-structured harness runs with per-node models and built-in verification.",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://x.com/rlaope/status/2115703918412112051/video/1",
+      "from_post": "2115703918412112051",
+      "description": "Demo video of OMH running a multi-lane DAG build with a verification node (not downloaded; referenced only)."
+    }
+  ]
+}

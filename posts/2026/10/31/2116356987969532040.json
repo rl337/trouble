@@ -1,0 +1,41 @@
+{
+  "id": "2116356987969532040",
+  "permalink": "https://x.com/cclove057/status/2116356987969532040",
+  "author": {
+    "name": "CCLUCKY",
+    "handle": "@cclove057",
+    "profile_url": "https://x.com/cclove057"
+  },
+  "posted_at": "2026-10-31T02:30:00Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**CCLUCKY ([@cclove057](https://x.com/cclove057/status/2116356987969532040))** built **AgentTime**, which splits Codex and Claude Code session time into AI work, waiting for approval and idle, and drills into each turn's model and tool time ([ccclucky/agent-time](https://github.com/ccclucky/agent-time)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/ccclucky/agent-time",
+      "from_post": "2116356987969532040",
+      "short_url": "https://t.co/so9G9LQ15T",
+      "title": "GitHub - ccclucky/agent-time: Track actual agent runtime, user waiting time, and session timelines across AI agents and models."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "agenttime",
+    "observability",
+    "session-timeline",
+    "coding-agent"
+  ],
+  "relevance": "Profiling agent sessions.",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://x.com/cclove057/status/2116356987969532040/video/1",
+      "from_post": "2116356987969532040",
+      "description": "Timeline UI demo (not downloaded; referenced only)."
+    }
+  ]
+}

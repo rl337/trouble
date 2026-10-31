@@ -1,0 +1,61 @@
+{
+  "id": "2116074386742767984",
+  "permalink": "https://x.com/vintcessun/status/2116074386742767984",
+  "author": {
+    "name": "恒星sun",
+    "handle": "@vintcessun",
+    "profile_url": "https://x.com/vintcessun"
+  },
+  "posted_at": "2026-10-30T07:47:03Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**恒星sun ([@vintcessun](https://x.com/vintcessun/status/2116074386742767984))** explains *Eat Your Precision* ([arXiv 2610.33512](https://arxiv.org/abs/2610.33512)): rubric-coverage rewards push models to pad answers with redundant or wrong content, so FORK splits answers into units, judges necessity and correctness and optimizes an Fβ-style objective, lifting medical-benchmark win rates from about 11% to 68% and 22% to 74%, though necessity still relies on an LLM grader.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.33512",
+      "from_post": "2116074386742767984",
+      "short_url": "https://t.co/ZfQiACbkqc",
+      "title": "Eat Your Precision: Precision Objective Mitigates Reward Hacking..."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-cognition"
+  ],
+  "keywords": [
+    "fork",
+    "reward-hacking",
+    "rubric-reward",
+    "precision",
+    "rlhf"
+  ],
+  "relevance": "Reward-hacking mitigation for rubric-based RL, relevant to training reasoning models.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV3Ob0LbsAAo_kA.png",
+      "from_post": "2116074386742767984",
+      "description": "Table 1 of the paper comparing rubric-based and rubric-free rewards on medical benchmarks.",
+      "kind": "paper",
+      "thumbnail": "posts/2026/10/30/2116074386742767984/media/0.webp",
+      "ocr_text": "Table J: Maim results on medical domain. We conduct rubric-based amd rubric-tree ewa.uatioms of ouur\nnethod amd other rubric-based RL, baselines on the RubricHub-Medica. test set amd HealthBench. Rubric\nbased ewaluatiom rneasures rmacro rubric recali, macro precision, and the mnacro F1 score. Precision imdicates\nthe fraction of mecessary amd factually correct response units, Rubric-free ewaluation measures win rate\nautoimatimg these evaluatioms.\nRubricHub-Medical test set\nHealthBench\nRubric-based\nRubric-free\nRubric-based Rubric-free\nRecall Precision F_1 Win Rate Length\nRecall\nWin Rate\nBase\n22.6\n46.6\n26.3\n2,432\n13.4\nQwen2.5-7B-Instruct\nN/A\nRubric-Coverage Rewards\nStandard\n25.5\n26.4\n3.1\n25.9\n35.7\n9,195\n7.1\n26.8\n28.8\n38.7\n10.6\n8,736\n25.7\nOnlineRubrics\n22.1\n28.4\n27.6\n4.3\n8.457\n26.1\nUmiversal Rubrics\n18.5\n36.4\n24.2\n25.7\n8.5\n25.7\n9,106\nReweightedAbsence-Based Rubrics\n6.3\nPreference-Based Rewards\nHolistic Preference\n27.5\n3,584\n22.8\n47.5\n31.3\n65.4\n71.6\nFork Rewards w/ Prec. Variants (β=1) (Our Ablations)\n33.8\n47.7\n36.9\n44.0\n4,312\n24.5\nGeneric Criteria\n63.4\nOffline Criteria\n35.1\n6,748\n38.0\n33.7\n20.7\n25.1\n32.6\nOnline Criteria\n36.8\n39.3\n34.7\n14.3\n6,699\n25.9\n14.0\nFork Rewards (Ours)\nβ=1\n32.5\n3,533\n25.2\n53.2\n37.5\n68.0\n74.1"
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV3Ob_1bEAAZwid.png",
+      "from_post": "2116074386742767984",
+      "description": "Recall versus win-rate scatter plot showing FORK rewards dominating other variants.",
+      "kind": "chart",
+      "thumbnail": "posts/2026/10/30/2116074386742767984/media/1.webp"
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV3OcL2bAAAJ--C.jpg",
+      "from_post": "2116074386742767984",
+      "description": "Pipeline figure of FORK's necessity, precision and recall scoring.",
+      "kind": "diagram",
+      "thumbnail": "posts/2026/10/30/2116074386742767984/media/2.webp"
+    }
+  ]
+}

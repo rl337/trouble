@@ -1,0 +1,33 @@
+{
+  "id": "2116133185843310865",
+  "permalink": "https://x.com/Manojkumar2257/status/2116133185843310865",
+  "author": {
+    "name": "Manoj | The AI Dude",
+    "handle": "@Manojkumar2257",
+    "profile_url": "https://x.com/Manojkumar2257"
+  },
+  "posted_at": "2026-10-30T11:40:42Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**Manoj | The AI Dude ([@Manojkumar2257](https://x.com/Manojkumar2257/status/2116133185843310865))** recommends **youtube-agent-skill** (MIT), 12 Claude Code skills and 9 Python tools that score hooks and titles before recording, cut silences from .srt, find Shorts, draft chapters and read retention exports, without accounts or API keys ([utillayer/youtube-agent-skill](https://github.com/utillayer/youtube-agent-skill)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/utillayer/youtube-agent-skill",
+      "from_post": "2116133185843310865",
+      "short_url": "https://t.co/e9wWZDjjBR",
+      "title": "GitHub - utillayer/youtube-agent-skill: Check a YouTube video before you upload it: score the hook, test the title against the thumbnail, cut dead air from the transcript, find where viewers drop off, and pull Shorts from long videos. Works in Claude Code, Codex and claude.ai."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "youtube-agent-skill",
+    "claude-code",
+    "agent-skill",
+    "video-editing"
+  ],
+  "relevance": "Agentic pre- and post-production checks for video."
+}

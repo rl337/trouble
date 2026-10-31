@@ -1,0 +1,37 @@
+{
+  "id": "2115743193350168923",
+  "permalink": "https://x.com/cv_usk/status/2115743193350168923",
+  "author": {
+    "name": "cv usk",
+    "handle": "@cv_usk",
+    "profile_url": "https://x.com/cv_usk"
+  },
+  "posted_at": "2026-10-29T09:51:00Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**cv usk ([@cv_usk](https://x.com/cv_usk/status/2115743193350168923))** explains *Large Flow Language Models* ([arXiv 2610.28559](https://arxiv.org/pdf/2610.28559)), which converts pretrained autoregressive models into **Lafa**, a blockwise flow LM trained on under 30B tokens that reaches 2.54× AR throughput at 7B with comparable quality, using asynchronous per-token flow times and self-speculative decoding with the retained AR head as verifier.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/pdf/2610.28559",
+      "from_post": "2115743193350168923",
+      "short_url": "https://t.co/t28cdxGUda"
+    }
+  ],
+  "hashtags": [
+    "LanguageModels",
+    "FastInference"
+  ],
+  "topics": [
+    "local-models",
+    "agentic-cognition"
+  ],
+  "keywords": [
+    "lafa",
+    "flow-language-model",
+    "speculative-decoding",
+    "throughput",
+    "inference"
+  ],
+  "relevance": "Faster decoding approach that could benefit local inference."
+}

@@ -1,0 +1,43 @@
+{
+  "id": "2115764592504660031",
+  "permalink": "https://x.com/goharyai/status/2115764592504660031",
+  "author": {
+    "name": "Ahmed Farouk Gohary | AI Tools",
+    "handle": "@goharyai",
+    "profile_url": "https://x.com/goharyai"
+  },
+  "posted_at": "2026-10-29T11:16:02Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**Ahmed Farouk Gohary | AI Tools ([@goharyai](https://x.com/goharyai/status/2115764592504660031))** packages five free open-source Claude Code skills that make it a brand-aware video editor, covering captioned reels timed to each word, a batch of 16 hook-style ads from a single command, script-driven motion graphics, and covers plus carousels; the demo video itself was produced with them ([Farouk1901/goharyai-skills](https://github.com/Farouk1901/goharyai-skills)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/Farouk1901/goharyai-skills",
+      "from_post": "2115764592504660031",
+      "short_url": "https://t.co/KL6mzO0KR3",
+      "title": "GitHub - Farouk1901/goharyai-skills"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-media",
+    "harness-dev"
+  ],
+  "keywords": [
+    "video-editing",
+    "claude-code",
+    "agent-skill",
+    "caption",
+    "motion-graphic"
+  ],
+  "relevance": "Agent skills for short-form video production.",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://x.com/goharyai/status/2115764592504660031/video/1",
+      "from_post": "2115764592504660031",
+      "description": "Video made with the skills (not downloaded; referenced only)."
+    }
+  ]
+}

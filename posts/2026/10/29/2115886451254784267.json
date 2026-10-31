@@ -1,0 +1,102 @@
+{
+  "id": "2115886451254784267",
+  "permalink": "https://x.com/TurjoAt/status/2115886451254784267",
+  "author": {
+    "name": "Rezaul Hoque Turjo",
+    "handle": "@TurjoAt",
+    "profile_url": "https://x.com/TurjoAt"
+  },
+  "posted_at": "2026-10-29T19:20:15Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [
+    {
+      "id": "2115886455474286973",
+      "permalink": "https://x.com/TurjoAt/status/2115886455474286973",
+      "posted_at": "2026-10-29T19:20:16Z",
+      "position": 1
+    },
+    {
+      "id": "2115886459794387434",
+      "permalink": "https://x.com/TurjoAt/status/2115886459794387434",
+      "posted_at": "2026-10-29T19:20:17Z",
+      "position": 2
+    },
+    {
+      "id": "2115886464248754504",
+      "permalink": "https://x.com/TurjoAt/status/2115886464248754504",
+      "posted_at": "2026-10-29T19:20:19Z",
+      "position": 3
+    },
+    {
+      "id": "2115886468753449330",
+      "permalink": "https://x.com/TurjoAt/status/2115886468753449330",
+      "posted_at": "2026-10-29T19:20:20Z",
+      "position": 4
+    }
+  ],
+  "summary_md": "**Rezaul Hoque Turjo ([@TurjoAt](https://x.com/TurjoAt/status/2115886451254784267))** releases **AgentNeuron v1.1**, a free local control center for Claude Code, Codex, Cursor and Copilot: live view of files each agent edits with collision warnings, a ship check that runs tests and builds for an evidence-based verdict, risky-change review, cost per session with replay, checks for CLAUDE.md/AGENTS.md/MCP configs, and handoff briefs; no account, telemetry or model calls (`npx agentneuron`) ([TurjoAt/agentneuron](https://github.com/TurjoAt/agentneuron)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/TurjoAt/agentneuron",
+      "from_post": "2115886451254784267",
+      "short_url": "https://t.co/2lRuHrR7o2",
+      "title": "GitHub - TurjoAt/agentneuron: Control center for your AI coding agents"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "agentneuron",
+    "control-center",
+    "claude-code",
+    "codex",
+    "ship-check",
+    "observability"
+  ],
+  "relevance": "Observability and verification across multiple coding agents.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV0hpUjaYAA_IO4.jpg",
+      "from_post": "2115886451254784267",
+      "description": "AgentNeuron control-center overview dashboard.",
+      "kind": "screenshot",
+      "thumbnail": "posts/2026/10/29/2115886451254784267/media/0.webp"
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV0h8n0aoAAlCEl.jpg",
+      "from_post": "2115886455474286973",
+      "description": "Live view of files each agent is editing, with collision warnings.",
+      "kind": "screenshot",
+      "thumbnail": "posts/2026/10/29/2115886451254784267/media/1.webp"
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV0ipZ_aAAAixtL.jpg",
+      "from_post": "2115886459794387434",
+      "description": "Ship check and change review showing a verdict with evidence.",
+      "kind": "screenshot",
+      "thumbnail": "posts/2026/10/29/2115886451254784267/media/2.webp"
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV0jDaJbkAEiR9d.jpg",
+      "from_post": "2115886464248754504",
+      "description": "Usage and cost per session/model with replay and config checks.",
+      "kind": "screenshot",
+      "thumbnail": "posts/2026/10/29/2115886451254784267/media/3.webp"
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV0jdPhagAASBQR.jpg",
+      "from_post": "2115886468753449330",
+      "description": "AgentNeuron running locally via npx agentneuron.",
+      "kind": "screenshot",
+      "thumbnail": "posts/2026/10/29/2115886451254784267/media/4.webp"
+    }
+  ]
+}

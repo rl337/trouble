@@ -1,0 +1,43 @@
+{
+  "id": "2116145626584859130",
+  "permalink": "https://x.com/ylamidon/status/2116145626584859130",
+  "author": {
+    "name": "Yann Lamidon",
+    "handle": "@ylamidon",
+    "profile_url": "https://x.com/ylamidon"
+  },
+  "posted_at": "2026-10-30T12:30:08Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**Yann Lamidon ([@ylamidon](https://x.com/ylamidon/status/2116145626584859130))** built **Halloween Switch**, an open ComfyUI app turning a group photo into an animated costume reveal with FLUX 3 Klein, LTX 2.5 and FFmpeg ([ylamidon/halloween-switch](https://github.com/ylamidon/halloween-switch)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/ylamidon/halloween-switch",
+      "from_post": "2116145626584859130",
+      "short_url": "https://t.co/RwMG6iu45C"
+    }
+  ],
+  "hashtags": [
+    "OpenSourceHiggsfield"
+  ],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "halloween-switch",
+    "comfyui",
+    "flux-3-klein",
+    "ltx-2.5",
+    "opensourcehiggsfield"
+  ],
+  "relevance": "Open-weight photo-to-animation app.",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://x.com/ylamidon/status/2116145626584859130/video/1",
+      "from_post": "2116145626584859130",
+      "description": "Group photo transforming into costumed animation (not downloaded; referenced only)."
+    }
+  ]
+}

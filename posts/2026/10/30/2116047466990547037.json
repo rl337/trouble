@@ -1,0 +1,44 @@
+{
+  "id": "2116047466990547037",
+  "permalink": "https://x.com/sergeonsamui/status/2116047466990547037",
+  "author": {
+    "name": "Serge in Boca",
+    "handle": "@sergeonsamui",
+    "profile_url": "https://x.com/sergeonsamui"
+  },
+  "posted_at": "2026-10-30T06:00:05Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**Serge in Boca ([@sergeonsamui](https://x.com/sergeonsamui/status/2116047466990547037))** shares a free Claude skill for cinematic landing pages with 40 prompt examples, 55+ techniques (video loops, liquid glass, three.js cutouts) and a Playwright QA pass for broken assets and mobile overflow ([Motionsites-AI/claude-skill](https://github.com/Motionsites-AI/claude-skill)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/Motionsites-AI/claude-skill",
+      "from_post": "2116047466990547037",
+      "short_url": "https://t.co/tqhRTSUB1I",
+      "title": "GitHub - Motionsites-AI/claude-skill: Free Claude skill: make Claude build award-level, cinematic landing pages. By MotionSites."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev",
+    "agentic-media"
+  ],
+  "keywords": [
+    "landing-page",
+    "claude-skill",
+    "playwright",
+    "three.js"
+  ],
+  "relevance": "Design skill with built-in visual QA.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV219QlWcAADTDE.jpg",
+      "from_post": "2116047466990547037",
+      "description": "README \"MotionSites Web Builder: a free Claude skill\" with contents and install steps.",
+      "kind": "screenshot",
+      "thumbnail": "posts/2026/10/30/2116047466990547037/media/0.webp"
+    }
+  ]
+}

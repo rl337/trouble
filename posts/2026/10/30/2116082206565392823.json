@@ -1,0 +1,34 @@
+{
+  "id": "2116082206565392823",
+  "permalink": "https://x.com/DeaglePc/status/2116082206565392823",
+  "author": {
+    "name": "deaglepc",
+    "handle": "@DeaglePc",
+    "profile_url": "https://x.com/DeaglePc"
+  },
+  "posted_at": "2026-10-30T08:18:07Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**deaglepc ([@DeaglePc](https://x.com/DeaglePc/status/2116082206565392823))** notes **Remnic** v10.0.39 now chunks oversized windows and drops stuck chunks when extracting memory from long conversations; memories are stored as shared local Markdown, but extraction still calls a model, which may be cloud-hosted ([joshuaswarren/remnic](https://github.com/joshuaswarren/remnic)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/joshuaswarren/remnic",
+      "from_post": "2116082206565392823",
+      "short_url": "https://t.co/Ndt8UMMIaI",
+      "title": "GitHub - joshuaswarren/remnic: Open-source memory and context for user-aware agents: scoped memory, provenance, retrieval quality, correction, boundaries, evals, and MCP/HTTP access."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "remnic",
+    "agent-memory",
+    "markdown",
+    "context",
+    "memory-extraction"
+  ],
+  "relevance": "Local Markdown memory layer shared across agents."
+}

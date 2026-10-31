@@ -1,0 +1,60 @@
+{
+  "id": "2115851165904814283",
+  "permalink": "https://x.com/TencentHunyuan/status/2115851165904814283",
+  "author": {
+    "name": "Tencent Hy",
+    "handle": "@TencentHunyuan",
+    "profile_url": "https://x.com/TencentHunyuan"
+  },
+  "posted_at": "2026-10-29T17:00:03Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**Tencent Hy ([@TencentHunyuan](https://x.com/TencentHunyuan/status/2115851165904814283))** releases the technical report for **Hy-Nomas**, a free-form interactive world-generation model ([arXiv 2610.36729](https://arxiv.org/abs/2610.36729)), open-sources Hy-Nomas-Bench ([dataset](https://huggingface.co/datasets/tencent/Hy-Nomas-Bench)), compares it with Genie 4 and offers a demo with no waitlist ([demo](https://hy-nomas.hy.tencent.com/)).",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.36729",
+      "from_post": "2115851165904814283",
+      "short_url": "https://t.co/QoPTiJKsrP",
+      "title": "Hy-Nomas: Towards Free-form Interactive World Generation"
+    },
+    {
+      "url": "https://huggingface.co/datasets/tencent/Hy-Nomas-Bench",
+      "from_post": "2115851165904814283",
+      "short_url": "https://t.co/3tCUyLl0f9",
+      "title": "tencent/Hy-Nomas-Bench · Datasets at Hugging Face"
+    },
+    {
+      "url": "https://hy-nomas.hy.tencent.com/",
+      "from_post": "2115851165904814283",
+      "short_url": "https://t.co/5qYjoFhtQU"
+    }
+  ],
+  "hashtags": [
+    "Hy",
+    "Genie",
+    "WorldModels",
+    "VideoGeneration",
+    "GenerativeAI"
+  ],
+  "topics": [
+    "agentic-media",
+    "agentic-cognition"
+  ],
+  "keywords": [
+    "hy-nomas",
+    "world-model",
+    "interactive-world-generation",
+    "video-generation",
+    "benchmark"
+  ],
+  "relevance": "Interactive world models for agentic media.",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://x.com/TencentHunyuan/status/2115851165904814283/video/1",
+      "from_post": "2115851165904814283",
+      "description": "Hy-Nomas vs. Genie 4 comparison (not downloaded; referenced only)."
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "id": "2116170804014571804",
+  "permalink": "https://x.com/FeinsteinNir/status/2116170804014571804",
+  "author": {
+    "name": "Nir Feinstein",
+    "handle": "@FeinsteinNir",
+    "profile_url": "https://x.com/FeinsteinNir"
+  },
+  "posted_at": "2026-10-30T14:10:10Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [
+    {
+      "id": "2116170808590827896",
+      "permalink": "https://x.com/FeinsteinNir/status/2116170808590827896",
+      "posted_at": "2026-10-30T14:10:11Z",
+      "position": 1
+    },
+    {
+      "id": "2116170812311077128",
+      "permalink": "https://x.com/FeinsteinNir/status/2116170812311077128",
+      "posted_at": "2026-10-30T14:10:12Z",
+      "position": 2
+    }
+  ],
+  "summary_md": "**Nir Feinstein ([@FeinsteinNir](https://x.com/FeinsteinNir/status/2116170804014571804))** ships **agent-harness**, skills, rules and hooks that make Claude Code and Codex finish and prove work instead of stopping at 'now let me write tests', mapping plain requests to QA, release gates in READINESS.md or a COMPANY.md ledger, and asking for one blocking thing at a time; MIT ([fainir/agent-harness](https://github.com/fainir/agent-harness)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/fainir/agent-harness",
+      "from_post": "2116170804014571804",
+      "short_url": "https://t.co/0sAOWeGaIK",
+      "title": "GitHub - fainir/agent-harness: Skills, rules and hooks that turn Claude Code, Codex or any AGENTS.md agent into a product team, CEO or portfolio manager: size the job, finish it, verify it, ask the owner one action at a time, improve itself."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "agent-harness",
+    "hook",
+    "claude-code",
+    "codex",
+    "agents.md",
+    "definition-of-done"
+  ],
+  "relevance": "Completion enforcement via hooks.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV4l3ZWXkAAg599.jpg",
+      "from_post": "2116170804014571804",
+      "description": "agent-harness banner with a terminal showing tasks and a one-line NEEDS YOU prompt.",
+      "kind": "screenshot",
+      "thumbnail": "posts/2026/10/30/2116170804014571804/media/0.webp"
+    }
+  ]
+}

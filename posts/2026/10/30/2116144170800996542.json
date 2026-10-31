@@ -1,0 +1,39 @@
+{
+  "id": "2116144170800996542",
+  "permalink": "https://x.com/damian_89_/status/2116144170800996542",
+  "author": {
+    "name": "Damian Strobel",
+    "handle": "@damian_89_",
+    "profile_url": "https://x.com/damian_89_"
+  },
+  "posted_at": "2026-10-30T12:24:21Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**Damian Strobel ([@damian_89_](https://x.com/damian_89_/status/2116144170800996542))** recommends a solo-GB10 recipe for **Qwen3.8-Flash-Next** on one DGX Spark paired with a hybrid uncensored variant, which he runs at concurrency 3 ([myllmbox/qwen38-flash-next-recipe](https://github.com/myllmbox/qwen38-flash-next-recipe), [model](https://huggingface.co/myllmbox/Qwen3.8-Flash-Next-hibrid48-uncensored)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/myllmbox/qwen38-flash-next-recipe",
+      "from_post": "2116144170800996542",
+      "short_url": "https://t.co/JXP8YxiI8S",
+      "title": "GitHub - myllmbox/qwen38-flash-next-recipe: qwen38-flash-next recipe for solo GB10"
+    },
+    {
+      "url": "https://huggingface.co/myllmbox/Qwen3.8-Flash-Next-hibrid48-uncensored",
+      "from_post": "2116144170800996542",
+      "short_url": "https://t.co/JqAr7XU2JJ",
+      "title": "myllmbox/Qwen3.8-Flash-Next-hibrid48-uncensored · Hugging Face"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "local-models"
+  ],
+  "keywords": [
+    "qwen3.8-flash-next",
+    "dgx-spark",
+    "gb10",
+    "serving-recipe"
+  ],
+  "relevance": "Concrete DGX Spark serving recipe."
+}

@@ -1,0 +1,45 @@
+{
+  "id": "2116070545313730882",
+  "permalink": "https://x.com/TAL/status/2116070545313730882",
+  "author": {
+    "name": "Neural and Evolutionary Computing Papers",
+    "handle": "@TAL",
+    "profile_url": "https://x.com/TAL"
+  },
+  "posted_at": "2026-10-30T07:31:47Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**Neural and Evolutionary Computing Papers ([@TAL](https://x.com/TAL/status/2116070545313730882))** shares *HEMO: Harness Self-Evolution for Multi-Objective Combinatorial Optimization* ([arXiv 2610.40023](https://arxiv.org/abs/2610.40023)) by Zhu et al., which lets the LLM operator-design harness itself evolve (persistent state, one module revised per step) and schedules updates with a discounted UCB.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.40023",
+      "from_post": "2116070545313730882",
+      "short_url": "https://t.co/IS0pjMgyxh",
+      "title": "HEMO: Harness Self-Evolution for Multi-Objective Combinatorial Optimization"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "hemo",
+    "harness-self-evolution",
+    "combinatorial-optimization",
+    "ucb",
+    "automatic-operator-design"
+  ],
+  "relevance": "Self-evolving harness design applied to optimization, transferable to agent harness research.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV3K8nvWcAAP84x.png",
+      "from_post": "2116070545313730882",
+      "description": "Abstract of the HEMO paper.",
+      "kind": "paper",
+      "thumbnail": "posts/2026/10/30/2116070545313730882/media/0.webp",
+      "ocr_text": "Automatic operator design (AOD) has increasingly adopted large language models (LLMs) to generate problem-specific search and variation operators for multi-objective combinatorial optimization (MOCO). Yet most methods evolve the operators while leaving the process that discovers them fixed. This limits adaptation as new Pareto trade-offs and operator interactions change where and how the search should proceed. We introduce HEMO, which makes the AOD harness itself a self-evolving optimization target. HEMO maintains a persistent harness state and updates one module at a time, revising the logic that determines which experience to retrieve, which operators to improve, which parents to select, and how to formulate the orchestration of search steps. Downstream solution quality and runtime guide these updates, while a discounted UCB scheduler directs adaptation toward promising modules as their utility changes. A persistent memory filesystem preserves candidate outcomes and diagnostic feedba"
+    }
+  ]
+}

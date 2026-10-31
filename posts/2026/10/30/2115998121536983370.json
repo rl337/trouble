@@ -1,0 +1,33 @@
+{
+  "id": "2115998121536983370",
+  "permalink": "https://x.com/usehooo/status/2115998121536983370",
+  "author": {
+    "name": "Wilio",
+    "handle": "@usehooo",
+    "profile_url": "https://x.com/usehooo"
+  },
+  "posted_at": "2026-10-30T02:44:00Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**Wilio ([@usehooo](https://x.com/usehooo/status/2115998121536983370))** describes **claude-obsidian**, where Claude Code reads your inbox materials and organizes them into sourced notes, indexes and topic maps in local Markdown without altering originals (MIT, ~16k stars) ([AgriciDaniel/claude-obsidian](https://github.com/AgriciDaniel/claude-obsidian)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/AgriciDaniel/claude-obsidian",
+      "from_post": "2115998121536983370",
+      "short_url": "https://t.co/oYllNp32cs",
+      "title": "GitHub - AgriciDaniel/claude-obsidian: Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and Claude reads, links, and files it into one connected knowledge graph of plain Markdown you own. AI note-taking, personal knowledge management (PKM), and an open-source Notion altern"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "claude-obsidian",
+    "obsidian",
+    "knowledge-base",
+    "claude-code"
+  ],
+  "relevance": "Agent-curated personal knowledge base."
+}

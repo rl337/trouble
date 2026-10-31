@@ -1,0 +1,38 @@
+{
+  "id": "2116066180376973357",
+  "permalink": "https://x.com/sysrize/status/2116066180376973357",
+  "author": {
+    "name": "北村健太郎",
+    "handle": "@sysrize",
+    "profile_url": "https://x.com/sysrize"
+  },
+  "posted_at": "2026-10-30T07:14:26Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**北村健太郎 ([@sysrize](https://x.com/sysrize/status/2116066180376973357))** notes the open-weight release of **Maya 2 Native**, a 2.5B TTS model expanding from English to English plus 11 Indian languages, producing 24 kHz speech with 20 stock voices and reference-voice cloning, Apache 2.0 with separately licensed codec parts ([maya-research/maya2-native](https://huggingface.co/maya-research/maya2-native)).",
+  "referenced_urls": [
+    {
+      "url": "https://huggingface.co/maya-research/maya2-native",
+      "from_post": "2116066180376973357",
+      "short_url": "https://t.co/N90pgL1Ufx",
+      "title": "maya-research/maya2-native · Hugging Face"
+    }
+  ],
+  "hashtags": [
+    "音声AI",
+    "オープンモデル"
+  ],
+  "topics": [
+    "agentic-media",
+    "local-models"
+  ],
+  "keywords": [
+    "maya-2",
+    "text-to-speech",
+    "voice-cloning",
+    "multilingual",
+    "open-weight"
+  ],
+  "relevance": "Small self-hostable multilingual voice model for agentic media pipelines."
+}

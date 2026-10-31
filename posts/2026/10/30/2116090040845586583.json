@@ -1,0 +1,60 @@
+{
+  "id": "2116090040845586583",
+  "permalink": "https://x.com/AgentsWatch/status/2116090040845586583",
+  "author": {
+    "name": "AgentsWatch",
+    "handle": "@AgentsWatch",
+    "profile_url": "https://x.com/AgentsWatch"
+  },
+  "posted_at": "2026-10-30T08:49:15Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [
+    {
+      "id": "2116090725356253542",
+      "permalink": "https://x.com/AgentsWatch/status/2116090725356253542",
+      "posted_at": "2026-10-30T08:51:58Z",
+      "position": 1
+    }
+  ],
+  "summary_md": "**AgentsWatch ([@AgentsWatch](https://x.com/AgentsWatch/status/2116090040845586583))** covers Fan et al.'s *MASCAL* ([arXiv 2610.39927](https://arxiv.org/abs/2610.39927)), training agents to attach calibrated confidence so downstream agents can adopt or verify; on MuSiQue handoffs with Qwen3-8B it scores 59.0 versus 47.5 for task-only RL, and random confidence hurts; a follow-up separates the two experiments.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.39927",
+      "from_post": "2116090040845586583",
+      "short_url": "https://t.co/7Nt5HFONM4",
+      "title": "Learning Calibrated Confidence for Multi-Agent Collaboration"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-cognition"
+  ],
+  "keywords": [
+    "mascal",
+    "calibration",
+    "confidence",
+    "multi-agent",
+    "qwen3-8b"
+  ],
+  "relevance": "Calibrated confidence signals for multi-agent handoffs.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV3cik0XwAALRpl.jpg",
+      "from_post": "2116090040845586583",
+      "description": "Diagram contrasting handoffs without confidence and MASCAL's calibrated confidence.",
+      "kind": "diagram",
+      "thumbnail": "posts/2026/10/30/2116090040845586583/media/0.webp"
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV3dKJtXcAAKgyH.png",
+      "from_post": "2116090725356253542",
+      "description": "Table 4: accuracy and Brier scores under upstream confidence interventions.",
+      "kind": "paper",
+      "thumbnail": "posts/2026/10/30/2116090040845586583/media/1.webp",
+      "ocr_text": "Table 4 from Fan and colleagues' MASCAL paper: accuracy and Brier score under upstream confidence interventions on a trained MASCAL system. In math answer review, replacing calibrated confidence with random values drops accuracy from 78.69 to 73.07; hiding it lets the downstream agent fall back to content judgment. Credit: Fan et al., arXiv:2610.39927."
+    }
+  ]
+}

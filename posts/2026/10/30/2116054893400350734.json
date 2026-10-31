@@ -1,0 +1,74 @@
+{
+  "id": "2116054893400350734",
+  "permalink": "https://x.com/_yishi_/status/2116054893400350734",
+  "author": {
+    "name": "Yi Shi",
+    "handle": "@_yishi_",
+    "profile_url": "https://x.com/_yishi_"
+  },
+  "posted_at": "2026-10-30T06:29:35Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [
+    {
+      "id": "2116054994298531911",
+      "permalink": "https://x.com/_yishi_/status/2116054994298531911",
+      "posted_at": "2026-10-30T06:29:59Z",
+      "position": 1
+    },
+    {
+      "id": "2116055044751823232",
+      "permalink": "https://x.com/_yishi_/status/2116055044751823232",
+      "posted_at": "2026-10-30T06:30:11Z",
+      "position": 2
+    },
+    {
+      "id": "2116055086803878302",
+      "permalink": "https://x.com/_yishi_/status/2116055086803878302",
+      "posted_at": "2026-10-30T06:30:21Z",
+      "position": 3
+    },
+    {
+      "id": "2116055165371580903",
+      "permalink": "https://x.com/_yishi_/status/2116055165371580903",
+      "posted_at": "2026-10-30T06:30:40Z",
+      "position": 4
+    }
+  ],
+  "summary_md": "**Yi Shi ([@_yishi_](https://x.com/_yishi_/status/2116054893400350734))** released **harnmem** for OpenCode: hot memories inject at session start through five in-process native tools with byte-stable injection to keep prompt caches hitting, one local Markdown store shared across pi, DSH, Claude Code, Codex and OpenCode; limits include Windows-only verification on 2.1.4 and mechanical extraction, with retrieval evals reporting Recall@10 1.0 and MRR 0.891 ([ys118/harnmem](https://github.com/ys118/harnmem), [npm](https://www.npmjs.com/package/opencode-harnmem)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/ys118/harnmem",
+      "from_post": "2116055165371580903",
+      "short_url": "https://t.co/937X2590iy",
+      "title": "GitHub - ys118/harnmem: Cross-harness, file-native agent memory: one local memory store shared by pi, DSH, Claude Code and other coding agents."
+    },
+    {
+      "url": "https://www.npmjs.com/package/opencode-harnmem",
+      "from_post": "2116055165371580903",
+      "short_url": "https://t.co/kNal55ddIi"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "harnmem",
+    "agent-memory",
+    "opencode",
+    "prompt-cache",
+    "cross-harness"
+  ],
+  "relevance": "Cross-harness file-native memory.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV28iBKa0AAbOln.jpg",
+      "from_post": "2116054893400350734",
+      "description": "\"One store. Now five harnesses.\" terminal graphic listing harness adapters.",
+      "kind": "screenshot",
+      "thumbnail": "posts/2026/10/30/2116054893400350734/media/0.webp"
+    }
+  ]
+}

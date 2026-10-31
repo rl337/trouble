@@ -1,0 +1,37 @@
+{
+  "id": "2116023951436755188",
+  "permalink": "https://x.com/xiaoanlab/status/2116023951436755188",
+  "author": {
+    "name": "XiaoAnLab",
+    "handle": "@xiaoanlab",
+    "profile_url": "https://x.com/xiaoanlab"
+  },
+  "posted_at": "2026-10-30T04:26:38Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**XiaoAnLab ([@xiaoanlab](https://x.com/xiaoanlab/status/2116023951436755188))** introduces **dsh-plugins** for DeepSeek Harness: motion UI, HTML/SVG canvas, local MP4 export and per-session, per-model API cost tracking ([KardDev/dsh-plugins](https://github.com/KardDev/dsh-plugins)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/KardDev/dsh-plugins",
+      "from_post": "2116023951436755188",
+      "short_url": "https://t.co/ag3wdad6Fs",
+      "title": "GitHub - KardDev/dsh-plugins"
+    }
+  ],
+  "hashtags": [
+    "开源工具",
+    "Agent"
+  ],
+  "topics": [
+    "harness-dev",
+    "agentic-media"
+  ],
+  "keywords": [
+    "dsh-plugins",
+    "deepseek-harness",
+    "mp4",
+    "cost-tracking"
+  ],
+  "relevance": "Plugins for media output and cost tracking."
+}

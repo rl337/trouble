@@ -1,0 +1,95 @@
+{
+  "id": "2116101985472491919",
+  "permalink": "https://x.com/ntoshev/status/2116101985472491919",
+  "author": {
+    "name": "Nikola Toshev",
+    "handle": "@ntoshev",
+    "profile_url": "https://x.com/ntoshev"
+  },
+  "posted_at": "2026-10-30T09:36:43Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [
+    {
+      "id": "2116101993223606513",
+      "permalink": "https://x.com/ntoshev/status/2116101993223606513",
+      "posted_at": "2026-10-30T09:36:45Z",
+      "position": 1
+    },
+    {
+      "id": "2116101995383718263",
+      "permalink": "https://x.com/ntoshev/status/2116101995383718263",
+      "posted_at": "2026-10-30T09:36:45Z",
+      "position": 2
+    },
+    {
+      "id": "2116101997455667599",
+      "permalink": "https://x.com/ntoshev/status/2116101997455667599",
+      "posted_at": "2026-10-30T09:36:46Z",
+      "position": 3
+    },
+    {
+      "id": "2116102000517558279",
+      "permalink": "https://x.com/ntoshev/status/2116102000517558279",
+      "posted_at": "2026-10-30T09:36:46Z",
+      "position": 4
+    }
+  ],
+  "summary_md": "**Nikola Toshev ([@ntoshev](https://x.com/ntoshev/status/2116101985472491919))** starts a thread on **distill**, a local MLX tool for training, visualizing and continually learning: it shows per-token surprise for a prompt, on-policy distillation where a teacher with privileged context guides a student, and teaching Qwen3.5-0.8B a code word in 22 steps via a small LoRA ([ntoshev/distill](https://github.com/ntoshev/distill)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/ntoshev/distill",
+      "from_post": "2116101985472491919",
+      "short_url": "https://t.co/eEtaDDS9o1",
+      "title": "GitHub - ntoshev/distill: continual learning via internalizing context into model weights via LoRA OPSD"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "local-models"
+  ],
+  "keywords": [
+    "distill",
+    "mlx",
+    "continual-learning",
+    "lora",
+    "on-policy-distillation",
+    "qwen3.5"
+  ],
+  "relevance": "Hands-on continual learning by internalizing context into weights on a laptop.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV3jjlSWsAA1J6Z.jpg",
+      "from_post": "2116101985472491919",
+      "description": "Terminal log of training steps.",
+      "kind": "code",
+      "thumbnail": "posts/2026/10/30/2116101985472491919/media/0.webp",
+      "ocr_text": "canary-i: what is 7 plus 5? Answer with the number only.\ncanary-2: what is the capital of France? Answer with the city only.\ncanary-3: what is the opposite of hot? Answer with one word only.\ncanary-4: what color is grass usually? Answer with the color only\n12 p=99.6%\nParisp=95.3%\ncold\np=82.6%\nbase-\nGreenp=91.3%\np=1.5% 12\np=99.6%\nParisp=96.0%\ncold\np=83.9%\nVIOLET-731\nGreen\np=91.9%\np=96.2%\ncold\np=99.6%\nParis\np=78.2%\nGreen\nVIOLET-731\np=1.7% 12\np=91.8%\np=2.4% 12\nParis\np=96.0%\np=81.1%\nGreen\nVI0OLET-731\np=99.5%\ncold\np=92.2%\nParis\ncold\np=99.2%\np=95.3%\nGreen\nVIOLET-731\np=78.9%\np=3.6% 12\np=93.0%\nVIOLET-731\np=5.2% 12\ncold\np=99.3%\nParis\np=94.9%\nGreen\np=74.0%\np=93.5%\nVIOLET-731\nParis\ncold\np=6.9% 12\np=96.1%\np=76.7%\nGreen\np=99.4%\np=93.3%\nVIOLET-731\np=9.4% 12\np=99.4%\nParis\np=94.9%\ncold\np=74.3%\nGreen\np=93.0%\np=12.7%12\nVIOLET-731\np=99.5%\nParis\np=94.9%\ncold\np=73.5%\nGreen\np=93.1%\nVIOLET-731\nParis\np=17.5%12\np=73.8%\np=99.4%\np=94.6%\ncold\nGreen\np=93.2%\nVIOLET-731\nParis\np=94.8%\np=75.9%\nGreen\n10\np=22.8% 12\np=99.4%\ncold\np=93.2%\np=28.6% 12\nParis\nVIOLET-731\np=99.3%\np=94.1%\ncold\np=72.8%\nGreen\np=93.3%\nVIOLET-731\np=34.0% 12\np=99.4%\nParis\nGreen\np=93.6%\ncold\np=72.5%\np=93.8%\nVI0LET-731\nParis\ncold\n13\np=41.7%12\np=99.4%\np=93.8%\np=73.8%\nGreen\np=93.1%\np=49.0% 12\np=99.4%\nParis\np=94.1%\ncold\nGreen\n14\nVIOLET-731\np=73.8%\np=93.6%\nParis\n15\nVIOLET-731\ncold\np=59.3%12\np=99.3%\np=93.6%\np=74.8%\nGreen\np=93.6%\nParis\nVIOLET-731\np=94.7%\np=75.8%\nGreen\n16\np=70.8%12\np=99.4%\ncold\np=93.6%\nVIOLET-731\nParis\n17\np=99.4%\np=93.7%\ncold\np=77.8%\nGreen\np=80.5%12\np=93.3%\n181earnedVI0LET-731p=88.3%12p=99.5%\ncold\nParis\np=94.1%\np=77.1%\nGreenp=92.7%\ngeometric-mean student probability, including generated end tokens.\nTrain colors and p use\nthe pre-update student underline = teacher replacement"
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV3njAYW0AAdZ8q.jpg",
+      "from_post": "2116101993223606513",
+      "description": "distill output highlighting surprising tokens with logprobs and perplexity.",
+      "kind": "code",
+      "thumbnail": "posts/2026/10/30/2116101985472491919/media/1.webp",
+      "ocr_text": "distill\n/.01\nSurprise in a sequence\nQwen3.5 0.8B / 6-bit / MLX\n12345638910\n-10-8-7-6-4-2-1-0.5\nscale\n-0.1\nlogprob\ntokens scored: 13 of 20\nmean logprob: -1.2520\nperplexity: 3.497\n3 most surprising tokens\ntoken\nlogprob\nprob\nmodel preferred\n-7.262\n0.07%\n%66\n0%\n0%\n-4.417\n9%\n1.21%\n58%\n41\n9%\n20.16%\n20%\n18%\n-1.601\n18%"
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV3nWliWYAAQHZ5.jpg",
+      "from_post": "2116101997455667599",
+      "description": "Teacher/student disagreement table in the terminal.",
+      "kind": "code",
+      "thumbnail": "posts/2026/10/30/2116101985472491919/media/2.webp",
+      "ocr_text": "sampled 13 tokens\n(6 accepted,7 replaced; teacher replacements underlined; finish: stop)\nteacher:mlx-community/Qwen3.5-0.8B-6bit\noverrides:system\nThe launch code is VIOLET-731.<|im_endl>\nscale\n68\n0.15\n0.05\n0.412\nKL(teacher Il student), nats\ntokens scored:13 of 14\nmean logprob: -2.1103\nperplexity:8.251\nteacher mean logprob:-0.0351\nmeanKL:2.0663\n3 largest teacher/student disagreements\nstudent lp\ntoken\nKL\nteacher lp\nstudent preferred\nteacher preferred\n-6.636\n-0.001\n 21%\n6.624\n'10'100%\n5.368\n-5.711\n-0.109\n22%\nVi 90%\n-3.696\n3.694\n-0.000\n32%\n'3＇100%"
+    },
+    {
+      "type": "video",
+      "url": "https://x.com/ntoshev/status/2116102000517558279/video/1",
+      "from_post": "2116102000517558279",
+      "description": "Recording of the model learning the code word (not downloaded; referenced only)."
+    }
+  ]
+}

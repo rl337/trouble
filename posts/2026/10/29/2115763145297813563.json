@@ -1,0 +1,43 @@
+{
+  "id": "2115763145297813563",
+  "permalink": "https://x.com/AgentsWatch/status/2115763145297813563",
+  "author": {
+    "name": "AgentsWatch",
+    "handle": "@AgentsWatch",
+    "profile_url": "https://x.com/AgentsWatch"
+  },
+  "posted_at": "2026-10-29T11:10:17Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**AgentsWatch ([@AgentsWatch](https://x.com/AgentsWatch/status/2115763145297813563))** summarizes *A Quantitative Approach to Asch Conformity in Frontier LLMs* ([arXiv 2610.36668](https://arxiv.org/abs/2610.36668)): all six frontier models conformed to a unanimous group, with pooled shifts of 22 points with one other participant and 49 with ten, ranging from 33 to 73 points per model.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.36668",
+      "from_post": "2115763145297813563",
+      "short_url": "https://t.co/9BtRetz565",
+      "title": "A Quantitative Approach to Asch Conformity in Frontier Large..."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-cognition"
+  ],
+  "keywords": [
+    "asch-conformity",
+    "social-influence",
+    "multi-agent",
+    "frontier-model"
+  ],
+  "relevance": "Social conformity is a failure mode for multi-agent reasoning.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HVyzSkZWoAABg8V.jpg",
+      "from_post": "2115763145297813563",
+      "description": "Figure 3: heatmaps of conformity shifts per model and word for group sizes 1, 2, 5 and 10.",
+      "kind": "chart",
+      "thumbnail": "posts/2026/10/29/2115763145297813563/media/0.webp"
+    }
+  ]
+}

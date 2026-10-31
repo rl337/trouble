@@ -1,0 +1,46 @@
+{
+  "id": "2115775665563697555",
+  "permalink": "https://x.com/laxshmate/status/2115775665563697555",
+  "author": {
+    "name": "laxshmate",
+    "handle": "@laxshmate",
+    "profile_url": "https://x.com/laxshmate"
+  },
+  "posted_at": "2026-10-29T12:00:02Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**laxshmate ([@laxshmate](https://x.com/laxshmate/status/2115775665563697555))** introduces **genmodelfit**, which reads your GPU and memory and tells you whether image, video, audio and 3D generation models will run locally (`uvx genmodelfit recommend`) ([laxshmate/genmodelfit](https://github.com/laxshmate/genmodelfit)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/laxshmate/genmodelfit",
+      "from_post": "2115775665563697555",
+      "short_url": "https://t.co/6e2xl2QKhH",
+      "title": "GitHub - laxshmate/genmodelfit: Right-size image / video / audio / 3D generation models to your PC (inspired by llmfit). 画像・動画・音声・3D の生成モデルが PC で動くかを判定する"
+    }
+  ],
+  "hashtags": [
+    "生成AI",
+    "ComfyUI"
+  ],
+  "topics": [
+    "local-models",
+    "agentic-media"
+  ],
+  "keywords": [
+    "genmodelfit",
+    "hardware-fit",
+    "vram",
+    "comfyui",
+    "generative-model"
+  ],
+  "relevance": "Helps size generative models to local hardware.",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://x.com/laxshmate/status/2115775665563697555/video/1",
+      "from_post": "2115775665563697555",
+      "description": "Demo of genmodelfit recommendations (not downloaded; referenced only)."
+    }
+  ]
+}

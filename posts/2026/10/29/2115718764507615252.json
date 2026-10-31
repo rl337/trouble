@@ -1,0 +1,61 @@
+{
+  "id": "2115718764507615252",
+  "permalink": "https://x.com/HuggingPapers/status/2115718764507615252",
+  "author": {
+    "name": "DailyPapers",
+    "handle": "@HuggingPapers",
+    "profile_url": "https://x.com/HuggingPapers"
+  },
+  "posted_at": "2026-10-29T08:13:56Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [
+    {
+      "id": "2115718774192275640",
+      "permalink": "https://x.com/HuggingPapers/status/2115718774192275640",
+      "posted_at": "2026-10-29T08:13:58Z",
+      "position": 1
+    }
+  ],
+  "summary_md": "**DailyPapers ([@HuggingPapers](https://x.com/HuggingPapers/status/2115718764507615252))** shares **OmniShowcase**, which generates consistent 360° videos of a subject from four photos by conditioning a video model on reconstructed surface-normal turntables, halving geometric error versus the best multi-view baseline; the follow-up links the [paper](https://paperswithcode.co/paper/2610.35684), [project page](https://justin4ai.github.io/OmniShowcase/) and [code](https://github.com/justin4ai/OmniShowcase).",
+  "referenced_urls": [
+    {
+      "url": "https://paperswithcode.co/paper/2610.35684",
+      "from_post": "2115718774192275640",
+      "short_url": "https://t.co/Lgkl5pj0UW",
+      "title": "OmniShowcase: Omnidirectional Subject-Consistent Video Generation from Multi-View Images | Papers with Code"
+    },
+    {
+      "url": "https://justin4ai.github.io/OmniShowcase/",
+      "from_post": "2115718774192275640",
+      "short_url": "https://t.co/vWQKnB2L40",
+      "title": "OmniShowcase"
+    },
+    {
+      "url": "https://github.com/justin4ai/OmniShowcase",
+      "from_post": "2115718774192275640",
+      "short_url": "https://t.co/1aFR3laay8",
+      "title": "GitHub - justin4ai/OmniShowcase: Code for 'OmniShowcase: Omnidirectional Subject-Consistent Video Generation from Multi-View Images'"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "omnishowcase",
+    "360-video",
+    "multi-view",
+    "video-generation",
+    "surface-normal"
+  ],
+  "relevance": "Multi-view to orbit video generation with consistent 3D identity.",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://x.com/HuggingPapers/status/2115718764507615252/video/1",
+      "from_post": "2115718764507615252",
+      "description": "Demo video of 360° turntable generations (not downloaded; referenced only)."
+    }
+  ]
+}

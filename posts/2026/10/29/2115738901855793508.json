@@ -1,0 +1,33 @@
+{
+  "id": "2115738901855793508",
+  "permalink": "https://x.com/SuttellRiggert/status/2115738901855793508",
+  "author": {
+    "name": "Suttell | Model Notes",
+    "handle": "@SuttellRiggert",
+    "profile_url": "https://x.com/SuttellRiggert"
+  },
+  "posted_at": "2026-10-29T09:33:57Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**Suttell | Model Notes ([@SuttellRiggert](https://x.com/SuttellRiggert/status/2115738901855793508))** reports **DeepSeek V4.1-Flash-1017** is out with MIT weights and now powers the deepseek-flash API, with the model card showing Terminal-Bench 4.0 rising from 31.2 to 42.3 and DeepSWE from 74.2 to 77.0, with shorter outputs ([deepseek-ai/DeepSeek-V4.1-Flash-1017](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017)).",
+  "referenced_urls": [
+    {
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+      "from_post": "2115738901855793508",
+      "short_url": "https://t.co/RI9K5wp7TR",
+      "title": "deepseek-ai/DeepSeek-V4.1-Flash-1017 · Hugging Face"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "local-models"
+  ],
+  "keywords": [
+    "deepseek-v4.1-flash",
+    "open-weight",
+    "terminal-bench",
+    "agentic-coding"
+  ],
+  "relevance": "New open-weight agentic coding model update."
+}

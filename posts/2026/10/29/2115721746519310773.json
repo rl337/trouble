@@ -1,0 +1,35 @@
+{
+  "id": "2115721746519310773",
+  "permalink": "https://x.com/roryhaleg4/status/2115721746519310773",
+  "author": {
+    "name": "Agent Stack",
+    "handle": "@roryhaleg4",
+    "profile_url": "https://x.com/roryhaleg4"
+  },
+  "posted_at": "2026-10-29T08:25:47Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**Agent Stack ([@roryhaleg4](https://x.com/roryhaleg4/status/2115721746519310773))** spotlights **tstack**, daily-driver skills for Claude Code and Codex where saying \"full send\" makes the agent prove, review, file, babysit and merge a PR; install by copying into `~/.claude/skills` with an authenticated gh CLI ([t3dotgg/tstack](https://github.com/t3dotgg/tstack)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/t3dotgg/tstack",
+      "from_post": "2115721746519310773",
+      "short_url": "https://t.co/0ku8VkfSOJ",
+      "title": "GitHub - t3dotgg/tstack: The agent skills I use every day. Works with Claude Code and Codex."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "tstack",
+    "agent-skill",
+    "claude-code",
+    "codex",
+    "pull-request",
+    "gh-cli"
+  ],
+  "relevance": "A popular, opinionated set of PR-automation agent skills."
+}

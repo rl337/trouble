@@ -1,0 +1,45 @@
+{
+  "id": "2116107632822137294",
+  "permalink": "https://x.com/soly_nex/status/2116107632822137294",
+  "author": {
+    "name": "Soly",
+    "handle": "@soly_nex",
+    "profile_url": "https://x.com/soly_nex"
+  },
+  "posted_at": "2026-10-30T09:59:09Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**Soly ([@soly_nex](https://x.com/soly_nex/status/2116107632822137294))** shares **arena-skill**, a Claude skill that spawns 100 agents that compete to produce the best answer ([Jakeschincariol/arena-skill](https://github.com/Jakeschincariol/arena-skill)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/Jakeschincariol/arena-skill",
+      "from_post": "2116107632822137294",
+      "short_url": "https://t.co/HEmzxBJKY3",
+      "title": "GitHub - Jakeschincariol/arena-skill: When Claude keeps giving you bad answers, make 100 versions of it fight to the death. Same task, 100 different strategies, a bracket, one answer left. Free Claude Code skill."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev",
+    "agentic-cognition"
+  ],
+  "keywords": [
+    "arena-skill",
+    "claude-code",
+    "agent-skill",
+    "best-of-n",
+    "tournament"
+  ],
+  "relevance": "Tournament-style best-of-N as a reusable skill.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV3srK5W8AAj1G0.jpg",
+      "from_post": "2116107632822137294",
+      "description": "'ARENA: 100 Claudes. 1 answer.' graphic with a bracket tree leading to a trophy.",
+      "kind": "other",
+      "thumbnail": "posts/2026/10/30/2116107632822137294/media/0.webp"
+    }
+  ]
+}

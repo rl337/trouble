@@ -1,0 +1,52 @@
+{
+  "id": "2116110724615573887",
+  "permalink": "https://x.com/ccloy/status/2116110724615573887",
+  "author": {
+    "name": "Chen Change (Cavan) Loy",
+    "handle": "@ccloy",
+    "profile_url": "https://x.com/ccloy"
+  },
+  "posted_at": "2026-10-30T10:11:26Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**Chen Change (Cavan) Loy ([@ccloy](https://x.com/ccloy/status/2116110724615573887))** presents **AnyBokeh**, led by a student in his lab, for refocusing and adjusting background blur from one image even if partly out of focus ([project](https://itsmag11.github.io/AnyBokeh/), [arXiv 2606.31959](https://arxiv.org/abs/2606.31959), [itsmag11/AnyBokeh](https://github.com/itsmag11/AnyBokeh)).",
+  "referenced_urls": [
+    {
+      "url": "https://itsmag11.github.io/AnyBokeh/",
+      "from_post": "2116110724615573887",
+      "short_url": "https://t.co/zJ58OjfquB",
+      "title": "AnyBokeh: Physics-Guided Any-to-Any Bokeh Editing with Optical Fingerprint Transfer"
+    },
+    {
+      "url": "https://arxiv.org/abs/2606.31959",
+      "from_post": "2116110724615573887",
+      "short_url": "https://t.co/fN4iQSpXqa",
+      "title": "AnyBokeh: Physics-Guided Any-to-Any Bokeh Editing with Optical..."
+    },
+    {
+      "url": "https://github.com/itsmag11/AnyBokeh",
+      "from_post": "2116110724615573887",
+      "short_url": "https://t.co/Zv84fabd1K"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "anybokeh",
+    "bokeh-editing",
+    "refocus",
+    "image-editing"
+  ],
+  "relevance": "Physics-guided photo refocusing for media post-production.",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://x.com/ccloy/status/2116110724615573887/video/1",
+      "from_post": "2116110724615573887",
+      "description": "Demo of interactive refocusing and blur control (not downloaded; referenced only)."
+    }
+  ]
+}

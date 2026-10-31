@@ -1,0 +1,43 @@
+{
+  "id": "2116060732353863810",
+  "permalink": "https://x.com/indefatigabile/status/2116060732353863810",
+  "author": {
+    "name": "ergophobian",
+    "handle": "@indefatigabile",
+    "profile_url": "https://x.com/indefatigabile"
+  },
+  "posted_at": "2026-10-30T06:52:47Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**ergophobian ([@indefatigabile](https://x.com/indefatigabile/status/2116060732353863810))** presents **comfyfield** (MIT), pitched as an open Higgsfield alternative: you choose a format that has already gone viral, drop your product into it, sign off on an inexpensive preview frame and only then spend on the full ComfyUI render; agents can drive the same flow over MCP, using your own Comfy key ([ergophobian/comfyfield](https://github.com/ergophobian/comfyfield)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/ergophobian/comfyfield",
+      "from_post": "2116060732353863810",
+      "short_url": "https://t.co/CQqRqcTQe2",
+      "title": "GitHub - ergophobian/comfyfield"
+    }
+  ],
+  "hashtags": [
+    "OpenSourceHiggsfield"
+  ],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "comfyfield",
+    "comfyui",
+    "mcp",
+    "product-video"
+  ],
+  "relevance": "Agent-runnable ad production pipeline.",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://x.com/indefatigabile/status/2116060732353863810/video/1",
+      "from_post": "2116060732353863810",
+      "description": "comfyfield demo (not downloaded; referenced only)."
+    }
+  ]
+}

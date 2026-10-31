@@ -1,0 +1,42 @@
+{
+  "id": "2116204402461786281",
+  "permalink": "https://x.com/ChuckYouSuck/status/2116204402461786281",
+  "author": {
+    "name": "Afro Chuck",
+    "handle": "@ChuckYouSuck",
+    "profile_url": "https://x.com/ChuckYouSuck"
+  },
+  "posted_at": "2026-10-30T16:23:41Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**Afro Chuck ([@ChuckYouSuck](https://x.com/ChuckYouSuck/status/2116204402461786281))** presents **Massless**, an open-weight Higgsfield rebuild in the browser with a cinema studio, 28 camera moves on stills, storyboards, voiceover and image-to-3D, MIT ([massless.chucksi.com](https://massless.chucksi.com), [ChuckGPTX/massless](https://github.com/ChuckGPTX/massless)).",
+  "referenced_urls": [
+    {
+      "url": "https://massless.chucksi.com",
+      "from_post": "2116204402461786281",
+      "short_url": "https://t.co/RlNZiaXmFn",
+      "title": "Massless: free AI cinema studio"
+    },
+    {
+      "url": "https://github.com/ChuckGPTX/massless",
+      "from_post": "2116204402461786281",
+      "short_url": "https://t.co/Tw7uSrrpvi",
+      "title": "GitHub - ChuckGPTX/massless: A free cinema camera for AI shots. Shot designer + camera moves, open-weight models only. Live at massless.chucksi.com"
+    }
+  ],
+  "hashtags": [
+    "OpenSourceHiggsfield"
+  ],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "massless",
+    "camera-move",
+    "storyboard",
+    "image-to-3d",
+    "opensourcehiggsfield"
+  ],
+  "relevance": "Free camera-move studio."
+}

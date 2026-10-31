@@ -1,0 +1,45 @@
+{
+  "id": "2115707233078038816",
+  "permalink": "https://x.com/Memoirs/status/2115707233078038816",
+  "author": {
+    "name": "Machine Learning (ML) Papers",
+    "handle": "@Memoirs",
+    "profile_url": "https://x.com/Memoirs"
+  },
+  "posted_at": "2026-10-29T07:28:06Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**Machine Learning (ML) Papers ([@Memoirs](https://x.com/Memoirs/status/2115707233078038816))** shares **AT-AT: Automatic Tool Optimization from Agent Traces** ([arXiv 2610.34679](https://arxiv.org/abs/2610.34679)), which improves agents by rewriting the shared tool layer (descriptions and implementations) offline from historical execution traces while the agent stays fixed; tools are shared and maintained by providers who cannot change the agents that call them.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.34679",
+      "from_post": "2115707233078038816",
+      "short_url": "https://t.co/RYqMcHrkX6",
+      "title": "AT-AT: Automatic Tool Optimization from Agent Traces"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "at-at",
+    "tool-optimization",
+    "agent-trace",
+    "mcp",
+    "tau2-bench"
+  ],
+  "relevance": "Improving tools rather than agents is a practical harness-development lever.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HVyAhFMXEAAYGaH.png",
+      "from_post": "2115707233078038816",
+      "description": "Image of the paper's abstract text.",
+      "kind": "paper",
+      "thumbnail": "posts/2026/10/29/2115707233078038816/media/0.webp",
+      "ocr_text": "Efforts to improve LLM-based agents typically focus on modifying the agent itself, yet success also depends on the environment in which an agent acts. Tools mediate this interaction: a tool's description shapes how an agent calls it, and its implementation determines the results and errors the agent receives afterwards. Many tools, such as APIs and MCP servers, are shared by many agents and maintained by providers who cannot change those agents. We introduce AT-AT (Automatic Tool Optimization from Agent Traces), an agentic tool optimizer that improves a shared toolset offline from historical agent executions while holding the agents fixed. A lightweight coding agent reads agent trajectories and their evaluation results, and selectively edits tool descriptions and, when permitted, implementations. On τ²-bench-verified, AT-AT achieves the highest task completion rates in the Airline and Telecom domains at lower cost than strong prompt- and tool-optimizer baselines, and its Telecom gain i"
+    }
+  ]
+}

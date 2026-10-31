@@ -1,0 +1,50 @@
+{
+  "id": "2116100273643122784",
+  "permalink": "https://x.com/RamzaDany/status/2116100273643122784",
+  "author": {
+    "name": "Dany Ramza",
+    "handle": "@RamzaDany",
+    "profile_url": "https://x.com/RamzaDany"
+  },
+  "posted_at": "2026-10-30T09:29:55Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**Dany Ramza ([@RamzaDany](https://x.com/RamzaDany/status/2116100273643122784))** built **Phane** for the Open Source Higgsfield challenge: type an action and a character performs it from any angle, then becomes video, using 100% open weights on ComfyUI and a 2019 8 GB GPU ([video](https://www.youtube.com/watch?v=Icg2AS-Eumk&feature=youtu.be), [danyramza-droid/Phane](https://github.com/danyramza-droid/Phane)).",
+  "referenced_urls": [
+    {
+      "url": "https://www.youtube.com/watch?v=Icg2AS-Eumk&feature=youtu.be",
+      "from_post": "2116100273643122784",
+      "short_url": "https://t.co/QEnpdNwU7p",
+      "title": "- YouTube"
+    },
+    {
+      "url": "https://github.com/danyramza-droid/Phane",
+      "from_post": "2116100273643122784",
+      "short_url": "https://t.co/6KgvvwlovP",
+      "title": "GitHub - danyramza-droid/Phane"
+    }
+  ],
+  "hashtags": [
+    "OpenSourceHiggsfield"
+  ],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "phane",
+    "comfyui",
+    "character-animation",
+    "open-weight",
+    "opensourcehiggsfield"
+  ],
+  "relevance": "Low-VRAM character action-to-video pipeline.",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://x.com/RamzaDany/status/2116100273643122784/video/1",
+      "from_post": "2116100273643122784",
+      "description": "Demo of a character performing typed actions (not downloaded; referenced only)."
+    }
+  ]
+}

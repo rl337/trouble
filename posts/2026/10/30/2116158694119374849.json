@@ -1,0 +1,41 @@
+{
+  "id": "2116158694119374849",
+  "permalink": "https://x.com/Rishpande/status/2116158694119374849",
+  "author": {
+    "name": "RP",
+    "handle": "@Rishpande",
+    "profile_url": "https://x.com/Rishpande"
+  },
+  "posted_at": "2026-10-30T13:22:03Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**RP ([@Rishpande](https://x.com/Rishpande/status/2116158694119374849))** built **agent-retry-rodeo**, a test rig for retries that go wrong (e.g. an agent posting a comment twice), where you bring your agent or add breaking cases ([RishabhPande/agent-retry-rodeo](https://github.com/RishabhPande/agent-retry-rodeo)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/RishabhPande/agent-retry-rodeo",
+      "from_post": "2116158694119374849",
+      "short_url": "https://t.co/tmSKqfPitD",
+      "title": "GitHub - RishabhPande/agent-retry-rodeo"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "agent-retry-rodeo",
+    "retry",
+    "idempotency",
+    "agent-testing"
+  ],
+  "relevance": "Idempotency testing for agent tools.",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://x.com/Rishpande/status/2116158694119374849/video/1",
+      "from_post": "2116158694119374849",
+      "description": "Demo of a duplicate-action retry case (not downloaded; referenced only)."
+    }
+  ]
+}

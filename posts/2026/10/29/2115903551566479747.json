@@ -1,0 +1,71 @@
+{
+  "id": "2115903551566479747",
+  "permalink": "https://x.com/rob_krajewski/status/2115903551566479747",
+  "author": {
+    "name": "Robert Krajewski",
+    "handle": "@rob_krajewski",
+    "profile_url": "https://x.com/rob_krajewski"
+  },
+  "posted_at": "2026-10-29T20:28:12Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [
+    {
+      "id": "2115903553177075859",
+      "permalink": "https://x.com/rob_krajewski/status/2115903553177075859",
+      "posted_at": "2026-10-29T20:28:13Z",
+      "position": 1
+    },
+    {
+      "id": "2115903555030950069",
+      "permalink": "https://x.com/rob_krajewski/status/2115903555030950069",
+      "posted_at": "2026-10-29T20:28:13Z",
+      "position": 2
+    }
+  ],
+  "summary_md": "**Robert Krajewski ([@rob_krajewski](https://x.com/rob_krajewski/status/2115903551566479747))** built **heappi**, which runs the whole Pi harness (including code mode) in a snapshotable QuickJS heap, snapshotting on any await so it can wait days without RAM and resume in 4–25 ms, with the heap stored incrementally in SQLite or S3 ([topos-sh/heappi](https://github.com/topos-sh/heappi); inspirations: [dquickts](https://github.com/stencil-hq/dquickts), [infinity](https://github.com/hydro-project/infinity), [pi durable](https://github.com/earendil-works/pi/tree/main/packages/durable), [celld](https://github.com/denoland/celld)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/topos-sh/heappi",
+      "from_post": "2115903551566479747",
+      "short_url": "https://t.co/q27HhkkrsX",
+      "title": "GitHub - topos-sh/heappi: One JavaScript heap per agent: checkpointed QuickJS images with Pi inside, on Node and Cloudflare Durable Objects"
+    },
+    {
+      "url": "https://github.com/stencil-hq/dquickts",
+      "from_post": "2115903555030950069",
+      "short_url": "https://t.co/rQN31tc7G5",
+      "title": "GitHub - stencil-hq/dquickts: QuickJS with durable execution: suspend running JS, snapshot the whole heap, resume it in another process. Native TypeScript, a REPL that survives restarts, Rust bindings."
+    },
+    {
+      "url": "https://github.com/hydro-project/infinity",
+      "from_post": "2115903555030950069",
+      "short_url": "https://t.co/CJpSm1okXE",
+      "title": "GitHub - hydro-project/infinity: An agent runtime and tool protocol for principled agent concurrency"
+    },
+    {
+      "url": "https://github.com/earendil-works/pi/tree/main/packages/durable",
+      "from_post": "2115903555030950069",
+      "short_url": "https://t.co/QqDDjUP9qF",
+      "title": "pi/packages/durable at main · earendil-works/pi"
+    },
+    {
+      "url": "https://github.com/denoland/celld",
+      "from_post": "2115903555030950069",
+      "short_url": "https://t.co/3yll9dOL09",
+      "title": "GitHub - denoland/celld: self-hosted, distributed Durable Objects"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "heappi",
+    "quickjs",
+    "durable-execution",
+    "pi-agent",
+    "snapshot"
+  ],
+  "relevance": "Durable, suspendable harness execution design."
+}

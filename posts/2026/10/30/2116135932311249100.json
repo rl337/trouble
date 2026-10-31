@@ -1,0 +1,33 @@
+{
+  "id": "2116135932311249100",
+  "permalink": "https://x.com/LLMnEder/status/2116135932311249100",
+  "author": {
+    "name": "LLMnEder",
+    "handle": "@LLMnEder",
+    "profile_url": "https://x.com/LLMnEder"
+  },
+  "posted_at": "2026-10-30T11:51:36Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**LLMnEder ([@LLMnEder](https://x.com/LLMnEder/status/2116135932311249100))** notes the *OpenConjecture* preprint ([arXiv 2610.40382](https://arxiv.org/abs/2610.40382)) where three GPT models produced candidate solutions to 125 of 200 conjectures, but without expert verification since the same models checked them.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.40382",
+      "from_post": "2116135932311249100",
+      "short_url": "https://t.co/asMbaigjND",
+      "title": "Beyond Selected Breakthroughs: Evaluating Language Models on..."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-cognition"
+  ],
+  "keywords": [
+    "openconjecture",
+    "mathematical-conjecture",
+    "verification",
+    "ai-math"
+  ],
+  "relevance": "Reality check on AI math claims."
+}

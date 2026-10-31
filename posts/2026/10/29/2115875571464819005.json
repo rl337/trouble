@@ -1,0 +1,33 @@
+{
+  "id": "2115875571464819005",
+  "permalink": "https://x.com/Contrasignal_ai/status/2115875571464819005",
+  "author": {
+    "name": "PurpleHaze Timetraveler",
+    "handle": "@Contrasignal_ai",
+    "profile_url": "https://x.com/Contrasignal_ai"
+  },
+  "posted_at": "2026-10-29T18:37:01Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**PurpleHaze Timetraveler ([@Contrasignal_ai](https://x.com/Contrasignal_ai/status/2115875571464819005))** summarizes **VibeVideoBench** ([arXiv 2610.35864](https://arxiv.org/abs/2610.35864)): agents get an hour in a sandbox to code a video with sound and no video model; the best system met every core requirement on 76.3% of tasks, and three quarters of missing videos came from renders started too late or running too slow.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.35864",
+      "from_post": "2115875571464819005",
+      "short_url": "https://t.co/vH2sO7WIZ0",
+      "title": "VibeVideoBench: Evaluating Multimodal Agents on Code-Driven Video..."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "vibevideobench",
+    "code-driven-video",
+    "multimodal-agent",
+    "benchmark"
+  ],
+  "relevance": "Benchmarks code-driven agentic video production and its time-management failures."
+}

@@ -1,0 +1,45 @@
+{
+  "id": "2115710188745351502",
+  "permalink": "https://x.com/AgentsWatch/status/2115710188745351502",
+  "author": {
+    "name": "AgentsWatch",
+    "handle": "@AgentsWatch",
+    "profile_url": "https://x.com/AgentsWatch"
+  },
+  "posted_at": "2026-10-29T07:39:51Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**AgentsWatch ([@AgentsWatch](https://x.com/AgentsWatch/status/2115710188745351502))** summarizes *Rare, Relevant, and Still Wrong* ([arXiv 2610.37624](https://arxiv.org/abs/2610.37624)), finding that stripping speaker-attribution tags from shared memory raised group-decision accuracy by 13–24 points on Qwen, Llama and DeepSeek Flash, and that a relevance-first tagged memory reached about 97% on open models (synthetic tasks).",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.37624",
+      "from_post": "2115710188745351502",
+      "short_url": "https://t.co/PuiJ5f5GeA",
+      "title": "Rare, Relevant, and Still Wrong: How Memory Fails LLM Group Decisions"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-cognition"
+  ],
+  "keywords": [
+    "memory",
+    "group-decision",
+    "multi-agent",
+    "qwen",
+    "llama",
+    "deepseek"
+  ],
+  "relevance": "Shows how memory formatting shapes multi-agent reasoning quality.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HVyDHTsWoAAAvMF.jpg",
+      "from_post": "2115710188745351502",
+      "description": "Bar chart of classic-cell accuracy for Qwen, Llama and Flash comparing tagged, untagged and relevance-first tagged memory (values 54–100%).",
+      "kind": "chart",
+      "thumbnail": "posts/2026/10/29/2115710188745351502/media/0.webp"
+    }
+  ]
+}

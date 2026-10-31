@@ -1,0 +1,34 @@
+{
+  "id": "2116167926571221261",
+  "permalink": "https://x.com/DropRadar_io/status/2116167926571221261",
+  "author": {
+    "name": "开源雷达 | AI 工具日报",
+    "handle": "@DropRadar_io",
+    "profile_url": "https://x.com/DropRadar_io"
+  },
+  "posted_at": "2026-10-30T13:58:44Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**开源雷达 | AI 工具日报 ([@DropRadar_io](https://x.com/DropRadar_io/status/2116167926571221261))** introduces **agentloop**, a Go library implementing the prompt→tool-call→feed-back loop with budgets, hooks, skills and tracing, supporting OpenAI, Anthropic, Gemini, Ollama and xAI, plus search and shell example agents ([smhanov/agentloop](https://github.com/smhanov/agentloop)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/smhanov/agentloop",
+      "from_post": "2116167926571221261",
+      "short_url": "https://t.co/ep3bDpDMrB",
+      "title": "GitHub - smhanov/agentloop: Everything you need for building an agent. A Go library for the LLM tool-calling loop with budgets, hooks, skills, and tracing."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "agentloop",
+    "go",
+    "agent-loop",
+    "hook",
+    "ollama"
+  ],
+  "relevance": "Minimal reusable agent loop in Go."
+}

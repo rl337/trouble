@@ -1,0 +1,32 @@
+{
+  "id": "2116249212669345953",
+  "permalink": "https://x.com/joyaka223/status/2116249212669345953",
+  "author": {
+    "name": "joy",
+    "handle": "@joyaka223",
+    "profile_url": "https://x.com/joyaka223"
+  },
+  "posted_at": "2026-10-30T19:21:44Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**joy ([@joyaka223](https://x.com/joyaka223/status/2116249212669345953))** writes up how **Tiny Desk AI** videos are made, with a measured 9 m 36 s render, what each of five 'seats' does and costs for 1–5 people ([Hugging Face blog](https://huggingface.co/blog/akagease/what-is-tiny-desk-ai)).",
+  "referenced_urls": [
+    {
+      "url": "https://huggingface.co/blog/akagease/what-is-tiny-desk-ai",
+      "from_post": "2116249212669345953",
+      "short_url": "https://t.co/2zU9ff361S",
+      "title": "What Is Tiny Desk AI? How to Make the Outstanding Video (1–5 People)"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "tiny-desk-ai",
+    "music-video",
+    "video-generation"
+  ],
+  "relevance": "Practical breakdown of an AI music-video format."
+}

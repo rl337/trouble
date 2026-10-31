@@ -1,0 +1,43 @@
+{
+  "id": "2116226251941642405",
+  "permalink": "https://x.com/_akhaliq/status/2116226251941642405",
+  "author": {
+    "name": "AK",
+    "handle": "@_akhaliq",
+    "profile_url": "https://x.com/_akhaliq"
+  },
+  "posted_at": "2026-10-30T17:50:30Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**AK ([@_akhaliq](https://x.com/_akhaliq/status/2116226251941642405))** shares *A-RSI* ([paper page](https://huggingface.co/papers/2610.38568)), adaptive task refresh for zero-data multimodal self-improvement that refreshes training tasks when learning signals decline.",
+  "referenced_urls": [
+    {
+      "url": "https://huggingface.co/papers/2610.38568",
+      "from_post": "2116226251941642405",
+      "short_url": "https://t.co/nLGUxellGs",
+      "title": "Paper page - A-RSI: Adaptive Task Refresh for Zero-Data Multimodal Self-Improvement"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-cognition"
+  ],
+  "keywords": [
+    "a-rsi",
+    "self-improvement",
+    "multimodal",
+    "task-refresh"
+  ],
+  "relevance": "Zero-data self-improvement method.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV5YiBZXEAAICNw.jpg",
+      "from_post": "2116226251941642405",
+      "description": "Hugging Face paper page for A-RSI with abstract.",
+      "kind": "screenshot",
+      "thumbnail": "posts/2026/10/30/2116226251941642405/media/0.webp"
+    }
+  ]
+}

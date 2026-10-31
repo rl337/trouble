@@ -1,0 +1,33 @@
+{
+  "id": "2116062212305666190",
+  "permalink": "https://x.com/qikamatata/status/2116062212305666190",
+  "author": {
+    "name": "Qikaman",
+    "handle": "@qikamatata",
+    "profile_url": "https://x.com/qikamatata"
+  },
+  "posted_at": "2026-10-30T06:58:40Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**Qikaman ([@qikamatata](https://x.com/qikamatata/status/2116062212305666190))** highlights **fsearch**, macOS whole-disk fuzzy search (~1 ms over 8M files, two-typo tolerance) with a built-in MCP server exposing find_files and grep, noting it needs Full Disk Access ([noahdunnagan/fsearch](https://github.com/noahdunnagan/fsearch)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/noahdunnagan/fsearch",
+      "from_post": "2116062212305666190",
+      "short_url": "https://t.co/mzFY9CkYBP",
+      "title": "GitHub - noahdunnagan/fsearch: Whole-disk file search for macOS: fuzzy names, typo tolerance, indexed content grep. ~1 ms over 8M files."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "fsearch",
+    "file-search",
+    "mcp",
+    "macos"
+  ],
+  "relevance": "Fast filesystem search tool for agents."
+}

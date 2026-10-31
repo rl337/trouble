@@ -1,0 +1,81 @@
+{
+  "id": "2115873915235139835",
+  "permalink": "https://x.com/cat_dr19979/status/2115873915235139835",
+  "author": {
+    "name": "Dr Cat",
+    "handle": "@cat_dr19979",
+    "profile_url": "https://x.com/cat_dr19979"
+  },
+  "posted_at": "2026-10-29T18:30:27Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [
+    {
+      "id": "2115873919156769147",
+      "permalink": "https://x.com/cat_dr19979/status/2115873919156769147",
+      "posted_at": "2026-10-29T18:30:28Z",
+      "position": 1
+    }
+  ],
+  "summary_md": "**Dr Cat ([@cat_dr19979](https://x.com/cat_dr19979/status/2115873915235139835))** built **drawio-reconstruction-skill**, an open Codex skill that rebuilds screenshots of diagrams as editable draw.io files, keeping text and structure editable while complex art stays as crops, with seven examples ([sxy1499894281/drawio-reconstruction-skill](https://github.com/sxy1499894281/drawio-reconstruction-skill), [diagrams.net](https://app.diagrams.net/)).",
+  "referenced_urls": [
+    {
+      "url": "https://app.diagrams.net/",
+      "from_post": "2115873915235139835",
+      "short_url": "https://t.co/aGwhfxGfP2",
+      "title": "Flowchart Maker & Online Diagram Software"
+    },
+    {
+      "url": "https://github.com/sxy1499894281/drawio-reconstruction-skill",
+      "from_post": "2115873915235139835",
+      "short_url": "https://t.co/CMVofb9SHv",
+      "title": "GitHub - sxy1499894281/drawio-reconstruction-skill: Codex skill for reconstructing diagram images into editable Draw.io files"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "drawio-reconstruction",
+    "draw.io",
+    "diagram",
+    "codex",
+    "agent-skill"
+  ],
+  "relevance": "Image-to-editable-diagram skill.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV0YG4XbMAAhIny.jpg",
+      "from_post": "2115873915235139835",
+      "description": "Examples 1–2: a decision tree and an AI agent architecture diagram, original vs. reconstructed.",
+      "kind": "screenshot",
+      "thumbnail": "posts/2026/10/29/2115873915235139835/media/0.webp"
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV0YG4Ya4AAb1kK.jpg",
+      "from_post": "2115873915235139835",
+      "description": "Examples 3–4: a hand-drawn mechanism and a Chinese research workflow, original vs. reconstructed.",
+      "kind": "screenshot",
+      "thumbnail": "posts/2026/10/29/2115873915235139835/media/1.webp"
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV0YG4YbYAAyC6l.jpg",
+      "from_post": "2115873915235139835",
+      "description": "Examples 5–6: data analysis workflow and presentation diagram reconstructions.",
+      "kind": "screenshot",
+      "thumbnail": "posts/2026/10/29/2115873915235139835/media/2.webp"
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV0YBOkbcAAgPqe.jpg",
+      "from_post": "2115873915235139835",
+      "description": "Example 7: multi-panel research figure, plus install instructions.",
+      "kind": "screenshot",
+      "thumbnail": "posts/2026/10/29/2115873915235139835/media/3.webp"
+    }
+  ]
+}

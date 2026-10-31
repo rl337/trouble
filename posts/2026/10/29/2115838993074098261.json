@@ -1,0 +1,53 @@
+{
+  "id": "2115838993074098261",
+  "permalink": "https://x.com/ollama/status/2115838993074098261",
+  "author": {
+    "name": "ollama",
+    "handle": "@ollama",
+    "profile_url": "https://x.com/ollama"
+  },
+  "posted_at": "2026-10-29T16:11:40Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [
+    {
+      "id": "2115839087781519585",
+      "permalink": "https://x.com/ollama/status/2115839087781519585",
+      "posted_at": "2026-10-29T16:12:03Z",
+      "position": 1
+    },
+    {
+      "id": "2115841512697430434",
+      "permalink": "https://x.com/ollama/status/2115841512697430434",
+      "posted_at": "2026-10-29T16:21:41Z",
+      "position": 2
+    }
+  ],
+  "summary_md": "**ollama ([@ollama](https://x.com/ollama/status/2115838993074098261))** lists two weeks of model additions: cloud models such as Mistral-large-4 and DeepSeek-v4.1-flash:1017, local models including Nemotron-3.5-bolt, Nemotron-3.5-super, Bonsai-2, EmbeddingGemma-2 and Phonon TTS, a set of decision models, and LFM3 ([Ollama search](https://ollama.com/search), [lfm3](https://ollama.com/library/lfm3)).",
+  "referenced_urls": [
+    {
+      "url": "https://ollama.com/search",
+      "from_post": "2115839087781519585",
+      "short_url": "https://t.co/3CyxozqvjG",
+      "title": "Ollama"
+    },
+    {
+      "url": "https://ollama.com/library/lfm3",
+      "from_post": "2115841512697430434",
+      "short_url": "https://t.co/QAFWCRGN52",
+      "title": "lfm3"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "local-models"
+  ],
+  "keywords": [
+    "ollama",
+    "nemotron-3.5-super",
+    "nemotron-3.5-bolt",
+    "lfm3",
+    "decision-model"
+  ],
+  "relevance": "Quick view of what's runnable locally now, including Nemotron Super."
+}

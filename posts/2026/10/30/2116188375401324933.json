@@ -1,0 +1,32 @@
+{
+  "id": "2116188375401324933",
+  "permalink": "https://x.com/andresvilarino/status/2116188375401324933",
+  "author": {
+    "name": "Andres Vilariño 🇪🇦",
+    "handle": "@andresvilarino",
+    "profile_url": "https://x.com/andresvilarino"
+  },
+  "posted_at": "2026-10-30T15:20:00Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**Andres Vilariño 🇪🇦 ([@andresvilarino](https://x.com/andresvilarino/status/2116188375401324933))** points to IBM's **Granite Switch 4.1.1** post on updating models like software ([Hugging Face blog](https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1)).",
+  "referenced_urls": [
+    {
+      "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
+      "from_post": "2116188375401324933",
+      "short_url": "https://t.co/86rPtEgQlH",
+      "title": "Granite Switch 4.1.1 — Update models like you update software"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "local-models"
+  ],
+  "keywords": [
+    "granite-switch",
+    "ibm-granite",
+    "model-update"
+  ],
+  "relevance": "Model update approach for small local models."
+}

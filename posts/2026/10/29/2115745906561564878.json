@@ -1,0 +1,44 @@
+{
+  "id": "2115745906561564878",
+  "permalink": "https://x.com/ComputerPapers/status/2115745906561564878",
+  "author": {
+    "name": "Software Engineering Papers",
+    "handle": "@ComputerPapers",
+    "profile_url": "https://x.com/ComputerPapers"
+  },
+  "posted_at": "2026-10-29T10:01:47Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**Software Engineering Papers ([@ComputerPapers](https://x.com/ComputerPapers/status/2115745906561564878))** shares **FeatureArc** ([arXiv 2610.37434](https://arxiv.org/abs/2610.37434)), a benchmark that evaluates coding agents on evolving features, chaining dependent feature extensions mined from repository histories and checking both new and existing behavior.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.37434",
+      "from_post": "2115745906561564878",
+      "short_url": "https://t.co/YBKyjiFoek",
+      "title": "FeatureArc: Benchmarking Coding Agents on Evolving Features"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "featurearc",
+    "benchmark",
+    "coding-agent",
+    "feature-evolution"
+  ],
+  "relevance": "Benchmarks multi-step feature evolution rather than single fixes.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HVyjsMYWYAAusJK.png",
+      "from_post": "2115745906561564878",
+      "description": "Image of the paper's abstract text.",
+      "kind": "paper",
+      "thumbnail": "posts/2026/10/29/2115745906561564878/media/0.webp",
+      "ocr_text": "A software feature usually evolves over time: developers extend its first version as new use cases and requirements arrive, and each extension builds on code written earlier. Most feature benchmarks evaluate a single request on a fixed codebase. Feature evolution requires evaluating successive extensions on an agent's own earlier code and checking whether the feature remains correct. We introduce FeatureArc to evaluate coding agents on evolving features, together with a pipeline that constructs its tasks from repository histories. The benchmark combines dependencies between successive stages of the same feature, explicit requirements and interface contracts, and executable checks across four programming languages. The pipeline validates fail-to-pass (F2P) tests for new behavior and pass-to-pass (P2P) tests for existing behavior on the reference code before and after each stage. We evaluated 10 coding agents on 73 manually reviewed tasks of 2 to 10 stages. Each agent works in one persis"
+    }
+  ]
+}

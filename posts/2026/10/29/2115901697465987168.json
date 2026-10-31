@@ -1,0 +1,42 @@
+{
+  "id": "2115901697465987168",
+  "permalink": "https://x.com/Retik_S/status/2115901697465987168",
+  "author": {
+    "name": "Ritik Shukla",
+    "handle": "@Retik_S",
+    "profile_url": "https://x.com/Retik_S"
+  },
+  "posted_at": "2026-10-29T20:20:50Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**Ritik Shukla ([@Retik_S](https://x.com/Retik_S/status/2115901697465987168))** shows **anymove** animating a dragon, spider, fire demon and wolf from single AI videos: it films the creature from two angles in one frame, finds joints in both views, fits a 3D rig and exports GLB (needs an NVIDIA GPU and Blender; clips cost about $0.26) ([patch-gg/anymove](https://github.com/patch-gg/anymove)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/patch-gg/anymove",
+      "from_post": "2115901697465987168",
+      "short_url": "https://t.co/BR9Z5wYt3K",
+      "title": "GitHub - patch-gg/anymove: Motion capture for any creature from one AI video: two cameras in one frame, a DINOv2 joint reader, the rig fitted in both views, a GLB out."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "anymove",
+    "motion-capture",
+    "rigging",
+    "glb",
+    "blender"
+  ],
+  "relevance": "Creature mocap from AI video for 3D animation.",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://x.com/Retik_S/status/2115901697465987168/video/1",
+      "from_post": "2115901697465987168",
+      "description": "Creature animation results (not downloaded; referenced only)."
+    }
+  ]
+}

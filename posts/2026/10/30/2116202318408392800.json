@@ -1,0 +1,33 @@
+{
+  "id": "2116202318408392800",
+  "permalink": "https://x.com/singularityhack/status/2116202318408392800",
+  "author": {
+    "name": "0xJustice.eth 👹🔥",
+    "handle": "@singularityhack",
+    "profile_url": "https://x.com/singularityhack"
+  },
+  "posted_at": "2026-10-30T16:15:24Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**0xJustice.eth 👹🔥 ([@singularityhack](https://x.com/singularityhack/status/2116202318408392800))** points to *Quantifying Claim Smoothing by LLM Research Agents* ([arXiv 2610.35793](https://arxiv.org/abs/2610.35793v1)), showing reports can cite real sources while erasing their disagreements.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.35793v1",
+      "from_post": "2116202318408392800",
+      "short_url": "https://t.co/nXlEPQ9EnS",
+      "title": "Quantifying Claim Smoothing by LLM Research Agents"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-cognition"
+  ],
+  "keywords": [
+    "claim-smoothing",
+    "research-agent",
+    "citation",
+    "faithfulness"
+  ],
+  "relevance": "Faithfulness failure in research agents."
+}

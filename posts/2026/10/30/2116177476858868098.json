@@ -1,0 +1,42 @@
+{
+  "id": "2116177476858868098",
+  "permalink": "https://x.com/ChrisHKAI/status/2116177476858868098",
+  "author": {
+    "name": "Chris",
+    "handle": "@ChrisHKAI",
+    "profile_url": "https://x.com/ChrisHKAI"
+  },
+  "posted_at": "2026-10-30T14:36:41Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**Chris ([@ChrisHKAI](https://x.com/ChrisHKAI/status/2116177476858868098))** notes **video-shotcraft** got a major upgrade, with all shot components rewritten using Opus 5.5 for higher-quality cinematic motion in promo videos by any agent ([Vincentwei1021/video-shotcraft](https://github.com/Vincentwei1021/video-shotcraft)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/Vincentwei1021/video-shotcraft",
+      "from_post": "2116177476858868098",
+      "short_url": "https://t.co/CRNFvjsHVh",
+      "title": "GitHub - Vincentwei1021/video-shotcraft: AI video skill for Claude Code & Codex — cinematic, editable product promos with Remotion: 124 shot recipe cards, 150 motion previews, beat sync, sound design, Motion Workbench & JianYing (CapCut CN) export."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "video-shotcraft",
+    "claude-code",
+    "codex",
+    "motion-graphic",
+    "agent-skill"
+  ],
+  "relevance": "Cinematic shot library for agents.",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://x.com/ChrisHKAI/status/2116177476858868098/video/1",
+      "from_post": "2116177476858868098",
+      "description": "Sample promo shots (not downloaded; referenced only)."
+    }
+  ]
+}

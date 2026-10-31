@@ -1,0 +1,36 @@
+{
+  "id": "2116411621283160423",
+  "permalink": "https://x.com/Trendcanvasai/status/2116411621283160423",
+  "author": {
+    "name": "Trend canvas ai",
+    "handle": "@Trendcanvasai",
+    "profile_url": "https://x.com/Trendcanvasai"
+  },
+  "posted_at": "2026-10-31T06:07:06Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**Trend canvas ai ([@Trendcanvasai](https://x.com/Trendcanvasai/status/2116411621283160423))** reports Datalab's **Surya OCR 2.5** (689M), which scores 85.9 on OmniParseBench and 83.7% on olmOCR-bench and runs at 4.5 pages/s on one H100 ([datalab-to/surya-ocr-2.5](https://huggingface.co/datalab-to/surya-ocr-2.5)).",
+  "referenced_urls": [
+    {
+      "url": "https://huggingface.co/datalab-to/surya-ocr-2.5",
+      "from_post": "2116411621283160423",
+      "short_url": "https://t.co/KtGMFz7AIM",
+      "title": "datalab-to/surya-ocr-2.5 · Hugging Face"
+    }
+  ],
+  "hashtags": [
+    "ocr",
+    "opensource",
+    "ai"
+  ],
+  "topics": [
+    "local-models"
+  ],
+  "keywords": [
+    "surya-ocr",
+    "ocr",
+    "small-model"
+  ],
+  "relevance": "Small open OCR model."
+}

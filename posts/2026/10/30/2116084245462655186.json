@@ -1,0 +1,42 @@
+{
+  "id": "2116084245462655186",
+  "permalink": "https://x.com/theaitechnolog/status/2116084245462655186",
+  "author": {
+    "name": "theaitechnolog",
+    "handle": "@theaitechnolog",
+    "profile_url": "https://x.com/theaitechnolog"
+  },
+  "posted_at": "2026-10-30T08:26:13Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [
+    {
+      "id": "2116084662695293036",
+      "permalink": "https://x.com/theaitechnolog/status/2116084662695293036",
+      "posted_at": "2026-10-30T08:27:53Z",
+      "position": 1
+    }
+  ],
+  "summary_md": "**theaitechnolog ([@theaitechnolog](https://x.com/theaitechnolog/status/2116084245462655186))** highlights **Qwenputer**, which compiles an exact RISC-V CPU into Qwen 3.5 4B's weights so it runs C and Python internally without tool calls, executing 18M instructions error-free; a follow-up cites 97.5% versus 72.5% on big division, single 24 GB GPU, and the author's 'experiment' caveat ([divagr18/qwenputer](https://github.com/divagr18/qwenputer)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/divagr18/qwenputer",
+      "from_post": "2116084245462655186",
+      "short_url": "https://t.co/vlfhZw5dnE",
+      "title": "GitHub - divagr18/qwenputer: A computer, compiled into the weights of a language model. An exact CPU inside Qwen3.5-4B, with Gated DeltaNet state as RAM."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-cognition",
+    "local-models"
+  ],
+  "keywords": [
+    "qwenputer",
+    "risc-v",
+    "qwen-3.5",
+    "compiled-weight",
+    "neural-computation"
+  ],
+  "relevance": "Striking research toy on computation compiled into model weights."
+}

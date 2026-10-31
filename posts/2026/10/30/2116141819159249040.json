@@ -1,0 +1,67 @@
+{
+  "id": "2116141819159249040",
+  "permalink": "https://x.com/malariadx/status/2116141819159249040",
+  "author": {
+    "name": "びおめた",
+    "handle": "@malariadx",
+    "profile_url": "https://x.com/malariadx"
+  },
+  "posted_at": "2026-10-30T12:15:00Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**びおめた ([@malariadx](https://x.com/malariadx/status/2116141819159249040))** announces **ComfyUI-Anima-Ref-Adapter v2**, which now handles two characters, with a downloadable workflow ([ElectronGirl/ComfyUI-Anima-Ref-Adapter](https://github.com/ElectronGirl/ComfyUI-Anima-Ref-Adapter/tree/main), [workflow JSON](https://drive.google.com/file/d/1ZwYHapwMLp0GqkpoYNolAnEQUWwFqdEy/view?usp=drive_link)).",
+  "referenced_urls": [
+    {
+      "url": "https://drive.google.com/file/d/1ZwYHapwMLp0GqkpoYNolAnEQUWwFqdEy/view?usp=drive_link",
+      "from_post": "2116141819159249040",
+      "short_url": "https://t.co/CFLYs7uNFJ",
+      "title": "Anima ref adapter 20261030.json"
+    },
+    {
+      "url": "https://github.com/ElectronGirl/ComfyUI-Anima-Ref-Adapter/tree/main",
+      "from_post": "2116141819159249040",
+      "short_url": "https://t.co/PLwiepw3oe"
+    }
+  ],
+  "hashtags": [
+    "AIイラスト",
+    "AIart"
+  ],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "anima-ref-adapter",
+    "comfyui",
+    "character-reference",
+    "anime-illustration"
+  ],
+  "relevance": "Multi-character reference consistency for anime generation.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV3wmmaasAAbiRS.jpg",
+      "from_post": "2116141819159249040",
+      "description": "ComfyUI workflow with two reference images and an output of two characters eating.",
+      "kind": "screenshot",
+      "thumbnail": "posts/2026/10/30/2116141819159249040/media/0.webp"
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV3wmmebwAAj1bc.jpg",
+      "from_post": "2116141819159249040",
+      "description": "Generated anime illustration of two characters eating rice balls.",
+      "kind": "photo",
+      "thumbnail": "posts/2026/10/30/2116141819159249040/media/1.webp"
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV3wmmhbAAArpzJ.jpg",
+      "from_post": "2116141819159249040",
+      "description": "Generated illustration of the same two characters riding horses.",
+      "kind": "photo",
+      "thumbnail": "posts/2026/10/30/2116141819159249040/media/2.webp"
+    }
+  ]
+}

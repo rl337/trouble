@@ -1,0 +1,67 @@
+{
+  "id": "2116048964470325266",
+  "permalink": "https://x.com/ai_hakase_/status/2116048964470325266",
+  "author": {
+    "name": "ハカセ アイ(Ai-Hakase)🐾生成AI・ComfyUI",
+    "handle": "@ai_hakase_",
+    "profile_url": "https://x.com/ai_hakase_"
+  },
+  "posted_at": "2026-10-30T06:06:02Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [
+    {
+      "id": "2116048966072553850",
+      "permalink": "https://x.com/ai_hakase_/status/2116048966072553850",
+      "posted_at": "2026-10-30T06:06:02Z",
+      "position": 1
+    }
+  ],
+  "summary_md": "**ハカセ アイ(Ai-Hakase)🐾生成AI・ComfyUI ([@ai_hakase_](https://x.com/ai_hakase_/status/2116048964470325266))** covers **Qwenputer**, which compiles a 32-bit RISC-V CPU into 11 layers inserted into Qwen3.5-4B's weights, reusing Gated DeltaNet state as RAM so C or MicroPython runs inside the forward pass, scoring well on DeepMind arithmetic ([write-up](https://divagr.com/blog/qwenputer), [model](https://huggingface.co/divagr1925/Qwen3.5-4B-Qwenputer), [Reddit](https://www.reddit.com/r/LocalLLaMA/comments/1xhmo1q/someone_built_a_32bit_riscv_cpu_directly_inside/)).",
+  "referenced_urls": [
+    {
+      "url": "https://divagr.com/blog/qwenputer",
+      "from_post": "2116048966072553850",
+      "short_url": "https://t.co/hJbAhlvTn1",
+      "title": "Qwenputer: a fully functioning, deterministic RISC-V CPU inside Qwen3.5"
+    },
+    {
+      "url": "https://huggingface.co/divagr1925/Qwen3.5-4B-Qwenputer",
+      "from_post": "2116048966072553850",
+      "short_url": "https://t.co/mSFq3HdbZg",
+      "title": "divagr1925/Qwen3.5-4B-Qwenputer · Hugging Face"
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xhmo1q/someone_built_a_32bit_riscv_cpu_directly_inside/",
+      "from_post": "2116048966072553850",
+      "short_url": "https://t.co/Du6auIN9vQ",
+      "title": "From the LocalLLaMA community on Reddit: Someone built a 32-bit RISC-V CPU directly inside Qwen's model weights so it can execute instructions internaly!"
+    }
+  ],
+  "hashtags": [
+    "LLM",
+    "RISCV"
+  ],
+  "topics": [
+    "local-models",
+    "agentic-cognition"
+  ],
+  "keywords": [
+    "qwenputer",
+    "risc-v",
+    "qwen3.5-4b",
+    "gated-deltanet",
+    "deterministic-computation"
+  ],
+  "relevance": "Deterministic computation embedded in a small local model.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV23UamXkAE9Yt6.jpg",
+      "from_post": "2116048964470325266",
+      "description": "Reddit post about Qwenputer showing a multiplication result and a weight-grid figure.",
+      "kind": "screenshot",
+      "thumbnail": "posts/2026/10/30/2116048964470325266/media/0.webp"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": "2116195440538353903",
+  "permalink": "https://x.com/Georgeybu9/status/2116195440538353903",
+  "author": {
+    "name": "George",
+    "handle": "@Georgeybu9",
+    "profile_url": "https://x.com/Georgeybu9"
+  },
+  "posted_at": "2026-10-30T15:48:04Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**George ([@Georgeybu9](https://x.com/Georgeybu9/status/2116195440538353903))** highlights **OfflineLLM**, a private offline Android chat app running any GGUF via llama.cpp with GPU offload ([jegly/OfflineLLM](https://github.com/jegly/OfflineLLM)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/jegly/OfflineLLM",
+      "from_post": "2116195440538353903",
+      "short_url": "https://t.co/frEIuy8juP",
+      "title": "GitHub - jegly/OfflineLLM: Private on-device AI chat for Android — runs any GGUF model locally via llama.cpp with ARM-optimised SIMD. Zero network permissions, encrypted settings, biometric lock, tamper detection. + GPU Acceleration - PQC ML-DSA-87 signed releases"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "local-models"
+  ],
+  "keywords": [
+    "offlinellm",
+    "android",
+    "gguf",
+    "llama.cpp"
+  ],
+  "relevance": "On-device GGUF runtime."
+}

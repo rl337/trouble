@@ -1,0 +1,66 @@
+{
+  "id": "2116201244276699414",
+  "permalink": "https://x.com/wushi123321/status/2116201244276699414",
+  "author": {
+    "name": "Shawn Bang",
+    "handle": "@wushi123321",
+    "profile_url": "https://x.com/wushi123321"
+  },
+  "posted_at": "2026-10-30T16:11:08Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [
+    {
+      "id": "2116201367920316493",
+      "permalink": "https://x.com/wushi123321/status/2116201367920316493",
+      "posted_at": "2026-10-30T16:11:37Z",
+      "position": 1
+    },
+    {
+      "id": "2116201414137446711",
+      "permalink": "https://x.com/wushi123321/status/2116201414137446711",
+      "posted_at": "2026-10-30T16:11:48Z",
+      "position": 2
+    },
+    {
+      "id": "2116201487852269880",
+      "permalink": "https://x.com/wushi123321/status/2116201487852269880",
+      "posted_at": "2026-10-30T16:12:06Z",
+      "position": 3
+    }
+  ],
+  "summary_md": "**Shawn Bang ([@wushi123321](https://x.com/wushi123321/status/2116201244276699414))** profiles **text-to-cad** (24K stars, MIT): agents write build123d/Open CASCADE scripts that cadgen turns into STEP, STL, 3MF and GLB with a live viewer, plus skills for DFM, drawings, URDF and G-code; limits include uv/Python 3.11+, default telemetry and Windows Smart App Control blocks ([earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/earthtojake/text-to-cad",
+      "from_post": "2116201244276699414",
+      "short_url": "https://t.co/ilbEk1gG3t",
+      "title": "GitHub - earthtojake/text-to-cad: Design physical products with AI"
+    }
+  ],
+  "hashtags": [
+    "GitHub",
+    "OpenSource"
+  ],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "text-to-cad",
+    "build123d",
+    "cad",
+    "3d-modeling",
+    "agent-skill"
+  ],
+  "relevance": "Agentic 3D modeling of physical parts.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV5BiSMX0AAEYpm.jpg",
+      "from_post": "2116201244276699414",
+      "description": "GitHub card for earthtojake/text-to-cad: 'Design physical products with AI', 24k stars.",
+      "kind": "screenshot",
+      "thumbnail": "posts/2026/10/30/2116201244276699414/media/0.webp"
+    }
+  ]
+}

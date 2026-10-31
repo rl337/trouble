@@ -1,0 +1,44 @@
+{
+  "id": "2116348768207745458",
+  "permalink": "https://x.com/jaywcjlove/status/2116348768207745458",
+  "author": {
+    "name": "小弟调调",
+    "handle": "@jaywcjlove",
+    "profile_url": "https://x.com/jaywcjlove"
+  },
+  "posted_at": "2026-10-31T01:57:20Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**小弟调调 ([@jaywcjlove](https://x.com/jaywcjlove/status/2116348768207745458))** shares **Koto**, which copies sessions between Claude Code, Codex, Cursor and other harnesses so you can fork a conversation and compare results ([Seanium/koto](https://github.com/Seanium/koto)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/Seanium/koto",
+      "from_post": "2116348768207745458",
+      "short_url": "https://t.co/lPGjpy36LH",
+      "title": "GitHub - Seanium/koto: Move conversations between Claude Code, Codex, Cursor, and more. Keep your conversation history, branch into different agents, and compare what happens next."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "koto",
+    "session-migration",
+    "claude-code",
+    "codex",
+    "cursor"
+  ],
+  "relevance": "Portable agent sessions.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV7H76-acAAVoJa.jpg",
+      "from_post": "2116348768207745458",
+      "description": "Koto app dialog for converting a session.",
+      "kind": "screenshot",
+      "thumbnail": "posts/2026/10/31/2116348768207745458/media/0.webp"
+    }
+  ]
+}

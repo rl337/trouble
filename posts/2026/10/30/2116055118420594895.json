@@ -1,0 +1,37 @@
+{
+  "id": "2116055118420594895",
+  "permalink": "https://x.com/xiaoanlab/status/2116055118420594895",
+  "author": {
+    "name": "XiaoAnLab",
+    "handle": "@xiaoanlab",
+    "profile_url": "https://x.com/xiaoanlab"
+  },
+  "posted_at": "2026-10-30T06:30:29Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**XiaoAnLab ([@xiaoanlab](https://x.com/xiaoanlab/status/2116055118420594895))** introduces **BIMCraft**, an early pure-Rust open BIM tool rewriting Revit workflows with plan, section and 3D output, IFC read/write and MCP control for agents ([IPedrax/BIMCraft](https://github.com/IPedrax/BIMCraft)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/IPedrax/BIMCraft",
+      "from_post": "2116055118420594895",
+      "short_url": "https://t.co/jPhh1IOXCB",
+      "title": "GitHub - IPedrax/BIMCraft: BIMCraft: building information modeling; an open-source, clean-room take on the Revit workflow in pure Rust, built to be driven by agents"
+    }
+  ],
+  "hashtags": [
+    "开源工具",
+    "建筑"
+  ],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "bimcraft",
+    "bim",
+    "ifc",
+    "rust",
+    "mcp"
+  ],
+  "relevance": "Agent-controllable architectural 3D modeling."
+}

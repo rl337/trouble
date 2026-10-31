@@ -1,0 +1,44 @@
+{
+  "id": "2116060352563601743",
+  "permalink": "https://x.com/PIN/status/2116060352563601743",
+  "author": {
+    "name": "Multiagent Systems Papers",
+    "handle": "@PIN",
+    "profile_url": "https://x.com/PIN"
+  },
+  "posted_at": "2026-10-30T06:51:17Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**Multiagent Systems Papers ([@PIN](https://x.com/PIN/status/2116060352563601743))** shares *Network Topology Does Not Matter* ([arXiv 2610.37699](https://arxiv.org/abs/2610.37699)), which measures LLM opinion updates over 73,080 exchanges and finds they violate convexity assumptions of classical consensus theory.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.37699",
+      "from_post": "2116060352563601743",
+      "short_url": "https://t.co/zw36oZVGfj",
+      "title": "Network Topology Does Not Matter: The Breakdown of Classical..."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-cognition"
+  ],
+  "keywords": [
+    "consensus",
+    "multi-agent",
+    "network-topology",
+    "opinion-dynamics"
+  ],
+  "relevance": "Multi-agent dynamics differ from classical models.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV3BrXgW0AAN99X.png",
+      "from_post": "2116060352563601743",
+      "description": "Image of the paper's abstract text.",
+      "kind": "paper",
+      "thumbnail": "posts/2026/10/30/2116060352563601743/media/0.webp",
+      "ocr_text": "As multi-agent language model networks become widely deployed, predicting their collective behavior is a critical challenge. Classical distributed consensus theory relies on network topology to predict convergence, structurally assuming that agent updates are convex combinations, population means are conserved, and weights are content-independent. In this work, we demonstrate that these foundational assumptions fail for large language models (LLMs). By deterministically extracting continuous credence from token-level probabilities across eight instruction-tuned models and 73,080 controlled exchanges, we directly measure the empirical LLM update operator. We find that LLMs systematically violate convexity by updating outside the hull of observed opinions, exhibiting active repulsion (negative weights) that fundamentally breaks row-stochastic modeling and standard bounded-confidence repairs. Scaling these empirically fitted operators to simulations of 10,000 agents reveals that algebraic"
+    }
+  ]
+}

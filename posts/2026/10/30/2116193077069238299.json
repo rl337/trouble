@@ -1,0 +1,44 @@
+{
+  "id": "2116193077069238299",
+  "permalink": "https://x.com/hashu786110/status/2116193077069238299",
+  "author": {
+    "name": "Hasanain Rashid",
+    "handle": "@hashu786110",
+    "profile_url": "https://x.com/hashu786110"
+  },
+  "posted_at": "2026-10-30T15:38:41Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**Hasanain Rashid ([@hashu786110](https://x.com/hashu786110/status/2116193077069238299))** ships **Tessera**, MIT ComfyUI video upscaling on MiniMax H3 from 544p to 4K on one consumer GPU without the full-resolution clip ever residing in memory ([hashu786/ComfyUI-Tessera](https://github.com/hashu786/ComfyUI-Tessera)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/hashu786/ComfyUI-Tessera",
+      "from_post": "2116193077069238299",
+      "short_url": "https://t.co/KMn9Vtm3Ae",
+      "title": "GitHub - hashu786/ComfyUI-Tessera: Production video upscaling for ComfyUI, built on MiniMax H3 — 544p to 4K/8K on one consumer GPU"
+    }
+  ],
+  "hashtags": [
+    "OpenSourceHiggsfield"
+  ],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "tessera",
+    "video-upscaling",
+    "minimax-h3",
+    "comfyui",
+    "opensourcehiggsfield"
+  ],
+  "relevance": "Memory-efficient 4K upscaling.",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://x.com/hashu786110/status/2116193077069238299/video/1",
+      "from_post": "2116193077069238299",
+      "description": "Before/after upscaling (not downloaded; referenced only)."
+    }
+  ]
+}

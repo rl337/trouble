@@ -1,0 +1,43 @@
+{
+  "id": "2115829731262353520",
+  "permalink": "https://x.com/pypnandflash/status/2115829731262353520",
+  "author": {
+    "name": "pypnandflash",
+    "handle": "@pypnandflash",
+    "profile_url": "https://x.com/pypnandflash"
+  },
+  "posted_at": "2026-10-29T15:34:52Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**pypnandflash ([@pypnandflash](https://x.com/pypnandflash/status/2115829731262353520))** recommends **CiceroMachine**, an evidence-driven multi-agent debate skill: two sides research and rebut each other, a moderator checks them, and the output lists reasons, sources and open questions ([TimeCracker/CiceroMachine-Skill](https://github.com/TimeCracker/CiceroMachine-Skill)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/TimeCracker/CiceroMachine-Skill",
+      "from_post": "2115829731262353520",
+      "short_url": "https://t.co/LlqQCF1Rqc",
+      "title": "GitHub - TimeCracker/CiceroMachine-Skill: Evidence-driven multi-agent debate skill for Codex, Claude Code, and DeepSeek Harness."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-cognition"
+  ],
+  "keywords": [
+    "ciceromachine",
+    "multi-agent-debate",
+    "reasoning",
+    "agent-skill"
+  ],
+  "relevance": "Structured debate for better reasoning on open questions.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HVzv7LybgAEJuY1.jpg",
+      "from_post": "2115829731262353520",
+      "description": "Banner \"CiceroMachine: Evidence-driven multi-agent debate\" with a classical bust, for Codex, Claude Code and DeepSeek Harness.",
+      "kind": "other",
+      "thumbnail": "posts/2026/10/29/2115829731262353520/media/0.webp"
+    }
+  ]
+}

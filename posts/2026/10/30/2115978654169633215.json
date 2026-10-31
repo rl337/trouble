@@ -1,0 +1,44 @@
+{
+  "id": "2115978654169633215",
+  "permalink": "https://x.com/dellanioz/status/2115978654169633215",
+  "author": {
+    "name": "Dellanio",
+    "handle": "@dellanioz",
+    "profile_url": "https://x.com/dellanioz"
+  },
+  "posted_at": "2026-10-30T01:26:38Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**Dellanio ([@dellanioz](https://x.com/dellanioz/status/2115978654169633215))** reports **xtool** lets developers use Claude Code or Codex to generate Swift apps and build, sign and install them on iPhones from Linux, WSL or macOS (Apple SDK and developer auth required) ([xtool-org/xtool](https://github.com/xtool-org/xtool)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/xtool-org/xtool",
+      "from_post": "2115978654169633215",
+      "short_url": "https://t.co/37S5CJn8mE",
+      "title": "GitHub - xtool-org/xtool: Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "xtool",
+    "swift",
+    "ios",
+    "cross-platform",
+    "xcode"
+  ],
+  "relevance": "Cross-platform iOS builds for agent workflows.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV13XN1WEAAN8lX.jpg",
+      "from_post": "2115978654169633215",
+      "description": "Diagram of xtool build and sign flows from Linux, Windows and macOS to an iPhone.",
+      "kind": "diagram",
+      "thumbnail": "posts/2026/10/30/2115978654169633215/media/0.webp"
+    }
+  ]
+}

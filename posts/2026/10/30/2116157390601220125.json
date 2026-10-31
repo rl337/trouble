@@ -1,0 +1,34 @@
+{
+  "id": "2116157390601220125",
+  "permalink": "https://x.com/Treexrai/status/2116157390601220125",
+  "author": {
+    "name": "0x7",
+    "handle": "@Treexrai",
+    "profile_url": "https://x.com/Treexrai"
+  },
+  "posted_at": "2026-10-30T13:16:52Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**0x7 ([@Treexrai](https://x.com/Treexrai/status/2116157390601220125))** shares **survival-llm**, an offline assistant that answers first-aid, water and food-storage questions with citable sources using local Ollama plus about 1.5M articles (500K lite) in a SQLite FTS5 index with BM25 boosting official sources ([anonnerdfrenzy/survival-llm](https://github.com/anonnerdfrenzy/survival-llm)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/anonnerdfrenzy/survival-llm",
+      "from_post": "2116157390601220125",
+      "short_url": "https://t.co/WkmIRUcq4l",
+      "title": "GitHub - anonnerdfrenzy/survival-llm: A free AI assistant and survival library that runs on your own computer, with no internet needed. Shows the source of every answer."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "local-models"
+  ],
+  "keywords": [
+    "survival-llm",
+    "ollama",
+    "offline-rag",
+    "sqlite-fts5",
+    "bm25"
+  ],
+  "relevance": "Fully offline local RAG design."
+}

@@ -1,0 +1,33 @@
+{
+  "id": "2116374830543212623",
+  "permalink": "https://x.com/zacklearner/status/2116374830543212623",
+  "author": {
+    "name": "Zack Li",
+    "handle": "@zacklearner",
+    "profile_url": "https://x.com/zacklearner"
+  },
+  "posted_at": "2026-10-31T03:40:54Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**Zack Li ([@zacklearner](https://x.com/zacklearner/status/2116374830543212623))** points to *How Far Are We From On-Device VLM Inference?* ([arXiv 2610.40039](https://arxiv.org/abs/2610.40039)), a measurement study that uses Qualcomm GenieX for on-device benchmarks, alongside LFM3 running on Snapdragon NPUs.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.40039",
+      "from_post": "2116374830543212623",
+      "short_url": "https://t.co/wPvhH9m8Ij",
+      "title": "How Far Are We From On-Device VLM Inference? A Measurement Study..."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "local-models"
+  ],
+  "keywords": [
+    "on-device-vlm",
+    "geniex",
+    "snapdragon-npu",
+    "lfm3"
+  ],
+  "relevance": "On-device VLM performance data."
+}

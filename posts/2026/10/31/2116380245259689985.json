@@ -1,0 +1,36 @@
+{
+  "id": "2116380245259689985",
+  "permalink": "https://x.com/AIbreakingnew/status/2116380245259689985",
+  "author": {
+    "name": "AI breaking news",
+    "handle": "@AIbreakingnew",
+    "profile_url": "https://x.com/AIbreakingnew"
+  },
+  "posted_at": "2026-10-31T04:02:25Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**AI breaking news ([@AIbreakingnew](https://x.com/AIbreakingnew/status/2116380245259689985))** reports DiffuSpace's open-weights **Clover-35B-A3B**, a diffusion language model (35B total, 3B active) that beats Qwen3.6-35B-A3B and generates faster, scoring 83.8 on GPQA Diamond and 95.8 on ZebraLogic ([blog](https://huggingface.co/blog/Diffuspace/clover-35b-a3b-preview)).",
+  "referenced_urls": [
+    {
+      "url": "https://huggingface.co/blog/Diffuspace/clover-35b-a3b-preview",
+      "from_post": "2116380245259689985",
+      "short_url": "https://t.co/vB4xApdfAi",
+      "title": "Clover\\-35B\\-A3B\\-Preview: A New Way for Intelligence"
+    }
+  ],
+  "hashtags": [
+    "AI",
+    "Diffusion"
+  ],
+  "topics": [
+    "local-models"
+  ],
+  "keywords": [
+    "clover-35b-a3b",
+    "diffusion-language-model",
+    "moe",
+    "gpqa"
+  ],
+  "relevance": "Diffusion LLM at Spark-friendly size."
+}

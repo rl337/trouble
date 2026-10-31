@@ -1,0 +1,34 @@
+{
+  "id": "2116298069566206399",
+  "permalink": "https://x.com/SanemBuilds/status/2116298069566206399",
+  "author": {
+    "name": "Sanem Avcil",
+    "handle": "@SanemBuilds",
+    "profile_url": "https://x.com/SanemBuilds"
+  },
+  "posted_at": "2026-10-30T22:35:53Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**Sanem Avcil ([@SanemBuilds](https://x.com/SanemBuilds/status/2116298069566206399))** credits **3D Model Anything**, an MIT app plus viewer and agent skill that captures a room with iPhone LiDAR and photos and guides a coding agent to rebuild it as an editable Three.js scene ([wesbos/3d-model-anything](https://github.com/wesbos/3d-model-anything)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/wesbos/3d-model-anything",
+      "from_post": "2116298069566206399",
+      "short_url": "https://t.co/amTHGVZIlw",
+      "title": "GitHub - wesbos/3d-model-anything: Capture iPhone LiDAR and photos, reconstruct editable Three.js rooms, and explore them in a browser."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "3d-model-anything",
+    "lidar",
+    "three.js",
+    "3d-reconstruction",
+    "agent-skill"
+  ],
+  "relevance": "Capture-to-code 3D reconstruction by agents."
+}

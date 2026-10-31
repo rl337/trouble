@@ -1,0 +1,53 @@
+{
+  "id": "2115898609304801525",
+  "permalink": "https://x.com/rohanpaul_ai/status/2115898609304801525",
+  "author": {
+    "name": "Rohan Paul",
+    "handle": "@rohanpaul_ai",
+    "profile_url": "https://x.com/rohanpaul_ai"
+  },
+  "posted_at": "2026-10-29T20:08:34Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [
+    {
+      "id": "2115898612341408123",
+      "permalink": "https://x.com/rohanpaul_ai/status/2115898612341408123",
+      "posted_at": "2026-10-29T20:08:35Z",
+      "position": 1
+    }
+  ],
+  "summary_md": "**Rohan Paul ([@rohanpaul_ai](https://x.com/rohanpaul_ai/status/2115898609304801525))** summarizes a Princeton–Meta paper, *Don't Forget What You Just Learned* ([arXiv 2610.31846](https://arxiv.org/abs/2610.31846)): with Self-Direction, a failing agent reflects and trains the lesson into a tiny LoRA adapter (~0.02% of the model), and a router loads the nearest adapter on similar tasks; with Qwen3.6-27B, GAIA success rose from 38.8% to 55.8%, beating in-context reflections and a Skills.md file.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.31846",
+      "from_post": "2115898612341408123",
+      "short_url": "https://t.co/NQdjPMdaIo",
+      "title": "Don't Forget What You Just Learned: Self-Directed Repair Turns..."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-cognition"
+  ],
+  "keywords": [
+    "self-direction",
+    "lora",
+    "continual-learning",
+    "self-repair",
+    "qwen3.6-27b",
+    "gaia"
+  ],
+  "relevance": "Lasting self-repair for ~27B local models via adapters.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV0uXbRa8AAdI1l.jpg",
+      "from_post": "2115898609304801525",
+      "description": "First page of the paper with highlighted abstract.",
+      "kind": "paper",
+      "thumbnail": "posts/2026/10/29/2115898609304801525/media/0.webp",
+      "ocr_text": "Don't Forget What You Just Learned: Self-Directed\nRepair Turns Agent Mistakes Into Lasting Lessons\nYuval Kansall,2,*, Karen Ullrich?, Polina Kirichenko?, Ilia Kulikov?, Niraj K. Jha', Mohammad Pezeshki?,\nMark Ibrahim?\n1Princeton University, 2Meta FAIR\n*Work done during an internship at Meta FAIR.\nIntelligent agents should learn from their mistakes so that experience leads to continuous improvement.\nYet today's agents recover from a mistake only temporarily: in-context reflections are easily forgotten\nacross sessions and compete for limited context, while full-parameter fine-tuning is expensive and can\n22 Oct 2026\ninterfere with existing capabilities. We introduce Self-Direction, a mechanism for agents to learn\nfrom mistakes that combines the benefits of temporary in-context retries and policy updates. When\nan agent fails a task, it reflects on its own trajectory in order to extract a lesson and immediately\ndistills it into a lightweight low-rank adapter. By keeping the original weights frozen, Self-Direction\nprevents adapter training from overwriting base-model parameters while training additional parameters\nequivalent to ~ 0.02% of the base model's parameter count for each adapter. The agent then saves\nthese adapters in a persistent library of lessons, automatically routing them to solve related problems\nlater. Experiments with agents based on open-weight models from the Qwen family across open-ended\nresearch (GAIA), tool-use workflows (Claw-Eval), and terminal tasks (Terminal-Bench 2.1) show that\n0.31846v1 [cs.AI]\nour method improves overall success rates by 8.9 to 17.0 percentage points and performs competitively\nwith frontier systems. We find that Self-Direction reduces repeated mistakes across future encounters\nof a task, nearly doubling the reliability of an agent's corrections. Learned lessons also transfer: a\nhandful of adapters generalize to dozens of new tasks without additional training. Ultimately, this\nself-directed repair transforms everyday mistakes into lasting lessons.\nDate: October 20, 2026\nWebsite:https://self-direction.github.io/\nIntroduction"
+    }
+  ]
+}

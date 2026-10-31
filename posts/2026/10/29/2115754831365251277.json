@@ -1,0 +1,33 @@
+{
+  "id": "2115754831365251277",
+  "permalink": "https://x.com/llmspeed/status/2115754831365251277",
+  "author": {
+    "name": "llm-speed",
+    "handle": "@llmspeed",
+    "profile_url": "https://x.com/llmspeed"
+  },
+  "posted_at": "2026-10-29T10:37:15Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**llm-speed ([@llmspeed](https://x.com/llmspeed/status/2115754831365251277))** reports **Nemotron 3.5 Bolt 74B-A9B** decoding 157.3 tok/s on an RTX 5090 with NVIDIA's official 2-bit GGUF in llama.cpp at 32K context (short-prompt decode), and 107.3 tok/s on a 24GB 4090 at 4K ([llm-speed page](https://llm-speed.com/m/nemotron-3-5-bolt-74b-a9b)).",
+  "referenced_urls": [
+    {
+      "url": "https://llm-speed.com/m/nemotron-3-5-bolt-74b-a9b",
+      "from_post": "2115754831365251277",
+      "short_url": "https://t.co/BefSZ3SCO8"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "local-models"
+  ],
+  "keywords": [
+    "nemotron-3.5-bolt",
+    "gguf",
+    "llama.cpp",
+    "throughput",
+    "rtx-5090"
+  ],
+  "relevance": "Local throughput numbers for a large Nemotron MoE."
+}

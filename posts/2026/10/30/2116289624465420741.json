@@ -1,0 +1,35 @@
+{
+  "id": "2116289624465420741",
+  "permalink": "https://x.com/YGMDev/status/2116289624465420741",
+  "author": {
+    "name": "YGM 🇵🇸",
+    "handle": "@YGMDev",
+    "profile_url": "https://x.com/YGMDev"
+  },
+  "posted_at": "2026-10-30T22:02:19Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**YGM 🇵🇸 ([@YGMDev](https://x.com/YGMDev/status/2116289624465420741))** introduces **AutoGameSkill**, a Claude skill meant to turn a game idea into a publish-ready Roblox game ([YGMontop/AutoGameSkill](https://github.com/YGMontop/AutoGameSkill)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/YGMontop/AutoGameSkill",
+      "from_post": "2116289624465420741",
+      "short_url": "https://t.co/kZ7YSfrxv3",
+      "title": "GitHub - YGMontop/AutoGameSkill: a claude skill allowing you to make roblox games in no time"
+    }
+  ],
+  "hashtags": [
+    "RobloxDev"
+  ],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "autogameskill",
+    "roblox",
+    "agent-skill",
+    "game-development"
+  ],
+  "relevance": "Agentic Roblox development."
+}

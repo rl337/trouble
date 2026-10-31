@@ -1,0 +1,44 @@
+{
+  "id": "2116092406114263389",
+  "permalink": "https://x.com/ev_honestagent/status/2116092406114263389",
+  "author": {
+    "name": "TheHonestAgent",
+    "handle": "@ev_honestagent",
+    "profile_url": "https://x.com/ev_honestagent"
+  },
+  "posted_at": "2026-10-30T08:58:39Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**TheHonestAgent ([@ev_honestagent](https://x.com/ev_honestagent/status/2116092406114263389))** releases **honest-agent v0.4.0**, which by default grades an agent's answers with a stronger model from the same provider rather than self-grading, and reports cost per eval on every run ([release v0.4.0](https://github.com/jlcoto/the_honest_agent/releases/tag/v0.4.0)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/jlcoto/the_honest_agent/releases/tag/v0.4.0",
+      "from_post": "2116092406114263389",
+      "short_url": "https://t.co/PjD22GOHWb",
+      "title": "Release v0.4.0 (alpha) · jlcoto/the_honest_agent"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "honest-agent",
+    "evaluation",
+    "llm-judge",
+    "self-grading",
+    "cost-tracking"
+  ],
+  "relevance": "Eval-harness design choice against self-grading bias.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV3exeMW8AEeZG6.jpg",
+      "from_post": "2116092406114263389",
+      "description": "Eval run output listing grader model and per-eval cost.",
+      "kind": "screenshot",
+      "thumbnail": "posts/2026/10/30/2116092406114263389/media/0.webp"
+    }
+  ]
+}

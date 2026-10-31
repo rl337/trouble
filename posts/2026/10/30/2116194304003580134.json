@@ -1,0 +1,51 @@
+{
+  "id": "2116194304003580134",
+  "permalink": "https://x.com/StraughterG/status/2116194304003580134",
+  "author": {
+    "name": "Jay Guthrie",
+    "handle": "@StraughterG",
+    "profile_url": "https://x.com/StraughterG"
+  },
+  "posted_at": "2026-10-30T15:43:33Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [
+    {
+      "id": "2116206588876722370",
+      "permalink": "https://x.com/StraughterG/status/2116206588876722370",
+      "posted_at": "2026-10-30T16:32:22Z",
+      "position": 1
+    }
+  ],
+  "summary_md": "**Jay Guthrie ([@StraughterG](https://x.com/StraughterG/status/2116194304003580134))** releases **RecastRoom Studio**, an open MiniMax H3 recasting workspace with shot/take review, exact audio lock and reproducible Comfy workflows ([jmanhype/recastroom-studio](https://github.com/jmanhype/recastroom-studio)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/jmanhype/recastroom-studio",
+      "from_post": "2116194304003580134",
+      "short_url": "https://t.co/ULSJUebFoi",
+      "title": "GitHub - jmanhype/recastroom-studio: MiniMax H3 performance-preserving recasting studio for ComfyUI"
+    }
+  ],
+  "hashtags": [
+    "OpenSourceHiggsfield"
+  ],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "recastroom",
+    "minimax-h3",
+    "recasting",
+    "comfyui",
+    "opensourcehiggsfield"
+  ],
+  "relevance": "Performance-preserving recasting.",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://x.com/StraughterG/status/2116206588876722370/video/1",
+      "from_post": "2116206588876722370",
+      "description": "24-second explainer of recasting (not downloaded; referenced only)."
+    }
+  ]
+}

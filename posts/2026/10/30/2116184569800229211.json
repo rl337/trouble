@@ -1,0 +1,44 @@
+{
+  "id": "2116184569800229211",
+  "permalink": "https://x.com/dev_ram_/status/2116184569800229211",
+  "author": {
+    "name": "raeminKang",
+    "handle": "@dev_ram_",
+    "profile_url": "https://x.com/dev_ram_"
+  },
+  "posted_at": "2026-10-30T15:04:52Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**raeminKang ([@dev_ram_](https://x.com/dev_ram_/status/2116184569800229211))** found Codex drove browsers better than Claude, so built **chrome-direct**, which saves a working browser flow as a script so later runs need no LLM, growing a library of signup, login and ID-check cases ([kangraemin/chrome-direct](https://github.com/kangraemin/chrome-direct)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/kangraemin/chrome-direct",
+      "from_post": "2116184569800229211",
+      "short_url": "https://t.co/2oe28Lm83s",
+      "title": "GitHub - kangraemin/chrome-direct: LLM 없이 실제 Mac Chrome을 조작하는 스크립트 + web-scriptify (Claude Code plugin)"
+    }
+  ],
+  "hashtags": [
+    "BuildInPublic",
+    "ClaudeCode"
+  ],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "chrome-direct",
+    "browser-automation",
+    "claude-code",
+    "script-caching"
+  ],
+  "relevance": "Compile agent browser runs into deterministic scripts.",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://x.com/dev_ram_/status/2116184569800229211/video/1",
+      "from_post": "2116184569800229211",
+      "description": "Scripted Chrome flow running (not downloaded; referenced only)."
+    }
+  ]
+}

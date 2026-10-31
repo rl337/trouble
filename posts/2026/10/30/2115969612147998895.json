@@ -1,0 +1,34 @@
+{
+  "id": "2115969612147998895",
+  "permalink": "https://x.com/HighwayofLife/status/2115969612147998895",
+  "author": {
+    "name": "David Lewis | Agent Wrangler 🤠",
+    "handle": "@HighwayofLife",
+    "profile_url": "https://x.com/HighwayofLife"
+  },
+  "posted_at": "2026-10-30T00:50:43Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**David Lewis | Agent Wrangler 🤠 ([@HighwayofLife](https://x.com/HighwayofLife/status/2115969612147998895))** open-sourced **Agent Kaizen**, a Claude Code plugin that finds where agents burn tokens, trims waste, routes work to the right model (Claude, Codex, Grok, Gemini) and re-measures to prove each change paid off ([HighwayofLife/agent-kaizen](https://github.com/HighwayofLife/agent-kaizen)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/HighwayofLife/agent-kaizen",
+      "from_post": "2115969612147998895",
+      "short_url": "https://t.co/nKC5ohgj9c",
+      "title": "GitHub - HighwayofLife/agent-kaizen: Continuous improvement for AI coding agents: a Claude Code plugin that audits token usage, trims context, routes work to the right model, and checks that each change paid off."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "agent-kaizen",
+    "token-optimization",
+    "model-routing",
+    "claude-code",
+    "plugin"
+  ],
+  "relevance": "Measured token optimization and model routing for agents."
+}

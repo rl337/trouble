@@ -1,0 +1,58 @@
+{
+  "id": "2116209287965942140",
+  "permalink": "https://x.com/DevOuterReaches/status/2116209287965942140",
+  "author": {
+    "name": "Alex",
+    "handle": "@DevOuterReaches",
+    "profile_url": "https://x.com/DevOuterReaches"
+  },
+  "posted_at": "2026-10-30T16:43:06Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [
+    {
+      "id": "2116209988612042941",
+      "permalink": "https://x.com/DevOuterReaches/status/2116209988612042941",
+      "posted_at": "2026-10-30T16:45:53Z",
+      "position": 1
+    }
+  ],
+  "summary_md": "**Alex ([@DevOuterReaches](https://x.com/DevOuterReaches/status/2116209287965942140))** releases **blender-building-generator v0.13.1**, a Blender add-on now generating full cities with points of interest and exporting metadata for Unity procgen asset placement ([outerreaches/blender-building-generator](https://github.com/outerreaches/blender-building-generator)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/outerreaches/blender-building-generator",
+      "from_post": "2116209287965942140",
+      "short_url": "https://t.co/uXkzFre8tO",
+      "title": "GitHub - outerreaches/blender-building-generator: Blender add-on that generates game-ready buildings and whole ruined cities: closed-solid shells with floor plans, damage and collapse states, points of interest, streets with driving circuits, and FBX + JSON export for Unity."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "blender-building-generator",
+    "blender",
+    "procedural-generation",
+    "unity"
+  ],
+  "relevance": "Procedural 3D city generation.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV5It71XIAAogyB.jpg",
+      "from_post": "2116209287965942140",
+      "description": "Rendered city skyline at dusk from the generator.",
+      "kind": "photo",
+      "thumbnail": "posts/2026/10/30/2116209287965942140/media/0.webp"
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV5JsnNXYAAH6HC.jpg",
+      "from_post": "2116209988612042941",
+      "description": "Wider view of generated city blocks at dusk.",
+      "kind": "photo",
+      "thumbnail": "posts/2026/10/30/2116209287965942140/media/1.webp"
+    }
+  ]
+}

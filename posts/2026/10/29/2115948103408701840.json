@@ -1,0 +1,34 @@
+{
+  "id": "2115948103408701840",
+  "permalink": "https://x.com/gen_ff_news/status/2115948103408701840",
+  "author": {
+    "name": "GEN FRAME FLASH",
+    "handle": "@gen_ff_news",
+    "profile_url": "https://x.com/gen_ff_news"
+  },
+  "posted_at": "2026-10-29T23:25:14Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**GEN FRAME FLASH ([@gen_ff_news](https://x.com/gen_ff_news/status/2115948103408701840))** reports that **Apex 35B** ships official GGUFs (Q4 at 21.7 GB) and, though Qwen-derived, needs its own chat template ([article](https://gffnews.com/?p=564)).",
+  "referenced_urls": [
+    {
+      "url": "https://gffnews.com/?p=564",
+      "from_post": "2115948103408701840",
+      "short_url": "https://t.co/6LIBSo3Czr",
+      "title": "Apex 35Bが公式GGUFを配布、Q4版21.7GB。Qwen派生でも専用の会話テンプレートが必要 – GEN FRAME FLASH"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "local-models"
+  ],
+  "keywords": [
+    "apex-35b",
+    "gguf",
+    "quantization",
+    "chat-template",
+    "qwen"
+  ],
+  "relevance": "Mid-size local model with a GGUF size that fits a Spark."
+}

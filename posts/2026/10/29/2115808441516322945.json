@@ -1,0 +1,35 @@
+{
+  "id": "2115808441516322945",
+  "permalink": "https://x.com/Processing_Unit/status/2115808441516322945",
+  "author": {
+    "name": "圓山宗智",
+    "handle": "@Processing_Unit",
+    "profile_url": "https://x.com/Processing_Unit"
+  },
+  "posted_at": "2026-10-29T14:10:16Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**圓山宗智 ([@Processing_Unit](https://x.com/Processing_Unit/status/2115808441516322945))** used Claude Code to design **mmRISC-2**, a 64-bit RV64GC RISC-V core with L1/L2 caches, MMU, BTB, FPU and JTAG/cJTAG debugger that boots Linux on an Arty A7 FPGA after one month ([munetomo-maruyama/mmRISC-2](https://github.com/munetomo-maruyama/mmRISC-2)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/munetomo-maruyama/mmRISC-2",
+      "from_post": "2115808441516322945",
+      "short_url": "https://t.co/JCej7dqhqW",
+      "title": "GitHub - munetomo-maruyama/mmRISC-2: 64-bit RISC-V (RV64GC) core that boots Linux on an Arty A7 FPGA. Designed entirely by Claude Code: the specifications, RTL, verification and documents were all written by the AI."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev",
+    "agentic-cognition"
+  ],
+  "keywords": [
+    "mmrisc-2",
+    "risc-v",
+    "fpga",
+    "claude-code",
+    "cpu-design"
+  ],
+  "relevance": "Striking example of agentic coding on hardware design."
+}

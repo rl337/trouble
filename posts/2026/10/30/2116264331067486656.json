@@ -1,0 +1,97 @@
+{
+  "id": "2116264331067486656",
+  "permalink": "https://x.com/shiqiliu_67/status/2116264331067486656",
+  "author": {
+    "name": "Shiqi Liu",
+    "handle": "@shiqiliu_67",
+    "profile_url": "https://x.com/shiqiliu_67"
+  },
+  "posted_at": "2026-10-30T20:21:49Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [
+    {
+      "id": "2116264334305448288",
+      "permalink": "https://x.com/shiqiliu_67/status/2116264334305448288",
+      "posted_at": "2026-10-30T20:21:50Z",
+      "position": 1
+    },
+    {
+      "id": "2116264337937780819",
+      "permalink": "https://x.com/shiqiliu_67/status/2116264337937780819",
+      "posted_at": "2026-10-30T20:21:51Z",
+      "position": 2
+    },
+    {
+      "id": "2116264341502677495",
+      "permalink": "https://x.com/shiqiliu_67/status/2116264341502677495",
+      "posted_at": "2026-10-30T20:21:51Z",
+      "position": 3
+    },
+    {
+      "id": "2116264344292077696",
+      "permalink": "https://x.com/shiqiliu_67/status/2116264344292077696",
+      "posted_at": "2026-10-30T20:21:52Z",
+      "position": 4
+    }
+  ],
+  "summary_md": "**Shiqi Liu ([@shiqiliu_67](https://x.com/shiqiliu_67/status/2116264331067486656))** introduces **ELEVATE** ([arXiv 2610.38388](https://arxiv.org/abs/2610.38388), [project](https://agentic-quad-elevate.github.io/public/)): on persistent failure the agent identifies a missing capability, trains an RL controller in simulation, validates it and adds it to a growing skill library for a real quadrupedal manipulator.",
+  "referenced_urls": [
+    {
+      "url": "https://agentic-quad-elevate.github.io/public/",
+      "from_post": "2116264331067486656",
+      "short_url": "https://t.co/TqHzChpd23",
+      "title": "ELEVATE: Agentic Controller Acquisition from Task Failure for Quadrupedal Manipulation"
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.38388",
+      "from_post": "2116264331067486656",
+      "short_url": "https://t.co/bfQdQnJZap",
+      "title": "ELEVATE: Agentic Controller Acquisition from Task Failure for..."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-cognition"
+  ],
+  "keywords": [
+    "elevate",
+    "skill-library",
+    "reinforcement-learning",
+    "quadruped",
+    "sim-to-real"
+  ],
+  "relevance": "Agents that learn new skills from failure.",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://x.com/shiqiliu_67/status/2116264331067486656/video/1",
+      "from_post": "2116264331067486656",
+      "description": "Robot learning to reach using new controllers (not downloaded; referenced only)."
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV56ay1XAAEfPu_.jpg",
+      "from_post": "2116264334305448288",
+      "description": "Learning loop from task failure to controller synthesis and skill composition.",
+      "kind": "diagram",
+      "thumbnail": "posts/2026/10/30/2116264331067486656/media/1.webp"
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV56hYUXwAECZyj.jpg",
+      "from_post": "2116264337937780819",
+      "description": "Table of seven tasks with learned and reused controllers and skills.",
+      "kind": "chart",
+      "thumbnail": "posts/2026/10/30/2116264331067486656/media/2.webp"
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV56tT7WYAAqH7h.jpg",
+      "from_post": "2116264341502677495",
+      "description": "Simulation frames of the robot using a box for support.",
+      "kind": "photo",
+      "thumbnail": "posts/2026/10/30/2116264331067486656/media/3.webp"
+    }
+  ]
+}

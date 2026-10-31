@@ -1,0 +1,35 @@
+{
+  "id": "2116037207823876569",
+  "permalink": "https://x.com/_skmkzyk/status/2116037207823876569",
+  "author": {
+    "name": "Kazuyuki Sakemi",
+    "handle": "@_skmkzyk",
+    "profile_url": "https://x.com/_skmkzyk"
+  },
+  "posted_at": "2026-10-30T05:19:19Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**Kazuyuki Sakemi ([@_skmkzyk](https://x.com/_skmkzyk/status/2116037207823876569))** notes Microsoft's **waza**, a CLI/framework to create, test, measure and improve agent skills ([microsoft/waza](https://github.com/microsoft/waza)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/microsoft/waza",
+      "from_post": "2116037207823876569",
+      "short_url": "https://t.co/IKK5nORAlC",
+      "title": "GitHub - microsoft/waza: CLI / Framework for Agent Skills - create, test, measure and improve skill quality and effectiveness"
+    }
+  ],
+  "hashtags": [
+    "すきやねんAzure"
+  ],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "waza",
+    "agent-skill",
+    "evaluation",
+    "cli"
+  ],
+  "relevance": "Skill evaluation tooling."
+}

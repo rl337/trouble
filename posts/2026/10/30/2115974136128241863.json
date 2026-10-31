@@ -1,0 +1,66 @@
+{
+  "id": "2115974136128241863",
+  "permalink": "https://x.com/wushi123321/status/2115974136128241863",
+  "author": {
+    "name": "Shawn Bang",
+    "handle": "@wushi123321",
+    "profile_url": "https://x.com/wushi123321"
+  },
+  "posted_at": "2026-10-30T01:08:41Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [
+    {
+      "id": "2115974469378551892",
+      "permalink": "https://x.com/wushi123321/status/2115974469378551892",
+      "posted_at": "2026-10-30T01:10:01Z",
+      "position": 1
+    },
+    {
+      "id": "2115974582477685087",
+      "permalink": "https://x.com/wushi123321/status/2115974582477685087",
+      "posted_at": "2026-10-30T01:10:28Z",
+      "position": 2
+    },
+    {
+      "id": "2115974674341585073",
+      "permalink": "https://x.com/wushi123321/status/2115974674341585073",
+      "posted_at": "2026-10-30T01:10:49Z",
+      "position": 3
+    }
+  ],
+  "summary_md": "**Shawn Bang ([@wushi123321](https://x.com/wushi123321/status/2115974136128241863))** breaks down Together AI's **Hallmark** (~40.7k stars, MIT), a design skill that lints for AI tells like heading eyebrows, single colored headline words, fake stats and broken mobile layouts: it deals 3 of 50 themes, builds the hero first, then sloplint renders the page at 8 widths for a fresh sub-agent review; needs Node 18+ and Chrome/puppeteer for browser checks ([Nutlope/hallmark](https://github.com/Nutlope/hallmark)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/Nutlope/hallmark",
+      "from_post": "2115974136128241863",
+      "short_url": "https://t.co/9WlnebIN4E",
+      "title": "GitHub - Nutlope/hallmark: Anti-AI-slop design skill for Claude Code, Cursor, and Codex."
+    }
+  ],
+  "hashtags": [
+    "GitHub",
+    "OpenSource"
+  ],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "hallmark",
+    "design-skill",
+    "sloplint",
+    "sub-agent-review",
+    "landing-page"
+  ],
+  "relevance": "Anti-slop design verification as a skill.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV1zB5BWEAEp_AK.jpg",
+      "from_post": "2115974136128241863",
+      "description": "GitHub card for Nutlope/hallmark: anti-AI-slop design skill for Claude Code, Cursor and Codex.",
+      "kind": "screenshot",
+      "thumbnail": "posts/2026/10/30/2115974136128241863/media/0.webp"
+    }
+  ]
+}

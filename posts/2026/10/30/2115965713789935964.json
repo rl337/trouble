@@ -1,0 +1,40 @@
+{
+  "id": "2115965713789935964",
+  "permalink": "https://x.com/Hello_Sinha/status/2115965713789935964",
+  "author": {
+    "name": "Priyanshu Sinha",
+    "handle": "@Hello_Sinha",
+    "profile_url": "https://x.com/Hello_Sinha"
+  },
+  "posted_at": "2026-10-30T00:35:13Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**Priyanshu Sinha ([@Hello_Sinha](https://x.com/Hello_Sinha/status/2115965713789935964))** built **Higgsy**, a customizable voice guide made with ComfyUI that answers questions about Higgsfield ([demo](https://hana-comfy-hack.vercel.app), [mhaihq/hana-comfy-hack](https://github.com/mhaihq/hana-comfy-hack)).",
+  "referenced_urls": [
+    {
+      "url": "https://hana-comfy-hack.vercel.app",
+      "from_post": "2115965713789935964",
+      "short_url": "https://t.co/B1nYvdOO8o",
+      "title": "Ask Higgsy"
+    },
+    {
+      "url": "https://github.com/mhaihq/hana-comfy-hack",
+      "from_post": "2115965713789935964",
+      "short_url": "https://t.co/JD60qGqnD0",
+      "title": "GitHub - mhaihq/hana-comfy-hack"
+    }
+  ],
+  "hashtags": [
+    "OpenSourceHiggsfield"
+  ],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "higgsy",
+    "voice-agent",
+    "comfyui"
+  ],
+  "relevance": "Voice agent built on ComfyUI."
+}

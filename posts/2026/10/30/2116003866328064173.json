@@ -1,0 +1,44 @@
+{
+  "id": "2116003866328064173",
+  "permalink": "https://x.com/CSVisionPapers/status/2116003866328064173",
+  "author": {
+    "name": "Computer Vision and Pattern Recognition Papers",
+    "handle": "@CSVisionPapers",
+    "profile_url": "https://x.com/CSVisionPapers"
+  },
+  "posted_at": "2026-10-30T03:06:49Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**Computer Vision and Pattern Recognition Papers ([@CSVisionPapers](https://x.com/CSVisionPapers/status/2116003866328064173))** shares **EditDistill** ([arXiv 2610.34303](https://arxiv.org/abs/2610.34303)), which edits a source video's first frame with an image editor, distills the change into a compact edit descriptor, and injects it into a video diffusion model through a fusion module to guide the whole video.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.34303",
+      "from_post": "2116003866328064173",
+      "short_url": "https://t.co/fdfiqCckaM",
+      "title": "EditDistill: Is It Possible to Guide Video Editing with Image Editing?"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "editdistill",
+    "video-editing",
+    "image-editing",
+    "video-diffusion"
+  ],
+  "relevance": "Transferring image-editing control to video.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV2OTXUWwAAIz-U.png",
+      "from_post": "2116003866328064173",
+      "description": "Image of the paper's abstract text.",
+      "kind": "paper",
+      "thumbnail": "posts/2026/10/30/2116003866328064173/media/0.webp",
+      "ocr_text": "Recent advances in image editing have enabled fine-grained and highly controllable visual modifications. However, achieving similar levels of controllability in video editing remains an open challenge, particularly for precise local edits, dynamic temporal effects, and consistent lighting across frames.In this paper, we propose EditDistill, a framework that distills image-level visual transformations from edits to guide video editing.Specifically, given a source video and an edit prompt, we first generate an edited version of the initial video frame using an off-the-shelf image editing model. We then distill the visual transformation of this original-edited image pair into a compact representation termed an edit descriptor.This descriptor is injected into a video diffusion model through our lightweight fusion module, which steers the denoising process toward the desired edit. To align the video trajectory with the demonstrated image edit while preserving motion and layout, we train wit"
+    }
+  ]
+}

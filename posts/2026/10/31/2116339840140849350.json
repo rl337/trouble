@@ -1,0 +1,34 @@
+{
+  "id": "2116339840140849350",
+  "permalink": "https://x.com/BillyNogami69/status/2116339840140849350",
+  "author": {
+    "name": "Billy Nogami",
+    "handle": "@BillyNogami69",
+    "profile_url": "https://x.com/BillyNogami69"
+  },
+  "posted_at": "2026-10-31T01:21:52Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**Billy Nogami ([@BillyNogami69](https://x.com/BillyNogami69/status/2116339840140849350))** presents **Agent Sync Layer**. Each coding agent gets its own worktree, and edits sync live through Yjs CRDTs so conflicts surface early instead of at merge time ([alanoconner/agent-sync-layer](https://github.com/alanoconner/agent-sync-layer)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/alanoconner/agent-sync-layer",
+      "from_post": "2116339840140849350",
+      "short_url": "https://t.co/NXma82nHye",
+      "title": "GitHub - alanoconner/agent-sync-layer: Real-time CRDT synchronization for concurrent AI coding agents. Run Codex and Claude Code in parallel without silently losing overlapping file edits"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "agent-sync-layer",
+    "crdt",
+    "yjs",
+    "worktree",
+    "multi-agent"
+  ],
+  "relevance": "Concurrent agent editing."
+}

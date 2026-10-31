@@ -1,0 +1,34 @@
+{
+  "id": "2116294326758047962",
+  "permalink": "https://x.com/plattypuus/status/2116294326758047962",
+  "author": {
+    "name": "タイド",
+    "handle": "@plattypuus",
+    "profile_url": "https://x.com/plattypuus"
+  },
+  "posted_at": "2026-10-30T22:21:01Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**タイド ([@plattypuus](https://x.com/plattypuus/status/2116294326758047962))** shares **blender-skills**, 22 Blender 5.2 agent skills organized by stage (modeling, UV, materials, rigging, animation, export, QA) that can run Blender in the background without MCP ([EL4CTEO/blender-skills](https://github.com/EL4CTEO/blender-skills)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/EL4CTEO/blender-skills",
+      "from_post": "2116294326758047962",
+      "short_url": "https://t.co/BQPHx8X68x",
+      "title": "GitHub - EL4CTEO/blender-skills: Professional Blender 5.2 workflows as Agent Skills for Claude Code, Codex, Gemini CLI, Copilot and Cursor: modeling, UVs, PBR, baking, rigging, animation, export and QA."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "blender-skill",
+    "blender",
+    "agent-skill",
+    "3d-modeling",
+    "rigging"
+  ],
+  "relevance": "Stage-by-stage Blender agent skills."
+}

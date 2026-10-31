@@ -1,0 +1,34 @@
+{
+  "id": "2115941755346436392",
+  "permalink": "https://x.com/paxeer_app/status/2115941755346436392",
+  "author": {
+    "name": "Paxeer Network Protocol",
+    "handle": "@paxeer_app",
+    "profile_url": "https://x.com/paxeer_app"
+  },
+  "posted_at": "2026-10-29T23:00:01Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**Paxeer Network Protocol ([@paxeer_app](https://x.com/paxeer_app/status/2115941755346436392))** open-sources **Keith**, a Rust self-improving harness that rewrites its own machinery rather than its prompt: each new version is built in isolation, tested against the current one and adopted only if it measurably improves ([Sidiora-Labs/keith-agent-harness](https://github.com/Sidiora-Labs/keith-agent-harness)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/Sidiora-Labs/keith-agent-harness",
+      "from_post": "2115941755346436392",
+      "short_url": "https://t.co/Vs1HC0fsqv",
+      "title": "GitHub - Sidiora-Labs/keith-agent-harness: The first agent that truly evolves not through prompt tricks, but by modifying, testing, and safely promoting changes to its own harness."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev",
+    "agentic-cognition"
+  ],
+  "keywords": [
+    "keith",
+    "self-improving-harness",
+    "rust",
+    "evaluation-gate"
+  ],
+  "relevance": "Gated self-modification of a harness."
+}

@@ -1,0 +1,41 @@
+{
+  "id": "2115829259277312078",
+  "permalink": "https://x.com/Easycompany333/status/2115829259277312078",
+  "author": {
+    "name": "Easycompany",
+    "handle": "@Easycompany333",
+    "profile_url": "https://x.com/Easycompany333"
+  },
+  "posted_at": "2026-10-29T15:33:00Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**Easycompany ([@Easycompany333](https://x.com/Easycompany333/status/2115829259277312078))** reviews Meituan's open-source **LongCat-Video-Avatar 1.5**, which turns a half-body photo and audio into a natural talking avatar with good hand motion, and notes that raising ref_img_index far above the default 10 causes repeated motions ([meituan-longcat/LongCat-Video](https://github.com/meituan-longcat/LongCat-Video)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/meituan-longcat/LongCat-Video",
+      "from_post": "2115829259277312078",
+      "short_url": "https://t.co/qXFxnYtv4i",
+      "title": "GitHub - meituan-longcat/LongCat-Video"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "longcat-video-avatar",
+    "digital-human",
+    "talking-avatar",
+    "video-generation"
+  ],
+  "relevance": "Open digital-human video model with practical tuning notes.",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://x.com/Easycompany333/status/2115829259277312078/video/1",
+      "from_post": "2115829259277312078",
+      "description": "Example avatar clip (not downloaded; referenced only)."
+    }
+  ]
+}

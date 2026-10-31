@@ -1,0 +1,33 @@
+{
+  "id": "2115702917772795937",
+  "permalink": "https://x.com/o_damilola21/status/2115702917772795937",
+  "author": {
+    "name": "Rashidat Sikiru",
+    "handle": "@o_damilola21",
+    "profile_url": "https://x.com/o_damilola21"
+  },
+  "posted_at": "2026-10-29T07:10:58Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**Rashidat Sikiru ([@o_damilola21](https://x.com/o_damilola21/status/2115702917772795937))** highlights a Google Research and Cornell paper, *Language Models Need Sleep* ([arXiv 2606.03979](https://arxiv.org/abs/2606.03979)), on letting LLMs keep learning after deployment by periodically self-modifying, a continual-learning angle on why models stop improving once shipped.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2606.03979",
+      "from_post": "2115702917772795937",
+      "short_url": "https://t.co/vojUU4DgYF",
+      "title": "Language Models Need Sleep: Learning to Self-Modify and..."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-cognition"
+  ],
+  "keywords": [
+    "continual-learning",
+    "self-modification",
+    "llm",
+    "sleep"
+  ],
+  "relevance": "Continual learning and self-modification are core questions for agent cognition."
+}

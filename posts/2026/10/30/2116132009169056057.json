@@ -1,0 +1,85 @@
+{
+  "id": "2116132009169056057",
+  "permalink": "https://x.com/MohakBajaj5/status/2116132009169056057",
+  "author": {
+    "name": "Mohak Bajaj",
+    "handle": "@MohakBajaj5",
+    "profile_url": "https://x.com/MohakBajaj5"
+  },
+  "posted_at": "2026-10-30T11:36:01Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**Mohak Bajaj ([@MohakBajaj5](https://x.com/MohakBajaj5/status/2116132009169056057))** lists sandboxes for coding agents from light to heavy: Anthropic's sandbox-runtime, bubblewrap, wasmtime, gVisor, Kata Containers, Firecracker, microsandbox, E2B and Cloudflare's sandbox SDK ([anthropics/sandbox-runtime](https://github.com/anthropics/sandbox-runtime), [containers/bubblewrap](http://github.com/containers/bubblewrap), [google/gvisor](http://github.com/google/gvisor), [firecracker-microvm/firecracker](http://github.com/firecracker-microvm/firecracker)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/anthropics/sandbox-runtime",
+      "from_post": "2116132009169056057",
+      "short_url": "https://t.co/Ud3elA1yqr",
+      "title": "GitHub - anthropics/sandbox-runtime: A lightweight sandboxing tool for enforcing filesystem and network restrictions on arbitrary processes at the OS level, without requiring a container."
+    },
+    {
+      "url": "http://github.com/containers/bubblewrap",
+      "from_post": "2116132009169056057",
+      "short_url": "https://t.co/yvoPTZqzPJ"
+    },
+    {
+      "url": "http://github.com/bytecodealliance/wasmtime",
+      "from_post": "2116132009169056057",
+      "short_url": "https://t.co/7TUQyowAxP"
+    },
+    {
+      "url": "http://github.com/google/gvisor",
+      "from_post": "2116132009169056057",
+      "short_url": "https://t.co/S21Wwal5C1"
+    },
+    {
+      "url": "http://github.com/kata-containers/kata-containers",
+      "from_post": "2116132009169056057",
+      "short_url": "https://t.co/qAzGrMcQko"
+    },
+    {
+      "url": "http://github.com/firecracker-microvm/firecracker",
+      "from_post": "2116132009169056057",
+      "short_url": "https://t.co/od31bw3VAo"
+    },
+    {
+      "url": "http://github.com/superradcompany/microsandbox",
+      "from_post": "2116132009169056057",
+      "short_url": "https://t.co/DFMUujsYSd"
+    },
+    {
+      "url": "http://github.com/e2b-dev/E2B",
+      "from_post": "2116132009169056057",
+      "short_url": "https://t.co/GMSOSwQmcX"
+    },
+    {
+      "url": "http://github.com/cloudflare/sandbox-sdk",
+      "from_post": "2116132009169056057",
+      "short_url": "https://t.co/WtFl1BuWDi"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "sandbox",
+    "bubblewrap",
+    "gvisor",
+    "firecracker",
+    "wasmtime",
+    "agent-security"
+  ],
+  "relevance": "Reference list for isolating agent execution.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV4C14EbMAEgFJI.png",
+      "from_post": "2116132009169056057",
+      "description": "Terminal-styled layered diagram from process fence to runtime, user kernel, microVM and hosted sandboxes: less trust in input means more layers.",
+      "kind": "diagram",
+      "thumbnail": "posts/2026/10/30/2116132009169056057/media/0.webp"
+    }
+  ]
+}

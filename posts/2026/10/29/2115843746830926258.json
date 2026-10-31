@@ -1,0 +1,41 @@
+{
+  "id": "2115843746830926258",
+  "permalink": "https://x.com/ZeroAgencyAI/status/2115843746830926258",
+  "author": {
+    "name": "Zero Agency",
+    "handle": "@ZeroAgencyAI",
+    "profile_url": "https://x.com/ZeroAgencyAI"
+  },
+  "posted_at": "2026-10-29T16:30:34Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [
+    {
+      "id": "2115843747980198011",
+      "permalink": "https://x.com/ZeroAgencyAI/status/2115843747980198011",
+      "posted_at": "2026-10-29T16:30:34Z",
+      "position": 1
+    }
+  ],
+  "summary_md": "**Zero Agency ([@ZeroAgencyAI](https://x.com/ZeroAgencyAI/status/2115843746830926258))** points to **Grim Prompter**, an MIT threat-modeling skill: run `/threat-model` in Claude Code or `$threat-model` in Codex for threats and fixes with file and line citations, explicitly a first pass rather than a certificate ([jmanico/grim-prompter](https://github.com/jmanico/grim-prompter)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/jmanico/grim-prompter",
+      "from_post": "2115843746830926258",
+      "short_url": "https://t.co/Z8twpWF3Rk",
+      "title": "GitHub - jmanico/grim-prompter: Threat modeling for AI coding agents: point Claude Code, Codex or any agent at your repo and get an evidence-traced threat model. 36 architectures, 29 methods, MIT."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "grim-prompter",
+    "threat-model",
+    "security",
+    "agent-skill",
+    "claude-code"
+  ],
+  "relevance": "Security review skill for coding agents."
+}

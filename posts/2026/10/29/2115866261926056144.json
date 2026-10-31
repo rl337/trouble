@@ -1,0 +1,35 @@
+{
+  "id": "2115866261926056144",
+  "permalink": "https://x.com/zahareus/status/2115866261926056144",
+  "author": {
+    "name": "Viсtor Zakharchenko 🇺🇦",
+    "handle": "@zahareus",
+    "profile_url": "https://x.com/zahareus"
+  },
+  "posted_at": "2026-10-29T18:00:02Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**Viсtor Zakharchenko 🇺🇦 ([@zahareus](https://x.com/zahareus/status/2115866261926056144))** notes HeyGen's open-source **HyperFrames**: write a video as HTML and render to MP4, built for agents with a Claude Code plugin and about 450 ready blocks (captions, charts, maps, 3D) on GSAP, Lottie and Three.js, Apache 2.0 ([heygen-com/hyperframes](https://github.com/heygen-com/hyperframes)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/heygen-com/hyperframes",
+      "from_post": "2115866261926056144",
+      "short_url": "https://t.co/eOn1AQnqx8",
+      "title": "GitHub - heygen-com/hyperframes: Write HTML. Render video. Built for agents."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-media",
+    "harness-dev"
+  ],
+  "keywords": [
+    "hyperframes",
+    "html-video",
+    "claude-code",
+    "gsap",
+    "three.js"
+  ],
+  "relevance": "HTML-as-video is an agent-friendly media format."
+}

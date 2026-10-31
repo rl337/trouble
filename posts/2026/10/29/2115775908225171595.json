@@ -1,0 +1,44 @@
+{
+  "id": "2115775908225171595",
+  "permalink": "https://x.com/DwarfStarDS4/status/2115775908225171595",
+  "author": {
+    "name": "DwarfStar",
+    "handle": "@DwarfStarDS4",
+    "profile_url": "https://x.com/DwarfStarDS4"
+  },
+  "posted_at": "2026-10-29T12:01:00Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**DwarfStar ([@DwarfStarDS4](https://x.com/DwarfStarDS4/status/2115775908225171595))** introduces **ds4 (DwarfStar)**, a small native inference engine for DeepSeek V4 Flash, GLM and Qwen on Metal, CUDA and ROCm that streams weights from SSD when the model exceeds RAM and ships its own coding agent ([antirez/ds4](https://github.com/antirez/ds4)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/antirez/ds4",
+      "from_post": "2115775908225171595",
+      "short_url": "https://t.co/T5dzGxULvb",
+      "title": "GitHub - antirez/ds4: DeepSeek 4 Flash and PRO local inference engine for Metal, CUDA and ROCm"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "local-models"
+  ],
+  "keywords": [
+    "ds4",
+    "dwarfstar",
+    "deepseek-v4-flash",
+    "ssd-streaming",
+    "inference-engine",
+    "metal",
+    "cuda"
+  ],
+  "relevance": "Native local engine for big open models on owned hardware.",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://x.com/DwarfStarDS4/status/2115775908225171595/video/1",
+      "from_post": "2115775908225171595",
+      "description": "Demo video of ds4 running large open models (not downloaded; referenced only)."
+    }
+  ]
+}

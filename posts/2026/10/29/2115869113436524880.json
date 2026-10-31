@@ -1,0 +1,33 @@
+{
+  "id": "2115869113436524880",
+  "permalink": "https://x.com/olegoratovsky/status/2115869113436524880",
+  "author": {
+    "name": "Oleg Oratovsky",
+    "handle": "@olegoratovsky",
+    "profile_url": "https://x.com/olegoratovsky"
+  },
+  "posted_at": "2026-10-29T18:11:22Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**Oleg Oratovsky ([@olegoratovsky](https://x.com/olegoratovsky/status/2115869113436524880))** argues that Uncle Bob's TDD skill over-specifies steps; saying \"use TDD\" should suffice, with instructions targeted at the mistakes the agent actually makes ([ub-mode SKILL.md](https://github.com/unclebob/ub-mode/blob/master/SKILL.md)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/unclebob/ub-mode/blob/master/SKILL.md",
+      "from_post": "2115869113436524880",
+      "short_url": "https://t.co/Cc33VMguao",
+      "title": "ub-mode/SKILL.md at master · unclebob/ub-mode"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "skill.md",
+    "tdd",
+    "skill-writing",
+    "ub-mode"
+  ],
+  "relevance": "Skill-writing philosophy: correct observed failures, not restate known practice."
+}

@@ -1,0 +1,44 @@
+{
+  "id": "2115726180724699262",
+  "permalink": "https://x.com/CSVisionPapers/status/2115726180724699262",
+  "author": {
+    "name": "Computer Vision and Pattern Recognition Papers",
+    "handle": "@CSVisionPapers",
+    "profile_url": "https://x.com/CSVisionPapers"
+  },
+  "posted_at": "2026-10-29T08:43:24Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**Computer Vision and Pattern Recognition Papers ([@CSVisionPapers](https://x.com/CSVisionPapers/status/2115726180724699262))** shares **FlexPart** ([arXiv 2610.31671](https://arxiv.org/abs/2610.31671), NeurIPS 2026), a unified image-to-3D part generation framework that accepts conditions from sparse points to dense boxes and masks via gated adaptive modulation.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.31671",
+      "from_post": "2115726180724699262",
+      "short_url": "https://t.co/YYUW4NibEM",
+      "title": "A Unified Framework for Image-to-3D Part Generation via Variable..."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "flexpart",
+    "image-to-3d",
+    "3d-part-generation",
+    "neurips"
+  ],
+  "relevance": "Controllable part-level 3D asset generation.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HVyRv-dXsAAxGcK.png",
+      "from_post": "2115726180724699262",
+      "description": "Image of the paper's abstract text.",
+      "kind": "paper",
+      "thumbnail": "posts/2026/10/29/2115726180724699262/media/0.webp",
+      "ocr_text": "Controllable 3D part generation is pivotal for digital asset creation, yet existing methods lack the flexibility to accommodate diverse user workflows requiring varying levels of control. In this paper, we introduce FlexPart, a unified image-to-3D part generation framework that supports variable-granularity geometric conditions within a single model. By seamlessly integrating heterogeneous inputs, ranging from sparse points to dense bounding boxes and masks, via gated adaptive modulation, FlexPart unlocks a powerful cross-modal synergy. We also propose an asymmetric geometric guidance mechanism that leverages strong spatial priors to align representations across granularities, improving geometric consistency and facilitating inter-task synergy. Under mask conditioning on PartVerseXL, FlexPart reduces Part CD by 16.6% relative to TripoSG + SAM3D and by 10.5% relative to OmniPart, while maintaining competitive whole-mesh quality. The code can be found at https://github.com/Gucci233/FlexP"
+    }
+  ]
+}

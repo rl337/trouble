@@ -1,0 +1,45 @@
+{
+  "id": "2116155143796228119",
+  "permalink": "https://x.com/SciFi/status/2116155143796228119",
+  "author": {
+    "name": "Artificial Intelligence Papers",
+    "handle": "@SciFi",
+    "profile_url": "https://x.com/SciFi"
+  },
+  "posted_at": "2026-10-30T13:07:57Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**Artificial Intelligence Papers ([@SciFi](https://x.com/SciFi/status/2116155143796228119))** shares *When to Intervene?* ([arXiv 2610.36471](https://arxiv.org/abs/2610.36471)) by Duan et al., building ReInBench (1,259 traces, 1,403 errors) and finding 725 errors self-recover, often within a few steps, informing when harnesses should intervene.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.36471",
+      "from_post": "2116155143796228119",
+      "short_url": "https://t.co/4sY4JyIkqs",
+      "title": "When to Intervene? An Empirical Study of Errors and Self-Recovery..."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev",
+    "agentic-cognition"
+  ],
+  "keywords": [
+    "reinbench",
+    "error-recovery",
+    "self-recovery",
+    "agent-intervention"
+  ],
+  "relevance": "Guidance for harness-level error intervention.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV4X47MWgAAfrHl.png",
+      "from_post": "2116155143796228119",
+      "description": "Abstract of the agent self-recovery paper.",
+      "kind": "paper",
+      "thumbnail": "posts/2026/10/30/2116155143796228119/media/0.webp",
+      "ocr_text": "LLM agents interact with Web services to perform tasks on users' behalf. Errors during these interactions can disrupt execution and prevent task completion, motivating external intervention. However, agents may self-recover through continued execution, raising the question of when to intervene and when to wait for self-recovery. We present an empirical study of errors and self-recovery in LLM agents. We construct ReInBench, a dataset containing 1,259 agent traces and 1,403 error events across computer-use and Web tasks. Our study examines how often and how quickly agents self-recover, how self-recovery relates to subsequent execution and task completion, and whether self-recovery can be predicted when an error occurs. We find that 725 error events self-recover, often within a few steps, with self-recovery performance differing across Execution LLMs. Self-recovery can also help agents recover from subsequent errors of the same type and support overall task completion. Intervention shoul"
+    }
+  ]
+}

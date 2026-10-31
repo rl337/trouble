@@ -1,0 +1,45 @@
+{
+  "id": "2116114323189694756",
+  "permalink": "https://x.com/Smartphones/status/2116114323189694756",
+  "author": {
+    "name": "Human-Computer Interaction Papers",
+    "handle": "@Smartphones",
+    "profile_url": "https://x.com/Smartphones"
+  },
+  "posted_at": "2026-10-30T10:25:44Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**Human-Computer Interaction Papers ([@Smartphones](https://x.com/Smartphones/status/2116114323189694756))** shares *What Is the Role for Humans in Creative Writing?* ([arXiv 2610.37916](https://arxiv.org/abs/2610.37916)) by Li et al., a Plan–Write–Review–Revise chain study (333 participants, 427 stories) finding all-AI chains more creative but less diverse, and human planning best balancing both.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.37916",
+      "from_post": "2116114323189694756",
+      "short_url": "https://t.co/oEMYZuJofd",
+      "title": "What Is the Role for Humans in Creative Writing? Creativity and..."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-cognition"
+  ],
+  "keywords": [
+    "creative-writing",
+    "human-ai-collaboration",
+    "creativity",
+    "diversity",
+    "homogenization"
+  ],
+  "relevance": "Evidence on where humans add value in creative human–AI pipelines.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV3yw2nWUAADXSI.png",
+      "from_post": "2116114323189694756",
+      "description": "Abstract of the creative-writing chains paper.",
+      "kind": "paper",
+      "thumbnail": "posts/2026/10/30/2116114323189694756/media/0.webp",
+      "ocr_text": "As AI agents increasingly participate in creative teamwork, writing emerges from hybrid human-AI teams. Although AI can improve the creativity of individual outputs, these gains may come at the cost of homogenization. What is the best role for human intervention? We introduce a transmission-chain paradigm inspired by cognitive models of writing, with four stages: Plan, Write, Review, and Revise. Each stage receives the previous output and passes its own forward. Using data from 333 participants across 427 stories, we compared creativity, diversity, and enjoyment across human, AI, and hybrid chains. Consistent with prior work, all-AI chains produced more creative but less diverse stories than all-human chains. Introducing a single human into an otherwise all-AI chain increased diversity depending on role. Human planning provided the best balance: it preserved AI-level creativity, increased diversity that persisted through downstream AI stages, and maintained enjoyment. We discuss implic"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": "2116145653634183477",
+  "permalink": "https://x.com/danielsspo/status/2116145653634183477",
+  "author": {
+    "name": "Dan",
+    "handle": "@danielsspo",
+    "profile_url": "https://x.com/danielsspo"
+  },
+  "posted_at": "2026-10-30T12:30:14Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**Dan ([@danielsspo](https://x.com/danielsspo/status/2116145653634183477))** points to **Mika**, a personal on-device Android agent that operates the shell, browser, MCP and phone apps ([wangzan101/Mika](https://github.com/wangzan101/Mika)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/wangzan101/Mika",
+      "from_post": "2116145653634183477",
+      "short_url": "https://t.co/cH9PW8Y43s",
+      "title": "GitHub - wangzan101/Mika: Mika — 你手机上的私人 AI 助理，替你操作 App、上网、把事办成。An on-device AI agent for Android that operates apps and the web to get things done for you."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "mika",
+    "android-agent",
+    "mcp",
+    "phone-automation"
+  ],
+  "relevance": "Phone-resident agent harness."
+}

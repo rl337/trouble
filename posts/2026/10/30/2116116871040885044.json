@@ -1,0 +1,41 @@
+{
+  "id": "2116116871040885044",
+  "permalink": "https://x.com/LucienAIlab/status/2116116871040885044",
+  "author": {
+    "name": "洛小宸Lucien",
+    "handle": "@LucienAIlab",
+    "profile_url": "https://x.com/LucienAIlab"
+  },
+  "posted_at": "2026-10-30T10:35:52Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**洛小宸Lucien ([@LucienAIlab](https://x.com/LucienAIlab/status/2116116871040885044))** made a 90-year Moscow Metro history animation using the subway style in the **lemo-opuscar** Claude Code film-style toolbox, noting it was hard to tune and a 2-minute video used about 30% of a weekly Pro quota ([lemomo-ai/lemo-opuscar](https://github.com/lemomo-ai/lemo-opuscar)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/lemomo-ai/lemo-opuscar",
+      "from_post": "2116116871040885044",
+      "short_url": "https://t.co/tgXV7svAls",
+      "title": "GitHub - lemomo-ai/lemo-opuscar: A toolbox of film styles made in code for Claude Code: 59 ready to use, and your own. Each style is a style prompt plus a demo film made entirely in code by Claude Opus 5.5, with no video model. By Lemomo. · 一套用代码做片的风格工具箱：59 种现成风格，也能做出你自己的"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "lemo-opuscar",
+    "claude-code",
+    "map-animation",
+    "film-style"
+  ],
+  "relevance": "Code-made map animation with honest cost notes.",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://x.com/LucienAIlab/status/2116116871040885044/video/1",
+      "from_post": "2116116871040885044",
+      "description": "Animated metro map growing from 13 stations (not downloaded; referenced only)."
+    }
+  ]
+}

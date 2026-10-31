@@ -1,0 +1,35 @@
+{
+  "id": "2115704270322606180",
+  "permalink": "https://x.com/Jeet0733/status/2115704270322606180",
+  "author": {
+    "name": "Jeet",
+    "handle": "@Jeet0733",
+    "profile_url": "https://x.com/Jeet0733"
+  },
+  "posted_at": "2026-10-29T07:16:20Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**Jeet ([@Jeet0733](https://x.com/Jeet0733/status/2115704270322606180))** releases **Rapid-H3**, a ComfyUI node pack that runs MiniMax-H3 text/image-to-video+audio 3–5× faster on a single NVIDIA DGX Spark (about two minutes per 5-second clip) with no visible quality loss, crediting TensorFold's verify-everything approach ([jeet0733/Rapid-H3](https://github.com/jeet0733/Rapid-H3)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/jeet0733/Rapid-H3",
+      "from_post": "2115704270322606180",
+      "short_url": "https://t.co/Y1zr3gjq8M",
+      "title": "GitHub - jeet0733/Rapid-H3: Run MiniMax-H3 text/image to video+audio 3–5× faster on single NVIDIA DGX Spark: a ComfyUI node pack with INT8 sm_121 kernels and two ready presets (~2 min per clip), no visible quality loss."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-media",
+    "local-models"
+  ],
+  "keywords": [
+    "rapid-h3",
+    "minimax-h3",
+    "comfyui",
+    "dgx-spark",
+    "video-generation"
+  ],
+  "relevance": "Directly targets local video generation on Richard's DGX Spark."
+}

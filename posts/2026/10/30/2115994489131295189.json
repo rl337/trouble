@@ -1,0 +1,36 @@
+{
+  "id": "2115994489131295189",
+  "permalink": "https://x.com/BuffMcBigHuge/status/2115994489131295189",
+  "author": {
+    "name": "byMAR.CO",
+    "handle": "@BuffMcBigHuge",
+    "profile_url": "https://x.com/BuffMcBigHuge"
+  },
+  "posted_at": "2026-10-30T02:29:34Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**byMAR.CO ([@BuffMcBigHuge](https://x.com/BuffMcBigHuge/status/2115994489131295189))** submitted **Comfiest**, free advanced ComfyUI workflows and skills your agent can run, now with Pika H3, the 2K Refiner and LMS ([Comfie.st](https://Comfie.st)).",
+  "referenced_urls": [
+    {
+      "url": "https://Comfie.st",
+      "from_post": "2115994489131295189",
+      "short_url": "https://t.co/0Q1hSKxKH6",
+      "title": "Comfiest · ComfyUI, but Comfier."
+    }
+  ],
+  "hashtags": [
+    "OpenSourceHiggsfield"
+  ],
+  "topics": [
+    "agentic-media",
+    "harness-dev"
+  ],
+  "keywords": [
+    "comfiest",
+    "comfyui",
+    "agent-skill",
+    "pika-h3"
+  ],
+  "relevance": "Agent-runnable ComfyUI workflows."
+}

@@ -1,0 +1,82 @@
+{
+  "id": "2116033108491288675",
+  "permalink": "https://x.com/ai_hakase_/status/2116033108491288675",
+  "author": {
+    "name": "ハカセ アイ(Ai-Hakase)🐾生成AI・ComfyUI",
+    "handle": "@ai_hakase_",
+    "profile_url": "https://x.com/ai_hakase_"
+  },
+  "posted_at": "2026-10-30T05:03:01Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [
+    {
+      "id": "2116033109980311761",
+      "permalink": "https://x.com/ai_hakase_/status/2116033109980311761",
+      "posted_at": "2026-10-30T05:03:02Z",
+      "position": 1
+    }
+  ],
+  "summary_md": "**ハカセ アイ(Ai-Hakase)🐾生成AI・ComfyUI ([@ai_hakase_](https://x.com/ai_hakase_/status/2116033108491288675))** covers **OpenBonsai**, an open PTQ framework reproducing Prism ML's PTQ1_0 ternary GGUF pipeline that compresses BF16 Qwen3.5-9B (~18 GB) to ~2 GB using signed Hadamard rotation, sequential GPTQ, FP16 group scales per 128 weights and scale distillation calibrated on the model's own reasoning traces; compressing takes ~5 hours on a 32GB GPU and inference needs Prism's llama.cpp fork ([esokullu/openbonsai](https://github.com/esokullu/openbonsai), [model](https://huggingface.co/webbrain-one/openbonsai-qwen-3.5-9b), [paper](https://arxiv.org/abs/2608.01078), [Reddit](https://reddit.com/r/LocalLLaMA/comments/1xie29o/i_opensourced_openbonsai_compress_your_own_bf16)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/esokullu/openbonsai",
+      "from_post": "2116033109980311761",
+      "short_url": "https://t.co/9nrLbXVrYV",
+      "title": "GitHub - esokullu/openbonsai: Independent experimental ScaleQ-style compression for Qwen3.5, with tests and original paper"
+    },
+    {
+      "url": "https://huggingface.co/webbrain-one/openbonsai-qwen-3.5-9b",
+      "from_post": "2116033109980311761",
+      "short_url": "https://t.co/glfItGg89U",
+      "title": "webbrain-one/openbonsai-qwen-3.5-9b · Hugging Face"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.01078",
+      "from_post": "2116033109980311761",
+      "short_url": "https://t.co/KSCnVEwNg2",
+      "title": "Attend to Your Own Thoughts: Breaking the Barrier for..."
+    },
+    {
+      "url": "https://huggingface.co/webbrain-one/webbrain-compass-vld-tiny-v5",
+      "from_post": "2116033109980311761",
+      "short_url": "https://t.co/GglF6Ph3wL"
+    },
+    {
+      "url": "https://huggingface.co/webbrain-one/lfm3-vld-2b",
+      "from_post": "2116033109980311761",
+      "short_url": "https://t.co/1FUEizJVDX"
+    },
+    {
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1xie29o/i_opensourced_openbonsai_compress_your_own_bf16",
+      "from_post": "2116033109980311761",
+      "short_url": "https://t.co/Q9lTK76j3i"
+    }
+  ],
+  "hashtags": [
+    "OpenBonsai",
+    "LLM"
+  ],
+  "topics": [
+    "local-models"
+  ],
+  "keywords": [
+    "openbonsai",
+    "ternary-quantization",
+    "gguf",
+    "gptq",
+    "qwen3.5-9b",
+    "llama.cpp"
+  ],
+  "relevance": "DIY ternary compression for local models.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV2o5hWWQAAyh6O.jpg",
+      "from_post": "2116033108491288675",
+      "description": "Reddit post \"I open-sourced OpenBonsai\" describing the pipeline and results.",
+      "kind": "screenshot",
+      "thumbnail": "posts/2026/10/30/2116033108491288675/media/0.webp"
+    }
+  ]
+}

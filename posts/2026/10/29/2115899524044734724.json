@@ -1,0 +1,43 @@
+{
+  "id": "2115899524044734724",
+  "permalink": "https://x.com/toyxyz3/status/2115899524044734724",
+  "author": {
+    "name": "toyxyz",
+    "handle": "@toyxyz3",
+    "profile_url": "https://x.com/toyxyz3"
+  },
+  "posted_at": "2026-10-29T20:12:12Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**toyxyz ([@toyxyz3](https://x.com/toyxyz3/status/2115899524044734724))** added MAMMA multi-camera support to **RGBMocap**, his Windows AI motion-capture tool ([toyxyz/toyxyz_RGBMocap](https://github.com/toyxyz/toyxyz_RGBMocap)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/toyxyz/toyxyz_RGBMocap",
+      "from_post": "2115899524044734724",
+      "short_url": "https://t.co/lIk6nnwc4o",
+      "title": "GitHub - toyxyz/toyxyz_RGBMocap: Native Windows video motion capture with ExMR, FlowHMR and GVHMR, contact correction, humanoid retargeting, and FBX/VMD export."
+    }
+  ],
+  "hashtags": [
+    "mocap"
+  ],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "rgbmocap",
+    "motion-capture",
+    "multi-camera",
+    "animation"
+  ],
+  "relevance": "Video-based mocap for animation pipelines.",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://x.com/toyxyz3/status/2115899524044734724/video/1",
+      "from_post": "2115899524044734724",
+      "description": "Multi-camera mocap demo (not downloaded; referenced only)."
+    }
+  ]
+}

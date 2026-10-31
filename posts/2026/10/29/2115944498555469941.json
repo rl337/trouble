@@ -1,0 +1,45 @@
+{
+  "id": "2115944498555469941",
+  "permalink": "https://x.com/dapri69/status/2115944498555469941",
+  "author": {
+    "name": "dapri",
+    "handle": "@dapri69",
+    "profile_url": "https://x.com/dapri69"
+  },
+  "posted_at": "2026-10-29T23:10:55Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**dapri ([@dapri69](https://x.com/dapri69/status/2115944498555469941))** releases **OMEGA-LOOP** for Claude Code and Codex, where one AI writes code and a second reviews it before you see it ([priore/omega-loop](https://github.com/priore/omega-loop)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/priore/omega-loop",
+      "from_post": "2115944498555469941",
+      "short_url": "https://t.co/Nm525TJJGD",
+      "title": "GitHub - priore/omega-loop"
+    }
+  ],
+  "hashtags": [
+    "AI"
+  ],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "omega-loop",
+    "code-review",
+    "claude-code",
+    "codex"
+  ],
+  "relevance": "Writer/reviewer agent pairing.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV1YSeLXMAAI31r.jpg",
+      "from_post": "2115944498555469941",
+      "description": "Promo card \"OMEGA LOOP: AI #1 writes, AI #2 reviews\".",
+      "kind": "other",
+      "thumbnail": "posts/2026/10/29/2115944498555469941/media/0.webp"
+    }
+  ]
+}

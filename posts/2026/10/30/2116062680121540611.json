@@ -1,0 +1,44 @@
+{
+  "id": "2116062680121540611",
+  "permalink": "https://x.com/rehan_shei/status/2116062680121540611",
+  "author": {
+    "name": "Rehan Sheikh",
+    "handle": "@rehan_shei",
+    "profile_url": "https://x.com/rehan_shei"
+  },
+  "posted_at": "2026-10-30T07:00:32Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**Rehan Sheikh ([@rehan_shei](https://x.com/rehan_shei/status/2116062680121540611))** reports that Opus 5.5 can now author pixel-art effects in a write–render–inspect–fix loop, and open-sources **pixelfx**, 232 code-only effects made that way plus the Claude Code skill behind them ([patch-gg/pixelfx](https://github.com/patch-gg/pixelfx)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/patch-gg/pixelfx",
+      "from_post": "2116062680121540611",
+      "short_url": "https://t.co/beTNtsSeOs",
+      "title": "GitHub - patch-gg/pixelfx: 232 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-media",
+    "harness-dev"
+  ],
+  "keywords": [
+    "pixelfx",
+    "pixel-art",
+    "claude-code",
+    "agent-skill",
+    "opus-5.5",
+    "procedural-animation"
+  ],
+  "relevance": "A concrete self-verifying visual loop (render, look at frames, repair) packaged as an agent skill for procedural media.",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://x.com/rehan_shei/status/2116062680121540611/video/1",
+      "from_post": "2116062680121540611",
+      "description": "Demo reel of generated pixel-art effects (not downloaded; referenced only)."
+    }
+  ]
+}

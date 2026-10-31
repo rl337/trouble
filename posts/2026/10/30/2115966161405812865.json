@@ -1,0 +1,36 @@
+{
+  "id": "2115966161405812865",
+  "permalink": "https://x.com/cv_usk/status/2115966161405812865",
+  "author": {
+    "name": "cv usk",
+    "handle": "@cv_usk",
+    "profile_url": "https://x.com/cv_usk"
+  },
+  "posted_at": "2026-10-30T00:37:00Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**cv usk ([@cv_usk](https://x.com/cv_usk/status/2115966161405812865))** summarizes **CaMeL**, *Defeating Prompt Injections by Design* ([arXiv 2503.18813](https://arxiv.org/pdf/2503.18813)): a privileged LLM plans without seeing untrusted data, a quarantined LLM parses data without tools, values carry provenance capabilities and Python policies check each call, giving 77% AgentDojo utility (from 84%) with zero successful attacks at ~2.8× tokens; side channels remain open.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/pdf/2503.18813",
+      "from_post": "2115966161405812865",
+      "short_url": "https://t.co/LHkv6AQpY4"
+    }
+  ],
+  "hashtags": [
+    "PromptInjection",
+    "AIAgents"
+  ],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "camel",
+    "prompt-injection",
+    "agentdojo",
+    "capability",
+    "security-policy"
+  ],
+  "relevance": "System-level prompt-injection defense for agents."
+}

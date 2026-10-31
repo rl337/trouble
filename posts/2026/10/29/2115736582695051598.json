@@ -1,0 +1,53 @@
+{
+  "id": "2115736582695051598",
+  "permalink": "https://x.com/JohnonETH/status/2115736582695051598",
+  "author": {
+    "name": "@CryptoJohn🔥",
+    "handle": "@JohnonETH",
+    "profile_url": "https://x.com/JohnonETH"
+  },
+  "posted_at": "2026-10-29T09:24:44Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**@CryptoJohn🔥 ([@JohnonETH](https://x.com/JohnonETH/status/2115736582695051598))** points to MemOS's **MemT 1.0**, which keeps learned experience in a fixed-size internal memory instead of a growing context; across three SWE-bench Verified runs it resolved 54% of bug-fix tasks unaided and rose to 62.8% once relevant experience was injected at the point where it got stuck ([MemTensor MemT-1 collection](https://huggingface.co/collections/MemTensor/memt-1)).",
+  "referenced_urls": [
+    {
+      "url": "https://huggingface.co/collections/MemTensor/memt-1",
+      "from_post": "2115736582695051598",
+      "short_url": "https://t.co/ex81lpzLX6",
+      "title": "MemT-1 - a MemTensor Collection"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-cognition",
+    "harness-dev"
+  ],
+  "keywords": [
+    "memt-1.0",
+    "memos",
+    "agent-memory",
+    "swe-bench-verified",
+    "experience"
+  ],
+  "relevance": "Native-memory model for agents that learn from experience.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HVybM9DWoAAD96i.jpg",
+      "from_post": "2115736582695051598",
+      "description": "MemT-1.0 model page banner \"Towards Memory-Native Evolution\" with overview text and a model table.",
+      "kind": "screenshot",
+      "thumbnail": "posts/2026/10/29/2115736582695051598/media/0.webp"
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HVybM9DWUAAzA63.jpg",
+      "from_post": "2115736582695051598",
+      "description": "Benchmark table comparing Qwen3.6-35B-A3B baselines with MemT-1.0-Nano native memory, before execution and harness-triggered.",
+      "kind": "chart",
+      "thumbnail": "posts/2026/10/29/2115736582695051598/media/1.webp"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": "2116070179281014832",
+  "permalink": "https://x.com/madhugogineni97/status/2116070179281014832",
+  "author": {
+    "name": "Madhu",
+    "handle": "@madhugogineni97",
+    "profile_url": "https://x.com/madhugogineni97"
+  },
+  "posted_at": "2026-10-30T07:30:20Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**Madhu ([@madhugogineni97](https://x.com/madhugogineni97/status/2116070179281014832))** shares **video-editor-skills**, Claude Code skills that do a first-pass DaVinci Resolve Studio edit by cutting retakes and dead air and adding B-roll, captions and music ([appariciojunior/video-editor-skills](https://github.com/appariciojunior/video-editor-skills)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/appariciojunior/video-editor-skills",
+      "from_post": "2116070179281014832",
+      "short_url": "https://t.co/rshUPSMzq4",
+      "title": "GitHub - appariciojunior/video-editor-skills: Skills that teach Claude Code to be a first-pass video editor in DaVinci Resolve: transcript cuts, vlog pacing, B-roll, music & SFX, clean captions, motion graphics, YouTube export. CC BY-NC 4.0 (no commercial use)."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-media",
+    "harness-dev"
+  ],
+  "keywords": [
+    "davinci-resolve",
+    "claude-code",
+    "agent-skill",
+    "video-editing",
+    "b-roll"
+  ],
+  "relevance": "Agent skills driving a professional NLE for automated rough cuts."
+}

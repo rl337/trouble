@@ -1,0 +1,45 @@
+{
+  "id": "2115707710540857410",
+  "permalink": "https://x.com/AiDruidCat/status/2115707710540857410",
+  "author": {
+    "name": "AI Druid Cat",
+    "handle": "@AiDruidCat",
+    "profile_url": "https://x.com/AiDruidCat"
+  },
+  "posted_at": "2026-10-29T07:30:00Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**AI Druid Cat ([@AiDruidCat](https://x.com/AiDruidCat/status/2115707710540857410))** presents **Kitty Open Studio**, an open-source AI video studio on top of ComfyUI with open-weight models, local GPU execution, a real timeline editor, and Claude or ChatGPT directing it over MCP, entered in the Open Source Higgsfield challenge ([DruidCat237/kitty-open-studio](https://github.com/DruidCat237/kitty-open-studio)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/DruidCat237/kitty-open-studio",
+      "from_post": "2115707710540857410",
+      "short_url": "https://t.co/esnydV9h1e",
+      "title": "GitHub - DruidCat237/kitty-open-studio: Open-source AI video studio on your own ComfyUI: 37 open-weights workflows, a timeline editor, and MCP for Claude/ChatGPT"
+    }
+  ],
+  "hashtags": [
+    "OpenSourceHiggsfield",
+    "ComfyUI"
+  ],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "kitty-open-studio",
+    "comfyui",
+    "mcp",
+    "video-studio",
+    "open-weight-model"
+  ],
+  "relevance": "Agent-directed video production via MCP on local hardware.",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://x.com/AiDruidCat/status/2115707710540857410/video/1",
+      "from_post": "2115707710540857410",
+      "description": "Demo video of Kitty Open Studio's timeline editor and agent control (not downloaded; referenced only)."
+    }
+  ]
+}

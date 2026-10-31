@@ -1,0 +1,41 @@
+{
+  "id": "2116322257454911772",
+  "permalink": "https://x.com/gyakuse/status/2116322257454911772",
+  "author": {
+    "name": "逆瀬川",
+    "handle": "@gyakuse",
+    "profile_url": "https://x.com/gyakuse"
+  },
+  "posted_at": "2026-10-31T00:12:00Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**逆瀬川 ([@gyakuse](https://x.com/gyakuse/status/2116322257454911772))** releases a new **speech.cpp** that adds Nemotron-3-Diarization, Nemotron-3.5-Transcribe-30B-A4B and Haas-ja-v1.0 ([nyosegawa/speech.cpp](https://github.com/nyosegawa/speech.cpp)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/nyosegawa/speech.cpp",
+      "from_post": "2116322257454911772",
+      "short_url": "https://t.co/nrEDxDAll2",
+      "title": "GitHub - nyosegawa/speech.cpp: Speech synthesis, speech recognition and voice activity detection for voice conversation, in C++ on ggml: Qwen3-TTS, Irodori-TTS, Qwen3-ASR, ReazonSpeech, parakeet and Silero VAD on Metal, Vulkan and the CPU, with an OpenAI-compatible server and live transcription."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "local-models"
+  ],
+  "keywords": [
+    "speech.cpp",
+    "speech-recognition",
+    "diarization",
+    "nemotron"
+  ],
+  "relevance": "Local speech models in C++.",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://x.com/gyakuse/status/2116322257454911772/video/1",
+      "from_post": "2116322257454911772",
+      "description": "Transcription demo (not downloaded; referenced only)."
+    }
+  ]
+}

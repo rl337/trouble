@@ -1,0 +1,35 @@
+{
+  "id": "2116091693434855432",
+  "permalink": "https://x.com/Waldrada/status/2116091693434855432",
+  "author": {
+    "name": "Waldrada",
+    "handle": "@Waldrada",
+    "profile_url": "https://x.com/Waldrada"
+  },
+  "posted_at": "2026-10-30T08:55:49Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**Waldrada ([@Waldrada](https://x.com/Waldrada/status/2116091693434855432))** updates the **Polaris Anniversary Fork** of llama.cpp for old RX480/RX580 cards, adding Vulkan sparse-attention ops for GPUs without fp16, a GPU 'hot spare' cache of the most-used MoE experts while the rest stays in system RAM, and a learned next-expert predictor with its training pipeline ([Lanilen/llama.cpp](https://github.com/Lanilen/llama.cpp)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/Lanilen/llama.cpp",
+      "from_post": "2116091693434855432",
+      "short_url": "https://t.co/EVjytXKze7",
+      "title": "GitHub - Lanilen/llama.cpp: LLM inference in C/C++"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "local-models"
+  ],
+  "keywords": [
+    "llama.cpp",
+    "moe",
+    "expert-offloading",
+    "vulkan",
+    "polaris-gpu",
+    "expert-prediction"
+  ],
+  "relevance": "Expert caching and prediction ideas for running MoE models with experts offloaded to RAM."
+}

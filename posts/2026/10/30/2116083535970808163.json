@@ -1,0 +1,33 @@
+{
+  "id": "2116083535970808163",
+  "permalink": "https://x.com/gridpinn/status/2116083535970808163",
+  "author": {
+    "name": "GridPin",
+    "handle": "@gridpinn",
+    "profile_url": "https://x.com/gridpinn"
+  },
+  "posted_at": "2026-10-30T08:23:24Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**GridPin ([@gridpinn](https://x.com/gridpinn/status/2116083535970808163))** releases **gridpin-mcp**, a local, key-free MCP server offering geocode, reverse and batch tools, installable with one `claude mcp add` command ([gridpin/gridpin MCP README](https://github.com/gridpin/gridpin/blob/main/mcp/README.md)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/gridpin/gridpin/blob/main/mcp/README.md",
+      "from_post": "2116083535970808163",
+      "short_url": "https://t.co/lwSZIRyltg",
+      "title": "gridpin/mcp/README.md at main · gridpin/gridpin"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "gridpin",
+    "mcp",
+    "geocoding",
+    "claude-code"
+  ],
+  "relevance": "Free local geocoding tool for agents."
+}

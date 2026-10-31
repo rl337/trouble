@@ -1,0 +1,49 @@
+{
+  "id": "2116193351766798610",
+  "permalink": "https://x.com/Felipe_O_Silva/status/2116193351766798610",
+  "author": {
+    "name": "Felipe O Silva",
+    "handle": "@Felipe_O_Silva",
+    "profile_url": "https://x.com/Felipe_O_Silva"
+  },
+  "posted_at": "2026-10-30T15:39:46Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**Felipe O Silva ([@Felipe_O_Silva](https://x.com/Felipe_O_Silva/status/2116193351766798610))** prototypes **Comfy Games**: choose a model, add references, play, revise in chat and export HTML games ([felipederosilva/comfy-games](https://github.com/felipederosilva/comfy-games), [release](https://github.com/felipederosilva/comfy-games/releases/tag/v0.1.0-challenge-en)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/felipederosilva/comfy-games",
+      "from_post": "2116193351766798610",
+      "short_url": "https://t.co/dgi0ob2aD7",
+      "title": "GitHub - felipederosilva/comfy-games: Create, play and revise browser games with Comfy Router and Comfy Credits."
+    },
+    {
+      "url": "https://github.com/felipederosilva/comfy-games/releases/tag/v0.1.0-challenge-en",
+      "from_post": "2116193351766798610",
+      "short_url": "https://t.co/weJANpUPS5",
+      "title": "Release Comfy Games 0.1.0 — Challenge English · felipederosilva/comfy-games"
+    }
+  ],
+  "hashtags": [
+    "OpenSourceHiggsfield"
+  ],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "comfy-games",
+    "browser-game",
+    "comfyui",
+    "opensourcehiggsfield"
+  ],
+  "relevance": "Prompt-to-game creation loop.",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://x.com/Felipe_O_Silva/status/2116193351766798610/video/1",
+      "from_post": "2116193351766798610",
+      "description": "Making and playing a generated game (not downloaded; referenced only)."
+    }
+  ]
+}

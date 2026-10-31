@@ -1,0 +1,129 @@
+{
+  "id": "2115750500050329699",
+  "permalink": "https://x.com/zhanzhilou/status/2115750500050329699",
+  "author": {
+    "name": "Zhanzhi Lou",
+    "handle": "@zhanzhilou",
+    "profile_url": "https://x.com/zhanzhilou"
+  },
+  "posted_at": "2026-10-29T10:20:02Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [
+    {
+      "id": "2115750891022401927",
+      "permalink": "https://x.com/zhanzhilou/status/2115750891022401927",
+      "posted_at": "2026-10-29T10:21:35Z",
+      "position": 1
+    },
+    {
+      "id": "2115751583225160038",
+      "permalink": "https://x.com/zhanzhilou/status/2115751583225160038",
+      "posted_at": "2026-10-29T10:24:20Z",
+      "position": 2
+    },
+    {
+      "id": "2115752615254675637",
+      "permalink": "https://x.com/zhanzhilou/status/2115752615254675637",
+      "posted_at": "2026-10-29T10:28:26Z",
+      "position": 3
+    },
+    {
+      "id": "2115753292471083053",
+      "permalink": "https://x.com/zhanzhilou/status/2115753292471083053",
+      "posted_at": "2026-10-29T10:31:08Z",
+      "position": 4
+    },
+    {
+      "id": "2115753716188135425",
+      "permalink": "https://x.com/zhanzhilou/status/2115753716188135425",
+      "posted_at": "2026-10-29T10:32:49Z",
+      "position": 5
+    },
+    {
+      "id": "2115754455115452604",
+      "permalink": "https://x.com/zhanzhilou/status/2115754455115452604",
+      "posted_at": "2026-10-29T10:35:45Z",
+      "position": 6
+    }
+  ],
+  "summary_md": "**Zhanzhi Lou ([@zhanzhilou](https://x.com/zhanzhilou/status/2115750500050329699))** introduces **Meta-TTL** ([arXiv 2604.00830](https://arxiv.org/abs/2604.00830)), which meta-learns how an agent should improve across repeated attempts instead of hand-designing it like Reflexion: a meta-agent rewrites the actor's system prompt after each try while an outer loop refines the meta-prompt on validation tasks. The thread reports gains up to 23% in-distribution and 27% out-of-distribution on Jericho, WebArena-Lite and τ²-bench, learned strategies such as remembering only what worked, about $30–70 of meta-training per benchmark, and better results than online SFT, GRPO and MAML on Qwen3-8B ([zzzlou/meta-ttl](https://github.com/zzzlou/meta-ttl)).",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2604.00830",
+      "from_post": "2115750500050329699",
+      "short_url": "https://t.co/khvUL3XEIR",
+      "title": "Meta-TTL: Meta-Learning Self-Improvement Policies for Language Agents"
+    },
+    {
+      "url": "https://github.com/zzzlou/meta-ttl",
+      "from_post": "2115754455115452604",
+      "short_url": "https://t.co/O32jT0LGCn",
+      "title": "GitHub - zzzlou/meta-ttl"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-cognition"
+  ],
+  "keywords": [
+    "meta-ttl",
+    "meta-learning",
+    "self-improvement",
+    "test-time-learning",
+    "reflexion",
+    "webarena-lite"
+  ],
+  "relevance": "Learned self-improvement policies for agents, cheap and interpretable.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HVyn2amb0AA4RNx.jpg",
+      "from_post": "2115750500050329699",
+      "description": "First page of the Meta-TTL paper with title, authors and abstract.",
+      "kind": "paper",
+      "thumbnail": "posts/2026/10/29/2115750500050329699/media/0.webp",
+      "ocr_text": "META-TTL: META-LEARNING SELF-IMPROVEMENT\nPOLICIES FOR LANGUAGE AGENTS\nZhanzhi Loul, Hui Chen', Yibo Li', Qian Wang', Bryan Hooil\nI National University of Singapore\n(hui.chen,dcsbhk)@nus.edu.sg\nABSTRACT\nTest-Time Learning (TTL) enables language agents to iteratively refine their per-\nformance through repeated interactions with the environment at inference time. At\nthe core of TTL is a self-improvement policy that updates the actor policy based\non experience from previous episodes, thereby improving future behavior. Existing\nmethods rely on hand-crafted self-improvement policies rather than optimizing\nthem for downstream improvement. We argue that optimal self-improvement\npolicies should be learned from task environments, not hand-engineered based\non human intuition. To achieve this, we introduce META-TTL, a framework\nthat formulates the discovery of effective self-improvement policies as a bi-level\noptimization problem. Within this framework, the inner loop executes the standard\nTTL process, measuring how effectively a candidate self-improvement policy helps\nan agent correct errors across sequential episodes. Guided by the agent's perfor-\nmance, the outer loop performs reflective meta-training across diverse training\ntasks, using a balanced improvement score (BIS) to balance task contributions dur-\ning candidate selection. We evaluate META-TTL on Jericho, WebArena-Lite, and\n-2-bench across both in-distribution (ID) and out-of-distribution (OOD) settings.\nMETA-TTL consistently outperforms existing baselines, improving TTL over the\nstrongest baseline by up to 23% on ID tasks and 27% on OOD tasks. These results\nsuggest that the optimized self-improvement policy encodes transferable meta-\nstrategies that generalize beyond the training task distribution. Code is available at\nhttps://github.com/zzzlou/meta-ttl.\nINTRODUCTION\nExisting TTL: Fixed Improvement Policy\nMeta-TTL: Learned Improvement Policy\n(Hand-crafted)\n(Learnedacrosstasks)\nupdate\nLearned\nupdate\nexperien\nFixed\nactor\nEpisodek+1\nEpisodek\nEpisodek\nactor\nEpisode k+1\nPolicyf\nAgent - Env\nPolicy fo*\nAgent - Env\nAgent - Env\nAgent - Env\nLimitedtest-time improvement\nSustained test-time improvement\nFigure l: Self-improvement policies determine how the agent uses experience up to episode k to\nupdate the actor before episode k + 1. Existing methods use a hand-crafted self-improvement policy,\nwhereas META-TTL learns it offline across tasks and applies it at test time."
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HVyoWI3bIAEaFAC.jpg",
+      "from_post": "2115751583225160038",
+      "description": "Overview figure: outer meta-training loop with a proposer refining meta-prompts and inner test-time learning loop with actor and meta-agent.",
+      "kind": "diagram",
+      "thumbnail": "posts/2026/10/29/2115750500050329699/media/1.webp"
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HVypf8PaoAAP4gM.png",
+      "from_post": "2115752615254675637",
+      "description": "Per-episode normalized score on Jericho for in-distribution and out-of-distribution games, Meta-TTL vs. baselines.",
+      "kind": "chart",
+      "thumbnail": "posts/2026/10/29/2115750500050329699/media/2.webp"
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HVypf8FaAAADxIt.jpg",
+      "from_post": "2115752615254675637",
+      "description": "Table 1: Jericho results comparing Meta-TTL with reflection, memory and prompt-optimization baselines.",
+      "kind": "chart",
+      "thumbnail": "posts/2026/10/29/2115750500050329699/media/3.webp"
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HVypf8AbcAAluhu.jpg",
+      "from_post": "2115752615254675637",
+      "description": "Table 2: WebArena-Lite results by domain.",
+      "kind": "chart",
+      "thumbnail": "posts/2026/10/29/2115750500050329699/media/4.webp"
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HVypf-3bgAAUtse.jpg",
+      "from_post": "2115752615254675637",
+      "description": "Table 3: τ²-bench results on airline, retail and telecom.",
+      "kind": "chart",
+      "thumbnail": "posts/2026/10/29/2115750500050329699/media/5.webp"
+    }
+  ]
+}

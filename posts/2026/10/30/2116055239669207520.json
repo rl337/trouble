@@ -1,0 +1,36 @@
+{
+  "id": "2116055239669207520",
+  "permalink": "https://x.com/FengIves/status/2116055239669207520",
+  "author": {
+    "name": "IvesFeng",
+    "handle": "@FengIves",
+    "profile_url": "https://x.com/FengIves"
+  },
+  "posted_at": "2026-10-30T06:30:58Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**IvesFeng ([@FengIves](https://x.com/FengIves/status/2116055239669207520))** describes **baoyu-design**, which packages Claude Design as a local agent skill for Cursor, Claude Code and Desktop that outputs self-contained HTML, advising starting with an Opus-class model on one page ([JimLiu/baoyu-design](https://github.com/JimLiu/baoyu-design)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/JimLiu/baoyu-design",
+      "from_post": "2116055239669207520",
+      "short_url": "https://t.co/RSGHLBkaI4",
+      "title": "GitHub - JimLiu/baoyu-design: Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/design. Best with Opus or Claude."
+    }
+  ],
+  "hashtags": [
+    "baoyu",
+    "ClaudeDesign"
+  ],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "baoyu-design",
+    "claude-design",
+    "agent-skill",
+    "html"
+  ],
+  "relevance": "Local design skill outside a hosted product."
+}

@@ -1,0 +1,41 @@
+{
+  "id": "2115787187333829103",
+  "permalink": "https://x.com/adidevv0/status/2115787187333829103",
+  "author": {
+    "name": "Aadit Singal",
+    "handle": "@adidevv0",
+    "profile_url": "https://x.com/adidevv0"
+  },
+  "posted_at": "2026-10-29T12:45:49Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**Aadit Singal ([@adidevv0](https://x.com/adidevv0/status/2115787187333829103))** built **Mantis**, a lean browser interface for AI agents; on the same tasks, models and real sites it matched Playwright MCP accuracy with up to 47% fewer tokens, about a third faster and about 30% fewer tool calls ([perzianhq/mantis](https://github.com/perzianhq/mantis)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/perzianhq/mantis",
+      "from_post": "2115787187333829103",
+      "short_url": "https://t.co/GaoQPCbe1M",
+      "title": "GitHub - perzianhq/mantis: A lean browser interface for AI agents."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "mantis",
+    "browser-agent",
+    "playwright-mcp",
+    "token-efficiency"
+  ],
+  "relevance": "Token-efficient browser tooling for agents.",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://x.com/adidevv0/status/2115787187333829103/video/1",
+      "from_post": "2115787187333829103",
+      "description": "Demo comparing Mantis with Playwright MCP (not downloaded; referenced only)."
+    }
+  ]
+}

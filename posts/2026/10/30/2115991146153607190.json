@@ -1,0 +1,49 @@
+{
+  "id": "2115991146153607190",
+  "permalink": "https://x.com/jis544539251207/status/2115991146153607190",
+  "author": {
+    "name": "夏叨叨Summer",
+    "handle": "@jis544539251207",
+    "profile_url": "https://x.com/jis544539251207"
+  },
+  "posted_at": "2026-10-30T02:16:17Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**夏叨叨Summer ([@jis544539251207](https://x.com/jis544539251207/status/2115991146153607190))** urges scanning skills before install, citing NVIDIA's **SkillSpector** analysis of 31,132 skills (26.1% with vulnerabilities, 5.2% suspected malicious), with a static `skillspector scan --no-llm` that outputs a 0–100 risk score ([NVIDIA/skillspector](https://github.com/NVIDIA/skillspector), [docs](https://docs.nvidia.com/skills/scanning-agent-skills)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/NVIDIA/skillspector",
+      "from_post": "2115991146153607190",
+      "short_url": "https://t.co/mG6HMutybb",
+      "title": "GitHub - NVIDIA/SkillSpector: Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills before you install them."
+    },
+    {
+      "url": "https://docs.nvidia.com/skills/scanning-agent-skills",
+      "from_post": "2115991146153607190",
+      "short_url": "https://t.co/Xm1tH4i3F2",
+      "title": "Scan Agent Skills Before Installation | NVIDIA Skill Documentation"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "skillspector",
+    "agent-skill",
+    "security-scanner",
+    "supply-chain"
+  ],
+  "relevance": "Skill supply-chain security tooling.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV2Cog7aMAARn4q.jpg",
+      "from_post": "2115991146153607190",
+      "description": "SkillSpector terminal output with risk score 78/100, severity HIGH and DO NOT INSTALL recommendation.",
+      "kind": "screenshot",
+      "thumbnail": "posts/2026/10/30/2115991146153607190/media/0.webp"
+    }
+  ]
+}

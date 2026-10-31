@@ -1,0 +1,33 @@
+{
+  "id": "2116050279154196808",
+  "permalink": "https://x.com/SuzukiKennji4cn/status/2116050279154196808",
+  "author": {
+    "name": "星野謙二",
+    "handle": "@SuzukiKennji4cn",
+    "profile_url": "https://x.com/SuzukiKennji4cn"
+  },
+  "posted_at": "2026-10-30T06:11:15Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**星野謙二 ([@SuzukiKennji4cn](https://x.com/SuzukiKennji4cn/status/2116050279154196808))** reports **ForgeMind** drives Unreal Engine 5.0–5.8 over MCP, turning one DSL call into a real asset, with 72 of 73 Blueprint cases passing ([akimoto-akira/ForgeMind_OpenSource](https://github.com/akimoto-akira/ForgeMind_OpenSource)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/akimoto-akira/ForgeMind_OpenSource",
+      "from_post": "2116050279154196808",
+      "short_url": "https://t.co/teK8StNz9O",
+      "title": "GitHub - akimoto-akira/ForgeMind_OpenSource: ForgeMind — a game engine control platform with MCP as its interface: it exposes Unreal Engine project management, asset reading, launch/build/editor operations and other capabilities to AI clients through the MCP protocol. The current implementation targ"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "forgemind",
+    "unreal-engine",
+    "mcp",
+    "blueprint"
+  ],
+  "relevance": "Agent control of a game engine."
+}

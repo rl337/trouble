@@ -1,0 +1,35 @@
+{
+  "id": "2115877209500270715",
+  "permalink": "https://x.com/ZLH_Adou/status/2115877209500270715",
+  "author": {
+    "name": "了不起的阿斗",
+    "handle": "@ZLH_Adou",
+    "profile_url": "https://x.com/ZLH_Adou"
+  },
+  "posted_at": "2026-10-29T18:43:32Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**了不起的阿斗 ([@ZLH_Adou](https://x.com/ZLH_Adou/status/2115877209500270715))** shares **OpenVideoHarness**, a video workbench for Claude Code and Codex: ask for a film in one sentence and the agent writes code that renders every frame, self-checks and pauses at three points for sign-off ([ZLHad/OpenVideoHarness](https://github.com/ZLHad/OpenVideoHarness)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/ZLHad/OpenVideoHarness",
+      "from_post": "2115877209500270715",
+      "short_url": "https://t.co/xgkak7pe2b",
+      "title": "GitHub - ZLHad/OpenVideoHarness: A video harness work platform for Agents such as Claude or Codex: the agent writes the code that renders the film, checks its own frames, storyboard and cut. 给 Claude Code 和 Codex 用的视频Harness工作台：agent 写代码渲染成片、自己检查分镜，立意、成片由你拍板；众多风格预设、引擎丰富，配音配乐也用代码做。"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-media",
+    "harness-dev"
+  ],
+  "keywords": [
+    "openvideoharness",
+    "video-harness",
+    "claude-code",
+    "codex",
+    "code-driven-video"
+  ],
+  "relevance": "Harness specialized for code-driven video with human checkpoints."
+}

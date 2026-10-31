@@ -1,0 +1,32 @@
+{
+  "id": "2116062479562453186",
+  "permalink": "https://x.com/almighty_lisp/status/2116062479562453186",
+  "author": {
+    "name": "Almighty Lisp",
+    "handle": "@almighty_lisp",
+    "profile_url": "https://x.com/almighty_lisp"
+  },
+  "posted_at": "2026-10-30T06:59:44Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**Almighty Lisp ([@almighty_lisp](https://x.com/almighty_lisp/status/2116062479562453186))** shares **cl-mcp-server**, an MCP server for Common Lisp REPL evaluation by agents ([quasi/cl-mcp-server](https://github.com/quasi/cl-mcp-server)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/quasi/cl-mcp-server",
+      "from_post": "2116062479562453186",
+      "short_url": "https://t.co/0NqP8yqTyP",
+      "title": "GitHub - quasi/cl-mcp-server: Common Lisp REPL Superpower for Agents"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "common-lisp",
+    "mcp",
+    "repl"
+  ],
+  "relevance": "REPL-driven development for agents."
+}

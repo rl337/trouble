@@ -1,0 +1,49 @@
+{
+  "id": "2116179186528505879",
+  "permalink": "https://x.com/dashdash_design/status/2116179186528505879",
+  "author": {
+    "name": "Dash Dash",
+    "handle": "@dashdash_design",
+    "profile_url": "https://x.com/dashdash_design"
+  },
+  "posted_at": "2026-10-30T14:43:29Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [
+    {
+      "id": "2116179189493825781",
+      "permalink": "https://x.com/dashdash_design/status/2116179189493825781",
+      "posted_at": "2026-10-30T14:43:30Z",
+      "position": 1
+    }
+  ],
+  "summary_md": "**Dash Dash ([@dashdash_design](https://x.com/dashdash_design/status/2116179186528505879))** built **Kara**, an open character designer on your own ComfyUI: pick menus, drag a face into shape and it writes the prompt and outputs a clean character sheet; installers and an online API-key version exist ([DashDashDesign/Kara](https://github.com/DashDashDesign/Kara), [kara.dashdash.design](https://kara.dashdash.design)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/DashDashDesign/Kara",
+      "from_post": "2116179186528505879",
+      "short_url": "https://t.co/Kh3zE5er7z",
+      "title": "GitHub - DashDashDesign/Kara: A local, open source character designer that runs onyour own ComfyUI."
+    },
+    {
+      "url": "https://kara.dashdash.design",
+      "from_post": "2116179189493825781",
+      "short_url": "https://t.co/drZn9y0imZ",
+      "title": "Kara"
+    }
+  ],
+  "hashtags": [
+    "OpenSourceHiggsfield"
+  ],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "kara",
+    "character-design",
+    "character-sheet",
+    "comfyui",
+    "opensourcehiggsfield"
+  ],
+  "relevance": "Local character sheet generation."
+}

@@ -1,0 +1,42 @@
+{
+  "id": "2115835235556540486",
+  "permalink": "https://x.com/UnderTheIndex01/status/2115835235556540486",
+  "author": {
+    "name": "UnderTheIndex",
+    "handle": "@UnderTheIndex01",
+    "profile_url": "https://x.com/UnderTheIndex01"
+  },
+  "posted_at": "2026-10-29T15:56:45Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**UnderTheIndex ([@UnderTheIndex01](https://x.com/UnderTheIndex01/status/2115835235556540486))** summarizes *Agent Memory as Recommendation* ([arXiv 2610.34673](https://arxiv.org/abs/2610.34673)): **AgentMemRec** selects memories with BM25, embeddings, RRF and a LightGBM ranker without LLM calls, beating A-Mem and HippoRAG 2 by 10–31 points on multi-session LongMemEval and matching a 64-call LLM reranker at 3.2× lower cost.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.34673",
+      "from_post": "2115835235556540486",
+      "short_url": "https://t.co/Gp5Uct4vaG",
+      "title": "Agent Memory as Recommendation: Recommender-System Design for..."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-cognition"
+  ],
+  "keywords": [
+    "agentmemrec",
+    "agent-memory",
+    "recommender-system",
+    "longmemeval",
+    "lightgbm"
+  ],
+  "relevance": "Cheap, strong memory retrieval design for agents.",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://x.com/UnderTheIndex01/status/2115835235556540486/video/1",
+      "from_post": "2115835235556540486",
+      "description": "Explainer video (not downloaded; referenced only)."
+    }
+  ]
+}

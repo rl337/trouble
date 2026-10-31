@@ -1,0 +1,44 @@
+{
+  "id": "2116202663436267542",
+  "permalink": "https://x.com/JEH3Interactive/status/2116202663436267542",
+  "author": {
+    "name": "JEH3",
+    "handle": "@JEH3Interactive",
+    "profile_url": "https://x.com/JEH3Interactive"
+  },
+  "posted_at": "2026-10-30T16:16:46Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**JEH3 ([@JEH3Interactive](https://x.com/JEH3Interactive/status/2116202663436267542))** built **Open Ads Studio**, which stops AI from drawing labels: one product photo becomes a campaign with open-weight ComfyUI workflows, raising label match from 49% to 99.8% ([jhoard/open-ads-studio](https://github.com/jhoard/open-ads-studio)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/jhoard/open-ads-studio",
+      "from_post": "2116202663436267542",
+      "short_url": "https://t.co/HbADhZyDDr",
+      "title": "GitHub - jhoard/open-ads-studio: Open-weights rebuild of Higgsfield Ads Studio. Label-exact, compliance-checked product ads via ComfyUI workflows on LTX-2 and MiniMax H3. #OpenSourceHiggsfield"
+    }
+  ],
+  "hashtags": [
+    "OpenSourceHiggsfield"
+  ],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "open-ads-studio",
+    "comfyui",
+    "product-ad",
+    "label-fidelity",
+    "opensourcehiggsfield"
+  ],
+  "relevance": "Label-exact ad generation.",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://x.com/JEH3Interactive/status/2116202663436267542/video/1",
+      "from_post": "2116202663436267542",
+      "description": "Campaign generated from one product photo (not downloaded; referenced only)."
+    }
+  ]
+}

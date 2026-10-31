@@ -1,0 +1,35 @@
+{
+  "id": "2116423977308676518",
+  "permalink": "https://x.com/0xMarsNext/status/2116423977308676518",
+  "author": {
+    "name": "MarsNext 🛰️ 🔭 👽",
+    "handle": "@0xMarsNext",
+    "profile_url": "https://x.com/0xMarsNext"
+  },
+  "posted_at": "2026-10-31T06:56:12Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**MarsNext 🛰️ 🔭 👽 ([@0xMarsNext](https://x.com/0xMarsNext/status/2116423977308676518))** built **PhobosStream**, which streams weights from NVMe via mmap so 14B Wan2.1 and 12B DiTs run on 8 GB GPUs or 16 GB Macs, with peak VRAM falling from 38.4 GB to 788 MB. It ships with a ComfyUI node ([martianacademy/phobos-stream](https://github.com/martianacademy/phobos-stream)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/martianacademy/phobos-stream",
+      "from_post": "2116423977308676518",
+      "short_url": "https://t.co/tfiktfpDa1",
+      "title": "GitHub - martianacademy/phobos-stream: Universal Zero-VRAM Video & Image Diffusion Streaming Engine (MLX • CUDA • ROCm • GGUF)"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-media",
+    "local-models"
+  ],
+  "keywords": [
+    "phobosstream",
+    "wan2.1",
+    "vram",
+    "comfyui",
+    "weight-streaming"
+  ],
+  "relevance": "Video diffusion on small GPUs."
+}

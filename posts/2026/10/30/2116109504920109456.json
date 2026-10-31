@@ -1,0 +1,34 @@
+{
+  "id": "2116109504920109456",
+  "permalink": "https://x.com/vib_z/status/2116109504920109456",
+  "author": {
+    "name": "Vaibhav Rana",
+    "handle": "@vib_z",
+    "profile_url": "https://x.com/vib_z"
+  },
+  "posted_at": "2026-10-30T10:06:36Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**Vaibhav Rana ([@vib_z](https://x.com/vib_z/status/2116109504920109456))** releases **stampede 0.1.6**, which runs whole jobs on herdr-core: you message a task from your phone, a Claude Code lead and Codex workers run on your Mac as persistent terminals even with windows closed, and merges still wait for your approval ([vib-z/stampede](https://github.com/vib-z/stampede)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/vib-z/stampede",
+      "from_post": "2116109504920109456",
+      "short_url": "https://t.co/150nroIb9h",
+      "title": "GitHub - vib-z/stampede: Text tasks to your Grok Bot. It reaches your Mac over Tailscale, where Claude Code does the job, adding other agents (Codex, Cursor and more) as needed. Nothing is merged, pushed, sent or spent until you say yes."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "stampede",
+    "herdr-core",
+    "claude-code",
+    "codex",
+    "multi-agent"
+  ],
+  "relevance": "Remote-triggered multi-agent coding with a human merge gate."
+}

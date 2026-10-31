@@ -1,0 +1,64 @@
+{
+  "id": "2116193368846004341",
+  "permalink": "https://x.com/hexeosis/status/2116193368846004341",
+  "author": {
+    "name": "hexeosis ⬢⬢⬢⬢⬢⬢",
+    "handle": "@hexeosis",
+    "profile_url": "https://x.com/hexeosis"
+  },
+  "posted_at": "2026-10-30T15:39:50Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [
+    {
+      "id": "2116198301800550804",
+      "permalink": "https://x.com/hexeosis/status/2116198301800550804",
+      "posted_at": "2026-10-30T15:59:26Z",
+      "position": 1
+    },
+    {
+      "id": "2116198949870870712",
+      "permalink": "https://x.com/hexeosis/status/2116198949870870712",
+      "posted_at": "2026-10-30T16:02:01Z",
+      "position": 2
+    },
+    {
+      "id": "2116199114174296437",
+      "permalink": "https://x.com/hexeosis/status/2116199114174296437",
+      "posted_at": "2026-10-30T16:02:40Z",
+      "position": 3
+    }
+  ],
+  "summary_md": "**hexeosis ⬢⬢⬢⬢⬢⬢ ([@hexeosis](https://x.com/hexeosis/status/2116193368846004341))** built **nightshift**, a local music-video crew: an agent writes the song (MiniMax Music 3), FLUX 2 Klein makes character refs and frames, LTX 2.3 renders lip-synced clips checked against the face with retakes, then beat-cuts and grades; director or hands-off modes plus a CLI and MCP server ([hexeosis-prime/nightshift](https://github.com/hexeosis-prime/nightshift)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/hexeosis-prime/nightshift",
+      "from_post": "2116193368846004341",
+      "short_url": "https://t.co/6F0mquzieI",
+      "title": "GitHub - hexeosis-prime/nightshift: A local music video pipeline for ComfyUI that any agent can drive: Flux 2 Klein stills and character sheets, LTX 2.3 video, MiniMax Music 3 songs, edit, grade and overlay, plus an MCP server."
+    }
+  ],
+  "hashtags": [
+    "OpenSourceHiggsfield"
+  ],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "nightshift",
+    "music-video",
+    "ltx-2.3",
+    "flux-2-klein",
+    "mcp",
+    "opensourcehiggsfield"
+  ],
+  "relevance": "Agent-drivable end-to-end music video pipeline.",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://x.com/hexeosis/status/2116193368846004341/video/1",
+      "from_post": "2116193368846004341",
+      "description": "Generated music video excerpt (not downloaded; referenced only)."
+    }
+  ]
+}

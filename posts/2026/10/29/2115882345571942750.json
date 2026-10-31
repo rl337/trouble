@@ -1,0 +1,45 @@
+{
+  "id": "2115882345571942750",
+  "permalink": "https://x.com/SciFi/status/2115882345571942750",
+  "author": {
+    "name": "Artificial Intelligence Papers",
+    "handle": "@SciFi",
+    "profile_url": "https://x.com/SciFi"
+  },
+  "posted_at": "2026-10-29T19:03:57Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**Artificial Intelligence Papers ([@SciFi](https://x.com/SciFi/status/2115882345571942750))** shares *Agentic Algorithm Design* ([arXiv 2610.35595](https://arxiv.org/abs/2610.35595)), a staged pipeline in which LLM agents propose black-box optimization algorithms, Lean filters out flawed designs, and the agent defines potential functions and proves runtime bounds for evolutionary algorithms.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.35595",
+      "from_post": "2115882345571942750",
+      "short_url": "https://t.co/dmj1i4X7q5",
+      "title": "Agentic Algorithm Design: LLMs that Propose, Formalise, and Prove..."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-cognition"
+  ],
+  "keywords": [
+    "agentic-algorithm-design",
+    "lean",
+    "theorem-proving",
+    "evolutionary-algorithm",
+    "runtime-analysis"
+  ],
+  "relevance": "Agents doing verified algorithm design, not just empirical search.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV0fx-TXkAAdxlH.png",
+      "from_post": "2115882345571942750",
+      "description": "Image of the paper's abstract text.",
+      "kind": "paper",
+      "thumbnail": "posts/2026/10/29/2115882345571942750/media/0.webp",
+      "ocr_text": "LLMs now prove hard theorems in Lean. Can they also design algorithms and prove their correctness and efficiency? LLM-guided design of optimisation heuristics (such as AlphaEvolve) is purely empirical. Automated theorem provers with LLMs prove given statements. So far, there has been little evidence that LLMs can do both: design an algorithm and guarantee its efficiency by a mathematical proof. We present a staged pipeline modelled after research methodology in design and analysis of evolutionary algorithms. The agent proposes black-box optimisation algorithms, and Lean guards filter out flawed designs. The agent then defines a potential function and proves drift bounds that guarantee an expected runtime improvement over the baseline algorithm. At no point in the pipeline are the algorithms compared empirically. The agent generates a black-box optimisation algorithm with expected runtime O(n²) on a CycleUncover problem, where the classical (1+1) EA needs runtime eΩ⁽ⁿ). The pipeline als"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "2116141179133739308",
+  "permalink": "https://x.com/leretahx/status/2116141179133739308",
+  "author": {
+    "name": "René · NeuroPixel+",
+    "handle": "@leretahx",
+    "profile_url": "https://x.com/leretahx"
+  },
+  "posted_at": "2026-10-30T12:12:27Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**René · NeuroPixel+ ([@leretahx](https://x.com/leretahx/status/2116141179133739308))** releases **ComfyUI-RenderPasses**, which extracts compositing passes (depth, normals, albedo, parallax, Cryptomatte from PSD layers, 3D splat) from existing 2D background art without altering it ([neuropixelplus/ComfyUI-RenderPasses](https://github.com/neuropixelplus/ComfyUI-RenderPasses)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/neuropixelplus/ComfyUI-RenderPasses",
+      "from_post": "2116141179133739308",
+      "short_url": "https://t.co/ZkoH8YOsJ7",
+      "title": "GitHub - neuropixelplus/ComfyUI-RenderPasses: Turn flat 2D background plates into compositing-ready render passes (depth, normals, albedo, parallax, position, Cryptomatte from PSD layers, 3D splat) as a multilayer EXR + Nuke script, with open-weights models in ComfyUI."
+    }
+  ],
+  "hashtags": [
+    "OpenSourceHiggsfield"
+  ],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "comfyui-renderpasses",
+    "compositing",
+    "render-pass",
+    "depth-map",
+    "cryptomatte",
+    "opensourcehiggsfield"
+  ],
+  "relevance": "Bridges 2D art into compositing pipelines.",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://x.com/leretahx/status/2116141179133739308/video/1",
+      "from_post": "2116141179133739308",
+      "description": "Demo of passes extracted from a painted background (not downloaded; referenced only)."
+    }
+  ]
+}

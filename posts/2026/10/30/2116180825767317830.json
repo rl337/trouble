@@ -1,0 +1,42 @@
+{
+  "id": "2116180825767317830",
+  "permalink": "https://x.com/infosec_fox/status/2116180825767317830",
+  "author": {
+    "name": "INFOSEC F0X 🔥",
+    "handle": "@infosec_fox",
+    "profile_url": "https://x.com/infosec_fox"
+  },
+  "posted_at": "2026-10-30T14:50:00Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**INFOSEC F0X 🔥 ([@infosec_fox](https://x.com/infosec_fox/status/2116180825767317830))** points to a free harness-engineering course from walkinglabs with 14 lectures, 8 projects and 4 breakdowns of frontier harnesses ([walkinglabs](https://github.com/walkinglabs/)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/walkinglabs/",
+      "from_post": "2116180825767317830",
+      "short_url": "https://t.co/517KXBmC8k",
+      "title": "walkinglab"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "harness-engineering",
+    "course",
+    "coding-agent"
+  ],
+  "relevance": "Learning resource for harness development.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV4vJZOaQAA_LAm.png",
+      "from_post": "2116180825767317830",
+      "description": "'Learn Harness Engineering' repository banner with language badges.",
+      "kind": "screenshot",
+      "thumbnail": "posts/2026/10/30/2116180825767317830/media/0.webp"
+    }
+  ]
+}

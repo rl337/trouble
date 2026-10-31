@@ -1,0 +1,37 @@
+{
+  "id": "2115966916229824920",
+  "permalink": "https://x.com/cv_usk/status/2115966916229824920",
+  "author": {
+    "name": "cv usk",
+    "handle": "@cv_usk",
+    "profile_url": "https://x.com/cv_usk"
+  },
+  "posted_at": "2026-10-30T00:40:00Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**cv usk ([@cv_usk](https://x.com/cv_usk/status/2115966916229824920))** summarizes *Training Small Language Models for Transferable Tool Selection* ([arXiv 2610.31483](https://arxiv.org/pdf/2610.31483)): Qwen3 1.7B–8B trained with a Plan-Retrieve-Select pipeline (SFT then GRPO on teacher-filtered ToolBench G3 data) select among 10,000+ tools better than prompting the 402B Llama-4-Maverick, reaching 41.5% G3 success at 8B vs. 30.6%, and swapping BM25 for the dense COLT retriever helps without retraining.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/pdf/2610.31483",
+      "from_post": "2115966916229824920",
+      "short_url": "https://t.co/sh7uQMKjCM"
+    }
+  ],
+  "hashtags": [
+    "LLMAgents",
+    "ToolUse"
+  ],
+  "topics": [
+    "local-models",
+    "harness-dev"
+  ],
+  "keywords": [
+    "tool-selection",
+    "qwen3",
+    "grpo",
+    "toolbench",
+    "small-language-model"
+  ],
+  "relevance": "Small local models can be trained into strong tool selectors."
+}

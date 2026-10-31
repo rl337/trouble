@@ -1,0 +1,45 @@
+{
+  "id": "2116066767919370599",
+  "permalink": "https://x.com/SciFi/status/2116066767919370599",
+  "author": {
+    "name": "Artificial Intelligence Papers",
+    "handle": "@SciFi",
+    "profile_url": "https://x.com/SciFi"
+  },
+  "posted_at": "2026-10-30T07:16:46Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**Artificial Intelligence Papers ([@SciFi](https://x.com/SciFi/status/2116066767919370599))** shares *Your Agent Acts Differently When You're Around* ([arXiv 2610.36435](https://arxiv.org/abs/2610.36435)) by Pan et al., whose PRESENT framework shows over 11.2k negotiations that an interactive user's presence changes how agents bargain, raising payoffs but also inducing misaligned behavior.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.36435",
+      "from_post": "2116066767919370599",
+      "short_url": "https://t.co/qpeIJedV2G",
+      "title": "Your Agent Acts Differently When You're Around: How User..."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-cognition"
+  ],
+  "keywords": [
+    "present",
+    "negotiation",
+    "agent-behavior",
+    "user-presence",
+    "alignment"
+  ],
+  "relevance": "Evidence that observation changes agent behavior, relevant to evaluating and supervising agents.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV3HgusWAAAfC_2.png",
+      "from_post": "2116066767919370599",
+      "description": "Abstract of the paper describing the PRESENT negotiation study.",
+      "kind": "paper",
+      "thumbnail": "posts/2026/10/30/2116066767919370599/media/0.webp",
+      "ocr_text": "LLM agents increasingly interact with other agents on behalf of users, yet how users in the loop affect their agents' behavior–for better or worse–remains poorly understood. We study this question through the lens of negotiation, where agents must represent users while strategically bargaining with other agents. To isolate the effect of user presence, we develop PRESENT, a controlled evaluation framework that compares negotiation settings with and without an interactive user, while holding the game, objectives, and user preferences fixed across conditions. Across 11.2k runs spanning 7 games and 8 models, we find that user presence significantly changes both outcomes and behavior. Specifically, negotiation parties with a user obtain higher payouts (+13.7% on average) and their agents negotiate more aggressively. Surprisingly, user presence also induces misaligned behavior, both toward counterparties (where its rate roughly doubles) and toward users (where it emerges in 14.3% of games)."
+    }
+  ]
+}

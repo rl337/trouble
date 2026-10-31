@@ -1,0 +1,34 @@
+{
+  "id": "2116191857105608952",
+  "permalink": "https://x.com/Manojkumar2257/status/2116191857105608952",
+  "author": {
+    "name": "Manoj | The AI Dude",
+    "handle": "@Manojkumar2257",
+    "profile_url": "https://x.com/Manojkumar2257"
+  },
+  "posted_at": "2026-10-30T15:33:50Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**Manoj | The AI Dude ([@Manojkumar2257](https://x.com/Manojkumar2257/status/2116191857105608952))** recommends **product-demo**, a Claude Code plugin that writes a script, waits for approval, drives Chrome, narrates with local Kokoro syncing clicks to words, trims dead time and burns subtitles ([ccomkhj/product-demo](https://github.com/ccomkhj/product-demo)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/ccomkhj/product-demo",
+      "from_post": "2116191857105608952",
+      "short_url": "https://t.co/OpxCW3YT0l",
+      "title": "GitHub - ccomkhj/product-demo: Claude Code skill: describe a product or a new release in a sentence and get a narrated, subtitled demo video recorded live in Chrome"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "product-demo",
+    "claude-code",
+    "kokoro",
+    "chrome-devtools",
+    "demo-video"
+  ],
+  "relevance": "Automated narrated demo videos."
+}

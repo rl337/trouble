@@ -1,0 +1,44 @@
+{
+  "id": "2115992302099329213",
+  "permalink": "https://x.com/Memoirs/status/2115992302099329213",
+  "author": {
+    "name": "Machine Learning (ML) Papers",
+    "handle": "@Memoirs",
+    "profile_url": "https://x.com/Memoirs"
+  },
+  "posted_at": "2026-10-30T02:20:52Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**Machine Learning (ML) Papers ([@Memoirs](https://x.com/Memoirs/status/2115992302099329213))** shares **InterQ-RL** ([arXiv 2610.35303](https://arxiv.org/abs/2610.35303)), which corrects the residual rollout-learner mismatch that accumulates when quantized rollouts are used in multi-turn agentic RL.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.35303",
+      "from_post": "2115992302099329213",
+      "short_url": "https://t.co/FVQeZCiKxo",
+      "title": "InterQ-RL: Interaction-Aware Correction of Execution Mismatch in..."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-cognition"
+  ],
+  "keywords": [
+    "interq-rl",
+    "quantization",
+    "agentic-rl",
+    "rollout"
+  ],
+  "relevance": "Making quantized rollouts viable for agent RL.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV2DyS6XAAA-BYa.png",
+      "from_post": "2115992302099329213",
+      "description": "Image of the paper's abstract text.",
+      "kind": "paper",
+      "thumbnail": "posts/2026/10/30/2115992302099329213/media/0.webp",
+      "ocr_text": "Multi-turn agent reinforcement learning (RL) relies on long closed-loop rollouts, making generation and KV-cache costs a major bottleneck. Quantized rollout reduces these costs, but its low-precision executor also serves as the behavior policy and can induce execution mismatch with the learner. Existing quantized-RL methods are designed primarily for single-turn generation. They align the learner forward with quantized rollout or correct the current-token rollout-learner ratio, without modeling the policy history that produces each agent state. Even after quantization alignment, residual rollout-learner mismatch accumulates along the state-reaching policy history, so a current action may look locally aligned despite a mismatched history. We introduce InterQ-RL (Interaction-aware Quantized Reinforcement Learning) to correct this post-alignment mismatch. It applies bounded execution-prefix correction over the state-reaching policy history, allocates correction strength across action segm"
+    }
+  ]
+}

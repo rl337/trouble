@@ -1,0 +1,99 @@
+{
+  "id": "2116335245318644016",
+  "permalink": "https://x.com/JoshHughes___/status/2116335245318644016",
+  "author": {
+    "name": "jhug",
+    "handle": "@JoshHughes___",
+    "profile_url": "https://x.com/JoshHughes___"
+  },
+  "posted_at": "2026-10-31T01:03:36Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [
+    {
+      "id": "2116335252033753381",
+      "permalink": "https://x.com/JoshHughes___/status/2116335252033753381",
+      "posted_at": "2026-10-31T01:03:38Z",
+      "position": 1
+    },
+    {
+      "id": "2116335258576822319",
+      "permalink": "https://x.com/JoshHughes___/status/2116335258576822319",
+      "posted_at": "2026-10-31T01:03:39Z",
+      "position": 2
+    },
+    {
+      "id": "2116335265312915528",
+      "permalink": "https://x.com/JoshHughes___/status/2116335265312915528",
+      "posted_at": "2026-10-31T01:03:41Z",
+      "position": 3
+    },
+    {
+      "id": "2116335268131385511",
+      "permalink": "https://x.com/JoshHughes___/status/2116335268131385511",
+      "posted_at": "2026-10-31T01:03:42Z",
+      "position": 4
+    }
+  ],
+  "summary_md": "**jhug ([@JoshHughes___](https://x.com/JoshHughes___/status/2116335245318644016))** introduces **Local Model Access (LMA)**. A phone stores one model file, and sites that support LMA verify it against a Hugging Face SHA-256 and stream it to the GPU, so nothing is uploaded or downloaded twice. Sites embed a chat widget or run headless, the code is Apache-2.0 and the spec CC BY 4.0. It was tested on iPhone with Nemotron 3.5 Bolt E4B and Gemma 4 E2B ([ArtistJoshHughes/local-model-access](https://github.com/ArtistJoshHughes/local-model-access), [p0pc0rn-kernels](https://github.com/ArtistJoshHughes/p0pc0rn-kernels)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/ArtistJoshHughes/local-model-access",
+      "from_post": "2116335245318644016",
+      "short_url": "https://t.co/6d71yJpc2A",
+      "title": "GitHub - ArtistJoshHughes/local-model-access: Local Model Access (LMA): one on-device AI model file, shared by many websites. Created by artist Josh Hughes."
+    },
+    {
+      "url": "https://github.com/ArtistJoshHughes/p0pc0rn-kernels",
+      "from_post": "2116335265312915528",
+      "short_url": "https://t.co/5cjDCVyFlY",
+      "title": "GitHub - ArtistJoshHughes/p0pc0rn-kernels: WebGPU compute kernels for image, video and language models in the browser: GEMM with in-kernel 4/8-bit dequantisation, flash attention, 3D convolution. Tuned on iPhone."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "local-models"
+  ],
+  "keywords": [
+    "local-model-access",
+    "webgpu",
+    "on-device-ai",
+    "nemotron-3.5-bolt",
+    "gemma-4"
+  ],
+  "relevance": "On-device model shared across websites.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV67sFraQAAda14.jpg",
+      "from_post": "2116335245318644016",
+      "description": "GitHub README of Local Model Access.",
+      "kind": "screenshot",
+      "thumbnail": "posts/2026/10/31/2116335245318644016/media/0.webp"
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV67sfibkAACfEu.jpg",
+      "from_post": "2116335252033753381",
+      "description": "Three-step flow for choosing and checking the model file.",
+      "kind": "screenshot",
+      "thumbnail": "posts/2026/10/31/2116335245318644016/media/1.webp"
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV67s32acAA6MMW.jpg",
+      "from_post": "2116335258576822319",
+      "description": "Example help-centre page with the LMA chat widget.",
+      "kind": "screenshot",
+      "thumbnail": "posts/2026/10/31/2116335245318644016/media/2.webp"
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV67tQmbUAAe7gs.jpg",
+      "from_post": "2116335265312915528",
+      "description": "README section on tested models and drop-in UI.",
+      "kind": "screenshot",
+      "thumbnail": "posts/2026/10/31/2116335245318644016/media/3.webp"
+    }
+  ]
+}

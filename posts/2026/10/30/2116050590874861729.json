@@ -1,0 +1,43 @@
+{
+  "id": "2116050590874861729",
+  "permalink": "https://x.com/matongzhan/status/2116050590874861729",
+  "author": {
+    "name": "MachineLearningAmateur",
+    "handle": "@matongzhan",
+    "profile_url": "https://x.com/matongzhan"
+  },
+  "posted_at": "2026-10-30T06:12:29Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**MachineLearningAmateur ([@matongzhan](https://x.com/matongzhan/status/2116050590874861729))** built **cinestudio** for ComfyUI, using Blender shots with your own characters, backgrounds and styles via LTX-2.5, drivable by AI ([MachineLearningAmateur/cinestudio](https://github.com/MachineLearningAmateur/cinestudio)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/MachineLearningAmateur/cinestudio",
+      "from_post": "2116050590874861729",
+      "short_url": "https://t.co/paEHZZybaP",
+      "title": "GitHub - MachineLearningAmateur/cinestudio: a studio that leverages comfyui to better control scenes rendered with LTX 2.5"
+    }
+  ],
+  "hashtags": [
+    "OpenSourceHiggsfield"
+  ],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "cinestudio",
+    "blender",
+    "ltx-2.5",
+    "comfyui"
+  ],
+  "relevance": "Blender-guided generative video.",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://x.com/matongzhan/status/2116050590874861729/video/1",
+      "from_post": "2116050590874861729",
+      "description": "cinestudio demo (not downloaded; referenced only)."
+    }
+  ]
+}

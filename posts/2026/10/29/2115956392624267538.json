@@ -1,0 +1,52 @@
+{
+  "id": "2115956392624267538",
+  "permalink": "https://x.com/Artbyo3/status/2115956392624267538",
+  "author": {
+    "name": "Artbyo3",
+    "handle": "@Artbyo3",
+    "profile_url": "https://x.com/Artbyo3"
+  },
+  "posted_at": "2026-10-29T23:58:11Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [
+    {
+      "id": "2115983954566152370",
+      "permalink": "https://x.com/Artbyo3/status/2115983954566152370",
+      "posted_at": "2026-10-30T01:47:42Z",
+      "position": 1
+    }
+  ],
+  "summary_md": "**Artbyo3 ([@Artbyo3](https://x.com/Artbyo3/status/2115956392624267538))** released **DEVIL-DESIGNER v0.10.0**, a free Blender add-on for drafting, sewing and simulating garments (a shirt in about 5 minutes), admitting the UI still needs polish ([release](https://github.com/Artbyo3/DEVIL-DESIGNER/releases/tag/v0.10.0)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/Artbyo3/DEVIL-DESIGNER/releases/tag/v0.10.0",
+      "from_post": "2115956392624267538",
+      "short_url": "https://t.co/Q3oPxQX7q2",
+      "title": "Release Devil Designer 0.10.0 - Elliptical Arrangement, Simulation States & Sewing Preview · Artbyo3/DEVIL-DESIGNER"
+    }
+  ],
+  "hashtags": [
+    "Blender",
+    "b3d",
+    "VRChat"
+  ],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "devil-designer",
+    "blender",
+    "garment",
+    "cloth-simulation"
+  ],
+  "relevance": "3D garment tooling in Blender.",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://x.com/Artbyo3/status/2115956392624267538/video/1",
+      "from_post": "2115956392624267538",
+      "description": "Shirt drafting and simulation demo (not downloaded; referenced only)."
+    }
+  ]
+}

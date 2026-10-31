@@ -1,0 +1,66 @@
+{
+  "id": "2116071566194958387",
+  "permalink": "https://x.com/chandan__dev/status/2116071566194958387",
+  "author": {
+    "name": "Chandan Joshi",
+    "handle": "@chandan__dev",
+    "profile_url": "https://x.com/chandan__dev"
+  },
+  "posted_at": "2026-10-30T07:35:50Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [
+    {
+      "id": "2116071570640929081",
+      "permalink": "https://x.com/chandan__dev/status/2116071570640929081",
+      "posted_at": "2026-10-30T07:35:51Z",
+      "position": 1
+    }
+  ],
+  "summary_md": "**Chandan Joshi ([@chandan__dev](https://x.com/chandan__dev/status/2116071566194958387))** announces ClearRoute's open-source **runkora**, a Kubernetes control plane for running Claude Code, Codex and OpenCode with isolated sandboxes, per-agent identity, policy and budgets and no credentials inside agents (Apache 2.0); a follow-up links the docs and deploy guide ([runkora/kora](https://github.com/runkora/kora), [runkora.dev](https://runkora.dev)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/runkora/kora",
+      "from_post": "2116071566194958387",
+      "short_url": "https://t.co/Ln1grozQwh",
+      "title": "GitHub - runkora/kora: The open source control plane for running agent factories in production"
+    },
+    {
+      "url": "https://runkora.dev",
+      "from_post": "2116071570640929081",
+      "short_url": "https://t.co/Aqg4ITE2P3",
+      "title": "runkora docs"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "runkora",
+    "kubernetes",
+    "sandbox",
+    "agent-identity",
+    "coding-agent",
+    "budget"
+  ],
+  "relevance": "Production governance layer for fleets of coding agents.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV3LtR4bEAAa7XD.jpg",
+      "from_post": "2116071566194958387",
+      "description": "runkora dashboard listing agents with run counts and status.",
+      "kind": "screenshot",
+      "thumbnail": "posts/2026/10/30/2116071566194958387/media/0.webp"
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV3LtLGaAAApA9u.png",
+      "from_post": "2116071566194958387",
+      "description": "runkora banner: 'The open source control plane for running agent factories in production'.",
+      "kind": "other",
+      "thumbnail": "posts/2026/10/30/2116071566194958387/media/1.webp"
+    }
+  ]
+}

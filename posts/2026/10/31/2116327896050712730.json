@@ -1,0 +1,33 @@
+{
+  "id": "2116327896050712730",
+  "permalink": "https://x.com/robinliu2022/status/2116327896050712730",
+  "author": {
+    "name": "小微",
+    "handle": "@robinliu2022",
+    "profile_url": "https://x.com/robinliu2022"
+  },
+  "posted_at": "2026-10-31T00:34:24Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**小微 ([@robinliu2022](https://x.com/robinliu2022/status/2116327896050712730))** summarizes *Broken on Arrival* ([paper page](https://huggingface.co/papers/2609.05881)). Of 305 coding-capable GGUF tags across 15 Ollama model lines, 7 (2.3%) solve at most 6 of 164 HumanEval+ problems, and all of them are low-bit quantizations under 4B.",
+  "referenced_urls": [
+    {
+      "url": "https://huggingface.co/papers/2609.05881",
+      "from_post": "2116327896050712730",
+      "short_url": "https://t.co/YAJLOQQPfa",
+      "title": "Paper page - Broken on Arrival: Non-Functional Quantized LLM Artifacts in Public Model Registries and How to Catch Them"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "local-models"
+  ],
+  "keywords": [
+    "quantization",
+    "gguf",
+    "ollama",
+    "humaneval+"
+  ],
+  "relevance": "Quality check before trusting local quants."
+}

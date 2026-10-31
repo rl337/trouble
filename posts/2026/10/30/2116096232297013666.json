@@ -1,0 +1,36 @@
+{
+  "id": "2116096232297013666",
+  "permalink": "https://x.com/cv_usk/status/2116096232297013666",
+  "author": {
+    "name": "cv usk",
+    "handle": "@cv_usk",
+    "profile_url": "https://x.com/cv_usk"
+  },
+  "posted_at": "2026-10-30T09:13:51Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**cv usk ([@cv_usk](https://x.com/cv_usk/status/2116096232297013666))** explains *MoRE: Mixture of Reused Experts* ([arXiv 2609.18176](https://arxiv.org/pdf/2609.18176)), where adjacent layers share one expert pool so that with N=32 and K=4 the number of expert combinations rises about 18× at equal parameter count, using only weight sharing and per-layer depth embeddings.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/pdf/2609.18176",
+      "from_post": "2116096232297013666",
+      "short_url": "https://t.co/fuhhLHgSKd"
+    }
+  ],
+  "hashtags": [
+    "MoE",
+    "LLM"
+  ],
+  "topics": [
+    "local-models",
+    "agentic-cognition"
+  ],
+  "keywords": [
+    "more",
+    "mixture-of-experts",
+    "expert-reuse",
+    "moe"
+  ],
+  "relevance": "MoE architecture trick that could make local MoE models more capable per parameter."
+}

@@ -1,0 +1,52 @@
+{
+  "id": "2115723027791106184",
+  "permalink": "https://x.com/ai_feixiang/status/2115723027791106184",
+  "author": {
+    "name": "Zero",
+    "handle": "@ai_feixiang",
+    "profile_url": "https://x.com/ai_feixiang"
+  },
+  "posted_at": "2026-10-29T08:30:52Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [
+    {
+      "id": "2115754610271092892",
+      "permalink": "https://x.com/ai_feixiang/status/2115754610271092892",
+      "posted_at": "2026-10-29T10:36:22Z",
+      "position": 1
+    }
+  ],
+  "summary_md": "**Zero ([@ai_feixiang](https://x.com/ai_feixiang/status/2115723027791106184))** shares a catalog of 129 prompts for AI-generated 3D games from TripoGrowthLab's awesome-3d-prompts, saying DeepSeek reproduced similar results in about three hours, with a playable demo ([catalog](https://github.com/TripoGrowthLab/awesome-3d-prompts/blob/main/docs/catalog.en.md#category-games), [demo](https://ai-3d-games.app.workbuddy.host/?sharecode=7QEJGE3XXB), [Turbo Troop](https://turbo-troop.vercel.app/)).",
+  "referenced_urls": [
+    {
+      "url": "https://ai-3d-games.app.workbuddy.host/?sharecode=7QEJGE3XXB",
+      "from_post": "2115723027791106184",
+      "short_url": "https://t.co/iLpf3Bjh7u"
+    },
+    {
+      "url": "https://github.com/TripoGrowthLab/awesome-3d-prompts/blob/main/docs/catalog.en.md#category-games",
+      "from_post": "2115723027791106184",
+      "short_url": "https://t.co/ojbgjXSFiE",
+      "title": "awesome-3d-prompts/docs/catalog.en.md at main · TripoGrowthLab/awesome-3d-prompts"
+    },
+    {
+      "url": "https://turbo-troop.vercel.app/",
+      "from_post": "2115754610271092892",
+      "short_url": "https://t.co/75E876Hifv",
+      "title": "TURBO TROOP — Sunset Cove GP"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "awesome-3d-prompts",
+    "3d-game",
+    "prompt",
+    "deepseek",
+    "tripo"
+  ],
+  "relevance": "Prompt library for agent-built 3D games."
+}

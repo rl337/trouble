@@ -1,0 +1,33 @@
+{
+  "id": "2115866515652362245",
+  "permalink": "https://x.com/cjski_/status/2115866515652362245",
+  "author": {
+    "name": "CJSKI",
+    "handle": "@cjski_",
+    "profile_url": "https://x.com/cjski_"
+  },
+  "posted_at": "2026-10-29T18:01:02Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**CJSKI ([@cjski_](https://x.com/cjski_/status/2115866515652362245))** highlights **Grim Prompter**, which has Claude Code threat-model a repo with file-and-line citations ([jmanico/grim-prompter](https://github.com/jmanico/grim-prompter)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/jmanico/grim-prompter",
+      "from_post": "2115866515652362245",
+      "short_url": "https://t.co/pGLL1sLB0j",
+      "title": "GitHub - jmanico/grim-prompter: Threat modeling for AI coding agents: point Claude Code, Codex or any agent at your repo and get an evidence-traced threat model. 36 architectures, 29 methods, MIT."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "grim-prompter",
+    "threat-model",
+    "security",
+    "claude-code"
+  ],
+  "relevance": "Security skill with actionable citations."
+}

@@ -1,0 +1,38 @@
+{
+  "id": "2116078381641146401",
+  "permalink": "https://x.com/AIserni/status/2116078381641146401",
+  "author": {
+    "name": "Serni | 세르니",
+    "handle": "@AIserni",
+    "profile_url": "https://x.com/AIserni"
+  },
+  "posted_at": "2026-10-30T08:02:55Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**Serni | 세르니 ([@AIserni](https://x.com/AIserni/status/2116078381641146401))** points to a deep dive on Block's **Dessa**, an on-device full-duplex speech-to-speech model that keeps audio end to end and runs on Apple Silicon ([Hugging Face blog](https://huggingface.co/blog/01router/what-is-dessa-ai-voice-model)).",
+  "referenced_urls": [
+    {
+      "url": "https://huggingface.co/blog/01router/what-is-dessa-ai-voice-model",
+      "from_post": "2116078381641146401",
+      "short_url": "https://t.co/tLj7vlPECk",
+      "title": "What Is Dessa AI Voice Model? Block's Speech AI Explained"
+    }
+  ],
+  "hashtags": [
+    "VoiceAI",
+    "LocalAI"
+  ],
+  "topics": [
+    "local-models",
+    "agentic-media"
+  ],
+  "keywords": [
+    "dessa",
+    "speech-to-speech",
+    "full-duplex",
+    "apple-silicon",
+    "on-device"
+  ],
+  "relevance": "Local full-duplex voice model for real-time agent interfaces."
+}

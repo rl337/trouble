@@ -1,0 +1,42 @@
+{
+  "id": "2116185607865086226",
+  "permalink": "https://x.com/WikiResearch/status/2116185607865086226",
+  "author": {
+    "name": "WikiResearch",
+    "handle": "@WikiResearch",
+    "profile_url": "https://x.com/WikiResearch"
+  },
+  "posted_at": "2026-10-30T15:09:00Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**WikiResearch ([@WikiResearch](https://x.com/WikiResearch/status/2116185607865086226))** shares Hickey et al.'s *Can Language Models Play the Wikipedia Game?* ([PDF](https://arxiv.org/pdf/2610.13948)), testing models navigating from a random source to target article by clicking only links.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/pdf/2610.13948",
+      "from_post": "2116185607865086226",
+      "short_url": "https://t.co/Bh89eUsNIH"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-cognition"
+  ],
+  "keywords": [
+    "wikipedia-game",
+    "navigation",
+    "planning",
+    "benchmark"
+  ],
+  "relevance": "Navigation and planning benchmark.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HVuTt1ZWcAAC0ZU.jpg",
+      "from_post": "2116185607865086226",
+      "description": "Success-rate bar chart by model and success vs parameter-count plot.",
+      "kind": "chart",
+      "thumbnail": "posts/2026/10/30/2116185607865086226/media/0.webp"
+    }
+  ]
+}

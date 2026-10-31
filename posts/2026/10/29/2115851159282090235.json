@@ -1,0 +1,143 @@
+{
+  "id": "2115851159282090235",
+  "permalink": "https://x.com/ServiceNowRSRCH/status/2115851159282090235",
+  "author": {
+    "name": "ServiceNow AI Research",
+    "handle": "@ServiceNowRSRCH",
+    "profile_url": "https://x.com/ServiceNowRSRCH"
+  },
+  "posted_at": "2026-10-29T17:00:01Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [
+    {
+      "id": "2115851160091500699",
+      "permalink": "https://x.com/ServiceNowRSRCH/status/2115851160091500699",
+      "posted_at": "2026-10-29T17:00:01Z",
+      "position": 1
+    },
+    {
+      "id": "2115851160930377943",
+      "permalink": "https://x.com/ServiceNowRSRCH/status/2115851160930377943",
+      "posted_at": "2026-10-29T17:00:02Z",
+      "position": 2
+    },
+    {
+      "id": "2115851161366614251",
+      "permalink": "https://x.com/ServiceNowRSRCH/status/2115851161366614251",
+      "posted_at": "2026-10-29T17:00:02Z",
+      "position": 3
+    },
+    {
+      "id": "2115851161689575511",
+      "permalink": "https://x.com/ServiceNowRSRCH/status/2115851161689575511",
+      "posted_at": "2026-10-29T17:00:02Z",
+      "position": 4
+    },
+    {
+      "id": "2115851162603966574",
+      "permalink": "https://x.com/ServiceNowRSRCH/status/2115851162603966574",
+      "posted_at": "2026-10-29T17:00:02Z",
+      "position": 5
+    },
+    {
+      "id": "2115851162935341094",
+      "permalink": "https://x.com/ServiceNowRSRCH/status/2115851162935341094",
+      "posted_at": "2026-10-29T17:00:02Z",
+      "position": 6
+    },
+    {
+      "id": "2115851163753169311",
+      "permalink": "https://x.com/ServiceNowRSRCH/status/2115851163753169311",
+      "posted_at": "2026-10-29T17:00:02Z",
+      "position": 7
+    }
+  ],
+  "summary_md": "**ServiceNow AI Research ([@ServiceNowRSRCH](https://x.com/ServiceNowRSRCH/status/2115851159282090235))** introduces **Apriel Voice 27B Preview**, an open-weight voice model that reasons across modalities and orchestrates multi-step tool calls; a speech encoder connects to a reasoning backbone via a learned projector, co-adapted with text replay and a frozen teacher. The thread reports EVA-A accuracy 51.3%, EVA-X 74% and τ3-Voice task completion 66%, with a live demo ([Apriel Live](https://servicenow-ai-apriel.hf.space/), [weights](https://huggingface.co/ServiceNow-AI/Apriel-Voice-27B-preview), [blog](https://servicenow-ai-apriel.hf.space/blog/apriel-voice-preview), [tech report](https://servicenow-ai-apriel.hf.space/documents/apriel-voice-preview-tech-report)).",
+  "referenced_urls": [
+    {
+      "url": "https://servicenow-ai-apriel.hf.space/",
+      "from_post": "2115851160091500699",
+      "short_url": "https://t.co/FzB7rChLNI",
+      "title": "Apriel Live"
+    },
+    {
+      "url": "https://huggingface.co/ServiceNow-AI/Apriel-Voice-27B-preview",
+      "from_post": "2115851160930377943",
+      "short_url": "https://t.co/eR8fg64ryu",
+      "title": "ServiceNow-AI/Apriel-Voice-27B-preview · Hugging Face"
+    },
+    {
+      "url": "https://servicenow-ai-apriel.hf.space/blog/apriel-voice-preview",
+      "from_post": "2115851160930377943",
+      "short_url": "https://t.co/lSGZry65bQ",
+      "title": "Introducing Apriel Voice 27B Preview — Apriel Live"
+    },
+    {
+      "url": "https://servicenow-ai-apriel.hf.space/documents/apriel-voice-preview-tech-report",
+      "from_post": "2115851160930377943",
+      "short_url": "https://t.co/027tcFYIK8",
+      "title": "Apriel Voice 27B Preview — Technical report"
+    }
+  ],
+  "hashtags": [
+    "AprielVoice",
+    "VoiceAI",
+    "VoiceAgents",
+    "OpenWeights",
+    "ServiceNow",
+    "ServiceNowAIResearch"
+  ],
+  "topics": [
+    "local-models",
+    "agentic-media"
+  ],
+  "keywords": [
+    "apriel-voice",
+    "voice-agent",
+    "speech-model",
+    "tool-calling",
+    "open-weight"
+  ],
+  "relevance": "~27B open voice agent model sized for local hardware.",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://x.com/ServiceNowRSRCH/status/2115851159282090235/video/1",
+      "from_post": "2115851159282090235",
+      "description": "Apriel Voice demo (not downloaded; referenced only)."
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HVzaMobWQAACTH1.jpg",
+      "from_post": "2115851160091500699",
+      "description": "Apriel Live demo with a voice orb and a weather card for Santa Clara.",
+      "kind": "screenshot",
+      "thumbnail": "posts/2026/10/29/2115851159282090235/media/1.webp"
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HVzaMokXIAE5ydQ.jpg",
+      "from_post": "2115851160091500699",
+      "description": "\"Choose a challenge\" page listing tasks such as looking up a work device or submitting an expense.",
+      "kind": "screenshot",
+      "thumbnail": "posts/2026/10/29/2115851159282090235/media/2.webp"
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HVzaMouXUAAs8b7.jpg",
+      "from_post": "2115851161689575511",
+      "description": "Two-stage training diagram: learn the speech interface, then adapt the shared backbone with text replay and a teacher.",
+      "kind": "diagram",
+      "thumbnail": "posts/2026/10/29/2115851159282090235/media/3.webp"
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HVzaMpuXQAAw162.jpg",
+      "from_post": "2115851162935341094",
+      "description": "Radar chart comparing Apriel Voice with proprietary and open-source voice models across audio reasoning, tool use and responsiveness.",
+      "kind": "chart",
+      "thumbnail": "posts/2026/10/29/2115851159282090235/media/4.webp"
+    }
+  ]
+}

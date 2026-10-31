@@ -1,0 +1,33 @@
+{
+  "id": "2116227387264479447",
+  "permalink": "https://x.com/de2pressed/status/2116227387264479447",
+  "author": {
+    "name": "Jayant",
+    "handle": "@de2pressed",
+    "profile_url": "https://x.com/de2pressed"
+  },
+  "posted_at": "2026-10-30T17:55:01Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**Jayant ([@de2pressed](https://x.com/de2pressed/status/2116227387264479447))** summarizes *Instruction Capacity* ([arXiv 2610.36095](https://arxiv.org/abs/2610.36095)): GPT-4o mini holds about 37 rules before slipping, dropping to ~18–19 under full replacement density; single-model preprint with open code and data.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.36095",
+      "from_post": "2116227387264479447",
+      "short_url": "https://t.co/GNHHctFQZC",
+      "title": "Instruction Capacity: Behavior and Degradation of Language Models..."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "instruction-capacity",
+    "rule",
+    "prompt",
+    "instruction-following"
+  ],
+  "relevance": "Calibrating rules-file size."
+}

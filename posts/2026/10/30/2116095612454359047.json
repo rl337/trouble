@@ -1,0 +1,45 @@
+{
+  "id": "2116095612454359047",
+  "permalink": "https://x.com/QwenAIFans/status/2116095612454359047",
+  "author": {
+    "name": "Qwen AI Fans",
+    "handle": "@QwenAIFans",
+    "profile_url": "https://x.com/QwenAIFans"
+  },
+  "posted_at": "2026-10-30T09:11:23Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**Qwen AI Fans ([@QwenAIFans](https://x.com/QwenAIFans/status/2116095612454359047))** reports that **QEngine**, a source-available C++/CUDA engine for Qwen3.8-27B INT4 on three RTX 3090s, cuts 200K-context time-to-first-token from about 130 s (dual-card vLLM) to about 51 s with 2.2–2.8× single-user output speed, while noting the GPU counts differ so readers should re-test ([bpx03/QEngine](https://github.com/bpx03/QEngine)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/bpx03/QEngine",
+      "from_post": "2116095612454359047",
+      "short_url": "https://t.co/d2YtAxBrAS",
+      "title": "GitHub - bpx03/QEngine: Source-available C++/CUDA inference engine for Qwen3.8-27B INT4 on 3x RTX 3090"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "local-models"
+  ],
+  "keywords": [
+    "qengine",
+    "qwen3.8-27b",
+    "int4",
+    "vllm",
+    "rtx-3090",
+    "long-context"
+  ],
+  "relevance": "Long-context performance for a ~27B model on consumer GPUs.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV3htAJbsAArNp2.jpg",
+      "from_post": "2116095612454359047",
+      "description": "QEngine v1.0 vs vLLM 0.28 summary cards: 2.6× faster 200K prefill, 2.2–2.8× single-user speed, 1.2–2.0× throughput, 100% chat SLA.",
+      "kind": "chart",
+      "thumbnail": "posts/2026/10/30/2116095612454359047/media/0.webp"
+    }
+  ]
+}

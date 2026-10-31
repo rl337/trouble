@@ -1,0 +1,41 @@
+{
+  "id": "2116338485355532661",
+  "permalink": "https://x.com/zunar104/status/2116338485355532661",
+  "author": {
+    "name": "Zunara",
+    "handle": "@zunar104",
+    "profile_url": "https://x.com/zunar104"
+  },
+  "posted_at": "2026-10-31T01:16:29Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**Zunara ([@zunar104](https://x.com/zunar104/status/2116338485355532661))** builds **Zunara Studio**, a local CLI for Claude Code or Codex that turns a video into captioned vertical clips with word-timed captions, a review queue and verified exports ([AndresGuido9820/zunara-studio](https://github.com/AndresGuido9820/zunara-studio)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/AndresGuido9820/zunara-studio",
+      "from_post": "2116338485355532661",
+      "short_url": "https://t.co/GuCzyjVT69",
+      "title": "GitHub - AndresGuido9820/zunara-studio: Local-first CLI to find, render, review and publish short video clips."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "zunara-studio",
+    "vertical-video",
+    "caption",
+    "clip"
+  ],
+  "relevance": "Agentic short-clip production.",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://x.com/zunar104/status/2116338485355532661/video/1",
+      "from_post": "2116338485355532661",
+      "description": "Screen recording of the pipeline (not downloaded; referenced only)."
+    }
+  ]
+}

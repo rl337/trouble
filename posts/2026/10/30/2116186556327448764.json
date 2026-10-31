@@ -1,0 +1,45 @@
+{
+  "id": "2116186556327448764",
+  "permalink": "https://x.com/PulyoSensei/status/2116186556327448764",
+  "author": {
+    "name": "Peace_Peace",
+    "handle": "@PulyoSensei",
+    "profile_url": "https://x.com/PulyoSensei"
+  },
+  "posted_at": "2026-10-30T15:12:46Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**Peace_Peace ([@PulyoSensei](https://x.com/PulyoSensei/status/2116186556327448764))** built **Pankeki**, a local ComfyUI character studio linking Codex/Claude where only the painted region changes (tested max pixel error 0 elsewhere) and recolor takes 0.4 s on CPU without a model call; MIT ([pullyo/pankeki](https://github.com/pullyo/pankeki)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/pullyo/pankeki",
+      "from_post": "2116186556327448764",
+      "short_url": "https://t.co/6S1tHb8p4r",
+      "title": "GitHub - pullyo/pankeki: Codex·Claude와 로컬 ComfyUI를 연결하는 캐릭터 제작 앱. 이미지 생성·부분 편집·프로젝트·2D 모션을 제공하며, Windows 이식은 실기 미검증·Blender 영상은 macOS 실험 기능입니다."
+    }
+  ],
+  "hashtags": [
+    "OpenSourceHiggsfield",
+    "ComfyUI"
+  ],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "pankeki",
+    "comfyui",
+    "inpainting",
+    "character-design",
+    "opensourcehiggsfield"
+  ],
+  "relevance": "Pixel-exact local character editing.",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://x.com/PulyoSensei/status/2116186556327448764/video/1",
+      "from_post": "2116186556327448764",
+      "description": "Painting a region to change only that part (not downloaded; referenced only)."
+    }
+  ]
+}

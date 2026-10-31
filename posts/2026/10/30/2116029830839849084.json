@@ -1,0 +1,33 @@
+{
+  "id": "2116029830839849084",
+  "permalink": "https://x.com/usehooo/status/2116029830839849084",
+  "author": {
+    "name": "Wilio",
+    "handle": "@usehooo",
+    "profile_url": "https://x.com/usehooo"
+  },
+  "posted_at": "2026-10-30T04:50:00Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**Wilio ([@usehooo](https://x.com/usehooo/status/2116029830839849084))** recommends Expo's official **skills** for routing, native UI, SDK upgrades and EAS builds, installable in Claude Code with `claude plugin install expo@claude-plugins-official` ([expo/skills](https://github.com/expo/skills)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/expo/skills",
+      "from_post": "2116029830839849084",
+      "short_url": "https://t.co/AHASzhfXhE",
+      "title": "GitHub - expo/skills: A collection of AI agent skills for working with Expo projects and Expo Application Services"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "expo",
+    "agent-skill",
+    "claude-code",
+    "eas"
+  ],
+  "relevance": "Vendor skills for app development."
+}

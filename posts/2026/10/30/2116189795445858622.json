@@ -1,0 +1,38 @@
+{
+  "id": "2116189795445858622",
+  "permalink": "https://x.com/duolatoy8/status/2116189795445858622",
+  "author": {
+    "name": "duola",
+    "handle": "@duolatoy8",
+    "profile_url": "https://x.com/duolatoy8"
+  },
+  "posted_at": "2026-10-30T15:25:38Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**duola ([@duolatoy8](https://x.com/duolatoy8/status/2116189795445858622))** open-sources **Code Animation Studio**, an agent skill going from style to storyboard, keyframes, code animation and 1080p video with 341 style references ([2163882817/code-animation](https://github.com/2163882817/code-animation)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/2163882817/code-animation",
+      "from_post": "2116189795445858622",
+      "short_url": "https://t.co/9SwE2gkUAX",
+      "title": "GitHub - 2163882817/code-animation: 一个用于制作代码动画的 Agent Skill，包含 341 条风格参考、分镜模板、HTML/Canvas 舞台、逐帧渲染脚本和质量检查清单。 支持从主题或脚本开始，选择风格、编写分镜、预览关键帧，并输出 1080p MP4 和可编辑源文件。"
+    }
+  ],
+  "hashtags": [
+    "OpenSource",
+    "AgentSkills",
+    "AIAgent",
+    "Animation"
+  ],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "code-animation",
+    "agent-skill",
+    "storyboard",
+    "animation"
+  ],
+  "relevance": "Code-driven animation pipeline skill."
+}

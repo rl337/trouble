@@ -1,0 +1,33 @@
+{
+  "id": "2116256722457420011",
+  "permalink": "https://x.com/LLMnEder/status/2116256722457420011",
+  "author": {
+    "name": "LLMnEder",
+    "handle": "@LLMnEder",
+    "profile_url": "https://x.com/LLMnEder"
+  },
+  "posted_at": "2026-10-30T19:51:35Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**LLMnEder ([@LLMnEder](https://x.com/LLMnEder/status/2116256722457420011))** summarizes *TableTune* ([arXiv 2610.38968](https://arxiv.org/abs/2610.38968)), which adjusts speculative-decoding draft length to server load, with gains on some Qwen3 tests depending on hardware and vLLM version.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.38968",
+      "from_post": "2116256722457420011",
+      "short_url": "https://t.co/4RBexdZz9P",
+      "title": "TableTune: Measured, Self-Correcting Draft-Length Tables for..."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "local-models"
+  ],
+  "keywords": [
+    "tabletune",
+    "speculative-decoding",
+    "vllm",
+    "draft-length"
+  ],
+  "relevance": "Adaptive speculative decoding for local serving."
+}

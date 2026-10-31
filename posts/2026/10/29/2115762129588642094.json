@@ -1,0 +1,58 @@
+{
+  "id": "2115762129588642094",
+  "permalink": "https://x.com/Ramiro32400440/status/2115762129588642094",
+  "author": {
+    "name": "Ramiro Luo",
+    "handle": "@Ramiro32400440",
+    "profile_url": "https://x.com/Ramiro32400440"
+  },
+  "posted_at": "2026-10-29T11:06:15Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**Ramiro Luo ([@Ramiro32400440](https://x.com/Ramiro32400440/status/2115762129588642094))** introduces **PhysClosureBench** ([paper page](https://huggingface.co/papers/2610.21767)), which tests whether AI agents can organize scientific investigations in strong-field, attosecond and neighboring physics through to evidence-supported conclusions; the answer is not yet, at only 32%.",
+  "referenced_urls": [
+    {
+      "url": "https://huggingface.co/papers/2610.21767",
+      "from_post": "2115762129588642094",
+      "short_url": "https://t.co/7cFlMRzGvy",
+      "title": "Paper page - From Research Goals to Scientific Closure: Evaluating Agents Through Evidence-Supported Physics Research"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-cognition"
+  ],
+  "keywords": [
+    "physclosurebench",
+    "scientific-closure",
+    "physics",
+    "benchmark",
+    "agent"
+  ],
+  "relevance": "Evaluates end-to-end scientific reasoning by agents.",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://x.com/Ramiro32400440/status/2115762129588642094/video/1",
+      "from_post": "2115762129588642094",
+      "description": "Overview video of the benchmark (not downloaded; referenced only)."
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HVyx68Ea0AAwtTQ.jpg",
+      "from_post": "2115762129588642094",
+      "description": "Figure 1: from scientific goal to closure, showing what the agent receives, how it investigates and how closure is evaluated.",
+      "kind": "diagram",
+      "thumbnail": "posts/2026/10/29/2115762129588642094/media/1.webp"
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HVyyCVrbAAALqA7.jpg",
+      "from_post": "2115762129588642094",
+      "description": "Charts of scientific accomplishment and research-closure distributions across models.",
+      "kind": "chart",
+      "thumbnail": "posts/2026/10/29/2115762129588642094/media/2.webp"
+    }
+  ]
+}

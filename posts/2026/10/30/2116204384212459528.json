@@ -1,0 +1,44 @@
+{
+  "id": "2116204384212459528",
+  "permalink": "https://x.com/abdvlrqhman/status/2116204384212459528",
+  "author": {
+    "name": "ice.",
+    "handle": "@abdvlrqhman",
+    "profile_url": "https://x.com/abdvlrqhman"
+  },
+  "posted_at": "2026-10-30T16:23:37Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**ice. ([@abdvlrqhman](https://x.com/abdvlrqhman/status/2116204384212459528))** open-sources **DevDash**, a self-hosted MIT workspace where a team's Claude Code sessions run side by side on one server with a git worktree per session, shared tasks and services, and apps on every device ([abdvlrqhman/DevDash-AgenticOS](https://github.com/abdvlrqhman/DevDash-AgenticOS)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/abdvlrqhman/DevDash-AgenticOS",
+      "from_post": "2116204384212459528",
+      "short_url": "https://t.co/l5PXZguvEt",
+      "title": "GitHub - abdvlrqhman/DevDash-AgenticOS: A self-hosted workspace where a small team and its AI agents build software together, on one Linux server you own. Claude Code sessions, shared projects, tasks, services and native apps."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "devdash",
+    "claude-code",
+    "git-worktree",
+    "self-hosted",
+    "team"
+  ],
+  "relevance": "Team-scale shared agent environment.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV5EqeTXMAAqrr6.jpg",
+      "from_post": "2116204384212459528",
+      "description": "DevDash landing: 'Your team and its AI agents, building together on a server you own'.",
+      "kind": "screenshot",
+      "thumbnail": "posts/2026/10/30/2116204384212459528/media/0.webp"
+    }
+  ]
+}

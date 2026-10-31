@@ -1,0 +1,121 @@
+{
+  "id": "2116155115858223432",
+  "permalink": "https://x.com/RUC_AIBox/status/2116155115858223432",
+  "author": {
+    "name": "AI Box",
+    "handle": "@RUC_AIBox",
+    "profile_url": "https://x.com/RUC_AIBox"
+  },
+  "posted_at": "2026-10-30T13:07:50Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [
+    {
+      "id": "2116155310763298934",
+      "permalink": "https://x.com/RUC_AIBox/status/2116155310763298934",
+      "posted_at": "2026-10-30T13:08:37Z",
+      "position": 1
+    },
+    {
+      "id": "2116155487859495255",
+      "permalink": "https://x.com/RUC_AIBox/status/2116155487859495255",
+      "posted_at": "2026-10-30T13:09:19Z",
+      "position": 2
+    },
+    {
+      "id": "2116155681648836707",
+      "permalink": "https://x.com/RUC_AIBox/status/2116155681648836707",
+      "posted_at": "2026-10-30T13:10:05Z",
+      "position": 3
+    }
+  ],
+  "summary_md": "**AI Box ([@RUC_AIBox](https://x.com/RUC_AIBox/status/2116155115858223432))** rounds up six works on forecasting agents: outcome training (OpenForecaster's ~50K news questions, Mantic RL raising its Metaculus score from 38.6 to 45.8), time-aware evaluation (FutureSim's day-by-day replay exposing anchoring, Echo), and auditable reasoning (BLF belief states, AuditForecast adjustments) ([arXiv 2512.25070](https://arxiv.org/abs/2512.25070), [arXiv 2609.05905](https://arxiv.org/abs/2609.05905), [Thinking Machines](https://thinkingmachines.ai/news/training-llms-to-predict-world-events/), [Echo](https://unipat.ai/blog/Echo)).",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2512.25070",
+      "from_post": "2116155115858223432"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.05905",
+      "from_post": "2116155115858223432"
+    },
+    {
+      "url": "https://thinkingmachines.ai/news/training-llms-to-predict-world-events/",
+      "from_post": "2116155115858223432"
+    },
+    {
+      "url": "https://arxiv.org/abs/2605.15188",
+      "from_post": "2116155115858223432"
+    },
+    {
+      "url": "https://unipat.ai/blog/Echo",
+      "from_post": "2116155115858223432"
+    },
+    {
+      "url": "https://arxiv.org/abs/2604.18576",
+      "from_post": "2116155115858223432"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-cognition"
+  ],
+  "keywords": [
+    "forecasting",
+    "openforecaster",
+    "futuresim",
+    "belief-state",
+    "calibration"
+  ],
+  "relevance": "Survey of belief revision and judgment in agents.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV4XyhnaIAAPZ_w.jpg",
+      "from_post": "2116155115858223432",
+      "description": "Auditable forecasting report with factor adjustments.",
+      "kind": "diagram",
+      "thumbnail": "posts/2026/10/30/2116155115858223432/media/0.webp"
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV4YAYrbUAE5THP.jpg",
+      "from_post": "2116155310763298934",
+      "description": "OpenForecaster pipeline from news to generated questions and results.",
+      "kind": "diagram",
+      "thumbnail": "posts/2026/10/30/2116155115858223432/media/1.webp"
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV4YBZZbQAAN83Y.jpg",
+      "from_post": "2116155310763298934",
+      "description": "Bar chart of baseline scores across models with fine-tuned gpt-oss-120b highest.",
+      "kind": "chart",
+      "thumbnail": "posts/2026/10/30/2116155115858223432/media/2.webp"
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV4YLTkbUAAJyYA.jpg",
+      "from_post": "2116155487859495255",
+      "description": "FutureSim timeline with next_day() replay and predictions.",
+      "kind": "diagram",
+      "thumbnail": "posts/2026/10/30/2116155115858223432/media/3.webp"
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV4YL81agAAMnJZ.jpg",
+      "from_post": "2116155487859495255",
+      "description": "Echo data acquisition, sample selection and Elo battle evaluation pipeline.",
+      "kind": "diagram",
+      "thumbnail": "posts/2026/10/30/2116155115858223432/media/4.webp"
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV4YXpGbAAAS0NR.jpg",
+      "from_post": "2116155681648836707",
+      "description": "Belief evolution plot of probability over agent steps for several trials.",
+      "kind": "chart",
+      "thumbnail": "posts/2026/10/30/2116155115858223432/media/5.webp"
+    }
+  ]
+}

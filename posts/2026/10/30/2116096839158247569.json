@@ -1,0 +1,35 @@
+{
+  "id": "2116096839158247569",
+  "permalink": "https://x.com/CsCultivat41761/status/2116096839158247569",
+  "author": {
+    "name": "Zhuda & Zhuer",
+    "handle": "@CsCultivat41761",
+    "profile_url": "https://x.com/CsCultivat41761"
+  },
+  "posted_at": "2026-10-30T09:16:16Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**Zhuda & Zhuer ([@CsCultivat41761](https://x.com/CsCultivat41761/status/2116096839158247569))** is building **zhuda-laya-engine**, an agent-friendly game SDK on LayaAir bringing 2D/3D, Spine 4.2, terrain, shaders and particles to a TypeScript + CLI + MCP workflow, MIT ([zhudaandzhuer/zhuda-laya-engine](https://github.com/zhudaandzhuer/zhuda-laya-engine)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/zhudaandzhuer/zhuda-laya-engine",
+      "from_post": "2116096839158247569",
+      "short_url": "https://t.co/q4aQqew1tu",
+      "title": "GitHub - zhudaandzhuer/zhuda-laya-engine: Agent-friendly 2D/3D game SDK built on LayaAir 3.4.2. TypeScript, CLI builds, Spine 4.2, particles, visual migration checks and MCP tools."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-media",
+    "harness-dev"
+  ],
+  "keywords": [
+    "zhuda-laya-engine",
+    "layaair",
+    "game-sdk",
+    "mcp",
+    "typescript"
+  ],
+  "relevance": "Game engine designed for coding agents."
+}

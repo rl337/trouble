@@ -1,0 +1,58 @@
+{
+  "id": "2115735171551121751",
+  "permalink": "https://x.com/TomSmithyzrp/status/2115735171551121751",
+  "author": {
+    "name": "Tom Smith",
+    "handle": "@TomSmithyzrp",
+    "profile_url": "https://x.com/TomSmithyzrp"
+  },
+  "posted_at": "2026-10-29T09:19:08Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**Tom Smith ([@TomSmithyzrp](https://x.com/TomSmithyzrp/status/2115735171551121751))** releases **PromptReel**, an MIT, zero-dependency hub that turns one idea into platform-specific prompts and cinematic storyboards for 15 video-generation platforms, usable via web, CLI, MCP or as a skill ([site](https://thanksgiver233.github.io/PromptReel/), [Thanksgiver233/PromptReel](https://github.com/Thanksgiver233/PromptReel)).",
+  "referenced_urls": [
+    {
+      "url": "https://thanksgiver233.github.io/PromptReel/",
+      "from_post": "2115735171551121751",
+      "short_url": "https://t.co/TlhHn8JVyW",
+      "title": "PromptReel · 视频提示词中枢"
+    },
+    {
+      "url": "https://github.com/Thanksgiver233/PromptReel",
+      "from_post": "2115735171551121751",
+      "short_url": "https://t.co/zeNHWPcel5",
+      "title": "GitHub - Thanksgiver233/PromptReel: PromptReel 是一个视频提示词中枢，解决跨平台反复查找、改写模板的问题。同一个创意，可灵要写成五段式，海螺要先给 `[Push in]` 括号运镜，MiniMax H3 要拆成 `[Shot N]` 加音景与配乐，Sora 则要转成英文并声明音频。PromptReel 把这些差异沉淀成 15 套模板：填一次创意、主体、动作与场景，就能得到按所选平台结构重排的整体提示词，以及景别递进、运镜不重复的分镜脚本。除网页外还提供命令行与 MCP 服务，并支持自定义模板。"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "promptreel",
+    "video-prompt",
+    "storyboard",
+    "mcp",
+    "agent-skill"
+  ],
+  "relevance": "Prompt adaptation layer for agentic video generation across platforms.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HVyZ4uhaQAAbLPS.jpg",
+      "from_post": "2115735171551121751",
+      "description": "PromptReel web UI in dark mode with prompt fields and storyboard frames.",
+      "kind": "screenshot",
+      "thumbnail": "posts/2026/10/29/2115735171551121751/media/0.webp"
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HVyZ6VNaUAAFOsm.jpg",
+      "from_post": "2115735171551121751",
+      "description": "PromptReel web UI in light mode showing generated storyboard shots.",
+      "kind": "screenshot",
+      "thumbnail": "posts/2026/10/29/2115735171551121751/media/1.webp"
+    }
+  ]
+}

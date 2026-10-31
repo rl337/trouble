@@ -1,0 +1,42 @@
+{
+  "id": "2115726971560767767",
+  "permalink": "https://x.com/arnaudmercier/status/2115726971560767767",
+  "author": {
+    "name": "Arnaud Mercier - #Entrepreneur #Versailles",
+    "handle": "@arnaudmercier",
+    "profile_url": "https://x.com/arnaudmercier"
+  },
+  "posted_at": "2026-10-29T08:46:32Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**Arnaud Mercier - #Entrepreneur #Versailles ([@arnaudmercier](https://x.com/arnaudmercier/status/2115726971560767767))** shares **Prospector** ([arXiv 2610.37121](https://arxiv.org/pdf/2610.37121)), from MIT, which learns a compact graph-traversal policy over knowledge graphs for scientific reasoning in specialized engineering domains where the knowledge is scattered across the literature and frontier models tend to answer generically.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/pdf/2610.37121",
+      "from_post": "2115726971560767767",
+      "short_url": "https://t.co/Gs9AELZlDl"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-cognition"
+  ],
+  "keywords": [
+    "prospector",
+    "knowledge-graph",
+    "scientific-reasoning",
+    "graph-traversal"
+  ],
+  "relevance": "Small learned policies for structured scientific reasoning.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HVyScpRXMAABVO8.png",
+      "from_post": "2115726971560767767",
+      "description": "Bar chart comparing closed-book, retrieval and graph-tool accuracy across frontier models and Prospector.",
+      "kind": "chart",
+      "thumbnail": "posts/2026/10/29/2115726971560767767/media/0.webp"
+    }
+  ]
+}

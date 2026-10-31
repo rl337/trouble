@@ -1,0 +1,47 @@
+{
+  "id": "2116192178758431059",
+  "permalink": "https://x.com/SD_Tutorial/status/2116192178758431059",
+  "author": {
+    "name": "Stable Diffusion Tutorials",
+    "handle": "@SD_Tutorial",
+    "profile_url": "https://x.com/SD_Tutorial"
+  },
+  "posted_at": "2026-10-30T15:35:07Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**Stable Diffusion Tutorials ([@SD_Tutorial](https://x.com/SD_Tutorial/status/2116192178758431059))** shares **h3-motion**, a Time-to-Move dual-clock denoising implementation for MiniMax H3 enabling motion control by dragging objects or masking video regions ([PxTicks/h3-motion](https://github.com/PxTicks/h3-motion), [workflow](https://drive.google.com/file/d/1mOHYcRX6fY3OamSHHRmvUfthCBEwgJZh/view?usp=sharing)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/PxTicks/h3-motion",
+      "from_post": "2116192178758431059",
+      "short_url": "https://t.co/KK4OB9edGt",
+      "title": "GitHub - PxTicks/h3-motion"
+    },
+    {
+      "url": "https://drive.google.com/file/d/1mOHYcRX6fY3OamSHHRmvUfthCBEwgJZh/view?usp=sharing",
+      "from_post": "2116192178758431059",
+      "short_url": "https://t.co/2f8047N6sH",
+      "title": "h3m_ttm.json"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "h3-motion",
+    "minimax-h3",
+    "time-to-move",
+    "motion-control"
+  ],
+  "relevance": "Motion control for open video models.",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://x.com/SD_Tutorial/status/2116192178758431059/video/1",
+      "from_post": "2116192178758431059",
+      "description": "Dragging objects to animate them (not downloaded; referenced only)."
+    }
+  ]
+}

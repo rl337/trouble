@@ -1,0 +1,33 @@
+{
+  "id": "2116308769214988297",
+  "permalink": "https://x.com/s_tabayashi/status/2116308769214988297",
+  "author": {
+    "name": "S. Tabayashi",
+    "handle": "@s_tabayashi",
+    "profile_url": "https://x.com/s_tabayashi"
+  },
+  "posted_at": "2026-10-30T23:18:24Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**S. Tabayashi ([@s_tabayashi](https://x.com/s_tabayashi/status/2116308769214988297))** publishes a log of 2–3 months using Claude Code on an open mathematical-physics problem (the Pauli-Fierz model), with about 450 failed approaches. His provisional verdict is that AI produces answers but does not make math any easier ([tabayashi0117/pf-uv-research-log](https://github.com/tabayashi0117/pf-uv-research-log)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/tabayashi0117/pf-uv-research-log",
+      "from_post": "2116308769214988297",
+      "short_url": "https://t.co/bo2FQFllA5",
+      "title": "GitHub - tabayashi0117/pf-uv-research-log: Research log of an AI-assisted study of the Pauli-Fierz model in the ultraviolet limit: history, failures, numerics, and how the work with AI was organized"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-cognition"
+  ],
+  "keywords": [
+    "ai-math",
+    "research-log",
+    "claude-code",
+    "mathematical-physics"
+  ],
+  "relevance": "Honest record of agent-assisted research."
+}

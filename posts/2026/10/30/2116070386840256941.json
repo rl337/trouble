@@ -1,0 +1,34 @@
+{
+  "id": "2116070386840256941",
+  "permalink": "https://x.com/VibeCoderOfek/status/2116070386840256941",
+  "author": {
+    "name": "Ofek Shaked | AI Engineer",
+    "handle": "@VibeCoderOfek",
+    "profile_url": "https://x.com/VibeCoderOfek"
+  },
+  "posted_at": "2026-10-30T07:31:09Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**Ofek Shaked | AI Engineer ([@VibeCoderOfek](https://x.com/VibeCoderOfek/status/2116070386840256941))** looks at **agency-agents**, about 300 specialist Markdown agent definitions installable into Claude Code or Cursor via one script, and asks whether only the activated specialist is loaded or the whole roster sits in context ([msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/msitarzewski/agency-agents",
+      "from_post": "2116070386840256941",
+      "short_url": "https://t.co/5ug0fXDwEM",
+      "title": "GitHub - msitarzewski/agency-agents: A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "agency-agents",
+    "subagent",
+    "claude-code",
+    "cursor",
+    "context-window"
+  ],
+  "relevance": "Raises the practical context-cost question for large subagent libraries."
+}

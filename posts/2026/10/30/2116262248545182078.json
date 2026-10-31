@@ -1,0 +1,67 @@
+{
+  "id": "2116262248545182078",
+  "permalink": "https://x.com/makevoid/status/2116262248545182078",
+  "author": {
+    "name": "makevoid",
+    "handle": "@makevoid",
+    "profile_url": "https://x.com/makevoid"
+  },
+  "posted_at": "2026-10-30T20:13:32Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [
+    {
+      "id": "2116262489948377404",
+      "permalink": "https://x.com/makevoid/status/2116262489948377404",
+      "posted_at": "2026-10-30T20:14:30Z",
+      "position": 1
+    }
+  ],
+  "summary_md": "**makevoid ([@makevoid](https://x.com/makevoid/status/2116262248545182078))** rounds up his open-source work: **Godocta**, a Godot 4 voxel studio entirely coded by Opus 5.5, **mk-video-editing**, a Claude Code skill from raw footage to finished edit, and a motion-graphics music-video skill ([makevoid/godocta](https://github.com/makevoid/godocta), [makevoid/mk-video-editing](https://github.com/makevoid/mk-video-editing), [makevoid/motion-graphics-music-video-skill](https://github.com/makevoid/motion-graphics-music-video-skill)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/makevoid",
+      "from_post": "2116262248545182078",
+      "short_url": "https://t.co/vwBjuPllIh",
+      "title": "makevoid - Overview"
+    },
+    {
+      "url": "https://github.com/makevoid/godocta",
+      "from_post": "2116262489948377404",
+      "short_url": "https://t.co/OwBVLdI0tM",
+      "title": "GitHub - makevoid/godocta: Octa · Structure Studio — build, paint and explore truncated-octahedron structures in Godot 4, with 85 procedural builds and a Go generator"
+    },
+    {
+      "url": "https://github.com/makevoid/mk-video-editing",
+      "from_post": "2116262489948377404",
+      "short_url": "https://t.co/AFs48tGZaO",
+      "title": "GitHub - makevoid/mk-video-editing: Claude Code skill + plugin that edits camera footage into finished videos on macOS."
+    },
+    {
+      "url": "https://github.com/makevoid/motion-graphics-music-video-skill",
+      "from_post": "2116262489948377404",
+      "short_url": "https://t.co/G2zMTj1sNY",
+      "title": "GitHub - makevoid/motion-graphics-music-video-skill: Opus 5.5 plugin for creating high quality motion graphics videos from just a music track and a prompt"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "godocta",
+    "godot",
+    "mk-video-editing",
+    "music-video",
+    "agent-skill"
+  ],
+  "relevance": "Agent-built game tool plus video skills.",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://x.com/makevoid/status/2116262248545182078/video/1",
+      "from_post": "2116262248545182078",
+      "description": "Montage of the projects (not downloaded; referenced only)."
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "id": "2115888920860958961",
+  "permalink": "https://x.com/dair_ai/status/2115888920860958961",
+  "author": {
+    "name": "DAIR.AI",
+    "handle": "@dair_ai",
+    "profile_url": "https://x.com/dair_ai"
+  },
+  "posted_at": "2026-10-29T19:30:04Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**DAIR.AI ([@dair_ai](https://x.com/dair_ai/status/2115888920860958961))** highlights NVIDIA's **AgentBaton** ([arXiv 2610.35959](https://arxiv.org/abs/2610.35959)): use the capable model early and hand off once to a cheaper one, with the switch point learned from task-progress patterns (338 ms median per check); across 11 model pairs it cuts API cost by 65.9% on average while largely preserving accuracy ([DAIR summary](https://academy.dair.ai/papers/agentbaton-efficient-model-collaboration-in-agentic-tasks-2610.35959)).",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.35959",
+      "from_post": "2115888920860958961",
+      "short_url": "https://t.co/dLhuwCMo2N"
+    },
+    {
+      "url": "https://academy.dair.ai/papers/agentbaton-efficient-model-collaboration-in-agentic-tasks-2610.35959",
+      "from_post": "2115888920860958961",
+      "short_url": "https://t.co/5NgyprpqvB"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "agentbaton",
+    "model-handoff",
+    "cost-reduction",
+    "model-routing",
+    "long-horizon"
+  ],
+  "relevance": "Simple strong-to-cheap model handoff that maps onto local model setups.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV0lwpEa0AAqnAr.jpg",
+      "from_post": "2115888920860958961",
+      "description": "First page of the AgentBaton paper with abstract and an accuracy vs. cost plot.",
+      "kind": "paper",
+      "thumbnail": "posts/2026/10/29/2115888920860958961/media/0.webp",
+      "ocr_text": "nVIDIA\n2026-10-28\nAgentBaton: Efficient Model Collaboration in\nAgentic Tasks\nJunlong Li*,t, Jindong Jiang', Yonggan Fu', Jiarui Yao*,t, Hanrong Ye\nWonmin Byeon, Peter Belcak, Hao Zhang, Pavlo Molchanov\n*The Hong Kong University of Science and Technology\nUniversity of Illinois Urbana-Champaign\nIProject Leads\nSolving long-horizon agentic tasks requires language agents to interact with their environments over multiple\nsteps, and reliable performance often comes from the expensive capable models available through cloud\n[cs.MA] 25 Oct 2026\nproviders. Meanwhile, alternative efficient models with inferior performance but a much lower cost are\nemerging, including lower-tier cloud models and smaller open-weights models deployable on local hardware\nThis raises a natural question that remains less explored than traditional query-level routing: can capable\nand efficient models collaborate within a single long-horizon agentic task to substantially reduce cost while\npreserving task accuracy? In this paper, we systematically investigate key design choices for such collaboration\nthrough model handoffs, where one model takes over from another, focusing on handoff direction and context\ntransfer. We find that efficient-to-capable handoffs generally underperform capable-only execution with\nlimited or even no cost reduction, whereas capable-to-efficient handoffs at suitable stages of task progress\nlargely preserve or even improve accuracy while substantially reducing cost. These findings suggest that a\none-time, simple, well-timed handoff strategy is good enough for cost-effective agent collaboration, motivating\nAgentBaton, a lightweight detector that learns when to hand off from recurring patterns in task progress.\nAcross 11 model pairs and two representative benchmarks, AGENTBAToN reduces API costs by 65.9%\non average while largely preserving task accuracy, with accuracy gains of up to 8.8 percentage points over\ncapable-only execution. Experiments across various reasoning-effort settings further show that AGENTBAToN\narXiv:2610.35959v1\nextends the empirical accuracy-cost Pareto frontier.\nAgentBaton (Ours)nvIDIA\nmost efficient\n80%\nHIGH\nKimi K3\nMEDIUME\nMAX\nXHIGH\nXHIGH\nMAX\nGPT-5.6Sol\n70%\nClaudeOpus5\nGLM5.3\nHIGH\nMAX\nLOW\nMAX\nGemini3.8Flash\nHIGH\nHIGH\n60%\nGPT-5.6Luna\nXHIGH\nLOW\n Single-model baseline\nLOW\nXHIGH\nAgentBaton frontier (Ours)\n50%\nHIGH\nMEDIUM\nAgentBaton→Qwen3.827B(xhigh)\n40%\nAgentBaton→GPT5.6Luna (max)\nGPT-5.6 Sol\nHIGH\nClaudeOpus5\nGLM-5.3\nKimi K3\n30%\nGemini 3.8 Flash\nQwen3.827B\nGPT-5.6 Luna\nXHIGH\nQwen3.827B\n$2.00\n$4.00\n$6.00\n$8.00\n$10\nAvg cost per task\nFigure l: Accuracy-cost trade-offs across reasoning-effort settings on DeepSWE vl.1. Solid lines and circles\ndenote single-model baselines. For AGENTBAToN, diamonds denote handoffs to Qwen 3.8 27B and squares\ndenote handoffs to GPT-5.6 Luna; marker colors identify the source model, as listed in the legend. The green\ndashed line with a light green band connects the empirical Pareto frontier among evaluated AGENTBATON\nconfigurations, whose effort labels are highlighted. For example, the purple  labeled MAx denotes GLM-5.3 at\nmax effort handing off to Qwen 3.8 27B at xhigh effort; the red labeled HIGH denotes Kimi K3 at high\neffort handing off to GPT-5.6 Luna at max effort."
+    }
+  ]
+}

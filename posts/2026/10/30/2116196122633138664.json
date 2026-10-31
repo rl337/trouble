@@ -1,0 +1,36 @@
+{
+  "id": "2116196122633138664",
+  "permalink": "https://x.com/adarshc_ie/status/2116196122633138664",
+  "author": {
+    "name": "Adarsh C",
+    "handle": "@adarshc_ie",
+    "profile_url": "https://x.com/adarshc_ie"
+  },
+  "posted_at": "2026-10-30T15:50:47Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**Adarsh C ([@adarshc_ie](https://x.com/adarshc_ie/status/2116196122633138664))** rebuilt an AI studio as **Fuobe**: 480 presets, cinema, layers, 3D and an agent on open weights on one RTX 5090 via ComfyUI, MIT ([workingprototype/Fuobe](https://github.com/workingprototype/Fuobe)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/workingprototype/Fuobe",
+      "from_post": "2116196122633138664",
+      "short_url": "https://t.co/45oZJHyQrF",
+      "title": "GitHub - workingprototype/Fuobe"
+    }
+  ],
+  "hashtags": [
+    "OpenSourceHiggsfield"
+  ],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "fuobe",
+    "comfyui",
+    "rtx-5090",
+    "preset",
+    "opensourcehiggsfield"
+  ],
+  "relevance": "Open studio with an integrated agent."
+}

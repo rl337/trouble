@@ -1,0 +1,36 @@
+{
+  "id": "2116021940309672166",
+  "permalink": "https://x.com/xx0618/status/2116021940309672166",
+  "author": {
+    "name": "xx0618",
+    "handle": "@xx0618",
+    "profile_url": "https://x.com/xx0618"
+  },
+  "posted_at": "2026-10-30T04:18:39Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**xx0618 ([@xx0618](https://x.com/xx0618/status/2116021940309672166))** built **Character Lock**, open-weights ComfyUI lookdev from one reference face using PuLID and Flux Schnell ([ZhuEvgeny/Character-lock-comfy](https://github.com/ZhuEvgeny/Character-lock-comfy)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/ZhuEvgeny/Character-lock-comfy",
+      "from_post": "2116021940309672166",
+      "short_url": "https://t.co/lFUOKPfBbz",
+      "title": "GitHub - ZhuEvgeny/Character-lock-comfy"
+    }
+  ],
+  "hashtags": [
+    "OpenSourceHiggsfield",
+    "ComfyUI"
+  ],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "character-lock",
+    "pulid",
+    "flux-schnell",
+    "comfyui"
+  ],
+  "relevance": "Character consistency for open video pipelines."
+}

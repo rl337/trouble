@@ -1,0 +1,42 @@
+{
+  "id": "2115743781631004755",
+  "permalink": "https://x.com/Blake80462047/status/2115743781631004755",
+  "author": {
+    "name": "Blake | The Cartographer",
+    "handle": "@Blake80462047",
+    "profile_url": "https://x.com/Blake80462047"
+  },
+  "posted_at": "2026-10-29T09:53:20Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**Blake | The Cartographer ([@Blake80462047](https://x.com/Blake80462047/status/2115743781631004755))** built **The Cartographer**, a CLI and MCP server that helps coding agents choose which SKILL.md files to read, with your own library and 193 starter skills, now at v0.1.1 ([sheepk95/The-Cartographer](https://github.com/sheepk95/The-Cartographer)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/sheepk95/The-Cartographer",
+      "from_post": "2115743781631004755",
+      "short_url": "https://t.co/Fp1UUtKro4",
+      "title": "GitHub - sheepk95/The-Cartographer: Ask which agent skills fit a task before you start it. One model call reads your task against the whole SKILL.md catalogue (193 skills bundled, plus yours) and names the few worth reading. CLI and MCP server for Claude Code, Codex, the Anthropic API or a local mod"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "the-cartographer",
+    "skill-selection",
+    "skill.md",
+    "mcp",
+    "cli"
+  ],
+  "relevance": "Skill selection/routing for agents with large skill libraries.",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://x.com/Blake80462047/status/2115743781631004755/video/1",
+      "from_post": "2115743781631004755",
+      "description": "Demo video of real skill selection with a simulated workflow (not downloaded; referenced only)."
+    }
+  ]
+}

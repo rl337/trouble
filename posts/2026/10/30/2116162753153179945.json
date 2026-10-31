@@ -1,0 +1,43 @@
+{
+  "id": "2116162753153179945",
+  "permalink": "https://x.com/mumutanuki/status/2116162753153179945",
+  "author": {
+    "name": "むむたぬき",
+    "handle": "@mumutanuki",
+    "profile_url": "https://x.com/mumutanuki"
+  },
+  "posted_at": "2026-10-30T13:38:11Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**むむたぬき ([@mumutanuki](https://x.com/mumutanuki/status/2116162753153179945))** reports SenseTime's **SenseNova-Loop-9B-Preview**, a looped-layer multimodal 9B model claimed to beat Qwen3.5-27B on three benchmarks including WorkBuddy, Apache 2.0 ([sensenova/SenseNova-Loop-9B-Preview](https://huggingface.co/sensenova/SenseNova-Loop-9B-Preview)).",
+  "referenced_urls": [
+    {
+      "url": "https://huggingface.co/sensenova/SenseNova-Loop-9B-Preview",
+      "from_post": "2116162753153179945",
+      "short_url": "https://t.co/5YnoEAd2QO",
+      "title": "sensenova/SenseNova-Loop-9B-Preview · Hugging Face"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "local-models"
+  ],
+  "keywords": [
+    "sensenova-loop-9b",
+    "looped-transformer",
+    "multimodal",
+    "small-model"
+  ],
+  "relevance": "Small looped model with ~27B-class claims.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV4eu7EbUAEfEmA.jpg",
+      "from_post": "2116162753153179945",
+      "description": "Grid of benchmark bar charts comparing the model to others.",
+      "kind": "chart",
+      "thumbnail": "posts/2026/10/30/2116162753153179945/media/0.webp"
+    }
+  ]
+}

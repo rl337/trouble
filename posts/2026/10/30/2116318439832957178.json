@@ -1,0 +1,42 @@
+{
+  "id": "2116318439832957178",
+  "permalink": "https://x.com/alexyrtsai/status/2116318439832957178",
+  "author": {
+    "name": "Alex Tsai",
+    "handle": "@alexyrtsai",
+    "profile_url": "https://x.com/alexyrtsai"
+  },
+  "posted_at": "2026-10-30T23:56:50Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**Alex Tsai ([@alexyrtsai](https://x.com/alexyrtsai/status/2116318439832957178))** introduces **agent-communication**, a single Python script that lets Codex, Claude and Antigravity agents message each other inside a repo, with no extra software ([alexandertsai/agent-communication](https://github.com/alexandertsai/agent-communication)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/alexandertsai/agent-communication",
+      "from_post": "2116318439832957178",
+      "short_url": "https://t.co/XJ3usttqN0",
+      "title": "GitHub - alexandertsai/agent-communication: Lightweight messaging between local Claude Code and Codex sessions"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "agent-communication",
+    "multi-agent",
+    "messaging",
+    "claude-code",
+    "codex"
+  ],
+  "relevance": "Lightweight multi-agent coordination.",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://x.com/alexyrtsai/status/2116318439832957178/video/1",
+      "from_post": "2116318439832957178",
+      "description": "Demo of agents messaging (not downloaded; referenced only)."
+    }
+  ]
+}

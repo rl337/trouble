@@ -1,0 +1,61 @@
+{
+  "id": "2115851142550983122",
+  "permalink": "https://x.com/_GabrielBorn/status/2115851142550983122",
+  "author": {
+    "name": "Gabriel",
+    "handle": "@_GabrielBorn",
+    "profile_url": "https://x.com/_GabrielBorn"
+  },
+  "posted_at": "2026-10-29T16:59:57Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [
+    {
+      "id": "2115854749706731550",
+      "permalink": "https://x.com/_GabrielBorn/status/2115854749706731550",
+      "posted_at": "2026-10-29T17:14:17Z",
+      "position": 1
+    },
+    {
+      "id": "2115862057606062565",
+      "permalink": "https://x.com/_GabrielBorn/status/2115862057606062565",
+      "posted_at": "2026-10-29T17:43:20Z",
+      "position": 2
+    },
+    {
+      "id": "2115872897294012880",
+      "permalink": "https://x.com/_GabrielBorn/status/2115872897294012880",
+      "posted_at": "2026-10-29T18:26:24Z",
+      "position": 3
+    }
+  ],
+  "summary_md": "**Gabriel ([@_GabrielBorn](https://x.com/_GabrielBorn/status/2115851142550983122))** runs Qwen3.6-35B-A3B on a base 16GB M4 Mac at about 32 tok/s with **flashmoe**, which streams experts from SSD with output token-for-token identical to the 4-bit model; a fast mode with compressed experts reaches ~40 tok/s and plain SSD streaming about 15 ([weights](https://huggingface.co/gabrielkh/flashmoe-Qwen3.6-35B-A3B), [app](https://github.com/GabrielKH/flashmoe-app/releases/download/v0.1.0/flashmoe-0.1.0.dm)).",
+  "referenced_urls": [
+    {
+      "url": "https://huggingface.co/gabrielkh/flashmoe-Qwen3.6-35B-A3B",
+      "from_post": "2115851142550983122",
+      "short_url": "https://t.co/Kcq2xSJsHy",
+      "title": "gabrielkh/flashmoe-Qwen3.6-35B-A3B · Hugging Face"
+    },
+    {
+      "url": "https://github.com/GabrielKH/flashmoe-app/releases/download/v0.1.0/flashmoe-0.1.0.dm",
+      "from_post": "2115872897294012880",
+      "short_url": "https://t.co/d6XsEdmhVy"
+    }
+  ],
+  "hashtags": [
+    "LocalLLM",
+    "AppleSilicon"
+  ],
+  "topics": [
+    "local-models"
+  ],
+  "keywords": [
+    "flashmoe",
+    "qwen3.6-35b-a3b",
+    "expert-streaming",
+    "ssd",
+    "apple-silicon"
+  ],
+  "relevance": "Expert streaming lets ~30B MoE models run on small machines."
+}

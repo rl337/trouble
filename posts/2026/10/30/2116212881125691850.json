@@ -1,0 +1,109 @@
+{
+  "id": "2116212881125691850",
+  "permalink": "https://x.com/tanishqk/status/2116212881125691850",
+  "author": {
+    "name": "Tanishq (tk)",
+    "handle": "@tanishqk",
+    "profile_url": "https://x.com/tanishqk"
+  },
+  "posted_at": "2026-10-30T16:57:22Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [
+    {
+      "id": "2116212915565158515",
+      "permalink": "https://x.com/tanishqk/status/2116212915565158515",
+      "posted_at": "2026-10-30T16:57:31Z",
+      "position": 1
+    },
+    {
+      "id": "2116212954119184826",
+      "permalink": "https://x.com/tanishqk/status/2116212954119184826",
+      "posted_at": "2026-10-30T16:57:40Z",
+      "position": 2
+    },
+    {
+      "id": "2116212999111451065",
+      "permalink": "https://x.com/tanishqk/status/2116212999111451065",
+      "posted_at": "2026-10-30T16:57:50Z",
+      "position": 3
+    },
+    {
+      "id": "2116213039905325380",
+      "permalink": "https://x.com/tanishqk/status/2116213039905325380",
+      "posted_at": "2026-10-30T16:58:00Z",
+      "position": 4
+    },
+    {
+      "id": "2116213052081373590",
+      "permalink": "https://x.com/tanishqk/status/2116213052081373590",
+      "posted_at": "2026-10-30T16:58:03Z",
+      "position": 5
+    },
+    {
+      "id": "2116299007173730630",
+      "permalink": "https://x.com/tanishqk/status/2116299007173730630",
+      "posted_at": "2026-10-30T22:39:36Z",
+      "position": 6
+    }
+  ],
+  "summary_md": "**Tanishq (tk) ([@tanishqk](https://x.com/tanishqk/status/2116212881125691850))** introduces **diffmap**, an MIT document format and skill for planning and reviewing agent code by design changes rather than line diffs, with service, mermaid and callstack diagram diffs, phase-per-commit widgets and comments you can copy back to the agent ([tanishqkancharla/diffmap](https://github.com/tanishqkancharla/diffmap), [diffmap.dev](https://www.diffmap.dev/)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/tanishqkancharla/diffmap",
+      "from_post": "2116212881125691850",
+      "short_url": "https://t.co/8zgpt9d6m3",
+      "title": "GitHub - tanishqkancharla/diffmap: big diff energy"
+    },
+    {
+      "url": "https://www.diffmap.dev/",
+      "from_post": "2116212915565158515",
+      "short_url": "https://t.co/zINpLeXzGB",
+      "title": "diffmap"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "diffmap",
+    "code-review",
+    "planning",
+    "agent-skill",
+    "diagram"
+  ],
+  "relevance": "Higher-level review artifacts for agent changes.",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://x.com/tanishqk/status/2116212881125691850/video/1",
+      "from_post": "2116212881125691850",
+      "description": "diffmap overview (not downloaded; referenced only)."
+    },
+    {
+      "type": "video",
+      "url": "https://x.com/tanishqk/status/2116212915565158515/video/1",
+      "from_post": "2116212915565158515",
+      "description": "Services diagram showing state and data flow (not downloaded; referenced only)."
+    },
+    {
+      "type": "video",
+      "url": "https://x.com/tanishqk/status/2116212954119184826/video/1",
+      "from_post": "2116212954119184826",
+      "description": "Mermaid and callstack diffs (not downloaded; referenced only)."
+    },
+    {
+      "type": "video",
+      "url": "https://x.com/tanishqk/status/2116212999111451065/video/1",
+      "from_post": "2116212999111451065",
+      "description": "Commit widget opening a diff panel (not downloaded; referenced only)."
+    },
+    {
+      "type": "video",
+      "url": "https://x.com/tanishqk/status/2116213039905325380/video/1",
+      "from_post": "2116213039905325380",
+      "description": "Adding comments to a diffmap (not downloaded; referenced only)."
+    }
+  ]
+}

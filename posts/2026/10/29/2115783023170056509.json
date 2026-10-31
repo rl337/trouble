@@ -1,0 +1,34 @@
+{
+  "id": "2115783023170056509",
+  "permalink": "https://x.com/Fahadh_4444/status/2115783023170056509",
+  "author": {
+    "name": "Fahadh Kasala",
+    "handle": "@Fahadh_4444",
+    "profile_url": "https://x.com/Fahadh_4444"
+  },
+  "posted_at": "2026-10-29T12:29:16Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**Fahadh Kasala ([@Fahadh_4444](https://x.com/Fahadh_4444/status/2115783023170056509))** points to **Graphify**, which turns a codebase (with docs, SQL schemas, configs and PDFs) into a queryable knowledge graph usable as a skill in Claude Code, Cursor and Codex, instead of grepping the repo every session ([Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/Graphify-Labs/graphify",
+      "from_post": "2115783023170056509",
+      "short_url": "https://t.co/0DetFTxQCN",
+      "title": "GitHub - Graphify-Labs/graphify: Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "graphify",
+    "knowledge-graph",
+    "codebase",
+    "agent-skill",
+    "claude-code"
+  ],
+  "relevance": "Code knowledge graphs as agent context."
+}

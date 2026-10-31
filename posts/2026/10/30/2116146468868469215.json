@@ -1,0 +1,213 @@
+{
+  "id": "2116146468868469215",
+  "permalink": "https://x.com/higana_yogana/status/2116146468868469215",
+  "author": {
+    "name": "ヒガナヨガナ",
+    "handle": "@higana_yogana",
+    "profile_url": "https://x.com/higana_yogana"
+  },
+  "posted_at": "2026-10-30T12:33:28Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [
+    {
+      "id": "2116146473150849354",
+      "permalink": "https://x.com/higana_yogana/status/2116146473150849354",
+      "posted_at": "2026-10-30T12:33:29Z",
+      "position": 1
+    },
+    {
+      "id": "2116146476913168759",
+      "permalink": "https://x.com/higana_yogana/status/2116146476913168759",
+      "posted_at": "2026-10-30T12:33:30Z",
+      "position": 2
+    },
+    {
+      "id": "2116146480776188226",
+      "permalink": "https://x.com/higana_yogana/status/2116146480776188226",
+      "posted_at": "2026-10-30T12:33:31Z",
+      "position": 3
+    },
+    {
+      "id": "2116146484622311892",
+      "permalink": "https://x.com/higana_yogana/status/2116146484622311892",
+      "posted_at": "2026-10-30T12:33:32Z",
+      "position": 4
+    },
+    {
+      "id": "2116146488535609774",
+      "permalink": "https://x.com/higana_yogana/status/2116146488535609774",
+      "posted_at": "2026-10-30T12:33:33Z",
+      "position": 5
+    },
+    {
+      "id": "2116146491857547567",
+      "permalink": "https://x.com/higana_yogana/status/2116146491857547567",
+      "posted_at": "2026-10-30T12:33:34Z",
+      "position": 6
+    }
+  ],
+  "summary_md": "**ヒガナヨガナ ([@higana_yogana](https://x.com/higana_yogana/status/2116146468868469215))** reviews **snapref** in a 7-part thread, a node and LoRA inspired by Anima-Ref-Adapter that references only a character's features: options include a speed/accuracy toggle, char vs char+style modes, Spectrum and Turbo LoRA support and wide negative strength (e.g. -1.0 to force monochrome); prompts, not ref_caption, carry artist tags, and it combines with CharRef-LLLite ControlNet though prompting is needed to use shapes ([0ppxnhximxr/snapref-v1b](https://huggingface.co/0ppxnhximxr/snapref-v1b)).",
+  "referenced_urls": [
+    {
+      "url": "https://huggingface.co/0ppxnhximxr/snapref-v1b",
+      "from_post": "2116146468868469215",
+      "short_url": "https://t.co/41tawihnfy",
+      "title": "0ppxnhximxr/snapref-v1b · Hugging Face"
+    }
+  ],
+  "hashtags": [
+    "AI画像生成",
+    "AIイラスト"
+  ],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "snapref",
+    "comfyui",
+    "character-reference",
+    "lora",
+    "controlnet",
+    "anima"
+  ],
+  "relevance": "Detailed practical evaluation of character-reference control.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV4MTdfbIAEv34T.jpg",
+      "from_post": "2116146468868469215",
+      "description": "Reference character sheet of a red-haired girl in a red uniform.",
+      "kind": "photo",
+      "thumbnail": "posts/2026/10/30/2116146468868469215/media/0.webp"
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV4MTdfasAAyPcZ.jpg",
+      "from_post": "2116146468868469215",
+      "description": "Generated close-up of the red-haired character sitting.",
+      "kind": "photo",
+      "thumbnail": "posts/2026/10/30/2116146468868469215/media/1.webp"
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV4MTdgbwAAWb4A.jpg",
+      "from_post": "2116146468868469215",
+      "description": "Generated character sitting on a rock.",
+      "kind": "photo",
+      "thumbnail": "posts/2026/10/30/2116146468868469215/media/2.webp"
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV4MTdhakAAGq3d.jpg",
+      "from_post": "2116146468868469215",
+      "description": "Variant of the character on a rock from a lower angle.",
+      "kind": "photo",
+      "thumbnail": "posts/2026/10/30/2116146468868469215/media/3.webp"
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV4MY62aIAAKizb.jpg",
+      "from_post": "2116146473150849354",
+      "description": "Blonde girl in hakama walking toward camera in a park.",
+      "kind": "photo",
+      "thumbnail": "posts/2026/10/30/2116146468868469215/media/4.webp"
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV4MY6za4AECOi3.jpg",
+      "from_post": "2116146473150849354",
+      "description": "Same blonde character walking with sleeves out.",
+      "kind": "photo",
+      "thumbnail": "posts/2026/10/30/2116146468868469215/media/5.webp"
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV4MY66boAA4N6O.jpg",
+      "from_post": "2116146473150849354",
+      "description": "Blonde character walking, side view.",
+      "kind": "photo",
+      "thumbnail": "posts/2026/10/30/2116146468868469215/media/6.webp"
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV4MY65bgAAK2WO.jpg",
+      "from_post": "2116146473150849354",
+      "description": "Blonde character walking away, side-back view.",
+      "kind": "photo",
+      "thumbnail": "posts/2026/10/30/2116146468868469215/media/7.webp"
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV4M00hbQAEK3uL.jpg",
+      "from_post": "2116146476913168759",
+      "description": "Red-haired character in a forest, colored seed-fixed baseline.",
+      "kind": "photo",
+      "thumbnail": "posts/2026/10/30/2116146468868469215/media/8.webp"
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV4M00ebsAAN9Qe.jpg",
+      "from_post": "2116146476913168759",
+      "description": "Monochrome-prompt attempt of the walking character with sketch background.",
+      "kind": "photo",
+      "thumbnail": "posts/2026/10/30/2116146468868469215/media/9.webp"
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV4M00lbAAAtIJn.jpg",
+      "from_post": "2116146476913168759",
+      "description": "Monochrome attempt with char mode, color mostly removed.",
+      "kind": "photo",
+      "thumbnail": "posts/2026/10/30/2116146468868469215/media/10.webp"
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV4M6GRaMAAgLQD.jpg",
+      "from_post": "2116146480776188226",
+      "description": "Fully greyscale result with negative strength.",
+      "kind": "photo",
+      "thumbnail": "posts/2026/10/30/2116146468868469215/media/11.webp"
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV4NEcPaEAAZ-hg.jpg",
+      "from_post": "2116146484622311892",
+      "description": "ControlNet reference image of a brown-haired schoolgirl leaning forward.",
+      "kind": "photo",
+      "thumbnail": "posts/2026/10/30/2116146468868469215/media/12.webp"
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV4NEcfbcAAsBg2.jpg",
+      "from_post": "2116146484622311892",
+      "description": "Blonde character standing upright, failing to use the reference pose.",
+      "kind": "photo",
+      "thumbnail": "posts/2026/10/30/2116146468868469215/media/13.webp"
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV4NEcobwAAxFIG.jpg",
+      "from_post": "2116146484622311892",
+      "description": "Blonde character leaning forward after adding the pose prompt.",
+      "kind": "photo",
+      "thumbnail": "posts/2026/10/30/2116146468868469215/media/14.webp"
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV4NEcxbsAAxTeC.jpg",
+      "from_post": "2116146484622311892",
+      "description": "Same seed with the ControlNet node bypassed.",
+      "kind": "photo",
+      "thumbnail": "posts/2026/10/30/2116146468868469215/media/15.webp"
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV4NVWpawAEvg0o.jpg",
+      "from_post": "2116146488535609774",
+      "description": "Overlay of the reference shape on the generated image.",
+      "kind": "photo",
+      "thumbnail": "posts/2026/10/30/2116146468868469215/media/16.webp"
+    }
+  ]
+}

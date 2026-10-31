@@ -1,0 +1,47 @@
+{
+  "id": "2115811721202036952",
+  "permalink": "https://x.com/pcuenq/status/2115811721202036952",
+  "author": {
+    "name": "Pedro Cuenca",
+    "handle": "@pcuenq",
+    "profile_url": "https://x.com/pcuenq"
+  },
+  "posted_at": "2026-10-29T14:23:18Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [
+    {
+      "id": "2115811733474599183",
+      "permalink": "https://x.com/pcuenq/status/2115811733474599183",
+      "posted_at": "2026-10-29T14:23:21Z",
+      "position": 1
+    }
+  ],
+  "summary_md": "**Pedro Cuenca ([@pcuenq](https://x.com/pcuenq/status/2115811721202036952))** announces local builds of **Le Chonk** (Mistral Large 4, 1T-A52B) in FP8, NVFP4 and GGUF ([ggml-org GGUF](https://huggingface.co/ggml-org/Mistral-Large-4-1T-A52B-GGUF), [blog](https://huggingface.co/blog/mistral-large4)).",
+  "referenced_urls": [
+    {
+      "url": "https://huggingface.co/ggml-org/Mistral-Large-4-1T-A52B-GGUF",
+      "from_post": "2115811721202036952",
+      "short_url": "https://t.co/oYAN8kfH7l",
+      "title": "ggml-org/Mistral-Large-4-1T-A52B-GGUF · Hugging Face"
+    },
+    {
+      "url": "https://huggingface.co/blog/mistral-large4",
+      "from_post": "2115811733474599183",
+      "short_url": "https://t.co/nJmd7WUZHy",
+      "title": "Welcome Le Chonk: Mistral Large 4 on Hugging Face"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "local-models"
+  ],
+  "keywords": [
+    "mistral-large-4",
+    "le-chonk",
+    "gguf",
+    "nvfp4",
+    "fp8"
+  ],
+  "relevance": "Local quantizations of a frontier open model."
+}

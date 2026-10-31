@@ -1,0 +1,45 @@
+{
+  "id": "2116193745528037612",
+  "permalink": "https://x.com/VisualFrisson/status/2116193745528037612",
+  "author": {
+    "name": "VISUAL FRISSON",
+    "handle": "@VisualFrisson",
+    "profile_url": "https://x.com/VisualFrisson"
+  },
+  "posted_at": "2026-10-30T15:41:20Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**VISUAL FRISSON ([@VisualFrisson](https://x.com/VisualFrisson/status/2116193745528037612))** introduces **OneShot MV**, ComfyUI nodes and a local Studio app turning a song plus one line of world description into a lip-synced music video ([VisualFrisson/ComfyUI-OneShotMV](https://github.com/VisualFrisson/ComfyUI-OneShotMV)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/VisualFrisson/ComfyUI-OneShotMV",
+      "from_post": "2116193745528037612",
+      "short_url": "https://t.co/Db1TMVytxq",
+      "title": "GitHub - VisualFrisson/ComfyUI-OneShotMV: Turn a song and one line about its world into a lip-synced music video. ComfyUI nodes and a Studio app that run locally on open-weights models."
+    }
+  ],
+  "hashtags": [
+    "OpenSourceHiggsfield",
+    "comfyui"
+  ],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "oneshot-mv",
+    "music-video",
+    "lip-sync",
+    "comfyui",
+    "opensourcehiggsfield"
+  ],
+  "relevance": "One-shot music video generation.",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://x.com/VisualFrisson/status/2116193745528037612/video/1",
+      "from_post": "2116193745528037612",
+      "description": "Generated music video (not downloaded; referenced only)."
+    }
+  ]
+}

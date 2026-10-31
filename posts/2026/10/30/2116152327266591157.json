@@ -1,0 +1,46 @@
+{
+  "id": "2116152327266591157",
+  "permalink": "https://x.com/mtlglabs/status/2116152327266591157",
+  "author": {
+    "name": "Alexandr Motologa",
+    "handle": "@mtlglabs",
+    "profile_url": "https://x.com/mtlglabs"
+  },
+  "posted_at": "2026-10-30T12:56:45Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**Alexandr Motologa ([@mtlglabs](https://x.com/mtlglabs/status/2116152327266591157))** shares **BrowserPilot**, a browser agent combining Chrome accessibility-tree parsing with visual element labels, stealth CDP patches and human takeover, claiming about 80% fewer tokens ([alexandrmotologa/browserpilot](https://github.com/alexandrmotologa/browserpilot)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/alexandrmotologa/browserpilot",
+      "from_post": "2116152327266591157",
+      "short_url": "https://t.co/c1VvoFX1Rr",
+      "title": "GitHub - alexandrmotologa/browserpilot: Autonomous browser agent combining Chrome accessibility tree parsing with visual element labeling, stealth CDP patches, and human-in-the-loop takeover."
+    }
+  ],
+  "hashtags": [
+    "Python312",
+    "Playwright",
+    "Patchright"
+  ],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "browserpilot",
+    "browser-agent",
+    "accessibility-tree",
+    "playwright",
+    "patchright"
+  ],
+  "relevance": "Token-efficient browser automation.",
+  "media": [
+    {
+      "type": "gif",
+      "url": "https://x.com/mtlglabs/status/2116152327266591157/photo/1",
+      "from_post": "2116152327266591157",
+      "description": "Browser agent labeling elements on a page (not downloaded; referenced only)."
+    }
+  ]
+}

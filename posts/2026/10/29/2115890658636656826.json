@@ -1,0 +1,66 @@
+{
+  "id": "2115890658636656826",
+  "permalink": "https://x.com/speridlabs/status/2115890658636656826",
+  "author": {
+    "name": "Speridlabs",
+    "handle": "@speridlabs",
+    "profile_url": "https://x.com/speridlabs"
+  },
+  "posted_at": "2026-10-29T19:36:59Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [
+    {
+      "id": "2115890660356321543",
+      "permalink": "https://x.com/speridlabs/status/2115890660356321543",
+      "posted_at": "2026-10-29T19:36:59Z",
+      "position": 1
+    }
+  ],
+  "summary_md": "**Speridlabs ([@speridlabs](https://x.com/speridlabs/status/2115890658636656826))** releases **Idol**, an Apache-2.0 600M-parameter 3D-DiT trained from scratch that generates complete 3D objects from a single image, using under 7.2 GB VRAM and producing 1M Gaussian splats in about 3 seconds ([research page](http://speridlabs.com/research/idol), [weights](https://huggingface.co/speridlabs/idol), [SDK](https://github.com/speridlabs/idol-sdk), [demo](https://huggingface.co/spaces/speridlabs/idol)).",
+  "referenced_urls": [
+    {
+      "url": "http://speridlabs.com/research/idol",
+      "from_post": "2115890658636656826",
+      "short_url": "https://t.co/Cf0slnSI5C"
+    },
+    {
+      "url": "https://huggingface.co/speridlabs/idol",
+      "from_post": "2115890660356321543",
+      "short_url": "https://t.co/kCxM80316T",
+      "title": "speridlabs/idol · Hugging Face"
+    },
+    {
+      "url": "https://github.com/speridlabs/idol-sdk",
+      "from_post": "2115890660356321543",
+      "short_url": "https://t.co/NbKIad8j5O",
+      "title": "GitHub - speridlabs/idol-sdk: Idol: a single image to 3D Gaussians. Inference SDK and demo."
+    },
+    {
+      "url": "https://huggingface.co/spaces/speridlabs/idol",
+      "from_post": "2115890660356321543",
+      "short_url": "https://t.co/LayrLBgLov",
+      "title": "Idol - a Hugging Face Space by speridlabs"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "idol",
+    "image-to-3d",
+    "gaussian-splat",
+    "3d-dit",
+    "open-weight"
+  ],
+  "relevance": "Small open image-to-3D model for local pipelines.",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://x.com/speridlabs/status/2115890658636656826/video/1",
+      "from_post": "2115890658636656826",
+      "description": "Idol image-to-3D demo (not downloaded; referenced only)."
+    }
+  ]
+}

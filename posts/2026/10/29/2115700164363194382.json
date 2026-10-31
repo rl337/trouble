@@ -1,0 +1,42 @@
+{
+  "id": "2115700164363194382",
+  "permalink": "https://x.com/AiAdventurerx/status/2115700164363194382",
+  "author": {
+    "name": "AI Adventurer",
+    "handle": "@AiAdventurerx",
+    "profile_url": "https://x.com/AiAdventurerx"
+  },
+  "posted_at": "2026-10-29T07:00:01Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**AI Adventurer ([@AiAdventurerx](https://x.com/AiAdventurerx/status/2115700164363194382))** shares **Octopus OS**, an MIT-licensed open-source agent harness in which agents can modify their own execution environment, built around a Rust kernel of roughly 45K lines ([miuuyy/Octopus-SI-OS](https://github.com/miuuyy/Octopus-SI-OS)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/miuuyy/Octopus-SI-OS",
+      "from_post": "2115700164363194382",
+      "short_url": "https://t.co/J93qPhfzq4",
+      "title": "GitHub - miuuyy/Octopus-SI-OS: A self-evolving agentic OS. A new architecture for agent execution, built on operating-system principles, with the harness as a path toward superintelligence."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "octopus-os",
+    "agent-harness",
+    "rust",
+    "self-evolving-agent",
+    "agent-operating-system"
+  ],
+  "relevance": "A self-modifying agent-OS harness design worth studying for harness architecture.",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://x.com/AiAdventurerx/status/2115700164363194382/video/1",
+      "from_post": "2115700164363194382",
+      "description": "Demo video of the Octopus OS agent harness (not downloaded; referenced only)."
+    }
+  ]
+}

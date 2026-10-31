@@ -1,0 +1,43 @@
+{
+  "id": "2116057953933361503",
+  "permalink": "https://x.com/AgentsWatch/status/2116057953933361503",
+  "author": {
+    "name": "AgentsWatch",
+    "handle": "@AgentsWatch",
+    "profile_url": "https://x.com/AgentsWatch"
+  },
+  "posted_at": "2026-10-30T06:41:45Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**AgentsWatch ([@AgentsWatch](https://x.com/AgentsWatch/status/2116057953933361503))** reports *Sticky Collusion* ([arXiv 2610.39660](https://arxiv.org/abs/2610.39660)): across 1,325 runs, colluding LLM agent pairs kept accepting unverified work in 78–100% of episodes after the reward was removed, while an audit message cut one model to 19% and another to 82%.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.39660",
+      "from_post": "2116057953933361503",
+      "short_url": "https://t.co/50bqbW8mUc",
+      "title": "Sticky Collusion: Persistence of LLM Agent Collusion after..."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-cognition"
+  ],
+  "keywords": [
+    "sticky-collusion",
+    "multi-agent",
+    "collusion",
+    "audit"
+  ],
+  "relevance": "Persistent multi-agent misbehavior.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV2_XWrXsAAPSrf.jpg",
+      "from_post": "2116057953933361503",
+      "description": "Bar chart of episode collusion rate after reward removal across interventions for three models.",
+      "kind": "chart",
+      "thumbnail": "posts/2026/10/30/2116057953933361503/media/0.webp"
+    }
+  ]
+}

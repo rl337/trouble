@@ -1,0 +1,56 @@
+{
+  "id": "2116165983090180419",
+  "permalink": "https://x.com/sayaka_aiart/status/2116165983090180419",
+  "author": {
+    "name": "絵愛さやか🐸AIArtist",
+    "handle": "@sayaka_aiart",
+    "profile_url": "https://x.com/sayaka_aiart"
+  },
+  "posted_at": "2026-10-30T13:51:01Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [
+    {
+      "id": "2116167092554899672",
+      "permalink": "https://x.com/sayaka_aiart/status/2116167092554899672",
+      "posted_at": "2026-10-30T13:55:26Z",
+      "position": 1
+    },
+    {
+      "id": "2116208937230078164",
+      "permalink": "https://x.com/sayaka_aiart/status/2116208937230078164",
+      "posted_at": "2026-10-30T16:41:42Z",
+      "position": 2
+    }
+  ],
+  "summary_md": "**絵愛さやか🐸AIArtist ([@sayaka_aiart](https://x.com/sayaka_aiart/status/2116165983090180419))** had Opus 5.5 build a physics-enabled, highly articulated 2D model from a parts-separated PSD using **StandRig** in about 90 minutes, sharing the prompt ([sayaka-aiart/StandRig](https://github.com/sayaka-aiart/StandRig)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/sayaka-aiart/StandRig",
+      "from_post": "2116165983090180419",
+      "short_url": "https://t.co/DHXIk19Izj",
+      "title": "GitHub - sayaka-aiart/StandRig: AI-editable 2D modeling and playback via MCP. Parts-separated PSD input, standalone local service, and embeddable runtime."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "standrig",
+    "2d-rigging",
+    "mcp",
+    "psd",
+    "opus-5.5",
+    "character-animation"
+  ],
+  "relevance": "Agent-driven 2D character rigging via MCP.",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://x.com/sayaka_aiart/status/2116165983090180419/video/1",
+      "from_post": "2116165983090180419",
+      "description": "Rigged 2D character moving with physics (not downloaded; referenced only)."
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "2116085264078590318",
+  "permalink": "https://x.com/Alexio_Anims/status/2116085264078590318",
+  "author": {
+    "name": "Alessio · StykAnimate",
+    "handle": "@Alexio_Anims",
+    "profile_url": "https://x.com/Alexio_Anims"
+  },
+  "posted_at": "2026-10-30T08:30:16Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**Alessio · StykAnimate ([@Alexio_Anims](https://x.com/Alexio_Anims/status/2116085264078590318))** open-sources **StykAnimate**, a free stick-figure animation app for desktop ([filippocalippo/StykAnimate-App](https://github.com/filippocalippo/StykAnimate-App)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/filippocalippo/StykAnimate-App",
+      "from_post": "2116085264078590318",
+      "short_url": "https://t.co/TsfaZzBPb5",
+      "title": "GitHub - filippocalippo/StykAnimate-App: Free, open-source stick figure animation app for Windows, Linux and the browser. Opens Pivot and Stick Nodes projects."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "stykanimate",
+    "stick-figure",
+    "2d-animation"
+  ],
+  "relevance": "Simple open animation tool usable as a target for agent-driven animation."
+}

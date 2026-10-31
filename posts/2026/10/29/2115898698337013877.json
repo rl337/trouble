@@ -1,0 +1,51 @@
+{
+  "id": "2115898698337013877",
+  "permalink": "https://x.com/HuggingPapers/status/2115898698337013877",
+  "author": {
+    "name": "DailyPapers",
+    "handle": "@HuggingPapers",
+    "profile_url": "https://x.com/HuggingPapers"
+  },
+  "posted_at": "2026-10-29T20:08:55Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [
+    {
+      "id": "2115898709187645664",
+      "permalink": "https://x.com/HuggingPapers/status/2115898709187645664",
+      "posted_at": "2026-10-29T20:08:58Z",
+      "position": 1
+    }
+  ],
+  "summary_md": "**DailyPapers ([@HuggingPapers](https://x.com/HuggingPapers/status/2115898698337013877))** shares **TAO** ([paper](https://paperswithcode.co/paper/2610.37230)), an agentic-serving scheduler that pauses sessions during tool calls, scores them by time-decayed KV-cache credit and tool-return readiness, and places them via async DP, cutting latency up to 26.8% and mean TTFT up to 36.3% with under 0.12% overhead.",
+  "referenced_urls": [
+    {
+      "url": "https://paperswithcode.co/paper/2610.37230",
+      "from_post": "2115898709187645664",
+      "short_url": "https://t.co/u2sgsLaADT",
+      "title": "TAO: Tool-Aware Joint Scheduling for LLM-Based Agentic Serving | Papers with Code"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "tao",
+    "agentic-serving",
+    "scheduling",
+    "kv-cache",
+    "ttft"
+  ],
+  "relevance": "Serving optimization for tool-heavy agent workloads.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV0upuNWAAECvoI.jpg",
+      "from_post": "2115898698337013877",
+      "description": "TAO architecture figure: session evaluation, tool-return readiness and async decision making across CPUs and GPUs.",
+      "kind": "diagram",
+      "thumbnail": "posts/2026/10/29/2115898698337013877/media/0.webp"
+    }
+  ]
+}

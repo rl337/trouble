@@ -1,0 +1,41 @@
+{
+  "id": "2116102654627877374",
+  "permalink": "https://x.com/anandhakris7/status/2116102654627877374",
+  "author": {
+    "name": "Anandha Krishnan Aji",
+    "handle": "@anandhakris7",
+    "profile_url": "https://x.com/anandhakris7"
+  },
+  "posted_at": "2026-10-30T09:39:22Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**Anandha Krishnan Aji ([@anandhakris7](https://x.com/anandhakris7/status/2116102654627877374))** built **claude-relay**, which serves Claude Code behind OpenAI- and Anthropic-compatible localhost endpoints with streaming (tools off by default), for testing OpenAI-SDK apps against a real model; MIT ([anandhakrishnanaji/claude-relay](https://github.com/anandhakrishnanaji/claude-relay)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/anandhakrishnanaji/claude-relay",
+      "from_post": "2116102654627877374",
+      "short_url": "https://t.co/Iq8m74zzMH",
+      "title": "GitHub - anandhakrishnanaji/claude-relay: OpenAI- and Anthropic-compatible API server for Claude Code, using your Claude subscription"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "claude-relay",
+    "claude-code",
+    "openai-api",
+    "local-endpoint"
+  ],
+  "relevance": "Bridge for reusing a coding-agent subscription as a local API.",
+  "media": [
+    {
+      "type": "gif",
+      "url": "https://x.com/anandhakris7/status/2116102654627877374/photo/1",
+      "from_post": "2116102654627877374",
+      "description": "Terminal demo starting the relay and streaming a response (not downloaded; referenced only)."
+    }
+  ]
+}

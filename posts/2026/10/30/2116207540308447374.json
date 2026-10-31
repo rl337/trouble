@@ -1,0 +1,49 @@
+{
+  "id": "2116207540308447374",
+  "permalink": "https://x.com/openrijal/status/2116207540308447374",
+  "author": {
+    "name": "Nitesh Rijal",
+    "handle": "@openrijal",
+    "profile_url": "https://x.com/openrijal"
+  },
+  "posted_at": "2026-10-30T16:36:09Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**Nitesh Rijal ([@openrijal](https://x.com/openrijal/status/2116207540308447374))** describes a workflow stitched from others' skills where the rules between them are the hard part: grill-me and to-prd for product decisions, LID for specs and EARS requirements, then pstack modes for implementation, verification and statecharts, with plans naming requirements and completion evidence ([mattpocock/skills](https://github.com/mattpocock/skills), [jszmajda/lid](https://github.com/jszmajda/lid), [pstack](https://github.com/cursor/plugins/tree/main/pstack), [blog](https://niteshrijal.com/blog/coding-workflow)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/mattpocock/skills",
+      "from_post": "2116207540308447374",
+      "short_url": "https://t.co/21QXDCmguI",
+      "title": "GitHub - mattpocock/skills: Skills for Real Engineers. Straight from my .agents directory."
+    },
+    {
+      "url": "https://github.com/jszmajda/lid",
+      "from_post": "2116207540308447374",
+      "short_url": "https://t.co/oNNIwETW3B"
+    },
+    {
+      "url": "https://github.com/cursor/plugins/tree/main/pstack",
+      "from_post": "2116207540308447374",
+      "short_url": "https://t.co/sImRnioHC3"
+    },
+    {
+      "url": "https://niteshrijal.com/blog/coding-workflow",
+      "from_post": "2116207540308447374",
+      "short_url": "https://t.co/nZKOwZAA1j"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "agent-skill",
+    "ears-requirement",
+    "spec-driven-development",
+    "prd",
+    "workflow"
+  ],
+  "relevance": "Composing skills with explicit handoff rules."
+}

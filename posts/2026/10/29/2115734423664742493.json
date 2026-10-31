@@ -1,0 +1,43 @@
+{
+  "id": "2115734423664742493",
+  "permalink": "https://x.com/dkhaburdzania/status/2115734423664742493",
+  "author": {
+    "name": "Davit Khaburdzania",
+    "handle": "@dkhaburdzania",
+    "profile_url": "https://x.com/dkhaburdzania"
+  },
+  "posted_at": "2026-10-29T09:16:09Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**Davit Khaburdzania ([@dkhaburdzania](https://x.com/dkhaburdzania/status/2115734423664742493))** made a Claude Code skill for getting iOS apps through Apple's increasingly strict App Store review ([davit-khaburdzania/app-store-review-skill](https://github.com/davit-khaburdzania/app-store-review-skill)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/davit-khaburdzania/app-store-review-skill",
+      "from_post": "2115734423664742493",
+      "short_url": "https://t.co/Xk3foTnyV2",
+      "title": "GitHub - davit-khaburdzania/app-store-review-skill: A Claude Code skill for getting an iOS app through App Review, built from two apps' first reviews"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "app-store-review",
+    "ios",
+    "claude-code",
+    "agent-skill"
+  ],
+  "relevance": "Domain-specific agent skill encoding review know-how.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HVyYr_PWoAArFka.jpg",
+      "from_post": "2115734423664742493",
+      "description": "Watercolor-style illustration of an open book with a paper airplane and a coffee cup.",
+      "kind": "other",
+      "thumbnail": "posts/2026/10/29/2115734423664742493/media/0.webp"
+    }
+  ]
+}

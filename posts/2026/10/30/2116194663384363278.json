@@ -1,0 +1,43 @@
+{
+  "id": "2116194663384363278",
+  "permalink": "https://x.com/3dkvisual/status/2116194663384363278",
+  "author": {
+    "name": "3DK Visual",
+    "handle": "@3dkvisual",
+    "profile_url": "https://x.com/3dkvisual"
+  },
+  "posted_at": "2026-10-30T15:44:59Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**3DK Visual ([@3dkvisual](https://x.com/3dkvisual/status/2116194663384363278))** shares **open-reshoot**, a ComfyUI app to reshoot existing footage into a new world with the same shot and camera ([3dkvisual/open-reshoot](https://github.com/3dkvisual/open-reshoot)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/3dkvisual/open-reshoot",
+      "from_post": "2116194663384363278",
+      "short_url": "https://t.co/eZSYBmDQj0",
+      "title": "GitHub - 3dkvisual/open-reshoot: Reshoot footage you already have into a new world - a ComfyUI app (open weights, core nodes)"
+    }
+  ],
+  "hashtags": [
+    "OpenSourceHiggsfield"
+  ],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "open-reshoot",
+    "comfyui",
+    "video-restyle",
+    "opensourcehiggsfield"
+  ],
+  "relevance": "Footage restyling.",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://x.com/3dkvisual/status/2116194663384363278/video/1",
+      "from_post": "2116194663384363278",
+      "description": "Before/after reshoot (not downloaded; referenced only)."
+    }
+  ]
+}

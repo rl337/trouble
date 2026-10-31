@@ -1,0 +1,33 @@
+{
+  "id": "2116348935451054330",
+  "permalink": "https://x.com/Contrasignal_ai/status/2116348935451054330",
+  "author": {
+    "name": "PurpleHaze Timetraveler",
+    "handle": "@Contrasignal_ai",
+    "profile_url": "https://x.com/Contrasignal_ai"
+  },
+  "posted_at": "2026-10-31T01:58:00Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**PurpleHaze Timetraveler ([@Contrasignal_ai](https://x.com/Contrasignal_ai/status/2116348935451054330))** cites *Your Benchmark Is an Empirical Measure Over Difficulty* ([arXiv 2610.29927](https://arxiv.org/abs/2610.29927)). 10 of 25 popular benchmarks skew toward certain difficulty levels, so near ties can hide real gaps on hard tasks.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.29927",
+      "from_post": "2116348935451054330",
+      "short_url": "https://t.co/C9LwRy8yAd",
+      "title": "Your Benchmark Is an Empirical Measure Over Difficulty"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-cognition"
+  ],
+  "keywords": [
+    "benchmark",
+    "difficulty",
+    "leaderboard",
+    "evaluation"
+  ],
+  "relevance": "Reading leaderboards critically."
+}

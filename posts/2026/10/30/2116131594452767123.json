@@ -1,0 +1,50 @@
+{
+  "id": "2116131594452767123",
+  "permalink": "https://x.com/jorge0018/status/2116131594452767123",
+  "author": {
+    "name": "Jorge Miranda Cherem",
+    "handle": "@jorge0018",
+    "profile_url": "https://x.com/jorge0018"
+  },
+  "posted_at": "2026-10-30T11:34:22Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**Jorge Miranda Cherem ([@jorge0018](https://x.com/jorge0018/status/2116131594452767123))** releases **Hotbox** for ComfyUI, a context-aware action menu opened with the backtick key, inspired by Maya's Hotbox and Nuke's W_hotbox ([jorge-miranda-cherem/comfyui-hotbox](https://github.com/jorge-miranda-cherem/comfyui-hotbox)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/jorge-miranda-cherem/comfyui-hotbox",
+      "from_post": "2116131594452767123",
+      "short_url": "https://t.co/fDPS4FGdtk",
+      "title": "GitHub - jorge-miranda-cherem/comfyui-hotbox: A fast, Nuke/Maya-style context-aware hotbox for ComyUI: smart auto-wiring, model swapping, drag-to-pin ars, pro sliders, Super Stitch and visual crop/painteditors. Frontend only."
+    }
+  ],
+  "hashtags": [
+    "OpenSourceHiggsfield"
+  ],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "comfyui-hotbox",
+    "comfyui",
+    "maya",
+    "nuke",
+    "opensourcehiggsfield"
+  ],
+  "relevance": "ComfyUI usability tool from VFX conventions.",
+  "media": [
+    {
+      "type": "gif",
+      "url": "https://x.com/jorge0018/status/2116131594452767123/photo/1",
+      "from_post": "2116131594452767123",
+      "description": "Hotbox menu popping up over a selected node (not downloaded; referenced only)."
+    },
+    {
+      "type": "video",
+      "url": "https://x.com/jorge0018/status/2116131594452767123/video/2",
+      "from_post": "2116131594452767123",
+      "description": "Demo of the Hotbox workflow (not downloaded; referenced only)."
+    }
+  ]
+}

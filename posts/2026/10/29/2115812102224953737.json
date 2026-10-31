@@ -1,0 +1,43 @@
+{
+  "id": "2115812102224953737",
+  "permalink": "https://x.com/aaitor/status/2115812102224953737",
+  "author": {
+    "name": "aaitor",
+    "handle": "@aaitor",
+    "profile_url": "https://x.com/aaitor"
+  },
+  "posted_at": "2026-10-29T14:24:49Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**aaitor ([@aaitor](https://x.com/aaitor/status/2115812102224953737))** built a small skill that lets parallel agents drive a GitHub Projects board while he keeps the final gate, since agents never move items to Done ([aaitor/skill-github-projects](https://github.com/aaitor/skill-github-projects)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/aaitor/skill-github-projects",
+      "from_post": "2115812102224953737",
+      "short_url": "https://t.co/lICy6rX6QP",
+      "title": "GitHub - aaitor/skill-github-projects: Agent skill for GitHub Projects: discover backlogs, coordinate work, and submit results for human approval."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "github-project",
+    "agent-skill",
+    "coordination",
+    "human-in-the-loop"
+  ],
+  "relevance": "Simple coordination layer for many parallel agents with a human gate.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HVzf5S4WcAA-Epc.jpg",
+      "from_post": "2115812102224953737",
+      "description": "Dark banner reading \"GitHub Projects\" with a tagline.",
+      "kind": "other",
+      "thumbnail": "posts/2026/10/29/2115812102224953737/media/0.webp"
+    }
+  ]
+}

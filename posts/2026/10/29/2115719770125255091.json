@@ -1,0 +1,34 @@
+{
+  "id": "2115719770125255091",
+  "permalink": "https://x.com/LLMpsycho/status/2115719770125255091",
+  "author": {
+    "name": "Bessi S",
+    "handle": "@LLMpsycho",
+    "profile_url": "https://x.com/LLMpsycho"
+  },
+  "posted_at": "2026-10-29T08:17:56Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**Bessi S ([@LLMpsycho](https://x.com/LLMpsycho/status/2115719770125255091))** shares **Floorplan**, which has Claude Code or Codex read a repo and draw an interactive map with plain-English names for each part, file and web request and the connections between them, aimed at mostly AI-built apps ([haydenschmitty/floorplan](https://github.com/haydenschmitty/floorplan)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/haydenschmitty/floorplan",
+      "from_post": "2115719770125255091",
+      "short_url": "https://t.co/f3jjTEnz9A",
+      "title": "GitHub - haydenschmitty/floorplan: See how your app actually fits together. An interactive, plain-English map of your codebase, drawn by Claude."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "floorplan",
+    "codebase-map",
+    "claude-code",
+    "codex",
+    "visualization"
+  ],
+  "relevance": "Agent-generated architecture maps for understanding AI-written code."
+}

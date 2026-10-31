@@ -1,0 +1,35 @@
+{
+  "id": "2116098636165865691",
+  "permalink": "https://x.com/RegesCoreAi/status/2116098636165865691",
+  "author": {
+    "name": "RegesAI",
+    "handle": "@RegesCoreAi",
+    "profile_url": "https://x.com/RegesCoreAi"
+  },
+  "posted_at": "2026-10-30T09:23:24Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**RegesAI ([@RegesCoreAi](https://x.com/RegesCoreAi/status/2116098636165865691))** releases **RegesARC 0.0.22**, a Windows local-AI app for chat, agents, Claude Code/Desktop, MCP and computer use with OpenAI/Anthropic-compatible APIs, measuring a 35B MXFP4 model at 262K context at about 58–65 tok/s on a 12 GB RTX 4070 SUPER ([iboss21/regesarc-releases](https://github.com/iboss21/regesarc-releases)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/iboss21/regesarc-releases",
+      "from_post": "2116098636165865691",
+      "short_url": "https://t.co/P94QEkfCDX",
+      "title": "GitHub - iboss21/regesarc-releases: RegesARC Windows installers (development previews) by LIKE A KING INC. Source is private."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "local-models"
+  ],
+  "keywords": [
+    "regesarc",
+    "mxfp4",
+    "35b-model",
+    "windows",
+    "computer-use",
+    "mcp"
+  ],
+  "relevance": "Local ~35B model serving on a 12 GB consumer GPU for agent workflows."
+}

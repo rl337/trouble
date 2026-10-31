@@ -1,0 +1,34 @@
+{
+  "id": "2115798462386085942",
+  "permalink": "https://x.com/nuguyadesk/status/2115798462386085942",
+  "author": {
+    "name": "Nuguya's AI Desk",
+    "handle": "@nuguyadesk",
+    "profile_url": "https://x.com/nuguyadesk"
+  },
+  "posted_at": "2026-10-29T13:30:37Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**Nuguya's AI Desk ([@nuguyadesk](https://x.com/nuguyadesk/status/2115798462386085942))** highlights a free MIT Codex skill for Windows that finds forgotten git worktrees left by coding agents, audits read-only first and deletes only provably safe items on request ([nempro/development-cleanup](https://github.com/nempro/development-cleanup)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/nempro/development-cleanup",
+      "from_post": "2115798462386085942",
+      "short_url": "https://t.co/IYRfIp8kaA",
+      "title": "GitHub - nempro/development-cleanup: 開発フォルダお掃除 — Windows上のCodexでGitワークツリーと一時作業物を安全に点検・整理するスキル。初期動作は読み取り専用。MIT License。"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "git-worktree",
+    "cleanup",
+    "codex",
+    "agent-skill",
+    "read-only"
+  ],
+  "relevance": "Safe-by-default cleanup skill for agent side effects."
+}

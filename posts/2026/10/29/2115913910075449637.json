@@ -1,0 +1,45 @@
+{
+  "id": "2115913910075449637",
+  "permalink": "https://x.com/RaphaelLiu10/status/2115913910075449637",
+  "author": {
+    "name": "Raphael Liu",
+    "handle": "@RaphaelLiu10",
+    "profile_url": "https://x.com/RaphaelLiu10"
+  },
+  "posted_at": "2026-10-29T21:09:22Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**Raphael Liu ([@RaphaelLiu10](https://x.com/RaphaelLiu10/status/2115913910075449637))** open-sources **Open Source Canvas**, an MIT node canvas that runs ComfyUI models locally and plugs in any AI-video provider's API ([raph651/open-source-canvas](https://github.com/raph651/open-source-canvas)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/raph651/open-source-canvas",
+      "from_post": "2115913910075449637",
+      "short_url": "https://t.co/A8CxOUrz8N",
+      "title": "GitHub - raph651/open-source-canvas: Open Source Canvas: an open-source node canvas that runs ComfyUI workflows."
+    }
+  ],
+  "hashtags": [
+    "OpenSourceHiggsfield",
+    "Comfy",
+    "AIGC"
+  ],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "open-source-canvas",
+    "comfyui",
+    "node-canvas",
+    "video-generation"
+  ],
+  "relevance": "Pluggable local canvas for video generation workflows.",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://x.com/RaphaelLiu10/status/2115913910075449637/video/1",
+      "from_post": "2115913910075449637",
+      "description": "Canvas demo (not downloaded; referenced only)."
+    }
+  ]
+}

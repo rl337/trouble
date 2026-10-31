@@ -1,0 +1,91 @@
+{
+  "id": "2116163656480428220",
+  "permalink": "https://x.com/NaceAI/status/2116163656480428220",
+  "author": {
+    "name": "Nace AI",
+    "handle": "@NaceAI",
+    "profile_url": "https://x.com/NaceAI"
+  },
+  "posted_at": "2026-10-30T13:41:46Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [
+    {
+      "id": "2116163659663814675",
+      "permalink": "https://x.com/NaceAI/status/2116163659663814675",
+      "posted_at": "2026-10-30T13:41:47Z",
+      "position": 1
+    },
+    {
+      "id": "2116163662293745815",
+      "permalink": "https://x.com/NaceAI/status/2116163662293745815",
+      "posted_at": "2026-10-30T13:41:48Z",
+      "position": 2
+    },
+    {
+      "id": "2116163664780964346",
+      "permalink": "https://x.com/NaceAI/status/2116163664780964346",
+      "posted_at": "2026-10-30T13:41:48Z",
+      "position": 3
+    }
+  ],
+  "summary_md": "**Nace AI ([@NaceAI](https://x.com/NaceAI/status/2116163656480428220))** open-sources **Drex-Max v1**, a multimodal decision model that runs locally on Apple Silicon M4/M5, with Q8_0 GGUF, llama.cpp and Ollama branches ([nace-ai/drex-max-v1](https://huggingface.co/nace-ai/drex-max-v1), [Q8_0](https://huggingface.co/nace-ai/drex-max-v1-Q8_0), [nace-ai/drex-decision-models](https://github.com/nace-ai/drex-decision-models/)).",
+  "referenced_urls": [
+    {
+      "url": "https://console.nace.ai/login",
+      "from_post": "2116163656480428220",
+      "short_url": "https://t.co/fm3GXfjaqx",
+      "title": "Sign in | Console"
+    },
+    {
+      "url": "https://huggingface.co/nace-ai/drex-max-v1",
+      "from_post": "2116163656480428220",
+      "short_url": "https://t.co/9nwcBn7c2D",
+      "title": "nace-ai/drex-max-v1 · Hugging Face"
+    },
+    {
+      "url": "https://huggingface.co/nace-ai/drex-max-v1-Q8_0",
+      "from_post": "2116163659663814675",
+      "short_url": "https://t.co/nbEr0IXrij",
+      "title": "nace-ai/drex-max-v1-Q8_0 · Hugging Face"
+    },
+    {
+      "url": "https://github.com/nace-ai/drex-decision-models/",
+      "from_post": "2116163662293745815",
+      "short_url": "https://t.co/y2IVHFpfSw",
+      "title": "GitHub - nace-ai/drex-decision-models: Open Drex decision models: runtime, docs and model pages"
+    },
+    {
+      "url": "https://github.com/nace-ai/llama.cpp/tree/drex-max-v1",
+      "from_post": "2116163664780964346",
+      "short_url": "https://t.co/UEoeK0TppU"
+    },
+    {
+      "url": "https://github.com/nace-ai/ollama/tree/drex-max-v1",
+      "from_post": "2116163664780964346",
+      "short_url": "https://t.co/2DoIuWysyc"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "local-models"
+  ],
+  "keywords": [
+    "drex-max",
+    "decision-model",
+    "gguf",
+    "llama.cpp",
+    "ollama"
+  ],
+  "relevance": "Locally runnable decision model for agents.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV4eLJbaIAAZLLw.jpg",
+      "from_post": "2116163656480428220",
+      "description": "'Drex Max is now open source' card with +6.27 score gain table.",
+      "kind": "chart",
+      "thumbnail": "posts/2026/10/30/2116163656480428220/media/0.webp"
+    }
+  ]
+}

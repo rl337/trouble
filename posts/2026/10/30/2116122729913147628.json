@@ -1,0 +1,34 @@
+{
+  "id": "2116122729913147628",
+  "permalink": "https://x.com/Zhoushu9763/status/2116122729913147628",
+  "author": {
+    "name": "Shouyu",
+    "handle": "@Zhoushu9763",
+    "profile_url": "https://x.com/Zhoushu9763"
+  },
+  "posted_at": "2026-10-30T10:59:09Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**Shouyu ([@Zhoushu9763](https://x.com/Zhoushu9763/status/2116122729913147628))** shares **JSONL Vision**, a free VS Code/Cursor extension that renders each line of Claude Code or Codex session logs as a color-coded graph of user, assistant, tool calls and results ([cyclone-mind/jsonl-vision](https://github.com/cyclone-mind/jsonl-vision)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/cyclone-mind/jsonl-vision",
+      "from_post": "2116122729913147628",
+      "short_url": "https://t.co/yKv1XSrGuU",
+      "title": "GitHub - cyclone-mind/jsonl-vision: VS Code extension for viewing/editing individual JSONL lines as JSON Crack-style graphs"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "jsonl-vision",
+    "session-log",
+    "vs-code-extension",
+    "claude-code",
+    "codex"
+  ],
+  "relevance": "Debugging agent transcripts visually."
+}

@@ -1,0 +1,43 @@
+{
+  "id": "2116408225226502487",
+  "permalink": "https://x.com/Memoirs/status/2116408225226502487",
+  "author": {
+    "name": "Machine Learning (ML) Papers",
+    "handle": "@Memoirs",
+    "profile_url": "https://x.com/Memoirs"
+  },
+  "posted_at": "2026-10-31T05:53:36Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**Machine Learning (ML) Papers ([@Memoirs](https://x.com/Memoirs/status/2116408225226502487))** shares *Work Agents: Systems, Capabilities, and Optimization* ([arXiv 2610.35845](https://arxiv.org/abs/2610.35845)), a survey that classifies work agents by persistence and openness and covers model and harness optimization.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.35845",
+      "from_post": "2116408225226502487",
+      "short_url": "https://t.co/qcA76zzlxp",
+      "title": "Work Agents: Systems, Capabilities, and Optimization"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "work-agent",
+    "survey",
+    "harness-optimization"
+  ],
+  "relevance": "Survey of work-agent systems.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV7-EOAWYAADMGG.png",
+      "from_post": "2116408225226502487",
+      "description": "Abstract of the Work Agents survey.",
+      "kind": "paper",
+      "thumbnail": "posts/2026/10/31/2116408225226502487/media/0.webp",
+      "ocr_text": "As foundation models evolve from information generation to digital work execution, agents are increasingly capable of completing complex tasks across tools, applications, and workflows. However, existing research lacks a unified perspective on how agents reliably accomplish delegated work. To address this gap, we present a work-centric, system-level perspective that views work agents as systems combining foundation models and runtime harnesses to execute tasks in stateful workspaces and deliver verifiable outcomes. We introduce two complementary dimensions, work persistence and work openness, to characterize working conditions, and classify digital work into five forms according to task scope and organization. Building on this framework, we identify five core capability families required for reliable work execution and examine approaches to model optimization, harness optimization, and their joint optimization. We further analyze existing evaluation methods and metrics from the perspec"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "id": "2115866431665647720",
+  "permalink": "https://x.com/martin_casado/status/2115866431665647720",
+  "author": {
+    "name": "martin_casado",
+    "handle": "@martin_casado",
+    "profile_url": "https://x.com/martin_casado"
+  },
+  "posted_at": "2026-10-29T18:00:42Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [
+    {
+      "id": "2115871097967243657",
+      "permalink": "https://x.com/martin_casado/status/2115871097967243657",
+      "posted_at": "2026-10-29T18:19:15Z",
+      "position": 1
+    },
+    {
+      "id": "2115871838878470300",
+      "permalink": "https://x.com/martin_casado/status/2115871838878470300",
+      "posted_at": "2026-10-29T18:22:12Z",
+      "position": 2
+    }
+  ],
+  "summary_md": "**martin_casado ([@martin_casado](https://x.com/martin_casado/status/2115866431665647720))** recommends a systems talk on agent harnesses, self-improvement and bitter-lesson alignment, *Self-Improving AI Agents: Exo and the Bitter Lesson* ([YouTube](https://www.youtube.com/watch?v=Jglgg0m8EIs)), with a timestamped link in the reply.",
+  "referenced_urls": [
+    {
+      "url": "https://www.youtube.com/watch?v=Jglgg0m8EIs",
+      "from_post": "2115866431665647720",
+      "short_url": "https://t.co/NcUOA6LlJi",
+      "title": "Self-Improving AI Agents: Exo and the Bitter Lesson | Alex Krentsel"
+    },
+    {
+      "url": "https://www.youtube.com/watch?t=1213&v=Jglgg0m8EIs&feature=youtu.be",
+      "from_post": "2115871838878470300",
+      "short_url": "https://t.co/8pSBgwbkYC",
+      "title": "Self-Improving AI Agents: Exo and the Bitter Lesson | Alex Krentsel"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "exo",
+    "self-improving-agent",
+    "bitter-lesson",
+    "agent-harness",
+    "talk"
+  ],
+  "relevance": "Conceptual grounding for self-improving harness design."
+}

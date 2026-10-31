@@ -1,0 +1,50 @@
+{
+  "id": "2115812784189620265",
+  "permalink": "https://x.com/UnslothAI/status/2115812784189620265",
+  "author": {
+    "name": "Unsloth AI",
+    "handle": "@UnslothAI",
+    "profile_url": "https://x.com/UnslothAI"
+  },
+  "posted_at": "2026-10-29T14:27:32Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**Unsloth AI ([@UnslothAI](https://x.com/UnslothAI/status/2115812784189620265))** says **Le Chonk** (Mistral Large 4, 1T parameters) runs locally on a Mac Studio via its 1-bit dynamic GGUF retaining 91% top-1 accuracy ([GGUF](https://huggingface.co/unsloth/Mistral-Large-4-1T-A52B-GGUF), [guide](https://unsloth.ai/docs/models/mistral-large-4)).",
+  "referenced_urls": [
+    {
+      "url": "https://huggingface.co/unsloth/Mistral-Large-4-1T-A52B-GGUF",
+      "from_post": "2115812784189620265",
+      "short_url": "https://t.co/irNXvfVGNg",
+      "title": "unsloth/Mistral-Large-4-1T-A52B-GGUF · Hugging Face"
+    },
+    {
+      "url": "https://unsloth.ai/docs/models/mistral-large-4",
+      "from_post": "2115812784189620265",
+      "short_url": "https://t.co/StUa0S2XP6",
+      "title": "Mistral Large 4: Run Locally | Unsloth Documentation"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "local-models"
+  ],
+  "keywords": [
+    "mistral-large-4",
+    "le-chonk",
+    "unsloth",
+    "gguf",
+    "1-bit-quantization"
+  ],
+  "relevance": "Extreme quantization brings a 1T model to local hardware.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HVzgfGCbgAA3Q5R.jpg",
+      "from_post": "2115812784189620265",
+      "description": "\"Run Le Chonk Locally\" card with a hardware requirements table per bit width and quantization accuracy plots.",
+      "kind": "chart",
+      "thumbnail": "posts/2026/10/29/2115812784189620265/media/0.webp"
+    }
+  ]
+}

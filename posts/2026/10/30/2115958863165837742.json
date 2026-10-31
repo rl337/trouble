@@ -1,0 +1,36 @@
+{
+  "id": "2115958863165837742",
+  "permalink": "https://x.com/MoyuAI/status/2115958863165837742",
+  "author": {
+    "name": "小鱼学姐",
+    "handle": "@MoyuAI",
+    "profile_url": "https://x.com/MoyuAI"
+  },
+  "posted_at": "2026-10-30T00:08:00Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**小鱼学姐 ([@MoyuAI](https://x.com/MoyuAI/status/2115958863165837742))** recommends **jakubkrehel/skills** (~8.5k stars), UI skills with six-domain review that cites file lines, flags accessibility issues as HIGH, caps at 15 findings and reviews without editing by default ([jakubkrehel/skills](https://github.com/jakubkrehel/skills)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/jakubkrehel/skills",
+      "from_post": "2115958863165837742",
+      "short_url": "https://t.co/gQQtvAof34",
+      "title": "GitHub - jakubkrehel/skills: A collection of agent skills that help you build great interfaces."
+    }
+  ],
+  "hashtags": [
+    "Agent开发",
+    "UI设计",
+    "无障碍"
+  ],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "agent-skill",
+    "ui-review",
+    "accessibility"
+  ],
+  "relevance": "UI quality and accessibility review skill."
+}

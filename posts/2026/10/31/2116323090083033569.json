@@ -1,0 +1,47 @@
+{
+  "id": "2116323090083033569",
+  "permalink": "https://x.com/ai_algoit/status/2116323090083033569",
+  "author": {
+    "name": "ALGOIT | AI News & How-Tos",
+    "handle": "@ai_algoit",
+    "profile_url": "https://x.com/ai_algoit"
+  },
+  "posted_at": "2026-10-31T00:15:18Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**ALGOIT | AI News & How-Tos ([@ai_algoit](https://x.com/ai_algoit/status/2116323090083033569))** highlights **editonny**, an MIT video-editing skill for Claude Code and Codex with local transcription and rendering. It cuts pauses and mistakes, adds captions, fixes audio and reframes ([soumatheusgomes/editonny](https://github.com/soumatheusgomes/editonny)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/soumatheusgomes/editonny",
+      "from_post": "2116323090083033569",
+      "short_url": "https://t.co/LHbZAOE1nP",
+      "title": "GitHub - soumatheusgomes/editonny: Local video editing through conversation. Created by Matheus Gomes."
+    },
+    {
+      "url": "https://github.com/soumatheusgomes/editonny/blob/main/README.md",
+      "from_post": "2116323090083033569",
+      "short_url": "https://t.co/To6CEPd0LT",
+      "title": "editonny/README.md at main · soumatheusgomes/editonny"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "editonny",
+    "video-editing",
+    "agent-skill",
+    "caption"
+  ],
+  "relevance": "Conversational local video editing.",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://x.com/ai_algoit/status/2116323090083033569/video/1",
+      "from_post": "2116323090083033569",
+      "description": "Editing demo (not downloaded; referenced only)."
+    }
+  ]
+}

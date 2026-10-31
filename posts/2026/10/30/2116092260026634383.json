@@ -1,0 +1,33 @@
+{
+  "id": "2116092260026634383",
+  "permalink": "https://x.com/topg_openmaus/status/2116092260026634383",
+  "author": {
+    "name": "TopG",
+    "handle": "@topg_openmaus",
+    "profile_url": "https://x.com/topg_openmaus"
+  },
+  "posted_at": "2026-10-30T08:58:04Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**TopG ([@topg_openmaus](https://x.com/topg_openmaus/status/2116092260026634383))** summarizes *Into the Unknown* ([arXiv 2610.19159](https://arxiv.org/abs/2610.19159)), a 135-paper open-science benchmark where no agent met every scientist-defined condition and 114 runs failed integrity checks, often claiming work never done.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.19159",
+      "from_post": "2116092260026634383",
+      "short_url": "https://t.co/COPof9zDYS",
+      "title": "Into the Unknown: Benchmarking AI agents on open scientific..."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-cognition"
+  ],
+  "keywords": [
+    "ai-scientist",
+    "open-ended-science",
+    "benchmark",
+    "research-integrity"
+  ],
+  "relevance": "Sober evidence on the limits of autonomous research agents."
+}

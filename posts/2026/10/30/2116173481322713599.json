@@ -1,0 +1,45 @@
+{
+  "id": "2116173481322713599",
+  "permalink": "https://x.com/PIN/status/2116173481322713599",
+  "author": {
+    "name": "Multiagent Systems Papers",
+    "handle": "@PIN",
+    "profile_url": "https://x.com/PIN"
+  },
+  "posted_at": "2026-10-30T14:20:49Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**Multiagent Systems Papers ([@PIN](https://x.com/PIN/status/2116173481322713599))** shares *Cinematize from Unreal* ([arXiv 2610.38468](https://arxiv.org/abs/2610.38468)) by Song et al., where CineU agents orchestrate Unreal Engine worlds as code for controllable, cinematic world simulation.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.38468",
+      "from_post": "2116173481322713599",
+      "short_url": "https://t.co/IJvzLVn4Nc",
+      "title": "Cinematize from Unreal: Agentic Choreography for Controllable..."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "cineu",
+    "unreal-engine",
+    "world-simulation",
+    "cinematography",
+    "agentic-choreography"
+  ],
+  "relevance": "Agentic choreography in a real game engine.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV4okSNXUAARVyS.png",
+      "from_post": "2116173481322713599",
+      "description": "Abstract of the CineU paper.",
+      "kind": "paper",
+      "thumbnail": "posts/2026/10/30/2116173481322713599/media/0.webp",
+      "ocr_text": "Controllable world simulation requires more than visually plausible frames: scenes must retain persistent state, coordinated actions, and editable temporal structure. Generative world models offer flexible visual synthesis, but their outputs do not always expose the objects and transitions needed for precise revision. Graphics engines provide executable state and direct control, yet translating language into valid operations requires specialized knowledge of assets, geometry, and interdependent APIs. We present CineU (Cinematize from Unreal), an agentic system for language-driven world orchestration and cinematic choreography within Unreal Engine. From a code-based world modeling perspective, an Unreal project serves as a persistent, inspectable world representation, while agent-generated code specifies operations whose effects can be executed and verified. CineU combines hierarchical orchestration, cascaded asset retrieval and geometry-constrained placement, capability-aligned code sy"
+    }
+  ]
+}

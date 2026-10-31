@@ -1,0 +1,33 @@
+{
+  "id": "2116210497964146710",
+  "permalink": "https://x.com/Qaisermehdii/status/2116210497964146710",
+  "author": {
+    "name": "AIVENTYX",
+    "handle": "@Qaisermehdii",
+    "profile_url": "https://x.com/Qaisermehdii"
+  },
+  "posted_at": "2026-10-30T16:47:54Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**AIVENTYX ([@Qaisermehdii](https://x.com/Qaisermehdii/status/2116210497964146710))** benchmarks a 7B model on vLLM: at equal load an RTX 3090 is cheaper ($0.082 vs $0.106 per 1M tokens at 64 concurrent), but at equal 6–7 s latency an A100 is about 4.6× cheaper ([data](https://github.com/qaisermehdi3-coder/qvunex/tree/main/benchmarks/data/planb-a100-2026-10-29)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/qaisermehdi3-coder/qvunex/tree/main/benchmarks/data/planb-a100-2026-10-29",
+      "from_post": "2116210497964146710",
+      "short_url": "https://t.co/BzINjZalaV"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "local-models"
+  ],
+  "keywords": [
+    "vllm",
+    "rtx-3090",
+    "a100",
+    "inference-cost",
+    "7b-model"
+  ],
+  "relevance": "Cost/latency tradeoff data for local serving."
+}

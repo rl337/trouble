@@ -1,0 +1,49 @@
+{
+  "id": "2116090775905894657",
+  "permalink": "https://x.com/meshedonions/status/2116090775905894657",
+  "author": {
+    "name": "Ezaz",
+    "handle": "@meshedonions",
+    "profile_url": "https://x.com/meshedonions"
+  },
+  "posted_at": "2026-10-30T08:52:10Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [
+    {
+      "id": "2116110650531524663",
+      "permalink": "https://x.com/meshedonions/status/2116110650531524663",
+      "posted_at": "2026-10-30T10:11:09Z",
+      "position": 1
+    }
+  ],
+  "summary_md": "**Ezaz ([@meshedonions](https://x.com/meshedonions/status/2116090775905894657))** built a tiny 3D diorama of a Maut ka Kuan (Indian fair 'well of death') with Claude Code plus a diorama skill, crediting the skill's author in a follow-up ([sloemo01/diorama](https://github.com/sloemo01/diorama)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/sloemo01/diorama",
+      "from_post": "2116090775905894657",
+      "short_url": "https://t.co/PgRbE7OeUB",
+      "title": "GitHub - sloemo01/diorama: Pixel-art diorama playbook and Three.js code kit: research-first build workflow, locked camera, palette snap, ordered dither, inked contour, animated toy-scale cast, per-entity frame QA."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "diorama",
+    "three.js",
+    "claude-code",
+    "agent-skill",
+    "3d-scene"
+  ],
+  "relevance": "Agent skill for 3D scene building with Three.js.",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://x.com/meshedonions/status/2116090775905894657/video/1",
+      "from_post": "2116090775905894657",
+      "description": "Rotating 3D diorama of the motorcycle well (not downloaded; referenced only)."
+    }
+  ]
+}

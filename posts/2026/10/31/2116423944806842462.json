@@ -1,0 +1,34 @@
+{
+  "id": "2116423944806842462",
+  "permalink": "https://x.com/jreuben1/status/2116423944806842462",
+  "author": {
+    "name": "(((JReuben1)))",
+    "handle": "@jreuben1",
+    "profile_url": "https://x.com/jreuben1"
+  },
+  "posted_at": "2026-10-31T06:56:04Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**(((JReuben1))) ([@jreuben1](https://x.com/jreuben1/status/2116423944806842462))** shares **Xolotl**, a fork of Strata-DSV4.1 that runs all 552B of DeepSeek-V4.1-Flash as a local coding agent on an RTX 4090 with 90 GB RAM at up to about 27 tok/s and 512K context. MoE experts are tiered across VRAM, RAM and NVMe, and it also supports GLM-5.3-Flash and Qwen3.8 ([Indras-Mirror/Xolotl](https://github.com/Indras-Mirror/Xolotl)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/Indras-Mirror/Xolotl",
+      "from_post": "2116423944806842462",
+      "short_url": "https://t.co/ImoEdOlFYX",
+      "title": "GitHub - Indras-Mirror/Xolotl: Xolotl (formerly Strata-DSV4.1): run DeepSeek-V4.1-Flash, all 552B, as a local coding agent on one gaming PC (RTX 4090 + 90 GB RAM) at up to ~27 tok/s, 512K context, October 1017 builds included. Plus GLM-5.3-Flash and Qwen3.8. MoE experts tiered across VRAM, pinned RA"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "local-models"
+  ],
+  "keywords": [
+    "xolotl",
+    "strata",
+    "deepseek-v4.1-flash",
+    "moe-offloading",
+    "nvme"
+  ],
+  "relevance": "Frontier MoE on one PC."
+}

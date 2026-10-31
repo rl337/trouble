@@ -1,0 +1,34 @@
+{
+  "id": "2115814882776117472",
+  "permalink": "https://x.com/it_works_123/status/2115814882776117472",
+  "author": {
+    "name": "it_works",
+    "handle": "@it_works_123",
+    "profile_url": "https://x.com/it_works_123"
+  },
+  "posted_at": "2026-10-29T14:35:52Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**it_works ([@it_works_123](https://x.com/it_works_123/status/2115814882776117472))** points Mac users to **Magnitude**, an Apache-2.0 inference engine that compiles kernels tuned to your chip, claims about 2.7× faster decode than Ollama on MacBooks and plugs into Claude Code and Codex, noting the claim is not yet independently verified ([magnitudedev/magnitude](https://github.com/magnitudedev/magnitude)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/magnitudedev/magnitude",
+      "from_post": "2115814882776117472",
+      "short_url": "https://t.co/T0vztcGr7G",
+      "title": "GitHub - magnitudedev/magnitude: Open source inference engine that tunes its kernels on your hardware to find the fastest way to run each model. 2x faster than Ollama. Works on Apple Silicon, NVIDIA, AMD, Intel, or just a CPU."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "local-models"
+  ],
+  "keywords": [
+    "magnitude",
+    "inference-engine",
+    "kernel-tuning",
+    "apple-silicon",
+    "ollama"
+  ],
+  "relevance": "Hardware-tuned local inference engine for agent backends."
+}

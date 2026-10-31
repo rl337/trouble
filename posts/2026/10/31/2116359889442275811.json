@@ -1,0 +1,33 @@
+{
+  "id": "2116359889442275811",
+  "permalink": "https://x.com/Manojkumar2257/status/2116359889442275811",
+  "author": {
+    "name": "Manoj | The AI Dude",
+    "handle": "@Manojkumar2257",
+    "profile_url": "https://x.com/Manojkumar2257"
+  },
+  "posted_at": "2026-10-31T02:41:32Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**Manoj | The AI Dude ([@Manojkumar2257](https://x.com/Manojkumar2257/status/2116359889442275811))** shares **YouTube-AI-Motion-Graphics**, which gives Claude Code 74 HTML explainer boards (charts, funnels, timelines, graphs) synced word by word to a Whisper transcript and exported to MP4 ([sirioberati/YouTube-AI-Motion-Graphics](https://github.com/sirioberati/YouTube-AI-Motion-Graphics)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/sirioberati/YouTube-AI-Motion-Graphics",
+      "from_post": "2116359889442275811",
+      "short_url": "https://t.co/kApoG3D01w",
+      "title": "GitHub - sirioberati/YouTube-AI-Motion-Graphics: AI motion graphics for YouTube explainer videos: 74 animated HTML explainer boards (charts, diagrams, Venn, timeline, heatmap) synced to your voice with Whisper, exported frame by frame with Chrome + FFmpeg. Every prompt + Claude skills. By TEIN AI."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "motion-graphic",
+    "explainer-video",
+    "whisper",
+    "agent-skill"
+  ],
+  "relevance": "Agent-driven motion graphics."
+}

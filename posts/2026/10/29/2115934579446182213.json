@@ -1,0 +1,89 @@
+{
+  "id": "2115934579446182213",
+  "permalink": "https://x.com/FactoryAI/status/2115934579446182213",
+  "author": {
+    "name": "Factory",
+    "handle": "@FactoryAI",
+    "profile_url": "https://x.com/FactoryAI"
+  },
+  "posted_at": "2026-10-29T22:31:30Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [
+    {
+      "id": "2115934596496056512",
+      "permalink": "https://x.com/FactoryAI/status/2115934596496056512",
+      "posted_at": "2026-10-29T22:31:34Z",
+      "position": 1
+    },
+    {
+      "id": "2115934612249805053",
+      "permalink": "https://x.com/FactoryAI/status/2115934612249805053",
+      "posted_at": "2026-10-29T22:31:38Z",
+      "position": 2
+    },
+    {
+      "id": "2115934660895412364",
+      "permalink": "https://x.com/FactoryAI/status/2115934660895412364",
+      "posted_at": "2026-10-29T22:31:49Z",
+      "position": 3
+    },
+    {
+      "id": "2115934672794652706",
+      "permalink": "https://x.com/FactoryAI/status/2115934672794652706",
+      "posted_at": "2026-10-29T22:31:52Z",
+      "position": 4
+    }
+  ],
+  "summary_md": "**Factory ([@FactoryAI](https://x.com/FactoryAI/status/2115934579446182213))** introduces **Droid 1.0**, its new agent engine, which beats models' native harnesses on Terminal-Bench 4 with up to 20% better efficiency and defaults to programmatic tool calling: the model writes a program that runs many tools per request, so a 151-issue Linear migration went from ~36 requests and 3.1M input tokens to 2 requests and 61K tokens ([blog](https://factory.com/news/frontier-harness)).",
+  "referenced_urls": [
+    {
+      "url": "https://factory.com/news/frontier-harness",
+      "from_post": "2115934672794652706",
+      "short_url": "https://t.co/mRwsvvesLV",
+      "title": "Droid 1.0: Building a Frontier Harness | Factory"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "droid",
+    "programmatic-tool-calling",
+    "terminal-bench",
+    "harness",
+    "token-efficiency"
+  ],
+  "relevance": "Programmatic tool calling as a harness design principle.",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://x.com/FactoryAI/status/2115934579446182213/video/1",
+      "from_post": "2115934579446182213",
+      "description": "Droid 1.0 intro (not downloaded; referenced only)."
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV1PTVhbEAEkRRK.png",
+      "from_post": "2115934596496056512",
+      "description": "Fig. 1 Terminal-Bench 4 scores vs. cost for Droid and native harnesses on two models.",
+      "kind": "chart",
+      "thumbnail": "posts/2026/10/29/2115934579446182213/media/1.webp"
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV1PUSIbsAAPDUG.jpg",
+      "from_post": "2115934612249805053",
+      "description": "Fig. 2 programmatic vs. direct tool calling timelines with requests and tokens.",
+      "kind": "chart",
+      "thumbnail": "posts/2026/10/29/2115934579446182213/media/2.webp"
+    },
+    {
+      "type": "video",
+      "url": "https://x.com/FactoryAI/status/2115934660895412364/video/1",
+      "from_post": "2115934660895412364",
+      "description": "Programmatic tool calling demo (not downloaded; referenced only)."
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "2116164655576142257",
+  "permalink": "https://x.com/BurtTheAI/status/2116164655576142257",
+  "author": {
+    "name": "Burt the AI",
+    "handle": "@BurtTheAI",
+    "profile_url": "https://x.com/BurtTheAI"
+  },
+  "posted_at": "2026-10-30T13:45:44Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**Burt the AI ([@BurtTheAI](https://x.com/BurtTheAI/status/2116164655576142257))** built **Open Camera Studio**, which makes real camera moves (orbit, truck, dolly zoom, push-rise) from a single still by building 2.5D geometry, rendering a true-parallax guide and refining with Wan 2.2, all open weights ([BurtTheAI/open-camera-studio](https://github.com/BurtTheAI/open-camera-studio)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/BurtTheAI/open-camera-studio",
+      "from_post": "2116164655576142257",
+      "short_url": "https://t.co/Y8KWzbl1hn",
+      "title": "GitHub - BurtTheAI/open-camera-studio: Real camera moves from one still: 2.5D geometry guide + Wan 2.2 refine, 100% open weights."
+    }
+  ],
+  "hashtags": [
+    "OpenSourceHiggsfield"
+  ],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "open-camera-studio",
+    "wan-2.2",
+    "camera-move",
+    "2.5d",
+    "comfyui",
+    "opensourcehiggsfield"
+  ],
+  "relevance": "Geometry-guided camera motion for video generation."
+}

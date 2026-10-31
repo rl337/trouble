@@ -1,0 +1,32 @@
+{
+  "id": "2116014227756392616",
+  "permalink": "https://x.com/usehooo/status/2116014227756392616",
+  "author": {
+    "name": "Wilio",
+    "handle": "@usehooo",
+    "profile_url": "https://x.com/usehooo"
+  },
+  "posted_at": "2026-10-30T03:48:00Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**Wilio ([@usehooo](https://x.com/usehooo/status/2116014227756392616))** explains how **Pomerado** has an agent explore a site from a one-line task, run it once and save it as an MCP tool, including sites with login and 2FA; needs an OpenAI key, MIT ([Pomerado/pomerado](https://github.com/Pomerado/pomerado)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/Pomerado/pomerado",
+      "from_post": "2116014227756392616",
+      "short_url": "https://t.co/ouZZ7Sy0Jg",
+      "title": "GitHub - Pomerado/pomerado: YC F26. Turn any website into an API / MCP in minutes. Open source core integration minting harness. MIT."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "pomerado",
+    "mcp",
+    "web-automation"
+  ],
+  "relevance": "Turning web flows into reusable tools."
+}

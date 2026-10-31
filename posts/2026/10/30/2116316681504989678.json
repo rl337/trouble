@@ -1,0 +1,34 @@
+{
+  "id": "2116316681504989678",
+  "permalink": "https://x.com/Z3nlyte/status/2116316681504989678",
+  "author": {
+    "name": "Zenlyte",
+    "handle": "@Z3nlyte",
+    "profile_url": "https://x.com/Z3nlyte"
+  },
+  "posted_at": "2026-10-30T23:49:50Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**Zenlyte ([@Z3nlyte](https://x.com/Z3nlyte/status/2116316681504989678))** highlights Microsoft's **Mage-VL-Cowork**, a 4B Apache-2.0 computer-use model that decides each turn whether to click the GUI or run terminal code. It scores 66.0% on OSWorld-Verified at 50 steps, and weights plus the training recipe are released ([microsoft/Mage-VL-Cowork](https://huggingface.co/microsoft/Mage-VL-Cowork)).",
+  "referenced_urls": [
+    {
+      "url": "https://huggingface.co/microsoft/Mage-VL-Cowork",
+      "from_post": "2116316681504989678",
+      "short_url": "https://t.co/NbNEibuhVA",
+      "title": "microsoft/Mage-VL-Cowork · Hugging Face"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "local-models",
+    "harness-dev"
+  ],
+  "keywords": [
+    "mage-vl-cowork",
+    "computer-use",
+    "osworld",
+    "small-model"
+  ],
+  "relevance": "Small local computer-use model."
+}

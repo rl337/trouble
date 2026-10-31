@@ -1,0 +1,40 @@
+{
+  "id": "2116095637939011724",
+  "permalink": "https://x.com/JiegangLi99856/status/2116095637939011724",
+  "author": {
+    "name": "goose",
+    "handle": "@JiegangLi99856",
+    "profile_url": "https://x.com/JiegangLi99856"
+  },
+  "posted_at": "2026-10-30T09:11:29Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**goose ([@JiegangLi99856](https://x.com/JiegangLi99856/status/2116095637939011724))** pairs two papers: *Representing the Unseen* ([arXiv 2610.37437](https://arxiv.org/abs/2610.37437)), showing accurate RGB from a world model is not always the best 'imagination interface' versus depth, panorama or top-down geometry, and *Swarm Telepathy* ([arXiv 2610.15095](https://arxiv.org/abs/2610.15095)), where passing KV-cache between agents beats text summaries by about 40% accuracy and 4× speed; the poster muses that models may evolve their own communication protocols.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.37437",
+      "from_post": "2116095637939011724",
+      "short_url": "https://t.co/1K6noIFQPC",
+      "title": "Representing the Unseen: Rethinking Visual Imagination for Spatial..."
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.15095",
+      "from_post": "2116095637939011724",
+      "short_url": "https://t.co/7BBTM0xXTJ"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-cognition"
+  ],
+  "keywords": [
+    "imagirep",
+    "swarm-telepathy",
+    "kv-cache",
+    "spatial-reasoning",
+    "world-model",
+    "latent-communication"
+  ],
+  "relevance": "Latent communication and imagination representations in agent cognition."
+}

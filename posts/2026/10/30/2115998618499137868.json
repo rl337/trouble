@@ -1,0 +1,34 @@
+{
+  "id": "2115998618499137868",
+  "permalink": "https://x.com/NyxOfErebos/status/2115998618499137868",
+  "author": {
+    "name": "Nyx",
+    "handle": "@NyxOfErebos",
+    "profile_url": "https://x.com/NyxOfErebos"
+  },
+  "posted_at": "2026-10-30T02:45:58Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**Nyx ([@NyxOfErebos](https://x.com/NyxOfErebos/status/2115998618499137868))** takes from **GEPA-Curator** ([arXiv 2610.37651](https://arxiv.org/abs/2610.37651)) that failures should be diagnosed (broken tool, noisy judge) before becoming standing prompt rules, since more reflection can preserve the wrong lesson.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.37651",
+      "from_post": "2115998618499137868",
+      "short_url": "https://t.co/F4rkh5uXpi",
+      "title": "GEPA-Curator: Curated Learning for Self Improving Agents"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev",
+    "agentic-cognition"
+  ],
+  "keywords": [
+    "gepa-curator",
+    "self-improving-agent",
+    "reflection",
+    "prompt-optimization"
+  ],
+  "relevance": "Curating self-improvement lessons."
+}

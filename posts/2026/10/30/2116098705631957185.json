@@ -1,0 +1,33 @@
+{
+  "id": "2116098705631957185",
+  "permalink": "https://x.com/tomaarsen/status/2116098705631957185",
+  "author": {
+    "name": "tomaarsen",
+    "handle": "@tomaarsen",
+    "profile_url": "https://x.com/tomaarsen"
+  },
+  "posted_at": "2026-10-30T09:23:41Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**tomaarsen ([@tomaarsen](https://x.com/tomaarsen/status/2116098705631957185))** points to Baseten's latest open-weight **Decision** model, joey-1, a 2B MIT-licensed model on Hugging Face ([baselabs/joey-1](https://huggingface.co/baselabs/joey-1)).",
+  "referenced_urls": [
+    {
+      "url": "https://huggingface.co/baselabs/joey-1",
+      "from_post": "2116098705631957185",
+      "short_url": "https://t.co/03Ut5a2D0u",
+      "title": "baselabs/joey-1 · Hugging Face"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "local-models"
+  ],
+  "keywords": [
+    "joey-1",
+    "baseten",
+    "small-model",
+    "open-weight"
+  ],
+  "relevance": "Small commercially usable open model for local agent routing/decisions."
+}

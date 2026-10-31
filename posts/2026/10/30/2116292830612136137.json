@@ -1,0 +1,52 @@
+{
+  "id": "2116292830612136137",
+  "permalink": "https://x.com/ctxzz/status/2116292830612136137",
+  "author": {
+    "name": "atom",
+    "handle": "@ctxzz",
+    "profile_url": "https://x.com/ctxzz"
+  },
+  "posted_at": "2026-10-30T22:15:04Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**atom ([@ctxzz](https://x.com/ctxzz/status/2116292830612136137))** summarizes *FluidGen* ([arXiv 2610.25660](https://arxiv.org/abs/2610.25660)), which adds a head to Wan2.1-I2V-14B predicting per-pixel 3D velocity alongside RGB and post-trains on simulated and real footage for physically plausible smoke, fire and explosions.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.25660",
+      "from_post": "2116292830612136137",
+      "short_url": "https://t.co/vxJaDLzmd7",
+      "title": "FluidGen: Physics-Aware Fluid Video Generation via Motion-Guided..."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "fluidgen",
+    "wan2.1",
+    "fluid-simulation",
+    "video-generation",
+    "vfx"
+  ],
+  "relevance": "Physics-aware VFX generation.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV6VHWZXAAEhkSC.jpg",
+      "from_post": "2116292830612136137",
+      "description": "FluidGen pipeline: dual-head diffusion, joint fine-tuning and DPO post-training.",
+      "kind": "diagram",
+      "thumbnail": "posts/2026/10/30/2116292830612136137/media/0.webp"
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV6VHVoWYAAMIb2.jpg",
+      "from_post": "2116292830612136137",
+      "description": "Comparison of fire/smoke frames: Wan2.1, FluidGen without DPO and full FluidGen.",
+      "kind": "photo",
+      "thumbnail": "posts/2026/10/30/2116292830612136137/media/1.webp"
+    }
+  ]
+}

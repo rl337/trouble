@@ -1,0 +1,34 @@
+{
+  "id": "2116333919406887406",
+  "permalink": "https://x.com/FreedEngineer/status/2116333919406887406",
+  "author": {
+    "name": "Freedom Engineering",
+    "handle": "@FreedEngineer",
+    "profile_url": "https://x.com/FreedEngineer"
+  },
+  "posted_at": "2026-10-31T00:58:20Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**Freedom Engineering ([@FreedEngineer](https://x.com/FreedEngineer/status/2116333919406887406))** tested **Huihui Ornith 1.5 35B-A3B** with concurrency 2 and 256K context on one DGX Spark. It works well with the DeepSeek harness for batch image and video generation across two Sparks ([huihui-ai/Huihui-Ornith-1.5-35B-A3B-abliterated](https://huggingface.co/huihui-ai/Huihui-Ornith-1.5-35B-A3B-abliterated)).",
+  "referenced_urls": [
+    {
+      "url": "https://huggingface.co/huihui-ai/Huihui-Ornith-1.5-35B-A3B-abliterated",
+      "from_post": "2116333919406887406",
+      "short_url": "https://t.co/UxOwzz6fd6",
+      "title": "huihui-ai/Huihui-Ornith-1.5-35B-A3B-abliterated · Hugging Face"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "local-models",
+    "agentic-media"
+  ],
+  "keywords": [
+    "ornith-1.5",
+    "dgx-spark",
+    "moe",
+    "batch-generation"
+  ],
+  "relevance": "Real DGX Spark media-agent setup."
+}

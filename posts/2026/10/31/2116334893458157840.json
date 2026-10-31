@@ -1,0 +1,49 @@
+{
+  "id": "2116334893458157840",
+  "permalink": "https://x.com/vincieye/status/2116334893458157840",
+  "author": {
+    "name": "VinciEye",
+    "handle": "@vincieye",
+    "profile_url": "https://x.com/vincieye"
+  },
+  "posted_at": "2026-10-31T01:02:12Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**VinciEye ([@vincieye](https://x.com/vincieye/status/2116334893458157840))** shares NVIDIA's *LucidLyra* ([arXiv 2610.40495](https://arxiv.org/abs/2610.40495v1), [project](https://research.nvidia.com/labs/sil/projects/lucidlyra)). It distills video diffusion into feed-forward 3D Gaussians from a single view that also answer open-vocabulary queries without fine-tuning.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.40495v1",
+      "from_post": "2116334893458157840",
+      "short_url": "https://t.co/AfgrvVLtma",
+      "title": "LucidLyra: Feed-Forward Generative 3D Scene Reconstruction and..."
+    },
+    {
+      "url": "https://research.nvidia.com/labs/sil/projects/lucidlyra",
+      "from_post": "2116334893458157840",
+      "short_url": "https://t.co/PYuySuIUv1"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "lucidlyra",
+    "3d-gaussian-splatting",
+    "3d-reconstruction",
+    "video-diffusion"
+  ],
+  "relevance": "Single-image 3D scene generation with semantics.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV67W62XAAAztyG.jpg",
+      "from_post": "2116334893458157840",
+      "description": "LucidLyra paper first page with teaser grid.",
+      "kind": "paper",
+      "thumbnail": "posts/2026/10/31/2116334893458157840/media/0.webp",
+      "ocr_text": "nVIDIA.\n2026-10-30\nLucidLyra: Feed-Forward Generative 3D Scene\nReconstruction and Joint Understanding via Multi-Task\nDistillation\nOliver Hahnl,2 Rodrigo Marcuzzil Sangeetha Grama Srinivasan'\nAlessandro Burziol,3 Sherwin Bahmanit Jiahui Huang\nStefan Roth2,4,5 Shengyu Huang' Qunjie Zhoul Laura Leal-Taixel\nINVIDIA2TUDarmstadt\n3Universita degli Studi di Modena e Reggio Emilia\n4ELIZA5hessian.AI*Work performed while at NVIDIA\nhttps://research.nvidia.com/labs/sil/projects/lucidlyra\nSingle Image-to-3DSceneGeneration\nInput Image\n3DGSRGBRenderings\n3DGS Segmentation (Open-Voc./lnstance)\nTowards Simulation-ReadyGenerative3DScenes\nOpen-Voc.\nInstance\nInputImage\nSegmentation\nSegmentation\nLucidLyra3DGSScene\nSimulation\n3D Asset Mining\nFigurel:Feed-forward semantic-and instance-awareimage-to-3D scenegeneration.Top:LucidLyrainfers\na unified 3D Gaussian Splatting (3DGS) representation consisting of appearance, geometry, semantic, and\ninstance features from a single image. The learned feature fields enable open-vocabulary semantic segmentation\nand instance segmentation. Bottom: LucidLyra enables downstream applications such as physical-AI simulation,\nediting, and 3D asset mining.\n 2026 NVIDIA.All rights reserved."
+    }
+  ]
+}

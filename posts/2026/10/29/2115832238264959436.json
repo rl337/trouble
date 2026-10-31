@@ -1,0 +1,53 @@
+{
+  "id": "2115832238264959436",
+  "permalink": "https://x.com/hasegaw/status/2115832238264959436",
+  "author": {
+    "name": "もつなべおじさん",
+    "handle": "@hasegaw",
+    "profile_url": "https://x.com/hasegaw"
+  },
+  "posted_at": "2026-10-29T15:44:50Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [
+    {
+      "id": "2115833322681389504",
+      "permalink": "https://x.com/hasegaw/status/2115833322681389504",
+      "posted_at": "2026-10-29T15:49:09Z",
+      "position": 1
+    },
+    {
+      "id": "2115834342287237514",
+      "permalink": "https://x.com/hasegaw/status/2115834342287237514",
+      "posted_at": "2026-10-29T15:53:12Z",
+      "position": 2
+    }
+  ],
+  "summary_md": "**もつなべおじさん ([@hasegaw](https://x.com/hasegaw/status/2115832238264959436))** flags aggressive telemetry in **blender-mcp**, pointing to an issue and the telemetry source, which even includes screenshot sending (off by default) yet fires telemetry more than necessary ([issue #275](https://github.com/ahujasid/mcp-for-blender/issues/275), [telemetry.py](https://github.com/ahujasid/mcp-for-blender/blob/992233bb258975a05eec8b5691465c50c2831e34/src/blender_mcp/telemetry.py#L)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/ahujasid/mcp-for-blender/issues/275",
+      "from_post": "2115832238264959436",
+      "short_url": "https://t.co/CR9LPboQxm",
+      "title": "Server initialization causes \"context deadline exceeded\" in Antigravity (and other MCP clients) if Blender is not running · Issue #275 · ahujasid/mcp-for-blender"
+    },
+    {
+      "url": "https://github.com/ahujasid/mcp-for-blender/blob/992233bb258975a05eec8b5691465c50c2831e34/src/blender_mcp/telemetry.py#L325",
+      "from_post": "2115833322681389504",
+      "short_url": "https://t.co/5YigUM4ktk",
+      "title": "mcp-for-blender/src/blender_mcp/telemetry.py at 992233bb258975a05eec8b5691465c50c2831e34 · ahujasid/mcp-for-blender"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "blender-mcp",
+    "telemetry",
+    "privacy",
+    "mcp",
+    "blender"
+  ],
+  "relevance": "Privacy caveat for a popular 3D MCP server."
+}

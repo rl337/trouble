@@ -1,0 +1,34 @@
+{
+  "id": "2116085950564462637",
+  "permalink": "https://x.com/3three_AI/status/2116085950564462637",
+  "author": {
+    "name": "三个三",
+    "handle": "@3three_AI",
+    "profile_url": "https://x.com/3three_AI"
+  },
+  "posted_at": "2026-10-30T08:33:00Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**三个三 ([@3three_AI](https://x.com/3three_AI/status/2116085950564462637))** shares a Japanese open-source **manga-generator** for Codex that turns a novel into a manga PDF end to end (script, panels, images, lettering, layout) using ready-made prompts and only Codex subscription credits ([stockedge/manga-generator](https://github.com/stockedge/manga-generator)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/stockedge/manga-generator",
+      "from_post": "2116085950564462637",
+      "short_url": "https://t.co/M52ZKnrWuj",
+      "title": "GitHub - stockedge/manga-generator: 原作から脚本・画像生成・組版・PDF出力まで進める、Codex向け漫画制作ツール"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "manga-generator",
+    "codex",
+    "manga",
+    "comic",
+    "storyboard"
+  ],
+  "relevance": "Full agentic comic-production pipeline."
+}

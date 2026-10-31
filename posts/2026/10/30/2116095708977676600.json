@@ -1,0 +1,44 @@
+{
+  "id": "2116095708977676600",
+  "permalink": "https://x.com/SciFi/status/2116095708977676600",
+  "author": {
+    "name": "Artificial Intelligence Papers",
+    "handle": "@SciFi",
+    "profile_url": "https://x.com/SciFi"
+  },
+  "posted_at": "2026-10-30T09:11:46Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**Artificial Intelligence Papers ([@SciFi](https://x.com/SciFi/status/2116095708977676600))** shares *From Solver Trajectories to Teaching Trajectories* ([arXiv 2610.36445](https://arxiv.org/abs/2610.36445)) by Luo et al., proposing CARD, an RL framework that rewrites raw reasoning-model traces into teaching trajectories suited to smaller students.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.36445",
+      "from_post": "2116095708977676600",
+      "short_url": "https://t.co/cfJPUtKsBo",
+      "title": "From Solver Trajectories to Teaching Trajectories:..."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-cognition"
+  ],
+  "keywords": [
+    "card",
+    "reasoning-distillation",
+    "large-reasoning-model",
+    "teaching-trajectory"
+  ],
+  "relevance": "Better distillation of reasoning into small local models.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV3h1WnXoAA21hY.png",
+      "from_post": "2116095708977676600",
+      "description": "Abstract of the CARD paper.",
+      "kind": "paper",
+      "thumbnail": "posts/2026/10/30/2116095708977676600/media/0.webp",
+      "ocr_text": "Knowledge distillation from large reasoning models (LRMs) often uses raw teacher trajectories as supervision. However, this practice creates a mismatch between the goal of distillation and the nature of teacher trajectories. Advanced LRMs typically improve their reasoning capabilities through reward-driven post-training, such as RLHF. This training optimizes them as strong solvers, rather than as teachers that produce reasoning processes smaller models can easily learn. Since smaller models have different \"cognitive capacities\" compared to their larger teachers, directly imitating raw teacher trajectories can sometimes be ineffective and often requires a substantial number of high-quality samples. To bridge this mismatch, we propose Cognition-Aligned Reasoning Distillation (CARD), an RL-based framework that transforms solver trajectories into teaching trajectories aligned with the student's cognition. Avoiding expensive resampling, our framework directly transforms existing trajectorie"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "2115709867696783372",
+  "permalink": "https://x.com/Manojkumar2257/status/2115709867696783372",
+  "author": {
+    "name": "Manoj | The AI Dude",
+    "handle": "@Manojkumar2257",
+    "profile_url": "https://x.com/Manojkumar2257"
+  },
+  "posted_at": "2026-10-29T07:38:35Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**Manoj | The AI Dude ([@Manojkumar2257](https://x.com/Manojkumar2257/status/2115709867696783372))** points to **herk-edit-kit**, an MIT video-editing kit for Claude Code and Codex with 15 mirrored skills for silence cutting, mistake detection, transcript retiming, EDL review, and a raw-recording-to-9:16-reel workflow with captions, B-roll and HyperFrames motion-graphics cards ([nateherkai/herk-edit-kit](https://github.com/nateherkai/herk-edit-kit)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/nateherkai/herk-edit-kit",
+      "from_post": "2115709867696783372",
+      "short_url": "https://t.co/PjmAnJ9PKN",
+      "title": "GitHub - nateherkai/herk-edit-kit: Herk Edit Kit by Nate Herk: edit videos, reels, and YouTube Shorts with Codex or Claude Code. 15 skills, transcript-driven cuts, storytelling, 406 motion-graphics cards, and HyperFrames templates."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-media",
+    "harness-dev"
+  ],
+  "keywords": [
+    "herk-edit-kit",
+    "video-editing",
+    "claude-code",
+    "codex",
+    "agent-skill",
+    "ffmpeg",
+    "hyperframes"
+  ],
+  "relevance": "Agent skills that turn coding agents into video editors."
+}

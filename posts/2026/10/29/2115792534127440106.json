@@ -1,0 +1,52 @@
+{
+  "id": "2115792534127440106",
+  "permalink": "https://x.com/IterAdInfinitum/status/2115792534127440106",
+  "author": {
+    "name": "IAI",
+    "handle": "@IterAdInfinitum",
+    "profile_url": "https://x.com/IterAdInfinitum"
+  },
+  "posted_at": "2026-10-29T13:07:04Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [
+    {
+      "id": "2115846408808837247",
+      "permalink": "https://x.com/IterAdInfinitum/status/2115846408808837247",
+      "posted_at": "2026-10-29T16:41:09Z",
+      "position": 1
+    }
+  ],
+  "summary_md": "**IAI ([@IterAdInfinitum](https://x.com/IterAdInfinitum/status/2115792534127440106))** introduces **Spindle**, an open-source, bring-your-own-model agent that runs as a Chrome extension, with a marketing video Claude made from a real session; a follow-up corrects the download link ([Spindle for Browser](https://siliconstate.github.io/Spindle/browser/), [source](https://github.com/SiliconState/Spindle/tree/main/spindle/chrome)).",
+  "referenced_urls": [
+    {
+      "url": "https://siliconstate.github.io/Spindle/Browser",
+      "from_post": "2115792534127440106",
+      "short_url": "https://t.co/F7gee9gOsC"
+    },
+    {
+      "url": "https://github.com/SiliconState/Spindle/tree/main/spindle/chrome",
+      "from_post": "2115792534127440106",
+      "short_url": "https://t.co/k8vst5tOHv"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "spindle",
+    "browser-agent",
+    "chrome-extension",
+    "byo-model"
+  ],
+  "relevance": "Browser-resident agent with BYO model.",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://x.com/IterAdInfinitum/status/2115792534127440106/video/1",
+      "from_post": "2115792534127440106",
+      "description": "Marketing video Claude made from a Spindle session (not downloaded; referenced only)."
+    }
+  ]
+}

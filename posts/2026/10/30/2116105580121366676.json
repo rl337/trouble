@@ -1,0 +1,37 @@
+{
+  "id": "2116105580121366676",
+  "permalink": "https://x.com/cv_usk/status/2116105580121366676",
+  "author": {
+    "name": "cv usk",
+    "handle": "@cv_usk",
+    "profile_url": "https://x.com/cv_usk"
+  },
+  "posted_at": "2026-10-30T09:51:00Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**cv usk ([@cv_usk](https://x.com/cv_usk/status/2116105580121366676))** explains *StreamVibe* ([arXiv 2610.34662](https://arxiv.org/pdf/2610.34662)), proactive video agents for explicit, implicit and changing intent, with a 4,100-sample benchmark, SFT plus trajectory-level GRPO that cuts false triggers, and a harness tracking active intents that lifts dynamic F1 from about 59 to 66.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/pdf/2610.34662",
+      "from_post": "2116105580121366676",
+      "short_url": "https://t.co/q05rJMN8kS"
+    }
+  ],
+  "hashtags": [
+    "VideoAgents",
+    "VLM"
+  ],
+  "topics": [
+    "agentic-cognition",
+    "agentic-media"
+  ],
+  "keywords": [
+    "streamvibe",
+    "video-agent",
+    "proactive-agent",
+    "grpo",
+    "user-intent"
+  ],
+  "relevance": "Proactive agents over live video with a dedicated harness."
+}

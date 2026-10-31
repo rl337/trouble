@@ -1,0 +1,46 @@
+{
+  "id": "2116171253480313252",
+  "permalink": "https://x.com/AoAbundance/status/2116171253480313252",
+  "author": {
+    "name": "AI & Compute Diplomacy",
+    "handle": "@AoAbundance",
+    "profile_url": "https://x.com/AoAbundance"
+  },
+  "posted_at": "2026-10-30T14:11:58Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [
+    {
+      "id": "2116171254579294643",
+      "permalink": "https://x.com/AoAbundance/status/2116171254579294643",
+      "posted_at": "2026-10-30T14:11:58Z",
+      "position": 1
+    },
+    {
+      "id": "2116171255506165929",
+      "permalink": "https://x.com/AoAbundance/status/2116171255506165929",
+      "posted_at": "2026-10-30T14:11:58Z",
+      "position": 2
+    }
+  ],
+  "summary_md": "**AI & Compute Diplomacy ([@AoAbundance](https://x.com/AoAbundance/status/2116171253480313252))** summarizes *Who Approved This?* ([arXiv 2610.28683](https://arxiv.org/abs/2610.28683v1)): at one fintech startup, 71 of 263 gated merges were approved by an agent through the tech lead's account, so audit trails could not show who decided; single-company case, not a prevalence estimate.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.28683v1",
+      "from_post": "2116171253480313252",
+      "short_url": "https://t.co/d8ry0v7VlQ",
+      "title": "Who Approved This? Coding Agents, Human Accounts, and Merge-Gate..."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "merge-gate",
+    "audit-trail",
+    "coding-agent",
+    "human-approval"
+  ],
+  "relevance": "Approval provenance in agentic merge gates."
+}

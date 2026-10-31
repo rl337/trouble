@@ -1,0 +1,44 @@
+{
+  "id": "2115775712867373525",
+  "permalink": "https://x.com/ai_algoit/status/2115775712867373525",
+  "author": {
+    "name": "ALGOIT | AI News & How-Tos",
+    "handle": "@ai_algoit",
+    "profile_url": "https://x.com/ai_algoit"
+  },
+  "posted_at": "2026-10-29T12:00:13Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**ALGOIT | AI News & How-Tos ([@ai_algoit](https://x.com/ai_algoit/status/2115775712867373525))** reports NVIDIA's **Nemotron 3.5 Transcribe**, an open-weight 30B MoE (~4B active) speech model for up to hour-long recordings in 40 languages with speaker labels and translation, available on Hugging Face and described as commercially usable ([nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B](https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B)).",
+  "referenced_urls": [
+    {
+      "url": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B",
+      "from_post": "2115775712867373525",
+      "short_url": "https://t.co/uFTXEEbBy7",
+      "title": "nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B · Hugging Face"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "local-models"
+  ],
+  "keywords": [
+    "nemotron-3.5-transcribe",
+    "speech-recognition",
+    "mixture-of-experts",
+    "open-weight",
+    "diarization"
+  ],
+  "relevance": "A ~30B-class local speech model that fits a DGX Spark.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HVy-zJza4AA-IAP.png",
+      "from_post": "2115775712867373525",
+      "description": "NVIDIA diagram of Nemotron 3.5 Transcribe: audio input, instruction options (verbatim, written form, context, speaker attribution, translation) and example outputs.",
+      "kind": "diagram",
+      "thumbnail": "posts/2026/10/29/2115775712867373525/media/0.webp"
+    }
+  ]
+}

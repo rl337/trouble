@@ -1,0 +1,33 @@
+{
+  "id": "2115825447057363125",
+  "permalink": "https://x.com/mauropm/status/2115825447057363125",
+  "author": {
+    "name": "Mauro",
+    "handle": "@mauropm",
+    "profile_url": "https://x.com/mauropm"
+  },
+  "posted_at": "2026-10-29T15:17:51Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**Mauro ([@mauropm](https://x.com/mauropm/status/2115825447057363125))** shares **sparkLimiter**, a script to cap the GPU clock on NVIDIA DGX Spark machines, reporting that a 1900 MHz cap dropped his Spark's temperature by 3 °C ([MiaAI-Lab/sparkLimiter](https://github.com/MiaAI-Lab/sparkLimiter)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/MiaAI-Lab/sparkLimiter",
+      "from_post": "2115825447057363125",
+      "short_url": "https://t.co/tEokEMFAf3",
+      "title": "GitHub - MiaAI-Lab/sparkLimiter: Cap the GPU clock on NVIDIA DGX Sparks across all your machines, persistently"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "local-models"
+  ],
+  "keywords": [
+    "sparklimiter",
+    "dgx-spark",
+    "gpu-clock",
+    "thermal"
+  ],
+  "relevance": "Directly useful thermal tuning for Richard's DGX Spark."
+}

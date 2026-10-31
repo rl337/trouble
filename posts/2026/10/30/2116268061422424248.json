@@ -1,0 +1,45 @@
+{
+  "id": "2116268061422424248",
+  "permalink": "https://x.com/SciFi/status/2116268061422424248",
+  "author": {
+    "name": "Artificial Intelligence Papers",
+    "handle": "@SciFi",
+    "profile_url": "https://x.com/SciFi"
+  },
+  "posted_at": "2026-10-30T20:36:38Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**Artificial Intelligence Papers ([@SciFi](https://x.com/SciFi/status/2116268061422424248))** shares *InfraDev* ([arXiv 2610.36589](https://arxiv.org/abs/2610.36589)), 36 tasks from real Megatron-LM, vLLM and verl PRs testing whether coding agents can build multi-GPU AI infrastructure, graded with hidden probes.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.36589",
+      "from_post": "2116268061422424248",
+      "short_url": "https://t.co/BCgFmgvpoU",
+      "title": "InfraDev: Can Coding Agents Develop AI Infrastructure, and How Can We Tell?"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "infradev",
+    "coding-agent",
+    "ai-infrastructure",
+    "benchmark",
+    "vllm"
+  ],
+  "relevance": "Benchmarking agents on systems code.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV5-lmvXYAAt32u.png",
+      "from_post": "2116268061422424248",
+      "description": "Abstract of the InfraDev paper.",
+      "kind": "paper",
+      "thumbnail": "posts/2026/10/30/2116268061422424248/media/0.webp",
+      "ocr_text": "Coding agents are beginning to develop the production-grade AI infrastructure that trains and serves large models, yet existing benchmarks cover only single kernels or single-GPU tasks, and grade with tests and prompts that misjudge both correct and incorrect patches. We introduce InfraDev, a benchmark of 36 tasks built from real-world pull requests to Megatron-LM, vLLM, and verl, covering infrastructure development for training, inference, and reinforcement learning. Each task asks an agent to reimplement a real change that spans many files and must run correctly across many GPUs. To grade such changes, we jointly synthesize hidden probes, which enforce the requirements the original tests leave unchecked, and a prompt that states every interface the probes call without revealing the solution. We also design a shared execution environment that reuses dependencies and artifacts across tasks, cutting storage by 52-57% and build time by 13-14% on Megatron-LM and vLLM. Across six frontier"
+    }
+  ]
+}

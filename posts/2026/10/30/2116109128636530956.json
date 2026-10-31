@@ -1,0 +1,43 @@
+{
+  "id": "2116109128636530956",
+  "permalink": "https://x.com/splatworlds/status/2116109128636530956",
+  "author": {
+    "name": "splatsandworlds",
+    "handle": "@splatworlds",
+    "profile_url": "https://x.com/splatworlds"
+  },
+  "posted_at": "2026-10-30T10:05:06Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**splatsandworlds ([@splatworlds](https://x.com/splatworlds/status/2116109128636530956))** explains *MCSplat* ([arXiv 2610.25345](https://arxiv.org/abs/2610.25345)), which separates camera-specific appearance from geometry so multi-camera driving-scene splats have fewer seams and depth artifacts.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.25345",
+      "from_post": "2116109128636530956",
+      "short_url": "https://t.co/vDYAyCt5Pv",
+      "title": "MCSplat: Multi-View Photometric and Geometric Consistent..."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "mcsplat",
+    "gaussian-splat",
+    "multi-camera",
+    "3d-reconstruction"
+  ],
+  "relevance": "Cleaner Gaussian-splat reconstruction from multi-camera capture.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV3uCYmWcAAchjf.jpg",
+      "from_post": "2116109128636530956",
+      "description": "Figure comparing ground truth, canonical prediction, UniSplat and MCSplat on a street scene and depth views.",
+      "kind": "diagram",
+      "thumbnail": "posts/2026/10/30/2116109128636530956/media/0.webp"
+    }
+  ]
+}

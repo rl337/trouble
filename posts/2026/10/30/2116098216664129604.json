@@ -1,0 +1,39 @@
+{
+  "id": "2116098216664129604",
+  "permalink": "https://x.com/LingxiangAI/status/2116098216664129604",
+  "author": {
+    "name": "0xiang",
+    "handle": "@LingxiangAI",
+    "profile_url": "https://x.com/LingxiangAI"
+  },
+  "posted_at": "2026-10-30T09:21:44Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**0xiang ([@LingxiangAI](https://x.com/LingxiangAI/status/2116098216664129604))** walks through **caveman** (about 116K stars), a skill/proxy that makes Codex and Claude Code answer in terse phrases while keeping code, paths and errors intact, with install, status and per-tool options; it cautions that claimed 65% savings are mostly output-side and suggests an A/B test on the same bug-fix task measuring output tokens and fix rate ([JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman), [docs](https://docs.caveman.so/caveman)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/JuliusBrussee/caveman",
+      "from_post": "2116098216664129604",
+      "short_url": "https://t.co/DOhJ58WPQX",
+      "title": "GitHub - JuliusBrussee/caveman: 🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman."
+    },
+    {
+      "url": "https://docs.caveman.so/caveman",
+      "from_post": "2116098216664129604",
+      "short_url": "https://t.co/qM1QRODiYd"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "caveman",
+    "token-efficiency",
+    "claude-code",
+    "codex",
+    "agent-skill"
+  ],
+  "relevance": "Token-efficiency tool plus a sensible way to measure it."
+}

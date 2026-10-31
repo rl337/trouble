@@ -1,0 +1,34 @@
+{
+  "id": "2115901781846708588",
+  "permalink": "https://x.com/Demoxtenex/status/2115901781846708588",
+  "author": {
+    "name": "Demostenes Albert | https://number.app.br",
+    "handle": "@Demoxtenex",
+    "profile_url": "https://x.com/Demoxtenex"
+  },
+  "posted_at": "2026-10-29T20:21:11Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**Demostenes Albert | https://number.app.br ([@Demoxtenex](https://x.com/Demoxtenex/status/2115901781846708588))** describes **ginux**, a ~139K-line Rust kernel written by one Codex agent in 11 days that boots Rocky 10 with systemd under QEMU, noting the README admits the full test suite still fails and there is no independent audit, so executable gates are what hold it together ([gmkurtzer/ginux](https://github.com/gmkurtzer/ginux)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/gmkurtzer/ginux",
+      "from_post": "2115901781846708588",
+      "short_url": "https://t.co/vyAU1XaxaX",
+      "title": "GitHub - gmkurtzer/ginux"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "ginux",
+    "rust-kernel",
+    "codex",
+    "autonomous-coding",
+    "qemu"
+  ],
+  "relevance": "Long-running autonomous coding case study with honest caveats."
+}

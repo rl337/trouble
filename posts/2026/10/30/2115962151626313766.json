@@ -1,0 +1,41 @@
+{
+  "id": "2115962151626313766",
+  "permalink": "https://x.com/arcsolve_ai/status/2115962151626313766",
+  "author": {
+    "name": "ArcSolve",
+    "handle": "@arcsolve_ai",
+    "profile_url": "https://x.com/arcsolve_ai"
+  },
+  "posted_at": "2026-10-30T00:21:04Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**ArcSolve ([@arcsolve_ai](https://x.com/arcsolve_ai/status/2115962151626313766))** built **Shot Board**: write one scene, get six shots, then pick or import a hero take and the others are redrawn from it, using Qwen-Image-2512, Qwen-Image-Edit-2511 and SDXL on ComfyUI ([demo](https://www.youtube.com/watch?v=HVZxQ-7GlSk&feature=youtu.be), [ArcSolver/shot-board](https://github.com/ArcSolver/shot-board)).",
+  "referenced_urls": [
+    {
+      "url": "https://www.youtube.com/watch?v=HVZxQ-7GlSk&feature=youtu.be",
+      "from_post": "2115962151626313766",
+      "short_url": "https://t.co/fPCwzwaEt6",
+      "title": "Shot Board: one scene, six shots | Open Source Higgsfield"
+    },
+    {
+      "url": "https://github.com/ArcSolver/shot-board",
+      "from_post": "2115962151626313766",
+      "short_url": "https://t.co/JwE26COKZV",
+      "title": "GitHub - ArcSolver/shot-board: Write one scene, get six shots. Pick a hero take and the app redraws cuts from it. Open-weight SDXL and Qwen-Image-Edit in ComfyUI via the Comfy SDK."
+    }
+  ],
+  "hashtags": [
+    "OpenSourceHiggsfield"
+  ],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "shot-board",
+    "storyboard",
+    "qwen-image",
+    "comfyui"
+  ],
+  "relevance": "Consistent shot coverage for storyboarding."
+}

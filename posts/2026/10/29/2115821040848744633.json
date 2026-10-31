@@ -1,0 +1,47 @@
+{
+  "id": "2115821040848744633",
+  "permalink": "https://x.com/BriceTian/status/2115821040848744633",
+  "author": {
+    "name": "Tian Zhang (Brice)",
+    "handle": "@BriceTian",
+    "profile_url": "https://x.com/BriceTian"
+  },
+  "posted_at": "2026-10-29T15:00:20Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [
+    {
+      "id": "2115821042090279086",
+      "permalink": "https://x.com/BriceTian/status/2115821042090279086",
+      "posted_at": "2026-10-29T15:00:21Z",
+      "position": 1
+    },
+    {
+      "id": "2115821043185045769",
+      "permalink": "https://x.com/BriceTian/status/2115821043185045769",
+      "posted_at": "2026-10-29T15:00:21Z",
+      "position": 2
+    }
+  ],
+  "summary_md": "**Tian Zhang (Brice) ([@BriceTian](https://x.com/BriceTian/status/2115821040848744633))** summarizes *Multiscale Policy Optimization for Long-Horizon LLM Agents* ([arXiv 2610.35013](https://arxiv.org/abs/2610.35013)): critic values vary across turns rather than tokens, and MPO's turn-level importance sampling with multiscale advantages beats GRPO, PPO and VAPO on all nine agent metrics at 4B and 30B (GAIA pass@3 56.24 vs. 50.34), with caveats about single runs and near-noise HLE gains.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.35013",
+      "from_post": "2115821040848744633",
+      "short_url": "https://t.co/fNQHtrQt8r",
+      "title": "Multiscale Policy Optimization for Long-Horizon LLM Agents"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-cognition"
+  ],
+  "keywords": [
+    "mpo",
+    "policy-optimization",
+    "credit-assignment",
+    "reinforcement-learning",
+    "gaia"
+  ],
+  "relevance": "Training insight for tool-use agents: credit by turn."
+}

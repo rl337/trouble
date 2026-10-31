@@ -1,0 +1,33 @@
+{
+  "id": "2116328675356586237",
+  "permalink": "https://x.com/_himorishige/status/2116328675356586237",
+  "author": {
+    "name": "HiMorishige",
+    "handle": "@_himorishige",
+    "profile_url": "https://x.com/_himorishige"
+  },
+  "posted_at": "2026-10-31T00:37:30Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**HiMorishige ([@_himorishige](https://x.com/_himorishige/status/2116328675356586237))** notes NVIDIA's **NVFP4 DeepSeek-V4.1-Flash-1017**, which shrinks the model from about 475 GiB to 400 GiB with GPQA Diamond going from 92.77% to 92.93%. Even four DGX Sparks would be tight once cache is counted ([nvidia/DeepSeek-V4.1-Flash-1017-NVFP4](https://huggingface.co/nvidia/DeepSeek-V4.1-Flash-1017-NVFP4)).",
+  "referenced_urls": [
+    {
+      "url": "https://huggingface.co/nvidia/DeepSeek-V4.1-Flash-1017-NVFP4",
+      "from_post": "2116328675356586237",
+      "short_url": "https://t.co/qwWo0JmevG",
+      "title": "nvidia/DeepSeek-V4.1-Flash-1017-NVFP4 · Hugging Face"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "local-models"
+  ],
+  "keywords": [
+    "deepseek-v4.1-flash",
+    "nvfp4",
+    "dgx-spark",
+    "quantization"
+  ],
+  "relevance": "Sizing a frontier MoE for DGX Spark."
+}

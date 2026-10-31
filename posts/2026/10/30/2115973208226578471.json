@@ -1,0 +1,34 @@
+{
+  "id": "2115973208226578471",
+  "permalink": "https://x.com/aiproduck/status/2115973208226578471",
+  "author": {
+    "name": "aiproduck",
+    "handle": "@aiproduck",
+    "profile_url": "https://x.com/aiproduck"
+  },
+  "posted_at": "2026-10-30T01:05:00Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**aiproduck ([@aiproduck](https://x.com/aiproduck/status/2115973208226578471))** describes **Scientific Agent Skills**, 177 skills teaching agents scientific packages, databases and workflows from RNA-seq to docking to DICOM, for Claude Code, Codex and Cursor; repo is MIT but each skill has its own license ([K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+      "from_post": "2115973208226578471",
+      "short_url": "https://t.co/SkpVsilfqR",
+      "title": "GitHub - K-Dense-AI/scientific-agent-skills: Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible "
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev",
+    "agentic-cognition"
+  ],
+  "keywords": [
+    "scientific-agent-skill",
+    "agent-skill",
+    "bioinformatics",
+    "ai-scientist"
+  ],
+  "relevance": "Domain skills turning agents into research assistants."
+}

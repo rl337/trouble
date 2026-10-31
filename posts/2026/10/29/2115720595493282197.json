@@ -1,0 +1,35 @@
+{
+  "id": "2115720595493282197",
+  "permalink": "https://x.com/LateNightDEV123/status/2115720595493282197",
+  "author": {
+    "name": "深夜开发者 LND",
+    "handle": "@LateNightDEV123",
+    "profile_url": "https://x.com/LateNightDEV123"
+  },
+  "posted_at": "2026-10-29T08:21:12Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**深夜开发者 LND ([@LateNightDEV123](https://x.com/LateNightDEV123/status/2115720595493282197))** highlights **Coucou**, an MIT tool that shows Claude Code, Codex and Cursor task progress in the Mac notch and lets you approve or deny permission requests there or from the iPhone lock screen ([Louis-CFM/coucou](https://github.com/Louis-CFM/coucou)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/Louis-CFM/coucou",
+      "from_post": "2115720595493282197",
+      "short_url": "https://t.co/6lsHtTtsTp",
+      "title": "GitHub - Louis-CFM/coucou: A tiny friend in your Mac's notch and on your iPhone that keeps an eye on your AI coding agents: Claude Code, Codex, Cursor, Gemini CLI, Antigravity and more. Approve from the notch or your Lock Screen."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "coucou",
+    "claude-code",
+    "codex",
+    "cursor",
+    "permission",
+    "macos"
+  ],
+  "relevance": "Ambient monitoring and approval UX for coding agents."
+}

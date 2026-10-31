@@ -1,0 +1,43 @@
+{
+  "id": "2116128058079891518",
+  "permalink": "https://x.com/JalPranjal/status/2116128058079891518",
+  "author": {
+    "name": "Pranjal",
+    "handle": "@JalPranjal",
+    "profile_url": "https://x.com/JalPranjal"
+  },
+  "posted_at": "2026-10-30T11:20:19Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**Pranjal ([@JalPranjal](https://x.com/JalPranjal/status/2116128058079891518))** built **BobHead**, an open ComfyUI app that turns talking footage into big-head videos while keeping motion and dialogue ([jalrobustvfx/BobHead](https://github.com/jalrobustvfx/BobHead)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/jalrobustvfx/BobHead",
+      "from_post": "2116128058079891518",
+      "short_url": "https://t.co/KIZLPU4J0B",
+      "title": "GitHub - jalrobustvfx/BobHead: Turn talking footage into bobhead videos with original dialogue, a custom OpenPose effect, and a local ComfyUI app."
+    }
+  ],
+  "hashtags": [
+    "OpenSourceHiggsfield"
+  ],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "bobhead",
+    "comfyui",
+    "video-effect",
+    "opensourcehiggsfield"
+  ],
+  "relevance": "Playful video effect pipeline.",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://x.com/JalPranjal/status/2116128058079891518/video/1",
+      "from_post": "2116128058079891518",
+      "description": "Before/after big-head video clip (not downloaded; referenced only)."
+    }
+  ]
+}

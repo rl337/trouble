@@ -1,0 +1,42 @@
+{
+  "id": "2115924021837709679",
+  "permalink": "https://x.com/theadedolapo/status/2115924021837709679",
+  "author": {
+    "name": "Bro Dolapo",
+    "handle": "@theadedolapo",
+    "profile_url": "https://x.com/theadedolapo"
+  },
+  "posted_at": "2026-10-29T21:49:33Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**Bro Dolapo ([@theadedolapo](https://x.com/theadedolapo/status/2115924021837709679))** open-sourced **Clippers**: a long video goes in and ready-to-edit 9:16 Shorts land on a DaVinci Resolve timeline, with Claude choosing moments, checking frames and keeping the speaker framed, all locally ([aadedolapo/Clippers](https://github.com/aadedolapo/Clippers)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/aadedolapo/Clippers",
+      "from_post": "2115924021837709679",
+      "short_url": "https://t.co/NTsVq4NI5L"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-media",
+    "harness-dev"
+  ],
+  "keywords": [
+    "clipper",
+    "davinci-resolve",
+    "short-form-video",
+    "video-editing",
+    "claude"
+  ],
+  "relevance": "Agent-driven short-form editing into a pro NLE.",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://x.com/theadedolapo/status/2115924021837709679/video/1",
+      "from_post": "2115924021837709679",
+      "description": "Clippers demo (not downloaded; referenced only)."
+    }
+  ]
+}

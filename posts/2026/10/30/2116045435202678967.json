@@ -1,0 +1,33 @@
+{
+  "id": "2116045435202678967",
+  "permalink": "https://x.com/elioex0/status/2116045435202678967",
+  "author": {
+    "name": "ElioEx",
+    "handle": "@elioex0",
+    "profile_url": "https://x.com/elioex0"
+  },
+  "posted_at": "2026-10-30T05:52:00Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**ElioEx ([@elioex0](https://x.com/elioex0/status/2116045435202678967))** notes **DeepSeek Harness** rc.5 hides the thinking signature block, leaving the thinking area empty so debugging requires the raw stream ([compare rc.4...rc.5](https://github.com/deepseek-ai/deepseek-harness/compare/dsh-v0.2.1-rc.4...dsh-v0.2.1-rc.5)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/deepseek-ai/deepseek-harness/compare/dsh-v0.2.1-rc.4...dsh-v0.2.1-rc.5",
+      "from_post": "2116045435202678967",
+      "short_url": "https://t.co/YgP8zK5uJ4"
+    }
+  ],
+  "hashtags": [
+    "DeepSeek"
+  ],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "deepseek-harness",
+    "thinking-block",
+    "release"
+  ],
+  "relevance": "Harness change affecting debuggability."
+}

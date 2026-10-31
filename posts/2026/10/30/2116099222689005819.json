@@ -1,0 +1,41 @@
+{
+  "id": "2116099222689005819",
+  "permalink": "https://x.com/lmkbnb0/status/2116099222689005819",
+  "author": {
+    "name": "Mike小新",
+    "handle": "@lmkbnb0",
+    "profile_url": "https://x.com/lmkbnb0"
+  },
+  "posted_at": "2026-10-30T09:25:44Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**Mike小新 ([@lmkbnb0](https://x.com/lmkbnb0/status/2116099222689005819))** notes that **Neox**, an AI agent for coding and daily work, has open-sourced its terminal, desktop and mobile apps ([neoxlabs/OpenNeox](https://github.com/neoxlabs/OpenNeox)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/neoxlabs/OpenNeox",
+      "from_post": "2116099222689005819",
+      "short_url": "https://t.co/sONRuQrsVd",
+      "title": "GitHub - neoxlabs/OpenNeox: Open-source AI agent for your terminal, desktop and phone. Bring your own model; reach your computer from anywhere through a relay you self-host. AGPL-3.0."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "openneox",
+    "coding-agent",
+    "desktop-app",
+    "mobile-app"
+  ],
+  "relevance": "Another open agent harness across devices.",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://x.com/lmkbnb0/status/2116099222689005819/video/1",
+      "from_post": "2116099222689005819",
+      "description": "Demo of the Neox apps (not downloaded; referenced only)."
+    }
+  ]
+}

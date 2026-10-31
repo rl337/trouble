@@ -1,0 +1,40 @@
+{
+  "id": "2115786305036824766",
+  "permalink": "https://x.com/nithin_r_g/status/2115786305036824766",
+  "author": {
+    "name": "Nithin",
+    "handle": "@nithin_r_g",
+    "profile_url": "https://x.com/nithin_r_g"
+  },
+  "posted_at": "2026-10-29T12:42:19Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**Nithin ([@nithin_r_g](https://x.com/nithin_r_g/status/2115786305036824766))** points to **The Trinity** ([arXiv 2610.36077](https://arxiv.org/abs/2610.36077)), a capability-driven recursive self-improvement method where the agent finds missing skills, builds cheap practice worlds and keeps what works, reporting +34 points on known benchmarks and +26 on new ones ([audio version](https://unknown.ac/open/?url=https%3A%2F%2Farxiv.org%2Fpdf%2F2610.36077)).",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.36077",
+      "from_post": "2115786305036824766",
+      "short_url": "https://t.co/fYfnYj57Lc",
+      "title": "The Trinity:Capability-Driven Recursive Self-Improvement for..."
+    },
+    {
+      "url": "https://unknown.ac/open/?url=https%3A%2F%2Farxiv.org%2Fpdf%2F2610.36077",
+      "from_post": "2115786305036824766",
+      "short_url": "https://t.co/o5b3t3jSWy",
+      "title": "Listen to this in Unknown"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-cognition",
+    "harness-dev"
+  ],
+  "keywords": [
+    "the-trinity",
+    "recursive-self-improvement",
+    "skill-discovery",
+    "practice-environment"
+  ],
+  "relevance": "Self-tuning agents that build their own practice environments."
+}

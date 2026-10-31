@@ -1,0 +1,44 @@
+{
+  "id": "2115730688330629600",
+  "permalink": "https://x.com/nicoloboschi/status/2115730688330629600",
+  "author": {
+    "name": "Nicolò Boschi",
+    "handle": "@nicoloboschi",
+    "profile_url": "https://x.com/nicoloboschi"
+  },
+  "posted_at": "2026-10-29T09:01:19Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**Nicolò Boschi ([@nicoloboschi](https://x.com/nicoloboschi/status/2115730688330629600))** argues engineers should build their own dev stack and shares his: **sheepit**, an IDE/browser terminal where agents work and you review; **giotto**, where agents draw diagrams; and **ciak**, where agents record the screen and take screenshots ([sheepit](https://github.com/nicoloboschi/sheepit), [giotto](https://github.com/nicoloboschi/giotto), [ciak](https://github.com/nicoloboschi/ciak)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/nicoloboschi/sheepit",
+      "from_post": "2115730688330629600",
+      "short_url": "https://t.co/2n0PbOqvz3",
+      "title": "GitHub - nicoloboschi/sheepit: Your machine, anywhere. A full-featured terminal in your browser."
+    },
+    {
+      "url": "https://github.com/nicoloboschi/giotto",
+      "from_post": "2115730688330629600",
+      "short_url": "https://t.co/tdD8TcXkDo"
+    },
+    {
+      "url": "https://github.com/nicoloboschi/ciak",
+      "from_post": "2115730688330629600",
+      "short_url": "https://t.co/whoCv4Zcqm"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "sheepit",
+    "giotto",
+    "ciak",
+    "dev-stack",
+    "agent-tooling"
+  ],
+  "relevance": "A personal agent dev stack with tools for review, diagrams and screen capture."
+}

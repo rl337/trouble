@@ -1,0 +1,33 @@
+{
+  "id": "2116181580578513190",
+  "permalink": "https://x.com/SMishra61/status/2116181580578513190",
+  "author": {
+    "name": "Shorya Mishra",
+    "handle": "@SMishra61",
+    "profile_url": "https://x.com/SMishra61"
+  },
+  "posted_at": "2026-10-30T14:53:00Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**Shorya Mishra ([@SMishra61](https://x.com/SMishra61/status/2116181580578513190))** summarizes *Long-MDR* ([arXiv 2610.05195](https://arxiv.org/abs/2610.05195)), which trains multimodal research agents for 128K context and 75+ tool turns using warmup, gradual horizon growth and entropy-triggered rescue against exploration collapse.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.05195",
+      "from_post": "2116181580578513190",
+      "short_url": "https://t.co/nIC2Fug3u5",
+      "title": "Long-MDR: Long-Context Reinforcement Learning for Multimodal..."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-cognition"
+  ],
+  "keywords": [
+    "long-mdr",
+    "long-context-rl",
+    "research-agent",
+    "exploration-collapse"
+  ],
+  "relevance": "Training recipe for long-horizon research agents."
+}

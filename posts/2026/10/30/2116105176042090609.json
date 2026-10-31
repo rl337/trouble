@@ -1,0 +1,43 @@
+{
+  "id": "2116105176042090609",
+  "permalink": "https://x.com/v4nd1t/status/2116105176042090609",
+  "author": {
+    "name": "vandit.",
+    "handle": "@v4nd1t",
+    "profile_url": "https://x.com/v4nd1t"
+  },
+  "posted_at": "2026-10-30T09:49:23Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**vandit. ([@v4nd1t](https://x.com/v4nd1t/status/2116105176042090609))** recommends **vawe**, an open-source HTML-to-MP4 framework for coding agents: write one HTML page, get a video ([vawe-hq/vawe](https://github.com/vawe-hq/vawe)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/vawe-hq/vawe",
+      "from_post": "2116105176042090609",
+      "short_url": "https://t.co/t031eOM2zp",
+      "title": "GitHub - vawe-hq/vawe: Write one HTML page, get an mp4. Open-source HTML to video framework for coding agents like Claude Code and Codex. A free Remotion alternative."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "vawe",
+    "html-to-video",
+    "motion-graphic",
+    "coding-agent"
+  ],
+  "relevance": "HTML as the authoring format for agent-made motion video.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV3qb3ZboAAIES9.jpg",
+      "from_post": "2116105176042090609",
+      "description": "vawe banner: 'Write a page. Ship a film.' with a stylized blue film-strip illustration.",
+      "kind": "other",
+      "thumbnail": "posts/2026/10/30/2116105176042090609/media/0.webp"
+    }
+  ]
+}

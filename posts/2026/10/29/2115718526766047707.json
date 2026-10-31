@@ -1,0 +1,38 @@
+{
+  "id": "2115718526766047707",
+  "permalink": "https://x.com/fastLLM/status/2115718526766047707",
+  "author": {
+    "name": "K⚡️",
+    "handle": "@fastLLM",
+    "profile_url": "https://x.com/fastLLM"
+  },
+  "posted_at": "2026-10-29T08:12:59Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**K⚡️ ([@fastLLM](https://x.com/fastLLM/status/2115718526766047707))** shares **vibe3d**, a Three.js-based MCP server for 3D modeling from any agent, exporting Blender-compatible formats ([vibebytes/vibe3d](https://github.com/vibebytes/vibe3d)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/vibebytes/vibe3d",
+      "from_post": "2115718526766047707",
+      "short_url": "https://t.co/8SnQNwawhM",
+      "title": "GitHub - vibebytes/vibe3d"
+    }
+  ],
+  "hashtags": [
+    "blender",
+    "3D",
+    "agent"
+  ],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "vibe3d",
+    "mcp",
+    "three.js",
+    "blender",
+    "3d-modeling"
+  ],
+  "relevance": "MCP bridge for agent-driven 3D modeling."
+}

@@ -1,0 +1,50 @@
+{
+  "id": "2116156587404562491",
+  "permalink": "https://x.com/UnslothAI/status/2116156587404562491",
+  "author": {
+    "name": "Unsloth AI",
+    "handle": "@UnslothAI",
+    "profile_url": "https://x.com/UnslothAI"
+  },
+  "posted_at": "2026-10-30T13:13:41Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**Unsloth AI ([@UnslothAI](https://x.com/UnslothAI/status/2116156587404562491))** releases **Dynamic V3.1 GGUFs** of DeepSeek-V4.1-Flash-1017, which they say lead across GPQA Diamond, AIME25, LiveCodeBench v6, MMLU-Pro and Aider, runnable with 64 GB+ RAM ([GGUF](https://huggingface.co/unsloth/DeepSeek-V4.1-Flash-1017-GGUF), [guide](https://unsloth.ai/docs/models/deepseek-v4.1-flash)).",
+  "referenced_urls": [
+    {
+      "url": "https://huggingface.co/unsloth/DeepSeek-V4.1-Flash-1017-GGUF",
+      "from_post": "2116156587404562491",
+      "short_url": "https://t.co/1kD14VTAYP",
+      "title": "unsloth/DeepSeek-V4.1-Flash-1017-GGUF · Hugging Face"
+    },
+    {
+      "url": "https://unsloth.ai/docs/models/deepseek-v4.1-flash",
+      "from_post": "2116156587404562491",
+      "short_url": "https://t.co/YPEmDLas7d",
+      "title": "DeepSeek-V4.1-Flash: Run Locally Guide | Unsloth Documentation"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "local-models"
+  ],
+  "keywords": [
+    "deepseek-v4.1-flash",
+    "gguf",
+    "unsloth",
+    "quantization",
+    "dynamic-quant"
+  ],
+  "relevance": "Quantized frontier-class model sized for DGX Spark-class memory.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV4XBGya0AA3qin.jpg",
+      "from_post": "2116156587404562491",
+      "description": "Announcement card with benchmark curves and hardware requirements table.",
+      "kind": "chart",
+      "thumbnail": "posts/2026/10/30/2116156587404562491/media/0.webp"
+    }
+  ]
+}

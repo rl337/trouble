@@ -1,0 +1,44 @@
+{
+  "id": "2115823430209528089",
+  "permalink": "https://x.com/HEI/status/2115823430209528089",
+  "author": {
+    "name": "Natural Language Processing Papers",
+    "handle": "@HEI",
+    "profile_url": "https://x.com/HEI"
+  },
+  "posted_at": "2026-10-29T15:09:50Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**Natural Language Processing Papers ([@HEI](https://x.com/HEI/status/2115823430209528089))** shares *What Makes a Question Curious?* ([arXiv 2610.33950](https://arxiv.org/abs/2610.33950)), which builds a taxonomy of model curiosity in human–LLM conversations and finds curiosity-oriented questions are rare (17–28%) but lead to more exploratory, epistemically rich user replies.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.33950",
+      "from_post": "2115823430209528089",
+      "short_url": "https://t.co/OGeMDAx5mr",
+      "title": "What Makes a Question Curious? Measuring Model Curiosity in..."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-cognition"
+  ],
+  "keywords": [
+    "curiosity",
+    "question-asking",
+    "human-llm-interaction",
+    "taxonomy"
+  ],
+  "relevance": "Measures curiosity as a conversational behavior of models.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HVzqMqIXMAAKAEm.png",
+      "from_post": "2115823430209528089",
+      "description": "Image of the paper's abstract text.",
+      "kind": "paper",
+      "thumbnail": "posts/2026/10/29/2115823430209528089/media/0.webp",
+      "ocr_text": "Large language models increasingly act as partners in everyday communication. In these interactions, useful assistance may require not only answering, but also asking the right questions that surface knowledge gaps, assumptions, and alternatives. In this study, we refer to such epistemic question-asking as model curiosity, and introduce a theory-grounded taxonomy that distinguishes curiosity-oriented questions from generic model questioning. Across four conversation datasets, we find that curiosity-oriented questions remain rare (17-28% of all questions), but are associated with more exploratory and epistemically rich subsequent user responses, with varying patterns across datasets. We further conduct a human study to evaluate the usefulness of model curiosity, finding that curiosity can encourage exploration, especially in advice, creative, and research contexts. These findings have implications for building LLMs that ask more selectively to support deeper exploration and human-AI col"
+    }
+  ]
+}

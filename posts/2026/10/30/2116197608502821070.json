@@ -1,0 +1,44 @@
+{
+  "id": "2116197608502821070",
+  "permalink": "https://x.com/kimagedon/status/2116197608502821070",
+  "author": {
+    "name": "EVE",
+    "handle": "@kimagedon",
+    "profile_url": "https://x.com/kimagedon"
+  },
+  "posted_at": "2026-10-30T15:56:41Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**EVE ([@kimagedon](https://x.com/kimagedon/status/2116197608502821070))** releases **EVE tools for ComfyUI**: from one photo, extend the frame, light the set, place cameras and roll, on open weights ([kimagedon/eve-tools-for-comfyui](https://github.com/kimagedon/eve-tools-for-comfyui)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/kimagedon/eve-tools-for-comfyui",
+      "from_post": "2116197608502821070",
+      "short_url": "https://t.co/eCoUc4erbp",
+      "title": "GitHub - kimagedon/eve-tools-for-comfyui: One photo. A whole film set."
+    }
+  ],
+  "hashtags": [
+    "OpenSourceHiggsfield"
+  ],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "eve-tools",
+    "comfyui",
+    "outpainting",
+    "virtual-set",
+    "opensourcehiggsfield"
+  ],
+  "relevance": "Virtual film set from a single image.",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://x.com/kimagedon/status/2116197608502821070/video/1",
+      "from_post": "2116197608502821070",
+      "description": "Building a film set from a photo (not downloaded; referenced only)."
+    }
+  ]
+}

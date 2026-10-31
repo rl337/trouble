@@ -1,0 +1,45 @@
+{
+  "id": "2116145461719613624",
+  "permalink": "https://x.com/fagemx/status/2116145461719613624",
+  "author": {
+    "name": "Fagem",
+    "handle": "@fagemx",
+    "profile_url": "https://x.com/fagemx"
+  },
+  "posted_at": "2026-10-30T12:29:28Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**Fagem ([@fagemx](https://x.com/fagemx/status/2116145461719613624))** presents **ZeroField**, an open ComfyUI film studio where local agents plan a film with you, render it and check each take against the shot plan, using only FLUX Klein, LTX-2.5 and a local Qwen crew on one RTX 4090 ([fagemx/ZeroField](https://github.com/fagemx/ZeroField)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/fagemx/ZeroField",
+      "from_post": "2116145461719613624",
+      "short_url": "https://t.co/d610XfVsQU",
+      "title": "GitHub - fagemx/ZeroField"
+    }
+  ],
+  "hashtags": [
+    "OpenSourceHiggsfield"
+  ],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "zerofield",
+    "comfyui",
+    "flux-klein",
+    "ltx-2.5",
+    "film-production",
+    "opensourcehiggsfield"
+  ],
+  "relevance": "Fully local agentic film pipeline with self-checking.",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://x.com/fagemx/status/2116145461719613624/video/1",
+      "from_post": "2116145461719613624",
+      "description": "Demo of planning and rendering shots (not downloaded; referenced only)."
+    }
+  ]
+}

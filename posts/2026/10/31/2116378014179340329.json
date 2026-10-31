@@ -1,0 +1,36 @@
+{
+  "id": "2116378014179340329",
+  "permalink": "https://x.com/xiaoanlab/status/2116378014179340329",
+  "author": {
+    "name": "XiaoAnLab",
+    "handle": "@xiaoanlab",
+    "profile_url": "https://x.com/xiaoanlab"
+  },
+  "posted_at": "2026-10-31T03:53:33Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**XiaoAnLab ([@xiaoanlab](https://x.com/xiaoanlab/status/2116378014179340329))** describes Microsoft's **skill-recorder**. You record a repetitive desktop task once and it becomes a SKILL.md or a scheduled automation an agent can follow ([microsoft/skill-recorder](https://github.com/microsoft/skill-recorder)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/microsoft/skill-recorder",
+      "from_post": "2116378014179340329",
+      "short_url": "https://t.co/s8eCMotGxC",
+      "title": "GitHub - microsoft/skill-recorder: Desktop app that records your on-screen work session and uses the GitHub Copilot SDK to reconstruct it as an intent + ordered steps, then builds a reusable Skill or Automation for Microsoft Autopilots like Scout, Microsoft Copilot Cowork, or Copilot Studio."
+    }
+  ],
+  "hashtags": [
+    "Agent技能",
+    "开源"
+  ],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "skill-recorder",
+    "agent-skill",
+    "screen-recording",
+    "automation"
+  ],
+  "relevance": "Skills from demonstrations."
+}

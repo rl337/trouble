@@ -1,0 +1,82 @@
+{
+  "id": "2115850109632012499",
+  "permalink": "https://x.com/Esto_es_Marte/status/2115850109632012499",
+  "author": {
+    "name": "EstoEsMarte",
+    "handle": "@Esto_es_Marte",
+    "profile_url": "https://x.com/Esto_es_Marte"
+  },
+  "posted_at": "2026-10-29T16:55:51Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [
+    {
+      "id": "2115850353019162960",
+      "permalink": "https://x.com/Esto_es_Marte/status/2115850353019162960",
+      "posted_at": "2026-10-29T16:56:49Z",
+      "position": 1
+    },
+    {
+      "id": "2115863253977042990",
+      "permalink": "https://x.com/Esto_es_Marte/status/2115863253977042990",
+      "posted_at": "2026-10-29T17:48:05Z",
+      "position": 2
+    },
+    {
+      "id": "2115863392845963352",
+      "permalink": "https://x.com/Esto_es_Marte/status/2115863392845963352",
+      "posted_at": "2026-10-29T17:48:38Z",
+      "position": 3
+    }
+  ],
+  "summary_md": "**EstoEsMarte ([@Esto_es_Marte](https://x.com/Esto_es_Marte/status/2115850109632012499))** presents **Forkfield**, an MIT ComfyUI app where every video is forkable: drop any clip, open-weight models read the effect, add your photo and regenerate; follow-ups add the code and an update that it now forks any video ([demo video](https://www.youtube.com/watch?v=qAVeIeFBYFM&feature=youtu.be), [app](https://forkfield.estoesmarte.workers.dev), [marciano71/forkfield](https://github.com/marciano71/forkfield)).",
+  "referenced_urls": [
+    {
+      "url": "https://www.youtube.com/watch?v=qAVeIeFBYFM&feature=youtu.be",
+      "from_post": "2115850109632012499",
+      "short_url": "https://t.co/VhWalMUjBW",
+      "title": "Forkfield: fork any video (open-source Higgsfield on ComfyUI) #OpenSourceHiggsfield"
+    },
+    {
+      "url": "https://forkfield.estoesmarte.workers.dev",
+      "from_post": "2115850109632012499",
+      "short_url": "https://t.co/ABX2vjXgSs",
+      "title": "Forkfield"
+    },
+    {
+      "url": "https://github.com/marciano71/forkfield",
+      "from_post": "2115850353019162960",
+      "short_url": "https://t.co/YLQVj5n5KN",
+      "title": "GitHub - marciano71/forkfield: Fork any video. Higgsfield-style effects on ComfyUI where every clip carries its own recipe. Open weights: Qwen-Image-Edit + LTX-2.5. #OpenSourceHiggsfield"
+    }
+  ],
+  "hashtags": [
+    "OpenSourceHiggsfield"
+  ],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "forkfield",
+    "comfyui",
+    "video-effect",
+    "open-weight"
+  ],
+  "relevance": "Open-weights effect remixing on ComfyUI.",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://x.com/Esto_es_Marte/status/2115850109632012499/video/1",
+      "from_post": "2115850109632012499",
+      "description": "Forkfield demo (not downloaded; referenced only)."
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV0CRxdWQAAplN7.jpg",
+      "from_post": "2115850109632012499",
+      "description": "Promo frame \"What if every video was its own source code?\" with a smiling person.",
+      "kind": "other",
+      "thumbnail": "posts/2026/10/29/2115850109632012499/media/1.webp"
+    }
+  ]
+}

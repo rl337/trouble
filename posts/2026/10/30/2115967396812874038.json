@@ -1,0 +1,51 @@
+{
+  "id": "2115967396812874038",
+  "permalink": "https://x.com/HEI/status/2115967396812874038",
+  "author": {
+    "name": "Natural Language Processing Papers",
+    "handle": "@HEI",
+    "profile_url": "https://x.com/HEI"
+  },
+  "posted_at": "2026-10-30T00:41:54Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**Natural Language Processing Papers ([@HEI](https://x.com/HEI/status/2115967396812874038))** shares *The Price of Scale in Proactive Memory Recall* ([arXiv 2610.34507](https://arxiv.org/abs/2610.34507), [code](https://github.com/RiverChenStillCompiling/price-of-scale)), framing unprompted memory recall as a multiple-testing problem whose false-alarm rate grows with store size, shown on LongMemEval and LoCoMo replays.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.34507",
+      "from_post": "2115967396812874038",
+      "short_url": "https://t.co/zwNwqNS3U8",
+      "title": "The Price of Scale in Proactive Memory Recall"
+    },
+    {
+      "url": "https://github.com/RiverChenStillCompiling/price-of-scale",
+      "from_post": "2115967396812874038",
+      "short_url": "https://t.co/6vzxhCFFRX",
+      "title": "GitHub - RiverChenStillCompiling/price-of-scale: Code, data and results for The Price of Scale in Proactive Memory Recall"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-cognition"
+  ],
+  "keywords": [
+    "proactive-memory",
+    "memory-recall",
+    "multiple-testing",
+    "longmemeval",
+    "locomo"
+  ],
+  "relevance": "Theory of when proactive memory surfacing breaks at scale.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV1tIl6WcAAkfuu.png",
+      "from_post": "2115967396812874038",
+      "description": "Image of the paper's abstract text.",
+      "kind": "paper",
+      "thumbnail": "posts/2026/10/30/2115967396812874038/media/0.webp",
+      "ocr_text": "A long-lived assistant that brings up memories without being asked must decide at every turn whether anything in its store is worth an interruption. We show that this decision is a multiple-testing problem whose difficulty grows with the store size N. On streaming replays of LongMemEval and LoCoMo, a similarity threshold tuned to 5% false alarms at N=8 reaches 87-100% at N=2048, across embedding models and for explicit and implicit cues; LLM judges show the same growth from a lower base. We prove that a gate with false-alarm rate α operates at a per-item false-positive rate of about -ln(1-α)/N, which pins its hit rate to the far left of the single-comparison ROC curve and, under regular variation, makes it decay as a power of N with an explicit constant. The resulting prediction matches the hit rate of a per-N oracle threshold to within one percentage point. The analysis explains why lexical and semantic channels need thresholds growing like ln N and √(ln N), and why per-cue normalisat"
+    }
+  ]
+}

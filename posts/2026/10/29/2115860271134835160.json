@@ -1,0 +1,59 @@
+{
+  "id": "2115860271134835160",
+  "permalink": "https://x.com/fastLLM/status/2115860271134835160",
+  "author": {
+    "name": "K⚡️",
+    "handle": "@fastLLM",
+    "profile_url": "https://x.com/fastLLM"
+  },
+  "posted_at": "2026-10-29T17:36:14Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**K⚡️ ([@fastLLM](https://x.com/fastLLM/status/2115860271134835160))** made an Opus 5.5 plus **vibe3d** build whose 3D output imports into Blender (no animation yet) ([vibebytes/vibe3d](https://github.com/vibebytes/vibe3d)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/vibebytes/vibe3d",
+      "from_post": "2115860271134835160",
+      "short_url": "https://t.co/8SnQNwawhM",
+      "title": "GitHub - vibebytes/vibe3d"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "vibe3d",
+    "blender",
+    "3d-modeling",
+    "mcp"
+  ],
+  "relevance": "Agent-made 3D scenes exported to Blender.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV0Kh4waUAAhUFx.jpg",
+      "from_post": "2115860271134835160",
+      "description": "vibe3d editor showing a generated floating-island diorama with bamboo and pandas.",
+      "kind": "screenshot",
+      "thumbnail": "posts/2026/10/29/2115860271134835160/media/0.webp"
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV0LF5TagAALu9z.jpg",
+      "from_post": "2115860271134835160",
+      "description": "Render of the panda diorama with trees and a pond.",
+      "kind": "photo",
+      "thumbnail": "posts/2026/10/29/2115860271134835160/media/1.webp"
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV0LfZVaEAACKr5.jpg",
+      "from_post": "2115860271134835160",
+      "description": "The diorama imported into Blender.",
+      "kind": "screenshot",
+      "thumbnail": "posts/2026/10/29/2115860271134835160/media/2.webp"
+    }
+  ]
+}

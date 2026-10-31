@@ -1,0 +1,80 @@
+{
+  "id": "2115863794136093081",
+  "permalink": "https://x.com/5haman/status/2115863794136093081",
+  "author": {
+    "name": "Serhii Shyman",
+    "handle": "@5haman",
+    "profile_url": "https://x.com/5haman"
+  },
+  "posted_at": "2026-10-29T17:50:14Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**Serhii Shyman ([@5haman](https://x.com/5haman/status/2115863794136093081))** lists agent repos worth checking, including **Foreman** (a supervisor that checks progress and test evidence before declaring work done), **LongHorizon-Harness** (checkpoints and recovery across context resets), **Coworker** (desktop assistant with reviewable memory) and **Cezar** (parallel coding agents) ([foreman](https://github.com/thruwire/foreman), [LongHorizon-Harness](https://github.com/AMAP-ML/LongHorizon-Harness), [coworker](https://github.com/donvito/coworker), [cezar](https://github.com/open-mercato/cezar), plus [bb](https://github.com/get-bb/bb), [fractal](https://github.com/plasma-ai/fractal), [okf-agent-memory](https://github.com/okf-memory/okf-agent-memory), [reef](https://github.com/Human-Agent-Society/reef), [temper](https://github.com/nerdsane/temper), [treg](https://github.com/superdesigndev/treg)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/thruwire/foreman",
+      "from_post": "2115863794136093081",
+      "short_url": "https://t.co/fWM0cRWFHs",
+      "title": "GitHub - thruwire/foreman: An agent supervisor and software factory foreman powered by decision models"
+    },
+    {
+      "url": "https://github.com/AMAP-ML/LongHorizon-Harness",
+      "from_post": "2115863794136093081",
+      "short_url": "https://t.co/PKChj4rkxZ"
+    },
+    {
+      "url": "https://github.com/donvito/coworker",
+      "from_post": "2115863794136093081",
+      "short_url": "https://t.co/ARgPJsVYTF"
+    },
+    {
+      "url": "https://github.com/open-mercato/cezar",
+      "from_post": "2115863794136093081",
+      "short_url": "https://t.co/WlbCWDIEeR"
+    },
+    {
+      "url": "https://github.com/get-bb/bb",
+      "from_post": "2115863794136093081",
+      "short_url": "https://t.co/mmEjEZoFOF"
+    },
+    {
+      "url": "https://github.com/plasma-ai/fractal",
+      "from_post": "2115863794136093081",
+      "short_url": "https://t.co/cbxWvWx3N2"
+    },
+    {
+      "url": "https://github.com/okf-memory/okf-agent-memory",
+      "from_post": "2115863794136093081",
+      "short_url": "https://t.co/Vm6XUulsGO"
+    },
+    {
+      "url": "https://github.com/Human-Agent-Society/reef",
+      "from_post": "2115863794136093081",
+      "short_url": "https://t.co/gX8NxBKIEE"
+    },
+    {
+      "url": "https://github.com/nerdsane/temper",
+      "from_post": "2115863794136093081",
+      "short_url": "https://t.co/CxfIToGJ1q"
+    },
+    {
+      "url": "https://github.com/superdesigndev/treg",
+      "from_post": "2115863794136093081",
+      "short_url": "https://t.co/dYxBzmnLRR"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "foreman",
+    "longhorizon-harness",
+    "coworker",
+    "cezar",
+    "agent-supervisor",
+    "harness"
+  ],
+  "relevance": "A batch of harness and supervision repos to mine for ideas."
+}

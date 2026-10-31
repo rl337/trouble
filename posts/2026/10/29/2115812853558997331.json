@@ -1,0 +1,35 @@
+{
+  "id": "2115812853558997331",
+  "permalink": "https://x.com/Jeffreyvtx/status/2115812853558997331",
+  "author": {
+    "name": "J. Vtx",
+    "handle": "@Jeffreyvtx",
+    "profile_url": "https://x.com/Jeffreyvtx"
+  },
+  "posted_at": "2026-10-29T14:27:48Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**J. Vtx ([@Jeffreyvtx](https://x.com/Jeffreyvtx/status/2115812853558997331))** is testing small models for NPC inference in Godot via **NobodyWho**, starting with Qwen3.5 2B/4B and Qwen3 0.6B, 1.7B and 4B-Instruct-2507 ([nobodywho-ooo/nobodywho](https://github.com/nobodywho-ooo/nobodywho)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/nobodywho-ooo/nobodywho",
+      "from_post": "2115812853558997331",
+      "short_url": "https://t.co/Z6f0tu00rM",
+      "title": "GitHub - nobodywho-ooo/nobodywho: NobodyWho is an inference engine that lets you run LLMs locally and efficiently on any device."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-media",
+    "local-models"
+  ],
+  "keywords": [
+    "nobodywho",
+    "godot",
+    "npc",
+    "qwen3",
+    "local-inference"
+  ],
+  "relevance": "Local LLM inference inside game engines."
+}

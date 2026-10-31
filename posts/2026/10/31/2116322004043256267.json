@@ -1,0 +1,43 @@
+{
+  "id": "2116322004043256267",
+  "permalink": "https://x.com/SciFi/status/2116322004043256267",
+  "author": {
+    "name": "Artificial Intelligence Papers",
+    "handle": "@SciFi",
+    "profile_url": "https://x.com/SciFi"
+  },
+  "posted_at": "2026-10-31T00:10:59Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**Artificial Intelligence Papers ([@SciFi](https://x.com/SciFi/status/2116322004043256267))** shares *The View from Nowhere: Population-Centered Agent Evolution* ([arXiv 2610.36660](https://arxiv.org/abs/2610.36660)). The paper finds a gap between what a population of evolving agents can solve and what its best member solves, and proposes distilling population-wide successes, failures and modifications.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.36660",
+      "from_post": "2116322004043256267",
+      "short_url": "https://t.co/F6WEgw6FS1",
+      "title": "The View from Nowhere: Population-Centered Agent Evolution"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-cognition"
+  ],
+  "keywords": [
+    "population-centered-evolution",
+    "agent-evolution",
+    "self-improvement"
+  ],
+  "relevance": "Better self-improvement through population evidence.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV6vpd5XYAAkbq4.png",
+      "from_post": "2116322004043256267",
+      "description": "Abstract of the population-centered evolution paper.",
+      "kind": "paper",
+      "thumbnail": "posts/2026/10/31/2116322004043256267/media/0.webp",
+      "ocr_text": "Self-improving AI systems can revise the designs that govern their own behavior. Yet existing approaches center improvement on selected parent agents and their evolutionary experience, leaving the broader population largely underused. We identify a substantial gap between population coverage (i.e., the tasks solved by at least one evolved variant) and the performance of the best individual agent. This gap shows that useful capabilities and diagnostic evidence emerge across the population without being consolidated into its leading agents. These observations motivate the view from nowhere, a principle for agent evolution: an agent should be improved by interpreting its behavior through population-wide patterns of success, failure, and prior self-modification. We instantiate this principle as Population-Centered Evolution (PCE). PCE distils task records and modification histories from the population into a population block, which captures recurring failures, complementary successes, and"
+    }
+  ]
+}

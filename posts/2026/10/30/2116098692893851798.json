@@ -1,0 +1,43 @@
+{
+  "id": "2116098692893851798",
+  "permalink": "https://x.com/ahinore/status/2116098692893851798",
+  "author": {
+    "name": "家鴨",
+    "handle": "@ahinore",
+    "profile_url": "https://x.com/ahinore"
+  },
+  "posted_at": "2026-10-30T09:23:38Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**家鴨 ([@ahinore](https://x.com/ahinore/status/2116098692893851798))** has a home DeepSeek-4.1-Flash-Next building a Rust Anthropic-Messages-compatible inference server that now runs Qwen3.8-Flash-Next, plus a 3D visualization of the LLM's activity ([ahinore/denno-beta](https://github.com/ahinore/denno-beta)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/ahinore/denno-beta",
+      "from_post": "2116098692893851798",
+      "short_url": "https://t.co/Jbjylj0rKR",
+      "title": "GitHub - ahinore/denno-beta: Anthropic Messages API-compatible LLM server in Rust with a fully hand-written inference kernel (CPU only, single binary, seed-fixed exact decoding) + real-time inference visualization"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "local-models"
+  ],
+  "keywords": [
+    "denno",
+    "inference-server",
+    "rust",
+    "qwen3.8-flash-next",
+    "deepseek-4.1-flash",
+    "visualization"
+  ],
+  "relevance": "Local model writing its own inference server.",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://x.com/ahinore/status/2116098692893851798/video/1",
+      "from_post": "2116098692893851798",
+      "description": "3D visualization of the model's internals during inference (not downloaded; referenced only)."
+    }
+  ]
+}

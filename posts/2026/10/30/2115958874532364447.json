@@ -1,0 +1,43 @@
+{
+  "id": "2115958874532364447",
+  "permalink": "https://x.com/quantumnoisedev/status/2115958874532364447",
+  "author": {
+    "name": "Tomasz Madera | quantumnoise.dev",
+    "handle": "@quantumnoisedev",
+    "profile_url": "https://x.com/quantumnoisedev"
+  },
+  "posted_at": "2026-10-30T00:08:02Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**Tomasz Madera | quantumnoise.dev ([@quantumnoisedev](https://x.com/quantumnoisedev/status/2115958874532364447))** tours **NeKode 0.15.0**, an all-in-one app for coding tools with projects and their agent sessions, usage, tasks and file preview ([release](https://github.com/tomaszmadera/NeKode/releases/tag/0.15.0)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/tomaszmadera/NeKode/releases/tag/0.15.0",
+      "from_post": "2115958874532364447",
+      "short_url": "https://t.co/TUc5XXWNoA",
+      "title": "Release NeKode 0.15.0 · tomaszmadera/NeKode"
+    }
+  ],
+  "hashtags": [
+    "buildinpublic",
+    "AIcoding"
+  ],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "nekode",
+    "agent-session",
+    "dashboard"
+  ],
+  "relevance": "Workspace hub for agent sessions.",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://x.com/quantumnoisedev/status/2115958874532364447/video/1",
+      "from_post": "2115958874532364447",
+      "description": "NeKode tour with demo data (not downloaded; referenced only)."
+    }
+  ]
+}

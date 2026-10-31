@@ -1,0 +1,44 @@
+{
+  "id": "2115914449915957605",
+  "permalink": "https://x.com/marcuspat/status/2115914449915957605",
+  "author": {
+    "name": "Marcus",
+    "handle": "@marcuspat",
+    "profile_url": "https://x.com/marcuspat"
+  },
+  "posted_at": "2026-10-29T21:11:31Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**Marcus ([@marcuspat](https://x.com/marcuspat/status/2115914449915957605))** releases **codescope-cli 0.3.0**, a single Rust binary for agent code intelligence with no model or network: repo map, plain-English search and diff-to-tests-to-run, via MCP, CLI or JSON ([adventurewave-labs/codescope](https://github.com/adventurewave-labs/codescope)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/adventurewave-labs/codescope",
+      "from_post": "2115914449915957605",
+      "short_url": "https://t.co/sG9DWmIMY0",
+      "title": "GitHub - adventurewave-labs/codescope: Code-intelligence engine for AI coding agents — single Rust binary indexes any repo into a queryable graph over MCP, CLI, and JSON."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "codescope",
+    "code-intelligence",
+    "repo-map",
+    "mcp",
+    "rust"
+  ],
+  "relevance": "Offline code intelligence for agents.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV089zCWUAAS1yZ.jpg",
+      "from_post": "2115914449915957605",
+      "description": "Card \"codescope-cli v0.3.0: code intelligence for AI agents\" listing features and cargo install.",
+      "kind": "other",
+      "thumbnail": "posts/2026/10/29/2115914449915957605/media/0.webp"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "2115792219785343201",
+  "permalink": "https://x.com/apattichisx/status/2115792219785343201",
+  "author": {
+    "name": "Andreas Pattichis",
+    "handle": "@apattichisx",
+    "profile_url": "https://x.com/apattichisx"
+  },
+  "posted_at": "2026-10-29T13:05:49Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**Andreas Pattichis ([@apattichisx](https://x.com/apattichisx/status/2115792219785343201))** made a demo video of his website in two prompts with **/brag**, an open-source skill that turns a project into a short demo video ([latent-spaces/brag](https://github.com/latent-spaces/brag)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/latent-spaces/brag",
+      "from_post": "2115792219785343201",
+      "short_url": "https://t.co/WZJmkJa3eR",
+      "title": "GitHub - latent-spaces/brag: You built it. Now brag. Turn the project you just created into a short, shareable launch video with one command."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "brag",
+    "demo-video",
+    "agent-skill"
+  ],
+  "relevance": "Agent-generated product demo videos.",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://x.com/apattichisx/status/2115792219785343201/video/1",
+      "from_post": "2115792219785343201",
+      "description": "Demo video of a website made with /brag (not downloaded; referenced only)."
+    }
+  ]
+}

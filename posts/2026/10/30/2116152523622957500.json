@@ -1,0 +1,34 @@
+{
+  "id": "2116152523622957500",
+  "permalink": "https://x.com/TysonGeorge/status/2116152523622957500",
+  "author": {
+    "name": "Tyson George",
+    "handle": "@TysonGeorge",
+    "profile_url": "https://x.com/TysonGeorge"
+  },
+  "posted_at": "2026-10-30T12:57:32Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**Tyson George ([@TysonGeorge](https://x.com/TysonGeorge/status/2116152523622957500))** built **lazyide**, a terminal IDE with file tree, LSP and side-by-side git diff (F5) for reviewing what Claude Code or Codex changed without leaving the terminal or SSH ([TysonLabs/lazyide](https://github.com/TysonLabs/lazyide)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/TysonLabs/lazyide",
+      "from_post": "2116152523622957500",
+      "short_url": "https://t.co/iklrtS9Ynh",
+      "title": "GitHub - TysonLabs/lazyide: A full IDE experience anywhere you have a terminal. SSH into a server, run lazyide, and pair with your agentic coding tool."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "lazyide",
+    "terminal-ide",
+    "git-diff",
+    "claude-code",
+    "codex"
+  ],
+  "relevance": "Review tooling alongside terminal agents."
+}

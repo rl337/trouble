@@ -1,0 +1,33 @@
+{
+  "id": "2116177023010013682",
+  "permalink": "https://x.com/Manfridayy/status/2116177023010013682",
+  "author": {
+    "name": "Manfriday",
+    "handle": "@Manfridayy",
+    "profile_url": "https://x.com/Manfridayy"
+  },
+  "posted_at": "2026-10-30T14:34:53Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**Manfriday ([@Manfridayy](https://x.com/Manfridayy/status/2116177023010013682))** shares **switch**, a framework for decision-model harnesses where your program offers a short list of next steps and the model picks one at a time until it can answer ([osolmaz/switch](https://github.com/osolmaz/switch)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/osolmaz/switch",
+      "from_post": "2116177023010013682",
+      "short_url": "https://t.co/vlJlSYhqoD",
+      "title": "GitHub - osolmaz/switch: A framework for building decision-model harnesses for any kind of task. Your program offers the model a short list of next steps, and the model picks one at a time until it can answer."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "switch",
+    "decision-model",
+    "agent-harness",
+    "constrained-action"
+  ],
+  "relevance": "Constrained-choice harness pattern suited to small decision models."
+}

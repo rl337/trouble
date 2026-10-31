@@ -1,0 +1,44 @@
+{
+  "id": "2115931696319098891",
+  "permalink": "https://x.com/Official_Marc_H/status/2115931696319098891",
+  "author": {
+    "name": "Marc Hood",
+    "handle": "@Official_Marc_H",
+    "profile_url": "https://x.com/Official_Marc_H"
+  },
+  "posted_at": "2026-10-29T22:20:03Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**Marc Hood ([@Official_Marc_H](https://x.com/Official_Marc_H/status/2115931696319098891))** presents **Hoodsfield**, an open local AI film studio on ComfyUI with Flux 3 images, MiniMax H3 video with sound, 3D shot blocking, lip sync, loops and a timeline editor, without cloud, keys or per-clip fees ([designn2future/hoodsfield-ai](https://github.com/designn2future/hoodsfield-ai)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/designn2future/hoodsfield-ai",
+      "from_post": "2115931696319098891",
+      "short_url": "https://t.co/E186PPtHOz",
+      "title": "GitHub - designn2future/hoodsfield-ai: Open-source, local-first AI film studio built on ComfyUI. Idea in, finished video out: script, images, video, lip-sync, timeline editing, upscaling and seamless study/lofi loops. Runs on your own GPU. Optional Claude assistant."
+    }
+  ],
+  "hashtags": [
+    "OpenSourceHiggsfield"
+  ],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "hoodsfield",
+    "comfyui",
+    "film-studio",
+    "shot-blocking",
+    "lip-sync"
+  ],
+  "relevance": "Local open film-production studio.",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://x.com/Official_Marc_H/status/2115931696319098891/video/1",
+      "from_post": "2115931696319098891",
+      "description": "Hoodsfield demo (not downloaded; referenced only)."
+    }
+  ]
+}

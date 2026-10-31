@@ -1,0 +1,43 @@
+{
+  "id": "2116008451923230843",
+  "permalink": "https://x.com/lucas_flatwhite/status/2116008451923230843",
+  "author": {
+    "name": "lucas",
+    "handle": "@lucas_flatwhite",
+    "profile_url": "https://x.com/lucas_flatwhite"
+  },
+  "posted_at": "2026-10-30T03:25:03Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**lucas ([@lucas_flatwhite](https://x.com/lucas_flatwhite/status/2116008451923230843))** explains why **ai-design-skills** caught on: rules are extremely concrete (specific fonts, Tailwind scale, no background gradients, no Material icons), cover conversion strategy and work across agents ([elayadesign/ai-design-skills](https://github.com/elayadesign/ai-design-skills)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/elayadesign/ai-design-skills",
+      "from_post": "2116008451923230843",
+      "short_url": "https://t.co/zRjwutUDsH",
+      "title": "GitHub - elayadesign/ai-design-skills"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "ai-design-skill",
+    "design-skill",
+    "tailwind",
+    "conversion"
+  ],
+  "relevance": "Concrete design constraints beat vague guidance.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV2SbPzaIAAXWMj.jpg",
+      "from_post": "2116008451923230843",
+      "description": "Slide \"A design rulebook your coding agent can read\" outlining the skill's structure.",
+      "kind": "diagram",
+      "thumbnail": "posts/2026/10/30/2116008451923230843/media/0.webp"
+    }
+  ]
+}

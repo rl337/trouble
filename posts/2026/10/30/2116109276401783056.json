@@ -1,0 +1,52 @@
+{
+  "id": "2116109276401783056",
+  "permalink": "https://x.com/Memoirs/status/2116109276401783056",
+  "author": {
+    "name": "Machine Learning (ML) Papers",
+    "handle": "@Memoirs",
+    "profile_url": "https://x.com/Memoirs"
+  },
+  "posted_at": "2026-10-30T10:05:41Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**Machine Learning (ML) Papers ([@Memoirs](https://x.com/Memoirs/status/2116109276401783056))** shares *When Fine-Grained Credit Assignment Helps and Hurts* ([arXiv 2610.35497](https://arxiv.org/abs/2610.35497), [project](https://leizhao7.github.io/videoedit/)) by Zhao et al., using four movie-trailer editing tasks to show decaying process rewards help most on the longest Fine Cut task (+45.4% over outcome-only GRPO).",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.35497",
+      "from_post": "2116109276401783056",
+      "short_url": "https://t.co/UC1a6qNTGm",
+      "title": "When Fine-Grained Credit Assignment Helps and Hurts: Multimodal..."
+    },
+    {
+      "url": "https://leizhao7.github.io/videoedit/",
+      "from_post": "2116109276401783056",
+      "short_url": "https://t.co/AEqYgZUoG7",
+      "title": "VideoEdit — When Fine-Grained Credit Assignment Helps and Hurts"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-media",
+    "agentic-cognition"
+  ],
+  "keywords": [
+    "videoedit",
+    "credit-assignment",
+    "multimodal-agent",
+    "grpo",
+    "video-editing"
+  ],
+  "relevance": "RL for multimodal video-editing agents and when step rewards matter.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV3uLGyXwAAyj_5.png",
+      "from_post": "2116109276401783056",
+      "description": "Abstract of the VideoEdit RL paper.",
+      "kind": "paper",
+      "thumbnail": "posts/2026/10/30/2116109276401783056/media/0.webp",
+      "ocr_text": "Reinforcement learning (RL) has shown promise for training multimodal agents to reason and use tools. However, it remains unclear when fine-grained credit assignment improves learning and when it fails to improve task performance. Video editing provides a useful testbed for this question, combining multimodal perception, long-horizon planning, and tool use with delayed outcome feedback. We construct four movie-trailer editing task types—Content Selection, Narrative Sequencing, Rough Cut, and Fine Cut—that reflect real-world editing workflows and span different levels of task complexity and interaction horizon. Decaying process rewards provides the largest benefit on Fine Cut, with a 45.4% relative gain over outcome-only GRPO on tasks averaging more than 60 turns under outcome-only GRPO. On the three shorter-horizon task types averaging 30–40 turns under the same baseline, outcome-only GRPO remains competitive, with decaying process rewards yielding at most a 10.4% relative gain. Proces"
+    }
+  ]
+}

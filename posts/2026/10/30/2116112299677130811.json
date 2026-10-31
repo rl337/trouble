@@ -1,0 +1,42 @@
+{
+  "id": "2116112299677130811",
+  "permalink": "https://x.com/jeffBander/status/2116112299677130811",
+  "author": {
+    "name": "Jeffrey Bander MD",
+    "handle": "@jeffBander",
+    "profile_url": "https://x.com/jeffBander"
+  },
+  "posted_at": "2026-10-30T10:17:42Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**Jeffrey Bander MD ([@jeffBander](https://x.com/jeffBander/status/2116112299677130811))** cites *Auditing Escalation Reliability in Healthcare LLM Agents* ([arXiv 2610.21270](https://arxiv.org/abs/2610.21270)): small local models scored 0.91 on clean tasks but 0.00 when sources conflicted, so his design lets the model propose while tested code decides and escalates to a human.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.21270",
+      "from_post": "2116112299677130811",
+      "short_url": "https://t.co/3SAZP1gYkx",
+      "title": "Auditing Escalation Reliability in Healthcare LLM Agents: A..."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "local-models",
+    "agentic-cognition"
+  ],
+  "keywords": [
+    "escalation",
+    "small-model",
+    "healthcare-agent",
+    "human-in-the-loop"
+  ],
+  "relevance": "Design pattern for using small local models as workers, not judges.",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://x.com/jeffBander/status/2116112299677130811/video/1",
+      "from_post": "2116112299677130811",
+      "description": "Explainer clip on the propose/decide/escalate design (not downloaded; referenced only)."
+    }
+  ]
+}

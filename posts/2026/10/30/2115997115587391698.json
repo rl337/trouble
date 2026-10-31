@@ -1,0 +1,50 @@
+{
+  "id": "2115997115587391698",
+  "permalink": "https://x.com/_LiYuXuan_/status/2115997115587391698",
+  "author": {
+    "name": "Yuxuan Li",
+    "handle": "@_LiYuXuan_",
+    "profile_url": "https://x.com/_LiYuXuan_"
+  },
+  "posted_at": "2026-10-30T02:40:00Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**Yuxuan Li ([@_LiYuXuan_](https://x.com/_LiYuXuan_/status/2115997115587391698))** open-sources **ForgeKernel** after a nearly day-long live recursive self-improvement run that wrote 31 versions of DeepSeek V4.1 FlashMLA prefill from scratch without seeing official code, passing the baseline at version 13 within 10 hours and reaching 109.8% efficiency by hour 23 ([live page](https://openbmb.cn/forgekernel/), [OpenBMB/ForgeKernel](https://github.com/OpenBMB/ForgeKernel)).",
+  "referenced_urls": [
+    {
+      "url": "https://openbmb.cn/forgekernel/",
+      "from_post": "2115997115587391698",
+      "short_url": "https://t.co/RC0KM9bklj",
+      "title": "ForgeKernel Live"
+    },
+    {
+      "url": "https://github.com/OpenBMB/ForgeKernel",
+      "from_post": "2115997115587391698",
+      "short_url": "https://t.co/Zhn8YEgenL",
+      "title": "GitHub - OpenBMB/ForgeKernel"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "forgekernel",
+    "kernel-optimization",
+    "flashmla",
+    "deepseek",
+    "recursive-self-improvement"
+  ],
+  "relevance": "Autonomous kernel optimization in public.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV2CQktbAAAeMGB.jpg",
+      "from_post": "2115997115587391698",
+      "description": "ForgeKernel Live dashboard showing +9.8% over FlashMLA and the efficiency curve across versions.",
+      "kind": "screenshot",
+      "thumbnail": "posts/2026/10/30/2115997115587391698/media/0.webp"
+    }
+  ]
+}

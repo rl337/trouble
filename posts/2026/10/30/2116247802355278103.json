@@ -1,0 +1,34 @@
+{
+  "id": "2116247802355278103",
+  "permalink": "https://x.com/Ibrummmn/status/2116247802355278103",
+  "author": {
+    "name": "Ibrum",
+    "handle": "@Ibrummmn",
+    "profile_url": "https://x.com/Ibrummmn"
+  },
+  "posted_at": "2026-10-30T19:16:08Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**Ibrum ([@Ibrummmn](https://x.com/Ibrummmn/status/2116247802355278103))** simplifies **moe-cache**, which runs MoE models larger than RAM from SSD without a speed cliff, now with bundled llama.cpp kits, a hardware-aware model picker, live RAM/VRAM chat UI and connectors for OpenCode, Hermes and Claude Code ([IbrahimSiddiqui007/moe-cache](https://github.com/IbrahimSiddiqui007/moe-cache)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/IbrahimSiddiqui007/moe-cache",
+      "from_post": "2116247802355278103",
+      "short_url": "https://t.co/J5zOtsuKD0",
+      "title": "GitHub - IbrahimSiddiqui007/moe-cache: Run MoE models bigger than your RAM, without the speed cliff"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "local-models"
+  ],
+  "keywords": [
+    "moe-cache",
+    "moe",
+    "llama.cpp",
+    "ssd-offloading",
+    "gguf"
+  ],
+  "relevance": "Run big MoE models on limited memory."
+}

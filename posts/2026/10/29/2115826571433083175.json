@@ -1,0 +1,50 @@
+{
+  "id": "2115826571433083175",
+  "permalink": "https://x.com/positronx_/status/2115826571433083175",
+  "author": {
+    "name": "Shubhu",
+    "handle": "@positronx_",
+    "profile_url": "https://x.com/positronx_"
+  },
+  "posted_at": "2026-10-29T15:22:19Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [
+    {
+      "id": "2115826798865060066",
+      "permalink": "https://x.com/positronx_/status/2115826798865060066",
+      "posted_at": "2026-10-29T15:23:13Z",
+      "position": 1
+    }
+  ],
+  "summary_md": "**Shubhu ([@positronx_](https://x.com/positronx_/status/2115826571433083175))** made an anime-style video for $0.32 without a video model, using one skill with DeepSeek V4.1 Flash and an image model on GMI Cloud, with a write-up in the reply ([shubhu121/anime-style-video](https://github.com/shubhu121/anime-style-video)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/shubhu121/anime-style-video",
+      "from_post": "2115826571433083175",
+      "short_url": "https://t.co/X2TtswtCQd",
+      "title": "GitHub - shubhu121/anime-style-video"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-media",
+    "harness-dev"
+  ],
+  "keywords": [
+    "anime-style-video",
+    "agent-skill",
+    "deepseek",
+    "animation",
+    "image-generation"
+  ],
+  "relevance": "Cheap agentic animation without video-generation models.",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://x.com/positronx_/status/2115826571433083175/video/1",
+      "from_post": "2115826571433083175",
+      "description": "The $0.32 anime-style video (not downloaded; referenced only)."
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "id": "2116184530792984693",
+  "permalink": "https://x.com/Narra_Creator/status/2116184530792984693",
+  "author": {
+    "name": "Meme Creator",
+    "handle": "@Narra_Creator",
+    "profile_url": "https://x.com/Narra_Creator"
+  },
+  "posted_at": "2026-10-30T15:04:43Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**Meme Creator ([@Narra_Creator](https://x.com/Narra_Creator/status/2116184530792984693))** points to Tsinghua's *BURGER* ([arXiv 2610.40532](https://arxiv.org/abs/2610.40532)), a robot-drawing benchmark for understanding robotic generalization, with code ([Qxjyqzw/BURGER](https://github.com/Qxjyqzw/BURGER)).",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.40532",
+      "from_post": "2116184530792984693",
+      "short_url": "https://t.co/vvQKF3wPV5",
+      "title": "BURGER: Benchmarking and Understanding Robotic Generalization via..."
+    },
+    {
+      "url": "https://github.com/Qxjyqzw/BURGER",
+      "from_post": "2116184530792984693",
+      "short_url": "https://t.co/brvllwUdUp",
+      "title": "GitHub - Qxjyqzw/BURGER"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-cognition"
+  ],
+  "keywords": [
+    "burger",
+    "robotic-generalization",
+    "benchmark",
+    "embodied-ai"
+  ],
+  "relevance": "Generalization benchmark for embodied agents.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV4xjtnWYAA9nBs.jpg",
+      "from_post": "2116184530792984693",
+      "description": "BURGER project page showing a robot arm drawing a burger.",
+      "kind": "screenshot",
+      "thumbnail": "posts/2026/10/30/2116184530792984693/media/0.webp"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "id": "2116005543324115288",
+  "permalink": "https://x.com/arthurfiorette/status/2116005543324115288",
+  "author": {
+    "name": "Arthur Fiorette",
+    "handle": "@arthurfiorette",
+    "profile_url": "https://x.com/arthurfiorette"
+  },
+  "posted_at": "2026-10-30T03:13:29Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [
+    {
+      "id": "2116005546868330552",
+      "permalink": "https://x.com/arthurfiorette/status/2116005546868330552",
+      "posted_at": "2026-10-30T03:13:30Z",
+      "position": 1
+    },
+    {
+      "id": "2116005550496628951",
+      "permalink": "https://x.com/arthurfiorette/status/2116005550496628951",
+      "posted_at": "2026-10-30T03:13:31Z",
+      "position": 2
+    }
+  ],
+  "summary_md": "**Arthur Fiorette ([@arthurfiorette](https://x.com/arthurfiorette/status/2116005543324115288))** built **tests-diet**, a skill and CLI that ran a pool of 32 Haiku agents on Pi with read-only tools to triage 33,817 unit tests across 4,335 files for about $23, cutting 7 minutes from each CI run; it resumes if stopped and reports which tests to delete or merge, plus a writing-tests skill to prevent bloat ([arthurfiorette/tests-diet](https://github.com/arthurfiorette/tests-diet), [Pi](https://pi.dev)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/arthurfiorette/tests-diet",
+      "from_post": "2116005543324115288",
+      "short_url": "https://t.co/F1wJz9uWQv",
+      "title": "GitHub - arthurfiorette/tests-diet: Spawn a pool of pi agents that review every test in your repository and tell you which ones to delete."
+    },
+    {
+      "url": "https://pi.dev",
+      "from_post": "2116005546868330552",
+      "short_url": "https://t.co/gKls0QycBF",
+      "title": "Pi Coding Agent"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "tests-diet",
+    "pi-agent",
+    "agent-pool",
+    "unit-test",
+    "ci"
+  ],
+  "relevance": "Cheap agent pools for codebase hygiene.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV2MIN_XYAEYQqg.jpg",
+      "from_post": "2116005543324115288",
+      "description": "tests-diet dashboard: 4,335 files, 32 agents, $23, with a flagged test file.",
+      "kind": "screenshot",
+      "thumbnail": "posts/2026/10/30/2116005543324115288/media/0.webp"
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV2NUx1WcAAqdsW.jpg",
+      "from_post": "2116005546868330552",
+      "description": "Terminal view of parallel agents sorting tests.",
+      "kind": "screenshot",
+      "thumbnail": "posts/2026/10/30/2116005543324115288/media/1.webp"
+    }
+  ]
+}

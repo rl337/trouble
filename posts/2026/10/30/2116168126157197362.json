@@ -1,0 +1,68 @@
+{
+  "id": "2116168126157197362",
+  "permalink": "https://x.com/MMLA_org/status/2116168126157197362",
+  "author": {
+    "name": "MMLA",
+    "handle": "@MMLA_org",
+    "profile_url": "https://x.com/MMLA_org"
+  },
+  "posted_at": "2026-10-30T13:59:32Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**MMLA ([@MMLA_org](https://x.com/MMLA_org/status/2116168126157197362))** presents **MMLA** ([arXiv 2606.28876](https://arxiv.org/abs/2606.28876)), whose PDSA separates adapting a policy state from feedback and curating completed experience into bounded memory.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2606.28876",
+      "from_post": "2116168126157197362",
+      "short_url": "https://t.co/Xk7zwjuQKU",
+      "title": "MMLA: Memory-Mediated Learning Architecture for Predictive..."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-cognition"
+  ],
+  "keywords": [
+    "mmla",
+    "pdsa",
+    "agent-memory",
+    "policy-adaptation",
+    "continual-learning"
+  ],
+  "relevance": "Architecture separating reasoning updates from memory.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV4jsWXbsAA8lN1.jpg",
+      "from_post": "2116168126157197362",
+      "description": "'Two states. Different jobs.': numerical policy state vs authoritative memory.",
+      "kind": "diagram",
+      "thumbnail": "posts/2026/10/30/2116168126157197362/media/0.webp"
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV4jsXUbIAA3JfF.jpg",
+      "from_post": "2116168126157197362",
+      "description": "'A whole record. Or no write.': memory consolidation after segment closes.",
+      "kind": "diagram",
+      "thumbnail": "posts/2026/10/30/2116168126157197362/media/1.webp"
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV4jsWEaYAAiyT5.jpg",
+      "from_post": "2116168126157197362",
+      "description": "'See futures in training. Not at runtime.': predictive admission via future branches.",
+      "kind": "diagram",
+      "thumbnail": "posts/2026/10/30/2116168126157197362/media/2.webp"
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV4jsWVakAEvD9-.jpg",
+      "from_post": "2116168126157197362",
+      "description": "'Five kinds of state. Different lifetimes.' architecture overview.",
+      "kind": "diagram",
+      "thumbnail": "posts/2026/10/30/2116168126157197362/media/3.webp"
+    }
+  ]
+}

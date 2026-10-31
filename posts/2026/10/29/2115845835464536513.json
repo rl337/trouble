@@ -1,0 +1,41 @@
+{
+  "id": "2115845835464536513",
+  "permalink": "https://x.com/vibeconf/status/2115845835464536513",
+  "author": {
+    "name": "vibeconf",
+    "handle": "@vibeconf",
+    "profile_url": "https://x.com/vibeconf"
+  },
+  "posted_at": "2026-10-29T16:38:52Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**vibeconf ([@vibeconf](https://x.com/vibeconf/status/2115845835464536513))** shows **vibeconf**, an open-source app that makes AI agents real participants in video calls, here two Claude Code sessions, a Codex session and a Grok bot taking turns in a Google Meet ([wanderingstan/vibeconf-app](https://github.com/wanderingstan/vibeconf-app)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/wanderingstan/vibeconf-app",
+      "from_post": "2115845835464536513",
+      "short_url": "https://t.co/amYbUqQgZm",
+      "title": "GitHub - wanderingstan/vibeconf-app: AI agents as real participants in your video calls — the open-source desktop client (Electron + MCP). Bots join Google Meet, Zoom, Slack, Teams, Telegram, and WhatsApp calls. They hear, speak, show an avatar, and share screens, and more."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "vibeconf",
+    "video-call",
+    "multi-agent",
+    "google-meet"
+  ],
+  "relevance": "Multi-agent participation in live meetings.",
+  "media": [
+    {
+      "type": "gif",
+      "url": "https://x.com/vibeconf/status/2115845835464536513/photo/1",
+      "from_post": "2115845835464536513",
+      "description": "Animated clip of agents taking turns in a Google Meet (not downloaded; referenced only)."
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "2116091283970425189",
+  "permalink": "https://x.com/KajianD65580/status/2116091283970425189",
+  "author": {
+    "name": "Kajian",
+    "handle": "@KajianD65580",
+    "profile_url": "https://x.com/KajianD65580"
+  },
+  "posted_at": "2026-10-30T08:54:11Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**Kajian ([@KajianD65580](https://x.com/KajianD65580/status/2116091283970425189))** spots **effekseer-vfx-skill**, agent skills that build real-time game VFX as code, screenshot frames in Godot for self-review and hand them to a second scoring skill; the new version supports Unity and can turn video-model frame sequences into effects, works with Claude Code and Codex, MIT ([kanaworksai-hue/effekseer-vfx-skill](https://github.com/kanaworksai-hue/effekseer-vfx-skill)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/kanaworksai-hue/effekseer-vfx-skill",
+      "from_post": "2116091283970425189",
+      "short_url": "https://t.co/NFsNSVywAf",
+      "title": "GitHub - kanaworksai-hue/effekseer-vfx-skill: Agent skills that make real-time game VFX as code for Effekseer and verify them in real Godot renders (Claude Code, Codex and other Agent Skills hosts)."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-media",
+    "harness-dev"
+  ],
+  "keywords": [
+    "effekseer",
+    "game-vfx",
+    "godot",
+    "unity",
+    "agent-skill",
+    "claude-code"
+  ],
+  "relevance": "Self-checking agent loop for game VFX production."
+}

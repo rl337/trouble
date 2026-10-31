@@ -1,0 +1,35 @@
+{
+  "id": "2115709539735806456",
+  "permalink": "https://x.com/ModelScope2022/status/2115709539735806456",
+  "author": {
+    "name": "ModelScope",
+    "handle": "@ModelScope2022",
+    "profile_url": "https://x.com/ModelScope2022"
+  },
+  "posted_at": "2026-10-29T07:37:16Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**ModelScope ([@ModelScope2022](https://x.com/ModelScope2022/status/2115709539735806456))** announces **Nanbeige4.3-33B GGUF** on ModelScope, a 33B dense Apache-2.0 model aimed at coding, tool use and multi-step agent work, with a 512K-token base context and Q4_K_M through Q8_0 quantizations plus llama.cpp and Ollama setup notes ([ModelScope model page](https://modelscope.ai/models/Solstice-AI/Nanbeige4.3-33B-GGUF-UltraOptimised-Curated-Protium)).",
+  "referenced_urls": [
+    {
+      "url": "https://modelscope.ai/models/Solstice-AI/Nanbeige4.3-33B-GGUF-UltraOptimised-Curated-Protium",
+      "from_post": "2115709539735806456",
+      "short_url": "https://t.co/6l3BqB8Iv6",
+      "title": "Nanbeige4.3-33B-GGUF-UltraOptimised-Curated-Protium -…"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "local-models"
+  ],
+  "keywords": [
+    "nanbeige4.3-33b",
+    "gguf",
+    "llama.cpp",
+    "ollama",
+    "quantization",
+    "modelscope"
+  ],
+  "relevance": "A ~30B-class agent-oriented model with local quants, right in the DGX Spark sweet spot."
+}

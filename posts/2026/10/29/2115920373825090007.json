@@ -1,0 +1,47 @@
+{
+  "id": "2115920373825090007",
+  "permalink": "https://x.com/shiftmick/status/2115920373825090007",
+  "author": {
+    "name": "mick",
+    "handle": "@shiftmick",
+    "profile_url": "https://x.com/shiftmick"
+  },
+  "posted_at": "2026-10-29T21:35:03Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**mick ([@shiftmick](https://x.com/shiftmick/status/2115920373825090007))** releases **RatLabs Mesh v0.2.0**, a local studio plus MCP server that turns character art into game-ready 3D models, letting an AI client drive it ([labrat-0/ratlabs-mesh](https://github.com/labrat-0/ratlabs-mesh)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/labrat-0/ratlabs-mesh",
+      "from_post": "2115920373825090007",
+      "short_url": "https://t.co/KbHzcwo2b1",
+      "title": "GitHub - labrat-0/ratlabs-mesh: Turn character art into finished, game-ready 3D models, by hand or by asking any AI. Local studio + MCP server: cut-out, image-to-3D, cleanup, sizing, renders, auto-rig."
+    }
+  ],
+  "hashtags": [
+    "indiedev",
+    "MCP"
+  ],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "ratlabs-mesh",
+    "3d-model",
+    "character-art",
+    "mcp",
+    "game-asset"
+  ],
+  "relevance": "Agent-driven 2D-to-3D character asset pipeline.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV1ApLYaoAA8_ex.jpg",
+      "from_post": "2115920373825090007",
+      "description": "Promo \"Character art in. Game-ready 3D out.\" with the studio UI and install link.",
+      "kind": "screenshot",
+      "thumbnail": "posts/2026/10/29/2115920373825090007/media/0.webp"
+    }
+  ]
+}

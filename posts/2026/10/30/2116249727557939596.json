@@ -1,0 +1,33 @@
+{
+  "id": "2116249727557939596",
+  "permalink": "https://x.com/chenlin_meng/status/2116249727557939596",
+  "author": {
+    "name": "Chenlin Meng",
+    "handle": "@chenlin_meng",
+    "profile_url": "https://x.com/chenlin_meng"
+  },
+  "posted_at": "2026-10-30T19:23:47Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**Chenlin Meng ([@chenlin_meng](https://x.com/chenlin_meng/status/2116249727557939596))** highlights **Pika H3 Flex Turbo LoRAs** with 2-step drafts, 4-step generation and 8-step HD for ComfyUI and Diffusers ([akhaliq/Pika-H3-Flex-Turbo-LoRA](https://huggingface.co/akhaliq/Pika-H3-Flex-Turbo-LoRA)).",
+  "referenced_urls": [
+    {
+      "url": "https://huggingface.co/akhaliq/Pika-H3-Flex-Turbo-LoRA",
+      "from_post": "2116249727557939596",
+      "short_url": "https://t.co/uj8n248cRN",
+      "title": "akhaliq/Pika-H3-Flex-Turbo-LoRA · Hugging Face"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "pika-h3-flex",
+    "turbo-lora",
+    "comfyui",
+    "diffusers"
+  ],
+  "relevance": "Faster open video generation."
+}

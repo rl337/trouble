@@ -1,0 +1,49 @@
+{
+  "id": "2115875068802895878",
+  "permalink": "https://x.com/omarsar0/status/2115875068802895878",
+  "author": {
+    "name": "elvis",
+    "handle": "@omarsar0",
+    "profile_url": "https://x.com/omarsar0"
+  },
+  "posted_at": "2026-10-29T18:35:02Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**elvis ([@omarsar0](https://x.com/omarsar0/status/2115875068802895878))** highlights MIT Media Lab's *The Inbox as a Coordination Primitive for LLM Agent Societies* ([arXiv 2610.36264](https://arxiv.org/abs/2610.36264)): with push delivery an agent leading 20 negotiations re-proposes rejected options 97% of the time as context overflows, while pull-based inboxes governed by each agent's rules scale better in simulations of 1,000–16,000 agents ([DAIR summary](https://academy.dair.ai/papers/the-inbox-as-a-coordination-primitive-for-llm-agent-societies-2610.36264)).",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.36264",
+      "from_post": "2115875068802895878",
+      "short_url": "https://t.co/VJdypC6tIv"
+    },
+    {
+      "url": "https://academy.dair.ai/papers/the-inbox-as-a-coordination-primitive-for-llm-agent-societies-2610.36264",
+      "from_post": "2115875068802895878",
+      "short_url": "https://t.co/sEBPUi9FE7"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-cognition"
+  ],
+  "keywords": [
+    "inbox",
+    "agent-coordination",
+    "multi-agent",
+    "agent-society",
+    "context"
+  ],
+  "relevance": "Messaging design for large multi-agent systems.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV0ZKSWbMAAlYyB.jpg",
+      "from_post": "2115875068802895878",
+      "description": "First page of \"The Inbox as a Coordination Primitive for LLM Agent Societies\".",
+      "kind": "paper",
+      "thumbnail": "posts/2026/10/29/2115875068802895878/media/0.webp",
+      "ocr_text": "Preprint, under review, October 2026\nThe Inbox as a Coordination Primitive for LLM Agent Societies\nKarthik Sreedhar\nLeo Yuan\nks4190@columbia.edu\nMIT Media Lab\nMIT Media Lab\nCambridge, USA\nCambridge, USA\nPradyumna Chari\nRamesh Raskar\nMIT Media Lab\nMIT Media Lab\nCambridge, USA\nCambridge, USA\nAbstract\nExisting work focuses on delivery (sending the message or push)\n 26 0ct 2026\nLanguage-model agents increasingly coordinate in large groups,\nas the core problem to solve. For example, [1, 18, 39, 41] address the\nand current agent protocols focus on delivering messages. For these\nproblem at a protocol level for efficient message passing between\nagents, however, the scarce resource is not delivery but reading:\ngroups of agents. Other classes of work [13] study the information\nevery message costs tokens, and the context is finite. Current in-\nthat should be carried in these messages to make coordination effec-\nfrastructure works by push: the sender decides when a message\ntive. This paper studies an orthogonal, less-explored and arguably\nenters the recipient's context, so the recipient reads in arrival order\nequally important aspect of the scalable coordination problem in\nand drops the oldest messages once its context is full. We study the\nlarge LLM-agent societies: how should an agent decide which mes-\nalternative, pull, in which messages wait in an inbox outside the\nsage to receive and reason on, and what to ignore (the pull problem,\ncontext and the recipient's own rules decide what it reads and keeps.\nor what to read and respond to').\n[cs.MA]\nWe argue that the inbox is a coordination primitive: each agent\nThis, of course, is not a new problem framing. Human societies\nsets its rules privately, and those rules decide whether other agents\nshow evidence of constrained social contexts: humans can only\nrequests reach it. In simulated societies of up to 16,000 agents, with\neffectively pay attention to a small, finite number of peers in the\nevery decision an LLM judgment, we report three findings. First,\npush fails as an agent takes part in more coordination at once: an\nsending a message) is cheap. The scarce resource is what the agent\nreads [54]. Each read message costs tokens, and occupies finite\nalready rejected 97% of the time, because it has dropped the oldest\ncontext, so every new message displaces something already there.\narXiv:2610.36264v1\nreplies. Second, an inbox is necessary under heavy, noisy traffic.\nWe study the pull problem by introducing a new primitive: the\nWhere first come, first read misses every request, an inbox that first\nagent inbox. Think of the agent inbox as being similar to a human\nreads messages carrying a refundable deposit still finds about 60%\nemail inbox in purpose (but not in implementation or design), in\nof the agents a request needs, at every size from 1,000 to 16,000. On\nwhich messages wait outside the context of an agent, before the\na real email network, losses compound: when half the agents adopt\nagent's own rules decide what it reads and reacts to versus what is\nsuch an inbox, forwarded search recovers only 5% of full adoption,\nignored. This makes the inbox a private decision with public conse-\nagainst 42% for one-hop search. Third, an inbox comprises four\nquences. Each agent sets its rules independently for handling the\ndecisions (what to read, what to keep, what a sender pays, and what\ninbox, without senders being able to see them, yet those rules de-\ncide the effectiveness of society-level coordination. When requests\na reply may say), and the best rule for each depends on the traffic\nand the agent's role. Multi-agent coordination under load requires\nare forwarded, they also decide whether anyone behind that agent\nan inbox layer designed for the traffic each agent receives.\nis reached ($4.2.4). We therefore call the inbox a coordination prim-\nitive: a mechanism that every form of coordination in the society\nKeywords\nruns through.\nTo this end, we study inboxes in simulated societies of up to\nLLM agents, agent communication, attention, inbox, coordination,\n16,o00 agents across a range of goals, from negotiating shared\nagent societies\nschedules, to forming groups of agents with a common need. In\nthese societies, we study three questions: first, how do push and\n1 Introduction\npull hold up as an agent takes part in more coordination at once\nand receives more traffic, second, is the inbox as a primitive a need-\nThe frontier of large language model-based AI agent capabilities is\nto-have or a good-to-have, and third, what are some of the core\nachieved today, not with one agent, but with groups (or societies)\ndesign choices that need to be considered as we design a scalable\nof agents communicating and coordinating with each other [43, 44].\ncoordination primitive for agent societies.\nThis raises the question of effective, efficient and scalable communi-\nOur contributions are the following:\ncation: how should societies of agents share information, knowledge\nand context with each other.\n(1) We frame agent communication as push or pull, and we\nThis work is licensed under a Creative Commons Attribution Inter-\nnational 4.0 License.\nshow that push fails as an agent takes part in more coordina-\ntion at once. Under push, an agent leading 20 negotiations"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": "2116049617594826758",
+  "permalink": "https://x.com/SciFi/status/2116049617594826758",
+  "author": {
+    "name": "Artificial Intelligence Papers",
+    "handle": "@SciFi",
+    "profile_url": "https://x.com/SciFi"
+  },
+  "posted_at": "2026-10-30T06:08:37Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**Artificial Intelligence Papers ([@SciFi](https://x.com/SciFi/status/2116049617594826758))** shares *Verifiable Efficiency Limits of Innate LLM Planning in Sliding Puzzles* ([arXiv 2610.36415](https://arxiv.org/abs/2610.36415)), which isolates unaided planning by scoring complete plans with a verifiable efficiency metric over 8,400 outputs from seven models on 4×4 puzzles.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.36415",
+      "from_post": "2116049617594826758",
+      "short_url": "https://t.co/SeAIkGOhUj",
+      "title": "Verifiable Efficiency Limits of Innate LLM Planning in Sliding Puzzles"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-cognition"
+  ],
+  "keywords": [
+    "llm-planning",
+    "sliding-puzzle",
+    "efficiency",
+    "benchmark"
+  ],
+  "relevance": "Measures innate planning without tools.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV236fvWYAAUUlW.png",
+      "from_post": "2116049617594826758",
+      "description": "Image of the paper's abstract text.",
+      "kind": "paper",
+      "thumbnail": "posts/2026/10/30/2116049617594826758/media/0.webp",
+      "ocr_text": "Tool-assisted planning success can reflect external search and verification, leaving a model's unaided planning ability unresolved. We isolate innate planning through complete plans generated in one response without tools or execution feedback. We propose a verifiable framework that decomposes success-weighted plan efficiency as SPE=R× Q× E: execution reliability, planning coordination among legal plans, and action economy among completed plans. Trajectory replay and certified optima verify these factors; the joint score includes unsuccessful attempts. We evaluate 8,400 full-plan outputs from seven model conditions on 4×4 sliding puzzles, controlling exact horizon and obstacle count in the primary cohort. Models that complete every trial still become less economical at longer horizons, while higher efficiency among completed plans can coexist with poor goal attainment. SPE separates the overall capability hierarchy, while its factors distinguish coordination failure from inefficient co"
+    }
+  ]
+}

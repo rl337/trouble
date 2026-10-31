@@ -1,0 +1,41 @@
+{
+  "id": "2115849543808127473",
+  "permalink": "https://x.com/mervenoyann/status/2115849543808127473",
+  "author": {
+    "name": "merve",
+    "handle": "@mervenoyann",
+    "profile_url": "https://x.com/mervenoyann"
+  },
+  "posted_at": "2026-10-29T16:53:36Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**merve ([@mervenoyann](https://x.com/mervenoyann/status/2115849543808127473))** announces **Le Chonk** (Mistral Large 4) on the Hub with day-0 transformers and llama.cpp support plus quants ([blog](https://huggingface.co/blog/mistral-large4)).",
+  "referenced_urls": [
+    {
+      "url": "https://huggingface.co/blog/mistral-large4",
+      "from_post": "2115849543808127473",
+      "short_url": "https://t.co/3b5JyN7Beu",
+      "title": "Welcome Le Chonk: Mistral Large 4 on Hugging Face"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "local-models"
+  ],
+  "keywords": [
+    "mistral-large-4",
+    "le-chonk",
+    "transformers",
+    "llama.cpp"
+  ],
+  "relevance": "Open frontier model with local tooling on day 0.",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://x.com/mervenoyann/status/2115849543808127473/video/1",
+      "from_post": "2115849543808127473",
+      "description": "Announcement video (not downloaded; referenced only)."
+    }
+  ]
+}

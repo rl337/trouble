@@ -1,0 +1,41 @@
+{
+  "id": "2115957511069270167",
+  "permalink": "https://x.com/somi_ai/status/2115957511069270167",
+  "author": {
+    "name": "Somi",
+    "handle": "@somi_ai",
+    "profile_url": "https://x.com/somi_ai"
+  },
+  "posted_at": "2026-10-30T00:02:37Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**Somi ([@somi_ai](https://x.com/somi_ai/status/2115957511069270167))** highlights Speridlabs' open **Idol** image-to-3D (including unseen backs), citing timings of 3.4 s on B300, 19 s on RTX 4090 and 46 s on an RTX 3080 ([speridlabs/idol-sdk](https://github.com/speridlabs/idol-sdk)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/speridlabs/idol-sdk",
+      "from_post": "2115957511069270167",
+      "short_url": "https://t.co/HDGJ07BKB2",
+      "title": "GitHub - speridlabs/idol-sdk: Idol: a single image to 3D Gaussians. Inference SDK and demo."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "idol",
+    "image-to-3d",
+    "gaussian-splat",
+    "gpu-benchmark"
+  ],
+  "relevance": "Consumer-GPU timings for open image-to-3D.",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://x.com/somi_ai/status/2115957511069270167/video/1",
+      "from_post": "2115957511069270167",
+      "description": "Idol result demo (not downloaded; referenced only)."
+    }
+  ]
+}

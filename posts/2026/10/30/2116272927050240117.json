@@ -1,0 +1,33 @@
+{
+  "id": "2116272927050240117",
+  "permalink": "https://x.com/layer8labs8/status/2116272927050240117",
+  "author": {
+    "name": "AbE",
+    "handle": "@layer8labs8",
+    "profile_url": "https://x.com/layer8labs8"
+  },
+  "posted_at": "2026-10-30T20:55:58Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**AbE ([@layer8labs8](https://x.com/layer8labs8/status/2116272927050240117))** shares **ci-agent-audit**, which scans GitHub Actions and GitLab CI for untrusted text reaching prompts, disabled agent safeguards, overpowered tokens, model output reaching shells and direct pushes to main ([layer8labs8/ci-agent-audit](https://github.com/layer8labs8/ci-agent-audit)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/layer8labs8/ci-agent-audit",
+      "from_post": "2116272927050240117",
+      "short_url": "https://t.co/e5EfPH2g5U",
+      "title": "GitHub - layer8labs8/ci-agent-audit: Find prompt injection and unsafe AI agent setups in GitHub Actions and GitLab CI"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "ci-agent-audit",
+    "prompt-injection",
+    "github-actions",
+    "ci-security"
+  ],
+  "relevance": "Securing agents in CI."
+}

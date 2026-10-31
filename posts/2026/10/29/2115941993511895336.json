@@ -1,0 +1,32 @@
+{
+  "id": "2115941993511895336",
+  "permalink": "https://x.com/szrf6/status/2115941993511895336",
+  "author": {
+    "name": "阿菜AhChoi",
+    "handle": "@szrf6",
+    "profile_url": "https://x.com/szrf6"
+  },
+  "posted_at": "2026-10-29T23:00:58Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**阿菜AhChoi ([@szrf6](https://x.com/szrf6/status/2115941993511895336))** points to **skill-diet**, an agent skill that trims bloated skills by 70–80% of tokens; install with `npx skills add nicobailon/skill-diet -g` and ask the agent to put a skill on a diet ([nicobailon/skill-diet](https://github.com/nicobailon/skill-diet)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/nicobailon/skill-diet",
+      "from_post": "2115941993511895336",
+      "short_url": "https://t.co/JaQvObwS7O",
+      "title": "GitHub - nicobailon/skill-diet: An agent skill that keeps other skills lean and correct: a checklist for every edit, and a tested diet for bloated ones."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "skill-diet",
+    "agent-skill",
+    "token-reduction"
+  ],
+  "relevance": "Keeping skills lean saves context."
+}

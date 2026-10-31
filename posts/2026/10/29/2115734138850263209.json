@@ -1,0 +1,35 @@
+{
+  "id": "2115734138850263209",
+  "permalink": "https://x.com/HamburgerButton/status/2115734138850263209",
+  "author": {
+    "name": "Victor Solares",
+    "handle": "@HamburgerButton",
+    "profile_url": "https://x.com/HamburgerButton"
+  },
+  "posted_at": "2026-10-29T09:15:01Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**Victor Solares ([@HamburgerButton](https://x.com/HamburgerButton/status/2115734138850263209))** features **vibe-coding-tools** (\"The Wasp Nest\"), a plugin marketplace of specialist agents and skills configured for Cursor and Claude Code that enforces testing boundaries ([legioncodeinc/vibe-coding-tools](https://github.com/legioncodeinc/vibe-coding-tools)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/legioncodeinc/vibe-coding-tools",
+      "from_post": "2115734138850263209",
+      "short_url": "https://t.co/PAI6zFVEuY",
+      "title": "GitHub - legioncodeinc/vibe-coding-tools: The Wasp Nest: a plugin marketplace of AI coding agents, skills, and workflows for Claude Code, Codex, Cursor, ZCode, and Cowork, with PRDs, shared contracts, and verified delivery."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "vibe-coding-tool",
+    "plugin-marketplace",
+    "agent-skill",
+    "cursor",
+    "claude-code",
+    "testing"
+  ],
+  "relevance": "Curated agent/skill bundle with testing guardrails."
+}

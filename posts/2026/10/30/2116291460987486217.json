@@ -1,0 +1,34 @@
+{
+  "id": "2116291460987486217",
+  "permalink": "https://x.com/atomic_chat_hq/status/2116291460987486217",
+  "author": {
+    "name": "atomic.chat",
+    "handle": "@atomic_chat_hq",
+    "profile_url": "https://x.com/atomic_chat_hq"
+  },
+  "posted_at": "2026-10-30T22:09:37Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**atomic.chat ([@atomic_chat_hq](https://x.com/atomic_chat_hq/status/2116291460987486217))** offers uncensored **DeepSeek-V4.1-Flash-1017** GSQ-RCO GGUFs in three sizes for a 12 GB GPU with 64 GB RAM plus SSD via Strata, measuring refusals falling from 85% to 0% ([AtomicChat/DeepSeek-V4.1-Flash-1017-Uncensored-GSQ-RCO-GGUF](https://huggingface.co/AtomicChat/DeepSeek-V4.1-Flash-1017-Uncensored-GSQ-RCO-GGUF)).",
+  "referenced_urls": [
+    {
+      "url": "https://huggingface.co/AtomicChat/DeepSeek-V4.1-Flash-1017-Uncensored-GSQ-RCO-GGUF",
+      "from_post": "2116291460987486217",
+      "short_url": "https://t.co/c6OcKkvC6M",
+      "title": "AtomicChat/DeepSeek-V4.1-Flash-1017-Uncensored-GSQ-RCO-GGUF · Hugging Face"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "local-models"
+  ],
+  "keywords": [
+    "deepseek-v4.1-flash",
+    "gguf",
+    "quantization",
+    "strata",
+    "uncensored"
+  ],
+  "relevance": "Large MoE quantized for consumer hardware."
+}

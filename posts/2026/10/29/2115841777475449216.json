@@ -1,0 +1,44 @@
+{
+  "id": "2115841777475449216",
+  "permalink": "https://x.com/oaichu95/status/2115841777475449216",
+  "author": {
+    "name": "Oai Chu",
+    "handle": "@oaichu95",
+    "profile_url": "https://x.com/oaichu95"
+  },
+  "posted_at": "2026-10-29T16:22:44Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**Oai Chu ([@oaichu95](https://x.com/oaichu95/status/2115841777475449216))** shares **flat-to-3d**, seven MIT three.js scroll demos that turn a flat architectural drawing into a walkable 3D house with no image files or 3D models (100–190 KB each), each with a starter prompt ([Sam1983Aing/flat-to-3d](https://github.com/Sam1983Aing/flat-to-3d)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/Sam1983Aing/flat-to-3d",
+      "from_post": "2115841777475449216",
+      "short_url": "https://t.co/fCKiPVqdIj",
+      "title": "GitHub - Sam1983Aing/flat-to-3d: Seven ways to turn a flat architectural drawing into 3D as you scroll. Live demos, full code and a starter prompt for each, all in three.js."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "flat-to-3d",
+    "three.js",
+    "scroll-animation",
+    "architecture",
+    "procedural-3d"
+  ],
+  "relevance": "Prompt-reproducible procedural 3D web animation.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HVz63FbbkAEkHD_.png",
+      "from_post": "2115841777475449216",
+      "description": "Card \"Flat drawing > 3D house, as you scroll\" listing seven demos: exploded house, section sweep, open section, build time-lapse, schedule build, card model, sunlit elevation.",
+      "kind": "screenshot",
+      "thumbnail": "posts/2026/10/29/2115841777475449216/media/0.webp"
+    }
+  ]
+}

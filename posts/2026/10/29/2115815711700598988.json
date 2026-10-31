@@ -1,0 +1,34 @@
+{
+  "id": "2115815711700598988",
+  "permalink": "https://x.com/21cm142GHz/status/2115815711700598988",
+  "author": {
+    "name": "prevalent ﾌｷｭｳ†derive ｴﾙ",
+    "handle": "@21cm142GHz",
+    "profile_url": "https://x.com/21cm142GHz"
+  },
+  "posted_at": "2026-10-29T14:39:10Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**prevalent ﾌｷｭｳ†derive ｴﾙ ([@21cm142GHz](https://x.com/21cm142GHz/status/2115815711700598988))** summarizes *Scaling Laws for Tool-Use Agents via Controllable Environment Synthesis* ([arXiv 2610.37648](https://arxiv.org/abs/2610.37648)): increasing tool and database diversity and task complexity improves generalization more than adding problems, and the effect follows predictable scaling laws.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.37648",
+      "from_post": "2115815711700598988",
+      "short_url": "https://t.co/nWBjmaut9s",
+      "title": "Scaling Laws for Tool-Use Agents via Controllable Environment Synthesis"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev",
+    "agentic-cognition"
+  ],
+  "keywords": [
+    "scaling-law",
+    "tool-use",
+    "environment-synthesis",
+    "generalization"
+  ],
+  "relevance": "Guidance on what data actually makes tool-use agents generalize."
+}

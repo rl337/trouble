@@ -1,0 +1,54 @@
+{
+  "id": "2115829178344079654",
+  "permalink": "https://x.com/ysysimon/status/2115829178344079654",
+  "author": {
+    "name": "ysy",
+    "handle": "@ysysimon",
+    "profile_url": "https://x.com/ysysimon"
+  },
+  "posted_at": "2026-10-29T15:32:40Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**ysy ([@ysysimon](https://x.com/ysysimon/status/2115829178344079654))** shows Astra building an interactive 3D office from one prompt plus their skills, compared with a room scan from the 3D Model Anything app ([App Store](https://apps.apple.com/cn/app/3d-model-anything/id6825843398), [Endless-AI-Lab/YEngine-Releases](https://github.com/Endless-AI-Lab/YEngine-Releases)).",
+  "referenced_urls": [
+    {
+      "url": "https://apps.apple.com/cn/app/3d-model-anything/id6825843398",
+      "from_post": "2115829178344079654",
+      "short_url": "https://t.co/qHw2m2zpsV",
+      "title": "3D Model Anything App - App Store"
+    },
+    {
+      "url": "https://github.com/Endless-AI-Lab/YEngine-Releases",
+      "from_post": "2115829178344079654",
+      "short_url": "https://t.co/URNuXflCU0",
+      "title": "GitHub - Endless-AI-Lab/YEngine-Releases"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "yengine",
+    "3d-modeling",
+    "3d-scene",
+    "agent-skill",
+    "3d-model-anything"
+  ],
+  "relevance": "Prompt-to-3D scene modeling by agents.",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://x.com/ysysimon/status/2115829178344079654/video/1",
+      "from_post": "2115829178344079654",
+      "description": "Interactive 3D office generated from a prompt (not downloaded; referenced only)."
+    },
+    {
+      "type": "video",
+      "url": "https://x.com/ysysimon/status/2115829178344079654/video/2",
+      "from_post": "2115829178344079654",
+      "description": "Room scan comparison (not downloaded; referenced only)."
+    }
+  ]
+}

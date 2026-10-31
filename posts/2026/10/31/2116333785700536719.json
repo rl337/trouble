@@ -1,0 +1,33 @@
+{
+  "id": "2116333785700536719",
+  "permalink": "https://x.com/trymorewz/status/2116333785700536719",
+  "author": {
+    "name": "trymorewang",
+    "handle": "@trymorewz",
+    "profile_url": "https://x.com/trymorewz"
+  },
+  "posted_at": "2026-10-31T00:57:48Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**trymorewang ([@trymorewz](https://x.com/trymorewz/status/2116333785700536719))** explains Vercel Labs' **agent-desktop**. Coding agents use the OS accessibility tree to operate desktop apps on macOS, Windows and Linux in the background, without taking over the mouse or focus ([vercel-labs/agent-desktop](https://github.com/vercel-labs/agent-desktop)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/vercel-labs/agent-desktop",
+      "from_post": "2116333785700536719",
+      "short_url": "https://t.co/XDYptMp1Ar",
+      "title": "GitHub - vercel-labs/agent-desktop: Agent Desktop gives any agent reliable computer use on the desktop. Built with Rust, it sees any app's real UI structure through OS accessibility trees and operates it — refs stay stable and actions stay safe to retry, instead of guessing from pixels."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "agent-desktop",
+    "computer-use",
+    "accessibility-tree",
+    "vercel"
+  ],
+  "relevance": "Desktop computer use for coding agents."
+}

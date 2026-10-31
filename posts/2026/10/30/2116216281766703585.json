@@ -1,0 +1,55 @@
+{
+  "id": "2116216281766703585",
+  "permalink": "https://x.com/iltroiani/status/2116216281766703585",
+  "author": {
+    "name": "Davide",
+    "handle": "@iltroiani",
+    "profile_url": "https://x.com/iltroiani"
+  },
+  "posted_at": "2026-10-30T17:10:53Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [
+    {
+      "id": "2116216297260568818",
+      "permalink": "https://x.com/iltroiani/status/2116216297260568818",
+      "posted_at": "2026-10-30T17:10:57Z",
+      "position": 1
+    },
+    {
+      "id": "2116216696973496517",
+      "permalink": "https://x.com/iltroiani/status/2116216696973496517",
+      "posted_at": "2026-10-30T17:12:32Z",
+      "position": 2
+    }
+  ],
+  "summary_md": "**Davide ([@iltroiani](https://x.com/iltroiani/status/2116216281766703585))** runs **Qwen3.8 Flash Next 125B** at 10 tok/s on a 24 GB M4 Pro Mac mini with alpha **MoEShift**, streaming MoE experts from SSD, using an IQ3 XXS quant and demoing in OpenCode ([davide-troiani/moeshift](https://github.com/davide-troiani/moeshift)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/davide-troiani/moeshift",
+      "from_post": "2116216281766703585",
+      "short_url": "https://t.co/ocJNcFMp7s",
+      "title": "GitHub - davide-troiani/moeshift: Memory efficient and high performance Mixture-of-Experts inference for Apple Silicon"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "local-models"
+  ],
+  "keywords": [
+    "moeshift",
+    "qwen3.8-flash-next",
+    "moe",
+    "expert-streaming",
+    "mac-mini"
+  ],
+  "relevance": "SSD expert streaming for ~120B MoE on small memory.",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://x.com/iltroiani/status/2116216297260568818/video/1",
+      "from_post": "2116216297260568818",
+      "description": "OpenCode demo with the model (not downloaded; referenced only)."
+    }
+  ]
+}

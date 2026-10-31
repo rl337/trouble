@@ -1,0 +1,35 @@
+{
+  "id": "2115853425371988333",
+  "permalink": "https://x.com/skulitomslab/status/2115853425371988333",
+  "author": {
+    "name": "SkulitomsLab",
+    "handle": "@skulitomslab",
+    "profile_url": "https://x.com/skulitomslab"
+  },
+  "posted_at": "2026-10-29T17:09:01Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**SkulitomsLab ([@skulitomslab](https://x.com/skulitomslab/status/2115853425371988333))** shows **Pixelbolt**, an agent-first pixel-art and animation toolkit (JSON recipes to PNG/APNG) that installs a 68-file Claude Code skill with one npx command, version-pinned and not overwriting edits without --force ([skulitom/Pixelbolt](https://github.com/skulitom/Pixelbolt)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/skulitom/Pixelbolt",
+      "from_post": "2115853425371988333",
+      "short_url": "https://t.co/uDjys1Yaug",
+      "title": "GitHub - skulitom/Pixelbolt: Agent-first pixel art and animation toolkit. JSON recipes to PNG, APNG and sprite atlases via CLI, MCP server and local studio. Zero dependencies. MIT."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-media",
+    "harness-dev"
+  ],
+  "keywords": [
+    "pixelbolt",
+    "pixel-art",
+    "animation",
+    "agent-skill",
+    "claude-code"
+  ],
+  "relevance": "Agent-oriented pixel art and animation toolkit."
+}

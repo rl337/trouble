@@ -1,0 +1,33 @@
+{
+  "id": "2115996302442131911",
+  "permalink": "https://x.com/superstatuscc/status/2115996302442131911",
+  "author": {
+    "name": "superstatus",
+    "handle": "@superstatuscc",
+    "profile_url": "https://x.com/superstatuscc"
+  },
+  "posted_at": "2026-10-30T02:36:46Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**superstatus ([@superstatuscc](https://x.com/superstatuscc/status/2115996302442131911))** built **superstatus**, a Claude Code mod adding a local dashboard above and below the prompt with context left, quota, charts, countdowns, pomodoro and buttons ([eeesliao/superstatus](https://github.com/eeesliao/superstatus)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/eeesliao/superstatus",
+      "from_post": "2115996302442131911",
+      "short_url": "https://t.co/af1BGndwHL",
+      "title": "GitHub - eeesliao/superstatus: Your own dashboard in Claude Code: a status line, charts, countdowns, a pomodoro and buttons above the prompt. Type /ss"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "superstatus",
+    "claude-code",
+    "status-line",
+    "dashboard"
+  ],
+  "relevance": "Harness UI customization."
+}

@@ -1,0 +1,43 @@
+{
+  "id": "2116192437148226022",
+  "permalink": "https://x.com/ShinyStudio_XYZ/status/2116192437148226022",
+  "author": {
+    "name": "ShinyXYZ",
+    "handle": "@ShinyStudio_XYZ",
+    "profile_url": "https://x.com/ShinyStudio_XYZ"
+  },
+  "posted_at": "2026-10-30T15:36:08Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**ShinyXYZ ([@ShinyStudio_XYZ](https://x.com/ShinyStudio_XYZ/status/2116192437148226022))** made **Comfyture**, an MIT platform of cinematic presets on ComfyUI and the Comfy SDK for trends, 3D, photoshoots, anime openings and films ([ShAInyXYZ/Comfyture-App](https://github.com/ShAInyXYZ/Comfyture-App)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/ShAInyXYZ/Comfyture-App",
+      "from_post": "2116192437148226022",
+      "short_url": "https://t.co/8ByPBlLheF",
+      "title": "GitHub - ShAInyXYZ/Comfyture-App: Open-source cinematic presets built on ComfyUI and the Comfy SDK"
+    }
+  ],
+  "hashtags": [
+    "OpenSourceHiggsfield"
+  ],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "comfyture",
+    "comfyui",
+    "preset",
+    "opensourcehiggsfield"
+  ],
+  "relevance": "Preset-driven open media platform.",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://x.com/ShinyStudio_XYZ/status/2116192437148226022/video/1",
+      "from_post": "2116192437148226022",
+      "description": "Demo of presets (not downloaded; referenced only)."
+    }
+  ]
+}

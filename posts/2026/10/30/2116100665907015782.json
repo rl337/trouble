@@ -1,0 +1,43 @@
+{
+  "id": "2116100665907015782",
+  "permalink": "https://x.com/aysedemird_/status/2116100665907015782",
+  "author": {
+    "name": "Ayse Demir",
+    "handle": "@aysedemird_",
+    "profile_url": "https://x.com/aysedemird_"
+  },
+  "posted_at": "2026-10-30T09:31:28Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**Ayse Demir ([@aysedemird_](https://x.com/aysedemird_/status/2116100665907015782))** sketches applying **manifold steering** (Wurgaft et al., [arXiv 2605.05115](https://arxiv.org/abs/2605.05115)) to counterfactuals along a real-versus-hypothetical axis.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2605.05115",
+      "from_post": "2116100665907015782",
+      "short_url": "https://t.co/aHIa4x2YKU",
+      "title": "Manifold Steering Reveals the Shared Geometry of Neural Network..."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-cognition"
+  ],
+  "keywords": [
+    "manifold-steering",
+    "counterfactual",
+    "interpretability",
+    "activation-steering"
+  ],
+  "relevance": "Interpretability-driven steering of reasoning about counterfactuals.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV3iau2XkAAUwE5.jpg",
+      "from_post": "2116100665907015782",
+      "description": "Hand-drawn diagram of steering along a manifold between real and hypothetical states with LoRA comparison.",
+      "kind": "diagram",
+      "thumbnail": "posts/2026/10/30/2116100665907015782/media/0.webp"
+    }
+  ]
+}

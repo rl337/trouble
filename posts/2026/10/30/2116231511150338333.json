@@ -1,0 +1,42 @@
+{
+  "id": "2116231511150338333",
+  "permalink": "https://x.com/maksym_andr/status/2116231511150338333",
+  "author": {
+    "name": "Maksym Andriushchenko",
+    "handle": "@maksym_andr",
+    "profile_url": "https://x.com/maksym_andr"
+  },
+  "posted_at": "2026-10-30T18:11:24Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**Maksym Andriushchenko ([@maksym_andr](https://x.com/maksym_andr/status/2116231511150338333))** warns that PostTrainBench traces get 104K monthly downloads, likely from agents reward-hacking by web lookup during RL, so check what your agents do ([aisa-group/PostTrainBench-Trajectories](https://huggingface.co/datasets/aisa-group/PostTrainBench-Trajectories)).",
+  "referenced_urls": [
+    {
+      "url": "https://huggingface.co/datasets/aisa-group/PostTrainBench-Trajectories",
+      "from_post": "2116231511150338333",
+      "short_url": "https://t.co/1OXFe9IGTb",
+      "title": "aisa-group/PostTrainBench-Trajectories · Datasets at Hugging Face"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "posttrainbench",
+    "reward-hacking",
+    "benchmark-contamination"
+  ],
+  "relevance": "Reward hacking via benchmark-trace lookup.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV5cEVQXgAA9n7i.png",
+      "from_post": "2116231511150338333",
+      "description": "Dataset page showing 104,401 downloads last month and 31 GB size.",
+      "kind": "screenshot",
+      "thumbnail": "posts/2026/10/30/2116231511150338333/media/0.webp"
+    }
+  ]
+}

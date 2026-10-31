@@ -1,0 +1,44 @@
+{
+  "id": "2116400554196836732",
+  "permalink": "https://x.com/Memoirs/status/2116400554196836732",
+  "author": {
+    "name": "Machine Learning (ML) Papers",
+    "handle": "@Memoirs",
+    "profile_url": "https://x.com/Memoirs"
+  },
+  "posted_at": "2026-10-31T05:23:07Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**Machine Learning (ML) Papers ([@Memoirs](https://x.com/Memoirs/status/2116400554196836732))** shares *FOCUS* ([arXiv 2610.35801](https://arxiv.org/abs/2610.35801)) by Jiang et al., active critic learning that branches rollouts where the critic is least certain to improve value estimates for long-horizon agents.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.35801",
+      "from_post": "2116400554196836732",
+      "short_url": "https://t.co/4dM3I8vYI4",
+      "title": "FOCUS: Active Critic Learning for Long-Horizon Language Model Agents"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-cognition"
+  ],
+  "keywords": [
+    "focus",
+    "critic-learning",
+    "long-horizon-agent",
+    "reinforcement-learning"
+  ],
+  "relevance": "Credit assignment for long-horizon agents.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV73Fs_WMAAmUeb.png",
+      "from_post": "2116400554196836732",
+      "description": "Abstract of the FOCUS paper.",
+      "kind": "paper",
+      "thumbnail": "posts/2026/10/31/2116400554196836732/media/0.webp",
+      "ocr_text": "Sparse outcome rewards make it difficult for long-horizon language-model agents to assign credit to earlier actions. Learned critics provide value estimates for intermediate states, but these estimates can be inaccurate, while estimating intermediate values with repetitive continuation samples from points within a trajectory incurs substantial costs. To mitigate these issues, we introduce FOCUS, an RL method that uses selective branching to help the critic network learn its value estimator. The rollout controller facilitates active learning for the critic by sampling continuations from states that are expected to most reduce the critic's estimation error. These refined value estimates then score the segment between consecutive states with a TD(λ) advantage, while the sampled evidence supplies training targets for the critic. FOCUS supports long-horizon agentic reinforcement learning through a modular context-management interface that decouples context management from rollout allocation"
+    }
+  ]
+}

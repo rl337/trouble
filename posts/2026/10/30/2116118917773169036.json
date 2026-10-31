@@ -1,0 +1,50 @@
+{
+  "id": "2116118917773169036",
+  "permalink": "https://x.com/iamdagy/status/2116118917773169036",
+  "author": {
+    "name": "David Garcia",
+    "handle": "@iamdagy",
+    "profile_url": "https://x.com/iamdagy"
+  },
+  "posted_at": "2026-10-30T10:44:00Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**David Garcia ([@iamdagy](https://x.com/iamdagy/status/2116118917773169036))** built **Redo** to fix shots without reshooting: reframe, one-click object removal, pause cutting, upscaling and background removal using open-weight models with native ComfyUI nodes ([redoapp.dev](https://redoapp.dev), [iamdagy/redo](https://github.com/iamdagy/redo)).",
+  "referenced_urls": [
+    {
+      "url": "https://redoapp.dev",
+      "from_post": "2116118917773169036",
+      "short_url": "https://t.co/InzHEXs8q0",
+      "title": "Redo — Open Edit Video"
+    },
+    {
+      "url": "https://github.com/iamdagy/redo",
+      "from_post": "2116118917773169036",
+      "short_url": "https://t.co/Sw6T8aQRSN",
+      "title": "GitHub - iamdagy/redo: Redo — Open Edit Video: fix a shot without reshooting it. Open-source video editor on Comfy Cloud with native ComfyUI nodes and open-weight models."
+    }
+  ],
+  "hashtags": [
+    "OpenSourceHiggsfield"
+  ],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "redo",
+    "video-editing",
+    "comfyui",
+    "object-removal",
+    "opensourcehiggsfield"
+  ],
+  "relevance": "Open video repair toolkit.",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://x.com/iamdagy/status/2116118917773169036/video/1",
+      "from_post": "2116118917773169036",
+      "description": "Demo of reframing and object removal (not downloaded; referenced only)."
+    }
+  ]
+}

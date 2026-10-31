@@ -1,0 +1,91 @@
+{
+  "id": "2116188177488830828",
+  "permalink": "https://x.com/peterting310/status/2116188177488830828",
+  "author": {
+    "name": "Peter Ting",
+    "handle": "@peterting310",
+    "profile_url": "https://x.com/peterting310"
+  },
+  "posted_at": "2026-10-30T15:19:13Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [
+    {
+      "id": "2116188180965974028",
+      "permalink": "https://x.com/peterting310/status/2116188180965974028",
+      "posted_at": "2026-10-30T15:19:13Z",
+      "position": 1
+    },
+    {
+      "id": "2116188185537704415",
+      "permalink": "https://x.com/peterting310/status/2116188185537704415",
+      "posted_at": "2026-10-30T15:19:14Z",
+      "position": 2
+    },
+    {
+      "id": "2116188189111263297",
+      "permalink": "https://x.com/peterting310/status/2116188189111263297",
+      "posted_at": "2026-10-30T15:19:15Z",
+      "position": 3
+    },
+    {
+      "id": "2116188194320650689",
+      "permalink": "https://x.com/peterting310/status/2116188194320650689",
+      "posted_at": "2026-10-30T15:19:17Z",
+      "position": 4
+    },
+    {
+      "id": "2116188197822816571",
+      "permalink": "https://x.com/peterting310/status/2116188197822816571",
+      "posted_at": "2026-10-30T15:19:17Z",
+      "position": 5
+    }
+  ],
+  "summary_md": "**Peter Ting ([@peterting310](https://x.com/peterting310/status/2116188177488830828))** explains Microsoft's open-sourced **MXC** cross-platform sandbox SDK: JSON policies for readable/writable paths and egress enforced by OS isolation (Bubblewrap, Seatbelt, up to full VMs), with Node, Rust and .NET SDKs; he sketches wiring run() into an agent's tool loop and notes Codex can prefer MXC on Windows ([microsoft/mxc](https://github.com/microsoft/mxc)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/microsoft/mxc",
+      "from_post": "2116188177488830828",
+      "short_url": "https://t.co/N3GNAem6Fr",
+      "title": "GitHub - microsoft/mxc: Policy-driven, layered isolation and containment"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "mxc",
+    "sandbox",
+    "bubblewrap",
+    "seatbelt",
+    "agent-security"
+  ],
+  "relevance": "Embeddable sandboxing for custom agent products.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV409ZEa4AAyqPK.jpg",
+      "from_post": "2116188177488830828",
+      "description": "Title slide: MXC, Microsoft's cross-platform agent sandbox SDK.",
+      "kind": "other",
+      "thumbnail": "posts/2026/10/30/2116188177488830828/media/0.webp"
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV41L_CbQAAmmZf.jpg",
+      "from_post": "2116188185537704415",
+      "description": "Before/after flow of running agent code without vs with MXC policies.",
+      "kind": "diagram",
+      "thumbnail": "posts/2026/10/30/2116188177488830828/media/1.webp"
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV414bUbsAAx-P3.jpg",
+      "from_post": "2116188194320650689",
+      "description": "Diagram of wiring MXC run() into an agent tool-call loop.",
+      "kind": "diagram",
+      "thumbnail": "posts/2026/10/30/2116188177488830828/media/2.webp"
+    }
+  ]
+}

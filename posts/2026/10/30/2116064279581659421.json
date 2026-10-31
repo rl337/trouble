@@ -1,0 +1,42 @@
+{
+  "id": "2116064279581659421",
+  "permalink": "https://x.com/qwerty__cs/status/2116064279581659421",
+  "author": {
+    "name": "拓跋鼠",
+    "handle": "@qwerty__cs",
+    "profile_url": "https://x.com/qwerty__cs"
+  },
+  "posted_at": "2026-10-30T07:06:53Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**拓跋鼠 ([@qwerty__cs](https://x.com/qwerty__cs/status/2116064279581659421))** points to **SenseNova 6.8 Code2Video**, where a 27B model writes code that is then rendered into video, so element positions, layout and timing stay editable; weights, production skills and full execution traces are released under Apache 2.0 ([OpenSenseNova/SenseNova-6.8-Code2Video](https://github.com/OpenSenseNova/SenseNova-6.8-Code2Video)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/OpenSenseNova/SenseNova-6.8-Code2Video",
+      "from_post": "2116064279581659421",
+      "short_url": "https://t.co/wUxCMWRyr0",
+      "title": "GitHub - OpenSenseNova/SenseNova-6.8-Code2Video: The first open-source model for code-driven video creation."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "sensenova",
+    "code2video",
+    "video-generation",
+    "27b-model",
+    "execution-trace"
+  ],
+  "relevance": "Code-as-intermediate video generation is an editable, agent-friendly path for explainer and product videos.",
+  "media": [
+    {
+      "type": "gif",
+      "url": "https://x.com/qwerty__cs/status/2116064279581659421/photo/1",
+      "from_post": "2116064279581659421",
+      "description": "Animated preview of a code-rendered explainer video (not downloaded; referenced only)."
+    }
+  ]
+}

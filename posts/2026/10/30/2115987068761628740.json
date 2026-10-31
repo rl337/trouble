@@ -1,0 +1,49 @@
+{
+  "id": "2115987068761628740",
+  "permalink": "https://x.com/dair_ai/status/2115987068761628740",
+  "author": {
+    "name": "DAIR.AI",
+    "handle": "@dair_ai",
+    "profile_url": "https://x.com/dair_ai"
+  },
+  "posted_at": "2026-10-30T02:00:04Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**DAIR.AI ([@dair_ai](https://x.com/dair_ai/status/2115987068761628740))** highlights **RuHarness** ([arXiv 2610.36826](https://arxiv.org/abs/2610.36826)), which co-evolves the rubric alongside the harness by mining behavioral criteria from trajectories and targeting edits at the most relevant unresolved weakness, beating the strongest harness-evolution baseline by 4.5 points with Qwen3.5-35B-A3B and 5.3 with GLM-4.7-Flash ([DAIR summary](https://academy.dair.ai/papers/when-the-critic-falls-behind-co-evolving-rubrics-and-harnesses-for-continual-age-2610.368)).",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.36826",
+      "from_post": "2115987068761628740",
+      "short_url": "https://t.co/V1cHiIR4Hg"
+    },
+    {
+      "url": "https://academy.dair.ai/papers/when-the-critic-falls-behind-co-evolving-rubrics-and-harnesses-for-continual-age-2610.36826",
+      "from_post": "2115987068761628740",
+      "short_url": "https://t.co/2ucnAs9f0P"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "ruharness",
+    "self-improving-harness",
+    "rubric",
+    "qwen3.5-35b-a3b",
+    "glm-4.7-flash"
+  ],
+  "relevance": "Self-improving harnesses tested on local-size models.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV1_BjrbAAA0aVO.jpg",
+      "from_post": "2115987068761628740",
+      "description": "First page of \"When the Critic Falls Behind: Co-Evolving Rubrics and Harnesses for Continual Agent Self-Improvement\".",
+      "kind": "paper",
+      "thumbnail": "posts/2026/10/30/2115987068761628740/media/0.webp",
+      "ocr_text": "When the Critic Falls Behind: Co-Evolving Rubrics and Harnesses for\nContinual Agent Self-Improvement\nHao Chen', Yukun Yan?*, Ziyu Hanl, Ye Hel, Chuanzhe Guol, Shangzhan Lil,\nQi Shi?, Qingfu Zhu'l, Maosong Sun?, Wanxiang Chel *\n1Research Center for Social Computing and Interactive Robotics, Harbin Institute of Technology\n2Department of Computer Science and Technology, Institute for AI, Tsinghua University\nAbstract\nBehavioral weaknesses shift as the harness evolves\nHarness Ht\n Harness H+1\nAutonomous agents increasingly depend on\n27 Oct 2026\nharnesses that govern interaction, memory,\nSolve a coding problem\nSolve a coding problem\nusing external tools.\nusing external tools.\ntools, and execution around large language\nFailure profile\nSample trajectory\nSample trajectory\nFailure profle\nTool misuse\n70%\nHarness\nPlan the solution\nevolution\n Plan the solution\nmodels (LLMs). While recent work has begun\n65%\nMissing\nverification\n10%\nexecution tool\n12%\nto evolve these harnesses from execution expe-\nReasoning\nGenerate final\n8%\nQ Verify the result \nReasoning\nerror \nerror\nrience, the supervision used to guide evolution\nOther\n12%\nGenerate final\nOther\noften remains relatively static, making it diffi-\ncult to track changing behavioral weaknesses\nStatic rubrics fall behind\nFixed criteria\nStatic rubric\nCurrent failures under H\nObserved\nacross rounds and potentially limiting general-\nand priority\nevidence\nTool misuse\nHigh\nMissing\n65%\n[cs.A]]\nization to unseen tasks. To address this issue,\nReasoning error\nMedium\nsoning leads to wrong\n15%\nAnswerformat\nMedium\nerror\nwe propose RuHarness, a rubric-harness co-\nerror\nTool misuseTool ls used correctly...\nMissing\n12%\nverificatior\nevolution framework for continual agent self-\nLov\nOther\n8%\nimprovement. RuHarness continually discov-\nCurrent weakness is not prioritized.\ners and reassesses behavioral criteria from ex-\nCo-evolving rubrics keeppace with the evolving harness\narXiv:2610.36826v1 [\necution trajectories, prioritizes the most rele-\nUpdated rubric\nRubric\nTargeted guidance\n(for H+)\nnewevidence\nevolution\nvant unresolved weaknesses, and uses them to\n&improvement\ncus on missing\nHigh\nguide targeted harness updates while keeping\nverificationfailures\nGenerate targeted\nMed\nthe task objective fixed. Extensive experiments\nchecks\nUpdate the harness\nacross diverse agent tasks and backbone mod-\nFilter and prioritize\nNew failure\nUpdate rubric fronties\nUp-to-date diagnostic\nels show that RuHarness outperforms strong\nevidence from Hu1\nsignals guide targeted\nimprovement.\nharness-evolution baselines, particularly on un-\nseen held-out tasks. Further analyses show\nFigure l: Illustration of rubric-harness co-evolution\nthat adaptive rubric prioritization tracks shift-\nStatic rubrics may fall behind as behavioral weaknesses\ning weaknesses and supports more sustained\nshift during harness evolution, while co-evolving rubrics\nimprovement and stable generalization across\ntrack emerging failures and guide harness improvement.\nevolution rounds.\nIntroduction\nraising questions about whether harness optimiza-\nAs autonomous agents become increasingly preva-\ntion produces generalizable improvement.\nlent, their performance depends not only on the\nOne challenge behind this limited generalization\ncapabilities of the underlying large language model\nis that repeated harness optimization may gradu-\n(LLM) but also on the surrounding harness that gov-\nally overfit to task-specific failure patterns exposed\nerns interaction, memory, tools, and execution (Luo\nduring evolution (Srikanth et al., 2026). Existing\net al., 2026; Pan et al., 2026). Recent work has\nmethods optimize harness against task-level feed-\nbegun to evolve the harness itself from execution\nback, which indicates whether the agent succeeds\nexperience, enabling agents to improve without\nbut provides limited information about the behav-\nupdating model parameters (Zhang et al., 2026a;\nioral deficiencies underlying failure (Zhang et al.,\nLin et al., 2026b; Lee et al., 2026a). While such\n2026a). This limitation becomes increasingly im-\napproaches can yield substantial gains, recent con-\nportant during continual evolution: as the harness\ntrolled evaluations suggest that these improvements\nimproves, previously dominant failures may be mit-\nigated, while subtler or previously unseen failure\n* Corresponding Authors.\npatterns emerge (Nie et al., 2026). Figure 1 il-"
+    }
+  ]
+}

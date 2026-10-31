@@ -1,0 +1,70 @@
+{
+  "id": "2116241231936434346",
+  "permalink": "https://x.com/SanDevID_/status/2116241231936434346",
+  "author": {
+    "name": "JASA PEMBUATAN WEBSITE & APLIKASI MOBILE",
+    "handle": "@SanDevID_",
+    "profile_url": "https://x.com/SanDevID_"
+  },
+  "posted_at": "2026-10-30T18:50:02Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**JASA PEMBUATAN WEBSITE & APLIKASI MOBILE ([@SanDevID_](https://x.com/SanDevID_/status/2116241231936434346))** notes GitHub open-sourced **Replica**, which turns typed ideas into prototypes that follow your team's own design system without waiting for mockups ([github/replica](https://github.com/github/replica)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/github/replica",
+      "from_post": "2116241231936434346",
+      "short_url": "https://t.co/8gxPPpq4eS",
+      "title": "GitHub - github/replica: Interactive prototyping tools for your team."
+    }
+  ],
+  "hashtags": [
+    "OpenSource",
+    "AI"
+  ],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "replica",
+    "prototyping",
+    "design-system",
+    "github"
+  ],
+  "relevance": "Design-system-aware agentic prototyping.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV5mKo3asAA0IKH.jpg",
+      "from_post": "2116241231936434346",
+      "description": "Indonesian slide: prototypes without waiting for a designer.",
+      "kind": "other",
+      "thumbnail": "posts/2026/10/30/2116241231936434346/media/0.webp"
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV5mLAlbAAAl1Sb.jpg",
+      "from_post": "2116241231936434346",
+      "description": "Slide listing why it differs: uses your design system, plain language, everyone can follow.",
+      "kind": "other",
+      "thumbnail": "posts/2026/10/30/2116241231936434346/media/1.webp"
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV5mLZZa8AEAcUS.jpg",
+      "from_post": "2116241231936434346",
+      "description": "GitHub repository page of github/replica.",
+      "kind": "screenshot",
+      "thumbnail": "posts/2026/10/30/2116241231936434346/media/2.webp"
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV5mLvWbYAAoR0C.jpg",
+      "from_post": "2116241231936434346",
+      "description": "Slide inviting readers to open the repo tonight.",
+      "kind": "other",
+      "thumbnail": "posts/2026/10/30/2116241231936434346/media/3.webp"
+    }
+  ]
+}

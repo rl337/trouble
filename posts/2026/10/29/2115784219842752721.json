@@ -1,0 +1,79 @@
+{
+  "id": "2115784219842752721",
+  "permalink": "https://x.com/jian_yang96/status/2115784219842752721",
+  "author": {
+    "name": "Jian Yang",
+    "handle": "@jian_yang96",
+    "profile_url": "https://x.com/jian_yang96"
+  },
+  "posted_at": "2026-10-29T12:34:02Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**Jian Yang ([@jian_yang96](https://x.com/jian_yang96/status/2115784219842752721))** introduces **IQuest-Q1**, an open-weight MoE foundation model for coding and agentic CLI work trained with human-supervised recursive self-improvement, with a [report](https://arxiv.org/pdf/2610.30949), [blog](https://iquestlab.github.io/), [weights](https://huggingface.co/IQuestLab/IQuest-Q1) and [code](https://github.com/IQuestLab/IQuest-Q1).",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/pdf/2610.30949",
+      "from_post": "2115784219842752721",
+      "short_url": "https://t.co/DAQYMYpaDx"
+    },
+    {
+      "url": "https://iquestlab.github.io/",
+      "from_post": "2115784219842752721",
+      "short_url": "https://t.co/hNW456hLuC",
+      "title": "IQuest-Q1: Advancing Foundation Capabilities for Agentic CLI Systems"
+    },
+    {
+      "url": "https://huggingface.co/IQuestLab/IQuest-Q1",
+      "from_post": "2115784219842752721",
+      "short_url": "https://t.co/7mKAShy2ct",
+      "title": "IQuestLab/IQuest-Q1 · Hugging Face"
+    },
+    {
+      "url": "https://github.com/IQuestLab/IQuest-Q1",
+      "from_post": "2115784219842752721",
+      "short_url": "https://t.co/DX7Y6tdVM3",
+      "title": "GitHub - IQuestLab/IQuest-Q1"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "local-models",
+    "harness-dev"
+  ],
+  "keywords": [
+    "iquest-q1",
+    "open-weight",
+    "mixture-of-experts",
+    "agentic-cli",
+    "recursive-self-improvement"
+  ],
+  "relevance": "New open agentic-coding model with a detailed technical report.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HVywPH3a4AAlOhx.jpg",
+      "from_post": "2115784219842752721",
+      "description": "First page of the IQuest-Q1 report with abstract and benchmark bar charts.",
+      "kind": "paper",
+      "thumbnail": "posts/2026/10/29/2115784219842752721/media/0.webp",
+      "ocr_text": "lQuest\nIQuest-Ql:AdvancingFoundationCapabilities\nforAgenticCLISystems\nIQuest Research\nAbstract\nWe presentIQuest-Q1,a sparseMixture-of-Experts (MoE)agenticfoundation model with\n320B total parameters (15B activated). IQuest-Q1 is developed through a three-stage\nprocess: (1) stable and efficient pre-training, combining Stable SplitNorm, Muon, and μP with\na two-stage curriculum whose second stage increases the coding-data mixture, preserving a\nwide stability margin between safe and optimal learning rates; (2) fine-grained mid-training,\nexpanding the data mixture across domains and formats and progressively extending\nthe context; and (3) multi-scaffold with multi-version post-training, combining SFT, domain-\nspecialized RL, and MOPD across various scaffolds to integrate complementary training\nsignals and strengthen agentic coding capabilities. Furthermore, model merging combines\ndifferent experts and checkpoints from different stages while mitigating conflicts among\ntheir parameter updates. The resulting IQuest-Q1 demonstrates capabilities in both coding\nand general tasks. We release IQuest-Q1 as an open-source model to support community\nresearchand development.\nDeepsWE v1.1\nNL2Repo\nCyberGym\nTerminal-Bench 2.1\n73.7\n89.1\n84.5\n85.4\n83.3\n64.664.3\n84.383.282.7\n78.4\nJobBench\nAgents'LastExam\nHumanity's Last Exam\nIQuest-CLIBench\n43.4\n32.2\n31.8\n39.0\n49.7\n53.7\n25.2"
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HVywN7ebcAA9Naj.jpg",
+      "from_post": "2115784219842752721",
+      "description": "Scaling plots: IQuest-Q1 training efficiency vs. Qwen3 models and learning rate vs. active parameters.",
+      "kind": "chart",
+      "thumbnail": "posts/2026/10/29/2115784219842752721/media/1.webp"
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HVywWT3aMAAuRAm.jpg",
+      "from_post": "2115784219842752721",
+      "description": "Matrix of environment, verifier and construction coverage across domains such as software engineering, terminal workflows and cybersecurity.",
+      "kind": "chart",
+      "thumbnail": "posts/2026/10/29/2115784219842752721/media/2.webp"
+    }
+  ]
+}

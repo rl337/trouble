@@ -1,0 +1,34 @@
+{
+  "id": "2116147666862100664",
+  "permalink": "https://x.com/seclogz/status/2116147666862100664",
+  "author": {
+    "name": "Seclog",
+    "handle": "@seclogz",
+    "profile_url": "https://x.com/seclogz"
+  },
+  "posted_at": "2026-10-30T12:38:14Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**Seclog ([@seclogz](https://x.com/seclogz/status/2116147666862100664))** points to **claude-code-backdoor-check**, a read-only macOS/Linux scanner for the backdoored Claude Code 2.1.313 extension found in the Cursor marketplace in Oct 2026, checking SSH keys, persistence and reverse tunnels ([HappyHackingSpace/claude-code-backdoor-check](https://github.com/HappyHackingSpace/claude-code-backdoor-check)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/HappyHackingSpace/claude-code-backdoor-check?utm_source=x&utm_medium=social&utm_campaign=seclog",
+      "from_post": "2116147666862100664",
+      "short_url": "https://t.co/Js3Keqkiv5",
+      "title": "GitHub - HappyHackingSpace/claude-code-backdoor-check: Read-only scanner for the backdoored Claude Code 2.1.313 extension (Cursor marketplace, Oct 2026): SSH key, persistence, reverse tunnel. macOS + Linux."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "claude-code",
+    "backdoor",
+    "supply-chain",
+    "security-scanner",
+    "extension"
+  ],
+  "relevance": "Supply-chain security alert for agent tooling."
+}

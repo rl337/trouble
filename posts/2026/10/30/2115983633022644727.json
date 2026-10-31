@@ -1,0 +1,188 @@
+{
+  "id": "2115983633022644727",
+  "permalink": "https://x.com/LukeParkerDev/status/2115983633022644727",
+  "author": {
+    "name": "Luke Parker",
+    "handle": "@LukeParkerDev",
+    "profile_url": "https://x.com/LukeParkerDev"
+  },
+  "posted_at": "2026-10-30T01:46:25Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**Luke Parker ([@LukeParkerDev](https://x.com/LukeParkerDev/status/2115983633022644727))** rounds up community GUI plugins for **OpenCode Desktop**, including a GitHub panel with commit graph, PRs and CI, inline PR review with \"review with agent\", a per-chat notepad the agent can edit, Codex-style side chats, a plugin store and toggles, offline voice prompts with a local model, and a starter for creating plugins ([neriousy/opencode-github-panel](https://github.com/neriousy/opencode-github-panel), [create-opencode-desktop-plugin](https://github.com/spinualexandru/create-opencode-desktop-plugin)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/neriousy/opencode-github-panel",
+      "from_post": "2115983633022644727",
+      "short_url": "https://t.co/i0fpXKxvkG",
+      "title": "GitHub - neriousy/opencode-github-panel: Git and GitHub side panel for OpenCode Desktop: graph, PRs, reviews, CI, issues, triage, and agent tools with an approval queue"
+    },
+    {
+      "url": "https://github.com/timrekelj/opencode_config/tree/main/plugins/pr-review",
+      "from_post": "2115983633022644727",
+      "short_url": "https://t.co/VimstVILiM"
+    },
+    {
+      "url": "https://github.com/parzival1l/opencode-notepad",
+      "from_post": "2115983633022644727",
+      "short_url": "https://t.co/2PcUFQA7mB"
+    },
+    {
+      "url": "https://github.com/parzival1l/opencode-side-chat",
+      "from_post": "2115983633022644727",
+      "short_url": "https://t.co/pdSkPKqfvM"
+    },
+    {
+      "url": "https://github.com/lay-wang/opencode-plugin-market",
+      "from_post": "2115983633022644727",
+      "short_url": "https://t.co/aGoVvHPLYY"
+    },
+    {
+      "url": "https://github.com/lay-wang/opencode-plugin-toggle",
+      "from_post": "2115983633022644727",
+      "short_url": "https://t.co/k1V0asVaM7"
+    },
+    {
+      "url": "https://github.com/shaderko/opencode-voice-phonon",
+      "from_post": "2115983633022644727",
+      "short_url": "https://t.co/tkC2UhEfGO"
+    },
+    {
+      "url": "https://github.com/dbpolito/opencode-board",
+      "from_post": "2115983633022644727",
+      "short_url": "https://t.co/6LhjIeZMEE"
+    },
+    {
+      "url": "https://github.com/davidprokopec/opencode-schedule",
+      "from_post": "2115983633022644727",
+      "short_url": "https://t.co/xdHe1tgtua"
+    },
+    {
+      "url": "https://github.com/jhutchings1/opencode-scheduled-jobs",
+      "from_post": "2115983633022644727",
+      "short_url": "https://t.co/a8KZjsLp4I"
+    },
+    {
+      "url": "https://github.com/TheKeyblader/opencode-eye",
+      "from_post": "2115983633022644727",
+      "short_url": "https://t.co/4qn1E3AvlC"
+    },
+    {
+      "url": "https://github.com/riggyz/opencode-pets",
+      "from_post": "2115983633022644727",
+      "short_url": "https://t.co/4B8IhN2PW9"
+    },
+    {
+      "url": "https://github.com/kyan0045/opencode-plugins",
+      "from_post": "2115983633022644727",
+      "short_url": "https://t.co/XMZt3wwOlv"
+    },
+    {
+      "url": "https://github.com/daydalek/opencode-tempo",
+      "from_post": "2115983633022644727",
+      "short_url": "https://t.co/V9QAGeMPRN"
+    },
+    {
+      "url": "https://github.com/FluxCapacitor2/opencode-desktop-go-usage",
+      "from_post": "2115983633022644727",
+      "short_url": "https://t.co/qEmixakODr"
+    },
+    {
+      "url": "https://github.com/pank-su/opencode-prompt-completion",
+      "from_post": "2115983633022644727",
+      "short_url": "https://t.co/hYMQNu7hlS"
+    },
+    {
+      "url": "https://github.com/DevDengChao/opencode-plugin-search-in-session",
+      "from_post": "2115983633022644727",
+      "short_url": "https://t.co/kuMl1tFki4"
+    },
+    {
+      "url": "https://github.com/DevDengChao/opencode-plugin-filterable-table",
+      "from_post": "2115983633022644727",
+      "short_url": "https://t.co/xwZicSEPZc"
+    },
+    {
+      "url": "https://github.com/garabateador/opencode-plugins",
+      "from_post": "2115983633022644727",
+      "short_url": "https://t.co/WwuWRV1jLX"
+    },
+    {
+      "url": "https://github.com/dluc/opencode-session-document",
+      "from_post": "2115983633022644727",
+      "short_url": "https://t.co/l4KjOQvQVv"
+    },
+    {
+      "url": "https://github.com/mustafaerpek/opencode-brief",
+      "from_post": "2115983633022644727",
+      "short_url": "https://t.co/kIhciyXLQa"
+    },
+    {
+      "url": "https://github.com/no-phux/phux",
+      "from_post": "2115983633022644727",
+      "short_url": "https://t.co/1aHZcmb2ek"
+    },
+    {
+      "url": "https://github.com/rizal72/opencode-plugins",
+      "from_post": "2115983633022644727",
+      "short_url": "https://t.co/R0DPKoVomM"
+    },
+    {
+      "url": "https://github.com/henrikogaard/opencode-plugins",
+      "from_post": "2115983633022644727",
+      "short_url": "https://t.co/1MjPhNyz4B"
+    },
+    {
+      "url": "https://github.com/lokeoke/opencode-review-loop",
+      "from_post": "2115983633022644727",
+      "short_url": "https://t.co/hfLq38ICmj"
+    },
+    {
+      "url": "https://github.com/uonl/opencode-browser-preview",
+      "from_post": "2115983633022644727",
+      "short_url": "https://t.co/PWKVvHN8Kf"
+    },
+    {
+      "url": "https://github.com/Subhashis360/opencode-mod",
+      "from_post": "2115983633022644727",
+      "short_url": "https://t.co/DomJ2YgGPx"
+    },
+    {
+      "url": "https://github.com/yee94/opencode-eficy",
+      "from_post": "2115983633022644727",
+      "short_url": "https://t.co/pYngnu79B0"
+    },
+    {
+      "url": "https://github.com/Realmagnum/opencode-translate-selection",
+      "from_post": "2115983633022644727",
+      "short_url": "https://t.co/tpKap1kWnq"
+    },
+    {
+      "url": "https://github.com/yortem/opencode-fix-topbar",
+      "from_post": "2115983633022644727",
+      "short_url": "https://t.co/NpAUCLuhwF"
+    },
+    {
+      "url": "https://github.com/vimtor/opencode-plugins",
+      "from_post": "2115983633022644727",
+      "short_url": "https://t.co/rrBCTyGVLw"
+    },
+    {
+      "url": "https://github.com/spinualexandru/create-opencode-desktop-plugin",
+      "from_post": "2115983633022644727",
+      "short_url": "https://t.co/9tXPkop2ua"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "opencode",
+    "plugin",
+    "desktop",
+    "pr-review"
+  ],
+  "relevance": "Ecosystem snapshot for an open harness's plugins."
+}

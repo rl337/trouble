@@ -1,0 +1,32 @@
+{
+  "id": "2115932189724447120",
+  "permalink": "https://x.com/matthewzammit/status/2115932189724447120",
+  "author": {
+    "name": "Matthew Zammit",
+    "handle": "@matthewzammit",
+    "profile_url": "https://x.com/matthewzammit"
+  },
+  "posted_at": "2026-10-29T22:22:00Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**Matthew Zammit ([@matthewzammit](https://x.com/matthewzammit/status/2115932189724447120))** updated his **figma-from-code** skill, which rebuilds every screen and state of what you've coded as Figma pages, handy for reference and marketing assets ([matthewzammit/skills](https://github.com/matthewzammit/skills/tree/main/skills/figma-from-code)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/matthewzammit/skills/tree/main/skills/figma-from-code",
+      "from_post": "2115932189724447120",
+      "short_url": "https://t.co/HTJNtLHalD"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "figma-from-code",
+    "figma",
+    "agent-skill",
+    "design"
+  ],
+  "relevance": "Code-to-design round trip as a skill."
+}
