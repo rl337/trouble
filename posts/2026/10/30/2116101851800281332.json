@@ -1,0 +1,110 @@
+{
+  "id": "2116101851800281332",
+  "permalink": "https://x.com/SuperWaLLEAI/status/2116101851800281332",
+  "author": {
+    "name": "飞翔的企鹅",
+    "handle": "@SuperWaLLEAI",
+    "profile_url": "https://x.com/SuperWaLLEAI"
+  },
+  "posted_at": "2026-10-30T09:36:11Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [
+    {
+      "id": "2116102141278552561",
+      "permalink": "https://x.com/SuperWaLLEAI/status/2116102141278552561",
+      "posted_at": "2026-10-30T09:37:20Z",
+      "position": 1
+    },
+    {
+      "id": "2116102256210924010",
+      "permalink": "https://x.com/SuperWaLLEAI/status/2116102256210924010",
+      "posted_at": "2026-10-30T09:37:47Z",
+      "position": 2
+    },
+    {
+      "id": "2116102348561129887",
+      "permalink": "https://x.com/SuperWaLLEAI/status/2116102348561129887",
+      "posted_at": "2026-10-30T09:38:09Z",
+      "position": 3
+    },
+    {
+      "id": "2116102425362973131",
+      "permalink": "https://x.com/SuperWaLLEAI/status/2116102425362973131",
+      "posted_at": "2026-10-30T09:38:28Z",
+      "position": 4
+    }
+  ],
+  "summary_md": "**飞翔的企鹅 ([@SuperWaLLEAI](https://x.com/SuperWaLLEAI/status/2116101851800281332))** shows the Muse agent producing a chibi animated episode in about two minutes from an open-source **ai-anime-series** skill: one minute for capabilities and creative options, another for script, character sheet, storyboard and video; follow-ups post the intermediate artifacts ([10291124jcjc-dotcom/ai-anime-series](https://github.com/10291124jcjc-dotcom/ai-anime-series)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/10291124jcjc-dotcom/ai-anime-series",
+      "from_post": "2116101851800281332",
+      "short_url": "https://t.co/B4aiod4gyP",
+      "title": "GitHub - 10291124jcjc-dotcom/ai-anime-series: AI 动画单元剧：固定原创角色，一句话出一集。角色设定图 + 宫格故事板 + 即梦 Seedance 一次生成。Claude Skill."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "ai-anime-series",
+    "muse",
+    "seedance",
+    "storyboard",
+    "character-sheet",
+    "animation"
+  ],
+  "relevance": "End-to-end agentic animation from a reusable skill.",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://x.com/SuperWaLLEAI/status/2116101851800281332/video/1",
+      "from_post": "2116101851800281332",
+      "description": "Short chibi animation of a raccoon and ferret (not downloaded; referenced only)."
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV3m28BbIAAjkDg.jpg",
+      "from_post": "2116101851800281332",
+      "description": "Grid storyboard of sketched raccoon and ferret scenes.",
+      "kind": "other",
+      "thumbnail": "posts/2026/10/30/2116101851800281332/media/1.webp"
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV3np_ib0AA0E51.png",
+      "from_post": "2116102141278552561",
+      "description": "Chat screenshot of the agent proposing creative options and asking which to pick.",
+      "kind": "prompt",
+      "thumbnail": "posts/2026/10/30/2116101851800281332/media/2.webp",
+      "ocr_text": "可以，不过要先说清这个Skill原本是怎么分工的，我已经把仓库拉下来看过，脚本\n环境也测过了，Python、ffmpeg、Pillow 都没问题。\n它核心是故事板直出\"：先定原创角色和招牌能力，再写一集无台词动作喜剧，30\n秒对应9格故事板，最后用角色设定图加故事板去生成视频。原流程里最后一步是\n在即梦画布里用 Seedance 2.5生成，需要即梦会员，而且是用户自己在画布里操\n作，我没法替你登录即梦出Seedance成片，也不会跟你要账号密码。\n我能直接在这里做的版本是同一套规则的改编版：新原创角色、新剧本、九宫格故\n事板，再加一段Muse这边生成的演示短片；同时把即梦用的故事板和视频提示词\n也给你一份，如果你有即梦，就能按原流程再出一版 Seedance的。\n为了不照搬仓库里的汤圆和油条，我先拟了一对新主角：圆滚滚的浣熊饭团”，招\n牌是腮帮子能藏东西、能缩成球滚；细长的雪貂\"面条”，招牌是身体能打结、当绳\n子、钻窄缝。反派是一群麻雀，算一个群体角色。\n按 Skill的格式，3个一句话点子给你挑：\n·A：早市，抢最后一个烤红薯，面条身体绕圈当套索，饭团滚过去撞开麻雀，结\n尾红薯太烫，两人轮流吹，结果吹飞了只剩皮。\n：B：小区楼下，抢被风吹走的气球，饭团鼓起腮帮子当气垫，面条打结当锚，结\n尾气球带着两人一起飘，定格在树上。\n·C：奶茶店门口，抢一杯放在台阶上的珍珠奶茶，面条当吸管，饭团滚去接，结\n尾吸管插反了，珍珠全喷到脸上。\n你点一个，我就按那集先给你镜头表确认，再做故事板和演示视频。\n选A：早市抢烤红薯\n选B：小区楼下追气球\n选C：奶茶店抢珍珠奶茶"
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV3nwwtagAA1x6U.png",
+      "from_post": "2116102256210924010",
+      "description": "Chat screenshot with the 30-second, 9-shot storyboard script.",
+      "kind": "prompt",
+      "thumbnail": "posts/2026/10/30/2116101851800281332/media/3.webp",
+      "ocr_text": "选A定好了，第一集《早市抢烤红薯》我按这个Skill的流程做了完整一版：新原创\n角色、30秒9格镜头表、设定图、故事板、演示短片，外加可以直接粘到即梦画\n布的提示词。\n镜头表是这样排的，总时长脚本已经校验过，正好30秒：\n．0-3秒：摊主掀开烤箱，最后一个烤红薯冒热气，饭团流口水，面条脚扒摊\n边，麻雀帮在电线上齐转头。\n：3-6秒：饭团刚捧起红薯，胖麻雀俯冲走，饭团扑空摔了个屁股墩。\n·6-10秒：面条身体拉长当套索，在摊位间追麻雀，麻雀群撞成一团。\n：10-13秒：红薯脱手飞起，饭团缩成球滚过去接住，腮帮子鼓起，一脸得意。\n13-16秒：两人躲到摊后喘口气，饭团把红薯藏进腮帮子，面条放哨，以为安全\n，16-19秒：反转，胖麻雀从后面喙饭团尾巴，饭团一惊张嘴，红薯被叼上摊棚。\n：19-22秒：面条弯成弹弓，把缩成球的饭团弹向摊棚。\n·22-26秒：饭团撞散麻雀群，面条身体打结成网兜住掉下来的红薯。\n·26-30秒：结尾定格，两人轮流吹红薯降温，吹太用力红薯飞走，只剩一张皮粘\n在饭团脸上，面条笑到打滚。\n饭团的设定图如下。"
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV3n3QHacAAc7i0.jpg",
+      "from_post": "2116102348561129887",
+      "description": "Character sheet of the 3D raccoon in multiple poses and expressions.",
+      "kind": "other",
+      "thumbnail": "posts/2026/10/30/2116101851800281332/media/4.webp"
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV3n76EbwAANzJp.jpg",
+      "from_post": "2116102425362973131",
+      "description": "Character sheet of the ferret in multiple poses.",
+      "kind": "other",
+      "thumbnail": "posts/2026/10/30/2116101851800281332/media/5.webp"
+    }
+  ]
+}

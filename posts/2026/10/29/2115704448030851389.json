@@ -1,0 +1,45 @@
+{
+  "id": "2115704448030851389",
+  "permalink": "https://x.com/ComputerPapers/status/2115704448030851389",
+  "author": {
+    "name": "Software Engineering Papers",
+    "handle": "@ComputerPapers",
+    "profile_url": "https://x.com/ComputerPapers"
+  },
+  "posted_at": "2026-10-29T07:17:02Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**Software Engineering Papers ([@ComputerPapers](https://x.com/ComputerPapers/status/2115704448030851389))** shares *Does More Thinking Pay Off?* ([arXiv 2610.36952](https://arxiv.org/abs/2610.36952)), which measures reasoning-token cost against correctness for code generation and bug fixing across 866 Python tasks (HumanEval Pro, MBPP Pro, BugsInPy) and five models, looking at accuracy gain, token overhead, behaviors inside the traces and whether shortened traces still work.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.36952",
+      "from_post": "2115704448030851389",
+      "short_url": "https://t.co/XVUKLF51ii",
+      "title": "Does More Thinking Pay Off? Reasoning Cost and Correctness of LLMs..."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-cognition"
+  ],
+  "keywords": [
+    "reasoning-cost",
+    "code-generation",
+    "bug-fixing",
+    "qwen3-32b",
+    "benchmark"
+  ],
+  "relevance": "Evidence on when local reasoning models' thinking budget is worth it for coding.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HVx9-_cWwAAJfot.png",
+      "from_post": "2115704448030851389",
+      "description": "Image of the paper's abstract text.",
+      "kind": "paper",
+      "thumbnail": "posts/2026/10/29/2115704448030851389/media/0.webp",
+      "ocr_text": "Many LLMs now emit an explicit reasoning trace before they write code, but benchmark results for code generation and bug fixing usually report correctness alone. It is therefore unclear how much the extra reasoning contributes relative to the tokens it consumes. We examine this question with 866 Python tasks drawn from HumanEval Pro, MBPP Pro, and BugsInPy under five model settings. We look at the accuracy gain and token overhead of reasoning, the behaviors that appear inside reasoning traces, and whether a shortened trace still leads to a correct solution. Turning reasoning on in Qwen3-32B over five runs improves mean pass@1 on HumanEval Pro from 71.1% to 76.5% and mean tests pass on BugsInPy from 3.5% to 7.9%. On MBPP Pro the improvement from 68.1% to 69.5% is not statistically significant, even though the model uses a median of over 2,000 thinking tokens per task. Across models, a longer median trace does not reliably mean higher accuracy. A qualitative analysis shows that traces mo"
+    }
+  ]
+}

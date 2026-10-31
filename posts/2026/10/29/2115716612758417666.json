@@ -1,0 +1,34 @@
+{
+  "id": "2115716612758417666",
+  "permalink": "https://x.com/atomic_chat_hq/status/2115716612758417666",
+  "author": {
+    "name": "atomic.chat",
+    "handle": "@atomic_chat_hq",
+    "profile_url": "https://x.com/atomic_chat_hq"
+  },
+  "posted_at": "2026-10-29T08:05:23Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**atomic.chat ([@atomic_chat_hq](https://x.com/atomic_chat_hq/status/2115716612758417666))** releases a GGUF quant ladder of NVIDIA's 30B **Nemotron 3.5 Transcribe** speech model for NeMo-Speech.cpp, from 35GB down to 13.6GB, reporting that quants from 15.5GB up match BF16 on a 2,200-clip test, so it fits a 24GB GPU ([AtomicChat GGUF on Hugging Face](https://huggingface.co/AtomicChat/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B-GGUF)).",
+  "referenced_urls": [
+    {
+      "url": "https://huggingface.co/AtomicChat/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B-GGUF",
+      "from_post": "2115716612758417666",
+      "short_url": "https://t.co/ExLGPHUmpS",
+      "title": "AtomicChat/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B-GGUF · Hugging Face"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "local-models"
+  ],
+  "keywords": [
+    "nemotron-3.5-transcribe",
+    "gguf",
+    "speech-recognition",
+    "nemo-speech.cpp",
+    "quantization"
+  ],
+  "relevance": "Local 30B speech recognition that fits easily on a DGX Spark."
+}

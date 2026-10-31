@@ -1,0 +1,51 @@
+{
+  "id": "2116129494603907370",
+  "permalink": "https://x.com/KlauseSchip/status/2116129494603907370",
+  "author": {
+    "name": "Klaus",
+    "handle": "@KlauseSchip",
+    "profile_url": "https://x.com/KlauseSchip"
+  },
+  "posted_at": "2026-10-30T11:26:01Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [
+    {
+      "id": "2116129495853781128",
+      "permalink": "https://x.com/KlauseSchip/status/2116129495853781128",
+      "posted_at": "2026-10-30T11:26:02Z",
+      "position": 1
+    }
+  ],
+  "summary_md": "**Klaus ([@KlauseSchip](https://x.com/KlauseSchip/status/2116129494603907370))** highlights Herdr's open-sourced **herdr-core**, a headless Apache-2.0 server keeping terminals and coding agents alive after windows close, where agents spawn and message child agents (hc run/send), report status via an escape-code protocol and SSH machines join the list ([herdrdev/herdr-core](https://github.com/herdrdev/herdr-core)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/herdrdev/herdr-core",
+      "from_post": "2116129494603907370",
+      "short_url": "https://t.co/Q3mn7eKWoT",
+      "title": "GitHub - herdrdev/herdr-core: herdr-core: terminals for coding agents"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "herdr-core",
+    "terminal",
+    "coding-agent",
+    "multi-agent",
+    "ssh"
+  ],
+  "relevance": "Persistent multi-agent terminal substrate.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV4Aj8IXAAAGTna.jpg",
+      "from_post": "2116129494603907370",
+      "description": "Herdr desktop app: 'Made for your agents. Remade by them.' with spaces sidebar and Claude Code session.",
+      "kind": "screenshot",
+      "thumbnail": "posts/2026/10/30/2116129494603907370/media/0.webp"
+    }
+  ]
+}

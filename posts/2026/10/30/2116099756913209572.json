@@ -1,0 +1,47 @@
+{
+  "id": "2116099756913209572",
+  "permalink": "https://x.com/ivywusigm/status/2116099756913209572",
+  "author": {
+    "name": "Ivy",
+    "handle": "@ivywusigm",
+    "profile_url": "https://x.com/ivywusigm"
+  },
+  "posted_at": "2026-10-30T09:27:51Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**Ivy ([@ivywusigm](https://x.com/ivywusigm/status/2116099756913209572))** open-sources **Launch Video Maker**, a Claude Code/Codex skill that turns a product link into a launch video, seeking 20 builders to try it; the skill is free and model fees are extra ([SigmaMatrix-AI/launch-video-maker](https://github.com/SigmaMatrix-AI/launch-video-maker)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/SigmaMatrix-AI/launch-video-maker",
+      "from_post": "2116099756913209572",
+      "short_url": "https://t.co/CVaXrJ52H9",
+      "title": "GitHub - SigmaMatrix-AI/launch-video-maker: An AI skill for creating product launch videos."
+    }
+  ],
+  "hashtags": [
+    "BuildInPublic",
+    "开源"
+  ],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "launch-video-maker",
+    "claude-code",
+    "codex",
+    "agent-skill",
+    "product-video"
+  ],
+  "relevance": "Agent skill for automated product videos.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV3lcmWbcAAatkx.jpg",
+      "from_post": "2116099756913209572",
+      "description": "Promo poster: 'product shipped, where's the launch video?' with a play-button graphic and a call for 20 builders.",
+      "kind": "other",
+      "thumbnail": "posts/2026/10/30/2116099756913209572/media/0.webp"
+    }
+  ]
+}

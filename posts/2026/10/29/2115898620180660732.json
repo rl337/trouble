@@ -1,0 +1,32 @@
+{
+  "id": "2115898620180660732",
+  "permalink": "https://x.com/Codex_Changelog/status/2115898620180660732",
+  "author": {
+    "name": "Codex Changelog",
+    "handle": "@Codex_Changelog",
+    "profile_url": "https://x.com/Codex_Changelog"
+  },
+  "posted_at": "2026-10-29T20:08:37Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**Codex Changelog ([@Codex_Changelog](https://x.com/Codex_Changelog/status/2115898620180660732))** reports **Codex CLI 0.166.0**: keyboard transcript selection with motions, search and custom shortcuts, GPT-6.1 Terra in the bundled, Vertex AI and Bedrock catalogs, and `codex doctor --network-only` diagnostics ([release](https://github.com/openai/codex/releases/tag/rust-v0.166.0)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.166.0",
+      "from_post": "2115898620180660732",
+      "short_url": "https://t.co/1DGXlJjQwV",
+      "title": "Release 0.166.0 · openai/codex"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "codex-cli",
+    "release",
+    "coding-agent"
+  ],
+  "relevance": "Harness release notes for a major coding agent."
+}

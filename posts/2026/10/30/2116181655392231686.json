@@ -1,0 +1,44 @@
+{
+  "id": "2116181655392231686",
+  "permalink": "https://x.com/arrd_el/status/2116181655392231686",
+  "author": {
+    "name": "Arrdel",
+    "handle": "@arrd_el",
+    "profile_url": "https://x.com/arrd_el"
+  },
+  "posted_at": "2026-10-30T14:53:18Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**Arrdel ([@arrd_el](https://x.com/arrd_el/status/2116181655392231686))** shares *world2vec* ([arXiv 2610.40637](https://arxiv.org/abs/2610.40637)), learning mechanistic world models from observations and actions alone, reward-free, with 10× fewer parameters than DreamerV3 and faithful long-horizon dynamics.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.40637",
+      "from_post": "2116181655392231686",
+      "short_url": "https://t.co/h1lC6kSLxN",
+      "title": "world2vec: Mechanistic world models through latent dynamics learning"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-cognition"
+  ],
+  "keywords": [
+    "world2vec",
+    "world-model",
+    "latent-dynamics",
+    "dreamerv3"
+  ],
+  "relevance": "Compact faithful world models.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV4v-dnbMAA0Yhr.png",
+      "from_post": "2116181655392231686",
+      "description": "First page of the world2vec paper.",
+      "kind": "paper",
+      "thumbnail": "posts/2026/10/30/2116181655392231686/media/0.webp",
+      "ocr_text": "world2yee: Mechanistic wmrld madels\ntbrmugh latent dynanics learnung\nTabins Schimidt Radrigo Ganalez Lata, Krisztiam Szupptnger & Steiffen Schueidert\nHelrholtz Mumich &, Munich Center for Marchine Learning (MCML)\nAbstraet\nWarid rmadelg can achieve strng ountral perfamance without faithfully capturing\nthe dymamics cf their envimuuemt, limiting their patential. for mechanistis\nintermretaility and scientife disovery. Here, we inimpauce worid2vec to\nlearn meshanisuic worid modeis without rewaral informatiom dlirectly fronn.\npbservatipns and actions. Womrld2wec learns latent dynamics that faithfully\nrepmechuce the true system wer lemng predictinn horizais, wnh at least one\nonder f magmtude fewer paranrtens tnam DreanmerV3, TO-MFC2 and LeWM.\nThis enables state cf the art perfemance in mtrolling ntinuous envinon-\nments fromm pixels anei acurale system idenuifieaticm acnoss a bomchmarik of\n71 anratars, deamomairatimg bow worldl models are amenehle ta sciemimie discovery.\nmttpa://worldmoela.aciamce\nJmtroduetfam\nEstimating models of dynarmicajly aluanging systeros and eminomnemts is an importaut problemn at\nHere we facus on tbe prohlerm where s, state a evolwes utder artioms ar scurdling t dlynsimucs f, amd\nThen, latent worldl modeling' is the problem of jcintly esuinnating, fnonn observaticns and actixns\nalpmie, an omcoder h that maps observauians t a repmesentatit z = n(a) amnl a latent dlynamnics\nmdel f uhan desrribes how this represntauon evolves in timo. Idleally, he represeutatiom is a change\nof caordlimates of the state, z = r(a) with r = In a & irwertble, and the latent dymamnics reproduee the\ntrue evoluticn in these cccrdinates ?,\nz=f(z, ≤), z(0) =r(e(0) -→ (t) =r(e(t) for allt≥0.\nIf this soudition holds, the world medel (n, f) san support roedel-predietive coutrol cr model-based\nreinfarcarmnemt learming tr stear tbe environment imtr desired target, states. Ower the past yeans, this\nare rexonatructian-based forecasting , recornsurustion-fmoe plamnimg in latent space, eitber trained with\nJmportantiy, world modeling extends heyomdl solving a particular comtrol task, We also seek. tn\nansure that the world mdel accurately reflects the world in a statisuical sense: Does the learmed\ndynarnics modlel reproduee tbe relewant dymamics whem the statistical asturmptiams used to burldl it ar?\nsatisiied? If saisfied, an apprypriate pararnetarizatian can furher emable moschanistic interpretability\nby allowing us to readl out the ervironmental dynamics. This has value both for interpretabiulity\nand sciemtifie applicatioms. Warld madele widh these prorerties have recertly beet characterized as\n Comesondence t ntetan. sehzeidarkhelxheltz-anich.de\nPreprint."
+    }
+  ]
+}

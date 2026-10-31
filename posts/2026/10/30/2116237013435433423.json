@@ -1,0 +1,33 @@
+{
+  "id": "2116237013435433423",
+  "permalink": "https://x.com/ClementWalter/status/2116237013435433423",
+  "author": {
+    "name": "clemlaflemme 🥕",
+    "handle": "@ClementWalter",
+    "profile_url": "https://x.com/ClementWalter"
+  },
+  "posted_at": "2026-10-30T18:33:16Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**clemlaflemme 🥕 ([@ClementWalter](https://x.com/ClementWalter/status/2116237013435433423))** introduces **test-me**, a Claude Code plugin that makes you prove you understand a plan before Claude executes it ([ClementWalter/test-me](https://github.com/ClementWalter/test-me)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/ClementWalter/test-me",
+      "from_post": "2116237013435433423",
+      "short_url": "https://t.co/HpTUOoHpGn",
+      "title": "GitHub - ClementWalter/test-me: Claude Code plugin: make the human prove they understand a plan before Claude executes it"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "test-me",
+    "claude-code",
+    "plugin",
+    "human-understanding"
+  ],
+  "relevance": "Keeping humans engaged with agent plans."
+}

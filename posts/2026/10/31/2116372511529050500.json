@@ -1,0 +1,33 @@
+{
+  "id": "2116372511529050500",
+  "permalink": "https://x.com/lalamolly_/status/2116372511529050500",
+  "author": {
+    "name": "lalamolly",
+    "handle": "@lalamolly_",
+    "profile_url": "https://x.com/lalamolly_"
+  },
+  "posted_at": "2026-10-31T03:31:41Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**lalamolly ([@lalamolly_](https://x.com/lalamolly_/status/2116372511529050500))** highlights *Global Convergence of Detailed Balanced Mass Action Systems* ([arXiv 2610.30808](https://arxiv.org/abs/2610.30808)). The paper, written by AI agents, has Claude Opus 5.5 making research decisions, GPT 6 Astra writing proofs and Lean checking them. It settles a long-open case of the 1974 Global Attractor Conjecture.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.30808",
+      "from_post": "2116372511529050500",
+      "short_url": "https://t.co/vNMHTCMCu0",
+      "title": "Global Convergence of Detailed Balanced Mass Action Systems"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-cognition"
+  ],
+  "keywords": [
+    "global-attractor-conjecture",
+    "lean",
+    "ai-math",
+    "formal-verification"
+  ],
+  "relevance": "Agent-written, formally verified math."
+}

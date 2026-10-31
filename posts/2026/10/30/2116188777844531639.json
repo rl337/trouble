@@ -1,0 +1,44 @@
+{
+  "id": "2116188777844531639",
+  "permalink": "https://x.com/ComputerPapers/status/2116188777844531639",
+  "author": {
+    "name": "Software Engineering Papers",
+    "handle": "@ComputerPapers",
+    "profile_url": "https://x.com/ComputerPapers"
+  },
+  "posted_at": "2026-10-30T15:21:36Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**Software Engineering Papers ([@ComputerPapers](https://x.com/ComputerPapers/status/2116188777844531639))** shares *Skeleton Coding* ([arXiv 2610.38214](https://arxiv.org/abs/2610.38214)) by Golatkar et al., arguing program structure (types, modules, functions) should be fixed as the spec before agents fill in behavior.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.38214",
+      "from_post": "2116188777844531639",
+      "short_url": "https://t.co/wH3RTle9pP",
+      "title": "Skeleton Coding: Program Structure as a Specification for Agents"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "skeleton-coding",
+    "specification",
+    "coding-agent",
+    "program-structure"
+  ],
+  "relevance": "Structure-first specs for coding agents.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV42er0WUAAnVdf.png",
+      "from_post": "2116188777844531639",
+      "description": "Abstract of the Skeleton Coding paper.",
+      "kind": "paper",
+      "thumbnail": "posts/2026/10/30/2116188777844531639/media/0.webp",
+      "ocr_text": "Coding agents are typically provided end-to-end behavioral specifications that the code they produce should satisfy, such as tests and input–output examples. How many such specifications must a developer provide, and which ones, for the agent to produce the developer's intended program? We argue that this cannot be determined a priori, for it depends on the structure of the implementation, which is left to the agent to decide. An agent first commits to a structure—a decomposition into data types, modules, and functions—which fixes a class of candidate programs; behavioral specifications then select a program within that class. A set of tests that suffices for one structure may leave another badly underdetermined, requiring different edge cases or exponentially more examples. Since the structure is chosen by the agent, developers cannot ensure their specification is complete without reverse-engineering it from thousands of lines of generated code. To resolve this, we introduce Skeleton"
+    }
+  ]
+}

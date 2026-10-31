@@ -1,0 +1,34 @@
+{
+  "id": "2115828584602370539",
+  "permalink": "https://x.com/Cyberwildx/status/2115828584602370539",
+  "author": {
+    "name": "Cyberwild",
+    "handle": "@Cyberwildx",
+    "profile_url": "https://x.com/Cyberwildx"
+  },
+  "posted_at": "2026-10-29T15:30:19Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**Cyberwild ([@Cyberwildx](https://x.com/Cyberwildx/status/2115828584602370539))** shares **reference-pbr-skill**, an open skill for Codex and Claude Code that turns a single surface reference into PBR materials, with Python tools, Blender setup, validation and test renders ([preslife/reference-pbr-skill](https://github.com/preslife/reference-pbr-skill)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/preslife/reference-pbr-skill",
+      "from_post": "2115828584602370539",
+      "short_url": "https://t.co/XqEO3LblZE",
+      "title": "GitHub - preslife/reference-pbr-skill: Codex and Claude Code skill for PBR materials in Blender and games, based on mukade死神's technique (X: mukadeshinigami). Includes tested Python tools and Blender test renders. MIT licensed."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "reference-pbr-skill",
+    "pbr-material",
+    "blender",
+    "agent-skill",
+    "texture"
+  ],
+  "relevance": "Agent skill for 3D material creation."
+}

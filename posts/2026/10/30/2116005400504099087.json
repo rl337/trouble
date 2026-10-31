@@ -1,0 +1,43 @@
+{
+  "id": "2116005400504099087",
+  "permalink": "https://x.com/CrazyKaomei/status/2116005400504099087",
+  "author": {
+    "name": "疯狂的烤妹儿 🩵",
+    "handle": "@CrazyKaomei",
+    "profile_url": "https://x.com/CrazyKaomei"
+  },
+  "posted_at": "2026-10-30T03:12:55Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**疯狂的烤妹儿 🩵 ([@CrazyKaomei](https://x.com/CrazyKaomei/status/2116005400504099087))** updated the **stickman video director** skill with a YouTube high-CTR thumbnail and publishing kit for both Director and Autopilot modes, closing the loop from idea to video to cover ([kaomei/stickman-video-director](https://github.com/kaomei/stickman-video-director)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/kaomei/stickman-video-director",
+      "from_post": "2116005400504099087",
+      "short_url": "https://t.co/4pp7Peel0A",
+      "title": "GitHub - kaomei/stickman-video-director: Open-source AI stickman video generator for faceless YouTube channels. Automate visuals, voiceover, captions, and sound effects—or direct each scene with video prompts."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "stickman-video-director",
+    "thumbnail",
+    "youtube",
+    "agent-skill"
+  ],
+  "relevance": "End-to-end faceless-video pipeline as a skill.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV2O6o8a0AA2oDT.jpg",
+      "from_post": "2116005400504099087",
+      "description": "\"High-CTR Thumbnail & Publishing Kit\" section with six example stickman thumbnails.",
+      "kind": "screenshot",
+      "thumbnail": "posts/2026/10/30/2116005400504099087/media/0.webp"
+    }
+  ]
+}

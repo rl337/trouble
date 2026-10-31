@@ -1,0 +1,50 @@
+{
+  "id": "2116195592531853810",
+  "permalink": "https://x.com/AfroGodEth/status/2116195592531853810",
+  "author": {
+    "name": "BullSeason | Ai Avatars",
+    "handle": "@AfroGodEth",
+    "profile_url": "https://x.com/AfroGodEth"
+  },
+  "posted_at": "2026-10-30T15:48:40Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**BullSeason | Ai Avatars ([@AfroGodEth](https://x.com/AfroGodEth/status/2116195592531853810))** built **OpenWorkflow**, which turns ComfyUI workflows into local apps chained into image pipelines with a receipt for every output ([video](https://www.youtube.com/watch?v=OwRM_mBWLc4&feature=youtu.be), [ezeai/OpenWorkflow](https://github.com/ezeai/OpenWorkflow)).",
+  "referenced_urls": [
+    {
+      "url": "https://www.youtube.com/watch?v=OwRM_mBWLc4&feature=youtu.be",
+      "from_post": "2116195592531853810",
+      "short_url": "https://t.co/q0gYKT77Mc",
+      "title": "OpenWorkflow Launch Film"
+    },
+    {
+      "url": "https://github.com/ezeai/OpenWorkflow",
+      "from_post": "2116195592531853810",
+      "short_url": "https://t.co/naZ8C7lA86",
+      "title": "GitHub - ezeai/OpenWorkflow: Turn ComfyUI workflows into local creative apps, then chain those apps into sequential production pipelines. Runs on your own GPU, with a receipt for every output."
+    }
+  ],
+  "hashtags": [
+    "OpenSourceHiggsfield"
+  ],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "openworkflow",
+    "comfyui",
+    "pipeline",
+    "provenance",
+    "opensourcehiggsfield"
+  ],
+  "relevance": "Composable local creative apps with provenance.",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://x.com/AfroGodEth/status/2116195592531853810/video/1",
+      "from_post": "2116195592531853810",
+      "description": "Launch film (not downloaded; referenced only)."
+    }
+  ]
+}

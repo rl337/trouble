@@ -1,0 +1,44 @@
+{
+  "id": "2116147778921586699",
+  "permalink": "https://x.com/BhandulaJalaj/status/2116147778921586699",
+  "author": {
+    "name": "Jalaj Bhandula",
+    "handle": "@BhandulaJalaj",
+    "profile_url": "https://x.com/BhandulaJalaj"
+  },
+  "posted_at": "2026-10-30T12:38:41Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**Jalaj Bhandula ([@BhandulaJalaj](https://x.com/BhandulaJalaj/status/2116147778921586699))** built **MotionField**, an open local studio for image, video, audio, 3D and games where every tool is a ComfyUI workflow, spending about $60 on RunPod testing ([jalajbhandula/motionfield](https://github.com/jalajbhandula/motionfield)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/jalajbhandula/motionfield",
+      "from_post": "2116147778921586699",
+      "short_url": "https://t.co/gS5OpJ7SVE",
+      "title": "GitHub - jalajbhandula/motionfield: An open-source creative studio built on ComfyUI - image, video, audio, 3D, games and product ads on your own machine"
+    }
+  ],
+  "hashtags": [
+    "OpenSourceHiggsfield"
+  ],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "motionfield",
+    "comfyui",
+    "creative-studio",
+    "3d",
+    "opensourcehiggsfield"
+  ],
+  "relevance": "All-in-one ComfyUI media studio.",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://x.com/BhandulaJalaj/status/2116147778921586699/video/1",
+      "from_post": "2116147778921586699",
+      "description": "Tour of MotionField tools (not downloaded; referenced only)."
+    }
+  ]
+}

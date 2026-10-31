@@ -1,0 +1,42 @@
+{
+  "id": "2115876048512434589",
+  "permalink": "https://x.com/rohithrnair/status/2115876048512434589",
+  "author": {
+    "name": "Rohith Raghunathan Nair",
+    "handle": "@rohithrnair",
+    "profile_url": "https://x.com/rohithrnair"
+  },
+  "posted_at": "2026-10-29T18:38:55Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**Rohith Raghunathan Nair ([@rohithrnair](https://x.com/rohithrnair/status/2115876048512434589))** built **merman**, a Claude Code plugin that renders Mermaid diagrams (sequence, flowchart, state, ER, charts) live in the terminal, themed and token-light ([iamrohithrnair/merman](https://github.com/iamrohithrnair/merman)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/iamrohithrnair/merman",
+      "from_post": "2115876048512434589",
+      "short_url": "https://t.co/tPmi9Q3Vnx",
+      "title": "GitHub - iamrohithrnair/merman: A Claude Code mod that draws mermaid diagrams, tables and code in color, right in the terminal."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "merman",
+    "mermaid",
+    "claude-code",
+    "terminal",
+    "diagram"
+  ],
+  "relevance": "Better visual output inside terminal agent sessions.",
+  "media": [
+    {
+      "type": "gif",
+      "url": "https://x.com/rohithrnair/status/2115876048512434589/photo/1",
+      "from_post": "2115876048512434589",
+      "description": "Animated demo of Mermaid diagrams rendering in the terminal (not downloaded; referenced only)."
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "2115851116298596617",
+  "permalink": "https://x.com/jorsisu/status/2115851116298596617",
+  "author": {
+    "name": "Jorge Galarza",
+    "handle": "@jorsisu",
+    "profile_url": "https://x.com/jorsisu"
+  },
+  "posted_at": "2026-10-29T16:59:51Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**Jorge Galarza ([@jorsisu](https://x.com/jorsisu/status/2115851116298596617))** open-sources **jor-stack**, frontend workflows for agents in Cursor and Codex from planning to verified PRs, combining his skills with ideas adapted from others ([jorsisu/jor-stack](https://github.com/jorsisu/jor-stack)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/jorsisu/jor-stack",
+      "from_post": "2115851116298596617",
+      "short_url": "https://t.co/T8Lt7tx7W3",
+      "title": "GitHub - jorsisu/jor-stack: Jorge's Frontend workflows for AI agents: from planning to verified PR, on command or on autopilot. Built for quick fixes and ambitious features."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "jor-stack",
+    "agent-skill",
+    "frontend",
+    "cursor",
+    "codex"
+  ],
+  "relevance": "Plan-to-verified-PR skill workflow.",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://x.com/jorsisu/status/2115851116298596617/video/1",
+      "from_post": "2115851116298596617",
+      "description": "Demo video (not downloaded; referenced only)."
+    }
+  ]
+}

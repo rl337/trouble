@@ -1,0 +1,39 @@
+{
+  "id": "2115972427763290344",
+  "permalink": "https://x.com/githubaitrend/status/2115972427763290344",
+  "author": {
+    "name": "Github AIトレンド",
+    "handle": "@githubaitrend",
+    "profile_url": "https://x.com/githubaitrend"
+  },
+  "posted_at": "2026-10-30T01:01:54Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**Github AIトレンド ([@githubaitrend](https://x.com/githubaitrend/status/2115972427763290344))** lists trending **CopilotKit/OpenBot**, a self-hosted AG-UI agent platform that gives each AI coworker its own browser, files and permitted tools, judging and logging actions ahead of time ([copilotkit/openbot](https://github.com/copilotkit/openbot)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/copilotkit/openbot",
+      "from_post": "2115972427763290344",
+      "short_url": "https://t.co/q5cdNqoOWh",
+      "title": "GitHub - CopilotKit/OpenBot: Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent."
+    }
+  ],
+  "hashtags": [
+    "MCP",
+    "AIエージェント",
+    "AI",
+    "GitHub"
+  ],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "openbot",
+    "copilotkit",
+    "ag-ui",
+    "mcp",
+    "agent-platform"
+  ],
+  "relevance": "Self-hosted agent coworker platform."
+}

@@ -1,0 +1,43 @@
+{
+  "id": "2115984145704947885",
+  "permalink": "https://x.com/the_ivano/status/2115984145704947885",
+  "author": {
+    "name": "$",
+    "handle": "@the_ivano",
+    "profile_url": "https://x.com/the_ivano"
+  },
+  "posted_at": "2026-10-30T01:48:28Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**$ ([@the_ivano](https://x.com/the_ivano/status/2115984145704947885))** releases **opencode-swarm** (MIT), giving parallel OpenCode agents a shared task board, file leases and a hash guard so stale writes are refused rather than silently winning ([DumDuky/opencode-swarm](https://github.com/DumDuky/opencode-swarm)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/DumDuky/opencode-swarm",
+      "from_post": "2115984145704947885",
+      "short_url": "https://t.co/IfvNsHuNRT",
+      "title": "GitHub - DumDuky/opencode-swarm: Parallel agents. One shared plan. A supervised multi-agent runtime for OpenCode with file leases, peer messaging, and evidence before done."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "opencode-swarm",
+    "file-lease",
+    "parallel-agent",
+    "opencode"
+  ],
+  "relevance": "Concurrency control for parallel agents.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV18Wk7XIAEbQK-.jpg",
+      "from_post": "2115984145704947885",
+      "description": "Banner \"swarm 0.1\" for parallel agents with one shared plan.",
+      "kind": "other",
+      "thumbnail": "posts/2026/10/30/2115984145704947885/media/0.webp"
+    }
+  ]
+}

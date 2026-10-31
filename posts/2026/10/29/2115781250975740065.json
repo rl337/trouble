@@ -1,0 +1,36 @@
+{
+  "id": "2115781250975740065",
+  "permalink": "https://x.com/Dougliell/status/2115781250975740065",
+  "author": {
+    "name": "Douglas Liell",
+    "handle": "@Dougliell",
+    "profile_url": "https://x.com/Dougliell"
+  },
+  "posted_at": "2026-10-29T12:22:14Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**Douglas Liell ([@Dougliell](https://x.com/Dougliell/status/2115781250975740065))** presents **Cheapsfield**, an open-source, fully local studio for product ads and architecture on ComfyUI and Comfy SDK: sketch to packshot or render to 1080p video with sound via LTX 2.5, no cloud or credits ([dougliell/Cheapsfield](https://github.com/dougliell/Cheapsfield)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/dougliell/Cheapsfield",
+      "from_post": "2115781250975740065",
+      "short_url": "https://t.co/sJdB6mXj0a",
+      "title": "GitHub - dougliell/Cheapsfield: A 100% local, 100% open-weights creative studio for Windows: Higgsfield-style apps and a node canvas on ComfyUI + Comfy SDK. Sketch to packshot, product and architecture renders, AI influencers, character swap and 1080p video with sound. No cloud, no credits."
+    }
+  ],
+  "hashtags": [
+    "OpenSourceHiggsfield"
+  ],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "cheapsfield",
+    "comfyui",
+    "ltx-2.5",
+    "product-ad",
+    "local-studio"
+  ],
+  "relevance": "Local open-weights creative pipeline from sketch to video."
+}

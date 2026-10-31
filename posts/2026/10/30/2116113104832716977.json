@@ -1,0 +1,33 @@
+{
+  "id": "2116113104832716977",
+  "permalink": "https://x.com/javawock7618/status/2116113104832716977",
+  "author": {
+    "name": "ジャヴァノ🍀ボカロP@初音ミク「w/39」10/12アルバムリリース",
+    "handle": "@javawock7618",
+    "profile_url": "https://x.com/javawock7618"
+  },
+  "posted_at": "2026-10-30T10:20:54Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**ジャヴァノ🍀ボカロP@初音ミク「w/39」10/12アルバムリリース ([@javawock7618](https://x.com/javawock7618/status/2116113104832716977))** notes ComfyUI published a Pruna-AI Turbo LoRA for **Qwen-Image 2.1** that assumes manual sigmas, questioning its value given existing turbo LoRAs and distilled models ([Comfy-Org/Qwen-Image-2.1 loras](https://huggingface.co/Comfy-Org/Qwen-Image-2.1/tree/main/loras)).",
+  "referenced_urls": [
+    {
+      "url": "https://huggingface.co/Comfy-Org/Qwen-Image-2.1/tree/main/loras",
+      "from_post": "2116113104832716977",
+      "short_url": "https://t.co/2XQQeYfBr8",
+      "title": "Comfy-Org/Qwen-Image-2.1 at main"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "qwen-image-2.1",
+    "turbo-lora",
+    "comfyui",
+    "pruna"
+  ],
+  "relevance": "Fast image generation option in ComfyUI."
+}

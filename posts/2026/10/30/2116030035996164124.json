@@ -1,0 +1,106 @@
+{
+  "id": "2116030035996164124",
+  "permalink": "https://x.com/cccch1mneyyyy/status/2116030035996164124",
+  "author": {
+    "name": "Chimney",
+    "handle": "@cccch1mneyyyy",
+    "profile_url": "https://x.com/cccch1mneyyyy"
+  },
+  "posted_at": "2026-10-30T04:50:49Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [
+    {
+      "id": "2116030228661522899",
+      "permalink": "https://x.com/cccch1mneyyyy/status/2116030228661522899",
+      "posted_at": "2026-10-30T04:51:35Z",
+      "position": 1
+    },
+    {
+      "id": "2116060344217174302",
+      "permalink": "https://x.com/cccch1mneyyyy/status/2116060344217174302",
+      "posted_at": "2026-10-30T06:51:15Z",
+      "position": 2
+    },
+    {
+      "id": "2116412151053029592",
+      "permalink": "https://x.com/cccch1mneyyyy/status/2116412151053029592",
+      "posted_at": "2026-10-31T06:09:12Z",
+      "position": 3
+    }
+  ],
+  "summary_md": "**Chimney ([@cccch1mneyyyy](https://x.com/cccch1mneyyyy/status/2116030035996164124))** built **dsh-go**, an unofficial Android app that runs DeepSeek Harness on the phone and can remote-control a computer, with plugins, themes and more. A later follow-up shares new community group QR codes after the first group filled up and asks for stars on the repo ([ccch1mneyyy/dsh-go](https://github.com/ccch1mneyyy/dsh-go)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/ccch1mneyyy/dsh-go",
+      "from_post": "2116030035996164124",
+      "short_url": "https://t.co/V04t2KSnfY",
+      "title": "GitHub - ccch1mneyyy/dsh-go: dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。Android · Unofficial."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "dsh-go",
+    "deepseek-harness",
+    "android",
+    "remote-control"
+  ],
+  "relevance": "Mobile front end for a harness.",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://x.com/cccch1mneyyyy/status/2116030035996164124/video/1",
+      "from_post": "2116030035996164124",
+      "description": "dsh-go demo (not downloaded; referenced only)."
+    },
+    {
+      "type": "video",
+      "url": "https://x.com/cccch1mneyyyy/status/2116030035996164124/video/2",
+      "from_post": "2116030035996164124",
+      "description": "Second demo (not downloaded; referenced only)."
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV2mQQbboAAUlku.jpg",
+      "from_post": "2116030228661522899",
+      "description": "QR code for a QQ chat group.",
+      "kind": "other",
+      "thumbnail": "posts/2026/10/30/2116030035996164124/media/2.webp"
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV2mQ32boAAvRwx.jpg",
+      "from_post": "2116030228661522899",
+      "description": "QR code for a second QQ chat group.",
+      "kind": "other",
+      "thumbnail": "posts/2026/10/30/2116030035996164124/media/3.webp"
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV2mRdAaMAAc3ie.jpg",
+      "from_post": "2116030228661522899",
+      "description": "QR code for a WeChat group.",
+      "kind": "other",
+      "thumbnail": "posts/2026/10/30/2116030035996164124/media/4.webp"
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV8BoF-asAAABkM.jpg",
+      "from_post": "2116412151053029592",
+      "description": "QQ group invite QR code for the DSH-GO community.",
+      "kind": "other",
+      "thumbnail": "posts/2026/10/30/2116030035996164124/media/5.webp"
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV8BoaqaEAECblC.jpg",
+      "from_post": "2116412151053029592",
+      "description": "WeChat group invite QR code for DSH Go group 3.",
+      "kind": "other",
+      "thumbnail": "posts/2026/10/30/2116030035996164124/media/6.webp"
+    }
+  ]
+}

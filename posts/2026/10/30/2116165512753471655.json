@@ -1,0 +1,42 @@
+{
+  "id": "2116165512753471655",
+  "permalink": "https://x.com/wolfie_/status/2116165512753471655",
+  "author": {
+    "name": "wolfie",
+    "handle": "@wolfie_",
+    "profile_url": "https://x.com/wolfie_"
+  },
+  "posted_at": "2026-10-30T13:49:09Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**wolfie ([@wolfie_](https://x.com/wolfie_/status/2116165512753471655))** made a universal **/side** command that forks an omp, Claude Code or Codex session into an adjacent terminal pane across tmux, WezTerm, kitty and others ([wolfiesch/agent-side](https://github.com/wolfiesch/agent-side)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/wolfiesch/agent-side",
+      "from_post": "2116165512753471655",
+      "short_url": "https://t.co/zjAwmQTqiu",
+      "title": "GitHub - wolfiesch/agent-side: Fork your Claude Code, Codex, or omp session into a pane beside it with /side, and ask the tangent there"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "agent-side",
+    "session-fork",
+    "claude-code",
+    "codex",
+    "tmux"
+  ],
+  "relevance": "Session forking for parallel agent exploration.",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://x.com/wolfie_/status/2116165512753471655/video/1",
+      "from_post": "2116165512753471655",
+      "description": "Forking a session into a side pane (not downloaded; referenced only)."
+    }
+  ]
+}

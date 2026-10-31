@@ -1,0 +1,49 @@
+{
+  "id": "2116420171221045279",
+  "permalink": "https://x.com/nunomo1/status/2116420171221045279",
+  "author": {
+    "name": "nunomo",
+    "handle": "@nunomo1",
+    "profile_url": "https://x.com/nunomo1"
+  },
+  "posted_at": "2026-10-31T06:41:04Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [
+    {
+      "id": "2116423848912683063",
+      "permalink": "https://x.com/nunomo1/status/2116423848912683063",
+      "posted_at": "2026-10-31T06:55:41Z",
+      "position": 1
+    }
+  ],
+  "summary_md": "**nunomo ([@nunomo1](https://x.com/nunomo1/status/2116420171221045279))** presents **TideLM**, an engine with adaptive expert loading that runs GLM 5.3 Full EXL3 on two DGX Sparks and native MXFP4 DeepSeek V4.1 Flash 1017, with abliterated options ([raspy135/tideLM](https://github.com/raspy135/tideLM)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/raspy135/tideLM",
+      "from_post": "2116420171221045279",
+      "short_url": "https://t.co/hvTeBwhW2W",
+      "title": "GitHub - raspy135/tideLM: LLM engine with adaptive expert loading. DeepSeek V4.1 Flash (510 GB) on two DGX Sparks at its released MXFP4 weights.Or GLM 5.3 full EXL3."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "local-models"
+  ],
+  "keywords": [
+    "tidelm",
+    "dgx-spark",
+    "glm-5.3",
+    "deepseek-v4.1-flash",
+    "expert-offloading"
+  ],
+  "relevance": "Huge MoE models on DGX Spark.",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://x.com/nunomo1/status/2116420171221045279/video/1",
+      "from_post": "2116420171221045279",
+      "description": "GLM 5.3 generation demo (not downloaded; referenced only)."
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "2116084230723658046",
+  "permalink": "https://x.com/FSFG/status/2116084230723658046",
+  "author": {
+    "name": "Cryptography and Security Papers",
+    "handle": "@FSFG",
+    "profile_url": "https://x.com/FSFG"
+  },
+  "posted_at": "2026-10-30T08:26:10Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**Cryptography and Security Papers ([@FSFG](https://x.com/FSFG/status/2116084230723658046))** shares Sanko and Tian's *When Skills Tell Agents Not to Ask* ([arXiv 2610.37734](https://arxiv.org/abs/2610.37734)), a study of 1.53M SKILL.md files finding about one in seventeen contain directives that loosen oversight (skip approval, keep going without checking in).",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.37734",
+      "from_post": "2116084230723658046",
+      "short_url": "https://t.co/PL1OAdWmrD",
+      "title": "When Skills Tell Agents Not to Ask: A Large-Scale Study of..."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "agent-skill",
+    "skill.md",
+    "oversight",
+    "agent-security",
+    "github"
+  ],
+  "relevance": "Large-scale security audit of agent skill ecosystems.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV3XZOVWwAAePpJ.png",
+      "from_post": "2116084230723658046",
+      "description": "Abstract of the oversight-directive study.",
+      "kind": "paper",
+      "thumbnail": "posts/2026/10/30/2116084230723658046/media/0.webp",
+      "ocr_text": "Agent skills, reusable instruction packages centred on a SKILL.md file, extend AI agents on demand, and a single line in a widely copied skill reaches every agent that loads it. Some lines are oversight-loosening directives: they tell the agent to proceed without approval, to bypass checks with –no-verify, or to keep working without checking in. Although such directives can remove a checkpoint from every agent that loads them, no prior work has examined them. We present the first large-scale study of oversight-loosening directives, analyzing 1.53 million English skills from GitSkills. We split skills into units (sentences, bullets, table cells, and code lines), develop a codebook that labels oversight directives by polarity, mechanism, and scope, label 2,097 units by hand, and train a detector to scale the analysis. Our results show that about one in seventeen skills (about 88,000 skills) contains a loosening directive. These directives most often loosen oversight through permission fl"
+    }
+  ]
+}

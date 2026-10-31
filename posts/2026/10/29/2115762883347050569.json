@@ -1,0 +1,45 @@
+{
+  "id": "2115762883347050569",
+  "permalink": "https://x.com/Voxelpulsegames/status/2115762883347050569",
+  "author": {
+    "name": "Voxel Pulse Games",
+    "handle": "@Voxelpulsegames",
+    "profile_url": "https://x.com/Voxelpulsegames"
+  },
+  "posted_at": "2026-10-29T11:09:15Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**Voxel Pulse Games ([@Voxelpulsegames](https://x.com/Voxelpulsegames/status/2115762883347050569))** shows **Spritewright**, whose 2.0 Windows app (Ollama, Claude, ChatGPT, Grok or Kimi) had an AI draw, animate, voice and score a golem boss fight and build its arena, playable in the browser ([Voxel Pulse Games](https://voxelpulsegames.com/2d-animation)).",
+  "referenced_urls": [
+    {
+      "url": "https://voxelpulsegames.com/2d-animation",
+      "from_post": "2115762883347050569",
+      "short_url": "https://t.co/TpUVMELsyH",
+      "title": "Voxel Pulse Games | Independent Worlds Built in Godot"
+    }
+  ],
+  "hashtags": [
+    "gamedev",
+    "indiedev"
+  ],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "spritewright",
+    "2d-animation",
+    "game-development",
+    "ollama",
+    "godot"
+  ],
+  "relevance": "Agent-generated 2D game assets and animation end to end.",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://x.com/Voxelpulsegames/status/2115762883347050569/video/1",
+      "from_post": "2115762883347050569",
+      "description": "Video of the AI-made golem boss fight (not downloaded; referenced only)."
+    }
+  ]
+}

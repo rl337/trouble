@@ -1,0 +1,45 @@
+{
+  "id": "2115935453937283441",
+  "permalink": "https://x.com/SciFi/status/2115935453937283441",
+  "author": {
+    "name": "Artificial Intelligence Papers",
+    "handle": "@SciFi",
+    "profile_url": "https://x.com/SciFi"
+  },
+  "posted_at": "2026-10-29T22:34:59Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**Artificial Intelligence Papers ([@SciFi](https://x.com/SciFi/status/2115935453937283441))** shares **DECE** ([arXiv 2610.35773](https://arxiv.org/abs/2610.35773)), a unified arena of ten Eurogames with shared interfaces for testing LLM agents on long-term strategy, competition for shared resources and multiple routes to victory, evaluating 12 model-harness configurations over 1,032 matches.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.35773",
+      "from_post": "2115935453937283441",
+      "short_url": "https://t.co/f6ubtJpOpq",
+      "title": "A Unified Arena for LLM Agents across Diverse Eurogame"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-cognition"
+  ],
+  "keywords": [
+    "dece",
+    "eurogame",
+    "game-arena",
+    "strategic-reasoning",
+    "benchmark"
+  ],
+  "relevance": "Strategic-reasoning benchmark in competitive games.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV1QFRZWUAAD8y3.png",
+      "from_post": "2115935453937283441",
+      "description": "Image of the paper's abstract text.",
+      "kind": "paper",
+      "thumbnail": "posts/2026/10/29/2115935453937283441/media/0.webp",
+      "ocr_text": "Interactive environments offer a practical way to evaluate large language model (LLM) agents, and competitive games extend this evaluation to decisions shaped by competing goals and other agents' choices. Yet existing evaluations confined to individual games or execution frameworks leave unclear which competitive advantages persist across settings. We introduce DECE (Diverse Eurogame Competitive Environments), a unified arena spanning ten Eurogames with shared interfaces and evaluation protocols. These games combine lasting strategic commitments, competition over shared resources, and multiple routes to victory. Our primary study evaluates 12 model-harness configurations, spanning nine models and four execution harnesses, in 480 three-player matches across ten games. The main and supplementary studies comprise 1,032 completed matches in total. These comparisons reveal broad cross-game ranking agreement alongside game-specific strengths. Matched studies show that the same model can perf"
+    }
+  ]
+}

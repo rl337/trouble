@@ -1,0 +1,34 @@
+{
+  "id": "2116308504923566523",
+  "permalink": "https://x.com/zxtheidiot/status/2116308504923566523",
+  "author": {
+    "name": "taly",
+    "handle": "@zxtheidiot",
+    "profile_url": "https://x.com/zxtheidiot"
+  },
+  "posted_at": "2026-10-30T23:17:21Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**taly ([@zxtheidiot](https://x.com/zxtheidiot/status/2116308504923566523))** open-sources **abra**, an inference engine for Pascal (sm_61) GPUs without tensor cores, reaching about 115 tok/s decode on Qwen3-4B with old GTX 1080 Tis ([talystalys/abra](https://github.com/talystalys/abra)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/talystalys/abra",
+      "from_post": "2116308504923566523",
+      "short_url": "https://t.co/VRuq94QCwU",
+      "title": "GitHub - talystalys/abra: High-performance LLM inference engine for NVIDIA Pascal GPUs (sm_61). Custom DP4A microkernels, autotuned MMVQ, and dual-GPU NCCL tensor parallelism."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "local-models"
+  ],
+  "keywords": [
+    "abra",
+    "pascal-gpu",
+    "gtx-1080-ti",
+    "inference-engine",
+    "qwen3-4b"
+  ],
+  "relevance": "Reviving old GPUs for local inference."
+}

@@ -1,0 +1,51 @@
+{
+  "id": "2116132155034304728",
+  "permalink": "https://x.com/nathanhabib1011/status/2116132155034304728",
+  "author": {
+    "name": "Nathan",
+    "handle": "@nathanhabib1011",
+    "profile_url": "https://x.com/nathanhabib1011"
+  },
+  "posted_at": "2026-10-30T11:36:36Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [
+    {
+      "id": "2116132167298519511",
+      "permalink": "https://x.com/nathanhabib1011/status/2116132167298519511",
+      "posted_at": "2026-10-30T11:36:39Z",
+      "position": 1
+    }
+  ],
+  "summary_md": "**Nathan ([@nathanhabib1011](https://x.com/nathanhabib1011/status/2116132155034304728))** RL-trained a LoRA so **LFM2.5-24B-A2B** works better inside the pi harness, matching accuracy with 39% fewer tool calls after about 24 h on one GPU with TRL AsyncGRPO; harness-specific adapters for Claude Code and GGUFs are included ([harness-hub collection](https://huggingface.co/collections/harness-hub/lfm25-24b-harness-adapters)).",
+  "referenced_urls": [
+    {
+      "url": "https://huggingface.co/collections/harness-hub/lfm25-24b-harness-adapters",
+      "from_post": "2116132155034304728",
+      "short_url": "https://t.co/02XzEkD47f",
+      "title": "LFM2.5-24B Harness adapters - a harness-hub Collection"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "local-models",
+    "harness-dev"
+  ],
+  "keywords": [
+    "lfm2.5-24b",
+    "harness-adapter",
+    "lora",
+    "grpo",
+    "pi-harness",
+    "gguf"
+  ],
+  "relevance": "Cheap harness-specific adapters for local agent models.",
+  "media": [
+    {
+      "type": "gif",
+      "url": "https://x.com/nathanhabib1011/status/2116132155034304728/photo/1",
+      "from_post": "2116132155034304728",
+      "description": "Chart comparing tool calls with and without the adapter (not downloaded; referenced only)."
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": "2116394483344400407",
+  "permalink": "https://x.com/xiaoanlab/status/2116394483344400407",
+  "author": {
+    "name": "XiaoAnLab",
+    "handle": "@xiaoanlab",
+    "profile_url": "https://x.com/xiaoanlab"
+  },
+  "posted_at": "2026-10-31T04:59:00Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**XiaoAnLab ([@xiaoanlab](https://x.com/xiaoanlab/status/2116394483344400407))** describes **mesh-llm**, which pools GPUs and memory across machines behind one OpenAI-compatible endpoint, splits oversized models across nodes and lets nodes join at any time ([Mesh-LLM/mesh-llm](https://github.com/Mesh-LLM/mesh-llm)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/Mesh-LLM/mesh-llm",
+      "from_post": "2116394483344400407",
+      "short_url": "https://t.co/zxZmow4lpf",
+      "title": "GitHub - Mesh-LLM/mesh-llm: Distributed AI/LLM for the people. Share compute privately or publicly to power your agents and chat."
+    }
+  ],
+  "hashtags": [
+    "分布式",
+    "LLM"
+  ],
+  "topics": [
+    "local-models"
+  ],
+  "keywords": [
+    "mesh-llm",
+    "distributed-inference",
+    "openai-compatible-api"
+  ],
+  "relevance": "Multi-box local inference, e.g. several Sparks."
+}

@@ -1,0 +1,34 @@
+{
+  "id": "2116296665548431679",
+  "permalink": "https://x.com/forge_orcax/status/2116296665548431679",
+  "author": {
+    "name": "forge orca",
+    "handle": "@forge_orcax",
+    "profile_url": "https://x.com/forge_orcax"
+  },
+  "posted_at": "2026-10-30T22:30:18Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**forge orca ([@forge_orcax](https://x.com/forge_orcax/status/2116296665548431679))** summarizes *L3G-World* ([paper page](https://huggingface.co/papers/2610.40614)), real-time 9 FPS infinite interactive 3D world generation using latent 3D Gaussian memory that scales with space rather than time.",
+  "referenced_urls": [
+    {
+      "url": "https://huggingface.co/papers/2610.40614",
+      "from_post": "2116296665548431679",
+      "short_url": "https://t.co/6T4huV62lG",
+      "title": "Paper page - L3G-World: Real-Time Infinite World Generation with Latent 3D Gaussian Memory"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "l3g-world",
+    "world-generation",
+    "gaussian-memory",
+    "dit",
+    "real-time"
+  ],
+  "relevance": "Consistent long-horizon world generation."
+}

@@ -1,0 +1,58 @@
+{
+  "id": "2115960624798662745",
+  "permalink": "https://x.com/KissonL/status/2115960624798662745",
+  "author": {
+    "name": "Kisson",
+    "handle": "@KissonL",
+    "profile_url": "https://x.com/KissonL"
+  },
+  "posted_at": "2026-10-30T00:15:00Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [
+    {
+      "id": "2116197273357209651",
+      "permalink": "https://x.com/KissonL/status/2116197273357209651",
+      "posted_at": "2026-10-30T15:55:21Z",
+      "position": 1
+    },
+    {
+      "id": "2116199684981322143",
+      "permalink": "https://x.com/KissonL/status/2116199684981322143",
+      "posted_at": "2026-10-30T16:04:56Z",
+      "position": 2
+    }
+  ],
+  "summary_md": "**Kisson ([@KissonL](https://x.com/KissonL/status/2115960624798662745))** came across **Reason Network**, which lets coding agents message teammates' agents peer-to-peer with end-to-end encryption, with human approvals that pop up on the owner's screen and can't be forged by another agent. In follow-ups he stresses that approval tokens need a short TTL and binding to the specific request, since he has seen tokens reused for unapproved follow-up actions, and argues per-agent profiles should be the default because revoking one becomes a simple delete rather than a password reset ([reason-machines/reason-network](https://github.com/reason-machines/reason-network)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/reason-machines/reason-network",
+      "from_post": "2115960624798662745",
+      "short_url": "https://t.co/dWqya67lJX",
+      "title": "GitHub - reason-machines/reason-network: Reason Network: your team's coding agents, talking to each other. The engine behind `reason network`."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "reason-network",
+    "agent-to-agent",
+    "end-to-end-encryption",
+    "approval",
+    "approval-token",
+    "revocation"
+  ],
+  "relevance": "Secure agent-to-agent team communication.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HVxd80absAEbGDX.jpg",
+      "from_post": "2115960624798662745",
+      "description": "Graphic \"Make your bots talk to your Claude Code and Codex.\"",
+      "kind": "other",
+      "thumbnail": "posts/2026/10/30/2115960624798662745/media/0.webp"
+    }
+  ]
+}

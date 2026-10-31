@@ -1,0 +1,34 @@
+{
+  "id": "2115743450629071327",
+  "permalink": "https://x.com/uk_indiehack_JP/status/2115743450629071327",
+  "author": {
+    "name": "Yuki｜AIと個人開発",
+    "handle": "@uk_indiehack_JP",
+    "profile_url": "https://x.com/uk_indiehack_JP"
+  },
+  "posted_at": "2026-10-29T09:52:01Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**Yuki｜AIと個人開発 ([@uk_indiehack_JP](https://x.com/uk_indiehack_JP/status/2115743450629071327))** introduces **digital-human-koubo**, an MCP-callable tool for Claude Code that produces a talking digital-human video from a single photo ([andyhuo520/digital-human-koubo](https://github.com/andyhuo520/digital-human-koubo)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/andyhuo520/digital-human-koubo",
+      "from_post": "2115743450629071327",
+      "short_url": "https://t.co/HiuI7wURH0",
+      "title": "GitHub - andyhuo520/digital-human-koubo: AI digital-human talking-head videos from one photo: Renoise MCP generation + 5 editing styles + 48 creator-grade packaging components. Agent skill for Claude Code / Codex / OpenClaw / WorkBuddy …"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "digital-human-koubo",
+    "talking-head",
+    "digital-human",
+    "mcp",
+    "claude-code"
+  ],
+  "relevance": "Agent-callable talking-head video generation."
+}

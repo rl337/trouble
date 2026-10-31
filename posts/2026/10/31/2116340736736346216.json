@@ -1,0 +1,42 @@
+{
+  "id": "2116340736736346216",
+  "permalink": "https://x.com/jiayou_sushi/status/2116340736736346216",
+  "author": {
+    "name": "嘉祐sushi",
+    "handle": "@jiayou_sushi",
+    "profile_url": "https://x.com/jiayou_sushi"
+  },
+  "posted_at": "2026-10-31T01:25:26Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**嘉祐sushi ([@jiayou_sushi](https://x.com/jiayou_sushi/status/2116340736736346216))** built a fictional Ming-dynasty town. A Blender-scripted blockout was repainted from 331 views by local Qwen-Image, projected back and brought into Godot, taking about 7 hours on an RTX 3080 Ti with 54% of visible surfaces AI-painted. The method follows **Trompe** ([Patch-gg/trompe](https://github.com/Patch-gg/trompe)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/Patch-gg/trompe",
+      "from_post": "2116340736736346216",
+      "short_url": "https://t.co/V1x7rQQR1D",
+      "title": "GitHub - Patch-gg/trompe: Texture a whole game level from a gray blockout with image models: plan cameras, paint, project, bake. Real shadows, glTF out."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "trompe",
+    "texture-projection",
+    "qwen-image",
+    "godot",
+    "blender"
+  ],
+  "relevance": "Local AI texturing of game levels.",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://x.com/jiayou_sushi/status/2116340736736346216/video/1",
+      "from_post": "2116340736736346216",
+      "description": "Flythrough of the textured town (not downloaded; referenced only)."
+    }
+  ]
+}

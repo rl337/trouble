@@ -1,0 +1,61 @@
+{
+  "id": "2116019744109150493",
+  "permalink": "https://x.com/HuggingPapers/status/2116019744109150493",
+  "author": {
+    "name": "DailyPapers",
+    "handle": "@HuggingPapers",
+    "profile_url": "https://x.com/HuggingPapers"
+  },
+  "posted_at": "2026-10-30T04:09:55Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [
+    {
+      "id": "2116019754049642643",
+      "permalink": "https://x.com/HuggingPapers/status/2116019754049642643",
+      "posted_at": "2026-10-30T04:09:57Z",
+      "position": 1
+    }
+  ],
+  "summary_md": "**DailyPapers ([@HuggingPapers](https://x.com/HuggingPapers/status/2116019744109150493))** shares **VibeGame** ([paper](https://paperswithcode.co/paper/2610.33106), [project](https://vibegame.tettet.org), [code](https://github.com/tettethu/VibeGame)), a multi-agent system with an AI-native engine and adversarial review team that turns prompts into playable 2D games with self-evolving reusable knowledge.",
+  "referenced_urls": [
+    {
+      "url": "https://paperswithcode.co/paper/2610.33106",
+      "from_post": "2116019754049642643",
+      "short_url": "https://t.co/fc7Nf0i4aq",
+      "title": "VibeGame: Prompt-to-Game Development with AI-Native Engine and Self-Evolving Adversarial Agent Team | Papers with Code"
+    },
+    {
+      "url": "https://vibegame.tettet.org",
+      "from_post": "2116019754049642643",
+      "short_url": "https://t.co/ObZnHI0m8L",
+      "title": "VibeGame"
+    },
+    {
+      "url": "https://github.com/tettethu/VibeGame",
+      "from_post": "2116019754049642643",
+      "short_url": "https://t.co/H3HvCF9rZj",
+      "title": "GitHub - tettethu/VibeGame: VibeGame: Vibe Your Dream Game -- An open-source self-evolving multi-agent framework with an AI-Native game engine that turns your natural language into a fully playable 2D web game and edit it any way you want, built on Claude Code & Codex."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-media",
+    "agentic-cognition"
+  ],
+  "keywords": [
+    "vibegame",
+    "game-development",
+    "multi-agent",
+    "adversarial-review"
+  ],
+  "relevance": "Multi-agent game creation with adversarial review.",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://x.com/HuggingPapers/status/2116019744109150493/video/1",
+      "from_post": "2116019744109150493",
+      "description": "VibeGame demo (not downloaded; referenced only)."
+    }
+  ]
+}

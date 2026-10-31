@@ -1,0 +1,34 @@
+{
+  "id": "2116023510757978573",
+  "permalink": "https://x.com/DanteMMartin/status/2116023510757978573",
+  "author": {
+    "name": "Dante Martin",
+    "handle": "@DanteMMartin",
+    "profile_url": "https://x.com/DanteMMartin"
+  },
+  "posted_at": "2026-10-30T04:24:53Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**Dante Martin ([@DanteMMartin](https://x.com/DanteMMartin/status/2116023510757978573))** points to a LocalLLaMA benchmark where open-weight **Qwen 3.8 Flash Next** built a living three.js island village with harbor, boats and animated water from a prompt ([Reddit](https://www.reddit.com/r/LocalLLaMA/comments/1xj0w5d/benchmark_tiny_harbor_a_living_3d_island_village/)).",
+  "referenced_urls": [
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xj0w5d/benchmark_tiny_harbor_a_living_3d_island_village/",
+      "from_post": "2116023510757978573",
+      "short_url": "https://t.co/zUfCCeLZ6B",
+      "title": "From the LocalLLaMA community on Reddit: Benchmark: Tiny Harbor, a living 3D island village in three.js (Qwen 3.8 Flash Next)"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "local-models",
+    "agentic-media"
+  ],
+  "keywords": [
+    "qwen-3.8-flash-next",
+    "three.js",
+    "3d-scene",
+    "benchmark"
+  ],
+  "relevance": "Open-weight model doing 3D scene coding."
+}

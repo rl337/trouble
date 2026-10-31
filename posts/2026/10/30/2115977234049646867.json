@@ -1,0 +1,33 @@
+{
+  "id": "2115977234049646867",
+  "permalink": "https://x.com/so_sthbryan/status/2115977234049646867",
+  "author": {
+    "name": "Bryan",
+    "handle": "@so_sthbryan",
+    "profile_url": "https://x.com/so_sthbryan"
+  },
+  "posted_at": "2026-10-30T01:21:00Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**Bryan ([@so_sthbryan](https://x.com/so_sthbryan/status/2115977234049646867))** highlights **oh-my-claudecode** (~40.2k stars), which adds teams-first multi-agent orchestration to Claude Code with parallel agents and shared state across runs ([Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/Yeachan-Heo/oh-my-claudecode",
+      "from_post": "2115977234049646867",
+      "short_url": "https://t.co/LNmrLDxdz0",
+      "title": "GitHub - Yeachan-Heo/oh-my-claudecode: Teams-first Multi-agent orchestration for Claude Code"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "oh-my-claudecode",
+    "multi-agent",
+    "orchestration",
+    "claude-code"
+  ],
+  "relevance": "Multi-agent team layer for Claude Code."
+}

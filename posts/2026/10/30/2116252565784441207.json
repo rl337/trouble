@@ -1,0 +1,40 @@
+{
+  "id": "2116252565784441207",
+  "permalink": "https://x.com/getrushhq/status/2116252565784441207",
+  "author": {
+    "name": "Rush",
+    "handle": "@getrushhq",
+    "profile_url": "https://x.com/getrushhq"
+  },
+  "posted_at": "2026-10-30T19:35:04Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**Rush ([@getrushhq](https://x.com/getrushhq/status/2116252565784441207))** reports **browser-cli** beat Browser Use on its own benchmark with the same model and browser: 90 s vs 202 s per task, 7% cheaper and 45.4 vs 43.6 score ([phnx-labs/browser-cli](https://github.com/phnx-labs/browser-cli)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/phnx-labs/browser-cli",
+      "from_post": "2116252565784441207",
+      "short_url": "https://t.co/C35pOOgx1L"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "browser-cli",
+    "browser-use",
+    "browser-agent",
+    "benchmark"
+  ],
+  "relevance": "Faster browser-agent tooling.",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://x.com/getrushhq/status/2116252565784441207/video/1",
+      "from_post": "2116252565784441207",
+      "description": "Side-by-side task run (not downloaded; referenced only)."
+    }
+  ]
+}

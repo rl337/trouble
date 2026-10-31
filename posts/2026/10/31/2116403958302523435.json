@@ -1,0 +1,42 @@
+{
+  "id": "2116403958302523435",
+  "permalink": "https://x.com/hironakamura_x/status/2116403958302523435",
+  "author": {
+    "name": "中村 啓",
+    "handle": "@hironakamura_x",
+    "profile_url": "https://x.com/hironakamura_x"
+  },
+  "posted_at": "2026-10-31T05:36:39Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**中村 啓 ([@hironakamura_x](https://x.com/hironakamura_x/status/2116403958302523435))** reads *Decompose, Don't Expand* ([arXiv 2610.38144](https://arxiv.org/abs/2610.38144)) as a design result. Moving operation choice into code made 9 models agree on 86% of 3D-editing operations, though part naming still varies by model.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.38144",
+      "from_post": "2116403958302523435",
+      "short_url": "https://t.co/8Y78P0FQNB",
+      "title": "Decompose, Don't Expand: Capability-Independent AI Systems by..."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "3d-editing",
+    "decomposition",
+    "model-independence"
+  ],
+  "relevance": "Capability-independent 3D editing design.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV76LD_aMAAsr3D.jpg",
+      "from_post": "2116403958302523435",
+      "description": "arXiv logo.",
+      "kind": "other",
+      "thumbnail": "posts/2026/10/31/2116403958302523435/media/0.webp"
+    }
+  ]
+}

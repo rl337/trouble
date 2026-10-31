@@ -1,0 +1,33 @@
+{
+  "id": "2115784515742244881",
+  "permalink": "https://x.com/DDuongTech/status/2115784515742244881",
+  "author": {
+    "name": "David Duong",
+    "handle": "@DDuongTech",
+    "profile_url": "https://x.com/DDuongTech"
+  },
+  "posted_at": "2026-10-29T12:35:12Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**David Duong ([@DDuongTech](https://x.com/DDuongTech/status/2115784515742244881))** summarizes **llama.cpp v0.8.0**: LiquidAI LFM3 support across text, vision, audio and omni, realtime audio via /v1/realtime and /tts, new architectures including DeepSeek V4.1 Flash and Muse Spark, Hugging Face Hub browsing in the web UI, and ggml v0.28.0 ([llama.cpp releases](https://github.com/ggml-org/llama.cpp/releases/tag)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag",
+      "from_post": "2115784515742244881",
+      "short_url": "https://t.co/9bWR6Yg5YC"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "local-models"
+  ],
+  "keywords": [
+    "llama.cpp",
+    "lfm3",
+    "realtime-audio",
+    "deepseek-v4.1-flash",
+    "ggml"
+  ],
+  "relevance": "Core local-inference runtime update with new model support."
+}

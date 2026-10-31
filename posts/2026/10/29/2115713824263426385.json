@@ -1,0 +1,33 @@
+{
+  "id": "2115713824263426385",
+  "permalink": "https://x.com/iamnsilva/status/2115713824263426385",
+  "author": {
+    "name": "Ian Silva",
+    "handle": "@iamnsilva",
+    "profile_url": "https://x.com/iamnsilva"
+  },
+  "posted_at": "2026-10-29T07:54:18Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**Ian Silva ([@iamnsilva](https://x.com/iamnsilva/status/2115713824263426385))** flags a new open-source project, **3d-model-anything**, a Swift iPhone app that captures LiDAR and photos and reconstructs an editable Three.js room for browser exploration, cautioning that it is very new ([GitHub link as posted](https://github.com/wesbos/3d-mode)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/wesbos/3d-mode",
+      "from_post": "2115713824263426385",
+      "short_url": "https://t.co/huWraLIfpv"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "3d-model-anything",
+    "lidar",
+    "three.js",
+    "3d-reconstruction",
+    "swift"
+  ],
+  "relevance": "Capture-to-3D pipeline that agents could build scenes from."
+}

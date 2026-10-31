@@ -1,0 +1,42 @@
+{
+  "id": "2116195907360493780",
+  "permalink": "https://x.com/VidotStudio/status/2116195907360493780",
+  "author": {
+    "name": "VidotStudio",
+    "handle": "@VidotStudio",
+    "profile_url": "https://x.com/VidotStudio"
+  },
+  "posted_at": "2026-10-30T15:49:55Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**VidotStudio ([@VidotStudio](https://x.com/VidotStudio/status/2116195907360493780))** presents **Vidot Cut Manager**, a ComfyUI plugin that breaks a story into cuts, generates each shot with LTX and lets you pick takes on a rough-cut timeline ([passionfx-ui/vidot-cut-manager](https://github.com/passionfx-ui/vidot-cut-manager), [video](https://www.youtube.com/watch?v=htpAatfaaeM&feature=youtu.be)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/passionfx-ui/vidot-cut-manager",
+      "from_post": "2116195907360493780",
+      "short_url": "https://t.co/1jawa6aaIn",
+      "title": "GitHub - passionfx-ui/vidot-cut-manager: Shot management + rough-cut timeline for ComfyUI"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=htpAatfaaeM&feature=youtu.be",
+      "from_post": "2116195907360493780",
+      "short_url": "https://t.co/7nXhoMmmjN",
+      "title": "Vidot Studio – Cut Manager"
+    }
+  ],
+  "hashtags": [
+    "OpenSourceHiggsfield"
+  ],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "vidot-cut-manager",
+    "comfyui",
+    "ltx",
+    "shot-management",
+    "opensourcehiggsfield"
+  ],
+  "relevance": "Shot management for generated films."
+}

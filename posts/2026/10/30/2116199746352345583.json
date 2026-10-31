@@ -1,0 +1,33 @@
+{
+  "id": "2116199746352345583",
+  "permalink": "https://x.com/agentwirenews/status/2116199746352345583",
+  "author": {
+    "name": "AgentWire News",
+    "handle": "@agentwirenews",
+    "profile_url": "https://x.com/agentwirenews"
+  },
+  "posted_at": "2026-10-30T16:05:11Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**AgentWire News ([@agentwirenews](https://x.com/agentwirenews/status/2116199746352345583))** notes **OpenCode 2.2.3** adds a Claude Agent provider that runs OpenCode on your Claude plan via the local Claude Code binary (needs 2.1.248+) ([release v2.2.3](https://github.com/anomalyco/opencode/releases/tag/v2.2.3)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/anomalyco/opencode/releases/tag/v2.2.3",
+      "from_post": "2116199746352345583",
+      "short_url": "https://t.co/YlQgIY75g2",
+      "title": "Release v2.2.3 · anomalyco/opencode"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "opencode",
+    "claude-code",
+    "provider",
+    "release"
+  ],
+  "relevance": "Harness interoperability."
+}

@@ -1,0 +1,37 @@
+{
+  "id": "2116294186639228941",
+  "permalink": "https://x.com/reposapo/status/2116294186639228941",
+  "author": {
+    "name": "HASHIMOTO Hiroki",
+    "handle": "@reposapo",
+    "profile_url": "https://x.com/reposapo"
+  },
+  "posted_at": "2026-10-30T22:20:27Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**HASHIMOTO Hiroki ([@reposapo](https://x.com/reposapo/status/2116294186639228941))** notes **Qwen3.5-4B-3D-Coder**, an experimental local 4B model generating Three.js 3D scenes (HTML/JS) from text or turning reference images into voxel scenes ([ccore/Qwen3.5-4B-3D-Coder](https://huggingface.co/ccore/Qwen3.5-4B-3D-Coder)).",
+  "referenced_urls": [
+    {
+      "url": "https://huggingface.co/ccore/Qwen3.5-4B-3D-Coder",
+      "from_post": "2116294186639228941",
+      "short_url": "https://t.co/c8qvCpB8Uz",
+      "title": "ccore/Qwen3.5-4B-3D-Coder · Hugging Face"
+    }
+  ],
+  "hashtags": [
+    "ローカルLLM",
+    "生成AI"
+  ],
+  "topics": [
+    "agentic-media",
+    "local-models"
+  ],
+  "keywords": [
+    "qwen3.5-4b-3d-coder",
+    "three.js",
+    "3d-generation",
+    "small-model"
+  ],
+  "relevance": "Small local model for 3D scene code."
+}

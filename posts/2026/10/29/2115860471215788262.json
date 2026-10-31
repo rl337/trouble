@@ -1,0 +1,88 @@
+{
+  "id": "2115860471215788262",
+  "permalink": "https://x.com/pika_labs/status/2115860471215788262",
+  "author": {
+    "name": "Pika",
+    "handle": "@pika_labs",
+    "profile_url": "https://x.com/pika_labs"
+  },
+  "posted_at": "2026-10-29T17:37:01Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [
+    {
+      "id": "2115860472935448937",
+      "permalink": "https://x.com/pika_labs/status/2115860472935448937",
+      "posted_at": "2026-10-29T17:37:02Z",
+      "position": 1
+    },
+    {
+      "id": "2115860474533466477",
+      "permalink": "https://x.com/pika_labs/status/2115860474533466477",
+      "posted_at": "2026-10-29T17:37:02Z",
+      "position": 2
+    },
+    {
+      "id": "2115860476081152423",
+      "permalink": "https://x.com/pika_labs/status/2115860476081152423",
+      "posted_at": "2026-10-29T17:37:02Z",
+      "position": 3
+    }
+  ],
+  "summary_md": "**Pika ([@pika_labs](https://x.com/pika_labs/status/2115860471215788262))** launches open-source **Pika H3 Flex**, post-trained on MiniMax H3 and ranked the top open-weight model on DesignArena's text-to-video board, with exportable audio stems, up to 4K, and a 15-second clip with soundtrack in as little as 7 seconds; code, weights, diffusers and ComfyUI support are available from day one ([GitHub](https://github.com/Pika-Labs/Pika-H3-Flex), [weights](https://huggingface.co/Pika-Labs/Pika-H3-Flex), [diffusers](https://huggingface.co/docs/diffusers/main/en/api/pipelines/pika_h3_flex), [ComfyUI](https://docs.comfy.org/tutorials/video/pika/pika-h3-flex)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/Pika-Labs/Pika-H3-Flex",
+      "from_post": "2115860474533466477",
+      "short_url": "https://t.co/j10Y4ET9EG"
+    },
+    {
+      "url": "https://huggingface.co/Pika-Labs/Pika-H3-Flex",
+      "from_post": "2115860474533466477",
+      "short_url": "https://t.co/fOa1rxBtmB"
+    },
+    {
+      "url": "https://huggingface.co/docs/diffusers/main/en/api/pipelines/pika_h3_flex",
+      "from_post": "2115860474533466477",
+      "short_url": "https://t.co/u1z3NiBPbj"
+    },
+    {
+      "url": "https://docs.comfy.org/tutorials/video/pika/pika-h3-flex",
+      "from_post": "2115860474533466477",
+      "short_url": "https://t.co/fv0oBepF2N"
+    },
+    {
+      "url": "https://pika.art/pika-h3-flex?utm_source=x&utm_medium=caption&utm_campaign=261029-pika_h3_flex&utm_content=pika_labs&utm_term=post&utm_id=4557bd1c-7f63-48a5-a17d-88ef13158ab0",
+      "from_post": "2115860476081152423",
+      "short_url": "https://t.co/qWjPrsNrUo",
+      "title": "Pika H3 Flex — Faster-than-real-time video model"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "pika-h3-flex",
+    "minimax-h3",
+    "text-to-video",
+    "comfyui",
+    "diffusers",
+    "open-weight"
+  ],
+  "relevance": "Fast open video model with local pipeline support.",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://x.com/pika_labs/status/2115860471215788262/video/1",
+      "from_post": "2115860471215788262",
+      "description": "Pika H3 Flex launch video (not downloaded; referenced only)."
+    },
+    {
+      "type": "video",
+      "url": "https://x.com/pika_labs/status/2115860472935448937/video/1",
+      "from_post": "2115860472935448937",
+      "description": "Leaderboard clip (not downloaded; referenced only)."
+    }
+  ]
+}

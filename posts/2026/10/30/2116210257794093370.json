@@ -1,0 +1,35 @@
+{
+  "id": "2116210257794093370",
+  "permalink": "https://x.com/ajeetsraina/status/2116210257794093370",
+  "author": {
+    "name": "Ajeet Singh Raina",
+    "handle": "@ajeetsraina",
+    "profile_url": "https://x.com/ajeetsraina"
+  },
+  "posted_at": "2026-10-30T16:46:57Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**Ajeet Singh Raina ([@ajeetsraina](https://x.com/ajeetsraina/status/2116210257794093370))** shares **docker-sbx-aws**, which swaps your role for a ReadOnlyRole, passes only that session into a Docker Sandbox and blocks instance metadata so agents can read but not change AWS ([mark-cooper/docker-sbx-aws](https://github.com/mark-cooper/docker-sbx-aws)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/mark-cooper/docker-sbx-aws",
+      "from_post": "2116210257794093370",
+      "short_url": "https://t.co/HVlVi7j2tQ",
+      "title": "GitHub - mark-cooper/docker-sbx-aws"
+    }
+  ],
+  "hashtags": [
+    "DockerSandboxes"
+  ],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "docker-sbx-aws",
+    "docker-sandbox",
+    "aws",
+    "least-privilege"
+  ],
+  "relevance": "Least-privilege cloud access for agents."
+}

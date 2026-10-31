@@ -1,0 +1,33 @@
+{
+  "id": "2115820965766606975",
+  "permalink": "https://x.com/agntbuilderclub/status/2115820965766606975",
+  "author": {
+    "name": "Agent Builders Club",
+    "handle": "@agntbuilderclub",
+    "profile_url": "https://x.com/agntbuilderclub"
+  },
+  "posted_at": "2026-10-29T15:00:02Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**Agent Builders Club ([@agntbuilderclub](https://x.com/agntbuilderclub/status/2115820965766606975))** notes that **DeepSeek-V4.1-Flash-1017** ships without a Jinja chat template; the model card points to a Python encoding reference and the deepseek-recipe toolkit instead ([model card](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017)).",
+  "referenced_urls": [
+    {
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+      "from_post": "2115820965766606975",
+      "short_url": "https://t.co/yUQnTgn7MK",
+      "title": "deepseek-ai/DeepSeek-V4.1-Flash-1017 · Hugging Face"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "local-models"
+  ],
+  "keywords": [
+    "deepseek-v4.1-flash",
+    "chat-template",
+    "jinja",
+    "integration"
+  ],
+  "relevance": "Integration detail that matters when serving it locally."
+}

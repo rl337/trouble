@@ -1,0 +1,34 @@
+{
+  "id": "2115867579147559383",
+  "permalink": "https://x.com/anemll/status/2115867579147559383",
+  "author": {
+    "name": "Anemll",
+    "handle": "@anemll",
+    "profile_url": "https://x.com/anemll"
+  },
+  "posted_at": "2026-10-29T18:05:16Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**Anemll ([@anemll](https://x.com/anemll/status/2115867579147559383))** discusses NVIDIA's paper on **Nemotron 3.5 Bolt 74B-A9B** ([arXiv 2610.33039](https://arxiv.org/abs/2610.33039)), a hybrid Mamba-Transformer cut down from Nemotron 3.5 Super VL 120B-A12B with 26B tokens of 2-bit quantization-aware distillation so it fits in 24GB, shipping a speculative drafter (84 tok/s), and shares his own failed attempts at good 2-bit quality without big compute.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.33039",
+      "from_post": "2115867579147559383",
+      "short_url": "https://t.co/hz7qFt1bSn",
+      "title": "Nemotron 3.5 Bolt 74B-A9B 24GB: A Hybrid Vision-Language Model for Local AI"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "local-models"
+  ],
+  "keywords": [
+    "nemotron-3.5-bolt",
+    "nemotron-3.5-super",
+    "2-bit-quantization",
+    "quantization-aware-distillation",
+    "mamba"
+  ],
+  "relevance": "2-bit QAD derived from Nemotron Super is directly relevant to DGX Spark models."
+}

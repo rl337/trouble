@@ -1,0 +1,44 @@
+{
+  "id": "2116244422706745364",
+  "permalink": "https://x.com/Smartphones/status/2116244422706745364",
+  "author": {
+    "name": "Human-Computer Interaction Papers",
+    "handle": "@Smartphones",
+    "profile_url": "https://x.com/Smartphones"
+  },
+  "posted_at": "2026-10-30T19:02:42Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**Human-Computer Interaction Papers ([@Smartphones](https://x.com/Smartphones/status/2116244422706745364))** shares *StreamStudio* ([arXiv 2610.38467](https://arxiv.org/abs/2610.38467)) by Li et al. (Adobe), a prototype for authoring video by steering streaming autoregressive generation as it unfolds.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.38467",
+      "from_post": "2116244422706745364",
+      "short_url": "https://t.co/9o76phziwA",
+      "title": "StreamStudio: Exploring Video Authoring with Streaming..."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "streamstudio",
+    "autoregressive-video",
+    "video-authoring",
+    "interactive-generation"
+  ],
+  "relevance": "Interactive steering of video generation.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV5pFpKXEAAwWsM.png",
+      "from_post": "2116244422706745364",
+      "description": "Abstract of the StreamStudio paper.",
+      "kind": "paper",
+      "thumbnail": "posts/2026/10/30/2116244422706745364/media/0.webp",
+      "ocr_text": "We present StreamStudio, a prototype system that explores a new authoring paradigm for streaming video generation. Instead of entering a prompt and waiting for a complete video before making changes, creators can interact with the generation as it unfolds: steering what comes next, returning to earlier moments, and exploring different continuations. In this way, StreamStudio shifts creative control from post-generation revision to continuous interaction with the generative process. Our contribution centers on this authoring paradigm and the interaction mechanisms that make streaming generation directly manipulable. StreamStudio is designed as a plug-and-play interface that can work with compatible generation and editing models, allowing its interaction model to evolve alongside advances in underlying video models. As streaming models become faster and easier to control in the future, such an interface may support more flexible and controllable video creation, including richer edits and"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": "2116071430169448905",
+  "permalink": "https://x.com/kebura_P/status/2116071430169448905",
+  "author": {
+    "name": "shogo kajiyama",
+    "handle": "@kebura_P",
+    "profile_url": "https://x.com/kebura_P"
+  },
+  "posted_at": "2026-10-30T07:35:18Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**shogo kajiyama ([@kebura_P](https://x.com/kebura_P/status/2116071430169448905))** built **assume-nothing**, a single Go binary that probes the machine and workspace at session start, blocks commands that aren't installed and bounces unresearched answers once, because writing 'don't assume' in CLAUDE.md is easily ignored; in 10-run A/B tests across four models it cut missing-command calls to zero and raised Sonnet's first-try accuracy on project-only questions from 16/30 to 30/30 ([kajisho5/assume-nothing](https://github.com/kajisho5/assume-nothing)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/kajisho5/assume-nothing",
+      "from_post": "2116071430169448905",
+      "short_url": "https://t.co/fZLtcdfP7r",
+      "title": "GitHub - kajisho5/assume-nothing: Your agent promised not to assume. Now it can't. Probes the environment, stops missing commands, and sends back answers nothing looked up."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "assume-nothing",
+    "claude-code",
+    "guardrail",
+    "hook",
+    "environment-probe",
+    "go"
+  ],
+  "relevance": "Turns a prompt rule into an enforced harness mechanism, with measured results."
+}

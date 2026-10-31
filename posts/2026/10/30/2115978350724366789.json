@@ -1,0 +1,44 @@
+{
+  "id": "2115978350724366789",
+  "permalink": "https://x.com/MrDJ2U26/status/2115978350724366789",
+  "author": {
+    "name": "Mr D.J.",
+    "handle": "@MrDJ2U26",
+    "profile_url": "https://x.com/MrDJ2U26"
+  },
+  "posted_at": "2026-10-30T01:25:26Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**Mr D.J. ([@MrDJ2U26](https://x.com/MrDJ2U26/status/2115978350724366789))** likes **Jam Session**, a wrapper CLI for coordinating Claude, Codex and other agent CLIs from one place, e.g. asking Codex to check Claude's plans, with auto-restart after usage resets ([jamonholmgren/jamsession](https://github.com/jamonholmgren/jamsession)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/jamonholmgren/jamsession",
+      "from_post": "2115978350724366789",
+      "short_url": "https://t.co/8PXnAyVnzE",
+      "title": "GitHub - jamonholmgren/jamsession: Wrapper CLI for running various agent CLIs such as Claude, Codex, Copilot, Grok, Cursor, and maybe more"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "jam-session",
+    "agent-cli",
+    "codex",
+    "claude-code",
+    "coordination"
+  ],
+  "relevance": "Cross-agent coordination wrapper.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV12GXGW4AAb8_a.png",
+      "from_post": "2115978350724366789",
+      "description": "Chat in which the agent schedules a 20-minute recurring check on a Claude session's progress.",
+      "kind": "screenshot",
+      "thumbnail": "posts/2026/10/30/2115978350724366789/media/0.webp"
+    }
+  ]
+}

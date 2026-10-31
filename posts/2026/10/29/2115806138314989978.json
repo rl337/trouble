@@ -1,0 +1,33 @@
+{
+  "id": "2115806138314989978",
+  "permalink": "https://x.com/gkioulmpaxiotis/status/2115806138314989978",
+  "author": {
+    "name": "konstantinos gkioulmpaxiotis",
+    "handle": "@gkioulmpaxiotis",
+    "profile_url": "https://x.com/gkioulmpaxiotis"
+  },
+  "posted_at": "2026-10-29T14:01:07Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**konstantinos gkioulmpaxiotis ([@gkioulmpaxiotis](https://x.com/gkioulmpaxiotis/status/2115806138314989978))** offers **agentdryrun**, a read-only scanner for your Claude Code history, run via Python or installed as a Claude Code plugin ([ntinosgkiou-code/agentdryrun](https://github.com/ntinosgkiou-code/agentdryrun)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/ntinosgkiou-code/agentdryrun",
+      "from_post": "2115806138314989978",
+      "short_url": "https://t.co/aDw5hwyZ6g",
+      "title": "GitHub - ntinosgkiou-code/agentdryrun: A dry run for AI coding agents: scan your Claude Code history for the commands you'd never have approved. Read-only, local, zero dependencies, Apache-2.0."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "agentdryrun",
+    "claude-code",
+    "session-history",
+    "dry-run"
+  ],
+  "relevance": "Retrospective analysis of agent sessions."
+}

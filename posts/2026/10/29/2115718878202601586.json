@@ -1,0 +1,36 @@
+{
+  "id": "2115718878202601586",
+  "permalink": "https://x.com/WaterJ3201/status/2115718878202601586",
+  "author": {
+    "name": "北斗九号的水哥",
+    "handle": "@WaterJ3201",
+    "profile_url": "https://x.com/WaterJ3201"
+  },
+  "posted_at": "2026-10-29T08:14:23Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**北斗九号的水哥 ([@WaterJ3201](https://x.com/WaterJ3201/status/2115718878202601586))** highlights **blender-skills**, 94 specialist skills that, paired with Blender MCP, let Claude Code, Cursor and Codex model, texture and animate inside Blender and export to game engines, noting it needs a local Blender plus plugin ([arjun988/blender-skills](https://github.com/arjun988/blender-skills)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/arjun988/blender-skills",
+      "from_post": "2115718878202601586",
+      "short_url": "https://t.co/Ox2uYf48cb",
+      "title": "GitHub - arjun988/blender-skills: 94 specialist Blender skills for Cursor, Claude Code, Kiro & Codex -> MCP-powered production pipeline from blockout to engine export."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-media",
+    "harness-dev"
+  ],
+  "keywords": [
+    "blender-skill",
+    "blender",
+    "mcp",
+    "agent-skill",
+    "3d-modeling",
+    "animation"
+  ],
+  "relevance": "Skills plus MCP landing in real creative software."
+}

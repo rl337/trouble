@@ -1,0 +1,51 @@
+{
+  "id": "2116291525332378084",
+  "permalink": "https://x.com/RaphTournaire/status/2116291525332378084",
+  "author": {
+    "name": "Raphaël Tournaire",
+    "handle": "@RaphTournaire",
+    "profile_url": "https://x.com/RaphTournaire"
+  },
+  "posted_at": "2026-10-30T22:09:53Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [
+    {
+      "id": "2116291597793133006",
+      "permalink": "https://x.com/RaphTournaire/status/2116291597793133006",
+      "posted_at": "2026-10-30T22:10:10Z",
+      "position": 1
+    }
+  ],
+  "summary_md": "**Raphaël Tournaire ([@RaphTournaire](https://x.com/RaphTournaire/status/2116291525332378084))** built **CreatorOS Studio**, Apache-2.0 on ComfyUI: one brief becomes a reel on your GPU with 38 tools and 65 styles, now adding people removal, line-to-speech, transitions, SAM3 green screen, clip checks, a CLI and MCP server, and workflow export per render ([thePloggy/CreatorOS-Studio](https://github.com/thePloggy/CreatorOS-Studio)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/thePloggy/CreatorOS-Studio",
+      "from_post": "2116291525332378084",
+      "short_url": "https://t.co/Bcq2LV8ajB",
+      "title": "GitHub - thePloggy/CreatorOS-Studio: Higgsfield, local, ComfyUI linked"
+    }
+  ],
+  "hashtags": [
+    "OpenSourceHiggsfield"
+  ],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "creatoros",
+    "comfyui",
+    "sam3",
+    "mcp",
+    "opensourcehiggsfield"
+  ],
+  "relevance": "Agent-drivable local reel studio.",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://x.com/RaphTournaire/status/2116291525332378084/video/1",
+      "from_post": "2116291525332378084",
+      "description": "Studio demo (not downloaded; referenced only)."
+    }
+  ]
+}

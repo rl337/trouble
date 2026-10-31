@@ -1,0 +1,42 @@
+{
+  "id": "2116118141927579772",
+  "permalink": "https://x.com/mexxmillion/status/2116118141927579772",
+  "author": {
+    "name": "Autumn Imaginations",
+    "handle": "@mexxmillion",
+    "profile_url": "https://x.com/mexxmillion"
+  },
+  "posted_at": "2026-10-30T10:40:55Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**Autumn Imaginations ([@mexxmillion](https://x.com/mexxmillion/status/2116118141927579772))** presents **Comfy Commander**, an open, agent-friendly control plane that runs ComfyUI workflows from phone or desktop, spreads jobs across local GPUs and rents RunPod/Vast GPUs to grow capacity ([demo](https://www.youtube.com/watch?v=BcmLkvfzL3E&feature=youtu.be), [mexxmillion/comfy-commander](https://github.com/mexxmillion/comfy-commander)).",
+  "referenced_urls": [
+    {
+      "url": "https://www.youtube.com/watch?v=BcmLkvfzL3E&feature=youtu.be",
+      "from_post": "2116118141927579772",
+      "short_url": "https://t.co/Ae3Sv5h0kM",
+      "title": "Comfy Commander Demo"
+    },
+    {
+      "url": "https://github.com/mexxmillion/comfy-commander",
+      "from_post": "2116118141927579772",
+      "short_url": "https://t.co/Pemxyyu1rO",
+      "title": "GitHub - mexxmillion/comfy-commander: Open-source, agent-friendly ComfyUI control plane for Qwen Image, MiniMax H3 and reviewed SAM3 character replacement"
+    }
+  ],
+  "hashtags": [
+    "OpenSourceHiggsfield"
+  ],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "comfy-commander",
+    "comfyui",
+    "gpu-farm",
+    "runpod",
+    "opensourcehiggsfield"
+  ],
+  "relevance": "Orchestration layer for multi-GPU ComfyUI pipelines."
+}

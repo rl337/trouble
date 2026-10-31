@@ -1,0 +1,33 @@
+{
+  "id": "2116322452158734624",
+  "permalink": "https://x.com/kennywu411/status/2116322452158734624",
+  "author": {
+    "name": "kenny wu",
+    "handle": "@kennywu411",
+    "profile_url": "https://x.com/kennywu411"
+  },
+  "posted_at": "2026-10-31T00:12:46Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**kenny wu ([@kennywu411](https://x.com/kennywu411/status/2116322452158734624))** ships **honestly 0.6.0**, whose `pr-note --gh` posts each test run after an agent's last edit, with its output, into the PR and flags edits made afterwards ([kennywu411-dev/honestly](https://github.com/kennywu411-dev/honestly)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/kennywu411-dev/honestly",
+      "from_post": "2116322452158734624",
+      "short_url": "https://t.co/m34LTfGDWH",
+      "title": "GitHub - kennywu411-dev/honestly: Did your coding agent actually run the tests it says it ran? Blocks unverified 'done' claims in Claude Code, Codex, Cursor and Gemini CLI, and audits your history."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "honestly",
+    "test-verification",
+    "pull-request",
+    "coding-agent"
+  ],
+  "relevance": "Verifying agents' test claims."
+}

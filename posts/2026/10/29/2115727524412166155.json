@@ -1,0 +1,35 @@
+{
+  "id": "2115727524412166155",
+  "permalink": "https://x.com/ghazagg7/status/2115727524412166155",
+  "author": {
+    "name": "ghazagg",
+    "handle": "@ghazagg7",
+    "profile_url": "https://x.com/ghazagg7"
+  },
+  "posted_at": "2026-10-29T08:48:44Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**ghazagg ([@ghazagg7](https://x.com/ghazagg7/status/2115727524412166155))** built **unity-playtest**, a Claude Code skill that drives a running Unity Editor: it probes scenes, sends real key presses through the Input System, runs host plus client sessions and reports results honestly, since compiling a game is not the same as playing it ([GhazaGG/Unity-Playtest-for-Claude](https://github.com/GhazaGG/Unity-Playtest-for-Claude)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/GhazaGG/Unity-Playtest-for-Claude",
+      "from_post": "2115727524412166155",
+      "short_url": "https://t.co/cc6F7Y7Ct8",
+      "title": "GitHub - GhazaGG/Unity-Playtest-for-Claude: Claude playtests your Unity game: Editor probes, scripted Play Mode, host + client with latency, honest pass/fail report. A Claude Code skill built on Unity's Pipeline CLI."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "unity-playtest",
+    "unity",
+    "claude-code",
+    "agent-skill",
+    "playtesting",
+    "game-development"
+  ],
+  "relevance": "Closes the verification loop for agent-built games."
+}

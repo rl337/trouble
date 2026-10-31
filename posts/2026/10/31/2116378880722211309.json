@@ -1,0 +1,36 @@
+{
+  "id": "2116378880722211309",
+  "permalink": "https://x.com/xiaoanlab/status/2116378880722211309",
+  "author": {
+    "name": "XiaoAnLab",
+    "handle": "@xiaoanlab",
+    "profile_url": "https://x.com/xiaoanlab"
+  },
+  "posted_at": "2026-10-31T03:57:00Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**XiaoAnLab ([@xiaoanlab](https://x.com/xiaoanlab/status/2116378880722211309))** describes **zse**, a zero-dependency inference engine that cold-starts 7B models in 5–7 s and fits 32B INT4 in 22 GB, so several models can share one card ([Zyora-Dev/zse](https://github.com/Zyora-Dev/zse)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/Zyora-Dev/zse",
+      "from_post": "2116378880722211309",
+      "short_url": "https://t.co/eUXyrjZ8Bc",
+      "title": "GitHub - Zyora-Dev/zse: The inference engine the open-source world built for itself."
+    }
+  ],
+  "hashtags": [
+    "LLM",
+    "推理"
+  ],
+  "topics": [
+    "local-models"
+  ],
+  "keywords": [
+    "zse",
+    "inference-engine",
+    "int4",
+    "cold-start"
+  ],
+  "relevance": "Lean local inference engine."
+}

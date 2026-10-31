@@ -1,0 +1,38 @@
+{
+  "id": "2115916387868631494",
+  "permalink": "https://x.com/gnosis_entheos/status/2115916387868631494",
+  "author": {
+    "name": "Brian // Bk 𓋹 𓂀",
+    "handle": "@gnosis_entheos",
+    "profile_url": "https://x.com/gnosis_entheos"
+  },
+  "posted_at": "2026-10-29T21:19:13Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**Brian // Bk 𓋹 𓂀 ([@gnosis_entheos](https://x.com/gnosis_entheos/status/2115916387868631494))** built **Nisaba**, a GPL-3.0 local vault that saves Claude Code and Codex chats for search and rereading, with a CLI and MCP server and no network ([D4vRAM369/Nisaba](https://github.com/D4vRAM369/Nisaba)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/D4vRAM369/Nisaba",
+      "from_post": "2115916387868631494",
+      "short_url": "https://t.co/jq33xueZOB",
+      "title": "GitHub - D4vRAM369/Nisaba: Bóveda local de tus conversaciones con Claude Code y Codex: busca y relee sin ruido desde la ventana, la terminal o tu IA (MCP). Sin red. · Local vault for your Claude Code and Codex conversations: search and reread them from a desktop app, the terminal or your AI (MCP). N"
+    }
+  ],
+  "hashtags": [
+    "ClaudeCode",
+    "Codex",
+    "OpenSource"
+  ],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "nisaba",
+    "session-history",
+    "search",
+    "mcp",
+    "claude-code"
+  ],
+  "relevance": "Searchable local history of agent sessions."
+}

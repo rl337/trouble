@@ -1,0 +1,34 @@
+{
+  "id": "2116047690026946674",
+  "permalink": "https://x.com/JeremyCMorgan/status/2116047690026946674",
+  "author": {
+    "name": "Jeremy Morgan",
+    "handle": "@JeremyCMorgan",
+    "profile_url": "https://x.com/JeremyCMorgan"
+  },
+  "posted_at": "2026-10-30T06:00:58Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**Jeremy Morgan ([@JeremyCMorgan](https://x.com/JeremyCMorgan/status/2116047690026946674))** highlights **CognitiveCanvas** ([arXiv 2610.23559](https://arxiv.org/abs/2610.23559)), an interactive GraphRAG workspace turning long AI conversations into editable Goal, Fact and Code objects so developers can audit relationships shaping answers; no public repo yet.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.23559",
+      "from_post": "2116047690026946674",
+      "short_url": "https://t.co/YkpMBpGH3M",
+      "title": "An Interactive GraphRAG Workspace for Reifying, Auditing, and..."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev",
+    "agentic-cognition"
+  ],
+  "keywords": [
+    "cognitivecanvas",
+    "graphrag",
+    "context-auditing",
+    "conversation"
+  ],
+  "relevance": "Auditable, editable agent context."
+}

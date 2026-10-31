@@ -1,0 +1,50 @@
+{
+  "id": "2116191651513188701",
+  "permalink": "https://x.com/kimjinsung_ai/status/2116191651513188701",
+  "author": {
+    "name": "Jinsung Kim",
+    "handle": "@kimjinsung_ai",
+    "profile_url": "https://x.com/kimjinsung_ai"
+  },
+  "posted_at": "2026-10-30T15:33:01Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**Jinsung Kim ([@kimjinsung_ai](https://x.com/kimjinsung_ai/status/2116191651513188701))** built **Shotfix**: adjust a 3D camera guide, preview an image and generate the reshot video with ComfyUI ([video](https://www.youtube.com/watch?v=5S30jUFKirw&feature=youtu.be), [ksamplermagazine/shotfix](https://github.com/ksamplermagazine/shotfix)).",
+  "referenced_urls": [
+    {
+      "url": "https://www.youtube.com/watch?v=5S30jUFKirw&feature=youtu.be",
+      "from_post": "2116191651513188701",
+      "short_url": "https://t.co/2SpoVzsiHb",
+      "title": "Shotfix — Reshoot AI Video with 3D Camera Guides | #OpenSourceHiggsfield"
+    },
+    {
+      "url": "https://github.com/ksamplermagazine/shotfix",
+      "from_post": "2116191651513188701",
+      "short_url": "https://t.co/xPnhQzATcm",
+      "title": "GitHub - ksamplermagazine/shotfix: Camera-guided reshoots with ComfyUI"
+    }
+  ],
+  "hashtags": [
+    "OpenSourceHiggsfield"
+  ],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "shotfix",
+    "camera-guide",
+    "comfyui",
+    "reshoot",
+    "opensourcehiggsfield"
+  ],
+  "relevance": "Camera-guided reshoots.",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://x.com/kimjinsung_ai/status/2116191651513188701/video/1",
+      "from_post": "2116191651513188701",
+      "description": "Changing the shot angle with a 3D guide (not downloaded; referenced only)."
+    }
+  ]
+}

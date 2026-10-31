@@ -1,0 +1,51 @@
+{
+  "id": "2116041048690774432",
+  "permalink": "https://x.com/KOF97AI/status/2116041048690774432",
+  "author": {
+    "name": "Nathan AI Lab（互fo, CD后马上回）",
+    "handle": "@KOF97AI",
+    "profile_url": "https://x.com/KOF97AI"
+  },
+  "posted_at": "2026-10-30T05:34:34Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**Nathan AI Lab（互fo, CD后马上回） ([@KOF97AI](https://x.com/KOF97AI/status/2116041048690774432))** describes **Seedance 2.0 Skill OS**, which treats the model as a film crew to direct rather than micro-manage: systematic camera height, lens and movement grammar, T2V/I2V/V2V/R2V/FLF2V support with reference anchoring against character drift, and a Route→Verify→Direct→Deliver agent pipeline ([Emily2040/seedance-2.0](https://github.com/Emily2040/seedance-2.0)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/Emily2040/seedance-2.0",
+      "from_post": "2116041048690774432",
+      "short_url": "https://t.co/4OCOF7NTI0",
+      "title": "GitHub - Emily2040/seedance-2.0: Comprehensive production pipeline for quad-modal AI filmmaking with Seedance 2.0"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "seedance",
+    "agent-skill",
+    "cinematography",
+    "character-consistency"
+  ],
+  "relevance": "Cinematic direction grammar as a skill.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV2wHN7a8AAL2EA.png",
+      "from_post": "2116041048690774432",
+      "description": "Seedance 2.0 Skill OS documentation page.",
+      "kind": "screenshot",
+      "thumbnail": "posts/2026/10/30/2116041048690774432/media/0.webp"
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV2wHOIb0AADHqz.jpg",
+      "from_post": "2116041048690774432",
+      "description": "Slide summarizing the three key ideas of Seedance 2.0 Skill OS.",
+      "kind": "diagram",
+      "thumbnail": "posts/2026/10/30/2116041048690774432/media/1.webp"
+    }
+  ]
+}

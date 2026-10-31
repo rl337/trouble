@@ -1,0 +1,45 @@
+{
+  "id": "2115975663148765204",
+  "permalink": "https://x.com/shao__meng/status/2115975663148765204",
+  "author": {
+    "name": "meng shao",
+    "handle": "@shao__meng",
+    "profile_url": "https://x.com/shao__meng"
+  },
+  "posted_at": "2026-10-30T01:14:45Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**meng shao ([@shao__meng](https://x.com/shao__meng/status/2115975663148765204))** summarizes Alibaba Cloud's open **AI Agent Handbook** on using harnesses to take enterprise agents from pilot to governed production, with survey figures such as ~18% in production, ~90% needing context/memory, only ~8% using trajectory-based automatic evaluation, and MCP gaps in registries, auth, versioning, audit and gateways ([aliyun/ai-agent-handbook](https://github.com/aliyun/ai-agent-handbook)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/aliyun/ai-agent-handbook",
+      "from_post": "2115975663148765204",
+      "short_url": "https://t.co/DcfrmPCtWe",
+      "title": "GitHub - aliyun/ai-agent-handbook: A practical guide to building enterprise AI agents across their full lifecycle."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "ai-agent-handbook",
+    "enterprise-agent",
+    "harness",
+    "governance",
+    "mcp",
+    "evaluation"
+  ],
+  "relevance": "Enterprise harness and governance practices with data.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV10o9FbUAAWE_P.jpg",
+      "from_post": "2115975663148765204",
+      "description": "Handbook cover page titled \"用 Harness 把企业 Agent 从试点推到可治理生产\" with survey statistics.",
+      "kind": "screenshot",
+      "thumbnail": "posts/2026/10/30/2115975663148765204/media/0.webp"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "2115740580626272766",
+  "permalink": "https://x.com/reposapo/status/2115740580626272766",
+  "author": {
+    "name": "HASHIMOTO Hiroki",
+    "handle": "@reposapo",
+    "profile_url": "https://x.com/reposapo"
+  },
+  "posted_at": "2026-10-29T09:40:37Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**HASHIMOTO Hiroki ([@reposapo](https://x.com/reposapo/status/2115740580626272766))** summarizes *Can LLMs Uncover Hidden Physical Laws through Free Exploration?* ([arXiv 2610.37649](https://arxiv.org/abs/2610.37649v1)): in the LongChang simulated worlds with altered physics, only GPT-6-Astra discovered the hidden law (16.7%), while other models scored 0%.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.37649v1",
+      "from_post": "2115740580626272766",
+      "short_url": "https://t.co/Vc4eUs08dE",
+      "title": "Can LLMs Uncover Hidden Physical Laws through Free Exploration?"
+    }
+  ],
+  "hashtags": [
+    "LLM",
+    "AIエージェント"
+  ],
+  "topics": [
+    "agentic-cognition"
+  ],
+  "keywords": [
+    "longchang",
+    "scientific-discovery",
+    "physical-law",
+    "exploration",
+    "benchmark"
+  ],
+  "relevance": "Probes open-ended scientific discovery by agents."
+}

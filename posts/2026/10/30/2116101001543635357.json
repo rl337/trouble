@@ -1,0 +1,40 @@
+{
+  "id": "2116101001543635357",
+  "permalink": "https://x.com/AIserni/status/2116101001543635357",
+  "author": {
+    "name": "Serni | 세르니",
+    "handle": "@AIserni",
+    "profile_url": "https://x.com/AIserni"
+  },
+  "posted_at": "2026-10-30T09:32:48Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**Serni | 세르니 ([@AIserni](https://x.com/AIserni/status/2116101001543635357))** notes Fish Audio's **Drama 3**, an open 35B MoE (3B active) speech model with SGLang-Omni and vLLM-Omni serving, multi-speaker scenes, voice cloning and a codebook-MTP audio decoder ([fishaudio/drama-3](https://huggingface.co/fishaudio/drama-3)).",
+  "referenced_urls": [
+    {
+      "url": "https://huggingface.co/fishaudio/drama-3",
+      "from_post": "2116101001543635357",
+      "short_url": "https://t.co/oY8D0BdpX2",
+      "title": "fishaudio/drama-3 · Hugging Face"
+    }
+  ],
+  "hashtags": [
+    "VoiceAI",
+    "OpenSource",
+    "TTS"
+  ],
+  "topics": [
+    "agentic-media",
+    "local-models"
+  ],
+  "keywords": [
+    "drama-3",
+    "fish-audio",
+    "text-to-speech",
+    "moe",
+    "voice-cloning",
+    "vllm-omni"
+  ],
+  "relevance": "Open MoE TTS model small enough in active params for local use."
+}

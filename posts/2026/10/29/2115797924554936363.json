@@ -1,0 +1,45 @@
+{
+  "id": "2115797924554936363",
+  "permalink": "https://x.com/disunioxx/status/2115797924554936363",
+  "author": {
+    "name": "nyx",
+    "handle": "@disunioxx",
+    "profile_url": "https://x.com/disunioxx"
+  },
+  "posted_at": "2026-10-29T13:28:29Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**nyx ([@disunioxx](https://x.com/disunioxx/status/2115797924554936363))** built **Burn**, an open-source macOS menu bar app showing live usage limits for Claude Code, Codex and Cursor and what the usage would cost at API prices ([noyex/burn](https://github.com/noyex/burn)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/noyex/burn",
+      "from_post": "2115797924554936363",
+      "short_url": "https://t.co/RyykFKexjd",
+      "title": "GitHub - noyex/burn: macOS menu bar app showing AI coding subscription limits (Claude Code, Codex, Cursor) and local usage cost"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "burn",
+    "usage-limit",
+    "claude-code",
+    "codex",
+    "cursor",
+    "macos"
+  ],
+  "relevance": "Usage visibility across coding-agent subscriptions.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HVzS3sBX0AAiQg-.jpg",
+      "from_post": "2115797924554936363",
+      "description": "Burn menu bar popover with Claude (51%) and Codex (88%) usage cards and a $599 spend chart.",
+      "kind": "screenshot",
+      "thumbnail": "posts/2026/10/29/2115797924554936363/media/0.webp"
+    }
+  ]
+}

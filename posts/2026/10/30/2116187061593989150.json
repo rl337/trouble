@@ -1,0 +1,45 @@
+{
+  "id": "2116187061593989150",
+  "permalink": "https://x.com/PIN/status/2116187061593989150",
+  "author": {
+    "name": "Multiagent Systems Papers",
+    "handle": "@PIN",
+    "profile_url": "https://x.com/PIN"
+  },
+  "posted_at": "2026-10-30T15:14:46Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**Multiagent Systems Papers ([@PIN](https://x.com/PIN/status/2116187061593989150))** shares *MAS-Loop* ([arXiv 2610.38946](https://arxiv.org/abs/2610.38946)) by Lin et al., where an orchestrator runs a source multi-agent system and a refiner localizes failures from the trajectory to evolve it.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.38946",
+      "from_post": "2116187061593989150",
+      "short_url": "https://t.co/Wf3VFBwffG",
+      "title": "MAS-Loop: Beyond One-Shot Orchestration towards Self-Evolving..."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-cognition",
+    "harness-dev"
+  ],
+  "keywords": [
+    "mas-loop",
+    "multi-agent",
+    "orchestration",
+    "self-evolving"
+  ],
+  "relevance": "Self-evolving multi-agent orchestration.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV406xGXEAAKZok.png",
+      "from_post": "2116187061593989150",
+      "description": "Abstract of the MAS-Loop paper.",
+      "kind": "paper",
+      "thumbnail": "posts/2026/10/30/2116187061593989150/media/0.webp",
+      "ocr_text": "Training-time multi-agent system (MAS) design seeks to learn reusable orchestration policies, yet prevailing approaches remain largely one-shot: an Orchestrator generates a system but only observes and learns from its terminal outcome. This paradigm discards execution trajectories that expose system-level failures and contain fine-grained information beyond the terminal outcome, leaving no direct basis for revising the source MAS, evaluating the updated MAS, or learning from the resulting contrast. To this end, we introduce MAS-Loop, an execution-grounded framework that closes this feedback loop by coupling an Orchestrator with a trajectory-conditioned Refiner. For each task, the Orchestrator constructs and executes a source MAS to obtain an outcome score and an intermediate trajectory. Conditioned on the trajectory, the Refiner localizes an actionable failure, formulates a trajectory-grounded diagnosis, and proposes a bounded patch to the agents, information flow, or execution configu"
+    }
+  ]
+}

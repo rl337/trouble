@@ -1,0 +1,44 @@
+{
+  "id": "2115989533627994374",
+  "permalink": "https://x.com/SciFi/status/2115989533627994374",
+  "author": {
+    "name": "Artificial Intelligence Papers",
+    "handle": "@SciFi",
+    "profile_url": "https://x.com/SciFi"
+  },
+  "posted_at": "2026-10-30T02:09:52Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**Artificial Intelligence Papers ([@SciFi](https://x.com/SciFi/status/2115989533627994374))** shares *When Retrieval Is Not Enough* ([arXiv 2610.36308](https://arxiv.org/abs/2610.36308)), which separates retrieval from answering in memory agents and finds obsolete facts drive many errors even when the update was retrieved (NeurIPS 2026 PALM workshop).",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.36308",
+      "from_post": "2115989533627994374",
+      "short_url": "https://t.co/EgYRoZWf4a",
+      "title": "When Retrieval Is Not Enough: Obsolete Facts in Agent Memory"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-cognition"
+  ],
+  "keywords": [
+    "agent-memory",
+    "obsolete-fact",
+    "retrieval",
+    "memoryagentbench"
+  ],
+  "relevance": "Memory staleness as a distinct agent failure mode.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV2BRJVWYAAqeWq.png",
+      "from_post": "2115989533627994374",
+      "description": "Image of the paper's abstract text.",
+      "kind": "paper",
+      "thumbnail": "posts/2026/10/30/2115989533627994374/media/0.webp",
+      "ocr_text": "Memory-agent benchmarks often collapse retrieval and answer generation into one score, making it hard to tell whether a failure comes from missing an update or from not using an update that was already retrieved. We examine this distinction on the single-hop FactConsolidation task of MemoryAgentBench. With Qwen2.5-7B-Instruct on 6K-history BM25 accuracy drops from 45% to 32% when the retrieved evidence budget grows from 64 to 512 tokens, even though a gold-assisted post-hoc audit finds the newest statement in every retrieved set. Most of the errors occur on questions that also contain an obsolete statement version. Under a frozen prompt and equal four-statement evidence size, replacing one unrelated statement with the obsolete competing statement reduces accuracy from 100% to 44.6% for Qwen2.5 and from 100% to 87.8% for Qwen3-14B, with all 50 harmful paired flips classified as stale. A 32K-history replication likewise favors BM25-64 over BM25-512 (69% versus 58%). These results suggest"
+    }
+  ]
+}

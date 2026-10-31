@@ -1,0 +1,58 @@
+{
+  "id": "2115861379387449817",
+  "permalink": "https://x.com/pamelafox/status/2115861379387449817",
+  "author": {
+    "name": "Pamela Fox",
+    "handle": "@pamelafox",
+    "profile_url": "https://x.com/pamelafox"
+  },
+  "posted_at": "2026-10-29T17:40:38Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**Pamela Fox ([@pamelafox](https://x.com/pamelafox/status/2115861379387449817))** shares her GitHub Universe workshop on connecting GitHub Copilot to the GitHub MCP and Foundry IQ MCP servers to build a developer knowledge base ([repo](https://github.com/pamelafox/developer-kb-for-github-copilot), [slides](https://pamelafox.github.io/developer-kb-for-github-copilot/)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/pamelafox/developer-kb-for-github-copilot",
+      "from_post": "2115861379387449817",
+      "short_url": "https://t.co/vlcNzsrXQU",
+      "title": "GitHub - pamelafox/developer-kb-for-github-copilot: Workshop for GitHub Universe"
+    },
+    {
+      "url": "https://pamelafox.github.io/developer-kb-for-github-copilot/",
+      "from_post": "2115861379387449817",
+      "short_url": "https://t.co/zweAbsVHf4",
+      "title": "Building a developer knowledge base for GitHub Copilot"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "github-copilot",
+    "mcp",
+    "knowledge-base",
+    "workshop",
+    "foundry-iq"
+  ],
+  "relevance": "Hands-on MCP knowledge integration for coding agents.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV0MDPubMAEGn3x.jpg",
+      "from_post": "2115861379387449817",
+      "description": "Workshop slide: GitHub Copilot connected to codebase, GitHub MCP and Foundry IQ knowledge base.",
+      "kind": "diagram",
+      "thumbnail": "posts/2026/10/29/2115861379387449817/media/0.webp"
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV0MQuubgAASiQ7.jpg",
+      "from_post": "2115861379387449817",
+      "description": "Workshop attendees with laptops in front of a GitHub Universe screen.",
+      "kind": "photo",
+      "thumbnail": "posts/2026/10/29/2115861379387449817/media/1.webp"
+    }
+  ]
+}

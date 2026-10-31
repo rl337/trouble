@@ -1,0 +1,41 @@
+{
+  "id": "2116102629247914374",
+  "permalink": "https://x.com/jame581/status/2116102629247914374",
+  "author": {
+    "name": "Jan Mesarč",
+    "handle": "@jame581",
+    "profile_url": "https://x.com/jame581"
+  },
+  "posted_at": "2026-10-30T09:39:16Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**Jan Mesarč ([@jame581](https://x.com/jame581/status/2116102629247914374))** releases **GodotPrompter v1.16.0** with three new skills (web-services, rendering-pipeline, web-export) for agents writing Godot 4 code, compile-checked C# examples (61 fixes) and 349 corrected claims ([jame581/GodotPrompter](https://github.com/jame581/GodotPrompter)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/jame581/GodotPrompter",
+      "from_post": "2116102629247914374",
+      "short_url": "https://t.co/Blp62NTG0P",
+      "title": "GitHub - jame581/GodotPrompter: Agentic skills framework for Godot 4.x. Domain-specific skills for AI coding agents (Claude Code, Copilot, Antigravity, Cursor)"
+    }
+  ],
+  "hashtags": [
+    "godot",
+    "gamedev",
+    "foss",
+    "tools",
+    "AI"
+  ],
+  "topics": [
+    "agentic-media",
+    "harness-dev"
+  ],
+  "keywords": [
+    "godotprompter",
+    "godot",
+    "agent-skill",
+    "gamedev",
+    "c"
+  ],
+  "relevance": "Domain skill pack for agentic game development."
+}

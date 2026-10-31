@@ -1,0 +1,54 @@
+{
+  "id": "2115858395106533409",
+  "permalink": "https://x.com/Praexai/status/2115858395106533409",
+  "author": {
+    "name": "Praex",
+    "handle": "@Praexai",
+    "profile_url": "https://x.com/Praexai"
+  },
+  "posted_at": "2026-10-29T17:28:46Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [
+    {
+      "id": "2115858398663360771",
+      "permalink": "https://x.com/Praexai/status/2115858398663360771",
+      "posted_at": "2026-10-29T17:28:47Z",
+      "position": 1
+    }
+  ],
+  "summary_md": "**Praex ([@Praexai](https://x.com/Praexai/status/2115858395106533409))** releases open-weight **Lucia III**, an agent model post-trained from GLM-5.3 on 1,195 passing runs out of 2,000 NVIDIA Nemotron terminal tasks on one 8×B200 node; self-run Terminal-Bench 2.1 is 68.8% and TB 2.0 68.9% vs. 58.1% for GLM-5.3, with all trials public on Harbor Hub ([weights](https://huggingface.co/praex/Lucia-III), [TB 2.1 runs](https://hub.harborframework.com/jobs/30cac5da-1bb0-4750-8625-f28653ed44d2), [TB 2.0 runs](https://hub.harborframework.com/jobs/bef60fa2-3ac4-4db3-85bd-6fbdadcf5b5f)).",
+  "referenced_urls": [
+    {
+      "url": "https://huggingface.co/praex/Lucia-III",
+      "from_post": "2115858395106533409",
+      "short_url": "https://t.co/EyBur82wL0",
+      "title": "praex/Lucia-III · Hugging Face"
+    },
+    {
+      "url": "https://hub.harborframework.com/jobs/30cac5da-1bb0-4750-8625-f28653ed44d2",
+      "from_post": "2115858398663360771",
+      "short_url": "https://t.co/lOko7GSjDQ",
+      "title": "tb21-lucia3-praex-k5-20261029 | Harbor"
+    },
+    {
+      "url": "https://hub.harborframework.com/jobs/bef60fa2-3ac4-4db3-85bd-6fbdadcf5b5f",
+      "from_post": "2115858398663360771",
+      "short_url": "https://t.co/B9zxX3cjtt",
+      "title": "tb2-lucia3-praex-k5run2-20261028 | Harbor"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "local-models",
+    "harness-dev"
+  ],
+  "keywords": [
+    "lucia-iii",
+    "glm-5.3",
+    "terminal-bench",
+    "rejection-sampling",
+    "agent-model"
+  ],
+  "relevance": "Transparent rejection-sampling recipe for agentic models."
+}

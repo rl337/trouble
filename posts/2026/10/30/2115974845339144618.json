@@ -1,0 +1,33 @@
+{
+  "id": "2115974845339144618",
+  "permalink": "https://x.com/chnlng3290082a/status/2115974845339144618",
+  "author": {
+    "name": "ccccluhs",
+    "handle": "@chnlng3290082a",
+    "profile_url": "https://x.com/chnlng3290082a"
+  },
+  "posted_at": "2026-10-30T01:11:30Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**ccccluhs ([@chnlng3290082a](https://x.com/chnlng3290082a/status/2115974845339144618))** points to **tstack**, a set of everyday skills for Claude Code and Codex covering taking changes through to a merged PR, cross-review by three model vendors and watching CI to fix failures ([t3dotgg/tstack](https://github.com/t3dotgg/tstack)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/t3dotgg/tstack",
+      "from_post": "2115974845339144618",
+      "short_url": "https://t.co/S3atIXQN5t",
+      "title": "GitHub - t3dotgg/tstack: The agent skills I use every day. Works with Claude Code and Codex."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "tstack",
+    "agent-skill",
+    "code-review",
+    "ci"
+  ],
+  "relevance": "Practical day-to-day agent skills."
+}

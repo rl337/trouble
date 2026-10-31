@@ -1,0 +1,42 @@
+{
+  "id": "2116237832478249429",
+  "permalink": "https://x.com/0x4D31/status/2116237832478249429",
+  "author": {
+    "name": "Adel Ka",
+    "handle": "@0x4D31",
+    "profile_url": "https://x.com/0x4D31"
+  },
+  "posted_at": "2026-10-30T18:36:31Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**Adel Ka ([@0x4D31](https://x.com/0x4D31/status/2116237832478249429))** notes Perplexity's open-source **Numbat**: visibility into agents on endpoints across 26+ surfaces with live hook-based blocking, CEL and sequence rules, retroactive transcript scanning and secret redaction in a single static binary ([perplexityai/numbat](https://github.com/perplexityai/numbat)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/perplexityai/numbat",
+      "from_post": "2116237832478249429",
+      "short_url": "https://t.co/srLUV7iXVh",
+      "title": "GitHub - perplexityai/numbat: Visibility into AI agent activity on endpoints, with on-device detection, optional pre-action blocking, and forensic reconstruction."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "numbat",
+    "agent-monitoring",
+    "hook",
+    "secret-redaction",
+    "cel"
+  ],
+  "relevance": "Endpoint monitoring for agents.",
+  "media": [
+    {
+      "type": "gif",
+      "url": "https://x.com/0x4D31/status/2116237832478249429/photo/1",
+      "from_post": "2116237832478249429",
+      "description": "Numbat monitoring agent activity (not downloaded; referenced only)."
+    }
+  ]
+}

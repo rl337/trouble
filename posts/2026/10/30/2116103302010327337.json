@@ -1,0 +1,45 @@
+{
+  "id": "2116103302010327337",
+  "permalink": "https://x.com/Miriam95635993/status/2116103302010327337",
+  "author": {
+    "name": "Catlove",
+    "handle": "@Miriam95635993",
+    "profile_url": "https://x.com/Miriam95635993"
+  },
+  "posted_at": "2026-10-30T09:41:57Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**Catlove ([@Miriam95635993](https://x.com/Miriam95635993/status/2116103302010327337))** recommends **EditHere**, a local-first tool for marking up screenshots and video frames (point, box, drag, scale) and exporting image, coordinates and JSON for Codex or Claude Code ([Inginnng/EditHere](https://github.com/Inginnng/EditHere)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/Inginnng/EditHere",
+      "from_post": "2116103302010327337",
+      "short_url": "https://t.co/3htCNPs1th",
+      "title": "GitHub - Inginnng/EditHere: EditHere — 截图、写下意见、直接调整布局，把修改意图一次交给 AI。"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-media",
+    "harness-dev"
+  ],
+  "keywords": [
+    "edithere",
+    "visual-feedback",
+    "annotation",
+    "claude-code",
+    "codex"
+  ],
+  "relevance": "Precise visual feedback channel for design agents.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV3oo2IasAATt4A.jpg",
+      "from_post": "2116103302010327337",
+      "description": "EditHere annotating a dashboard UI with selection boxes and comments.",
+      "kind": "screenshot",
+      "thumbnail": "posts/2026/10/30/2116103302010327337/media/0.webp"
+    }
+  ]
+}

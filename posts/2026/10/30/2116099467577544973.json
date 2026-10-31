@@ -1,0 +1,70 @@
+{
+  "id": "2116099467577544973",
+  "permalink": "https://x.com/SlipperyGem/status/2116099467577544973",
+  "author": {
+    "name": "Brie Wensleydale🧀🐭",
+    "handle": "@SlipperyGem",
+    "profile_url": "https://x.com/SlipperyGem"
+  },
+  "posted_at": "2026-10-30T09:26:42Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [
+    {
+      "id": "2116140341304983554",
+      "permalink": "https://x.com/SlipperyGem/status/2116140341304983554",
+      "posted_at": "2026-10-30T12:09:08Z",
+      "position": 1
+    },
+    {
+      "id": "2116152051315216745",
+      "permalink": "https://x.com/SlipperyGem/status/2116152051315216745",
+      "posted_at": "2026-10-30T12:55:39Z",
+      "position": 2
+    }
+  ],
+  "summary_md": "**Brie Wensleydale🧀🐭 ([@SlipperyGem](https://x.com/SlipperyGem/status/2116099467577544973))** vibe-coded **ComfyUI-Idol**, custom nodes for the Idol image-to-3D-Gaussian-splat model, saying results are good enough for some uses; follow-ups show it struggling with fine details ([Brie-Wensleydale/ComfyUI-Idol](https://github.com/Brie-Wensleydale/ComfyUI-Idol)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/Brie-Wensleydale/ComfyUI-Idol",
+      "from_post": "2116099467577544973",
+      "short_url": "https://t.co/OhyPHlXVAw",
+      "title": "GitHub - Brie-Wensleydale/ComfyUI-Idol: ComfyUI custom nodes for Idol: one image in, a 3D Gaussian splat out, straight into core RenderSplat."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "comfyui-idol",
+    "gaussian-splat",
+    "image-to-3d",
+    "comfyui"
+  ],
+  "relevance": "Image-to-splat in ComfyUI for 3D media workflows, with honest limits.",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://x.com/SlipperyGem/status/2116099467577544973/video/1",
+      "from_post": "2116099467577544973",
+      "description": "Orbit around a generated Gaussian splat (not downloaded; referenced only)."
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV4KSPoa4AAdunX.jpg",
+      "from_post": "2116140341304983554",
+      "description": "Source portrait of a mouse-eared character beside its splat render.",
+      "kind": "photo",
+      "thumbnail": "posts/2026/10/30/2116099467577544973/media/1.webp"
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV4VAkHa0AAMWv_.png",
+      "from_post": "2116152051315216745",
+      "description": "Close-up of the splat showing lost fine detail.",
+      "kind": "photo",
+      "thumbnail": "posts/2026/10/30/2116099467577544973/media/2.webp"
+    }
+  ]
+}

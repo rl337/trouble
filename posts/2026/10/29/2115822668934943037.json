@@ -1,0 +1,45 @@
+{
+  "id": "2115822668934943037",
+  "permalink": "https://x.com/SciFi/status/2115822668934943037",
+  "author": {
+    "name": "Artificial Intelligence Papers",
+    "handle": "@SciFi",
+    "profile_url": "https://x.com/SciFi"
+  },
+  "posted_at": "2026-10-29T15:06:49Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**Artificial Intelligence Papers ([@SciFi](https://x.com/SciFi/status/2115822668934943037))** shares **Skill∞** ([arXiv 2610.35434](https://arxiv.org/abs/2610.35434)), in which a meta-agent follows a meta-skill to optimize task skills and then optimizes the meta-skill itself with the same procedure, using execution traces, independent reviews and a search budget.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.35434",
+      "from_post": "2115822668934943037",
+      "short_url": "https://t.co/YPocrkprNK",
+      "title": "Skill$^{\\infty}$: Recursive Self-Improvement for Agent Skill Optimization"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev",
+    "agentic-cognition"
+  ],
+  "keywords": [
+    "skill-infinity",
+    "recursive-self-improvement",
+    "skill-optimization",
+    "meta-skill"
+  ],
+  "relevance": "Recursive self-improvement applied to agent skills.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HVzpgWQWkAAFZDD.png",
+      "from_post": "2115822668934943037",
+      "description": "Image of the paper's abstract text.",
+      "kind": "paper",
+      "thumbnail": "posts/2026/10/29/2115822668934943037/media/0.webp",
+      "ocr_text": "Recursive self-improvement (RSI), in which a system also improves the way it improves, is a long-standing aspiration on the path to AGI. Language agents increasingly store procedural knowledge in reusable skills. Optimizing skills offers a direct way to achieve RSI, because the optimization procedure itself can be encoded as a skill. Existing skill optimizers, however, follow a hand-designed procedure. Even methods that evolve a meta-skill confine it to a fixed pipeline and relearn it for each task. We present Skill∞, which makes skill optimization recursively self-improving: a meta agent follows a meta-skill to optimize task skills and optimizes the meta-skill itself using the same procedure. The optimization is agent-led. The meta agent diagnoses execution traces, proposes candidates, requests independent reviews, and allocates the search budget. The meta-skill defines these steps, allowing self-improvement to rewrite them. This meta-skill is also decoupled from task skills, refined"
+    }
+  ]
+}

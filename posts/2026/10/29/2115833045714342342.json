@@ -1,0 +1,51 @@
+{
+  "id": "2115833045714342342",
+  "permalink": "https://x.com/eliautobot/status/2115833045714342342",
+  "author": {
+    "name": "Elix",
+    "handle": "@eliautobot",
+    "profile_url": "https://x.com/eliautobot"
+  },
+  "posted_at": "2026-10-29T15:48:03Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**Elix ([@eliautobot](https://x.com/eliautobot/status/2115833045714342342))** presents an AI-hosted radio station inside the online game **My Virtual World**, giving live commentary on world events, with a self-hostable 3D city for AI agents ([play](https://play.myvirtualworld.ai/), [eliautobot/my-virtual-world](https://github.com/eliautobot/my-virtual-world)).",
+  "referenced_urls": [
+    {
+      "url": "https://play.myvirtualworld.ai/",
+      "from_post": "2115833045714342342",
+      "short_url": "https://t.co/guS2txqgEu",
+      "title": "My Virtual World — Next"
+    },
+    {
+      "url": "https://github.com/eliautobot/my-virtual-world",
+      "from_post": "2115833045714342342",
+      "short_url": "https://t.co/xw4fAMyh8q",
+      "title": "GitHub - eliautobot/my-virtual-world: A living 3D city for your AI agents, self-hosted. Bring OpenClaw and Hermes agents, connect a Grok Bot, or build agents on any AI model: they get homes, jobs, a PC and phones in a world you share with them."
+    }
+  ],
+  "hashtags": [
+    "Ai",
+    "gamedev",
+    "AIart"
+  ],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "my-virtual-world",
+    "ai-radio",
+    "3d-city",
+    "game"
+  ],
+  "relevance": "Agents living in and narrating a 3D world.",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://x.com/eliautobot/status/2115833045714342342/video/1",
+      "from_post": "2115833045714342342",
+      "description": "Clip of the AI radio in the game world (not downloaded; referenced only)."
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "2116297186912976937",
+  "permalink": "https://x.com/MuzafferKal_/status/2116297186912976937",
+  "author": {
+    "name": "Muzaffer Kal @🏡 🦆⏩",
+    "handle": "@MuzafferKal_",
+    "profile_url": "https://x.com/MuzafferKal_"
+  },
+  "posted_at": "2026-10-30T22:32:22Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**Muzaffer Kal @🏡 🦆⏩ ([@MuzafferKal_](https://x.com/MuzafferKal_/status/2116297186912976937))** points to *A Case Study of a Multi-Agent Kernel-Optimization Loop That Learns a New AI Accelerator* ([arXiv 2610.38329](https://arxiv.org/abs/2610.38329)).",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.38329",
+      "from_post": "2116297186912976937",
+      "short_url": "https://t.co/uEeMBq65dg",
+      "title": "A Case Study of a Multi-Agent Kernel-Optimization Loop That Learns..."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "kernel-optimization",
+    "multi-agent",
+    "ai-accelerator"
+  ],
+  "relevance": "Multi-agent loops for hardware-specific optimization."
+}

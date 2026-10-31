@@ -1,0 +1,68 @@
+{
+  "id": "2116238210393416066",
+  "permalink": "https://x.com/opinion_bits/status/2116238210393416066",
+  "author": {
+    "name": "nft//defi//OG⏰ 🔮",
+    "handle": "@opinion_bits",
+    "profile_url": "https://x.com/opinion_bits"
+  },
+  "posted_at": "2026-10-30T18:38:01Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**nft//defi//OG⏰ 🔮 ([@opinion_bits](https://x.com/opinion_bits/status/2116238210393416066))** lists six open-source Claude Code mods that intercept tool calls, manage context or redraw the UI: Firstmate, fast-jev-compaction, terminal-browser, Agent Time Machine, TextFold and Context Attachment Manager, framing skills as knowledge, MCP as reach and mods as what happens around the agent ([kunchenguid/firstmate](https://github.com/kunchenguid/firstmate), [tamaratran/fast-jev-compaction](https://github.com/tamaratran/fast-jev-compaction), [zenbu-labs/terminal-browser](https://github.com/zenbu-labs/terminal-browser), [chenxiachan/textfold](https://github.com/chenxiachan/textfold)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/kunchenguid/firstmate",
+      "from_post": "2116238210393416066",
+      "short_url": "https://t.co/DmjsLCkQPG",
+      "title": "GitHub - kunchenguid/firstmate: Talk to one agent. Ship with a crew."
+    },
+    {
+      "url": "https://github.com/tamaratran/fast-jev-compaction",
+      "from_post": "2116238210393416066",
+      "short_url": "https://t.co/PQ8M4EvyCy",
+      "title": "GitHub - tamaratran/fast-jev-compaction: Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, everything kept stays verbatim."
+    },
+    {
+      "url": "https://github.com/zenbu-labs/terminal-browser",
+      "from_post": "2116238210393416066",
+      "short_url": "https://t.co/mDp4ai51T2"
+    },
+    {
+      "url": "https://github.com/YeonwooSung/my-claude-code-mods",
+      "from_post": "2116238210393416066",
+      "short_url": "https://t.co/2MCLUmXwfe"
+    },
+    {
+      "url": "https://github.com/chenxiachan/textfold",
+      "from_post": "2116238210393416066",
+      "short_url": "https://t.co/7gMEMm6WA6"
+    },
+    {
+      "url": "https://github.com/chipfighter/context-attachment-manager",
+      "from_post": "2116238210393416066",
+      "short_url": "https://t.co/bQZQwGIAux"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "claude-code",
+    "mod",
+    "context-management",
+    "compaction",
+    "plugin"
+  ],
+  "relevance": "Map of harness-level mods for Claude Code.",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://x.com/opinion_bits/status/2116238210393416066/video/1",
+      "from_post": "2116238210393416066",
+      "description": "Montage of the mods (not downloaded; referenced only)."
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "2115971954930766212",
+  "permalink": "https://x.com/aiproduck/status/2115971954930766212",
+  "author": {
+    "name": "aiproduck",
+    "handle": "@aiproduck",
+    "profile_url": "https://x.com/aiproduck"
+  },
+  "posted_at": "2026-10-30T01:00:01Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**aiproduck ([@aiproduck](https://x.com/aiproduck/status/2115971954930766212))** describes **ECC**, an MIT harness optimization system baking a plan/test/review/verify loop into agents with 71 agents, 311 skills, hooks, memory and the AgentShield scanner; best on Claude Code, native on Codex and Qoder, with a paid hosted tier ([affaan-m/ECC](https://github.com/affaan-m/ECC)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/affaan-m/ECC",
+      "from_post": "2115971954930766212",
+      "short_url": "https://t.co/GhMbrRjjeu",
+      "title": "GitHub - affaan-m/ECC: The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "ecc",
+    "agent-harness",
+    "agent-skill",
+    "hook",
+    "agentshield"
+  ],
+  "relevance": "Large skills/hooks bundle for agent workflows."
+}

@@ -1,0 +1,34 @@
+{
+  "id": "2115920407090045048",
+  "permalink": "https://x.com/matis_dev/status/2115920407090045048",
+  "author": {
+    "name": "Mateusz Kruszona",
+    "handle": "@matis_dev",
+    "profile_url": "https://x.com/matis_dev"
+  },
+  "posted_at": "2026-10-29T21:35:11Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**Mateusz Kruszona ([@matis_dev](https://x.com/matis_dev/status/2115920407090045048))** built **Coordiner**, a VS Code extension that chains Claude Code skills unattended in isolated git worktrees with plan/build/review loops, no auto-commits, running locally ([matis-dev/coordiner](https://github.com/matis-dev/coordiner)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/matis-dev/coordiner",
+      "from_post": "2115920407090045048",
+      "short_url": "https://t.co/6roP0qI4D2",
+      "title": "GitHub - matis-dev/coordiner: VS Code extension that runs chains of Claude Code skills in unattended sessions, each run in its own git worktree, up to the commit brief. Nothing is committed for you."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "coordiner",
+    "claude-code",
+    "skill-chain",
+    "git-worktree",
+    "vs-code"
+  ],
+  "relevance": "Unattended skill chaining for coding agents."
+}

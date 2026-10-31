@@ -1,0 +1,62 @@
+{
+  "id": "2116414021180297532",
+  "permalink": "https://x.com/monoradio102/status/2116414021180297532",
+  "author": {
+    "name": "monoradio",
+    "handle": "@monoradio102",
+    "profile_url": "https://x.com/monoradio102"
+  },
+  "posted_at": "2026-10-31T06:16:38Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [
+    {
+      "id": "2116415585508827361",
+      "permalink": "https://x.com/monoradio102/status/2116415585508827361",
+      "posted_at": "2026-10-31T06:22:51Z",
+      "position": 1
+    },
+    {
+      "id": "2116420968466039262",
+      "permalink": "https://x.com/monoradio102/status/2116420968466039262",
+      "posted_at": "2026-10-31T06:44:14Z",
+      "position": 2
+    }
+  ],
+  "summary_md": "**monoradio ([@monoradio102](https://x.com/monoradio102/status/2116414021180297532))** puts NVIDIA's **MotionBricks** in the browser over WebGPU. Arrow keys steer a character whose 1–2 s motions are generated in about 0.1 s each between recent frames and preset target poses (made with Kimodo), and your own VRM can be dropped in ([MotionBricks Live](https://huggingface.co/spaces/monoradio/motionbricks-live)).",
+  "referenced_urls": [
+    {
+      "url": "https://huggingface.co/spaces/monoradio/motionbricks-live",
+      "from_post": "2116414021180297532",
+      "short_url": "https://t.co/DB720sZDh2",
+      "title": "MotionBricks Live - a Hugging Face Space by monoradio"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "motionbricks",
+    "character-animation",
+    "webgpu",
+    "vrm"
+  ],
+  "relevance": "Real-time generative character animation.",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://x.com/monoradio102/status/2116414021180297532/video/1",
+      "from_post": "2116414021180297532",
+      "description": "Browser demo of the character moving (not downloaded; referenced only)."
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV8JTcaasAEpe5y.jpg",
+      "from_post": "2116420968466039262",
+      "description": "Grid of preset target poses.",
+      "kind": "diagram",
+      "thumbnail": "posts/2026/10/31/2116414021180297532/media/1.webp"
+    }
+  ]
+}

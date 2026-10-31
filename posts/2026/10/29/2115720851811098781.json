@@ -1,0 +1,43 @@
+{
+  "id": "2115720851811098781",
+  "permalink": "https://x.com/arnaudmercier/status/2115720851811098781",
+  "author": {
+    "name": "Arnaud Mercier - #Entrepreneur #Versailles",
+    "handle": "@arnaudmercier",
+    "profile_url": "https://x.com/arnaudmercier"
+  },
+  "posted_at": "2026-10-29T08:22:13Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**Arnaud Mercier - #Entrepreneur #Versailles ([@arnaudmercier](https://x.com/arnaudmercier/status/2115720851811098781))** shares **Agent-Conditioned Routing** ([arXiv 2610.37375](https://arxiv.org/html/2610.37375v1)), which uses the conditional routing capacity of a frozen sparse MoE to produce genuinely diverse reasoning paths from one prompt without assigned roles or prescribed methods.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/html/2610.37375v1",
+      "from_post": "2115720851811098781",
+      "short_url": "https://t.co/7gays3yI4z",
+      "title": "Agent-Conditioned Routing:Diverse Reasoning Paths Within One Frozen Model"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-cognition"
+  ],
+  "keywords": [
+    "agent-conditioned-routing",
+    "mixture-of-experts",
+    "reasoning-diversity",
+    "frozen-model"
+  ],
+  "relevance": "Diversity of reasoning from a single MoE model, relevant to local MoE reasoners.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HVyM4tFWsAEb5tb.jpg",
+      "from_post": "2115720851811098781",
+      "description": "Figure from the paper: chart comparing agent-conditioned routing with temperature sampling.",
+      "kind": "chart",
+      "thumbnail": "posts/2026/10/29/2115720851811098781/media/0.webp"
+    }
+  ]
+}

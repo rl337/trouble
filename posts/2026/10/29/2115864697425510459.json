@@ -1,0 +1,45 @@
+{
+  "id": "2115864697425510459",
+  "permalink": "https://x.com/SciFi/status/2115864697425510459",
+  "author": {
+    "name": "Artificial Intelligence Papers",
+    "handle": "@SciFi",
+    "profile_url": "https://x.com/SciFi"
+  },
+  "posted_at": "2026-10-29T17:53:49Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**Artificial Intelligence Papers ([@SciFi](https://x.com/SciFi/status/2115864697425510459))** shares **Infinity Machine** ([arXiv 2610.35579](https://arxiv.org/abs/2610.35579)), a self-improving research agent whose harness (prompts, tools, skills, playbook, meta-agent) is an editable genome changed only through a kernel-enforced gate with held-out data and cost checks; over 14 problems in six days it reports results beyond the published state of the art.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.35579",
+      "from_post": "2115864697425510459",
+      "short_url": "https://t.co/fmmEZzEDqM",
+      "title": "Infinity Machine: a self-improving AI agent for research"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-cognition"
+  ],
+  "keywords": [
+    "infinity-machine",
+    "self-improving-agent",
+    "research-agent",
+    "verifier",
+    "harness"
+  ],
+  "relevance": "Concrete architecture for self-improving research agents.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV0Puu3W8AARG0D.png",
+      "from_post": "2115864697425510459",
+      "description": "Image of the paper's abstract text.",
+      "kind": "paper",
+      "thumbnail": "posts/2026/10/29/2115864697425510459/media/0.webp",
+      "ocr_text": "We present the Infinity Machine, a self-improving AI agent that we use for research on problems whose answers aprogram or data can check. Each candidate solution is produced by a full tool-using agent that works for up to an hour in a fresh sandbox; proposers see only a public score, and a private split decides what counts. The harness itself(prompts, tools, skills, playbook, meta agent) is an editable genome, changed only through a kernel-enforced gate with held-out and cost checks. An autonomous mode goes from a plain-text goal to a verified report with no human step: an agent picks an open problem and writes its verifier, the kernel calibrates it, an adversarial agent audits it, and an agent that never sees the verifier re-checks the result. Across fourteen problems in six days, for about 180 of model usage, the system produced four results beyond the published state of the art on catalogued open problems in quantum information: a certified depolarizing-channel threshold point p = 0"
+    }
+  ]
+}

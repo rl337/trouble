@@ -1,0 +1,34 @@
+{
+  "id": "2116096072393400568",
+  "permalink": "https://x.com/medevsmaker/status/2116096072393400568",
+  "author": {
+    "name": "Ahmed",
+    "handle": "@medevsmaker",
+    "profile_url": "https://x.com/medevsmaker"
+  },
+  "posted_at": "2026-10-30T09:13:13Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**Ahmed ([@medevsmaker](https://x.com/medevsmaker/status/2116096072393400568))** built 119 style kits that teach coding agents to animate and now releases three free, making videos in public, e.g. a one-prompt Halloween film in three looks without a video model ([reelstyles/reelstyles-free](https://github.com/reelstyles/reelstyles-free)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/reelstyles/reelstyles-free",
+      "from_post": "2116096072393400568",
+      "short_url": "https://t.co/AZAgpiLYaj",
+      "title": "GitHub - reelstyles/reelstyles-free: 3 free ReelStyles video style kits for Claude Code and other AI agents"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "reelstyles",
+    "style-kit",
+    "claude-code",
+    "motion-graphic",
+    "animation"
+  ],
+  "relevance": "Style kits for code-driven agent animation."
+}

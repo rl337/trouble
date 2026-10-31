@@ -1,0 +1,33 @@
+{
+  "id": "2115828157622210639",
+  "permalink": "https://x.com/thebylinehq/status/2115828157622210639",
+  "author": {
+    "name": "bylinehq",
+    "handle": "@thebylinehq",
+    "profile_url": "https://x.com/thebylinehq"
+  },
+  "posted_at": "2026-10-29T15:28:37Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**bylinehq ([@thebylinehq](https://x.com/thebylinehq/status/2115828157622210639))** notes Scenario released 1,300+ free 3D models on Hugging Face, each with the prompt, image and settings used, usable with credit ([scenario-labs/3d-collection](https://huggingface.co/datasets/scenario-labs/3d-collection)).",
+  "referenced_urls": [
+    {
+      "url": "https://huggingface.co/datasets/scenario-labs/3d-collection",
+      "from_post": "2115828157622210639",
+      "short_url": "https://t.co/6UILR65rBW",
+      "title": "scenario-labs/3d-collection · Datasets at Hugging Face"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "3d-model",
+    "dataset",
+    "scenario",
+    "game-asset"
+  ],
+  "relevance": "Open 3D asset dataset with generation provenance."
+}

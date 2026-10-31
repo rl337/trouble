@@ -1,0 +1,33 @@
+{
+  "id": "2116334007466315911",
+  "permalink": "https://x.com/rafaelsiqueira/status/2116334007466315911",
+  "author": {
+    "name": "Rafael Siqueira",
+    "handle": "@rafaelsiqueira",
+    "profile_url": "https://x.com/rafaelsiqueira"
+  },
+  "posted_at": "2026-10-31T00:58:41Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**Rafael Siqueira ([@rafaelsiqueira](https://x.com/rafaelsiqueira/status/2116334007466315911))** summarizes the Airbnb case study *Frustratingly Easy Agentic RAG via Portable Skills* ([arXiv 2610.14428](https://arxiv.org/abs/2610.14428)). An LLM-generated wiki plus a skill, built in 1–2 days, gave literal evidence in 83% of cases vs 60% for production RAG, with quoting enforced by code.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.14428",
+      "from_post": "2116334007466315911",
+      "short_url": "https://t.co/NFYSy7UlSS",
+      "title": "Frustratingly Easy Agentic RAG via Portable Skills: A Case Study..."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "agentic-rag",
+    "agent-skill",
+    "llm-wiki",
+    "retrieval"
+  ],
+  "relevance": "Skills replacing RAG."
+}

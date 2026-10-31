@@ -1,0 +1,46 @@
+{
+  "id": "2116289366784168399",
+  "permalink": "https://x.com/yiyibuilds/status/2116289366784168399",
+  "author": {
+    "name": "Yi-Yi",
+    "handle": "@yiyibuilds",
+    "profile_url": "https://x.com/yiyibuilds"
+  },
+  "posted_at": "2026-10-30T22:01:18Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**Yi-Yi ([@yiyibuilds](https://x.com/yiyibuilds/status/2116289366784168399))** open-sources **Teachable Figures**, an agent skill for interactive 2D/3D causal lessons (predict, try, explain), born from wanting to see how systems like SGLang work and inspired by cutaway and isometric figure projects ([ywEdAi/teachable-figures](https://github.com/ywEdAi/teachable-figures), [demo](http://ywedai.github.io/teachable-figures)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/ywEdAi/teachable-figures",
+      "from_post": "2116289366784168399",
+      "short_url": "https://t.co/8ELzsnHYQs",
+      "title": "GitHub - ywEdAi/teachable-figures: An agent skill for causal teaching figures through predict, try, and explain. Includes rendering kits, reviewed examples, and browser checks."
+    },
+    {
+      "url": "http://ywedai.github.io/teachable-figures",
+      "from_post": "2116289366784168399",
+      "short_url": "https://t.co/vR0XUUyv0a"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "teachable-figures",
+    "interactive-lesson",
+    "agent-skill",
+    "visualization"
+  ],
+  "relevance": "Agent-generated interactive explainers.",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://x.com/yiyibuilds/status/2116289366784168399/video/1",
+      "from_post": "2116289366784168399",
+      "description": "Interactive figure demo (not downloaded; referenced only)."
+    }
+  ]
+}

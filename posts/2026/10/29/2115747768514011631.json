@@ -1,0 +1,49 @@
+{
+  "id": "2115747768514011631",
+  "permalink": "https://x.com/haginota/status/2115747768514011631",
+  "author": {
+    "name": "Chief AI Officer at Canly, Japan | 萩野貴拓 カンリー CAIO",
+    "handle": "@haginota",
+    "profile_url": "https://x.com/haginota"
+  },
+  "posted_at": "2026-10-29T10:09:11Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [
+    {
+      "id": "2115747994083729739",
+      "permalink": "https://x.com/haginota/status/2115747994083729739",
+      "posted_at": "2026-10-29T10:10:05Z",
+      "position": 1
+    }
+  ],
+  "summary_md": "**Chief AI Officer at Canly, Japan | 萩野貴拓 カンリー CAIO ([@haginota](https://x.com/haginota/status/2115747768514011631))** summarizes *Stale Instruction Files Override the Code in Coding Agents* ([arXiv 2610.30571](https://arxiv.org/abs/2610.30571)): Claude Code noticed the conflict between an outdated instruction file and the code in 79 of 80 runs yet followed the file 86% of the time, and a single added sentence raised code-following from 4.2% to 91.4%; a Japanese version is linked in the reply.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.30571",
+      "from_post": "2115747768514011631",
+      "short_url": "https://t.co/Nc5USnPnaM",
+      "title": "Stale Instruction Files Override the Code in Coding Agents: A..."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "stale-instruction",
+    "agents.md",
+    "claude-code",
+    "instruction-file",
+    "coding-agent"
+  ],
+  "relevance": "Practical lesson for maintaining AGENTS.md/CLAUDE.md files.",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://x.com/haginota/status/2115747768514011631/video/1",
+      "from_post": "2115747768514011631",
+      "description": "Explainer video about the stale-instruction findings (not downloaded; referenced only)."
+    }
+  ]
+}

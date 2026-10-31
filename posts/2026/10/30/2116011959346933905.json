@@ -1,0 +1,34 @@
+{
+  "id": "2116011959346933905",
+  "permalink": "https://x.com/TheSanchezian/status/2116011959346933905",
+  "author": {
+    "name": "Jonathan S.",
+    "handle": "@TheSanchezian",
+    "profile_url": "https://x.com/TheSanchezian"
+  },
+  "posted_at": "2026-10-30T03:38:59Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**Jonathan S. ([@TheSanchezian](https://x.com/TheSanchezian/status/2116011959346933905))** published a ternary **Nemotron 3.5 Lightning 30B-A3B** for OpenVINO on Intel Arc A770 16GB, reporting 40+ tokens/s ([model](https://huggingface.co/TheSanchezian/Nemotron-3.5-Lightning-30B-A3B-Ternary-OpenVINO-A770?fbclid=IwdGRjcAVQ8JVleHRuA2Flb)).",
+  "referenced_urls": [
+    {
+      "url": "https://huggingface.co/TheSanchezian/Nemotron-3.5-Lightning-30B-A3B-Ternary-OpenVINO-A770?fbclid=IwdGRjcAVQ8JVleHRuA2FlbQIxMQBwZG9mBWZkaWQWURN6WFI6nLe6sO-lxlmcc6yKByDvMXNydGMGYXBwX2lkCjY2Mjg1NjgzNzkAAR8-OeEUunpayHT662QTknRa3cCrJlIleqAt0rEzsgc0NWAcrS973sHrFK_3pA_aem_VAQjCrvoq1AdCAoTAtDbfA",
+      "from_post": "2116011959346933905",
+      "short_url": "https://t.co/8AcewhlXTZ",
+      "title": "TheSanchezian/Nemotron-3.5-Lightning-30B-A3B-Ternary-OpenVINO-A770 · Hugging Face"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "local-models"
+  ],
+  "keywords": [
+    "nemotron",
+    "ternary-quantization",
+    "openvino",
+    "30b-a3b",
+    "intel-arc"
+  ],
+  "relevance": "Extreme quantization of a ~30B MoE for consumer hardware."
+}

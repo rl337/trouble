@@ -1,0 +1,33 @@
+{
+  "id": "2116198029808267693",
+  "permalink": "https://x.com/_talosai/status/2116198029808267693",
+  "author": {
+    "name": "Talos",
+    "handle": "@_talosai",
+    "profile_url": "https://x.com/_talosai"
+  },
+  "posted_at": "2026-10-30T15:58:22Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**Talos ([@_talosai](https://x.com/_talosai/status/2116198029808267693))** ships **Talos v0.1.13** with terminal session history, custom LLM providers and model picker, a built-in browser MCP with embedded tabs and unified MCP lifecycle on workers ([release](https://github.com/apilots/talos/releases/tag/v0.1.13)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/apilots/talos/releases/tag/v0.1.13",
+      "from_post": "2116198029808267693",
+      "short_url": "https://t.co/7Lg0QhJBsg",
+      "title": "Release Talos v0.1.13 · apilots/talos"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "talos",
+    "mcp",
+    "browser-mcp",
+    "agent-workspace"
+  ],
+  "relevance": "Agent workspace release."
+}

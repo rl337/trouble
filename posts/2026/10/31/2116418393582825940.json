@@ -1,0 +1,49 @@
+{
+  "id": "2116418393582825940",
+  "permalink": "https://x.com/melvindvivas/status/2116418393582825940",
+  "author": {
+    "name": "Melvin Vivas",
+    "handle": "@melvindvivas",
+    "profile_url": "https://x.com/melvindvivas"
+  },
+  "posted_at": "2026-10-31T06:34:00Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**Melvin Vivas ([@melvindvivas](https://x.com/melvindvivas/status/2116418393582825940))** shares a notebook for Liquid AI's **d1-2B** decision model applied to support triage ([donvito/notebooks](https://github.com/donvito/notebooks), [docs](https://docs.liquid.ai/lfm/models/d1-2b)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/donvito/notebooks",
+      "from_post": "2116418393582825940",
+      "short_url": "https://t.co/Z1Ctt1bujx",
+      "title": "GitHub - donvito/notebooks: Local models fine-tuning and inference notebooks you can run in Google Colab"
+    },
+    {
+      "url": "https://docs.liquid.ai/lfm/models/d1-2b",
+      "from_post": "2116418393582825940",
+      "short_url": "https://t.co/jnRsMnao6u",
+      "title": "d1-2B - Liquid AI Docs"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "local-models"
+  ],
+  "keywords": [
+    "d1-2b",
+    "liquid-ai",
+    "support-triage",
+    "notebook"
+  ],
+  "relevance": "Small local decision model.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV8G-mcakAA9IUy.jpg",
+      "from_post": "2116418393582825940",
+      "description": "Notebook output with triage decisions.",
+      "kind": "screenshot",
+      "thumbnail": "posts/2026/10/31/2116418393582825940/media/0.webp"
+    }
+  ]
+}

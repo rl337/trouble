@@ -1,0 +1,47 @@
+{
+  "id": "2116015400387596455",
+  "permalink": "https://x.com/mapte_fireball/status/2116015400387596455",
+  "author": {
+    "name": "まぷて",
+    "handle": "@mapte_fireball",
+    "profile_url": "https://x.com/mapte_fireball"
+  },
+  "posted_at": "2026-10-30T03:52:39Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [
+    {
+      "id": "2116015560878412211",
+      "permalink": "https://x.com/mapte_fireball/status/2116015560878412211",
+      "posted_at": "2026-10-30T03:53:18Z",
+      "position": 1
+    }
+  ],
+  "summary_md": "**まぷて ([@mapte_fireball](https://x.com/mapte_fireball/status/2116015400387596455))** shares **StableGen 0.4.0**, a free open Blender add-on connecting Qwen Image 2.1 and TRELLIS.2 via ComfyUI for text-to-mesh, texturing, auto-rigging and applying FBX/BVH motion with Unreal export, demoed on an RTX 4080 (Qwen Image 2.1 is non-commercial) ([sakalond/StableGen](https://github.com/sakalond/StableGen), [Reddit](https://www.reddit.com/r/StableDiffusion/comments/1xiolct/qwen_image_21_trellis2_in_blender_from_a_prompt/)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/sakalond/StableGen",
+      "from_post": "2116015560878412211",
+      "short_url": "https://t.co/BnHARKu3im",
+      "title": "GitHub - sakalond/StableGen: Transform your 3D texturing workflow with the power of generative AI, directly within Blender!"
+    },
+    {
+      "url": "https://www.reddit.com/r/StableDiffusion/comments/1xiolct/qwen_image_21_trellis2_in_blender_from_a_prompt/",
+      "from_post": "2116015560878412211",
+      "short_url": "https://t.co/JxbFXIBX5u",
+      "title": "From the StableDiffusion community on Reddit: Qwen Image 2.1 + TRELLIS.2 in Blender: from a prompt to a textured, rigged character, then a whole village in Unreal (StableGen 0.4.0)"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "stablegen",
+    "blender",
+    "trellis.2",
+    "qwen-image",
+    "auto-rigging"
+  ],
+  "relevance": "Local text-to-animated-3D-character pipeline."
+}

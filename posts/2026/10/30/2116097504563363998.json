@@ -1,0 +1,45 @@
+{
+  "id": "2116097504563363998",
+  "permalink": "https://x.com/FSFG/status/2116097504563363998",
+  "author": {
+    "name": "Cryptography and Security Papers",
+    "handle": "@FSFG",
+    "profile_url": "https://x.com/FSFG"
+  },
+  "posted_at": "2026-10-30T09:18:54Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**Cryptography and Security Papers ([@FSFG](https://x.com/FSFG/status/2116097504563363998))** shares *Poisoned Skills* ([arXiv 2610.37738](https://arxiv.org/abs/2610.37738)) by Manjusha and Emani, showing jailbreaks embedded in user-provided agent Markdown files (e.g. SKILL.md) propagate through a LangChain agent across many open-weight models.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.37738",
+      "from_post": "2116097504563363998",
+      "short_url": "https://t.co/TUezIco21R",
+      "title": "Poisoned Skills: Propagating Jailbreaks Through Agent Markdown Files"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "poisoned-skill",
+    "jailbreak",
+    "skill.md",
+    "agent-security",
+    "langchain"
+  ],
+  "relevance": "Security risk of untrusted skill and rules files.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV3jd4dWMAAePt7.png",
+      "from_post": "2116097504563363998",
+      "description": "Abstract of the Poisoned Skills paper.",
+      "kind": "paper",
+      "thumbnail": "posts/2026/10/30/2116097504563363998/media/0.webp",
+      "ocr_text": "Modern agent frameworks allow users to provide Markdown files containing system prompts, tool descriptions, and skill definitions (e.g., SKILL.md), which are incorporated into the agent's context during initialization. In this work, we investigate whether this configuration mechanism can also serve as an injection channel: can a jailbreak embedded in a Markdown skill file propagate through an agent and induce prohibited behavior? To answer this question, we construct a LangChain-based question-answering agent whose system prompt is assembled from a user-provided Markdown file. We embed a jailbreak combining persona manipulation with a GPTFUZZER-based attack and evaluate its effectiveness across seven contemporary open-weight models using 270 forbidden questions spanning nine harm categories. Under a benign system prompt, the models exhibit near-complete refusal behavior, with a mean attack success rate (ASR) of just 0.5%. In contrast, the injected skill file raises the mean ASR to 45%,"
+    }
+  ]
+}

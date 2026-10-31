@@ -1,0 +1,63 @@
+{
+  "id": "2116083771921358937",
+  "permalink": "https://x.com/Kotuke/status/2116083771921358937",
+  "author": {
+    "name": "Aleksandr Davydenko",
+    "handle": "@Kotuke",
+    "profile_url": "https://x.com/Kotuke"
+  },
+  "posted_at": "2026-10-30T08:24:20Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [
+    {
+      "id": "2116083933519679958",
+      "permalink": "https://x.com/Kotuke/status/2116083933519679958",
+      "posted_at": "2026-10-30T08:24:59Z",
+      "position": 1
+    },
+    {
+      "id": "2116083952796778807",
+      "permalink": "https://x.com/Kotuke/status/2116083952796778807",
+      "posted_at": "2026-10-30T08:25:03Z",
+      "position": 2
+    },
+    {
+      "id": "2116083967258472814",
+      "permalink": "https://x.com/Kotuke/status/2116083967258472814",
+      "posted_at": "2026-10-30T08:25:07Z",
+      "position": 3
+    }
+  ],
+  "summary_md": "**Aleksandr Davydenko ([@Kotuke](https://x.com/Kotuke/status/2116083771921358937))** ships **Lumilo 0.2.0**, a macOS menu-bar panel that runs TensorFold (or Splash/llama.cpp), picks a model with its DFlash2 drafter, shows live tok/s and launches Claude Code or Codex against it, reporting Qwen3.8-27B at about 173 tok/s for code on an M5 Max; follow-ups note streamed numbers of ~150–170 tok/s for code, ~85 for English, ~37 for Russian, 43% draft acceptance, and that it is free, MIT and unofficial ([kotuke/lumilo](https://github.com/kotuke/lumilo)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/kotuke/lumilo",
+      "from_post": "2116083771921358937",
+      "short_url": "https://t.co/jnspJvGhvZ",
+      "title": "GitHub - kotuke/lumilo: Menu-bar panel for local LLM engines on macOS: run Splash or llama.cpp, watch memory and speed, get models from Hugging Face"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "local-models"
+  ],
+  "keywords": [
+    "lumilo",
+    "tensorfold",
+    "dflash2",
+    "speculative-decoding",
+    "qwen3.8-27b",
+    "llama.cpp",
+    "macos"
+  ],
+  "relevance": "Speculative-decoding speeds for a ~27B local model wired to coding agents.",
+  "media": [
+    {
+      "type": "gif",
+      "url": "https://x.com/Kotuke/status/2116083771921358937/photo/1",
+      "from_post": "2116083771921358937",
+      "description": "Menu-bar panel streaming tokens with live speed (not downloaded; referenced only)."
+    }
+  ]
+}

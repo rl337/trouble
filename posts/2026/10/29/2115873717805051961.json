@@ -1,0 +1,34 @@
+{
+  "id": "2115873717805051961",
+  "permalink": "https://x.com/arunimastwt/status/2115873717805051961",
+  "author": {
+    "name": "Arunima Chaudhuri",
+    "handle": "@arunimastwt",
+    "profile_url": "https://x.com/arunimastwt"
+  },
+  "posted_at": "2026-10-29T18:29:40Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**Arunima Chaudhuri ([@arunimastwt](https://x.com/arunimastwt/status/2115873717805051961))** shares **AgentSec**, open-source adversarial testing for agents covering prompt injection, tool and MCP poisoning, secret leaks, memory poisoning and runaway loops, with deterministic checks on real tool traces, seeded replay and CI gating ([invarislabs/invaris-agentsec](https://github.com/invarislabs/invaris-agentsec)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/invarislabs/invaris-agentsec",
+      "from_post": "2115873717805051961",
+      "short_url": "https://t.co/UxPCQblvxF",
+      "title": "GitHub - invarislabs/invaris-agentsec: Adversarial security testing for AI agents — prompt injection, tool misuse, memory poisoning, and MCP scanning, with CI-ready regression testing and reports."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "agentsec",
+    "adversarial-testing",
+    "prompt-injection",
+    "mcp-poisoning",
+    "ci"
+  ],
+  "relevance": "Security test harness for agent pipelines."
+}

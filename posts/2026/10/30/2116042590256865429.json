@@ -1,0 +1,34 @@
+{
+  "id": "2116042590256865429",
+  "permalink": "https://x.com/dani_akash_/status/2116042590256865429",
+  "author": {
+    "name": "Dani Akash 🧪💥",
+    "handle": "@dani_akash_",
+    "profile_url": "https://x.com/dani_akash_"
+  },
+  "posted_at": "2026-10-30T05:40:42Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**Dani Akash 🧪💥 ([@dani_akash_](https://x.com/dani_akash_/status/2116042590256865429))** argues AGENTS.md and CLAUDE.md are effectively executables, citing a report that a text file in ~/Downloads got Codex to install a malicious npm package in over 90% of attempts, so anything an agent reads should be treated like code ([The Hacker News](https://thehackernews.com/2026/10/malicious-file-in-downloads-folder.html)).",
+  "referenced_urls": [
+    {
+      "url": "https://thehackernews.com/2026/10/malicious-file-in-downloads-folder.html",
+      "from_post": "2116042590256865429",
+      "short_url": "https://t.co/dgmK0m3RhA",
+      "title": "Malicious File in Downloads Folder Tries to Trick AI Coding Agent Into Installing Malware"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "prompt-injection",
+    "agents.md",
+    "codex",
+    "npm",
+    "supply-chain"
+  ],
+  "relevance": "Prompt-injection risk from local instruction files."
+}

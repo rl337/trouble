@@ -1,0 +1,44 @@
+{
+  "id": "2115714708007244174",
+  "permalink": "https://x.com/HEI/status/2115714708007244174",
+  "author": {
+    "name": "Natural Language Processing Papers",
+    "handle": "@HEI",
+    "profile_url": "https://x.com/HEI"
+  },
+  "posted_at": "2026-10-29T07:57:49Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**Natural Language Processing Papers ([@HEI](https://x.com/HEI/status/2115714708007244174))** shares **Trajectory2Gym** ([arXiv 2610.33568](https://arxiv.org/abs/2610.33568)), which synthesizes compositional, decision-grounded interaction data for tool-use agents, arguing that even successful trajectories make poor supervision unless they cover dependencies and ground each step in information available at decision time.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.33568",
+      "from_post": "2115714708007244174",
+      "short_url": "https://t.co/E4FHFplDS8",
+      "title": "Trajectory2Gym: Decision-Grounded Compositional Interaction..."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "trajectory2gym",
+    "tool-use",
+    "synthetic-data",
+    "agent-training"
+  ],
+  "relevance": "Better training data for tool-using agents.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HVyHULzWYAA89cQ.png",
+      "from_post": "2115714708007244174",
+      "description": "Image of the paper's abstract text.",
+      "kind": "paper",
+      "thumbnail": "posts/2026/10/29/2115714708007244174/media/0.webp",
+      "ocr_text": "Successful tool-use trajectories are not necessarily useful supervision. Even successful interactions may underrepresent multi-step dependencies or contain actions that are unjustified by the information visible to the agent at decision time. We identify two coupled requirements for effective trajectory supervision: compositional coverage, so that important observation-action dependencies are represented, and decision grounding, so that each supervised action is supported by the learner-visible interaction history. We introduce Trajectory2Gym, which constructs executable interactions around under-supported compositional structures and derives supervision only from grounded decisions in their realized executions. Structural-support selection allocates the resulting experience, while parent-normalized supervised fine-tuning preserves the semantic interaction as the unit of training weight. This reframes trajectory generation as the deliberate construction of learnable interaction experie"
+    }
+  ]
+}

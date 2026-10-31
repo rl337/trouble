@@ -1,0 +1,34 @@
+{
+  "id": "2115818458181214472",
+  "permalink": "https://x.com/herenfor/status/2115818458181214472",
+  "author": {
+    "name": "HeRenFor",
+    "handle": "@herenfor",
+    "profile_url": "https://x.com/herenfor"
+  },
+  "posted_at": "2026-10-29T14:50:05Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**HeRenFor ([@herenfor](https://x.com/herenfor/status/2115818458181214472))** profiled a 9.7-hour DeepSeek Harness session (100 min blocked on background tasks, 79 min waiting after questions, 20 min of foreground sleep) and wrote plugins that background tasks with auto-wake, make questions non-blocking and keep tokens out of context, cutting conversation blocking from 20 to 5 minutes ([herenfor/dsh-runtime-tuning](https://github.com/herenfor/dsh-runtime-tuning)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/herenfor/dsh-runtime-tuning",
+      "from_post": "2115818458181214472",
+      "short_url": "https://t.co/MM22ty6Wwt",
+      "title": "GitHub - herenfor/dsh-runtime-tuning: DSH 运行时优化实验：从真实会话数据里找 agent 的时间浪费，再用插件修掉"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "dsh-runtime-tuning",
+    "deepseek-harness",
+    "runtime",
+    "background-task",
+    "profiling"
+  ],
+  "relevance": "Data-driven harness runtime optimization."
+}

@@ -1,0 +1,34 @@
+{
+  "id": "2116163986295332947",
+  "permalink": "https://x.com/tvcdave/status/2116163986295332947",
+  "author": {
+    "name": "David",
+    "handle": "@tvcdave",
+    "profile_url": "https://x.com/tvcdave"
+  },
+  "posted_at": "2026-10-30T13:43:05Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**David ([@tvcdave](https://x.com/tvcdave/status/2116163986295332947))** highlights AIdeaLab's **AnimeGen-I2V**, an Apache-2.0 Wan 2.2 image-to-video fine-tune for anime that you can run yourself, asking why creators still mostly use general models ([aidealab/AnimeGen-I2V](https://huggingface.co/aidealab/AnimeGen-I2V)).",
+  "referenced_urls": [
+    {
+      "url": "https://huggingface.co/aidealab/AnimeGen-I2V",
+      "from_post": "2116163986295332947",
+      "short_url": "https://t.co/V4pUs728Q8",
+      "title": "aidealab/AnimeGen-I2V · Hugging Face"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-media",
+    "local-models"
+  ],
+  "keywords": [
+    "animegen",
+    "wan-2.2",
+    "image-to-video",
+    "anime"
+  ],
+  "relevance": "Self-hostable anime video model."
+}

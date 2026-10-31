@@ -1,0 +1,57 @@
+{
+  "id": "2116160919352795525",
+  "permalink": "https://x.com/Gary46518347/status/2116160919352795525",
+  "author": {
+    "name": "Gongbo",
+    "handle": "@Gary46518347",
+    "profile_url": "https://x.com/Gary46518347"
+  },
+  "posted_at": "2026-10-30T13:30:54Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [
+    {
+      "id": "2116160921991070010",
+      "permalink": "https://x.com/Gary46518347/status/2116160921991070010",
+      "posted_at": "2026-10-30T13:30:54Z",
+      "position": 1
+    },
+    {
+      "id": "2116160923115147733",
+      "permalink": "https://x.com/Gary46518347/status/2116160923115147733",
+      "posted_at": "2026-10-30T13:30:55Z",
+      "position": 2
+    }
+  ],
+  "summary_md": "**Gongbo ([@Gary46518347](https://x.com/Gary46518347/status/2116160919352795525))** introduces **ClaimNov** ([arXiv 2610.36511](https://arxiv.org/abs/2610.36511)), which checks AI-scientist novelty claim by claim, catching 97% of disguised papers at 1.5% false alarms and keeping 91 of 100 novel proposals; the team is also building OpenAI4S, a PKU science agent logging every step ([emmatliu/claimnov](https://github.com/emmatliu/claimnov), [PKU-YuanGroup/OpenAI4S](http://github.com/PKU-YuanGroup/OpenAI4S)).",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.36511",
+      "from_post": "2116160919352795525",
+      "short_url": "https://t.co/CjRzfU8bT3",
+      "title": "Do AI Scientists Know What's New?"
+    },
+    {
+      "url": "https://github.com/emmatliu/claimnov",
+      "from_post": "2116160923115147733",
+      "short_url": "https://t.co/iOIARHDpKC",
+      "title": "GitHub - emmatliu/claimnov: ClaimNov: claim-level novelty checks for AI-scientist pipelines (code and data for 'Do AI Scientists Know What's New?')"
+    },
+    {
+      "url": "http://github.com/PKU-YuanGroup/OpenAI4S",
+      "from_post": "2116160923115147733",
+      "short_url": "https://t.co/MWtZYkJElh"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-cognition"
+  ],
+  "keywords": [
+    "claimnov",
+    "novelty-detection",
+    "ai-scientist",
+    "openai4s"
+  ],
+  "relevance": "Judging novelty is the bottleneck for AI-scientist pipelines."
+}

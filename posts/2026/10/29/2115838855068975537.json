@@ -1,0 +1,45 @@
+{
+  "id": "2115838855068975537",
+  "permalink": "https://x.com/rlaope/status/2115838855068975537",
+  "author": {
+    "name": "HOPE.",
+    "handle": "@rlaope",
+    "profile_url": "https://x.com/rlaope"
+  },
+  "posted_at": "2026-10-29T16:11:08Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**HOPE. ([@rlaope](https://x.com/rlaope/status/2115838855068975537))** promotes the video-prompting and creative skills in **oh-my-hermes**, saying he tuned prompt rules so the Hermes harness does creative work as well as engineering ([rlaope/oh-my-hermes](https://github.com/rlaope/oh-my-hermes)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/rlaope/oh-my-hermes",
+      "from_post": "2115838855068975537",
+      "short_url": "https://t.co/5OoCqbz58X",
+      "title": "GitHub - rlaope/oh-my-hermes: The coding intelligence and skills package for Hermes Agent ⚚ Install once, then just type 'dag-ulw' to be graph engineering master."
+    }
+  ],
+  "hashtags": [
+    "hermes",
+    "skills"
+  ],
+  "topics": [
+    "harness-dev",
+    "agentic-media"
+  ],
+  "keywords": [
+    "oh-my-hermes",
+    "hermes-agent",
+    "video-prompting",
+    "agent-skill"
+  ],
+  "relevance": "Harness skills spanning code and creative media.",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://x.com/rlaope/status/2115838855068975537/video/1",
+      "from_post": "2115838855068975537",
+      "description": "Video generated with the Hermes prompting skills (not downloaded; referenced only)."
+    }
+  ]
+}

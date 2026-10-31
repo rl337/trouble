@@ -1,0 +1,54 @@
+{
+  "id": "2116208543707619572",
+  "permalink": "https://x.com/LiamSwiftTheDog/status/2116208543707619572",
+  "author": {
+    "name": "Liam",
+    "handle": "@LiamSwiftTheDog",
+    "profile_url": "https://x.com/LiamSwiftTheDog"
+  },
+  "posted_at": "2026-10-30T16:40:08Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [
+    {
+      "id": "2116208672942764303",
+      "permalink": "https://x.com/LiamSwiftTheDog/status/2116208672942764303",
+      "posted_at": "2026-10-30T16:40:39Z",
+      "position": 1
+    }
+  ],
+  "summary_md": "**Liam ([@LiamSwiftTheDog](https://x.com/LiamSwiftTheDog/status/2116208543707619572))** updates **Asset Jam Studio**, a local game-asset studio where Claude builds artist-like low-poly models and textures by filling base colors, rendering views and finishing with img2img, avoiding blobby generative-3D meshes ([LiamDobbelaere/Asset-Jam-Studio](https://github.com/LiamDobbelaere/Asset-Jam-Studio)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/LiamDobbelaere/Asset-Jam-Studio",
+      "from_post": "2116208543707619572",
+      "short_url": "https://t.co/dXkIQkK7D7",
+      "title": "GitHub - LiamDobbelaere/Asset-Jam-Studio: Fully local game-asset studio: 3D props, seamless textures, sprites, voice lines, music, intro videos and animated characters from text, on your own GPU. No subscriptions, no cloud."
+    }
+  ],
+  "hashtags": [
+    "AIart",
+    "gamedev"
+  ],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "asset-jam-studio",
+    "3d-modeling",
+    "game-asset",
+    "texturing",
+    "claude"
+  ],
+  "relevance": "LLM-authored 3D modeling for games.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV5IG0mXQAI8FEN.jpg",
+      "from_post": "2116208543707619572",
+      "description": "Asset studio showing a generated red desk lamp model with texture thumbnails.",
+      "kind": "screenshot",
+      "thumbnail": "posts/2026/10/30/2116208543707619572/media/0.webp"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": "2116280386435355064",
+  "permalink": "https://x.com/dad__vibes/status/2116280386435355064",
+  "author": {
+    "name": "Adam",
+    "handle": "@dad__vibes",
+    "profile_url": "https://x.com/dad__vibes"
+  },
+  "posted_at": "2026-10-30T21:25:37Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**Adam ([@dad__vibes](https://x.com/dad__vibes/status/2116280386435355064))** flags that Qwen's model card calls **Qwen3.8-Flash-Next** an experimental preview of the architecture behind Qwen4, already running in vLLM ([Qwen/Qwen3.8-Flash-Next](https://huggingface.co/Qwen/Qwen3.8-Flash-Next)).",
+  "referenced_urls": [
+    {
+      "url": "https://huggingface.co/Qwen/Qwen3.8-Flash-Next",
+      "from_post": "2116280386435355064",
+      "short_url": "https://t.co/6bXNiiuY04",
+      "title": "Qwen/Qwen3.8-Flash-Next · Hugging Face"
+    }
+  ],
+  "hashtags": [
+    "Qwen4"
+  ],
+  "topics": [
+    "local-models"
+  ],
+  "keywords": [
+    "qwen3.8-flash-next",
+    "qwen4",
+    "vllm",
+    "model-architecture"
+  ],
+  "relevance": "Signal of upcoming Qwen4 architecture.",
+  "media": [
+    {
+      "type": "gif",
+      "url": "https://x.com/dad__vibes/status/2116280386435355064/photo/1",
+      "from_post": "2116280386435355064",
+      "description": "Model card scroll (not downloaded; referenced only)."
+    }
+  ]
+}

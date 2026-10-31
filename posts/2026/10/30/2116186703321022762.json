@@ -1,0 +1,42 @@
+{
+  "id": "2116186703321022762",
+  "permalink": "https://x.com/BuildWithAINo1/status/2116186703321022762",
+  "author": {
+    "name": "AI效率资源库｜每日实测",
+    "handle": "@BuildWithAINo1",
+    "profile_url": "https://x.com/BuildWithAINo1"
+  },
+  "posted_at": "2026-10-30T15:13:21Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**AI效率资源库｜每日实测 ([@BuildWithAINo1](https://x.com/BuildWithAINo1/status/2116186703321022762))** shares **Digital Human Koubo**, an agent workflow (SKILL.md, Python and Remotion templates) that turns a portrait and script into a talking-head video with QA and packaging ([andyhuo520/digital-human-](https://github.com/andyhuo520/digital-human-)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/andyhuo520/digital-human-",
+      "from_post": "2116186703321022762",
+      "short_url": "https://t.co/AK5QIdieSn"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "digital-human",
+    "talking-head",
+    "remotion",
+    "agent-skill"
+  ],
+  "relevance": "Agent skill for avatar video production.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV40kY3a0AAYITV.jpg",
+      "from_post": "2116186703321022762",
+      "description": "Slide: one photo plus one sentence makes a 27-second ad, with avatar style options.",
+      "kind": "screenshot",
+      "thumbnail": "posts/2026/10/30/2116186703321022762/media/0.webp"
+    }
+  ]
+}

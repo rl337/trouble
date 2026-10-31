@@ -1,0 +1,34 @@
+{
+  "id": "2115838084352708716",
+  "permalink": "https://x.com/iamnrdas/status/2115838084352708716",
+  "author": {
+    "name": "RANJAN",
+    "handle": "@iamnrdas",
+    "profile_url": "https://x.com/iamnrdas"
+  },
+  "posted_at": "2026-10-29T16:08:04Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**RANJAN ([@iamnrdas](https://x.com/iamnrdas/status/2115838084352708716))** notes Microsoft's **Agensh**, a decentralized multi-agent harness scaling to 1,024 agents without a central orchestrator, now supporting Codex, Claude Code and Pi as backends alongside Copilot ([microsoft/Agensh](https://github.com/microsoft/Agensh)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/microsoft/Agensh",
+      "from_post": "2115838084352708716",
+      "short_url": "https://t.co/a8eTNeSnec",
+      "title": "GitHub - microsoft/Agensh: A Decentralized, Scalable Multiagent Harness"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "agensh",
+    "multi-agent",
+    "harness",
+    "decentralized",
+    "codex"
+  ],
+  "relevance": "Large-scale decentralized multi-agent harness."
+}

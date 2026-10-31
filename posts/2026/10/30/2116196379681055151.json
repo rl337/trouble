@@ -1,0 +1,41 @@
+{
+  "id": "2116196379681055151",
+  "permalink": "https://x.com/cvisionx/status/2116196379681055151",
+  "author": {
+    "name": "Gaetano Minardi",
+    "handle": "@cvisionx",
+    "profile_url": "https://x.com/cvisionx"
+  },
+  "posted_at": "2026-10-30T15:51:48Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**Gaetano Minardi ([@cvisionx](https://x.com/cvisionx/status/2116196379681055151))** releases **FastLLM** and its inference engine LLMEnv, a local LLM runner for Apple Silicon supporting MLX and GGUF ([c-vision/FastLLM](https://github.com/c-vision/FastLLM)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/c-vision/FastLLM",
+      "from_post": "2116196379681055151",
+      "short_url": "https://t.co/AWuyEXhXCH",
+      "title": "GitHub - c-vision/FastLLM: Local LLM runner for Apple Silicon. MLX & GGUF, dedicated LLMEnv inference engine, disk-backed model loading, and OpenAI/Anthropic-compatible APIs."
+    }
+  ],
+  "hashtags": [
+    "ArtificialIntelligence",
+    "LLM",
+    "MachineLearning",
+    "OpenSource",
+    "AppleSilicon",
+    "LocalLLM"
+  ],
+  "topics": [
+    "local-models"
+  ],
+  "keywords": [
+    "fastllm",
+    "llmenv",
+    "mlx",
+    "gguf",
+    "apple-silicon"
+  ],
+  "relevance": "Another local runner for Apple Silicon."
+}

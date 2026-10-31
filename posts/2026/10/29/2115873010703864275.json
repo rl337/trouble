@@ -1,0 +1,51 @@
+{
+  "id": "2115873010703864275",
+  "permalink": "https://x.com/atasrb/status/2115873010703864275",
+  "author": {
+    "name": "ata",
+    "handle": "@atasrb",
+    "profile_url": "https://x.com/atasrb"
+  },
+  "posted_at": "2026-10-29T18:26:51Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [
+    {
+      "id": "2115873138487783861",
+      "permalink": "https://x.com/atasrb/status/2115873138487783861",
+      "posted_at": "2026-10-29T18:27:21Z",
+      "position": 1
+    }
+  ],
+  "summary_md": "**ata ([@atasrb](https://x.com/atasrb/status/2115873010703864275))** benchmarks **Nanbeige4.3-33B** on DGX Spark with vLLM 0.32: NVFP4 (22 GB) 11.3 tok/s on one Spark and 20 on two, FP8 6.3 tok/s, BF16 6.8 on two Sparks; with the DFlash2 draft NVFP4 reaches 22–24 tok/s on JSON and code, and GPQA Diamond and IFEval scores are within noise across builds, with a one-command recipe ([atakann/dgx-spark-recipes](https://github.com/atakann/dgx-spark-recipes)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/atakann/dgx-spark-recipes",
+      "from_post": "2115873138487783861",
+      "short_url": "https://t.co/NVuGqm4Mdk",
+      "title": "GitHub - atakann/dgx-spark-recipes: Measured recipes for the NVIDIA DGX Spark, on one or two Sparks: LLM serving, image, video and speech"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "local-models"
+  ],
+  "keywords": [
+    "nanbeige4.3-33b",
+    "dgx-spark",
+    "nvfp4",
+    "vllm",
+    "speculative-decoding"
+  ],
+  "relevance": "Measured DGX Spark recipe for a ~33B model.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV0XBsMXIAAwBZd.jpg",
+      "from_post": "2115873010703864275",
+      "description": "Chart \"Nanbeige4.3-33B on DGX Spark: three builds\" with decode tok/s per build and GPQA/IFEval scores.",
+      "kind": "chart",
+      "thumbnail": "posts/2026/10/29/2115873010703864275/media/0.webp"
+    }
+  ]
+}

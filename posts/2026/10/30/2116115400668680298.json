@@ -1,0 +1,49 @@
+{
+  "id": "2116115400668680298",
+  "permalink": "https://x.com/itarutomy/status/2116115400668680298",
+  "author": {
+    "name": "Itaru Tomita / 冨田到",
+    "handle": "@itarutomy",
+    "profile_url": "https://x.com/itarutomy"
+  },
+  "posted_at": "2026-10-30T10:30:01Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**Itaru Tomita / 冨田到 ([@itarutomy](https://x.com/itarutomy/status/2116115400668680298))** explains *Amortizing Sequential Experimental Design in Reasoning LLMs* ([arXiv 2610.20832](https://arxiv.org/html/2610.20832v1)) by Kriz et al.: AR-BED trains reasoning models with expected information gain as reward in 20-questions, beating baselines on unseen categories while merely enabling reasoning lowered accuracy; he notes biases in the candidate set and no real-patient validation.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/html/2610.20832v1",
+      "from_post": "2116115400668680298",
+      "short_url": "https://t.co/2fzTm1P1Kq",
+      "title": "Amortizing Sequential Experimental Design in Reasoning LLMs"
+    },
+    {
+      "url": "https://creativecommons.org/licenses/by/4.0/",
+      "from_post": "2116115400668680298",
+      "short_url": "https://t.co/bwTS1lZA8B"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-cognition"
+  ],
+  "keywords": [
+    "ar-bed",
+    "experimental-design",
+    "information-gain",
+    "twenty-questions",
+    "question-asking"
+  ],
+  "relevance": "Training agents to ask informative questions.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV219ojaAAAdW6Z.jpg",
+      "from_post": "2116115400668680298",
+      "description": "Paper figure 1 charts of success rate by turn across animals, plants, celebrities and countries.",
+      "kind": "chart",
+      "thumbnail": "posts/2026/10/30/2116115400668680298/media/0.webp"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "2115826129257017381",
+  "permalink": "https://x.com/MiracastAirplay/status/2115826129257017381",
+  "author": {
+    "name": "Miracast",
+    "handle": "@MiracastAirplay",
+    "profile_url": "https://x.com/MiracastAirplay"
+  },
+  "posted_at": "2026-10-29T15:20:34Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [
+    {
+      "id": "2115827508851675495",
+      "permalink": "https://x.com/MiracastAirplay/status/2115827508851675495",
+      "posted_at": "2026-10-29T15:26:02Z",
+      "position": 1
+    }
+  ],
+  "summary_md": "**Miracast ([@MiracastAirplay](https://x.com/MiracastAirplay/status/2115826129257017381))** launches **OpenSiTerm**, which gives Claude Code, Codex, opencode, Gemini CLI and other coding agents direct serial-port read/write so they can read device logs and send console commands themselves ([aimachy/opensiterm](https://github.com/aimachy/opensiterm)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/aimachy/opensiterm",
+      "from_post": "2115826129257017381",
+      "short_url": "https://t.co/8uCjWlNngU",
+      "title": "GitHub - aimachy/opensiterm: OpenSiTerm-Serial port access for AI coding agents.Let Claude Code, Codex, opencode, oh-my-pi, Gemini CLI, DeepSeek and other agents read your device's logs and type into its console themselves, instead of you copy-pasting serial output into the chat."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "opensiterm",
+    "serial-port",
+    "embedded",
+    "coding-agent"
+  ],
+  "relevance": "Extends coding agents to hardware debugging."
+}

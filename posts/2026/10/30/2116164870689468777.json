@@ -1,0 +1,50 @@
+{
+  "id": "2116164870689468777",
+  "permalink": "https://x.com/AIPowerGrid/status/2116164870689468777",
+  "author": {
+    "name": "AI Power Grid",
+    "handle": "@AIPowerGrid",
+    "profile_url": "https://x.com/AIPowerGrid"
+  },
+  "posted_at": "2026-10-30T13:46:36Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**AI Power Grid ([@AIPowerGrid](https://x.com/AIPowerGrid/status/2116164870689468777))** releases **Openfield**, an MIT open-source video studio on ComfyUI covering what subscription apps do with open weights, runnable on Comfy Cloud or your GPU ([openfield.video](https://openfield.video), [AIPowerGrid/openfield](https://github.com/AIPowerGrid/openfield)).",
+  "referenced_urls": [
+    {
+      "url": "https://openfield.video",
+      "from_post": "2116164870689468777",
+      "short_url": "https://t.co/7FnxbDtJlx",
+      "title": "Openfield · The open source video studio"
+    },
+    {
+      "url": "https://github.com/AIPowerGrid/openfield",
+      "from_post": "2116164870689468777",
+      "short_url": "https://t.co/ZJBVQgJkuh",
+      "title": "GitHub - AIPowerGrid/openfield: Openfield: the open source video studio. Restyle footage, animate photos, make product ads and shorts on ComfyUI and open models, on your GPU or Comfy Cloud."
+    }
+  ],
+  "hashtags": [
+    "OpenSourceHiggsfield"
+  ],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "openfield",
+    "comfyui",
+    "video-studio",
+    "open-weight",
+    "opensourcehiggsfield"
+  ],
+  "relevance": "Open-weight replacement for hosted video apps.",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://x.com/AIPowerGrid/status/2116164870689468777/video/1",
+      "from_post": "2116164870689468777",
+      "description": "Openfield studio demo (not downloaded; referenced only)."
+    }
+  ]
+}

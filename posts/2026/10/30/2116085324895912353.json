@@ -1,0 +1,36 @@
+{
+  "id": "2116085324895912353",
+  "permalink": "https://x.com/getpacketai/status/2116085324895912353",
+  "author": {
+    "name": "Packet.ai",
+    "handle": "@getpacketai",
+    "profile_url": "https://x.com/getpacketai"
+  },
+  "posted_at": "2026-10-30T08:30:31Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**Packet.ai ([@getpacketai](https://x.com/getpacketai/status/2116085324895912353))** describes *BiLoCo* ([arXiv 2610.32243](https://arxiv.org/abs/2610.32243)), which stores low-rank quantization corrections as binary vectors for near-free accuracy recovery, aiding cheaper FP4 inference.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.32243",
+      "from_post": "2116085324895912353",
+      "short_url": "https://t.co/7F1IVzGYpD",
+      "title": "BiLoCo: Binary Low-Rank Corrections for Post-Training Quantization"
+    }
+  ],
+  "hashtags": [
+    "AI",
+    "MachineLearning"
+  ],
+  "topics": [
+    "local-models"
+  ],
+  "keywords": [
+    "biloco",
+    "quantization",
+    "fp4",
+    "low-rank-correction"
+  ],
+  "relevance": "Quantization accuracy recovery relevant to running bigger models locally."
+}

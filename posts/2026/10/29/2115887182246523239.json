@@ -1,0 +1,45 @@
+{
+  "id": "2115887182246523239",
+  "permalink": "https://x.com/oaichu95/status/2115887182246523239",
+  "author": {
+    "name": "Oai Chu",
+    "handle": "@oaichu95",
+    "profile_url": "https://x.com/oaichu95"
+  },
+  "posted_at": "2026-10-29T19:23:10Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**Oai Chu ([@oaichu95](https://x.com/oaichu95/status/2115887182246523239))** shares **claude-code-game-kit**, an MIT kit giving Claude Code a game-dev setup across Phaser, Three.js, Godot, Unity, Unreal, Bevy and SDL2 (RPG Maker MZ untested) with shared test/build commands, 18 skills and a sample game each ([Er2oneousbit/claude-code-game-kit](https://github.com/Er2oneousbit/claude-code-game-kit)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/Er2oneousbit/claude-code-game-kit",
+      "from_post": "2115887182246523239",
+      "short_url": "https://t.co/pL0rMukjwc",
+      "title": "GitHub - Er2oneousbit/claude-code-game-kit: Claude Code Game Kit: start a game with Claude Code already set up"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev",
+    "agentic-media"
+  ],
+  "keywords": [
+    "claude-code-game-kit",
+    "game-development",
+    "godot",
+    "unity",
+    "agent-skill"
+  ],
+  "relevance": "Multi-engine scaffolding for agentic game development.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV0kCtXaYAEtHta.jpg",
+      "from_post": "2115887182246523239",
+      "description": "\"Claude Code Game Kit: 8 engines, one setup\" grid of sample games per engine.",
+      "kind": "screenshot",
+      "thumbnail": "posts/2026/10/29/2115887182246523239/media/0.webp"
+    }
+  ]
+}

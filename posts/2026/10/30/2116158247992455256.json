@@ -1,0 +1,41 @@
+{
+  "id": "2116158247992455256",
+  "permalink": "https://x.com/LanceZPF1/status/2116158247992455256",
+  "author": {
+    "name": "Pengfei Zhou",
+    "handle": "@LanceZPF1",
+    "profile_url": "https://x.com/LanceZPF1"
+  },
+  "posted_at": "2026-10-30T13:20:17Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**Pengfei Zhou ([@LanceZPF1](https://x.com/LanceZPF1/status/2116158247992455256))** open-sources **The-Trinity** demo code, showing agents recursively self-improving in self-built simulations and generalizing to real robot tasks ([InfRec-Cardinal/The-Trinity](https://github.com/InfRec-Cardinal/The-Trinity)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/InfRec-Cardinal/The-Trinity",
+      "from_post": "2116158247992455256",
+      "short_url": "https://t.co/0MgpZHoKgQ",
+      "title": "GitHub - InfRec-Cardinal/The-Trinity: coming soon"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-cognition"
+  ],
+  "keywords": [
+    "the-trinity",
+    "recursive-self-improvement",
+    "simulation",
+    "robotics"
+  ],
+  "relevance": "Self-improvement via self-built environments.",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://x.com/LanceZPF1/status/2116158247992455256/video/1",
+      "from_post": "2116158247992455256",
+      "description": "Demo of simulation-trained agent on a real robot (not downloaded; referenced only)."
+    }
+  ]
+}

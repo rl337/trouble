@@ -1,0 +1,43 @@
+{
+  "id": "2116000134924554645",
+  "permalink": "https://x.com/supermm518/status/2116000134924554645",
+  "author": {
+    "name": "岛勒｜Supermm",
+    "handle": "@supermm518",
+    "profile_url": "https://x.com/supermm518"
+  },
+  "posted_at": "2026-10-30T02:52:00Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**岛勒｜Supermm ([@supermm518](https://x.com/supermm518/status/2116000134924554645))** recommends **diagram-design**, a skill for Claude Code, Codex and Copilot that turns complex flows and relationships into polished editorial diagrams instead of Mermaid output ([cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "from_post": "2116000134924554645",
+      "short_url": "https://t.co/Bct6SG2cWQ",
+      "title": "GitHub - cathrynlavery/diagram-design: Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 45 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "diagram-design",
+    "agent-skill",
+    "diagram",
+    "visualization"
+  ],
+  "relevance": "Better visual explanation as a skill.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HVz5igaa8AAFqWX.jpg",
+      "from_post": "2116000134924554645",
+      "description": "Gallery of generated diagram styles with captions.",
+      "kind": "screenshot",
+      "thumbnail": "posts/2026/10/30/2116000134924554645/media/0.webp"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "id": "2115927142940774416",
+  "permalink": "https://x.com/riggaroo/status/2115927142940774416",
+  "author": {
+    "name": "Rebecca Franks",
+    "handle": "@riggaroo",
+    "profile_url": "https://x.com/riggaroo"
+  },
+  "posted_at": "2026-10-29T22:01:57Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**Rebecca Franks ([@riggaroo](https://x.com/riggaroo/status/2115927142940774416))** shares from day 2 of Android Dev Summit, pointing to Google's new adaptive-app **Android skills** for agents ahead of an agentic-coding panel ([android/skills](https://github.com/android/skills)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/android/skills",
+      "from_post": "2115927142940774416",
+      "short_url": "https://t.co/GRe8DRlaEn",
+      "title": "GitHub - android/skills"
+    }
+  ],
+  "hashtags": [
+    "AndroidDevSummit"
+  ],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "android",
+    "agent-skill",
+    "adaptive-app",
+    "agentic-coding"
+  ],
+  "relevance": "Official platform skills for coding agents.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV1IhWQWgAAK45n.jpg",
+      "from_post": "2115927142940774416",
+      "description": "Photo in front of a colorful mural featuring the Android robot.",
+      "kind": "photo",
+      "thumbnail": "posts/2026/10/29/2115927142940774416/media/0.webp"
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV1IhVXXcAAl24t.jpg",
+      "from_post": "2115927142940774416",
+      "description": "Android Dev Summit stage with the \"Agentic coding: A roundtable with industry leaders\" panel.",
+      "kind": "photo",
+      "thumbnail": "posts/2026/10/29/2115927142940774416/media/1.webp"
+    }
+  ]
+}

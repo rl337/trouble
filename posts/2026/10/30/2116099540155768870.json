@@ -1,0 +1,61 @@
+{
+  "id": "2116099540155768870",
+  "permalink": "https://x.com/hasibdreamer35/status/2116099540155768870",
+  "author": {
+    "name": "Hasibul Hasan",
+    "handle": "@hasibdreamer35",
+    "profile_url": "https://x.com/hasibdreamer35"
+  },
+  "posted_at": "2026-10-30T09:27:00Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [
+    {
+      "id": "2116249672633512411",
+      "permalink": "https://x.com/hasibdreamer35/status/2116249672633512411",
+      "posted_at": "2026-10-30T19:23:34Z",
+      "position": 1
+    }
+  ],
+  "summary_md": "**Hasibul Hasan ([@hasibdreamer35](https://x.com/hasibdreamer35/status/2116099540155768870))** built **SKYSHARD**, a playable Three.js 3D game made in three hours with Claude Opus 5.5, with a live demo and source ([play](https://mdhasibul35.github.io/skyshard/), [mdhasibul35/skyshard](https://github.com/mdhasibul35/skyshard)).",
+  "referenced_urls": [
+    {
+      "url": "https://mdhasibul35.github.io/skyshard/",
+      "from_post": "2116099540155768870",
+      "short_url": "https://t.co/Hxc10QLRJ0",
+      "title": "Skyshard"
+    },
+    {
+      "url": "https://github.com/mdhasibul35/skyshard",
+      "from_post": "2116099540155768870",
+      "short_url": "https://t.co/VcHzrTaOSt",
+      "title": "GitHub - mdhasibul35/skyshard"
+    }
+  ],
+  "hashtags": [
+    "ThreeJS",
+    "GameDev",
+    "ClaudeAI"
+  ],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "skyshard",
+    "three.js",
+    "claude-opus-5.5",
+    "3d-game",
+    "gamedev"
+  ],
+  "relevance": "Example of rapid agent-built 3D game.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV2S7ANbwAAkfCd.jpg",
+      "from_post": "2116099540155768870",
+      "description": "Voxel-style 3D game scene with HUD and hotbar.",
+      "kind": "screenshot",
+      "thumbnail": "posts/2026/10/30/2116099540155768870/media/0.webp"
+    }
+  ]
+}

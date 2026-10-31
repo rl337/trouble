@@ -1,0 +1,46 @@
+{
+  "id": "2116049111795519650",
+  "permalink": "https://x.com/_zeroentropy_/status/2116049111795519650",
+  "author": {
+    "name": "Zero",
+    "handle": "@_zeroentropy_",
+    "profile_url": "https://x.com/_zeroentropy_"
+  },
+  "posted_at": "2026-10-30T06:06:37Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**Zero ([@_zeroentropy_](https://x.com/_zeroentropy_/status/2116049111795519650))** built **MotionBridge**, free ComfyUI nodes where you type a move, MiniMax H3 acts it out, and it lands on your rigged character as FBX/GLB ([powerhouse90/motionbridge](https://github.com/powerhouse90/motionbridge)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/powerhouse90/motionbridge",
+      "from_post": "2116049111795519650",
+      "short_url": "https://t.co/xA3QKfX65m",
+      "title": "GitHub - powerhouse90/motionbridge: ComfyUI nodes that turn MiniMax H3 video into game-ready skeletal animation on your own rig"
+    }
+  ],
+  "hashtags": [
+    "OpenSourceHiggsfield",
+    "gamedev",
+    "indiedev"
+  ],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "motionbridge",
+    "animation",
+    "retargeting",
+    "minimax-h3",
+    "comfyui"
+  ],
+  "relevance": "Video-generated animation retargeted to game rigs.",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://x.com/_zeroentropy_/status/2116049111795519650/video/1",
+      "from_post": "2116049111795519650",
+      "description": "MotionBridge demo (not downloaded; referenced only)."
+    }
+  ]
+}

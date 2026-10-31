@@ -1,0 +1,44 @@
+{
+  "id": "2115735979176624384",
+  "permalink": "https://x.com/AutoBot_IO/status/2115735979176624384",
+  "author": {
+    "name": "Auto-Bot.IO",
+    "handle": "@AutoBot_IO",
+    "profile_url": "https://x.com/AutoBot_IO"
+  },
+  "posted_at": "2026-10-29T09:22:20Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**Auto-Bot.IO ([@AutoBot_IO](https://x.com/AutoBot_IO/status/2115735979176624384))** points to **ai-design-skills**, open-source Claude Code skills from a designer that let agents study a product, structure pages, write sales copy, choose fonts and spacing, and turn Figma files or screenshots into animation ([elayadesign/ai-design-skills](https://github.com/elayadesign/ai-design-skills)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/elayadesign/ai-design-skills",
+      "from_post": "2115735979176624384",
+      "short_url": "https://t.co/tycG7BJIJ3",
+      "title": "GitHub - elayadesign/ai-design-skills"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev",
+    "agentic-media"
+  ],
+  "keywords": [
+    "ai-design-skill",
+    "design",
+    "figma",
+    "animation",
+    "claude-code",
+    "agent-skill"
+  ],
+  "relevance": "Design and motion skills for coding agents.",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://x.com/AutoBot_IO/status/2115735979176624384/video/1",
+      "from_post": "2115735979176624384",
+      "description": "Demo video of the design skills producing pages and animation (not downloaded; referenced only)."
+    }
+  ]
+}

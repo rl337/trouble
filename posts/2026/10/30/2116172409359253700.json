@@ -1,0 +1,54 @@
+{
+  "id": "2116172409359253700",
+  "permalink": "https://x.com/NicoOlmosDev/status/2116172409359253700",
+  "author": {
+    "name": "Nicolás Olmos",
+    "handle": "@NicoOlmosDev",
+    "profile_url": "https://x.com/NicoOlmosDev"
+  },
+  "posted_at": "2026-10-30T14:16:33Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [
+    {
+      "id": "2116172412261908634",
+      "permalink": "https://x.com/NicoOlmosDev/status/2116172412261908634",
+      "posted_at": "2026-10-30T14:16:34Z",
+      "position": 1
+    },
+    {
+      "id": "2116172414040043616",
+      "permalink": "https://x.com/NicoOlmosDev/status/2116172414040043616",
+      "posted_at": "2026-10-30T14:16:34Z",
+      "position": 2
+    },
+    {
+      "id": "2116172415763890584",
+      "permalink": "https://x.com/NicoOlmosDev/status/2116172415763890584",
+      "posted_at": "2026-10-30T14:16:35Z",
+      "position": 3
+    }
+  ],
+  "summary_md": "**Nicolás Olmos ([@NicoOlmosDev](https://x.com/NicoOlmosDev/status/2116172409359253700))** open-sources **kirunt**, a Kiro agent bundle routing big file reads, boilerplate and all MCP calls to a cheap worker model via hooks, scripts and skills, cutting tokens 97% on its benchmark; bash+jq only with 79 offline evals, Apache-2.0 ([Redooz/kirunt](https://github.com/Redooz/kirunt)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/Redooz/kirunt",
+      "from_post": "2116172409359253700",
+      "short_url": "https://t.co/U62Ls4c0lN",
+      "title": "GitHub - Redooz/kirunt: Kiro CLI agent bundle that delegates large reads, boilerplate generation, and MCP calls to a cheaper worker model"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "kirunt",
+    "kiro",
+    "worker-model",
+    "mcp-delegation",
+    "hook",
+    "token-efficiency"
+  ],
+  "relevance": "Context-saving delegation pattern with hard hook gates."
+}

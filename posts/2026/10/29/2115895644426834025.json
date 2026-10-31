@@ -1,0 +1,43 @@
+{
+  "id": "2115895644426834025",
+  "permalink": "https://x.com/TheBurgstall/status/2115895644426834025",
+  "author": {
+    "name": "The real Burgstall",
+    "handle": "@TheBurgstall",
+    "profile_url": "https://x.com/TheBurgstall"
+  },
+  "posted_at": "2026-10-29T19:56:47Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**The real Burgstall ([@TheBurgstall](https://x.com/TheBurgstall/status/2115895644426834025))** releases **SpEdE (Splat Edit Engine)**, an open ComfyUI tool where you click an object in a Gaussian splat scene to edit it ([Burgstall-labs/ComfyUI-SpEdE](https://github.com/Burgstall-labs/ComfyUI-SpEdE)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/Burgstall-labs/ComfyUI-SpEdE",
+      "from_post": "2115895644426834025",
+      "short_url": "https://t.co/vBaLCVrHnO",
+      "title": "GitHub - Burgstall-labs/ComfyUI-SpEdE: SpEdE, the Splat Edit Engine: click an object in a Gaussian splat, then Remove, Replace or Extract it. Local ComfyUI nodes + web Studio, open weights only. #OpenSourceHiggsfield"
+    }
+  ],
+  "hashtags": [
+    "OpenSourceHiggsfield"
+  ],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "spede",
+    "gaussian-splat",
+    "comfyui",
+    "3d-editing"
+  ],
+  "relevance": "Editing 3D Gaussian splats inside ComfyUI.",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://x.com/TheBurgstall/status/2115895644426834025/video/1",
+      "from_post": "2115895644426834025",
+      "description": "SpEdE demo (not downloaded; referenced only)."
+    }
+  ]
+}

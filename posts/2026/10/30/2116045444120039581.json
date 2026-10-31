@@ -1,0 +1,60 @@
+{
+  "id": "2116045444120039581",
+  "permalink": "https://x.com/vintcessun/status/2116045444120039581",
+  "author": {
+    "name": "恒星sun",
+    "handle": "@vintcessun",
+    "profile_url": "https://x.com/vintcessun"
+  },
+  "posted_at": "2026-10-30T05:52:02Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**恒星sun ([@vintcessun](https://x.com/vintcessun/status/2116045444120039581))** summarizes **TASMAN** ([arXiv 2610.31971](https://arxiv.org/abs/2610.31971)): multi-party LLM negotiators with a secret saboteur usually identify the adversary within a few rounds, but agreement only improves (up to ~23 points, model-dependent) when explicitly prompted to use trust in decisions, implying memory of who is untrustworthy must actually shape planning.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.31971",
+      "from_post": "2116045444120039581",
+      "short_url": "https://t.co/V7ETvY2HFr",
+      "title": "Knowing Whom to Trust is not Enough: The Trust--Agreement Gap in..."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-cognition"
+  ],
+  "keywords": [
+    "tasman",
+    "negotiation",
+    "trust",
+    "multi-agent",
+    "saboteur"
+  ],
+  "relevance": "Gap between social inference and action in agents.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV20HRKaQAAEaVc.jpg",
+      "from_post": "2116045444120039581",
+      "description": "Framework diagram of multi-party negotiation with trust tracking and an adversarial participant.",
+      "kind": "diagram",
+      "thumbnail": "posts/2026/10/30/2116045444120039581/media/0.webp"
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV20HbNaYAA-HnQ.png",
+      "from_post": "2116045444120039581",
+      "description": "Table of trust–agreement gaps across models and conditions.",
+      "kind": "chart",
+      "thumbnail": "posts/2026/10/30/2116045444120039581/media/1.webp"
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV20Hkla0AALSxp.png",
+      "from_post": "2116045444120039581",
+      "description": "Bar chart of proposal acceptance rates by trust level.",
+      "kind": "chart",
+      "thumbnail": "posts/2026/10/30/2116045444120039581/media/2.webp"
+    }
+  ]
+}

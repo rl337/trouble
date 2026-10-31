@@ -1,0 +1,35 @@
+{
+  "id": "2116084307408163298",
+  "permalink": "https://x.com/maxbrooks_sg/status/2116084307408163298",
+  "author": {
+    "name": "Max | AI Wool",
+    "handle": "@maxbrooks_sg",
+    "profile_url": "https://x.com/maxbrooks_sg"
+  },
+  "posted_at": "2026-10-30T08:26:28Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**Max | AI Wool ([@maxbrooks_sg](https://x.com/maxbrooks_sg/status/2116084307408163298))** points to **FreeVideo**, which runs MiniMax H3 open weights locally through ComfyUI on 8 GB VRAM plus 16 GB RAM (Apple silicon in preview) for text/image-to-video clips over a minute; the H3 license excludes the US, EU, UK and Korea ([FlashML-org/FreeVideo](https://github.com/FlashML-org/FreeVideo)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/FlashML-org/FreeVideo",
+      "from_post": "2116084307408163298",
+      "short_url": "https://t.co/hUPEmsZJsg",
+      "title": "GitHub - FlashML-org/FreeVideo: Make videos on the computer you already own. FreeVideo runs MiniMax H3 in as little as 8 GB of VRAM and 16 GB of RAM, and adapts its acceleration path to your hardware."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-media",
+    "local-models"
+  ],
+  "keywords": [
+    "freevideo",
+    "minimax-h3",
+    "comfyui",
+    "video-generation",
+    "local-inference"
+  ],
+  "relevance": "Local video generation on modest hardware, with an important license caveat."
+}

@@ -1,0 +1,48 @@
+{
+  "id": "2115869073263267867",
+  "permalink": "https://x.com/gabethelad/status/2115869073263267867",
+  "author": {
+    "name": "Gabriel Akinyosoye",
+    "handle": "@gabethelad",
+    "profile_url": "https://x.com/gabethelad"
+  },
+  "posted_at": "2026-10-29T18:11:12Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [
+    {
+      "id": "2115869187851907493",
+      "permalink": "https://x.com/gabethelad/status/2115869187851907493",
+      "posted_at": "2026-10-29T18:11:39Z",
+      "position": 1
+    }
+  ],
+  "summary_md": "**Gabriel Akinyosoye ([@gabethelad](https://x.com/gabethelad/status/2115869073263267867))** built **retakes**: point at part of your running React (Vite or Next.js) app, tell Claude Code what to change, and it builds live in its own copy so you can try multiple takes on the same URL and keep the best (`npx retakes`) ([otilor/retakes](https://github.com/otilor/retakes)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/otilor/retakes",
+      "from_post": "2115869073263267867",
+      "short_url": "https://t.co/lPOzfCmsfM",
+      "title": "GitHub - otilor/retakes"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "retake",
+    "claude-code",
+    "react",
+    "ui-iteration"
+  ],
+  "relevance": "Parallel variant exploration for UI changes.",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://x.com/gabethelad/status/2115869073263267867/video/1",
+      "from_post": "2115869073263267867",
+      "description": "Demo of retakes switching between takes (not downloaded; referenced only)."
+    }
+  ]
+}

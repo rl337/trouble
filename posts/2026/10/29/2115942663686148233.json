@@ -1,0 +1,40 @@
+{
+  "id": "2115942663686148233",
+  "permalink": "https://x.com/GreatCreations_/status/2115942663686148233",
+  "author": {
+    "name": "Great Creations",
+    "handle": "@GreatCreations_",
+    "profile_url": "https://x.com/GreatCreations_"
+  },
+  "posted_at": "2026-10-29T23:03:37Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**Great Creations ([@GreatCreations_](https://x.com/GreatCreations_/status/2115942663686148233))** flags **OpenField**, an MIT local studio on ComfyUI for image-to-video, seamless loops, image-to-textured-3D and a 3D shot-blocking stage ([wexloops/openfield](https://github.com/wexloops/openfield)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/wexloops/openfield",
+      "from_post": "2115942663686148233",
+      "short_url": "https://t.co/uIiFEVUhgr",
+      "title": "GitHub - wexloops/openfield: Open-source studio for video, stills and 3D on your own GPU through ComfyUI"
+    },
+    {
+      "url": "https://studios.greatcreations.art/daily-design/",
+      "from_post": "2115942663686148233",
+      "short_url": "https://t.co/MD7TbrWixq",
+      "title": "Daily Design · AI design research digests, searchable"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "openfield",
+    "comfyui",
+    "image-to-video",
+    "image-to-3d",
+    "shot-blocking"
+  ],
+  "relevance": "Open local video and 3D studio."
+}

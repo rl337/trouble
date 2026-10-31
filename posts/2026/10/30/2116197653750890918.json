@@ -1,0 +1,43 @@
+{
+  "id": "2116197653750890918",
+  "permalink": "https://x.com/kscius/status/2116197653750890918",
+  "author": {
+    "name": "Mitzael Serna",
+    "handle": "@kscius",
+    "profile_url": "https://x.com/kscius"
+  },
+  "posted_at": "2026-10-30T15:56:52Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**Mitzael Serna ([@kscius](https://x.com/kscius/status/2116197653750890918))** highlights **CodeBurn** (MIT, ~11.6K stars), which reads session files coding tools already write and splits AI spend by tool, model, project and task with no account or key ([getagentseal/codeburn](https://github.com/getagentseal/codeburn)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/getagentseal/codeburn",
+      "from_post": "2116197653750890918",
+      "short_url": "https://t.co/sxPwcSHY41",
+      "title": "GitHub - getagentseal/codeburn: Free, local tool to track AI coding token usage and cost across 37 tools and agents (Claude Code, Cursor, Codex, Gemini and more), by model, project, and task. npx codeburn"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "codeburn",
+    "cost-tracking",
+    "token-usage",
+    "coding-agent"
+  ],
+  "relevance": "Local cost attribution for agent usage.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV496yOWMAAU_79.png",
+      "from_post": "2116197653750890918",
+      "description": "Spend dashboard with bars by models, tools, projects, tasks and a usage ring.",
+      "kind": "chart",
+      "thumbnail": "posts/2026/10/30/2116197653750890918/media/0.webp"
+    }
+  ]
+}

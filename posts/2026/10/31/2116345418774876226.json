@@ -1,0 +1,51 @@
+{
+  "id": "2116345418774876226",
+  "permalink": "https://x.com/vintcessun/status/2116345418774876226",
+  "author": {
+    "name": "恒星sun",
+    "handle": "@vintcessun",
+    "profile_url": "https://x.com/vintcessun"
+  },
+  "posted_at": "2026-10-31T01:44:02Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**恒星sun ([@vintcessun](https://x.com/vintcessun/status/2116345418774876226))** summarizes *Decode-Time Provenance Binding for MCP* ([arXiv 2610.31974](https://arxiv.org/abs/2610.31974)). Untrusted sources are tagged with cryptographic labels when MCP decodes them, and a lineage ledger blocks tainted sensitive actions, taking attack success from 100% to 0%. This holds only if every data flow goes through MCP.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.31974",
+      "from_post": "2116345418774876226",
+      "short_url": "https://t.co/c7DYUL3NCJ",
+      "title": "Agentic AI Defense: Decode-Time Provenance Binding for MCP"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "mcp",
+    "provenance",
+    "prompt-injection",
+    "taint-tracking"
+  ],
+  "relevance": "Provenance defenses for agent tools.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV7E8LgbkAAD_mc.jpg",
+      "from_post": "2116345418774876226",
+      "description": "Table comparing related defense systems.",
+      "kind": "chart",
+      "thumbnail": "posts/2026/10/31/2116345418774876226/media/0.webp"
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV7E8V8aUAAQ5cc.jpg",
+      "from_post": "2116345418774876226",
+      "description": "Sequence diagram of an attack blocked by provenance binding.",
+      "kind": "diagram",
+      "thumbnail": "posts/2026/10/31/2116345418774876226/media/1.webp"
+    }
+  ]
+}

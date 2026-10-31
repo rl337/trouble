@@ -1,0 +1,33 @@
+{
+  "id": "2116086540363510171",
+  "permalink": "https://x.com/feigbar/status/2116086540363510171",
+  "author": {
+    "name": "GaGa Jay",
+    "handle": "@feigbar",
+    "profile_url": "https://x.com/feigbar"
+  },
+  "posted_at": "2026-10-30T08:35:20Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**GaGa Jay ([@feigbar](https://x.com/feigbar/status/2116086540363510171))** finds **Simple-Dot Agent Studio**, an MIT platform for orchestrating long-running multi-agent tasks as teams of Hermes Agent Docker containers ([feigbar-SimpleDot/simpledot-agent-studio](https://github.com/feigbar-SimpleDot/simpledot-agent-studio)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/feigbar-SimpleDot/simpledot-agent-studio",
+      "from_post": "2116086540363510171",
+      "short_url": "https://t.co/Yr9jcoqbld",
+      "title": "GitHub - feigbar-SimpleDot/simpledot-agent-studio: Multi-agent long-running task orchestration & tracking, built on Hermes native Kanban."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "simpledot-agent-studio",
+    "hermes-agent",
+    "docker",
+    "multi-agent"
+  ],
+  "relevance": "Containerized agent-team orchestration."
+}

@@ -1,0 +1,34 @@
+{
+  "id": "2116070605468627288",
+  "permalink": "https://x.com/ManWenzhu51484/status/2116070605468627288",
+  "author": {
+    "name": "Carol Man",
+    "handle": "@ManWenzhu51484",
+    "profile_url": "https://x.com/ManWenzhu51484"
+  },
+  "posted_at": "2026-10-30T07:32:01Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**Carol Man ([@ManWenzhu51484](https://x.com/ManWenzhu51484/status/2116070605468627288))** summarizes *HSPR* ([arXiv 2610.24611](https://arxiv.org/abs/2610.24611)): at a 10% budget on SWE-bench Pro a mid-range task subset kept model ordering (Kendall τ≈0.97) yet underestimated full scores by about 23 points on average, so cheap evals can rank correctly while misleading release gates.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.24611",
+      "from_post": "2116070605468627288",
+      "short_url": "https://t.co/E0n3zKS3Wb",
+      "title": "HSPR: Recovering Software-Agent Benchmark Scores via Hierarchical..."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "hspr",
+    "swe-bench-pro",
+    "benchmark",
+    "evaluation",
+    "kendall-tau"
+  ],
+  "relevance": "Caution for anyone using subset evals to gate agent releases."
+}

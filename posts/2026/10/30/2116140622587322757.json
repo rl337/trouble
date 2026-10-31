@@ -1,0 +1,34 @@
+{
+  "id": "2116140622587322757",
+  "permalink": "https://x.com/pipeline_mag/status/2116140622587322757",
+  "author": {
+    "name": "Pipeline Mag",
+    "handle": "@pipeline_mag",
+    "profile_url": "https://x.com/pipeline_mag"
+  },
+  "posted_at": "2026-10-30T12:10:15Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**Pipeline Mag ([@pipeline_mag](https://x.com/pipeline_mag/status/2116140622587322757))** summarizes *When Modernization Breaks Working Code* ([arXiv 2610.40269](https://arxiv.org/abs/2610.40269)): of 100 legacy WordPress PHP files, 83 passed all behavioral checks untouched, yet five LLMs each broke 32–51 of them versus 7 for the Rector tool.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.40269",
+      "from_post": "2116140622587322757",
+      "short_url": "https://t.co/31sTKjq4YA",
+      "title": "When Modernization Breaks Working Code: A Single-File Study of..."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "code-modernization",
+    "legacy-code",
+    "php",
+    "refactoring",
+    "rector"
+  ],
+  "relevance": "Baseline-of-doing-nothing lesson for agentic refactoring."
+}

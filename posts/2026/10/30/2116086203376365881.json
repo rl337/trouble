@@ -1,0 +1,59 @@
+{
+  "id": "2116086203376365881",
+  "permalink": "https://x.com/fly9i/status/2116086203376365881",
+  "author": {
+    "name": "moneygomyhome",
+    "handle": "@fly9i",
+    "profile_url": "https://x.com/fly9i"
+  },
+  "posted_at": "2026-10-30T08:34:00Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [
+    {
+      "id": "2116086881217810744",
+      "permalink": "https://x.com/fly9i/status/2116086881217810744",
+      "posted_at": "2026-10-30T08:36:42Z",
+      "position": 1
+    },
+    {
+      "id": "2116087366448529439",
+      "permalink": "https://x.com/fly9i/status/2116087366448529439",
+      "posted_at": "2026-10-30T08:38:37Z",
+      "position": 2
+    }
+  ],
+  "summary_md": "**moneygomyhome ([@fly9i](https://x.com/fly9i/status/2116086203376365881))** open-sources **spark-engine**, a from-scratch tensor-parallel inference binary for NVIDIA DGX Sparks with custom EXL3/MoE kernels, RDMA all-reduce, FP8 KV and NVMe prefix cache, serving GLM-5.3-Flash on 2–3 Sparks, DeepSeek-V4.1-Flash on 3, and Qwen3.8-Flash-Next on one with an OpenAI-compatible API and 1M context; a follow-up credits the EXL3 path and links the repo ([fly9i/spark-engine](https://github.com/fly9i/spark-engine)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/fly9i/spark-engine",
+      "from_post": "2116086203376365881",
+      "short_url": "https://t.co/phZtPFT81q",
+      "title": "GitHub - fly9i/spark-engine: From-scratch EXL3 inference engine for NVIDIA DGX Spark (GB10): GLM-5.3-Flash on two Sparks (TP2) + Qwen3.8-Flash-Next on one, OpenAI-compatible, 1M context, speculative decoding"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "local-models"
+  ],
+  "keywords": [
+    "spark-engine",
+    "dgx-spark",
+    "exl3",
+    "tensor-parallelism",
+    "deepseek-v4.1-flash",
+    "qwen3.8-flash-next",
+    "glm-5.3-flash"
+  ],
+  "relevance": "Directly targets Richard's DGX Spark, including single-Spark serving.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV3ZLt6bIAANUSA.jpg",
+      "from_post": "2116086203376365881",
+      "description": "spark-engine banner with three DGX Spark units and the three supported model names.",
+      "kind": "other",
+      "thumbnail": "posts/2026/10/30/2116086203376365881/media/0.webp"
+    }
+  ]
+}

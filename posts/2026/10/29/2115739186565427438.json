@@ -1,0 +1,35 @@
+{
+  "id": "2115739186565427438",
+  "permalink": "https://x.com/Manojkumar2257/status/2115739186565427438",
+  "author": {
+    "name": "Manoj | The AI Dude",
+    "handle": "@Manojkumar2257",
+    "profile_url": "https://x.com/Manojkumar2257"
+  },
+  "posted_at": "2026-10-29T09:35:05Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**Manoj | The AI Dude ([@Manojkumar2257](https://x.com/Manojkumar2257/status/2115739186565427438))** points to **showtime**, an MIT agent skill that runs a local video studio from Claude Code, Codex or Cursor, covering motion graphics, voiceover, music, sound design, captions, footage editing and exports, with an automatic QA pass, no API keys or uploads ([FavioVazquez/showtime](https://github.com/FavioVazquez/showtime)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/FavioVazquez/showtime",
+      "from_post": "2115739186565427438",
+      "short_url": "https://t.co/xQPHIzm6Tf",
+      "title": "GitHub - FavioVazquez/showtime: A local video studio for your coding agent. Describe a video in one sentence: your agent directs, your machine renders. Claude Code, Codex, Cursor, Devin and more. No API keys, no uploads."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "showtime",
+    "video-production",
+    "agent-skill",
+    "claude-code",
+    "motion-graphic",
+    "voiceover"
+  ],
+  "relevance": "Local agent-driven video production skill."
+}

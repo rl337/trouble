@@ -1,0 +1,47 @@
+{
+  "id": "2115820155867639904",
+  "permalink": "https://x.com/Oxxiyyx/status/2115820155867639904",
+  "author": {
+    "name": "绪汐桜寻",
+    "handle": "@Oxxiyyx",
+    "profile_url": "https://x.com/Oxxiyyx"
+  },
+  "posted_at": "2026-10-29T14:56:49Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**绪汐桜寻 ([@Oxxiyyx](https://x.com/Oxxiyyx/status/2115820155867639904))** shares **code-animation-prompts**, a Claude Code/Codex skill with 341 code-animation styles, 193 reference stills and an offline picker, so weaker models like DeepSeek can produce polished code animations ([XiaoyeCodes/code-animation-prompts](https://github.com/XiaoyeCodes/code-animation-prompts)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/XiaoyeCodes/code-animation-prompts",
+      "from_post": "2115820155867639904",
+      "short_url": "https://t.co/yrnOFX8BOA",
+      "title": "GitHub - XiaoyeCodes/code-animation-prompts: 341 种代码动画风格提示词、193 张参考静帧与离线挑选器，封装为 Claude Code / Codex Skill，支持一键导入与 HTML 视频渲染。"
+    }
+  ],
+  "hashtags": [
+    "AI工具",
+    "开源项目"
+  ],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "code-animation-prompts",
+    "code-animation",
+    "agent-skill",
+    "deepseek",
+    "motion-design"
+  ],
+  "relevance": "Structured style prompts for agent-made animations.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HVznNxbagAA8K-N.jpg",
+      "from_post": "2115820155867639904",
+      "description": "Banner \"Code. Motion. 341 possibilities.\" with a grid of animation style previews.",
+      "kind": "screenshot",
+      "thumbnail": "posts/2026/10/29/2115820155867639904/media/0.webp"
+    }
+  ]
+}

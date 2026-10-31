@@ -1,0 +1,36 @@
+{
+  "id": "2115735551026639078",
+  "permalink": "https://x.com/xhyumiracle/status/2115735551026639078",
+  "author": {
+    "name": "Xiaohang Yu",
+    "handle": "@xhyumiracle",
+    "profile_url": "https://x.com/xhyumiracle"
+  },
+  "posted_at": "2026-10-29T09:20:38Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**Xiaohang Yu ([@xhyumiracle](https://x.com/xhyumiracle/status/2115735551026639078))** open-sources **family.skill**, a brainstorming and research skill based on Stanford's STORM: one prompt assembles a team of field experts who research independently, a fact-checker verifies sources, and the final report lays out consensus and disagreements ([xhyumiracle/family-skill](https://github.com/xhyumiracle/family-skill)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/xhyumiracle/family-skill",
+      "from_post": "2115735551026639078",
+      "short_url": "https://t.co/62nFeDMkay",
+      "title": "GitHub - xhyumiracle/family-skill: 多个视角帮你头脑风暴、做调研（基于 STORM） | Multiple perspectives to help you brainstorm and research, based on Stanford's STORM. An Agent Skill."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-cognition",
+    "harness-dev"
+  ],
+  "keywords": [
+    "family.skill",
+    "storm",
+    "multi-agent",
+    "role-play",
+    "research",
+    "agent-skill"
+  ],
+  "relevance": "Multi-perspective role-play as a skill for deeper open-ended research."
+}

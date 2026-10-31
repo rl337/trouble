@@ -1,0 +1,36 @@
+{
+  "id": "2116189421334896827",
+  "permalink": "https://x.com/Roaringkittyyyo/status/2116189421334896827",
+  "author": {
+    "name": "Sati",
+    "handle": "@Roaringkittyyyo",
+    "profile_url": "https://x.com/Roaringkittyyyo"
+  },
+  "posted_at": "2026-10-30T15:24:09Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**Sati ([@Roaringkittyyyo](https://x.com/Roaringkittyyyo/status/2116189421334896827))** is building **OpenFrame**, an open ComfyUI studio for images, video and LTX VFX with editable workflows and tracked masks, on local GPUs or Comfy Cloud ([satianurag/openframe](https://github.com/satianurag/openframe)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/satianurag/openframe",
+      "from_post": "2116189421334896827",
+      "short_url": "https://t.co/KiJNbQIY33",
+      "title": "GitHub - Satianurag/openframe: Open-source ComfyUI video and VFX studio with LTX 2.3, tracked masks, portable workflows, Modal and Comfy Cloud support."
+    }
+  ],
+  "hashtags": [
+    "opensourcehiggsfield"
+  ],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "openframe",
+    "comfyui",
+    "ltx",
+    "vfx",
+    "opensourcehiggsfield"
+  ],
+  "relevance": "Open VFX studio."
+}

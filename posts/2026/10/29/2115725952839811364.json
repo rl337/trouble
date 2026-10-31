@@ -1,0 +1,48 @@
+{
+  "id": "2115725952839811364",
+  "permalink": "https://x.com/arnaudmercier/status/2115725952839811364",
+  "author": {
+    "name": "Arnaud Mercier - #Entrepreneur #Versailles",
+    "handle": "@arnaudmercier",
+    "profile_url": "https://x.com/arnaudmercier"
+  },
+  "posted_at": "2026-10-29T08:42:30Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**Arnaud Mercier - #Entrepreneur #Versailles ([@arnaudmercier](https://x.com/arnaudmercier/status/2115725952839811364))** shares **WorkFactory** ([arXiv 2610.37161](https://arxiv.org/html/2610.37161v1)), which turns professional intents into executable work environments for scalable agent training, with code at [IQuestLab/WorkFactory](https://github.com/IQuestLab/WorkFactory).",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/html/2610.37161v1",
+      "from_post": "2115725952839811364",
+      "short_url": "https://t.co/ruNO275TyO",
+      "title": "WorkFactory: Turning Professional Intents into Executable Work for Scalable Agent Training"
+    },
+    {
+      "url": "https://github.com/IQuestLab/WorkFactory",
+      "from_post": "2115725952839811364",
+      "short_url": "https://t.co/Iw15FZleyy"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "workfactory",
+    "agent-training",
+    "environment-synthesis",
+    "professional-task"
+  ],
+  "relevance": "Scalable environment synthesis for training work agents.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HVyRh0TXsAAaJ0y.jpg",
+      "from_post": "2115725952839811364",
+      "description": "Figure from the paper: line charts of agent performance and behavior metrics as the number of WorkFactory training tasks grows.",
+      "kind": "chart",
+      "thumbnail": "posts/2026/10/29/2115725952839811364/media/0.webp"
+    }
+  ]
+}

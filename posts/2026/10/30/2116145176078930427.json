@@ -1,0 +1,49 @@
+{
+  "id": "2116145176078930427",
+  "permalink": "https://x.com/baz7c8/status/2116145176078930427",
+  "author": {
+    "name": "behnam",
+    "handle": "@baz7c8",
+    "profile_url": "https://x.com/baz7c8"
+  },
+  "posted_at": "2026-10-30T12:28:20Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [
+    {
+      "id": "2116209674840355136",
+      "permalink": "https://x.com/baz7c8/status/2116209674840355136",
+      "posted_at": "2026-10-30T16:44:38Z",
+      "position": 1
+    }
+  ],
+  "summary_md": "**behnam ([@baz7c8](https://x.com/baz7c8/status/2116145176078930427))** made **agent-tree**, a live tree of every Claude Code session and subagent with current task, cost and a timeline of when each ran ([behnamazimi/agent-tree](https://github.com/behnamazimi/agent-tree)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/behnamazimi/agent-tree",
+      "from_post": "2116145176078930427",
+      "short_url": "https://t.co/LggVrgab9C",
+      "title": "GitHub - behnamazimi/agent-tree"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "agent-tree",
+    "claude-code",
+    "subagent",
+    "observability",
+    "cost-tracking"
+  ],
+  "relevance": "Observability for subagent-heavy workflows.",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://x.com/baz7c8/status/2116145176078930427/video/1",
+      "from_post": "2116145176078930427",
+      "description": "Demo of the live session tree and timeline (not downloaded; referenced only)."
+    }
+  ]
+}

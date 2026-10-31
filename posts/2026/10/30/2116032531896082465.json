@@ -1,0 +1,33 @@
+{
+  "id": "2116032531896082465",
+  "permalink": "https://x.com/JeremyCMorgan/status/2116032531896082465",
+  "author": {
+    "name": "Jeremy Morgan",
+    "handle": "@JeremyCMorgan",
+    "profile_url": "https://x.com/JeremyCMorgan"
+  },
+  "posted_at": "2026-10-30T05:00:44Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**Jeremy Morgan ([@JeremyCMorgan](https://x.com/JeremyCMorgan/status/2116032531896082465))** describes **CodeGraph**, an AST-derived graph of symbols, calls and imports exposed over MCP to Claude Code, Cursor and Copilot for change blast radius, advising verification against known call paths ([colbymchenry/codegraph](https://github.com/colbymchenry/codegraph)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/colbymchenry/codegraph",
+      "from_post": "2116032531896082465",
+      "short_url": "https://t.co/w7mCv022HI",
+      "title": "GitHub - colbymchenry/codegraph: Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilot, and Hermes Agent — fewer tokens, fewer tool calls, 100% local"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "codegraph",
+    "code-graph",
+    "mcp",
+    "ast"
+  ],
+  "relevance": "Code graph context for agents."
+}

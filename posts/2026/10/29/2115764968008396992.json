@@ -1,0 +1,56 @@
+{
+  "id": "2115764968008396992",
+  "permalink": "https://x.com/Saccc_c/status/2115764968008396992",
+  "author": {
+    "name": "Sac",
+    "handle": "@Saccc_c",
+    "profile_url": "https://x.com/Saccc_c"
+  },
+  "posted_at": "2026-10-29T11:17:32Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [
+    {
+      "id": "2115770878973849780",
+      "permalink": "https://x.com/Saccc_c/status/2115770878973849780",
+      "posted_at": "2026-10-29T11:41:01Z",
+      "position": 1
+    }
+  ],
+  "summary_md": "**Sac ([@Saccc_c](https://x.com/Saccc_c/status/2115764968008396992))** open-sources **match-cut**, a skill that lets an agent produce beat-synced match-cut product promos from a product photo and info, showing a MacBook Pro ad Codex made from one sentence; generation and editing go through Renoise MCP ([Sac-Y/match-cut](https://github.com/Sac-Y/match-cut), [Renoise MCP](https://renoise.ai/mcp?utm_source=saccc-c-aini-202610&utm_medium=xcom)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/Sac-Y/match-cut",
+      "from_post": "2115764968008396992",
+      "short_url": "https://t.co/QaE7lzf5UM",
+      "title": "GitHub - Sac-Y/match-cut: 让 Agent 做卡点转场剪辑，一键制作高级产品宣传片"
+    },
+    {
+      "url": "https://renoise.ai/mcp?utm_source=saccc-c-aini-202610&utm_medium=xcom",
+      "from_post": "2115770878973849780",
+      "short_url": "https://t.co/TOXaywNN1x",
+      "title": "Renoise AI: AI Video & Image Suite for Marketers & Creators"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "match-cut",
+    "video-editing",
+    "agent-skill",
+    "codex",
+    "renoise",
+    "mcp"
+  ],
+  "relevance": "One-sentence agent-made promo videos.",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://x.com/Saccc_c/status/2115764968008396992/video/1",
+      "from_post": "2115764968008396992",
+      "description": "MacBook Pro promo made by Codex with the skill (not downloaded; referenced only)."
+    }
+  ]
+}

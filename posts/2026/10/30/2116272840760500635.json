@@ -1,0 +1,33 @@
+{
+  "id": "2116272840760500635",
+  "permalink": "https://x.com/pragmaticivan/status/2116272840760500635",
+  "author": {
+    "name": "Ivan Santos",
+    "handle": "@pragmaticivan",
+    "profile_url": "https://x.com/pragmaticivan"
+  },
+  "posted_at": "2026-10-30T20:55:38Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**Ivan Santos ([@pragmaticivan](https://x.com/pragmaticivan/status/2116272840760500635))** jokes about serving models from a PS5, pointing to **PS5LM**, llama.cpp running GGUF models natively on a jailbroken PS5 ([cobanov/PS5LM](https://github.com/cobanov/PS5LM)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/cobanov/PS5LM",
+      "from_post": "2116272840760500635",
+      "short_url": "https://t.co/PBHyAuGILh",
+      "title": "GitHub - cobanov/PS5LM: llama.cpp on a jailbroken PS5: run any GGUF model natively on the console, starting with Qwen 3.8"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "local-models"
+  ],
+  "keywords": [
+    "ps5lm",
+    "llama.cpp",
+    "gguf",
+    "console"
+  ],
+  "relevance": "Novel local inference hardware."
+}

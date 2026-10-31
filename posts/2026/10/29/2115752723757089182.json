@@ -1,0 +1,44 @@
+{
+  "id": "2115752723757089182",
+  "permalink": "https://x.com/oaichu95/status/2115752723757089182",
+  "author": {
+    "name": "Oai Chu",
+    "handle": "@oaichu95",
+    "profile_url": "https://x.com/oaichu95"
+  },
+  "posted_at": "2026-10-29T10:28:52Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**Oai Chu ([@oaichu95](https://x.com/oaichu95/status/2115752723757089182))** rounds up four recent open repos that turn AI video into 3D assets: **anymove** (creature mocap from a clip), **video-to-texture** (UV textures), **video-to-blender** (Blender nodes) and **video-to-physics** (fixing clip physics) ([patch-gg/anymove](https://github.com/patch-gg/anymove)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/patch-gg/anymove",
+      "from_post": "2115752723757089182",
+      "short_url": "https://t.co/zcJ1RH5Mh7",
+      "title": "GitHub - patch-gg/anymove: Motion capture for any creature from one AI video: two cameras in one frame, a DINOv2 joint reader, the rig fitted in both views, a GLB out."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "anymove",
+    "motion-capture",
+    "blender",
+    "uv-texture",
+    "video-to-3d"
+  ],
+  "relevance": "AI video as an input to 3D asset pipelines.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HVypwhvaUAAsCyu.jpg",
+      "from_post": "2115752723757089182",
+      "description": "Card titled \"4 open repos that turn AI video into 3D assets\" listing patch-gg/anymove, video-to-texture, video-to-blender and video-to-physics with thumbnails.",
+      "kind": "screenshot",
+      "thumbnail": "posts/2026/10/29/2115752723757089182/media/0.webp"
+    }
+  ]
+}

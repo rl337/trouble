@@ -1,0 +1,33 @@
+{
+  "id": "2116002289613992233",
+  "permalink": "https://x.com/bydradev/status/2116002289613992233",
+  "author": {
+    "name": "Dra",
+    "handle": "@bydradev",
+    "profile_url": "https://x.com/bydradev"
+  },
+  "posted_at": "2026-10-30T03:00:33Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**Dra ([@bydradev](https://x.com/bydradev/status/2116002289613992233))** argues a vendor install command isn't a review, noting Cloudflare's and Neon's agent skills needed 12 fixes in one app, and shares the **verify-external-claims** skill in gh-repo-bootstrapper that pins a reviewed commit and keeps fixes out of vendor files ([SKILL.md](https://github.com/bydradev/gh-repo-bootstrapper/blob/main/templates/skills/verify-external-claims/SKILL.md#third-party-)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/bydradev/gh-repo-bootstrapper/blob/main/templates/skills/verify-external-claims/SKILL.md#third-party-skills",
+      "from_post": "2116002289613992233",
+      "short_url": "https://t.co/kGQhq4e3eU",
+      "title": "gh-repo-bootstrapper/templates/skills/verify-external-claims/SKILL.md at main · bydradev/gh-repo-bootstrapper"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "verify-external-claims",
+    "agent-skill",
+    "supply-chain",
+    "vendor-skill"
+  ],
+  "relevance": "Third-party skill hygiene."
+}

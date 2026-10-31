@@ -1,0 +1,45 @@
+{
+  "id": "2115908668935827943",
+  "permalink": "https://x.com/SciFi/status/2115908668935827943",
+  "author": {
+    "name": "Artificial Intelligence Papers",
+    "handle": "@SciFi",
+    "profile_url": "https://x.com/SciFi"
+  },
+  "posted_at": "2026-10-29T20:48:33Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**Artificial Intelligence Papers ([@SciFi](https://x.com/SciFi/status/2115908668935827943))** shares **EvoRouter** ([arXiv 2610.35690](https://arxiv.org/abs/2610.35690)), a self-evolving multi-agent routing framework that distills performance–cost feedback into reusable routing insights for configuring models, collaboration modes and agent counts.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.35690",
+      "from_post": "2115908668935827943",
+      "short_url": "https://t.co/bhAK36u8Mw",
+      "title": "EvoRouter: Cost-Efficient Multi-Agent Routing via Insight-Guided..."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev",
+    "agentic-cognition"
+  ],
+  "keywords": [
+    "evorouter",
+    "multi-agent-routing",
+    "distillation",
+    "cost-efficiency"
+  ],
+  "relevance": "Cost-efficient routing across multi-agent configurations.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV03uNBWwAAoqot.png",
+      "from_post": "2115908668935827943",
+      "description": "Image of the paper's abstract text.",
+      "kind": "paper",
+      "thumbnail": "posts/2026/10/29/2115908668935827943/media/0.webp",
+      "ocr_text": "Serving web queries at scale with multi-agent systems requires jointly configuring large language models, collaboration modes, agent counts, interaction rounds, and skills. However, the resulting configuration space grows combinatorially, while sparse execution rewards provide limited fine-grained supervision for interdependent planning decisions. We propose EvoRouter, a self-evolving multi-agent routing framework driven by insight-guided on-policy distillation. A dedicated expert periodically synthesizes performance-cost feedback from configuration trajectories across tasks into reusable conditional routing insights about capability requirements, returns from resource scaling, and interactions among configuration choices. A privileged teacher combines these evolving insights with current execution feedback to provide dense token-level supervision for the router's own planning trajectories through on-policy distillation. Cost-aware reinforcement learning jointly optimizes task performa"
+    }
+  ]
+}

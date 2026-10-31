@@ -1,0 +1,58 @@
+{
+  "id": "2115811242556137820",
+  "permalink": "https://x.com/MistralAI/status/2115811242556137820",
+  "author": {
+    "name": "Mistral AI",
+    "handle": "@MistralAI",
+    "profile_url": "https://x.com/MistralAI"
+  },
+  "posted_at": "2026-10-29T14:21:24Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [
+    {
+      "id": "2115811245429256498",
+      "permalink": "https://x.com/MistralAI/status/2115811245429256498",
+      "posted_at": "2026-10-29T14:21:25Z",
+      "position": 1
+    }
+  ],
+  "summary_md": "**Mistral AI ([@MistralAI](https://x.com/MistralAI/status/2115811242556137820))** releases the weights of an improved **Mistral Large 4 (\"Le Chonk\")**, claiming #1 among open models on FrontierCode, strong Pareto efficiency and state-of-the-art cyberdefense, downloadable and customizable via Mistral Forge ([announcement](https://mistral.ai/news/mistral-large-4-oss/), [weights](https://huggingface.co/mistralai/Mistral-Large-4-1T-A52B)).",
+  "referenced_urls": [
+    {
+      "url": "https://mistral.ai/news/mistral-large-4-oss/",
+      "from_post": "2115811245429256498",
+      "short_url": "https://t.co/NjO1C3c1rj",
+      "title": "Mistral Large 4 (Le Chonk) is now open weight | Mistral"
+    },
+    {
+      "url": "https://huggingface.co/mistralai/Mistral-Large-4-1T-A52B",
+      "from_post": "2115811245429256498",
+      "short_url": "https://t.co/umoyZX69n6",
+      "title": "mistralai/Mistral-Large-4-1T-A52B · Upcoming release · Hugging Face"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "local-models",
+    "harness-dev"
+  ],
+  "keywords": [
+    "mistral-large-4",
+    "le-chonk",
+    "open-weight",
+    "agentic-coding",
+    "cybersecurity"
+  ],
+  "relevance": "Major open-weight agentic coding model release.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HVzNm_7W4AAQsZV.jpg",
+      "from_post": "2115811242556137820",
+      "description": "Pixel-art illustration of an orange cat beside a dark cat.",
+      "kind": "other",
+      "thumbnail": "posts/2026/10/29/2115811242556137820/media/0.webp"
+    }
+  ]
+}

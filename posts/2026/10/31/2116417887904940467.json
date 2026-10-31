@@ -1,0 +1,33 @@
+{
+  "id": "2116417887904940467",
+  "permalink": "https://x.com/Easycompany333/status/2116417887904940467",
+  "author": {
+    "name": "Easycompany",
+    "handle": "@Easycompany333",
+    "profile_url": "https://x.com/Easycompany333"
+  },
+  "posted_at": "2026-10-31T06:32:00Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**Easycompany ([@Easycompany333](https://x.com/Easycompany333/status/2116417887904940467))** describes **injection-sentinel**, a PostToolUse hook for Claude Code and Codex. It scans fetched pages for text aimed at AI, such as exfiltrating email or .env, and reminds the agent that it is data, not instructions. It also logs bad sites and drafts GDPR complaints, but it can't tell injections from articles about injections ([CodeCombustion/injection-sentinel](https://github.com/CodeCombustion/injection-sentinel)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/CodeCombustion/injection-sentinel",
+      "from_post": "2116417887904940467",
+      "short_url": "https://t.co/cJBwzzj0qX",
+      "title": "GitHub - CodeCombustion/injection-sentinel: A PostToolUse hook for Claude Code and Codex: catches web pages that try to make your agent leak your personal data or its own instructions, keeps a master list, and drafts a risk notice to the site."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "injection-sentinel",
+    "prompt-injection",
+    "hook",
+    "claude-code"
+  ],
+  "relevance": "Prompt-injection hooks."
+}

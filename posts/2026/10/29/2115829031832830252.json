@@ -1,0 +1,51 @@
+{
+  "id": "2115829031832830252",
+  "permalink": "https://x.com/lmstudio/status/2115829031832830252",
+  "author": {
+    "name": "LM Studio",
+    "handle": "@lmstudio",
+    "profile_url": "https://x.com/lmstudio"
+  },
+  "posted_at": "2026-10-29T15:32:06Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [
+    {
+      "id": "2115829034458235182",
+      "permalink": "https://x.com/lmstudio/status/2115829034458235182",
+      "posted_at": "2026-10-29T15:32:06Z",
+      "position": 1
+    }
+  ],
+  "summary_md": "**LM Studio ([@lmstudio](https://x.com/lmstudio/status/2115829031832830252))** announces **oMLX** as an engine in LM Studio, usable with existing MLX models; oMLX is an open-source Apple Silicon inference server with continuous batching and SSD caching ([jundot/omlx](https://github.com/jundot/omlx)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/jundot/omlx",
+      "from_post": "2115829034458235182",
+      "short_url": "https://t.co/LkNniyqK5v",
+      "title": "GitHub - jundot/omlx: LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "local-models"
+  ],
+  "keywords": [
+    "omlx",
+    "lm-studio",
+    "mlx",
+    "apple-silicon",
+    "continuous-batching"
+  ],
+  "relevance": "More local inference engine options.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HVzuACZXkAIK-jJ.jpg",
+      "from_post": "2115829031832830252",
+      "description": "LM Studio \"Additional backends\" panel showing oMLX v0.0.9 with a download button.",
+      "kind": "screenshot",
+      "thumbnail": "posts/2026/10/29/2115829031832830252/media/0.webp"
+    }
+  ]
+}

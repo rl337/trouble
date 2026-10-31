@@ -1,0 +1,56 @@
+{
+  "id": "2116138499682210219",
+  "permalink": "https://x.com/icefox_lab/status/2116138499682210219",
+  "author": {
+    "name": "icefox lab",
+    "handle": "@icefox_lab",
+    "profile_url": "https://x.com/icefox_lab"
+  },
+  "posted_at": "2026-10-30T12:01:48Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**icefox lab ([@icefox_lab](https://x.com/icefox_lab/status/2116138499682210219))** shows early screenshots of **ComfyUI Pose Gallery**, which lets you browse poses and angles and feed a reference image plus English action tags into a workflow, built on AI Pose Gallery ([icefox57/ComfyUI-Pose-Gallery](https://github.com/icefox57/ComfyUI-Pose-Gallery), [page](https://icefoxlab.com/en/comfyui-pose-gallery/)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/icefox57/ComfyUI-Pose-Gallery",
+      "from_post": "2116138499682210219",
+      "short_url": "https://t.co/nap9dZtmsN",
+      "title": "GitHub - icefox57/ComfyUI-Pose-Gallery: ComfyUI-Pose-Gallery"
+    },
+    {
+      "url": "https://icefoxlab.com/en/comfyui-pose-gallery/",
+      "from_post": "2116138499682210219",
+      "short_url": "https://t.co/JTjonyjOAZ"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "comfyui-pose-gallery",
+    "pose-reference",
+    "comfyui",
+    "character-art"
+  ],
+  "relevance": "Pose control for character generation.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV4If1AXEAAXJS-.jpg",
+      "from_post": "2116138499682210219",
+      "description": "Chinese pose picker with mannequin thumbnails.",
+      "kind": "screenshot",
+      "thumbnail": "posts/2026/10/30/2116138499682210219/media/0.webp"
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV4If0_XEAAJJ9r.jpg",
+      "from_post": "2116138499682210219",
+      "description": "Workflow with pose-gallery node feeding a preview image.",
+      "kind": "screenshot",
+      "thumbnail": "posts/2026/10/30/2116138499682210219/media/1.webp"
+    }
+  ]
+}

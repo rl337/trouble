@@ -1,0 +1,44 @@
+{
+  "id": "2116194855483576778",
+  "permalink": "https://x.com/kxm43/status/2116194855483576778",
+  "author": {
+    "name": "xkm",
+    "handle": "@kxm43",
+    "profile_url": "https://x.com/kxm43"
+  },
+  "posted_at": "2026-10-30T15:45:45Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**xkm ([@kxm43](https://x.com/kxm43/status/2116194855483576778))** built **Adrift**, a self-hosted Higgsfield-style ComfyUI studio with edit, outpaint, character swap, lipsync, camera moves, upscale, relight and a video editor using FLUX.3, LTX and H3 ([xk44/adrift](https://github.com/xk44/adrift)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/xk44/adrift",
+      "from_post": "2116194855483576778",
+      "short_url": "https://t.co/zYIECp3XnA",
+      "title": "GitHub - xk44/adrift: Self-hosted, open-source Higgsfield-style creative studio on ComfyUI"
+    }
+  ],
+  "hashtags": [
+    "OpenSourceHiggsfield"
+  ],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "adrift",
+    "comfyui",
+    "lipsync",
+    "relight",
+    "opensourcehiggsfield"
+  ],
+  "relevance": "Full self-hosted creative suite.",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://x.com/kxm43/status/2116194855483576778/video/1",
+      "from_post": "2116194855483576778",
+      "description": "Tour of Adrift features (not downloaded; referenced only)."
+    }
+  ]
+}

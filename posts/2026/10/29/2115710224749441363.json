@@ -1,0 +1,42 @@
+{
+  "id": "2115710224749441363",
+  "permalink": "https://x.com/ebetica/status/2115710224749441363",
+  "author": {
+    "name": "Zeming Lin",
+    "handle": "@ebetica",
+    "profile_url": "https://x.com/ebetica"
+  },
+  "posted_at": "2026-10-29T07:40:00Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**Zeming Lin ([@ebetica](https://x.com/ebetica/status/2115710224749441363))** promotes his **Recurse** coding harness and web app for many autonomous agents, arguing that inline comments plus skills are an underrated way to iteratively steer agents toward better plots ([ebetica/recurse](https://github.com/ebetica/recurse)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/ebetica/recurse",
+      "from_post": "2115710224749441363",
+      "short_url": "https://t.co/4bT69aYjZu",
+      "title": "GitHub - ebetica/recurse: Recurse: a coding harness and web app for many autonomous agents (release-only repository)"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "recurse",
+    "coding-harness",
+    "multi-agent",
+    "agent-skill",
+    "plotting"
+  ],
+  "relevance": "A multi-agent coding harness with comment-driven steering.",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://x.com/ebetica/status/2115710224749441363/video/1",
+      "from_post": "2115710224749441363",
+      "description": "Demo video of steering Claude's plots with comments in Recurse (not downloaded; referenced only)."
+    }
+  ]
+}

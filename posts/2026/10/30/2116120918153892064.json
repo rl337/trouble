@@ -1,0 +1,43 @@
+{
+  "id": "2116120918153892064",
+  "permalink": "https://x.com/mguerin_/status/2116120918153892064",
+  "author": {
+    "name": "mguerin",
+    "handle": "@mguerin_",
+    "profile_url": "https://x.com/mguerin_"
+  },
+  "posted_at": "2026-10-30T10:51:57Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**mguerin ([@mguerin_](https://x.com/mguerin_/status/2116120918153892064))** introduces **SimpleNode**, a desktop canvas where each AI creation step is a node and projects stay local ([Heako/simplenode-public](https://github.com/Heako/simplenode-public)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/Heako/simplenode-public",
+      "from_post": "2116120918153892064",
+      "short_url": "https://t.co/TzJt4kHKSt",
+      "title": "GitHub - Heako/simplenode-public"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "simplenode",
+    "node-canvas",
+    "desktop-app",
+    "image-generation"
+  ],
+  "relevance": "Node-based local creative workspace.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV34wjvX0AAgpr_.jpg",
+      "from_post": "2116120918153892064",
+      "description": "Dark node canvas with prompt nodes and generated portrait images.",
+      "kind": "screenshot",
+      "thumbnail": "posts/2026/10/30/2116120918153892064/media/0.webp"
+    }
+  ]
+}

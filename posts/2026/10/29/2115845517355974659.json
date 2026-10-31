@@ -1,0 +1,34 @@
+{
+  "id": "2115845517355974659",
+  "permalink": "https://x.com/egocgp/status/2115845517355974659",
+  "author": {
+    "name": "Léo Bachelot",
+    "handle": "@egocgp",
+    "profile_url": "https://x.com/egocgp"
+  },
+  "posted_at": "2026-10-29T16:37:36Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**Léo Bachelot ([@egocgp](https://x.com/egocgp/status/2115845517355974659))** shares **VideoCreator**, his fully local, offline video-editing stack (ffmpeg-based skill and software) to plug into an AI for automated editing, arguing 80% quality is enough for most content ([lbachelotcapitalb/VideoCreator](https://github.com/lbachelotcapitalb/VideoCreator)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/lbachelotcapitalb/VideoCreator",
+      "from_post": "2115845517355974659",
+      "short_url": "https://t.co/jLXgwkpNhn",
+      "title": "GitHub - lbachelotcapitalb/VideoCreator: Stack de montage vidéo 100 % locale et hors ligne (ffmpeg + whisper.cpp) : dérushage de rushs parlés, bande de montage, sous-titres karaoké, overlays animés. Rien ne quitte la machine."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "videocreator",
+    "video-editing",
+    "ffmpeg",
+    "agent-skill",
+    "offline"
+  ],
+  "relevance": "Local automated video editing for agents."
+}

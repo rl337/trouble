@@ -1,0 +1,55 @@
+{
+  "id": "2115842574267416622",
+  "permalink": "https://x.com/lwrf42/status/2115842574267416622",
+  "author": {
+    "name": "Kenny",
+    "handle": "@lwrf42",
+    "profile_url": "https://x.com/lwrf42"
+  },
+  "posted_at": "2026-10-29T16:25:54Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [
+    {
+      "id": "2115843236946411737",
+      "permalink": "https://x.com/lwrf42/status/2115843236946411737",
+      "posted_at": "2026-10-29T16:28:32Z",
+      "position": 1
+    },
+    {
+      "id": "2115843457705193655",
+      "permalink": "https://x.com/lwrf42/status/2115843457705193655",
+      "posted_at": "2026-10-29T16:29:25Z",
+      "position": 2
+    }
+  ],
+  "summary_md": "**Kenny ([@lwrf42](https://x.com/lwrf42/status/2115842574267416622))** built **compactlab**, an MIT local tool that replays your agent history against auto-compaction thresholds; for 24 days of 1M-context sessions, compacting at 625K instead of ~967K was an estimated 22% cheaper and about 3 min/day slower, after correcting for the one-hour prompt cache tier; it also reads DeepSeek Harness logs ([LemonCANDY42/compactlab](https://github.com/LemonCANDY42/compactlab)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/LemonCANDY42/compactlab",
+      "from_post": "2115842574267416622",
+      "short_url": "https://t.co/N323sNZvEs",
+      "title": "GitHub - LemonCANDY42/compactlab: Measure where to auto-compact from your own agent history: cost vs context-rot trade-offs per model and role. Local, zero-token, MIT."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "compactlab",
+    "auto-compaction",
+    "context-window",
+    "prompt-cache",
+    "claude-code"
+  ],
+  "relevance": "Data-driven context compaction tuning for harnesses.",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://x.com/lwrf42/status/2115842574267416622/video/1",
+      "from_post": "2115842574267416622",
+      "description": "Demo of compactlab replay results (not downloaded; referenced only)."
+    }
+  ]
+}

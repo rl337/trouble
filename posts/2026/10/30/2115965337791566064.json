@@ -1,0 +1,33 @@
+{
+  "id": "2115965337791566064",
+  "permalink": "https://x.com/AIHobbyist65536/status/2115965337791566064",
+  "author": {
+    "name": "もりそば@跡地",
+    "handle": "@AIHobbyist65536",
+    "profile_url": "https://x.com/AIHobbyist65536"
+  },
+  "posted_at": "2026-10-30T00:33:43Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**もりそば@跡地 ([@AIHobbyist65536](https://x.com/AIHobbyist65536/status/2115965337791566064))** recommends **agentsview**, local-first session search and analytics across harnesses with an MCP for sharing logs ([kenn-io/agentsview](https://github.com/kenn-io/agentsview)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/kenn-io/agentsview",
+      "from_post": "2115965337791566064",
+      "short_url": "https://t.co/mdKA3p8mr2",
+      "title": "GitHub - kenn-io/agentsview: Local-first session search, analytics, insights, and token use statistics for coding agents, supporting Claude Code, Codex, and more than 50 other agents."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "agentsview",
+    "session-search",
+    "analytics",
+    "mcp"
+  ],
+  "relevance": "Cross-harness session log aggregation."
+}

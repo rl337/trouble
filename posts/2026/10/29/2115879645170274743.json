@@ -1,0 +1,67 @@
+{
+  "id": "2115879645170274743",
+  "permalink": "https://x.com/EricChanyu/status/2115879645170274743",
+  "author": {
+    "name": "EricChan",
+    "handle": "@EricChanyu",
+    "profile_url": "https://x.com/EricChanyu"
+  },
+  "posted_at": "2026-10-29T18:53:13Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**EricChan ([@EricChanyu](https://x.com/EricChanyu/status/2115879645170274743))** built an MIT **Eastern minimal exhibition poster** skill that generates ink-wash posters where most of the paper stays empty and a tiny figure carries the scene ([ericchan916/eastern-minimal-exhibition-poster-skill](https://github.com/ericchan916/eastern-minimal-exhibition-poster-skill)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/ericchan916/eastern-minimal-exhibition-poster-skill",
+      "from_post": "2115879645170274743",
+      "short_url": "https://t.co/9u8SsmdWDc",
+      "title": "GitHub - ericchan916/eastern-minimal-exhibition-poster-skill: 中式极简展览海报 Skill · Eastern Minimal Exhibition Poster Skill"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "poster-design",
+    "ink-wash",
+    "agent-skill",
+    "minimalism"
+  ],
+  "relevance": "Encodes an aesthetic style as an agent skill.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV0dHFzWEAAEpEN.jpg",
+      "from_post": "2115879645170274743",
+      "description": "Ink-wash exhibition poster of a snowy landscape with a tiny figure.",
+      "kind": "photo",
+      "thumbnail": "posts/2026/10/29/2115879645170274743/media/0.webp"
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV0dHF3XMAAXEoR.jpg",
+      "from_post": "2115879645170274743",
+      "description": "Ink-wash poster of a ferry crossing with a small boat.",
+      "kind": "photo",
+      "thumbnail": "posts/2026/10/29/2115879645170274743/media/1.webp"
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV0dHF1WEAAFNUv.jpg",
+      "from_post": "2115879645170274743",
+      "description": "Ink-wash poster of pale moonlit mountains.",
+      "kind": "photo",
+      "thumbnail": "posts/2026/10/29/2115879645170274743/media/2.webp"
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV0dHFyW4AAuCm8.jpg",
+      "from_post": "2115879645170274743",
+      "description": "Ink-wash poster of a forest path with a lone walker.",
+      "kind": "photo",
+      "thumbnail": "posts/2026/10/29/2115879645170274743/media/3.webp"
+    }
+  ]
+}

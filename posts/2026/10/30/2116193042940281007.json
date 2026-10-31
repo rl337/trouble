@@ -1,0 +1,55 @@
+{
+  "id": "2116193042940281007",
+  "permalink": "https://x.com/0xNynxz/status/2116193042940281007",
+  "author": {
+    "name": "Nynxz",
+    "handle": "@0xNynxz",
+    "profile_url": "https://x.com/0xNynxz"
+  },
+  "posted_at": "2026-10-30T15:38:33Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [
+    {
+      "id": "2116193120316780824",
+      "permalink": "https://x.com/0xNynxz/status/2116193120316780824",
+      "posted_at": "2026-10-30T15:38:51Z",
+      "position": 1
+    },
+    {
+      "id": "2116193341742501890",
+      "permalink": "https://x.com/0xNynxz/status/2116193341742501890",
+      "posted_at": "2026-10-30T15:39:44Z",
+      "position": 2
+    }
+  ],
+  "summary_md": "**Nynxz ([@0xNynxz](https://x.com/0xNynxz/status/2116193042940281007))** releases **ZenTrainer 0.4.0**, training LoRAs inside ComfyUI with live previews on NVIDIA or AMD for many image models and MiniMax H3 video, optionally with its own pinned ComfyUI ([Nynxz/ZenTrainer](https://github.com/Nynxz/ZenTrainer), [trailer](https://www.youtube.com/watch?v=YS4BkGonflg)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/Nynxz/ZenTrainer",
+      "from_post": "2116193042940281007",
+      "short_url": "https://t.co/kSzt0rw6Tu",
+      "title": "GitHub - Nynxz/ZenTrainer: Train LoRAs inside ComfyUI: image and video models, live previews, on NVIDIA or AMD."
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=YS4BkGonflg",
+      "from_post": "2116193341742501890",
+      "short_url": "https://t.co/r8UEyTTZeW",
+      "title": "ZenTrainer: Train LoRAs inside ComfyUI (Trailer)"
+    }
+  ],
+  "hashtags": [
+    "OpenSourceHiggsfield"
+  ],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "zentrainer",
+    "lora-training",
+    "comfyui",
+    "minimax-h3",
+    "opensourcehiggsfield"
+  ],
+  "relevance": "Local LoRA training for media models."
+}

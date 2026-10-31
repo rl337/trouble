@@ -1,0 +1,34 @@
+{
+  "id": "2115709270494966024",
+  "permalink": "https://x.com/navneet_rabdiya/status/2115709270494966024",
+  "author": {
+    "name": "Navneet",
+    "handle": "@navneet_rabdiya",
+    "profile_url": "https://x.com/navneet_rabdiya"
+  },
+  "posted_at": "2026-10-29T07:36:12Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**Navneet ([@navneet_rabdiya](https://x.com/navneet_rabdiya/status/2115709270494966024))** summarizes *Cache Engineering for Agents* ([arXiv 2610.28577](https://arxiv.org/abs/2610.28577)): instead of summarizing history (which rewrites the prompt prefix and forces re-prefill), it drops stale tool outputs directly from the KV cache, gaining about 1.7 points on average at 27.7% lower cost than summarization.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.28577",
+      "from_post": "2115709270494966024",
+      "short_url": "https://t.co/Xua3zf2vrf",
+      "title": "Cache Engineering for Agents"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "cache-engineering",
+    "kv-cache",
+    "context-management",
+    "prefix-caching",
+    "agent"
+  ],
+  "relevance": "KV-cache-aware context management matters for local long-running agents."
+}

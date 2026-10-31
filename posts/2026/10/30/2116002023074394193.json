@@ -1,0 +1,44 @@
+{
+  "id": "2116002023074394193",
+  "permalink": "https://x.com/toranalytics/status/2116002023074394193",
+  "author": {
+    "name": "Junebeom Seo",
+    "handle": "@toranalytics",
+    "profile_url": "https://x.com/toranalytics"
+  },
+  "posted_at": "2026-10-30T02:59:30Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**Junebeom Seo ([@toranalytics](https://x.com/toranalytics/status/2116002023074394193))** built **Off the Wall**, which quotes your own past corrections back to Claude Code and Codex; in his test with invented habits on Claude Sonnet, forgetting dropped from 94% (31/33 runs) to 39% (13/33) ([toranalytics/off-the-wall](https://github.com/toranalytics/off-the-wall)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/toranalytics/off-the-wall",
+      "from_post": "2116002023074394193",
+      "short_url": "https://t.co/QqnIdbc3lx",
+      "title": "GitHub - toranalytics/off-the-wall: Quotes your own past corrections back to Claude Code and Codex, reports what you correct most, and has the orchestrator name a model for each subagent."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "off-the-wall",
+    "agent-memory",
+    "user-correction",
+    "claude-code",
+    "codex"
+  ],
+  "relevance": "Measured memory of user corrections for coding agents.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV2MmfeasAALDK2.jpg",
+      "from_post": "2116002023074394193",
+      "description": "Side-by-side results \"Same request, same model (Claude Sonnet), run once each\" with and without Off the Wall.",
+      "kind": "screenshot",
+      "thumbnail": "posts/2026/10/30/2116002023074394193/media/0.webp"
+    }
+  ]
+}

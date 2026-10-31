@@ -1,0 +1,44 @@
+{
+  "id": "2115821390204899639",
+  "permalink": "https://x.com/OWW/status/2115821390204899639",
+  "author": {
+    "name": "Robotics Papers",
+    "handle": "@OWW",
+    "profile_url": "https://x.com/OWW"
+  },
+  "posted_at": "2026-10-29T15:01:44Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**Robotics Papers ([@OWW](https://x.com/OWW/status/2115821390204899639))** shares **VERID** ([arXiv 2610.32755](https://arxiv.org/abs/2610.32755)), a persistent semantic digital twin of a lab workcell that gives AI agents queryable introspection and time-compressed simulation for agentic self-play in automated laboratories.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.32755",
+      "from_post": "2115821390204899639",
+      "short_url": "https://t.co/mFW3ILlusY",
+      "title": "Semantic Representation for Agentic Self-Play in Automated Laboratories"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-cognition"
+  ],
+  "keywords": [
+    "verid",
+    "self-play",
+    "automated-laboratory",
+    "digital-twin"
+  ],
+  "relevance": "Infrastructure for agentic scientific experimentation.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HVzoV5kXoAAJaCI.png",
+      "from_post": "2115821390204899639",
+      "description": "Image of the paper's abstract text.",
+      "kind": "paper",
+      "thumbnail": "posts/2026/10/29/2115821390204899639/media/0.webp",
+      "ocr_text": "Navigating complex, high-dimensional biological search spaces necessitates scalable physical and computational intelligence to explore beyond local optima through iterative self-play across ideation, experimentation, and automation. Translating experimental designs into reliable physical execution remains bottlenecked by static laboratory automation and unmodeled physical variability. To address this, we introduce VERified Infrastructure for Discovery Laboratories, or VERID, a foundational infrastructure designed to bridge the gap between the high-level reasoning of artificial intelligence (AI) agents and complex, error-prone physical realities of wet labs. VERID is a persistent, high-fidelity semantic digital twin of the laboratory workcell that provides four core services: queryable introspection for agentic reasoning, time-compressed simulation for protocol validation, comprehensive trace persistence for a complete scientific record, and a framework for safe execution. We present th"
+    }
+  ]
+}

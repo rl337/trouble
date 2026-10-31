@@ -1,0 +1,61 @@
+{
+  "id": "2115776170633597275",
+  "permalink": "https://x.com/vintcessun/status/2115776170633597275",
+  "author": {
+    "name": "恒星sun",
+    "handle": "@vintcessun",
+    "profile_url": "https://x.com/vintcessun"
+  },
+  "posted_at": "2026-10-29T12:02:02Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**恒星sun ([@vintcessun](https://x.com/vintcessun/status/2115776170633597275))** explains **Spine** ([arXiv 2610.37224](https://arxiv.org/abs/2610.37224)) for long-horizon coding agents: the agent declares work scopes, the runtime stores subtasks, interactions and completion state in a SpineTree, keeps details of unfinished work while collapsing finished subtasks to results, and delegates only parallelizable work; reported gains are +11.8% on SWE-Milestone at 32.4% lower cost, and 73.7% cheaper than recursive sub-agents.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.37224",
+      "from_post": "2115776170633597275",
+      "short_url": "https://t.co/JgqaVXiG2N",
+      "title": "Spine: Compiling Subtask Trees into Structured Context for..."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "spine",
+    "spinetree",
+    "context-engineering",
+    "coding-agent",
+    "swe-milestone",
+    "subagent"
+  ],
+  "relevance": "Concrete context-structuring technique with cost numbers for coding harnesses.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HVy_NdZbAAAkcHa.png",
+      "from_post": "2115776170633597275",
+      "description": "Paper figure contrasting recursive delegation: a parent spawning children with attempts, status queries, messages and interrupts.",
+      "kind": "diagram",
+      "thumbnail": "posts/2026/10/29/2115776170633597275/media/0.webp"
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HVy_NoXawAEBZKY.png",
+      "from_post": "2115776170633597275",
+      "description": "Table 3: SpineCodex vs. Codex on SWE-Milestone and ProgramBench with scores, tokens and cost.",
+      "kind": "chart",
+      "thumbnail": "posts/2026/10/29/2115776170633597275/media/1.webp"
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HVy_NyfbYAAtxW7.png",
+      "from_post": "2115776170633597275",
+      "description": "Table 6: SpinePi vs. Pi on SWE-Milestone and ProgramBench.",
+      "kind": "chart",
+      "thumbnail": "posts/2026/10/29/2115776170633597275/media/2.webp"
+    }
+  ]
+}

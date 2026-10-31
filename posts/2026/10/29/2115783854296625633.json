@@ -1,0 +1,33 @@
+{
+  "id": "2115783854296625633",
+  "permalink": "https://x.com/Marco5201416261/status/2115783854296625633",
+  "author": {
+    "name": "Plug & Max",
+    "handle": "@Marco5201416261",
+    "profile_url": "https://x.com/Marco5201416261"
+  },
+  "posted_at": "2026-10-29T12:32:34Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**Plug & Max ([@Marco5201416261](https://x.com/Marco5201416261/status/2115783854296625633))** announces **dcc-mcp-3dsmax v0.2.18**, an MCP adapter letting AI agents inspect and edit Autodesk 3ds Max scenes, supporting Max 2017 to 2027 ([dcc-mcp/dcc-mcp-3dsmax](https://github.com/dcc-mcp/dcc-mcp-3dsmax)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/dcc-mcp/dcc-mcp-3dsmax",
+      "from_post": "2115783854296625633",
+      "short_url": "https://t.co/YX4yr2c20f",
+      "title": "GitHub - dcc-mcp/dcc-mcp-3dsmax: Autodesk 3ds Max MCP adapter for AI agents to inspect and edit scenes, automate modeling and animation, and use verified undo through the DCC-MCP ecosystem."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "dcc-mcp-3dsmax",
+    "3ds-max",
+    "mcp",
+    "3d-modeling"
+  ],
+  "relevance": "MCP access to a major 3D DCC tool."
+}

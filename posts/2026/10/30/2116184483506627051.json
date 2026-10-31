@@ -1,0 +1,41 @@
+{
+  "id": "2116184483506627051",
+  "permalink": "https://x.com/techleadcorner/status/2116184483506627051",
+  "author": {
+    "name": "Tech Lead Corner",
+    "handle": "@techleadcorner",
+    "profile_url": "https://x.com/techleadcorner"
+  },
+  "posted_at": "2026-10-30T15:04:32Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**Tech Lead Corner ([@techleadcorner](https://x.com/techleadcorner/status/2116184483506627051))** covers **Raven** from EverMind AI, an Apache-2.0 agent host that plans a task graph and hands parts to built-in or third-party specialist agents ([EverMind-AI/Raven](https://github.com/EverMind-AI/Raven)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/EverMind-AI/Raven",
+      "from_post": "2116184483506627051",
+      "short_url": "https://t.co/ma9355eRul",
+      "title": "GitHub - EverMind-AI/Raven: The Harness of Harnesses • built for RSI: a trusted, persistent, self-evolving multi-agent ecosystem for all-domain collaboration."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "raven",
+    "agent-host",
+    "task-graph",
+    "orchestration"
+  ],
+  "relevance": "Harness-of-harnesses orchestration.",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://x.com/techleadcorner/status/2116184483506627051/video/1",
+      "from_post": "2116184483506627051",
+      "description": "Raven demo planning and delegating tasks (not downloaded; referenced only)."
+    }
+  ]
+}

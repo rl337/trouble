@@ -1,0 +1,44 @@
+{
+  "id": "2115900815995183196",
+  "permalink": "https://x.com/MahdiSPHP/status/2115900815995183196",
+  "author": {
+    "name": "Mahdi",
+    "handle": "@MahdiSPHP",
+    "profile_url": "https://x.com/MahdiSPHP"
+  },
+  "posted_at": "2026-10-29T20:17:20Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**Mahdi ([@MahdiSPHP](https://x.com/MahdiSPHP/status/2115900815995183196))** built **Toybox Director**: block a shot with toys on a 3D stage, edit keyframes in words, and LTX-Video renders it in ComfyUI, all with open weights on a Mac ([mahdi-salmanzade/toybox-director](https://github.com/mahdi-salmanzade/toybox-director)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/mahdi-salmanzade/toybox-director",
+      "from_post": "2115900815995183196",
+      "short_url": "https://t.co/WKEksobM4z",
+      "title": "GitHub - mahdi-salmanzade/toybox-director: Block your shot with toys on a 3D stage, then render it with open-weight LTX video in your own ComfyUI. Open-source, local-first."
+    }
+  ],
+  "hashtags": [
+    "OpenSourceHiggsfield"
+  ],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "toybox-director",
+    "ltx-video",
+    "comfyui",
+    "shot-blocking",
+    "3d-stage"
+  ],
+  "relevance": "Layout-to-video directing with open models.",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://x.com/MahdiSPHP/status/2115900815995183196/video/1",
+      "from_post": "2115900815995183196",
+      "description": "Toy car turning into a real car (not downloaded; referenced only)."
+    }
+  ]
+}

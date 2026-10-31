@@ -1,0 +1,44 @@
+{
+  "id": "2116108922893615493",
+  "permalink": "https://x.com/sthanikaai/status/2116108922893615493",
+  "author": {
+    "name": "Sthānika AI",
+    "handle": "@sthanikaai",
+    "profile_url": "https://x.com/sthanikaai"
+  },
+  "posted_at": "2026-10-30T10:04:17Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**Sthānika AI ([@sthanikaai](https://x.com/sthanikaai/status/2116108922893615493))** reports **Sieve-31B-v3** scoring 68.3 on held-out versions of trained skills and a higher 75.3 on never-seen domains in the Jev Decision Index private sets; Apache-2.0 open weights ([sthanika-ai on Hugging Face](https://huggingface.co/sthanika-ai)).",
+  "referenced_urls": [
+    {
+      "url": "https://huggingface.co/sthanika-ai",
+      "from_post": "2116108922893615493",
+      "short_url": "https://t.co/ENOT9uUwrY",
+      "title": "sthanika-ai (Sthānika AI)"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "local-models"
+  ],
+  "keywords": [
+    "sieve-31b",
+    "open-weight",
+    "jev-decision-index",
+    "generalization",
+    "31b-model"
+  ],
+  "relevance": "A ~30B open model claiming strong out-of-domain generalization, a good DGX Spark candidate.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV3tzvibMAAjahV.jpg",
+      "from_post": "2116108922893615493",
+      "description": "Score card: 68.3 on trained-skill held-out sets vs 75.3 on unseen domains.",
+      "kind": "chart",
+      "thumbnail": "posts/2026/10/30/2116108922893615493/media/0.webp"
+    }
+  ]
+}

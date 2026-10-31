@@ -1,0 +1,43 @@
+{
+  "id": "2116036171860230530",
+  "permalink": "https://x.com/pengsonal/status/2116036171860230530",
+  "author": {
+    "name": "Peng",
+    "handle": "@pengsonal",
+    "profile_url": "https://x.com/pengsonal"
+  },
+  "posted_at": "2026-10-30T05:15:12Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**Peng ([@pengsonal](https://x.com/pengsonal/status/2116036171860230530))** points to NVIDIA's free **SimReady** dataset of ~2,700 3D assets with physical properties like weight and friction, suggesting you let a coding agent build scenes from them ([nvidia/simready-assets](https://huggingface.co/datasets/nvidia/simready-assets)).",
+  "referenced_urls": [
+    {
+      "url": "https://huggingface.co/datasets/nvidia/simready-assets",
+      "from_post": "2116036171860230530",
+      "short_url": "https://t.co/hlnQiMla3A",
+      "title": "nvidia/simready-assets · Datasets at Hugging Face"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "simready",
+    "3d-asset",
+    "dataset",
+    "physics"
+  ],
+  "relevance": "Physics-ready 3D assets for agentic scene building.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV2rrlaboAAgR3o.jpg",
+      "from_post": "2116036171860230530",
+      "description": "Hugging Face dataset viewer showing a grid of 3D assets.",
+      "kind": "screenshot",
+      "thumbnail": "posts/2026/10/30/2116036171860230530/media/0.webp"
+    }
+  ]
+}

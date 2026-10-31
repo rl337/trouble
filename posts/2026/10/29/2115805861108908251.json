@@ -1,0 +1,52 @@
+{
+  "id": "2115805861108908251",
+  "permalink": "https://x.com/ModelScope2022/status/2115805861108908251",
+  "author": {
+    "name": "ModelScope",
+    "handle": "@ModelScope2022",
+    "profile_url": "https://x.com/ModelScope2022"
+  },
+  "posted_at": "2026-10-29T14:00:01Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**ModelScope ([@ModelScope2022](https://x.com/ModelScope2022/status/2115805861108908251))** announces **Vela 3.0**, six open routing and extraction models from 0.3B to 27B that make decisions and extract entities, evidence, PII or unsupported claims in one call; vela3-fast (0.4B) tops the public Decision Index among sub-500M models ([ModelScope collection](https://modelscope.ai/collections/vllm-sr/Vela-30)).",
+  "referenced_urls": [
+    {
+      "url": "https://modelscope.ai/collections/vllm-sr/Vela-30",
+      "from_post": "2115805861108908251",
+      "short_url": "https://t.co/JFRtrnOVIG",
+      "title": "Vela 3.0"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "local-models"
+  ],
+  "keywords": [
+    "vela-3.0",
+    "routing-model",
+    "extraction",
+    "decision-index",
+    "small-model"
+  ],
+  "relevance": "Small local routers for agent decision steps.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HVzMECuaIAAxoj1.jpg",
+      "from_post": "2115805861108908251",
+      "description": "Bar chart \"vela3-fast: the highest public Decision Index up to 500M\" comparing small models.",
+      "kind": "chart",
+      "thumbnail": "posts/2026/10/29/2115805861108908251/media/0.webp"
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HVzMFCxaMAArqDe.jpg",
+      "from_post": "2115805861108908251",
+      "description": "Dark bar charts comparing Vela 3.0 models on routing, classification and decision benchmarks.",
+      "kind": "chart",
+      "thumbnail": "posts/2026/10/29/2115805861108908251/media/1.webp"
+    }
+  ]
+}

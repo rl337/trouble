@@ -1,0 +1,44 @@
+{
+  "id": "2116335801130721765",
+  "permalink": "https://x.com/ComputerPapers/status/2116335801130721765",
+  "author": {
+    "name": "Software Engineering Papers",
+    "handle": "@ComputerPapers",
+    "profile_url": "https://x.com/ComputerPapers"
+  },
+  "posted_at": "2026-10-31T01:05:49Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**Software Engineering Papers ([@ComputerPapers](https://x.com/ComputerPapers/status/2116335801130721765))** shares *Well-Specified and Well-Tested?* ([arXiv 2610.39417](https://arxiv.org/abs/2610.39417)), which proposes ExLabel, a self-evolving agent that audits SWE-bench-style datasets for task clarity and test coverage.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.39417",
+      "from_post": "2116335801130721765",
+      "short_url": "https://t.co/x0IHdNnCVc",
+      "title": "Well-Specified and Well-Tested? Assessing SWE-bench-Style Datasets..."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "exlabel",
+    "swe-bench",
+    "dataset-quality",
+    "benchmark"
+  ],
+  "relevance": "Auditing agent benchmarks.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV68MkiXcAAR-6o.png",
+      "from_post": "2116335801130721765",
+      "description": "Abstract of the ExLabel paper.",
+      "kind": "paper",
+      "thumbnail": "posts/2026/10/31/2116335801130721765/media/0.webp",
+      "ocr_text": "Large language models (LLMs) have shown strong performance on software engineering (SE) tasks, driving the need for high-quality datasets for reliable training and evaluation. SWE-bench-style datasets (SWE datasets) are widely used to evaluate LLM-based coding agents on real-world software issues, where task clarity and test coverage directly affect whether instances are solvable and verifiable. However, quality issues persist in existing SWE datasets, and manual annotation is costly and labor-intensive, motivating LLM-based annotation. Existing approaches typically rely on static, overly general rubrics, limiting their ability to handle diverse and nuanced scenarios and often yielding high false positive rates. In contrast, human annotators draw on accumulated experience to make context-aware judgments. Inspired by this, we propose ExLabel, an LLM-based, self-evolving, experience-guided assistant for task clarity and test coverage assessment in SWE datasets. ExLabel maintains an evolv"
+    }
+  ]
+}

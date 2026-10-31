@@ -1,0 +1,34 @@
+{
+  "id": "2116153387322691769",
+  "permalink": "https://x.com/mikedevdn/status/2116153387322691769",
+  "author": {
+    "name": "Aetox Ai",
+    "handle": "@mikedevdn",
+    "profile_url": "https://x.com/mikedevdn"
+  },
+  "posted_at": "2026-10-30T13:00:58Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**Aetox Ai ([@mikedevdn](https://x.com/mikedevdn/status/2116153387322691769))** releases **Aetox**, a free local-first Windows agent environment that drives a real browser, sees the screen, runs project tests, pauses for you at any step and remembers your working style, with any model ([Mikedev115/Aetox-Harness](https://github.com/Mikedev115/Aetox-Harness)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/Mikedev115/Aetox-Harness",
+      "from_post": "2116153387322691769",
+      "short_url": "https://t.co/T9RaxUBhte",
+      "title": "GitHub - Mikedev115/Aetox-Harness: Aetox: a local-first Windows AI environment - model, skills, team and memory as one system. Two doors - an Assistant that adapts to your work and drives a real browser; and a Developer that names each weakness before writing, checks the project's security, runs the"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "aetox",
+    "computer-use",
+    "windows",
+    "agent-harness",
+    "memory"
+  ],
+  "relevance": "Desktop computer-use harness."
+}

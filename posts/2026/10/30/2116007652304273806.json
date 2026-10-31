@@ -1,0 +1,33 @@
+{
+  "id": "2116007652304273806",
+  "permalink": "https://x.com/wiseadmitisfun/status/2116007652304273806",
+  "author": {
+    "name": "yourwifu",
+    "handle": "@wiseadmitisfun",
+    "profile_url": "https://x.com/wiseadmitisfun"
+  },
+  "posted_at": "2026-10-30T03:21:52Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**yourwifu ([@wiseadmitisfun](https://x.com/wiseadmitisfun/status/2116007652304273806))** explains **Arguseye**, which saves resolved props and viewport with a visual baseline so a coding agent can compare components with the same inputs without starting the app ([DarkWorldCoder/arguseye](https://github.com/DarkWorldCoder/arguseye)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/DarkWorldCoder/arguseye",
+      "from_post": "2116007652304273806",
+      "short_url": "https://t.co/plVz4KbyaH",
+      "title": "GitHub - DarkWorldCoder/arguseye: Preview React, browser-renderable Next.js and Vue components from source. UI edit evidence for coding agents and VS Code, without starting the app."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "arguseye",
+    "visual-diff",
+    "react",
+    "component-preview"
+  ],
+  "relevance": "Reproducible visual checks for agents."
+}

@@ -1,0 +1,35 @@
+{
+  "id": "2116022522944905712",
+  "permalink": "https://x.com/Wu005887/status/2116022522944905712",
+  "author": {
+    "name": "Hawk Wu",
+    "handle": "@Wu005887",
+    "profile_url": "https://x.com/Wu005887"
+  },
+  "posted_at": "2026-10-30T04:20:57Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**Hawk Wu ([@Wu005887](https://x.com/Wu005887/status/2116022522944905712))** releases **Apexo v1.1.0**, an open coding agent for terminal, web and desktop with goals, workflows, memory and sandboxed commands ([release](https://github.com/cluster1900/apexo-code/releases/tag/v1.1.0)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/cluster1900/apexo-code/releases/tag/v1.1.0",
+      "from_post": "2116022522944905712",
+      "short_url": "https://t.co/bBRGOR2cT2",
+      "title": "Release v1.1.0 · cluster1900/apexo-code"
+    }
+  ],
+  "hashtags": [
+    "AIAgents"
+  ],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "apexo",
+    "coding-agent",
+    "sandbox",
+    "release"
+  ],
+  "relevance": "Another open harness release."
+}

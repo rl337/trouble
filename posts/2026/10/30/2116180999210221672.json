@@ -1,0 +1,43 @@
+{
+  "id": "2116180999210221672",
+  "permalink": "https://x.com/cfenghub/status/2116180999210221672",
+  "author": {
+    "name": "CF长风",
+    "handle": "@cfenghub",
+    "profile_url": "https://x.com/cfenghub"
+  },
+  "posted_at": "2026-10-30T14:50:41Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**CF长风 ([@cfenghub](https://x.com/cfenghub/status/2116180999210221672))** explains **Xiaomi-OCR-0**, a 0.8B document-understanding VLM fine-tuned from Qwen3.5-0.8B that outputs Markdown with LaTeX and tables, extracts structured JSON and answers document questions, shipping an MCP server and agent skill; better than PaddleOCR for understanding but not for fast text localization ([SeerRay-Lab/Xiaomi-OCR-0](https://github.com/SeerRay-Lab/Xiaomi-OCR-0)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/SeerRay-Lab/Xiaomi-OCR-0",
+      "from_post": "2116180999210221672",
+      "short_url": "https://t.co/ZRcsRRTpPW",
+      "title": "GitHub - SeerRay-Lab/Xiaomi-OCR-0"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "local-models"
+  ],
+  "keywords": [
+    "xiaomi-ocr",
+    "ocr",
+    "document-understanding",
+    "vlm",
+    "mcp",
+    "paddleocr"
+  ],
+  "relevance": "Tiny local document VLM with agent integrations.",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://x.com/cfenghub/status/2116180999210221672/video/1",
+      "from_post": "2116180999210221672",
+      "description": "Document parsing demo (not downloaded; referenced only)."
+    }
+  ]
+}

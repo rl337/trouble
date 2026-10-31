@@ -1,0 +1,41 @@
+{
+  "id": "2116029382234083753",
+  "permalink": "https://x.com/nestoris/status/2116029382234083753",
+  "author": {
+    "name": "Nestor Montemayor",
+    "handle": "@nestoris",
+    "profile_url": "https://x.com/nestoris"
+  },
+  "posted_at": "2026-10-30T04:48:13Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**Nestor Montemayor ([@nestoris](https://x.com/nestoris/status/2116029382234083753))** made **Lofi VHS Cat** (cat-tapes), camcorder-style footage of a cat's evening using LTX-2.5 and ACE-Step open weights on one home GPU ([Nemont3/cat-tapes](https://github.com/Nemont3/cat-tapes#OpenSourceHiggsfield)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/Nemont3/cat-tapes#OpenSourceHiggsfield",
+      "from_post": "2116029382234083753",
+      "short_url": "https://t.co/QLIkOgBtte",
+      "title": "GitHub - Nemont3/cat-tapes"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "cat-tapes",
+    "ltx-2.5",
+    "ace-step",
+    "vhs"
+  ],
+  "relevance": "Local video plus music generation workflow.",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://x.com/nestoris/status/2116029382234083753/video/1",
+      "from_post": "2116029382234083753",
+      "description": "Lofi VHS cat video (not downloaded; referenced only)."
+    }
+  ]
+}

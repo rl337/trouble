@@ -1,0 +1,40 @@
+{
+  "id": "2116411259763458151",
+  "permalink": "https://x.com/Jaythschild/status/2116411259763458151",
+  "author": {
+    "name": "Jaythschild",
+    "handle": "@Jaythschild",
+    "profile_url": "https://x.com/Jaythschild"
+  },
+  "posted_at": "2026-10-31T06:05:40Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**Jaythschild ([@Jaythschild](https://x.com/Jaythschild/status/2116411259763458151))** covers **Mundo**, research that plans camera motion in 3D before generating video. The authors report about 1.5 fps on 8×A800, with code and weights planned for late November ([Luo-Yihang/Mundo](https://github.com/Luo-Yihang/Mundo)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/Luo-Yihang/Mundo",
+      "from_post": "2116411259763458151",
+      "short_url": "https://t.co/EzOWswYgXP",
+      "title": "GitHub - Luo-Yihang/Mundo"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "mundo",
+    "camera-control",
+    "video-generation"
+  ],
+  "relevance": "Camera-controlled video generation.",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://x.com/Jaythschild/status/2116411259763458151/video/1",
+      "from_post": "2116411259763458151",
+      "description": "Author demo footage with narration (not downloaded; referenced only)."
+    }
+  ]
+}

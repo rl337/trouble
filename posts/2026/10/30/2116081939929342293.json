@@ -1,0 +1,33 @@
+{
+  "id": "2116081939929342293",
+  "permalink": "https://x.com/LLMnEder/status/2116081939929342293",
+  "author": {
+    "name": "LLMnEder",
+    "handle": "@LLMnEder",
+    "profile_url": "https://x.com/LLMnEder"
+  },
+  "posted_at": "2026-10-30T08:17:04Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**LLMnEder ([@LLMnEder](https://x.com/LLMnEder/status/2116081939929342293))** summarizes the *DynaRev* preprint ([arXiv 2610.40133](https://arxiv.org/abs/2610.40133)), which revises web-agent goals mid-task across 181 tasks and five models and finds even agents that acknowledge the change often miss the new constraint by the end.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.40133",
+      "from_post": "2116081939929342293",
+      "short_url": "https://t.co/ZYKQb7GHjF",
+      "title": "DynaRev: Benchmarking Web Agents under Dynamic Goal Revision"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-cognition"
+  ],
+  "keywords": [
+    "dynarev",
+    "web-agent",
+    "goal-revision",
+    "benchmark"
+  ],
+  "relevance": "Benchmarks a real failure mode: honoring mid-task instruction changes."
+}

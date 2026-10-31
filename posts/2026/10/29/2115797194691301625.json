@@ -1,0 +1,100 @@
+{
+  "id": "2115797194691301625",
+  "permalink": "https://x.com/TrustMountAI/status/2115797194691301625",
+  "author": {
+    "name": "TrustMount",
+    "handle": "@TrustMountAI",
+    "profile_url": "https://x.com/TrustMountAI"
+  },
+  "posted_at": "2026-10-29T13:25:35Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [
+    {
+      "id": "2115797300287086841",
+      "permalink": "https://x.com/TrustMountAI/status/2115797300287086841",
+      "posted_at": "2026-10-29T13:26:00Z",
+      "position": 1
+    },
+    {
+      "id": "2115797382101164140",
+      "permalink": "https://x.com/TrustMountAI/status/2115797382101164140",
+      "posted_at": "2026-10-29T13:26:20Z",
+      "position": 2
+    },
+    {
+      "id": "2115797410555580487",
+      "permalink": "https://x.com/TrustMountAI/status/2115797410555580487",
+      "posted_at": "2026-10-29T13:26:26Z",
+      "position": 3
+    },
+    {
+      "id": "2115797462648537420",
+      "permalink": "https://x.com/TrustMountAI/status/2115797462648537420",
+      "posted_at": "2026-10-29T13:26:39Z",
+      "position": 4
+    },
+    {
+      "id": "2115797488846430521",
+      "permalink": "https://x.com/TrustMountAI/status/2115797488846430521",
+      "posted_at": "2026-10-29T13:26:45Z",
+      "position": 5
+    }
+  ],
+  "summary_md": "**TrustMount ([@TrustMountAI](https://x.com/TrustMountAI/status/2115797194691301625))** threads on **memory poisoning** as a persistent attack surface: a 20 Oct paper planted instructions in ChatGPT, Claude and Gemini memory that persisted into new sessions ([arXiv 2610.28810](https://arxiv.org/abs/2610.28810)); OWASP lists it as ASI06 ([OWASP Agentic Top 10](https://genai.owasp.org/resource/owasp-top-10-for-agentic-applications-for-2026/)), and AgentPoison achieved over 80% attack success at under 0.1% poison rate ([arXiv 2407.12784](https://arxiv.org/abs/2407.12784)). It recommends four controls (privileged writes, provenance, isolation with expiry, logging with rollback) and a test procedure, citing [Microsoft](https://learn.microsoft.com/en-us/security/zero-trust/catalog-ai-attack-techniques/ai-memory-context-poisoning) and the [OWASP cheat sheet](https://cheatsheetseries.owasp.org/cheatsheets/AI_Agent_Security_Cheat_Sheet.html).",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.28810",
+      "from_post": "2115797194691301625",
+      "short_url": "https://t.co/ebEipEm52A",
+      "title": "Combining Long-Term Memory and LLMs Comes at a High Cost: From..."
+    },
+    {
+      "url": "https://genai.owasp.org/resource/owasp-top-10-for-agentic-applications-for-2026/",
+      "from_post": "2115797300287086841",
+      "short_url": "https://t.co/jmeZm1EP8a",
+      "title": "OWASP Top 10 for Agentic Applications for 2026"
+    },
+    {
+      "url": "https://arxiv.org/abs/2407.12784",
+      "from_post": "2115797382101164140",
+      "short_url": "https://t.co/wqYm7vvFMU",
+      "title": "AgentPoison: Red-teaming LLM Agents via Poisoning Memory or Knowledge Bases"
+    },
+    {
+      "url": "https://learn.microsoft.com/en-us/security/zero-trust/catalog-ai-attack-techniques/ai-memory-context-poisoning",
+      "from_post": "2115797410555580487",
+      "short_url": "https://t.co/n20GVzfhao",
+      "title": "4. AI Memory / Context Poisoning (Corruption)"
+    },
+    {
+      "url": "https://cheatsheetseries.owasp.org/cheatsheets/AI_Agent_Security_Cheat_Sheet.html",
+      "from_post": "2115797462648537420",
+      "short_url": "https://t.co/xXrxohUazM",
+      "title": "AI Agent Security - OWASP Cheat Sheet Series"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "memory-poisoning",
+    "agent-memory",
+    "owasp",
+    "agentpoison",
+    "security",
+    "provenance"
+  ],
+  "relevance": "Security design guidance for agent memory in harnesses.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HVzSFIiXYAAVjrd.png",
+      "from_post": "2115797194691301625",
+      "description": "Navy infographic titled \"Agent memory poisoning\" with AgentPoison stats (<0.1% poison rate, >80% success, <1% impact) and four numbered controls.",
+      "kind": "diagram",
+      "thumbnail": "posts/2026/10/29/2115797194691301625/media/0.webp"
+    }
+  ]
+}

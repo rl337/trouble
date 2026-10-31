@@ -1,0 +1,45 @@
+{
+  "id": "2115926839076004135",
+  "permalink": "https://x.com/gitrepos/status/2115926839076004135",
+  "author": {
+    "name": "Gitrepos",
+    "handle": "@gitrepos",
+    "profile_url": "https://x.com/gitrepos"
+  },
+  "posted_at": "2026-10-29T22:00:45Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**Gitrepos ([@gitrepos](https://x.com/gitrepos/status/2115926839076004135))** spotlights **CC Workflow Studio** (~5.4k stars), a visual editor for building and editing Claude Code automation workflows ([breaking-brake/cc-wf-studio](https://github.com/breaking-brake/cc-wf-studio/)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/breaking-brake/cc-wf-studio/",
+      "from_post": "2115926839076004135",
+      "short_url": "https://t.co/EdjsxbMM8I",
+      "title": "GitHub - breaking-brake/cc-wf-studio: CC Workflow Studio"
+    }
+  ],
+  "hashtags": [
+    "opensource"
+  ],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "cc-workflow-studio",
+    "claude-code",
+    "workflow-editor",
+    "automation"
+  ],
+  "relevance": "Visual authoring of agent workflows.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV1IPzFXIAIh1dy.jpg",
+      "from_post": "2115926839076004135",
+      "description": "README header \"Claude Code Workflow Studio\" with a node-graph workflow editor screenshot.",
+      "kind": "screenshot",
+      "thumbnail": "posts/2026/10/29/2115926839076004135/media/0.webp"
+    }
+  ]
+}

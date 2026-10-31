@@ -1,0 +1,46 @@
+{
+  "id": "2115840925943660821",
+  "permalink": "https://x.com/steven_pal/status/2115840925943660821",
+  "author": {
+    "name": "Steven Pal",
+    "handle": "@steven_pal",
+    "profile_url": "https://x.com/steven_pal"
+  },
+  "posted_at": "2026-10-29T16:19:21Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [
+    {
+      "id": "2115841023230509057",
+      "permalink": "https://x.com/steven_pal/status/2115841023230509057",
+      "posted_at": "2026-10-29T16:19:45Z",
+      "position": 1
+    }
+  ],
+  "summary_md": "**Steven Pal ([@steven_pal](https://x.com/steven_pal/status/2115840925943660821))** points to research suggesting plain RAG beats complex agentic memory systems: *Is Complex Agentic Memory Always Needed?* ([arXiv 2610.30755](https://arxiv.org/abs/2610.30755)) and, in the reply, *Memory Tax* ([arXiv 2610.34073](https://arxiv.org/abs/2610.34073)).",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.30755",
+      "from_post": "2115840925943660821",
+      "short_url": "https://t.co/hj4za2gKIf",
+      "title": "Is Complex Agentic Memory Always Needed? Naive RAG Is Stronger..."
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.34073",
+      "from_post": "2115841023230509057",
+      "short_url": "https://t.co/WhsxKGLwL1",
+      "title": "Memory Tax: Dissecting the Net Value of Agent Memory"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-cognition"
+  ],
+  "keywords": [
+    "agent-memory",
+    "rag",
+    "naive-rag",
+    "memory-tax"
+  ],
+  "relevance": "Two independent results arguing for simple retrieval baselines in agent memory."
+}

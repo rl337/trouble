@@ -1,0 +1,33 @@
+{
+  "id": "2115942016659882452",
+  "permalink": "https://x.com/JeremyCMorgan/status/2115942016659882452",
+  "author": {
+    "name": "Jeremy Morgan",
+    "handle": "@JeremyCMorgan",
+    "profile_url": "https://x.com/JeremyCMorgan"
+  },
+  "posted_at": "2026-10-29T23:01:03Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**Jeremy Morgan ([@JeremyCMorgan](https://x.com/JeremyCMorgan/status/2115942016659882452))** highlights **Claude Obsidian**, which turns sources into a linked Obsidian vault with Claude Code (ingest, sourced Q&A, broken-link lint), noting its maintenance loop addresses keeping knowledge graphs useful ([AgriciDaniel/claude-obsidian](https://github.com/agricidaniel/claude-obsidian)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/agricidaniel/claude-obsidian",
+      "from_post": "2115942016659882452",
+      "short_url": "https://t.co/ieOJXF4uot",
+      "title": "GitHub - AgriciDaniel/claude-obsidian: Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and Claude reads, links, and files it into one connected knowledge graph of plain Markdown you own. AI note-taking, personal knowledge management (PKM), and an open-source Notion altern"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "claude-obsidian",
+    "obsidian",
+    "knowledge-graph",
+    "claude-code"
+  ],
+  "relevance": "Agent-maintained knowledge base."
+}

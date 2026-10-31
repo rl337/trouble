@@ -1,0 +1,35 @@
+{
+  "id": "2115948679286956047",
+  "permalink": "https://x.com/s_kashiwakura/status/2115948679286956047",
+  "author": {
+    "name": "シンタロウ｜非エンジニアのAI実測",
+    "handle": "@s_kashiwakura",
+    "profile_url": "https://x.com/s_kashiwakura"
+  },
+  "posted_at": "2026-10-29T23:27:32Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**シンタロウ｜非エンジニアのAI実測 ([@s_kashiwakura](https://x.com/s_kashiwakura/status/2115948679286956047))** points to a Claude Code issue measuring that background `agent_summary` calls resend full history roughly every 30 seconds per subagent, making up 22.7% (another user: 26%) of requests with no official off switch; he found 10 agent_summary references and 2 timers in 2.1.310 ([issue #86879](https://github.com/anthropics/claude-code/issues/86879)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/anthropics/claude-code/issues/86879",
+      "from_post": "2115948679286956047",
+      "short_url": "https://t.co/40wcN2XkiU",
+      "title": "Feature request: a supported way to disable the agent_summary spinner (22.7% of requests, ~18% of weighted tokens in a subagent-heavy session) · Issue #86879 · anthropics/claude-code"
+    }
+  ],
+  "hashtags": [
+    "ClaudeCode"
+  ],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "claude-code",
+    "agent-summary",
+    "token-cost",
+    "subagent"
+  ],
+  "relevance": "Hidden harness overhead worth knowing."
+}

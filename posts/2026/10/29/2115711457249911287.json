@@ -1,0 +1,74 @@
+{
+  "id": "2115711457249911287",
+  "permalink": "https://x.com/runchao_han/status/2115711457249911287",
+  "author": {
+    "name": "Runchao Han",
+    "handle": "@runchao_han",
+    "profile_url": "https://x.com/runchao_han"
+  },
+  "posted_at": "2026-10-29T07:44:54Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [
+    {
+      "id": "2115711654021431550",
+      "permalink": "https://x.com/runchao_han/status/2115711654021431550",
+      "posted_at": "2026-10-29T07:45:40Z",
+      "position": 1
+    },
+    {
+      "id": "2115711957554851944",
+      "permalink": "https://x.com/runchao_han/status/2115711957554851944",
+      "posted_at": "2026-10-29T07:46:53Z",
+      "position": 2
+    },
+    {
+      "id": "2115720676934087092",
+      "permalink": "https://x.com/runchao_han/status/2115720676934087092",
+      "posted_at": "2026-10-29T08:21:32Z",
+      "position": 3
+    }
+  ],
+  "summary_md": "**Runchao Han ([@runchao_han](https://x.com/runchao_han/status/2115711457249911287))** open-sources **Rustify**, agent skills that rebuild software from a stripped binary as idiomatic Rust while recovering specs, UX, architecture and tests and checking parity against the original; the follow-ups show a Rust Doom reconstruction that matches recorded scenarios, note support for Claude Code, Codex, Cursor and OpenCode, and credit the REA reverse-engineering tool it builds on ([SebastianElvis/rustify](https://github.com/SebastianElvis/rustify), [rustify-doom](https://github.com/SebastianElvis/rustify-doom), [morluto/rea](https://github.com/morluto/rea)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/SebastianElvis/rustify",
+      "from_post": "2115711457249911287",
+      "short_url": "https://t.co/Ot3YSEnDaP",
+      "title": "GitHub - SebastianElvis/rustify: Agent skills that reconstruct software from a binary in idiomatic Rust"
+    },
+    {
+      "url": "https://github.com/SebastianElvis/rustify-doom",
+      "from_post": "2115711654021431550",
+      "short_url": "https://t.co/N6iC1Ic9Mg",
+      "title": "GitHub - SebastianElvis/rustify-doom: Rust reconstruction of Doom, made with Rustify from a stripped doomgeneric binary"
+    },
+    {
+      "url": "https://github.com/morluto/rea",
+      "from_post": "2115720676934087092",
+      "short_url": "https://t.co/5Y1IxhC9Ja",
+      "title": "GitHub - morluto/rea: Reverse engineer anything with agents, from app behavior down to native binaries."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "rustify",
+    "rust",
+    "reverse-engineering",
+    "agent-skill",
+    "doom",
+    "rea"
+  ],
+  "relevance": "Ambitious agent-skill workflow for binary-to-source reconstruction.",
+  "media": [
+    {
+      "type": "gif",
+      "url": "https://x.com/runchao_han/status/2115711457249911287/photo/1",
+      "from_post": "2115711457249911287",
+      "description": "Animated demo of the Rust Doom reconstruction (not downloaded; referenced only)."
+    }
+  ]
+}

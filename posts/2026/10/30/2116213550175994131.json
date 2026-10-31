@@ -1,0 +1,33 @@
+{
+  "id": "2116213550175994131",
+  "permalink": "https://x.com/jenistranger/status/2116213550175994131",
+  "author": {
+    "name": "Eugene M.",
+    "handle": "@jenistranger",
+    "profile_url": "https://x.com/jenistranger"
+  },
+  "posted_at": "2026-10-30T17:00:02Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**Eugene M. ([@jenistranger](https://x.com/jenistranger/status/2116213550175994131))** points to Hugging Face's **safeagents**, a local proxy that checks each tool call (e.g. rm -rf, curl | sh) before the harness runs it, with a log-only mode ([huggingface/safeagents](https://github.com/huggingface/safeagents)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/huggingface/safeagents",
+      "from_post": "2116213550175994131",
+      "short_url": "https://t.co/1ZQCcLnwaA",
+      "title": "GitHub - huggingface/safeagents: Safely run your agents using any coding harness"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "safeagents",
+    "tool-call",
+    "agent-security",
+    "proxy"
+  ],
+  "relevance": "Tool-call gating across harnesses."
+}

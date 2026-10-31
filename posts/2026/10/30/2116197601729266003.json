@@ -1,0 +1,50 @@
+{
+  "id": "2116197601729266003",
+  "permalink": "https://x.com/GodNeon6/status/2116197601729266003",
+  "author": {
+    "name": "God Neon",
+    "handle": "@GodNeon6",
+    "profile_url": "https://x.com/GodNeon6"
+  },
+  "posted_at": "2026-10-30T15:56:39Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**God Neon ([@GodNeon6](https://x.com/GodNeon6/status/2116197601729266003))** built **hypereel**, open-source viral video effects where you upload a photo and get an overdramatic clip with sound via MiniMax H3 ([demo](https://www.youtube.com/watch?v=Jn42MQJoHMU&feature=youtu.be), [app](https://hypereel-production.up.railway.app/), [HideInSky/hypereel](https://github.com/HideInSky/hypereel)).",
+  "referenced_urls": [
+    {
+      "url": "https://www.youtube.com/watch?v=Jn42MQJoHMU&feature=youtu.be",
+      "from_post": "2116197601729266003",
+      "short_url": "https://t.co/Q8hwhuwrBr",
+      "title": "hypereel demo"
+    },
+    {
+      "url": "https://hypereel-production.up.railway.app/",
+      "from_post": "2116197601729266003",
+      "short_url": "https://t.co/kzP3LNmOSU",
+      "title": "hypereel — Make anything overdramatic"
+    },
+    {
+      "url": "https://github.com/HideInSky/hypereel",
+      "from_post": "2116197601729266003",
+      "short_url": "https://t.co/28xZpsV7In",
+      "title": "GitHub - HideInSky/hypereel"
+    }
+  ],
+  "hashtags": [
+    "OpenSourceHiggsfield",
+    "ComfyUI",
+    "comfy"
+  ],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "hypereel",
+    "minimax-h3",
+    "video-effect",
+    "comfyui",
+    "opensourcehiggsfield"
+  ],
+  "relevance": "Photo-to-effect clip pipeline on open weights."
+}

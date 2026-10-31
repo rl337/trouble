@@ -1,0 +1,34 @@
+{
+  "id": "2116336352195133859",
+  "permalink": "https://x.com/plattypuus/status/2116336352195133859",
+  "author": {
+    "name": "タイド",
+    "handle": "@plattypuus",
+    "profile_url": "https://x.com/plattypuus"
+  },
+  "posted_at": "2026-10-31T01:08:00Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**タイド ([@plattypuus](https://x.com/plattypuus/status/2116336352195133859))** introduces **blender-agent-studio**, a plugin that lets Codex or Claude Code drive Blender locally with 12 skills and MCP. It keeps editable .blend files and the generated Python so work can be rerun later ([ifBars/blender-agent-studio](https://github.com/ifBars/blender-agent-studio)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/ifBars/blender-agent-studio",
+      "from_post": "2116336352195133859",
+      "short_url": "https://t.co/o6ofFVLWhL",
+      "title": "GitHub - ifBars/blender-agent-studio: Free, open-source Blender AI plugin for the tools you already use. Codex and Claude Code installers, local MCP tools, editable .blend files and Python source."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "blender-agent-studio",
+    "blender",
+    "mcp",
+    "agent-skill",
+    "3d-modeling"
+  ],
+  "relevance": "Reproducible agentic 3D modeling."
+}

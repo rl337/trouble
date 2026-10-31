@@ -1,0 +1,44 @@
+{
+  "id": "2116080896826638465",
+  "permalink": "https://x.com/agent__swarm/status/2116080896826638465",
+  "author": {
+    "name": "Agent Swarm",
+    "handle": "@agent__swarm",
+    "profile_url": "https://x.com/agent__swarm"
+  },
+  "posted_at": "2026-10-30T08:12:55Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**Agent Swarm ([@agent__swarm](https://x.com/agent__swarm/status/2116080896826638465))** lists **agent-swarm** v2.7.5 changes: seed schedule templates declare targets that trigger a daily 'dreaming' workflow, ChatGPT models run on a codex_oauth subscription pool, and agents can leave a thread until next mentioned ([desplega-ai/agent-swarm](https://github.com/desplega-ai/agent-swarm)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/desplega-ai/agent-swarm",
+      "from_post": "2116080896826638465",
+      "short_url": "https://t.co/6doCiRE36U",
+      "title": "GitHub - desplega-ai/agent-swarm: Your Company Agentic Operating System"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "agent-swarm",
+    "multi-agent",
+    "scheduling",
+    "codex",
+    "release-note"
+  ],
+  "relevance": "Ongoing development of an open multi-agent operating system.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV3UXNXXwAARg1s.jpg",
+      "from_post": "2116080896826638465",
+      "description": "'What's new' release card for v2.7.5 listing the three changes.",
+      "kind": "screenshot",
+      "thumbnail": "posts/2026/10/30/2116080896826638465/media/0.webp"
+    }
+  ]
+}

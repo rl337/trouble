@@ -1,0 +1,41 @@
+{
+  "id": "2115957055924400480",
+  "permalink": "https://x.com/mkultraware/status/2115957055924400480",
+  "author": {
+    "name": "⿻ uncommon sense",
+    "handle": "@mkultraware",
+    "profile_url": "https://x.com/mkultraware"
+  },
+  "posted_at": "2026-10-30T00:00:49Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**⿻ uncommon sense ([@mkultraware](https://x.com/mkultraware/status/2115957055924400480))** announces **Accuretta v1**, a local agentic harness and micro-IDE for security work ([mkultraware/accuretta](https://github.com/mkultraware/accuretta)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/mkultraware/accuretta",
+      "from_post": "2115957055924400480",
+      "short_url": "https://t.co/KU2jT2tYeO",
+      "title": "GitHub - mkultraware/accuretta: A sovereign, zero-trust local AI agent and micro-IDE."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "accuretta",
+    "security",
+    "local-agent",
+    "harness"
+  ],
+  "relevance": "Local harness specialized for security.",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://x.com/mkultraware/status/2115957055924400480/video/1",
+      "from_post": "2115957055924400480",
+      "description": "Accuretta demo (not downloaded; referenced only)."
+    }
+  ]
+}

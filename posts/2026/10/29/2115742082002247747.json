@@ -1,0 +1,43 @@
+{
+  "id": "2115742082002247747",
+  "permalink": "https://x.com/arnaudmercier/status/2115742082002247747",
+  "author": {
+    "name": "Arnaud Mercier - #Entrepreneur #Versailles",
+    "handle": "@arnaudmercier",
+    "profile_url": "https://x.com/arnaudmercier"
+  },
+  "posted_at": "2026-10-29T09:46:35Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**Arnaud Mercier - #Entrepreneur #Versailles ([@arnaudmercier](https://x.com/arnaudmercier/status/2115742082002247747))** covers the same *Can LLMs Uncover Hidden Physical Laws through Free Exploration?* paper ([arXiv 2610.37649](https://arxiv.org/html/2610.37649v1)), describing the LongChang framework that generates simulated worlds with modified physics (such as heavier objects falling slower) to test whether models notice anomalies and find the law unprompted.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/html/2610.37649v1",
+      "from_post": "2115742082002247747",
+      "short_url": "https://t.co/1WdIMHeHhy",
+      "title": "Can LLMs Uncover Hidden Physical Laws through Free Exploration?"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-cognition"
+  ],
+  "keywords": [
+    "longchang",
+    "scientific-discovery",
+    "physical-law",
+    "simulation"
+  ],
+  "relevance": "Curiosity-driven discovery benchmark for agents.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HVygM3jW8AAs3z6.png",
+      "from_post": "2115742082002247747",
+      "description": "Paper figure illustrating a flat-pan measurement experiment: setup, redesign and a table of measurements over time.",
+      "kind": "diagram",
+      "thumbnail": "posts/2026/10/29/2115742082002247747/media/0.webp"
+    }
+  ]
+}

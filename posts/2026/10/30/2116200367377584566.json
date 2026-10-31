@@ -1,0 +1,45 @@
+{
+  "id": "2116200367377584566",
+  "permalink": "https://x.com/bimedotcom/status/2116200367377584566",
+  "author": {
+    "name": "BusinessIntelligence",
+    "handle": "@bimedotcom",
+    "profile_url": "https://x.com/bimedotcom"
+  },
+  "posted_at": "2026-10-30T16:07:39Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**BusinessIntelligence ([@bimedotcom](https://x.com/bimedotcom/status/2116200367377584566))** summarizes DeepMind and Cambridge's *At the Limits of Computability* ([arXiv 2610.22603](https://arxiv.org/abs/2610.22603v2)), a Gemini-based pipeline combining pattern recognition, conjecturing and informal reasoning that found rules for eleven unresolved BB(6) Turing machines.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.22603v2",
+      "from_post": "2116200367377584566",
+      "short_url": "https://t.co/NxNQWfIffG",
+      "title": "At the Limits of Computability: Steps Towards Autonomous AI..."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-cognition"
+  ],
+  "keywords": [
+    "busy-beaver",
+    "gemini",
+    "mathematical-discovery",
+    "conjecturing",
+    "turing-machine"
+  ],
+  "relevance": "Agentic open-ended mathematical discovery.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV4_cX0XcAA4A_e.png",
+      "from_post": "2116200367377584566",
+      "description": "First page of the Busy Beaver discovery paper.",
+      "kind": "paper",
+      "thumbnail": "posts/2026/10/30/2116200367377584566/media/0.webp",
+      "ocr_text": "GoogleDeepMind\nOct 15th, 2026\nAt the Limits of Computability: Steps Towards\nAutonomous AI Discovery on the Busy Beaver\nFrontier\nMarco Dos Santosl.2, Vivek Veeriah', Alex Havrilla', Andrew Bolt', Goran Zuzic', Satinder Singh' and Tom\nZahavy'. 1 Google DeepMind, 2 University of Cambridge. Work done at Google DeepMind.\nRecent breakthroughs in AI for mathematics—ranging from Olympiad medal performances to resolving\nlong-standing open conjectures—have rapidly expanded what automated systems can achieve. Yet these\nsuccesses primarily concern predefined, human-formulated problems, leaving open how AI systems can\nautonomously uncover mathematical structure and formulate new questions. To push beyond static\nchallenges, we explore the Busy Beaver (BB) domain, an uncomputable frontier that is fundamentally\nprovides a natural setting for sustained exploration through mathematical conjecture and proof. In\nthis paper, we introduce a Gemini-based agentic pipeline that automatically discovers accelerations of\nTuring machines, expressed as compact mathematical rules summarizing many execution steps. Our\nsystem integrates pattern recognition, automated conjecturing, informal mathematical reasoning, and\nformal theorem proving in Lean. with this framework, our system autonomously discovered and formally\nverified novel Collatz-like accelerations for eleven machines in BB(6). Subject to community acceptance,\nwe provisionally classify these machines as Cryptids, namely machines whose blank-tape executions\nadmit exact, compact mathematical descriptions but whose halting behavior remains unresolved. These\nresults advance the analysis of BB(6) holdouts on the Busy Beaver frontier and demonstrate the potential\nof autonomous AI systems for open-ended mathematical discovery in fundamental computer science."
+    }
+  ]
+}

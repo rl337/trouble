@@ -1,0 +1,174 @@
+{
+  "id": "2116276310804746615",
+  "permalink": "https://x.com/harli_wu/status/2116276310804746615",
+  "author": {
+    "name": "Harli Feijie Wu",
+    "handle": "@harli_wu",
+    "profile_url": "https://x.com/harli_wu"
+  },
+  "posted_at": "2026-10-30T21:09:25Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [
+    {
+      "id": "2116276313275170851",
+      "permalink": "https://x.com/harli_wu/status/2116276313275170851",
+      "posted_at": "2026-10-30T21:09:26Z",
+      "position": 1
+    },
+    {
+      "id": "2116276315502555368",
+      "permalink": "https://x.com/harli_wu/status/2116276315502555368",
+      "posted_at": "2026-10-30T21:09:26Z",
+      "position": 2
+    },
+    {
+      "id": "2116276318878998769",
+      "permalink": "https://x.com/harli_wu/status/2116276318878998769",
+      "posted_at": "2026-10-30T21:09:27Z",
+      "position": 3
+    },
+    {
+      "id": "2116276321789628882",
+      "permalink": "https://x.com/harli_wu/status/2116276321789628882",
+      "posted_at": "2026-10-30T21:09:28Z",
+      "position": 4
+    },
+    {
+      "id": "2116276324906185099",
+      "permalink": "https://x.com/harli_wu/status/2116276324906185099",
+      "posted_at": "2026-10-30T21:09:29Z",
+      "position": 5
+    },
+    {
+      "id": "2116276327024316432",
+      "permalink": "https://x.com/harli_wu/status/2116276327024316432",
+      "posted_at": "2026-10-30T21:09:29Z",
+      "position": 6
+    },
+    {
+      "id": "2116276330748608693",
+      "permalink": "https://x.com/harli_wu/status/2116276330748608693",
+      "posted_at": "2026-10-30T21:09:30Z",
+      "position": 7
+    },
+    {
+      "id": "2116276332803903764",
+      "permalink": "https://x.com/harli_wu/status/2116276332803903764",
+      "posted_at": "2026-10-30T21:09:30Z",
+      "position": 8
+    },
+    {
+      "id": "2116276334938689853",
+      "permalink": "https://x.com/harli_wu/status/2116276334938689853",
+      "posted_at": "2026-10-30T21:09:31Z",
+      "position": 9
+    },
+    {
+      "id": "2116276338604831029",
+      "permalink": "https://x.com/harli_wu/status/2116276338604831029",
+      "posted_at": "2026-10-30T21:09:32Z",
+      "position": 10
+    }
+  ],
+  "summary_md": "**Harli Feijie Wu ([@harli_wu](https://x.com/harli_wu/status/2116276310804746615))** presents **HeurEvo** ([arXiv 2609.36303](https://arxiv.org/abs/2609.36303)) in an 11-part thread: agents evolve plans, code and a shared component library offline to combine heuristics and Gurobi under a 120 s limit, beating Gurobi's 48-hour incumbents on 7 of 11 tasks (mean gap -1.45%) and improving on AdaEvolve on MIPLIB and nonlinear problems.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2609.36303",
+      "from_post": "2116276310804746615",
+      "short_url": "https://t.co/jyYkJRzqGE",
+      "title": "HeurEvo: Agentic Evolution of Hybrid Solver-Augmented Heuristics..."
+    }
+  ],
+  "hashtags": [
+    "optimization",
+    "AgenticAI",
+    "OperationsResearch",
+    "CombinatorialOptimization",
+    "AlgorithmDiscovery"
+  ],
+  "topics": [
+    "agentic-cognition"
+  ],
+  "keywords": [
+    "heurevo",
+    "algorithm-discovery",
+    "combinatorial-optimization",
+    "gurobi",
+    "adaevolve"
+  ],
+  "relevance": "Agentic algorithm discovery with multi-level evolution.",
+  "media": [
+    {
+      "type": "gif",
+      "url": "https://x.com/harli_wu/status/2116276310804746615/photo/1",
+      "from_post": "2116276310804746615",
+      "description": "Animated overview of HeurEvo (not downloaded; referenced only)."
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV52vWSW4AAt55R.jpg",
+      "from_post": "2116276315502555368",
+      "description": "Evolved orienteering algorithm with time per stage.",
+      "kind": "chart",
+      "thumbnail": "posts/2026/10/30/2116276310804746615/media/1.webp"
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV54BRzWkAEUxis.jpg",
+      "from_post": "2116276318878998769",
+      "description": "Evolving plan, code and components at three levels.",
+      "kind": "diagram",
+      "thumbnail": "posts/2026/10/30/2116276310804746615/media/2.webp"
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV54gH4WkAAinbS.png",
+      "from_post": "2116276321789628882",
+      "description": "Examples of plan, code and component evolution.",
+      "kind": "diagram",
+      "thumbnail": "posts/2026/10/30/2116276310804746615/media/3.webp"
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV55BypWsAA_XRR.jpg",
+      "from_post": "2116276327024316432",
+      "description": "Bar chart of test gaps vs Gurobi 48-hour incumbents.",
+      "kind": "chart",
+      "thumbnail": "posts/2026/10/30/2116276310804746615/media/4.webp"
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV56PLqW0AAGtdB.jpg",
+      "from_post": "2116276330748608693",
+      "description": "Ablation bar chart of test gaps per variant.",
+      "kind": "chart",
+      "thumbnail": "posts/2026/10/30/2116276310804746615/media/5.webp"
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV59tvTXYAAwHgW.jpg",
+      "from_post": "2116276332803903764",
+      "description": "Table of MIPLIB training objectives vs AdaEvolve.",
+      "kind": "chart",
+      "thumbnail": "posts/2026/10/30/2116276310804746615/media/6.webp"
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV6Bl6bWcAAxslt.jpg",
+      "from_post": "2116276334938689853",
+      "description": "Nonlinear geometry results: 5/14 beat best-known values.",
+      "kind": "chart",
+      "thumbnail": "posts/2026/10/30/2116276310804746615/media/7.webp"
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV5-hJxWoAEBPyk.png",
+      "from_post": "2116276338604831029",
+      "description": "Title page and abstract of the HeurEvo paper.",
+      "kind": "paper",
+      "thumbnail": "posts/2026/10/30/2116276310804746615/media/8.webp",
+      "ocr_text": "HeurEvo: Agemtic\n ot Hybrid\nSolver-Augmented Heuristics for\nTme-Critical Mathematical Optimization\nFeijie Wu,*\nHugo Barbalho.\nKonstantina Mellou-\nimg\nMarco Molinaro?\nGao\nIshat Menache2\nXinzhi Zhang?\nSirui Li?\n Purdue Umiversity\n-Microsoft Research\nABSTRACT\nRecent advances in agemtic heuristic design use Al agents and execution feedback\nto automate algorithn discovery for challenging optimization problems. In many\npractical settings, high-quality solutions must be obtained uder strict runtime\nconstraints, motivating hybrid approaches that conbine problem-specific heuris-\ntics with powerful mathematical prograimming solvers. However, existing ap-\nproaches typically improve heuristic components within predefined procedurese\nOr tune solver comfigurations in isolatiom. rhis limits holistic adaptation of where\nto allocate computation, how to leverage solvers, and how to refne the overall\nalgorithmic structure. To address these limitatioms we propose HeurEvo, an au\ntomated plan-code-component co-evolution frarmework that jointly evolves the\nhigh-level algorithmic structures, their implementatioms, and a shared pool of\nreusable components. A planmer determines which algorithmic components to\nuse how to combine them, and how to allocate runtime across stages, a codere\nrealizes the resulting plan as executable code, while a component evolver updates\nthe shared component pool. Within an island-based evolutionary framework, plans\nand implenemtations co-evolve with feedback from an interpreter agent that ana-\nlyzes execution results and identifes opportunities for improvemnent. Across di-\nverse combimatorial optimization benchmarks and challenging MiPLUB instances,\nHeurEvo nnds high-guality solutions within tight runtime budgets, often match-\ning or surpassing state-of-the-art optimization solvers given hours or days of conm-\nputation. Om several nonlinear seometry problems such as hexagon packing ite\nalso improves upor the best previously reported results. These results highlight\nthe value of jointly searching over algorithmic sttucture and implementation for\nagemtic heuristic desigm\nWork done during an internship at Microsoft."
+    }
+  ]
+}

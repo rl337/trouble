@@ -1,0 +1,44 @@
+{
+  "id": "2116014022630007266",
+  "permalink": "https://x.com/shouvik_palit/status/2116014022630007266",
+  "author": {
+    "name": "Shouvik Palit",
+    "handle": "@shouvik_palit",
+    "profile_url": "https://x.com/shouvik_palit"
+  },
+  "posted_at": "2026-10-30T03:47:11Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**Shouvik Palit ([@shouvik_palit](https://x.com/shouvik_palit/status/2116014022630007266))** shares **living-canvas**, a Claude skill that turns any repo, URL or idea into an animated single-frame explanatory canvas ([shouvik12/living-canvas](https://github.com/shouvik12/living-canvas)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/shouvik12/living-canvas",
+      "from_post": "2116014022630007266",
+      "short_url": "https://t.co/CWDRjdXSQf",
+      "title": "GitHub - shouvik12/living-canvas: Claude skill that turns any repo, doc or sentence into an animated README banner — pure SVG, no JS, ~7 KB"
+    }
+  ],
+  "hashtags": [
+    "buildinpublic"
+  ],
+  "topics": [
+    "agentic-media",
+    "harness-dev"
+  ],
+  "keywords": [
+    "living-canvas",
+    "claude-skill",
+    "animation",
+    "visual-explanation"
+  ],
+  "relevance": "Agent-generated animated explanations.",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://x.com/shouvik_palit/status/2116014022630007266/video/1",
+      "from_post": "2116014022630007266",
+      "description": "Generated canvas (not downloaded; referenced only)."
+    }
+  ]
+}

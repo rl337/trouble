@@ -1,0 +1,46 @@
+{
+  "id": "2115743368550781401",
+  "permalink": "https://x.com/vikas_avnish/status/2115743368550781401",
+  "author": {
+    "name": "vikas avnish",
+    "handle": "@vikas_avnish",
+    "profile_url": "https://x.com/vikas_avnish"
+  },
+  "posted_at": "2026-10-29T09:51:42Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [
+    {
+      "id": "2115743370815611299",
+      "permalink": "https://x.com/vikas_avnish/status/2115743370815611299",
+      "posted_at": "2026-10-29T09:51:42Z",
+      "position": 1
+    }
+  ],
+  "summary_md": "**vikas avnish ([@vikas_avnish](https://x.com/vikas_avnish/status/2115743368550781401))** open-sources **claude-workflow-recorder**, which turns every Claude Code session into a numbered, commented, replayable shell workflow: logging tool calls, regrouping steps into scripts, a macOS runner app and an MCP server, local-only with secrets redacted ([ivikasavnish/claude-workflow-recorder](https://github.com/ivikasavnish/claude-workflow-recorder)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/ivikasavnish/claude-workflow-recorder",
+      "from_post": "2115743368550781401",
+      "short_url": "https://t.co/2DxNuBb58z",
+      "title": "GitHub - ivikasavnish/claude-workflow-recorder: Turn every Claude Code session into a replayable, commented shell workflow — recorder hooks, wf CLI, macOS runner app, workflows MCP server and an MCP router."
+    }
+  ],
+  "hashtags": [
+    "ClaudeCode",
+    "MCP",
+    "DevTools",
+    "OpenSource"
+  ],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "claude-workflow-recorder",
+    "claude-code",
+    "mcp",
+    "shell-workflow",
+    "replay"
+  ],
+  "relevance": "Captures agent-discovered procedures as reusable scripts."
+}

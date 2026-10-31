@@ -1,0 +1,33 @@
+{
+  "id": "2116321313233211680",
+  "permalink": "https://x.com/joelmoss/status/2116321313233211680",
+  "author": {
+    "name": "Joel Moss",
+    "handle": "@joelmoss",
+    "profile_url": "https://x.com/joelmoss"
+  },
+  "posted_at": "2026-10-31T00:08:15Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**Joel Moss ([@joelmoss](https://x.com/joelmoss/status/2116321313233211680))** shares **pullfrog**, an open-source, model-agnostic, bring-your-own-key GitHub bot that runs in GitHub Actions ([pullfrog/pullfrog](https://github.com/pullfrog/pullfrog)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/pullfrog/pullfrog",
+      "from_post": "2116321313233211680",
+      "short_url": "https://t.co/pTxnLwdjLm",
+      "title": "GitHub - pullfrog/pullfrog: Open-source model-agnostic BYOK GitHub bot that runs in GitHub Actions"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "pullfrog",
+    "github-actions",
+    "byok",
+    "code-review-bot"
+  ],
+  "relevance": "BYOK agent for CI."
+}

@@ -1,0 +1,33 @@
+{
+  "id": "2115994641619353603",
+  "permalink": "https://x.com/blackr4en/status/2115994641619353603",
+  "author": {
+    "name": "na-parse / blackraen",
+    "handle": "@blackr4en",
+    "profile_url": "https://x.com/blackr4en"
+  },
+  "posted_at": "2026-10-30T02:30:10Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**na-parse / blackraen ([@blackr4en](https://x.com/blackr4en/status/2115994641619353603))** built **agent-grimoire** with Opus, a harness-agnostic tool letting Claude and Codex sessions on different machines message, share files and distribute work ([na-parse/agent-grimoire](https://github.com/na-parse/agent-grimoire)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/na-parse/agent-grimoire",
+      "from_post": "2115994641619353603",
+      "short_url": "https://t.co/hVCwunLwLX",
+      "title": "GitHub - na-parse/agent-grimoire: Lets AI agents message and share files across machines and harnesses on your LAN. Self-hosted, curl-only."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "agent-grimoire",
+    "agent-messaging",
+    "cross-harness",
+    "file-store"
+  ],
+  "relevance": "Cross-machine agent collaboration."
+}

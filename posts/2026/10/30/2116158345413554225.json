@@ -1,0 +1,60 @@
+{
+  "id": "2116158345413554225",
+  "permalink": "https://x.com/QixingZ44506/status/2116158345413554225",
+  "author": {
+    "name": "Qixing Zhou",
+    "handle": "@QixingZ44506",
+    "profile_url": "https://x.com/QixingZ44506"
+  },
+  "posted_at": "2026-10-30T13:20:40Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [
+    {
+      "id": "2116158350148980883",
+      "permalink": "https://x.com/QixingZ44506/status/2116158350148980883",
+      "posted_at": "2026-10-30T13:20:41Z",
+      "position": 1
+    }
+  ],
+  "summary_md": "**Qixing Zhou ([@QixingZ44506](https://x.com/QixingZ44506/status/2116158345413554225))** open-sources a **Universal Coding Data Factory** that turns GitHub repos into executable, verifiable coding tasks end to end; 4,344 tasks added to MixRL training lifted Qwen3.8-27B's SWE-bench Verified from 70.2% to 79.8% and FeatureBench from 50.3% to 60.3% internally ([LiberCoders/FeatureBench](https://github.com/LiberCoders/FeatureBench)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/LiberCoders/FeatureBench",
+      "from_post": "2116158345413554225",
+      "short_url": "https://t.co/TR9TRbKl4E",
+      "title": "GitHub - LiberCoders/FeatureBench: [ICLR 2026] Official Implementation of \"FeatureBench: Benchmarking Agentic Coding for Complex Feature Development\""
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "local-models",
+    "harness-dev"
+  ],
+  "keywords": [
+    "coding-data-factory",
+    "featurebench",
+    "qwen3.8-27b",
+    "swe-bench",
+    "agentic-rl"
+  ],
+  "relevance": "Synthetic task generation boosting a ~27B local coding model.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV4ZabIbUAAp8Zf.jpg",
+      "from_post": "2116158345413554225",
+      "description": "FeatureBench × CodeWorld logo card.",
+      "kind": "other",
+      "thumbnail": "posts/2026/10/30/2116158345413554225/media/0.webp"
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV4Zr25a4AAUFeW.jpg",
+      "from_post": "2116158350148980883",
+      "description": "FeatureBench logo with arXiv, license, Docker and leaderboard badges.",
+      "kind": "other",
+      "thumbnail": "posts/2026/10/30/2116158345413554225/media/1.webp"
+    }
+  ]
+}

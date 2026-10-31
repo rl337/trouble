@@ -1,0 +1,48 @@
+{
+  "id": "2115719440235126870",
+  "permalink": "https://x.com/SD_Tutorial/status/2115719440235126870",
+  "author": {
+    "name": "Stable Diffusion Tutorials",
+    "handle": "@SD_Tutorial",
+    "profile_url": "https://x.com/SD_Tutorial"
+  },
+  "posted_at": "2026-10-29T08:16:37Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**Stable Diffusion Tutorials ([@SD_Tutorial](https://x.com/SD_Tutorial/status/2115719440235126870))** points to **Open-H3-Regenerate-2K**, an open replacement for MiniMax's closed H3 2K regenerate API: a three-step refinement that upscales a 768p H3 draft (121 frames) to 2560×1440, with [weights on Hugging Face](https://huggingface.co/Efficient-Large-Model/Open-H3-Regenerate-2K) and [ComfyUI nodes](https://github.com/rdh9616/ComfyUI-Open-H3-Regenerate).",
+  "referenced_urls": [
+    {
+      "url": "https://huggingface.co/Efficient-Large-Model/Open-H3-Regenerate-2K",
+      "from_post": "2115719440235126870",
+      "short_url": "https://t.co/3DncFyWtCT",
+      "title": "Efficient-Large-Model/Open-H3-Regenerate-2K · Hugging Face"
+    },
+    {
+      "url": "https://github.com/rdh9616/ComfyUI-Open-H3-Regenerate",
+      "from_post": "2115719440235126870",
+      "short_url": "https://t.co/NtM9VC7IUm",
+      "title": "GitHub - rdh9616/ComfyUI-Open-H3-Regenerate: ComfyUI nodes + workflows for NVIDIA Open-H3-Regenerate-2K: regenerate MiniMax H3 drafts at 768P-4K in 3 steps, fast H3 VAE decoder, video-to-H3-prompt node"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "open-h3-regenerate",
+    "minimax-h3",
+    "upscaling",
+    "comfyui",
+    "video-generation"
+  ],
+  "relevance": "Open high-res refinement stage for local video pipelines.",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://x.com/SD_Tutorial/status/2115719440235126870/video/1",
+      "from_post": "2115719440235126870",
+      "description": "Comparison video of draft vs. regenerated 2K output (not downloaded; referenced only)."
+    }
+  ]
+}

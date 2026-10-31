@@ -1,0 +1,40 @@
+{
+  "id": "2115786207133147399",
+  "permalink": "https://x.com/jtdavies/status/2115786207133147399",
+  "author": {
+    "name": "John T Davies 🇪🇺",
+    "handle": "@jtdavies",
+    "profile_url": "https://x.com/jtdavies"
+  },
+  "posted_at": "2026-10-29T12:41:55Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**John T Davies 🇪🇺 ([@jtdavies](https://x.com/jtdavies/status/2115786207133147399))** had Claude benchmark **TandemLLM v0.15.0** serving Qwen3.8-Flash-Next on a DGX Spark: it led for single users with small prompts (about 60–67 tok/s at 1k–16k), was weaker on long prompts and concurrency (74 tok/s for eight 2k chats vs. 105 for TensorFold 1.1.7), and excelled at resuming conversations (a 97k chat back in 7.5 s vs. 44 s) ([0xBakeer/TandemLLM](https://github.com/0xBakeer/TandemLLM), [hle-lite](https://github.com/Incept5-AI/hle-lite)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/0xBakeer/TandemLLM",
+      "from_post": "2115786207133147399",
+      "short_url": "https://t.co/2YBhJuEpu0",
+      "title": "GitHub - 0xBakeer/TandemLLM: An environment where open models work as agents: a first-level harness with routing, skills, memory and sandboxed tools, on an engine that drafts and verifies its own tokens."
+    },
+    {
+      "url": "https://github.com/Incept5-AI/hle-lite",
+      "from_post": "2115786207133147399",
+      "short_url": "https://t.co/mLTfvoIPxw"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "local-models",
+    "harness-dev"
+  ],
+  "keywords": [
+    "tandemllm",
+    "dgx-spark",
+    "qwen3.8-flash-next",
+    "tensorfold",
+    "inference-benchmark"
+  ],
+  "relevance": "Real DGX Spark serving benchmarks comparing local inference stacks."
+}

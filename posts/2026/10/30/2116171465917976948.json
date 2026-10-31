@@ -1,0 +1,32 @@
+{
+  "id": "2116171465917976948",
+  "permalink": "https://x.com/adelvillar1/status/2116171465917976948",
+  "author": {
+    "name": "Alejandro Del Villar",
+    "handle": "@adelvillar1",
+    "profile_url": "https://x.com/adelvillar1"
+  },
+  "posted_at": "2026-10-30T14:12:48Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**Alejandro Del Villar ([@adelvillar1](https://x.com/adelvillar1/status/2116171465917976948))** introduces **Fleet**, a Rust-core agent harness built on DeepSeek's foundations and an agent execution layer ([adelvillar1/fleet](https://github.com/adelvillar1/fleet)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/adelvillar1/fleet",
+      "from_post": "2116171465917976948",
+      "short_url": "https://t.co/Qv1F0W9mAR",
+      "title": "GitHub - adelvillar1/fleet"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "fleet",
+    "rust",
+    "agent-harness"
+  ],
+  "relevance": "New Rust agent harness."
+}

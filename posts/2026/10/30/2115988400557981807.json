@@ -1,0 +1,49 @@
+{
+  "id": "2115988400557981807",
+  "permalink": "https://x.com/apple_techie/status/2115988400557981807",
+  "author": {
+    "name": "Andrew Peltekci",
+    "handle": "@apple_techie",
+    "profile_url": "https://x.com/apple_techie"
+  },
+  "posted_at": "2026-10-30T02:05:22Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**Andrew Peltekci ([@apple_techie](https://x.com/apple_techie/status/2115988400557981807))** made **One-take VFX** during ComfyUI Build Night LA for the Open Source Higgsfield challenge: a clip shot on a phone gets an effect such as fire, a portal, a neon wireframe or an aurora, rendered by LTX 2.5 inside ComfyUI, with open weights throughout and an MIT license ([Kainotomic/one-take-vfx](https://github.com/Kainotomic/one-take-vfx), [demo](https://www.youtube.com/watch?v=mP7K5n_z92U&feature=youtu.be)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/Kainotomic/one-take-vfx",
+      "from_post": "2115988400557981807",
+      "short_url": "https://t.co/CE3JtHaJCr",
+      "title": "GitHub - Kainotomic/one-take-vfx"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=mP7K5n_z92U&feature=youtu.be",
+      "from_post": "2115988400557981807",
+      "short_url": "https://t.co/clfi9G8Qpw",
+      "title": "One-take VFX: open-source Higgsfield-style effects in ComfyUI (LTX 2.5)"
+    }
+  ],
+  "hashtags": [
+    "OpenSourceHiggsfield"
+  ],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "one-take-vfx",
+    "ltx-2.5",
+    "comfyui",
+    "vfx"
+  ],
+  "relevance": "Open VFX from phone footage.",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://x.com/apple_techie/status/2115988400557981807/video/1",
+      "from_post": "2115988400557981807",
+      "description": "VFX demo (not downloaded; referenced only)."
+    }
+  ]
+}

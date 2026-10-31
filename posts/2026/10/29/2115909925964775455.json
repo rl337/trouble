@@ -1,0 +1,33 @@
+{
+  "id": "2115909925964775455",
+  "permalink": "https://x.com/emiluzelac/status/2115909925964775455",
+  "author": {
+    "name": "Emil Uzelac",
+    "handle": "@emiluzelac",
+    "profile_url": "https://x.com/emiluzelac"
+  },
+  "posted_at": "2026-10-29T20:53:32Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**Emil Uzelac ([@emiluzelac](https://x.com/emiluzelac/status/2115909925964775455))** shares **universal-reverse-engineering**, an agent skill teaching coding agents evidence-first reverse engineering of programs, file formats, protocols, devices and processes ([emiluzelac/universal-reverse-engineering](https://github.com/emiluzelac/universal-reverse-engineering)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/emiluzelac/universal-reverse-engineering",
+      "from_post": "2115909925964775455",
+      "short_url": "https://t.co/TjBARHtRoC",
+      "title": "GitHub - emiluzelac/universal-reverse-engineering: Agent Skill that teaches AI coding agents to reverse engineer how things work: programs, file formats, protocols, devices and processes, evidence-first. Works in Claude Code, Qwen Code, Codex and any Agent Skills host."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "reverse-engineering",
+    "agent-skill",
+    "claude-code",
+    "qwen-code"
+  ],
+  "relevance": "Investigative methodology as an agent skill."
+}

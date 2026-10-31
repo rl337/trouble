@@ -1,0 +1,41 @@
+{
+  "id": "2115946700858687613",
+  "permalink": "https://x.com/LooplabStudio/status/2115946700858687613",
+  "author": {
+    "name": "Looplab Studio",
+    "handle": "@LooplabStudio",
+    "profile_url": "https://x.com/LooplabStudio"
+  },
+  "posted_at": "2026-10-29T23:19:40Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**Looplab Studio ([@LooplabStudio](https://x.com/LooplabStudio/status/2115946700858687613))** highlights **Agent-Reach** (MIT), a read-only CLI that lets agents read YouTube subtitles, GitHub issues/PRs and the web; the video uses README mock-ups and AI voice-over ([Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/Panniantong/Agent-Reach",
+      "from_post": "2115946700858687613",
+      "short_url": "https://t.co/so7Um8zb4q",
+      "title": "GitHub - Panniantong/Agent-Reach: Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "agent-reach",
+    "cli",
+    "web-reading",
+    "youtube"
+  ],
+  "relevance": "Read-only web access tool for agents.",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://x.com/LooplabStudio/status/2115946700858687613/video/1",
+      "from_post": "2115946700858687613",
+      "description": "Agent-Reach explainer (not downloaded; referenced only)."
+    }
+  ]
+}

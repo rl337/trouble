@@ -1,0 +1,48 @@
+{
+  "id": "2116218584800407571",
+  "permalink": "https://x.com/qofenoai/status/2116218584800407571",
+  "author": {
+    "name": "Tiny Signal",
+    "handle": "@qofenoai",
+    "profile_url": "https://x.com/qofenoai"
+  },
+  "posted_at": "2026-10-30T17:20:02Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [
+    {
+      "id": "2116218587245650000",
+      "permalink": "https://x.com/qofenoai/status/2116218587245650000",
+      "posted_at": "2026-10-30T17:20:03Z",
+      "position": 1
+    }
+  ],
+  "summary_md": "**Tiny Signal ([@qofenoai](https://x.com/qofenoai/status/2116218584800407571))** introduces **Demotion**, turning React components into videos with beat-synced animation, typography, camera motion and sound, rendered locally; free for personal use ([SohailKhan0525/demotion](https://github.com/SohailKhan0525/demotion)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/SohailKhan0525/demotion",
+      "from_post": "2116218584800407571",
+      "short_url": "https://t.co/MNx3jBE30R",
+      "title": "GitHub - SohailKhan0525/demotion"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "demotion",
+    "react",
+    "motion-graphic",
+    "video-rendering"
+  ],
+  "relevance": "Code-based video authoring.",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://x.com/qofenoai/status/2116218584800407571/video/1",
+      "from_post": "2116218584800407571",
+      "description": "Promo made with Demotion (not downloaded; referenced only)."
+    }
+  ]
+}

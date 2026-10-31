@@ -1,0 +1,47 @@
+{
+  "id": "2116117998024978590",
+  "permalink": "https://x.com/ianpascoe_/status/2116117998024978590",
+  "author": {
+    "name": "Ian Pascoe",
+    "handle": "@ianpascoe_",
+    "profile_url": "https://x.com/ianpascoe_"
+  },
+  "posted_at": "2026-10-30T10:40:20Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [
+    {
+      "id": "2116117999627194377",
+      "permalink": "https://x.com/ianpascoe_/status/2116117999627194377",
+      "posted_at": "2026-10-30T10:40:21Z",
+      "position": 1
+    },
+    {
+      "id": "2116118000977760587",
+      "permalink": "https://x.com/ianpascoe_/status/2116118000977760587",
+      "posted_at": "2026-10-30T10:40:21Z",
+      "position": 2
+    }
+  ],
+  "summary_md": "**Ian Pascoe ([@ianpascoe_](https://x.com/ianpascoe_/status/2116117998024978590))** released skills to avoid 'grilling fatigue' from interview-style design skills: **grill-yourself** has the agent answer its own design questions and escalate only when needed, and **grill-subagent** spawns an interviewee subagent; both report the full design tree afterward ([ian-pascoe/skills](https://github.com/ian-pascoe/skills)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/ian-pascoe/skills",
+      "from_post": "2116117998024978590",
+      "short_url": "https://t.co/w70pZirgaL",
+      "title": "GitHub - ian-pascoe/skills: My Skills"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "grill-yourself",
+    "grill-subagent",
+    "agent-skill",
+    "subagent",
+    "design-tree"
+  ],
+  "relevance": "Reduces human load in design-interview agent workflows."
+}

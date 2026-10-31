@@ -1,0 +1,33 @@
+{
+  "id": "2116164829928882608",
+  "permalink": "https://x.com/acordani_tw/status/2116164829928882608",
+  "author": {
+    "name": "Anthony Cordani",
+    "handle": "@acordani_tw",
+    "profile_url": "https://x.com/acordani_tw"
+  },
+  "posted_at": "2026-10-30T13:46:26Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**Anthony Cordani ([@acordani_tw](https://x.com/acordani_tw/status/2116164829928882608))** follows up on **kitt**, a CLI that pins agent skills from git, offering three public skills (humanizer, spec-first, review) installable via Homebrew ([anthony-cordani/kitt-skills](https://github.com/anthony-cordani/kitt-skills)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/anthony-cordani/kitt-skills",
+      "from_post": "2116164829928882608",
+      "short_url": "https://t.co/HBL8EZ8tCD",
+      "title": "GitHub - anthony-cordani/kitt-skills: Public agent skills, installable with kitt"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "kitt",
+    "agent-skill",
+    "skill-manager",
+    "homebrew"
+  ],
+  "relevance": "Version-pinned skill distribution."
+}

@@ -1,0 +1,71 @@
+{
+  "id": "2115821668350435645",
+  "permalink": "https://x.com/simonw/status/2115821668350435645",
+  "author": {
+    "name": "Simon Willison",
+    "handle": "@simonw",
+    "profile_url": "https://x.com/simonw"
+  },
+  "posted_at": "2026-10-29T15:02:50Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [
+    {
+      "id": "2115822698341519520",
+      "permalink": "https://x.com/simonw/status/2115822698341519520",
+      "posted_at": "2026-10-29T15:06:56Z",
+      "position": 1
+    },
+    {
+      "id": "2115858560823538152",
+      "permalink": "https://x.com/simonw/status/2115858560823538152",
+      "posted_at": "2026-10-29T17:29:26Z",
+      "position": 2
+    }
+  ],
+  "summary_md": "**Simon Willison ([@simonw](https://x.com/simonw/status/2115821668350435645))** calls a write-up on building a multiplayer game world with autonomous Fable-class models a sharp-edge case study of agentic engineering, then tries **Spawn** on his phone, prompting a castle and a dragon into existence via its in-game chatbot, with more notes on his blog ([Spawn](https://www.spawn.co/), [blog post](https://simonwillison.net/2026/Oct/29/how-i-built-the-most-ai-pilled-company-in-the-world/)).",
+  "referenced_urls": [
+    {
+      "url": "https://www.spawn.co/",
+      "from_post": "2115822698341519520",
+      "short_url": "https://t.co/6Ey1m0AfhL",
+      "title": "Spawn: Your Place to Make Games with Friends"
+    },
+    {
+      "url": "https://simonwillison.net/2026/Oct/29/how-i-built-the-most-ai-pilled-company-in-the-world/",
+      "from_post": "2115858560823538152",
+      "short_url": "https://t.co/LckcFycLoc",
+      "title": "Building a multiplayer game world with autonomous Fable-class models"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "spawn",
+    "multiplayer-game",
+    "agentic-engineering",
+    "fable",
+    "game-creation"
+  ],
+  "relevance": "Real-world agentic game creation and engineering lessons.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HVzph7_bYAA2HoP.jpg",
+      "from_post": "2115822698341519520",
+      "description": "Mobile voxel-style 3D game: first-person view from a dragon's saddle flying near a castle.",
+      "kind": "screenshot",
+      "thumbnail": "posts/2026/10/29/2115821668350435645/media/0.webp"
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HVzph8Sa0AAgvKj.jpg",
+      "from_post": "2115822698341519520",
+      "description": "Same game with the chat panel open over the castle scene, showing prompts to resize and land the dragon.",
+      "kind": "screenshot",
+      "thumbnail": "posts/2026/10/29/2115821668350435645/media/1.webp"
+    }
+  ]
+}

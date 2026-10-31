@@ -1,0 +1,43 @@
+{
+  "id": "2116082936587980973",
+  "permalink": "https://x.com/ArcyDev/status/2116082936587980973",
+  "author": {
+    "name": "ArcyDev",
+    "handle": "@ArcyDev",
+    "profile_url": "https://x.com/ArcyDev"
+  },
+  "posted_at": "2026-10-30T08:21:01Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**ArcyDev ([@ArcyDev](https://x.com/ArcyDev/status/2116082936587980973))** notes **OpenCode 2.2.2** turns on image generation by default when the connected provider has image models, with a configurable image model ([release v2.2.2](https://github.com/anomalyco/opencode/releases/tag/v2.2.2)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/anomalyco/opencode/releases/tag/v2.2.2",
+      "from_post": "2116082936587980973",
+      "short_url": "https://t.co/tkgCdyGECu",
+      "title": "Release v2.2.2 · anomalyco/opencode"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "opencode",
+    "image-generation",
+    "coding-agent",
+    "release-note"
+  ],
+  "relevance": "Coding agents gaining built-in image generation.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV3WNq2WEAA_fg3.jpg",
+      "from_post": "2116082936587980973",
+      "description": "Stylized graphic of a toggle switch, implying a feature enabled by default.",
+      "kind": "other",
+      "thumbnail": "posts/2026/10/30/2116082936587980973/media/0.webp"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "2115715708503966092",
+  "permalink": "https://x.com/ComputerPapers/status/2115715708503966092",
+  "author": {
+    "name": "Software Engineering Papers",
+    "handle": "@ComputerPapers",
+    "profile_url": "https://x.com/ComputerPapers"
+  },
+  "posted_at": "2026-10-29T08:01:47Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**Software Engineering Papers ([@ComputerPapers](https://x.com/ComputerPapers/status/2115715708503966092))** shares **Spine** ([arXiv 2610.37224](https://arxiv.org/abs/2610.37224)), which compiles nested subtask trees into structured context for long-horizon coding agents so completed subtasks can be compressed without losing information needed by unfinished ones, avoiding the overhead of recursive sub-agent delegation.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.37224",
+      "from_post": "2115715708503966092",
+      "short_url": "https://t.co/UHRlphiBNk",
+      "title": "Spine: Compiling Subtask Trees into Structured Context for..."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "spine",
+    "subtask-tree",
+    "context-engineering",
+    "coding-agent",
+    "long-horizon"
+  ],
+  "relevance": "Context-structuring idea directly applicable to coding harnesses.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HVyIOZnW8AAzRtS.png",
+      "from_post": "2115715708503966092",
+      "description": "Image of the paper's abstract text.",
+      "kind": "paper",
+      "thumbnail": "posts/2026/10/29/2115715708503966092/media/0.webp",
+      "ocr_text": "Long-horizon coding tasks contain nested subtasks. Typically, agents record interactions sequentially into a growing history, causing context inflation and performance degradation. Compressing or trimming the history without explicit subtask boundaries can discard information needed by unfinished subtasks. Conversely, recursive subagent delegation isolates completed subtasks through child agents by assigning every subtask boundary to delegation, which conflates subtask granularity with executing agent choice, adding execution and coordination overhead. We introduce Spine, an interface and runtime that align model context with subtask nesting and completion. An agent declares explicit subtask boundaries through work scopes, allowing the same agent to execute nested subtasks inline while reserving delegation for independent parallel tasks. The runtime organizes execution in SpineTree, a persistent tree recording subtask relations, local interactions, completion states, and returned resul"
+    }
+  ]
+}

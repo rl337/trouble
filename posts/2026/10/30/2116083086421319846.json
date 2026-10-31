@@ -1,0 +1,44 @@
+{
+  "id": "2116083086421319846",
+  "permalink": "https://x.com/StellartuneCore/status/2116083086421319846",
+  "author": {
+    "name": "StellartuneDev",
+    "handle": "@StellartuneCore",
+    "profile_url": "https://x.com/StellartuneCore"
+  },
+  "posted_at": "2026-10-30T08:21:37Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**StellartuneDev ([@StellartuneCore](https://x.com/StellartuneCore/status/2116083086421319846))** presents **Vision Orchestrator** for the Open Source Higgsfield challenge: AI proposes shots, the user approves, and ComfyUI renders only approved takes with full traceability, local GPU and Apache 2.0 ([stellartune-studio/vision-orchestrator](https://github.com/stellartune-studio/vision-orchestrator)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/stellartune-studio/vision-orchestrator",
+      "from_post": "2116083086421319846",
+      "short_url": "https://t.co/l6nh6aBp49",
+      "title": "GitHub - stellartune-studio/vision-orchestrator"
+    }
+  ],
+  "hashtags": [
+    "OpenSourceHiggsfield"
+  ],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "vision-orchestrator",
+    "comfyui",
+    "human-in-the-loop",
+    "video-production",
+    "opensourcehiggsfield"
+  ],
+  "relevance": "Human-in-the-loop directing workflow for agentic video production.",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://x.com/StellartuneCore/status/2116083086421319846/video/1",
+      "from_post": "2116083086421319846",
+      "description": "Demo of the propose/approve/render workflow (not downloaded; referenced only)."
+    }
+  ]
+}

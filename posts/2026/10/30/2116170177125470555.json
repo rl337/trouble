@@ -1,0 +1,44 @@
+{
+  "id": "2116170177125470555",
+  "permalink": "https://x.com/SciFi/status/2116170177125470555",
+  "author": {
+    "name": "Artificial Intelligence Papers",
+    "handle": "@SciFi",
+    "profile_url": "https://x.com/SciFi"
+  },
+  "posted_at": "2026-10-30T14:07:41Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**Artificial Intelligence Papers ([@SciFi](https://x.com/SciFi/status/2116170177125470555))** shares *CogArena* ([arXiv 2610.36484](https://arxiv.org/abs/2610.36484)) by Fernandez et al. (NeurIPS 2026 E&D), benchmarking multimodal agents completing ten interactive behavioral experiments through a browser with the same interfaces humans use.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.36484",
+      "from_post": "2116170177125470555",
+      "short_url": "https://t.co/Eg3SBbZ2oS",
+      "title": "CogArena: Benchmarking Multimodal Agents on Interactive Behavioral..."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-cognition"
+  ],
+  "keywords": [
+    "cogarena",
+    "behavioral-experiment",
+    "multimodal-agent",
+    "cognitive-science"
+  ],
+  "relevance": "Cognitive evaluation of agents in human-style experiments.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV4lj-ZWQAEbSwN.png",
+      "from_post": "2116170177125470555",
+      "description": "Abstract of the CogArena paper.",
+      "kind": "paper",
+      "thumbnail": "posts/2026/10/30/2116170177125470555/media/0.webp",
+      "ocr_text": "Claims about the cognitive capabilities of large language models are typically tested by translating behavioral paradigms into text prompts, bypassing the visual interfaces and time pressure through which human participants actually engage with experiments. At the same time, AI agents can now complete online behavioral tasks and produce human-like data, which raises concerns that online datasets in the social and behavioral sciences are increasingly open to contamination. We introduce CogArena, a benchmark of ten experimental paradigms from the social and behavioral sciences. Agents complete the experiments through a standard web browser, working with the same visual stimuli and response interfaces that online participants use. A three-level scoring procedure evaluates whether the agent completed the task, how accurately it performed, and whether its data show the behavioral signatures each paradigm reliably produces in people. Across four multimodal models, each run ten times per task"
+    }
+  ]
+}

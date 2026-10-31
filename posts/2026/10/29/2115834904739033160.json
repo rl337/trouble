@@ -1,0 +1,53 @@
+{
+  "id": "2115834904739033160",
+  "permalink": "https://x.com/karlmehta/status/2115834904739033160",
+  "author": {
+    "name": "Karl Mehta",
+    "handle": "@karlmehta",
+    "profile_url": "https://x.com/karlmehta"
+  },
+  "posted_at": "2026-10-29T15:55:26Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**Karl Mehta ([@karlmehta](https://x.com/karlmehta/status/2115834904739033160))** explains an MCP Python SDK advisory (CVSS 6.8) where server bearer auth did not check a token's audience claim, so tokens for other services were accepted, a confused-deputy issue also disclosed in the AWS API MCP Server; upgrading only helps once `validate_token_resource=True` is set ([GHSA-w4fh-qvv9-3v23](https://github.com/modelcontextprotocol/python-sdk/security/advisories/GHSA-w4fh-qvv9-3v23), [AWS advisory](https://github.com/awslabs/mcp/security/advisories/GHSA-4prq-p2x5-w9fh)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/modelcontextprotocol/python-sdk/security/advisories/GHSA-w4fh-qvv9-3v23",
+      "from_post": "2115834904739033160",
+      "short_url": "https://t.co/ru0rl412jN",
+      "title": "Server bearer-token authentication accepts tokens issued for a different resource server"
+    },
+    {
+      "url": "https://github.com/awslabs/mcp/security/advisories/GHSA-4prq-p2x5-w9fh",
+      "from_post": "2115834904739033160",
+      "short_url": "https://t.co/EDgpgaesGF"
+    },
+    {
+      "url": "http://github.com/karlmehta/trustmodel",
+      "from_post": "2115834904739033160",
+      "short_url": "https://t.co/A407GnXAut"
+    },
+    {
+      "url": "http://trustmodel.ai",
+      "from_post": "2115834904739033160",
+      "short_url": "https://t.co/xvUW65pnQB"
+    }
+  ],
+  "hashtags": [
+    "AISecurity",
+    "AIGovernance",
+    "MCP"
+  ],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "mcp",
+    "security-advisory",
+    "oauth",
+    "audience-claim",
+    "confused-deputy"
+  ],
+  "relevance": "Concrete MCP server security fix harness builders must configure."
+}

@@ -1,0 +1,43 @@
+{
+  "id": "2115837328870736319",
+  "permalink": "https://x.com/checkedtape/status/2115837328870736319",
+  "author": {
+    "name": "Checked Tape",
+    "handle": "@checkedtape",
+    "profile_url": "https://x.com/checkedtape"
+  },
+  "posted_at": "2026-10-29T16:05:04Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**Checked Tape ([@checkedtape](https://x.com/checkedtape/status/2115837328870736319))** open-sources **Threadmark**, a prototype that stores chat excerpts locally and recalls them in later Codex sessions; token savings are unmeasured ([QuantDesk-In/Threadmark](https://github.com/QuantDesk-In/Threadmark)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/QuantDesk-In/Threadmark",
+      "from_post": "2115837328870736319",
+      "short_url": "https://t.co/WQBU0xsDCi",
+      "title": "GitHub - QuantDesk-In/Threadmark"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "threadmark",
+    "agent-memory",
+    "codex",
+    "context"
+  ],
+  "relevance": "Lightweight cross-session memory experiment.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HVz2zUFbIAEOaaM.png",
+      "from_post": "2115837328870736319",
+      "description": "\"A little context, carried forward\" diagram: capture, store and search, recall.",
+      "kind": "diagram",
+      "thumbnail": "posts/2026/10/29/2115837328870736319/media/0.webp"
+    }
+  ]
+}

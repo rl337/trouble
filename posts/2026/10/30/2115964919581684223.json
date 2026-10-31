@@ -1,0 +1,56 @@
+{
+  "id": "2115964919581684223",
+  "permalink": "https://x.com/Screeendev/status/2115964919581684223",
+  "author": {
+    "name": "Screen",
+    "handle": "@Screeendev",
+    "profile_url": "https://x.com/Screeendev"
+  },
+  "posted_at": "2026-10-30T00:32:04Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [
+    {
+      "id": "2115969188993097743",
+      "permalink": "https://x.com/Screeendev/status/2115969188993097743",
+      "posted_at": "2026-10-30T00:49:02Z",
+      "position": 1
+    }
+  ],
+  "summary_md": "**Screen ([@Screeendev](https://x.com/Screeendev/status/2115964919581684223))** entered **Phaino**, an MIT image and video studio on local ComfyUI or Comfy Cloud covering open-weight templates plus partner models via Comfy Router, Kawarimi character swap that keeps motion, camera and audio, a sequence editor, and an MCP server and HTTP API for agents ([screen-gd/phaino](http://github.com/screen-gd/phaino), [demo](https://app.phaino.us.ci)).",
+  "referenced_urls": [
+    {
+      "url": "http://github.com/screen-gd/phaino",
+      "from_post": "2115964919581684223",
+      "short_url": "https://t.co/YVSbBimt8X"
+    },
+    {
+      "url": "https://app.phaino.us.ci",
+      "from_post": "2115969188993097743",
+      "short_url": "https://t.co/sEH1hLsh6c",
+      "title": "Phaino"
+    }
+  ],
+  "hashtags": [
+    "OpenSourceHiggsfield"
+  ],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "phaino",
+    "comfyui",
+    "character-swap",
+    "mcp",
+    "video-editor"
+  ],
+  "relevance": "Agent-drivable open video studio.",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://x.com/Screeendev/status/2115964919581684223/video/1",
+      "from_post": "2115964919581684223",
+      "description": "Phaino demo (not downloaded; referenced only)."
+    }
+  ]
+}

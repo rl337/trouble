@@ -1,0 +1,33 @@
+{
+  "id": "2116361267376013624",
+  "permalink": "https://x.com/plattypuus/status/2116361267376013624",
+  "author": {
+    "name": "タイド",
+    "handle": "@plattypuus",
+    "profile_url": "https://x.com/plattypuus"
+  },
+  "posted_at": "2026-10-31T02:47:00Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**タイド ([@plattypuus](https://x.com/plattypuus/status/2116361267376013624))** shares **blender-game-skills**, Claude Code skills that turn concept art into game-ready 3D assets with render and measurement checks at each stage, treating unseen sides as estimates ([majidmanzarpour/blender-game-skills](https://github.com/majidmanzarpour/blender-game-skills)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/majidmanzarpour/blender-game-skills",
+      "from_post": "2116361267376013624",
+      "short_url": "https://t.co/YOdIOKHCGj",
+      "title": "GitHub - majidmanzarpour/blender-game-skills: Claude Code agent skills for game dev in Blender. Turn concept art into rigged, game-ready 3D assets, measured against your references."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "blender-game-skill",
+    "blender",
+    "game-asset",
+    "agent-skill"
+  ],
+  "relevance": "Concept art to game assets via agents."
+}

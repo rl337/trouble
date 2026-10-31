@@ -1,0 +1,73 @@
+{
+  "id": "2116120747466977608",
+  "permalink": "https://x.com/ssh4net/status/2116120747466977608",
+  "author": {
+    "name": "Vlad Erium 🇯🇵",
+    "handle": "@ssh4net",
+    "profile_url": "https://x.com/ssh4net"
+  },
+  "posted_at": "2026-10-30T10:51:16Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**Vlad Erium 🇯🇵 ([@ssh4net](https://x.com/ssh4net/status/2116120747466977608))** shares *Neural Explicit Shape Representation* ([arXiv 2610.38441](https://arxiv.org/abs/2610.38441)) from Peking University, introducing **NeuOctree**, which predicts ray–surface intersections with normal and albedo for direct ray tracing and compression; code is announced but not yet live ([octree-nn/neural-octree](https://github.com/octree-nn/neural-octree)).",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.38441",
+      "from_post": "2116120747466977608",
+      "short_url": "https://t.co/sWeXGbaRlt",
+      "title": "Neural Explicit Shape Representation"
+    },
+    {
+      "url": "https://github.com/octree-nn/neural-octree",
+      "from_post": "2116120747466977608",
+      "short_url": "https://t.co/sphEi1rTVC"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "neuoctree",
+    "neural-representation",
+    "ray-tracing",
+    "3d-compression",
+    "octree"
+  ],
+  "relevance": "Neural 3D representation usable in ray-traced pipelines.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV34mi2aIAAtI14.jpg",
+      "from_post": "2116120747466977608",
+      "description": "Figure 1: ray-traced chess scene with NeuOctree objects.",
+      "kind": "diagram",
+      "thumbnail": "posts/2026/10/30/2116120747466977608/media/0.webp"
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV34miuaIAATEcJ.jpg",
+      "from_post": "2116120747466977608",
+      "description": "Figure 2: pipeline from 3D assets to octree, MLP intersection query and ray tracing.",
+      "kind": "diagram",
+      "thumbnail": "posts/2026/10/30/2116120747466977608/media/1.webp"
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV34miua0AA0aEN.jpg",
+      "from_post": "2116120747466977608",
+      "description": "Figure 3: compression comparison on Dragon, Einstein and XYZ-Dragon.",
+      "kind": "chart",
+      "thumbnail": "posts/2026/10/30/2116120747466977608/media/2.webp"
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV34mizawAEboWs.jpg",
+      "from_post": "2116120747466977608",
+      "description": "Figure 7: ray tracing, reshading, reflection, refraction and fisheye effects.",
+      "kind": "diagram",
+      "thumbnail": "posts/2026/10/30/2116120747466977608/media/3.webp"
+    }
+  ]
+}

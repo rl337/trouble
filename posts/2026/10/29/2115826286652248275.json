@@ -1,0 +1,41 @@
+{
+  "id": "2115826286652248275",
+  "permalink": "https://x.com/_akhaliq/status/2115826286652248275",
+  "author": {
+    "name": "AK",
+    "handle": "@_akhaliq",
+    "profile_url": "https://x.com/_akhaliq"
+  },
+  "posted_at": "2026-10-29T15:21:11Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**AK ([@_akhaliq](https://x.com/_akhaliq/status/2115826286652248275))** shares the **OmniShowcase** paper on omnidirectional subject-consistent video generation from multi-view images ([paper page](https://huggingface.co/papers/2610.35684)).",
+  "referenced_urls": [
+    {
+      "url": "https://huggingface.co/papers/2610.35684",
+      "from_post": "2115826286652248275",
+      "short_url": "https://t.co/wcU8KWIRB5",
+      "title": "Paper page - OmniShowcase: Omnidirectional Subject-Consistent Video Generation from Multi-View Images"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "omnishowcase",
+    "360-video",
+    "multi-view",
+    "video-generation"
+  ],
+  "relevance": "Multi-view to 360° video generation.",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://x.com/_akhaliq/status/2115826286652248275/video/1",
+      "from_post": "2115826286652248275",
+      "description": "OmniShowcase demo video (not downloaded; referenced only)."
+    }
+  ]
+}

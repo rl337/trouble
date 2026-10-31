@@ -1,0 +1,52 @@
+{
+  "id": "2116177592940470635",
+  "permalink": "https://x.com/ussyverse/status/2116177592940470635",
+  "author": {
+    "name": "mojomasta",
+    "handle": "@ussyverse",
+    "profile_url": "https://x.com/ussyverse"
+  },
+  "posted_at": "2026-10-30T14:37:09Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [
+    {
+      "id": "2116177596136472943",
+      "permalink": "https://x.com/ussyverse/status/2116177596136472943",
+      "posted_at": "2026-10-30T14:37:10Z",
+      "position": 1
+    }
+  ],
+  "summary_md": "**mojomasta ([@ussyverse](https://x.com/ussyverse/status/2116177592940470635))** built **Comfyrizz**: one sentence becomes a narrated motion-graphics film using FLUX 3 Klein keyframes and LTX-2.5 motion in ComfyUI, editable by chatting ([mojomast/comfyrizz](https://github.com/mojomast/comfyrizz)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/mojomast/comfyrizz",
+      "from_post": "2116177592940470635",
+      "short_url": "https://t.co/QDMMVFXP9o",
+      "title": "GitHub - mojomast/comfyrizz: Chat in a brief, get a narrated AI motion-graphics explainer: ComfyUI (FLUX 3 Klein, LTX-2.5) on Google Colab or your own GPU, rendered with Remotion"
+    }
+  ],
+  "hashtags": [
+    "OpenSourceHiggsfield"
+  ],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "comfyrizz",
+    "comfyui",
+    "flux-3-klein",
+    "ltx-2.5",
+    "explainer-video",
+    "opensourcehiggsfield"
+  ],
+  "relevance": "Chat-driven open-weight film generation.",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://x.com/ussyverse/status/2116177596136472943/video/1",
+      "from_post": "2116177596136472943",
+      "description": "Generated explainer film demo (not downloaded; referenced only)."
+    }
+  ]
+}

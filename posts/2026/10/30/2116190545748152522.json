@@ -1,0 +1,42 @@
+{
+  "id": "2116190545748152522",
+  "permalink": "https://x.com/thenameiskh4n/status/2116190545748152522",
+  "author": {
+    "name": "Anas Ismail Khan",
+    "handle": "@thenameiskh4n",
+    "profile_url": "https://x.com/thenameiskh4n"
+  },
+  "posted_at": "2026-10-30T15:28:37Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**Anas Ismail Khan ([@thenameiskh4n](https://x.com/thenameiskh4n/status/2116190545748152522))** notes OpenCode is using his headless IDE for agents, **FFSAKE**, to build FFSAKE itself ([anasik/ffsake](https://github.com/anasik/ffsake)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/anasik/ffsake",
+      "from_post": "2116190545748152522",
+      "short_url": "https://t.co/rCTmirArv2",
+      "title": "GitHub - anasik/ffsake"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "ffsake",
+    "headless-ide",
+    "opencode"
+  ],
+  "relevance": "Headless IDE tooling for agents.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV43eBVbkAAvxig.png",
+      "from_post": "2116190545748152522",
+      "description": "Terminal line: 'Build FFSAKE uses FFSAKE (good). Continue.'",
+      "kind": "screenshot",
+      "thumbnail": "posts/2026/10/30/2116190545748152522/media/0.webp"
+    }
+  ]
+}

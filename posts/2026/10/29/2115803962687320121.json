@@ -1,0 +1,44 @@
+{
+  "id": "2115803962687320121",
+  "permalink": "https://x.com/CSVisionPapers/status/2115803962687320121",
+  "author": {
+    "name": "Computer Vision and Pattern Recognition Papers",
+    "handle": "@CSVisionPapers",
+    "profile_url": "https://x.com/CSVisionPapers"
+  },
+  "posted_at": "2026-10-29T13:52:29Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**Computer Vision and Pattern Recognition Papers ([@CSVisionPapers](https://x.com/CSVisionPapers/status/2115803962687320121))** shares *Grounded Exploration for Open-Ended Image Editing* ([arXiv 2610.33810](https://arxiv.org/abs/2610.33810)), a two-stage approach that first identifies diverse feasible edit scopes and then realizes them as executable instructions, beating direct diversity prompting on semantic dispersion and groundedness across 300 open-ended requests.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.33810",
+      "from_post": "2115803962687320121",
+      "short_url": "https://t.co/0INYNPlxI6",
+      "title": "Grounded Exploration for Open-Ended Image Editing"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "grounded-exploration",
+    "image-editing",
+    "diversity",
+    "creativity"
+  ],
+  "relevance": "Structured exploration for creative image editing.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HVzYfeQW8AA1RZ5.png",
+      "from_post": "2115803962687320121",
+      "description": "Image of the paper's abstract text.",
+      "kind": "paper",
+      "thumbnail": "posts/2026/10/29/2115803962687320121/media/0.webp",
+      "ocr_text": "Open-ended image-editing requests, such as “decorate this room,” admit multiple valid realizations. Direct sampling may produce ungrounded variation, whereas explicit diversity prompting often produces superficial differences. We study how to ground these requests without prematurely eliminating their legitimate ambiguity. We introduce a two-stage framework that first identifies diverse, feasible edit scopes and then realizes them as executable edit instructions. Across 300 open-ended image-editing tasks, our approach achieves 24.6% higher mean semantic dispersion and 17.1% higher mean groundedness than direct diversity prompting, while producing more valid and distinct realizations. These results show that structuring feasible edit directions before realization supports more useful grounded exploration."
+    }
+  ]
+}

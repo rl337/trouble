@@ -1,0 +1,35 @@
+{
+  "id": "2116317079083131272",
+  "permalink": "https://x.com/Z3nlyte/status/2116317079083131272",
+  "author": {
+    "name": "Zenlyte",
+    "handle": "@Z3nlyte",
+    "profile_url": "https://x.com/Z3nlyte"
+  },
+  "posted_at": "2026-10-30T23:51:25Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**Zenlyte ([@Z3nlyte](https://x.com/Z3nlyte/status/2116317079083131272))** notes NVIDIA's **NemoClaw** blueprints, which bundle a tuned harness, Nemotron and an OpenShell policy sandbox for OpenClaw, Hermes and LangChain Deep Agents. NVIDIA claims near-frontier results at about 10x lower cost per run with Nemotron 3 Ultra ([NVIDIA/NemoClaw](https://github.com/NVIDIA/NemoClaw)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/NVIDIA/NemoClaw",
+      "from_post": "2116317079083131272",
+      "short_url": "https://t.co/0P2Zc5aH7X",
+      "title": "GitHub - NVIDIA/NemoClaw: Run agents like Hermes, LangChain Deep Agents, and OpenClaw more securely inside NVIDIA OpenShell with managed inference"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev",
+    "local-models"
+  ],
+  "keywords": [
+    "nemoclaw",
+    "nemotron",
+    "openshell",
+    "deep-agent",
+    "sandbox"
+  ],
+  "relevance": "Sandboxed harness stacks for Nemotron."
+}

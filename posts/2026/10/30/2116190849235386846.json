@@ -1,0 +1,44 @@
+{
+  "id": "2116190849235386846",
+  "permalink": "https://x.com/Michael02049487/status/2116190849235386846",
+  "author": {
+    "name": "Michael Chen",
+    "handle": "@Michael02049487",
+    "profile_url": "https://x.com/Michael02049487"
+  },
+  "posted_at": "2026-10-30T15:29:50Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**Michael Chen ([@Michael02049487](https://x.com/Michael02049487/status/2116190849235386846))** recasts an entire ad's protagonists and products in one ComfyUI pass with MiniMax H3, keeping gestures, Mandarin script and sound ([m24927605/h3-long-ads](https://github.com/m24927605/h3-long-ads)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/m24927605/h3-long-ads",
+      "from_post": "2116190849235386846",
+      "short_url": "https://t.co/5fQIvymBgz",
+      "title": "GitHub - m24927605/h3-long-ads: 30-second MiniMax H3 product ads with sound in ComfyUI using context windows"
+    }
+  ],
+  "hashtags": [
+    "OpenSourceHiggsfield"
+  ],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "h3-long-ads",
+    "minimax-h3",
+    "recasting",
+    "comfyui",
+    "opensourcehiggsfield"
+  ],
+  "relevance": "Open-weight ad recasting pipeline.",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://x.com/Michael02049487/status/2116190849235386846/video/1",
+      "from_post": "2116190849235386846",
+      "description": "Same ad with swapped actors and products (not downloaded; referenced only)."
+    }
+  ]
+}

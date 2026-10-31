@@ -1,0 +1,34 @@
+{
+  "id": "2116021959507231189",
+  "permalink": "https://x.com/qikamatata/status/2116021959507231189",
+  "author": {
+    "name": "Qikaman",
+    "handle": "@qikamatata",
+    "profile_url": "https://x.com/qikamatata"
+  },
+  "posted_at": "2026-10-30T04:18:43Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**Qikaman ([@qikamatata](https://x.com/qikamatata/status/2116021959507231189))** highlights **earshot**, a CPU-only MCP-capable tool letting coding agents hear and review sound, noting its author misjudged 7 of 15 blind tests on synthetic audio and that it only reaches 14 kHz, so it's for screening rather than final calls ([Leonxlnx/earshot](https://github.com/Leonxlnx/earshot)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/Leonxlnx/earshot",
+      "from_post": "2116021959507231189",
+      "short_url": "https://t.co/WkGfhi4L4U",
+      "title": "GitHub - Leonxlnx/earshot: Ears for coding agents: let AI hear, review and make sound. CPU-only, open source."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-media",
+    "harness-dev"
+  ],
+  "keywords": [
+    "earshot",
+    "audio",
+    "mcp",
+    "sound-review"
+  ],
+  "relevance": "Audio perception for media-producing agents."
+}

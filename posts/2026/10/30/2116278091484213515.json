@@ -1,0 +1,68 @@
+{
+  "id": "2116278091484213515",
+  "permalink": "https://x.com/Chirraaa_/status/2116278091484213515",
+  "author": {
+    "name": "Chirraaa",
+    "handle": "@Chirraaa_",
+    "profile_url": "https://x.com/Chirraaa_"
+  },
+  "posted_at": "2026-10-30T21:16:30Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**Chirraaa ([@Chirraaa_](https://x.com/Chirraaa_/status/2116278091484213515))** built **sophon**, an open local-first Windows assistant harness originally meant to make small local models perform better, also usable with hosted providers ([Chirraaa/sophon](https://github.com/Chirraaa/sophon)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/Chirraaa/sophon",
+      "from_post": "2116278091484213515",
+      "short_url": "https://t.co/kq41mjCiHe",
+      "title": "GitHub - Chirraaa/sophon: A local-first Windows AI assistant designed to help small models deliver strong results through thoughtful orchestration, practical tools, and built-in verification"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev",
+    "local-models"
+  ],
+  "keywords": [
+    "sophon",
+    "agent-harness",
+    "small-model",
+    "windows"
+  ],
+  "relevance": "Harness tuned for small local models.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV6HSIXWgAA65GB.jpg",
+      "from_post": "2116278091484213515",
+      "description": "Dark chat UI greeting the user.",
+      "kind": "screenshot",
+      "thumbnail": "posts/2026/10/30/2116278091484213515/media/0.webp"
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV6HUgLWcAAEhUe.jpg",
+      "from_post": "2116278091484213515",
+      "description": "Settings and sidebar panels.",
+      "kind": "screenshot",
+      "thumbnail": "posts/2026/10/30/2116278091484213515/media/1.webp"
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV6HWjFXoAADcuk.jpg",
+      "from_post": "2116278091484213515",
+      "description": "Model picker input bar.",
+      "kind": "screenshot",
+      "thumbnail": "posts/2026/10/30/2116278091484213515/media/2.webp"
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV6HeITWIAARiUQ.jpg",
+      "from_post": "2116278091484213515",
+      "description": "Conversation with tool output.",
+      "kind": "screenshot",
+      "thumbnail": "posts/2026/10/30/2116278091484213515/media/3.webp"
+    }
+  ]
+}

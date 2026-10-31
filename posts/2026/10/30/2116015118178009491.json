@@ -1,0 +1,81 @@
+{
+  "id": "2116015118178009491",
+  "permalink": "https://x.com/tysostudio/status/2116015118178009491",
+  "author": {
+    "name": "Tyso Studio",
+    "handle": "@tysostudio",
+    "profile_url": "https://x.com/tysostudio"
+  },
+  "posted_at": "2026-10-30T03:51:32Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [
+    {
+      "id": "2116037085799080283",
+      "permalink": "https://x.com/tysostudio/status/2116037085799080283",
+      "posted_at": "2026-10-30T05:18:49Z",
+      "position": 1
+    },
+    {
+      "id": "2116047860508880963",
+      "permalink": "https://x.com/tysostudio/status/2116047860508880963",
+      "posted_at": "2026-10-30T06:01:38Z",
+      "position": 2
+    },
+    {
+      "id": "2116083961080541396",
+      "permalink": "https://x.com/tysostudio/status/2116083961080541396",
+      "posted_at": "2026-10-30T08:25:05Z",
+      "position": 3
+    }
+  ],
+  "summary_md": "**Tyso Studio ([@tysostudio](https://x.com/tysostudio/status/2116015118178009491))** built **Xenoform**: drop in a song, pick a vibe, and one object morphs into the next on every beat, using LTX-Video and LTX-2.5 locally through the Comfy SDK with stems, MIDI and an MCP server; he drove a full song with Claude. A follow-up invites people to try the work-in-progress repo, built overnight after he heard about the ComfyUI challenge a week earlier, and pitches it as a companion to DaVinci Resolve for music videos ([tysonfarrington-cmyk/xenoform](https://github.com/tysonfarrington-cmyk/xenoform), [walkthrough](https://www.youtube.com/watch?v=x_zMu29HfDA&feature=youtu.be)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/tysonfarrington-cmyk/xenoform",
+      "from_post": "2116015118178009491",
+      "short_url": "https://t.co/T5Gnwdfh5W",
+      "title": "GitHub - tysonfarrington-cmyk/xenoform: Song in, music video out, on your own GPU. Open weights only, through the Comfy SDK. #OpenSourceHiggsfield entry."
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=x_zMu29HfDA&feature=youtu.be",
+      "from_post": "2116015118178009491",
+      "short_url": "https://t.co/OmN4gpMkrM",
+      "title": "Xenoform: Song In, Music Video Out (Open-Weights AI on ComfyUI) #OpenSourceHiggsfield"
+    }
+  ],
+  "hashtags": [
+    "OpenSourceHiggsfield"
+  ],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "xenoform",
+    "music-video",
+    "ltx-video",
+    "mcp",
+    "comfy-sdk"
+  ],
+  "relevance": "Agent-drivable music-video generation.",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://x.com/tysostudio/status/2116015118178009491/video/1",
+      "from_post": "2116015118178009491",
+      "description": "Morph demo (not downloaded; referenced only)."
+    },
+    {
+      "type": "video",
+      "url": "https://x.com/tysostudio/status/2116037085799080283/video/1",
+      "from_post": "2116037085799080283",
+      "description": "8-minute walkthrough (not downloaded; referenced only)."
+    },
+    {
+      "type": "video",
+      "url": "https://x.com/tysostudio/status/2116047860508880963/video/1",
+      "from_post": "2116047860508880963",
+      "description": "Full song made with Xenoform (not downloaded; referenced only)."
+    }
+  ]
+}

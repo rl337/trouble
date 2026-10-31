@@ -1,0 +1,33 @@
+{
+  "id": "2116045045468131468",
+  "permalink": "https://x.com/Pakgowithai/status/2116045045468131468",
+  "author": {
+    "name": "Fahad Saleem",
+    "handle": "@Pakgowithai",
+    "profile_url": "https://x.com/Pakgowithai"
+  },
+  "posted_at": "2026-10-30T05:50:27Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**Fahad Saleem ([@Pakgowithai](https://x.com/Pakgowithai/status/2116045045468131468))** describes **claude-mem**, which logs what an agent did, compresses it into short notes and feeds back only what the next task needs, for Claude Code, Codex and Gemini ([thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/thedotmack/claude-mem",
+      "from_post": "2116045045468131468",
+      "short_url": "https://t.co/HA73UwVqiQ",
+      "title": "GitHub - thedotmack/claude-mem: Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "claude-mem",
+    "agent-memory",
+    "context-compression",
+    "claude-code"
+  ],
+  "relevance": "Cross-session memory for coding agents."
+}

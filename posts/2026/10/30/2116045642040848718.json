@@ -1,0 +1,43 @@
+{
+  "id": "2116045642040848718",
+  "permalink": "https://x.com/abdullahformuli/status/2116045642040848718",
+  "author": {
+    "name": "Abdullah Formuli",
+    "handle": "@abdullahformuli",
+    "profile_url": "https://x.com/abdullahformuli"
+  },
+  "posted_at": "2026-10-30T05:52:49Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**Abdullah Formuli ([@abdullahformuli](https://x.com/abdullahformuli/status/2116045642040848718))** open-sourced **3d-logo-skill**, which turns flat logos into spinning 3D coins in React Three Fiber with automatic background removal, contour tracing and chrome rim reflections ([authrain-cloud-abdullahformuli/3d-logo-skill](https://github.com/authrain-cloud-abdullahformuli/3d-logo-skill)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/authrain-cloud-abdullahformuli/3d-logo-skill",
+      "from_post": "2116045642040848718",
+      "short_url": "https://t.co/7MEk6eVJDo",
+      "title": "GitHub - authrain-cloud-abdullahformuli/3d-logo-skill: Turn any flat logo into a 3D spinning coin component with React Three Fiber, Three.js, and chrome rim"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "3d-logo-skill",
+    "react-three-fiber",
+    "3d",
+    "agent-skill"
+  ],
+  "relevance": "Agent skill for 3D asset generation in code.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV20StKbMAA5sPK.jpg",
+      "from_post": "2116045642040848718",
+      "description": "Example image attached to the 3d-logo-skill announcement.",
+      "kind": "photo",
+      "thumbnail": "posts/2026/10/30/2116045642040848718/media/0.webp"
+    }
+  ]
+}

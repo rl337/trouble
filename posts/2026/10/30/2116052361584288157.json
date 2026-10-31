@@ -1,0 +1,41 @@
+{
+  "id": "2116052361584288157",
+  "permalink": "https://x.com/itoWalker/status/2116052361584288157",
+  "author": {
+    "name": "伊東雄歩（ゆぽゆぽ）｜発明家｜ADHDグレーゾーン",
+    "handle": "@itoWalker",
+    "profile_url": "https://x.com/itoWalker"
+  },
+  "posted_at": "2026-10-30T06:19:32Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**伊東雄歩（ゆぽゆぽ）｜発明家｜ADHDグレーゾーン ([@itoWalker](https://x.com/itoWalker/status/2116052361584288157))** launched **cccskills**, a Japanese-language marketplace indexing ~100k Agent Skills from GitHub, including 3,500 official ones and 9,800 safety-checked ([cccskills.com](https://cccskills.com)).",
+  "referenced_urls": [
+    {
+      "url": "https://cccskills.com",
+      "from_post": "2116052361584288157",
+      "short_url": "https://t.co/deNjP0pPfW",
+      "title": "cccskills | 日本語で探せる Agent Skills マーケット"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "cccskills",
+    "agent-skill",
+    "marketplace",
+    "safety-check"
+  ],
+  "relevance": "Curated, safety-checked skill discovery.",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://x.com/itoWalker/status/2116052361584288157/video/1",
+      "from_post": "2116052361584288157",
+      "description": "cccskills site demo (not downloaded; referenced only)."
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": "2116335595903664257",
+  "permalink": "https://x.com/aiproduck/status/2116335595903664257",
+  "author": {
+    "name": "aiproduck",
+    "handle": "@aiproduck",
+    "profile_url": "https://x.com/aiproduck"
+  },
+  "posted_at": "2026-10-31T01:05:00Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**aiproduck ([@aiproduck](https://x.com/aiproduck/status/2116335595903664257))** summarizes *Inherited, Not Invented* ([paper page](https://huggingface.co/papers/2610.30882)). Reasoning models' 'wait' comes from training data rather than RL, zero-RL almost never invents it, and LLM judges can reverse human-labelled trends.",
+  "referenced_urls": [
+    {
+      "url": "https://huggingface.co/papers/2610.30882",
+      "from_post": "2116335595903664257",
+      "short_url": "https://t.co/yYBWmTAhao",
+      "title": "Paper page - Inherited, Not Invented: Tracing the Provenance of Wait in Reasoning Models"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-cognition"
+  ],
+  "keywords": [
+    "reasoning-model",
+    "reinforcement-learning",
+    "llm-judge",
+    "wait-token"
+  ],
+  "relevance": "Where reasoning behaviors come from."
+}

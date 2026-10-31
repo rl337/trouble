@@ -1,0 +1,64 @@
+{
+  "id": "2116316312012202326",
+  "permalink": "https://x.com/chsengni/status/2116316312012202326",
+  "author": {
+    "name": "Chsengni",
+    "handle": "@chsengni",
+    "profile_url": "https://x.com/chsengni"
+  },
+  "posted_at": "2026-10-30T23:48:22Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [
+    {
+      "id": "2116316981372841989",
+      "permalink": "https://x.com/chsengni/status/2116316981372841989",
+      "posted_at": "2026-10-30T23:51:02Z",
+      "position": 1
+    }
+  ],
+  "summary_md": "**Chsengni ([@chsengni](https://x.com/chsengni/status/2116316312012202326))** recommends **Breeze-TTS-2** ComfyUI nodes for voice cloning and voice design, saying they beat most clone models ([Saganaki22/ComfyUI-Breeze-TTS-2](https://github.com/Saganaki22/ComfyUI-Breeze-TTS-2), [BreezeBlue/Breeze-TTS-2](https://huggingface.co/BreezeBlue/Breeze-TTS-2)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/Saganaki22/ComfyUI-Breeze-TTS-2",
+      "from_post": "2116316312012202326",
+      "short_url": "https://t.co/mL94XLU4xh",
+      "title": "GitHub - Saganaki22/ComfyUI-Breeze-TTS-2: Breeze TTS 2 nodes for ComfyUI: voice clone, voice design, and voice direction with bilingual (EN/ZH) speech, inline vocal events, INT8 ConvRot quantized builds, and full ComfyUI / AIMDO dynamic-VRAM integration."
+    },
+    {
+      "url": "https://huggingface.co/BreezeBlue/Breeze-TTS-2",
+      "from_post": "2116316981372841989",
+      "short_url": "https://t.co/PGGDjg4rmK",
+      "title": "BreezeBlue/Breeze-TTS-2 · Hugging Face"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "breeze-tts-2",
+    "voice-cloning",
+    "tts",
+    "comfyui"
+  ],
+  "relevance": "Open voice cloning for media pipelines.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV6qdbFaIAAtPOD.jpg",
+      "from_post": "2116316312012202326",
+      "description": "ComfyUI graph with Breeze TTS nodes.",
+      "kind": "screenshot",
+      "thumbnail": "posts/2026/10/30/2116316312012202326/media/0.webp"
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV6qdbLaQAA344E.jpg",
+      "from_post": "2116316312012202326",
+      "description": "Bar chart ranking text-to-speech models by Elo score.",
+      "kind": "chart",
+      "thumbnail": "posts/2026/10/30/2116316312012202326/media/1.webp"
+    }
+  ]
+}

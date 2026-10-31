@@ -1,0 +1,33 @@
+{
+  "id": "2116142760914989332",
+  "permalink": "https://x.com/DeaglePc/status/2116142760914989332",
+  "author": {
+    "name": "deaglepc",
+    "handle": "@DeaglePc",
+    "profile_url": "https://x.com/DeaglePc"
+  },
+  "posted_at": "2026-10-30T12:18:44Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**deaglepc ([@DeaglePc](https://x.com/DeaglePc/status/2116142760914989332))** notes the Oct 12 **NeMo Gym** release added resumable large-batch agent evals after Slurm timeouts or preemption, plus an option to score unfinished tests as zero to avoid inflated results; old configs raise migration warnings ([NVIDIA-NeMo/Gym](https://github.com/NVIDIA-NeMo/Gym)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/NVIDIA-NeMo/Gym",
+      "from_post": "2116142760914989332",
+      "short_url": "https://t.co/unjJc3Cosd",
+      "title": "GitHub - NVIDIA-NeMo/Gym: Evaluate and improve models and agents using environments"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "nemo-gym",
+    "agent-evaluation",
+    "slurm",
+    "resumable-run"
+  ],
+  "relevance": "Robust agent evaluation infrastructure."
+}

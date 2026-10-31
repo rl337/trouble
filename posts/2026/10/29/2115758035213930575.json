@@ -1,0 +1,137 @@
+{
+  "id": "2115758035213930575",
+  "permalink": "https://x.com/goldenagemoy/status/2115758035213930575",
+  "author": {
+    "name": "Matsby",
+    "handle": "@goldenagemoy",
+    "profile_url": "https://x.com/goldenagemoy"
+  },
+  "posted_at": "2026-10-29T10:49:59Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [
+    {
+      "id": "2115758444196077746",
+      "permalink": "https://x.com/goldenagemoy/status/2115758444196077746",
+      "posted_at": "2026-10-29T10:51:36Z",
+      "position": 1
+    },
+    {
+      "id": "2115758567651475487",
+      "permalink": "https://x.com/goldenagemoy/status/2115758567651475487",
+      "posted_at": "2026-10-29T10:52:06Z",
+      "position": 2
+    },
+    {
+      "id": "2115758683103657996",
+      "permalink": "https://x.com/goldenagemoy/status/2115758683103657996",
+      "posted_at": "2026-10-29T10:52:33Z",
+      "position": 3
+    },
+    {
+      "id": "2115758898988683771",
+      "permalink": "https://x.com/goldenagemoy/status/2115758898988683771",
+      "posted_at": "2026-10-29T10:53:25Z",
+      "position": 4
+    },
+    {
+      "id": "2115759039896305842",
+      "permalink": "https://x.com/goldenagemoy/status/2115759039896305842",
+      "posted_at": "2026-10-29T10:53:58Z",
+      "position": 5
+    },
+    {
+      "id": "2115759213947335015",
+      "permalink": "https://x.com/goldenagemoy/status/2115759213947335015",
+      "posted_at": "2026-10-29T10:54:40Z",
+      "position": 6
+    }
+  ],
+  "summary_md": "**Matsby ([@goldenagemoy](https://x.com/goldenagemoy/status/2115758035213930575))** releases **SnipToss 1.0**, an MIT Windows 11 app for reviewing agent output: annotate images and videos with pins, boxes and timed comments, capture screen regions, and hand notes back via .sniptoss/REVIEW.md for Claude Code or Codex, or as images for web chat apps; no account or telemetry, Mac version in progress ([Moy339339/SnipToss](https://github.com/Moy339339/SnipToss)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/Moy339/SnipToss/releases/latest",
+      "from_post": "2115758035213930575",
+      "short_url": "https://t.co/u6qWGWPHj2"
+    },
+    {
+      "url": "https://github.com/Moy339339/SnipToss",
+      "from_post": "2115759213947335015",
+      "short_url": "https://t.co/NfewNFvAkN",
+      "title": "GitHub - Moy339339/SnipToss: Windows app to annotate the images and videos your AI coding agent made (pins, boxes, arrows, video timestamps) and hand the notes back as plain files that Claude Code, Codex and other agents can read."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "sniptoss",
+    "review",
+    "annotation",
+    "claude-code",
+    "codex",
+    "windows"
+  ],
+  "relevance": "Human-in-the-loop visual feedback channel for agents.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HVyupwUXcAAFcn-.jpg",
+      "from_post": "2115758035213930575",
+      "description": "SnipToss window with an AI-generated event flyer marked with three numbered notes.",
+      "kind": "screenshot",
+      "thumbnail": "posts/2026/10/29/2115758035213930575/media/0.webp"
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HVyus62XQAAGyZC.jpg",
+      "from_post": "2115758035213930575",
+      "description": "SnipToss annotating a sample coffee landing page with numbered marks and notes.",
+      "kind": "screenshot",
+      "thumbnail": "posts/2026/10/29/2115758035213930575/media/1.webp"
+    },
+    {
+      "type": "video",
+      "url": "https://x.com/goldenagemoy/status/2115758444196077746/video/1",
+      "from_post": "2115758444196077746",
+      "description": "Video demo of pinning notes on images (not downloaded; referenced only)."
+    },
+    {
+      "type": "video",
+      "url": "https://x.com/goldenagemoy/status/2115758567651475487/video/1",
+      "from_post": "2115758567651475487",
+      "description": "Video demo of timed notes on a video (not downloaded; referenced only)."
+    },
+    {
+      "type": "video",
+      "url": "https://x.com/goldenagemoy/status/2115758683103657996/video/1",
+      "from_post": "2115758683103657996",
+      "description": "Video demo of screen capture and markup (not downloaded; referenced only)."
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HVyvf22XkAATGW3.jpg",
+      "from_post": "2115758898988683771",
+      "description": "Three panels: annotated landing page, the REVIEW.md the agent reads, and the fixed result.",
+      "kind": "screenshot",
+      "thumbnail": "posts/2026/10/29/2115758035213930575/media/5.webp"
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HVyvoD1WoAA4KCN.jpg",
+      "from_post": "2115759039896305842",
+      "description": "Three images, each a screenshot with one note underneath.",
+      "kind": "screenshot",
+      "thumbnail": "posts/2026/10/29/2115758035213930575/media/6.webp"
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HVyvxG8WQAAL9ip.jpg",
+      "from_post": "2115759213947335015",
+      "description": "SnipToss logo with \"Free. Open source.\" and chips for Windows 11, MIT license and Mac version in progress.",
+      "kind": "other",
+      "thumbnail": "posts/2026/10/29/2115758035213930575/media/7.webp"
+    }
+  ]
+}

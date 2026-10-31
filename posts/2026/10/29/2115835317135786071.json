@@ -1,0 +1,127 @@
+{
+  "id": "2115835317135786071",
+  "permalink": "https://x.com/wiseadmitisfun/status/2115835317135786071",
+  "author": {
+    "name": "yourwifu",
+    "handle": "@wiseadmitisfun",
+    "profile_url": "https://x.com/wiseadmitisfun"
+  },
+  "posted_at": "2026-10-29T15:57:04Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [
+    {
+      "id": "2115835611609522458",
+      "permalink": "https://x.com/wiseadmitisfun/status/2115835611609522458",
+      "posted_at": "2026-10-29T15:58:14Z",
+      "position": 1
+    },
+    {
+      "id": "2115836026849771593",
+      "permalink": "https://x.com/wiseadmitisfun/status/2115836026849771593",
+      "posted_at": "2026-10-29T15:59:53Z",
+      "position": 2
+    },
+    {
+      "id": "2115836262162853905",
+      "permalink": "https://x.com/wiseadmitisfun/status/2115836262162853905",
+      "posted_at": "2026-10-29T16:00:49Z",
+      "position": 3
+    },
+    {
+      "id": "2115836490249097331",
+      "permalink": "https://x.com/wiseadmitisfun/status/2115836490249097331",
+      "posted_at": "2026-10-29T16:01:44Z",
+      "position": 4
+    },
+    {
+      "id": "2115836722349330740",
+      "permalink": "https://x.com/wiseadmitisfun/status/2115836722349330740",
+      "posted_at": "2026-10-29T16:02:39Z",
+      "position": 5
+    }
+  ],
+  "summary_md": "**yourwifu ([@wiseadmitisfun](https://x.com/wiseadmitisfun/status/2115835317135786071))** introduces **Arguseye**, an MIT MCP server, CLI and VS Code extension that renders any React, Next.js or Vue component with real props, layouts, theme and CSS without a dev server, returning a cropped screenshot, accessibility tree and diff since last render (104 ms warm re-render) so agents can see UI breaks ([DarkWorldCoder/arguseye](https://github.com/DarkWorldCoder/arguseye), [VS Code extension](https://marketplace.visualstudio.com/items?itemName=ayushniroula.arguseye), [site](https://darkworldcoder.github.io/arguseye#install)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/DarkWorldCoder/arguseye",
+      "from_post": "2115835317135786071",
+      "short_url": "https://t.co/plVz4KbyaH",
+      "title": "GitHub - DarkWorldCoder/arguseye: Preview React, browser-renderable Next.js and Vue components from source. UI edit evidence for coding agents and VS Code, without starting the app."
+    },
+    {
+      "url": "https://marketplace.visualstudio.com/items?itemName=ayushniroula.arguseye",
+      "from_post": "2115836490249097331",
+      "short_url": "https://t.co/DYN41Zy5bB",
+      "title": "Arguseye - Visual Studio Marketplace"
+    },
+    {
+      "url": "https://darkworldcoder.github.io/arguseye#install",
+      "from_post": "2115836722349330740",
+      "short_url": "https://t.co/jlB6zTF17A",
+      "title": "Arguseye — Component Preview for AI Agents & VS Code"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "arguseye",
+    "component-preview",
+    "visual-verification",
+    "mcp",
+    "react",
+    "vue"
+  ],
+  "relevance": "Visual verification for frontend coding agents.",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://x.com/wiseadmitisfun/status/2115835317135786071/video/1",
+      "from_post": "2115835317135786071",
+      "description": "Arguseye demo film (not downloaded; referenced only)."
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HVz1LKpaIAAbSIC.jpg",
+      "from_post": "2115835611609522458",
+      "description": "render_component call listing project files and a rendered pricing card in its layout.",
+      "kind": "screenshot",
+      "thumbnail": "posts/2026/10/29/2115835317135786071/media/1.webp"
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HVz1lJ2bgAEOlRA.jpg",
+      "from_post": "2115836026849771593",
+      "description": "Render output showing snapshot, status changed with 29,322 changed pixels and the button label diff.",
+      "kind": "code",
+      "thumbnail": "posts/2026/10/29/2115835317135786071/media/2.webp",
+      "ocr_text": "20%yearly\nPopular\nsnapshot\nheading\"Pro\"[level=3]\nparagraph: $19 /month\nbutton \"Choose Pro, save\n20% yearly\"\nchanges\nstatus: \"changed\"\nchangedPixels: 29322\nbutton\"Choose Pro\"\n+ button \"Choose Pro, save 20% yearly\""
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HVz1xnDbYAAll2e.jpg",
+      "from_post": "2115836262162853905",
+      "description": "Code editor beside a phone preview of the fixed pricing card.",
+      "kind": "screenshot",
+      "thumbnail": "posts/2026/10/29/2115835317135786071/media/3.webp"
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HVz1--Aa0AAxkVh.jpg",
+      "from_post": "2115836490249097331",
+      "description": "VS Code with the Arguseye live preview panel next to the component code.",
+      "kind": "screenshot",
+      "thumbnail": "posts/2026/10/29/2115835317135786071/media/4.webp"
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HVz2MfaaMAAwNrm.jpg",
+      "from_post": "2115836722349330740",
+      "description": "Arguseye logo card with the npx install command.",
+      "kind": "screenshot",
+      "thumbnail": "posts/2026/10/29/2115835317135786071/media/5.webp"
+    }
+  ]
+}

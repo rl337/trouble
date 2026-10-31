@@ -1,0 +1,43 @@
+{
+  "id": "2115707868737622496",
+  "permalink": "https://x.com/nick_spiz/status/2115707868737622496",
+  "author": {
+    "name": "Nick Spitsyn",
+    "handle": "@nick_spiz",
+    "profile_url": "https://x.com/nick_spiz"
+  },
+  "posted_at": "2026-10-29T07:30:38Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**Nick Spitsyn ([@nick_spiz](https://x.com/nick_spiz/status/2115707868737622496))** shares **inbox-to-brain**, which gives Claude Code a single inbox folder for notes plus two small scripts that file each note in the right place and flag junk, keeping agent memory as plain text without a database ([nickspiz/inbox-to-brain](https://github.com/nickspiz/inbox-to-brain)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/nickspiz/inbox-to-brain",
+      "from_post": "2115707868737622496",
+      "short_url": "https://t.co/BzP86w5Zb2",
+      "title": "GitHub - nickspiz/inbox-to-brain: Drop notes in an inbox. Your agent files them where they belong and flags the junk."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "inbox-to-brain",
+    "claude-code",
+    "agent-memory",
+    "plain-text"
+  ],
+  "relevance": "Simple, file-based persistent memory for coding agents.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HVyBFdfbsAAJbE8.jpg",
+      "from_post": "2115707868737622496",
+      "description": "Screenshot of the inbox-to-brain README showing a before/after file tree of notes being filed.",
+      "kind": "screenshot",
+      "thumbnail": "posts/2026/10/29/2115707868737622496/media/0.webp"
+    }
+  ]
+}

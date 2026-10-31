@@ -1,0 +1,42 @@
+{
+  "id": "2115771969207718070",
+  "permalink": "https://x.com/whitemoww/status/2115771969207718070",
+  "author": {
+    "name": "Summer不夏天",
+    "handle": "@whitemoww",
+    "profile_url": "https://x.com/whitemoww"
+  },
+  "posted_at": "2026-10-29T11:45:21Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**Summer不夏天 ([@whitemoww](https://x.com/whitemoww/status/2115771969207718070))** open-sources **summer-tech-talkcut**, a skill that edits tech talking-head and screen-recording footage into a polished style and outputs a multi-track Jianying (CapCut) draft for further tweaking ([SummerMilks/summer-tech-talkcut](https://github.com/SummerMilks/summer-tech-talkcut)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/SummerMilks/summer-tech-talkcut",
+      "from_post": "2115771969207718070",
+      "short_url": "https://t.co/f4BWAKHjo4",
+      "title": "GitHub - SummerMilks/summer-tech-talkcut: A reusable skill for editing technology talking-head videos and exporting Jianying drafts."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "summer-tech-talkcut",
+    "talking-head",
+    "video-editing",
+    "capcut",
+    "agent-skill"
+  ],
+  "relevance": "Agent skill producing editable NLE projects, not just renders.",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://x.com/whitemoww/status/2115771969207718070/video/1",
+      "from_post": "2115771969207718070",
+      "description": "Example of the edited tech talking-head video (not downloaded; referenced only)."
+    }
+  ]
+}

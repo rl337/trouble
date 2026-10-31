@@ -1,0 +1,32 @@
+{
+  "id": "2116229347220898141",
+  "permalink": "https://x.com/jasonjeske_ai/status/2116229347220898141",
+  "author": {
+    "name": "Jason Jeske",
+    "handle": "@jasonjeske_ai",
+    "profile_url": "https://x.com/jasonjeske_ai"
+  },
+  "posted_at": "2026-10-30T18:02:48Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**Jason Jeske ([@jasonjeske_ai](https://x.com/jasonjeske_ai/status/2116229347220898141))** publishes the free **Hermes Agent Masterclass** in reading order, now with Volume 6 on tuning and auditing Hermes ([jasonjeske/hermes-master-class](https://github.com/jasonjeske/hermes-master-class)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/jasonjeske/hermes-master-class",
+      "from_post": "2116229347220898141",
+      "short_url": "https://t.co/fJgpc04lX6",
+      "title": "GitHub - jasonjeske/hermes-master-class: The Hermes Agent Masterclass: Tony Simons' twelve-part series combined, indexed and illustrated, plus a ten-build track of copy-paste prompts checked against the official Hermes docs. Pure GitHub Markdown."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "hermes-agent",
+    "masterclass",
+    "agent-tuning"
+  ],
+  "relevance": "Learning material for the Hermes agent."
+}

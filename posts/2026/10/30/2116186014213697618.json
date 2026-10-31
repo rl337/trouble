@@ -1,0 +1,34 @@
+{
+  "id": "2116186014213697618",
+  "permalink": "https://x.com/SanemBuilds/status/2116186014213697618",
+  "author": {
+    "name": "Sanem Avcil",
+    "handle": "@SanemBuilds",
+    "profile_url": "https://x.com/SanemBuilds"
+  },
+  "posted_at": "2026-10-30T15:10:37Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**Sanem Avcil ([@SanemBuilds](https://x.com/SanemBuilds/status/2116186014213697618))** credits **WONTFIX** (audiologs), an MIT horror game where Claude turns your JIRA backlog into audio logs voiced by ElevenLabs, found in the dark on an abandoned station ([emollick/audiologs](https://github.com/emollick/audiologs)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/emollick/audiologs",
+      "from_post": "2116186014213697618",
+      "short_url": "https://t.co/S6DYruS5Tw",
+      "title": "GitHub - emollick/audiologs: A horror game made of JIRA tickets. Would you kindly turn your backlog into audio logs from an abandoned station? Claude writes them, ElevenLabs voices them, you find them in the dark."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "wontfix",
+    "audiolog",
+    "game",
+    "elevenlabs",
+    "jira"
+  ],
+  "relevance": "Playful agentic game content generation."
+}

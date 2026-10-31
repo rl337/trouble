@@ -1,0 +1,44 @@
+{
+  "id": "2116088841614565500",
+  "permalink": "https://x.com/zbs1354734/status/2116088841614565500",
+  "author": {
+    "name": "zbs",
+    "handle": "@zbs1354734",
+    "profile_url": "https://x.com/zbs1354734"
+  },
+  "posted_at": "2026-10-30T08:44:29Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [
+    {
+      "id": "2116088980496424976",
+      "permalink": "https://x.com/zbs1354734/status/2116088980496424976",
+      "posted_at": "2026-10-30T08:45:02Z",
+      "position": 1
+    }
+  ],
+  "summary_md": "**zbs ([@zbs1354734](https://x.com/zbs1354734/status/2116088841614565500))** publishes a tutorial and repo for a Douyin AI VTuber on Windows covering chat, voice, Live2D lip-sync, captions, song requests and OBS; a follow-up credits the Live2D model and the GPL-3.0 AI-Vtuber base ([zbsdsb/dafeiyu-ai-vtuber](https://github.com/zbsdsb/dafeiyu-ai-vtuber)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/zbsdsb/dafeiyu-ai-vtuber",
+      "from_post": "2116088841614565500",
+      "short_url": "https://t.co/SwZbx4cR20",
+      "title": "GitHub - zbsdsb/dafeiyu-ai-vtuber: 「大肥鱼」抖音 AI 虚拟主播定制版（fork 自 Luna AI / AI-Vtuber）：Fish 配音、横竖屏海底场景、字幕、口型、网易云点歌"
+    }
+  ],
+  "hashtags": [
+    "AIVTuber",
+    "Live2D"
+  ],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "ai-vtuber",
+    "live2d",
+    "obs",
+    "lip-sync",
+    "aivtuber"
+  ],
+  "relevance": "End-to-end agentic live avatar pipeline."
+}

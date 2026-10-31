@@ -1,0 +1,34 @@
+{
+  "id": "2115926771115634851",
+  "permalink": "https://x.com/kerbelp/status/2115926771115634851",
+  "author": {
+    "name": "Pavel Kerbel",
+    "handle": "@kerbelp",
+    "profile_url": "https://x.com/kerbelp"
+  },
+  "posted_at": "2026-10-29T22:00:28Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**Pavel Kerbel ([@kerbelp](https://x.com/kerbelp/status/2115926771115634851))** argues a coding agent should know why an approach was rejected, which constraint ruled it out and where it applies, and points to **Metatron**, a git-native context layer for coding agents ([kerbelp/metatron](https://github.com/kerbelp/metatron)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/kerbelp/metatron",
+      "from_post": "2115926771115634851",
+      "short_url": "https://t.co/Bw5MztfmWc",
+      "title": "GitHub - kerbelp/metatron: Git-native context layer for AI coding agents. Your team's real engineering decisions — patterns, pitfalls, conventions — live as reviewed markdown files in your repo; agents consult them before writing code and record what they learn. Files-first, no server required; MCP "
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "metatron",
+    "context-layer",
+    "design-rationale",
+    "coding-agent",
+    "git"
+  ],
+  "relevance": "Persisting design rationale for future agent sessions."
+}

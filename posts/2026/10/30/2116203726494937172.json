@@ -1,0 +1,44 @@
+{
+  "id": "2116203726494937172",
+  "permalink": "https://x.com/0xGky/status/2116203726494937172",
+  "author": {
+    "name": "Gk",
+    "handle": "@0xGky",
+    "profile_url": "https://x.com/0xGky"
+  },
+  "posted_at": "2026-10-30T16:21:00Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**Gk ([@0xGky](https://x.com/0xGky/status/2116203726494937172))** introduces **InkOS**, an open story-creation agent managing worldbuilding, characters, foreshadowing, review, revision and translation via Studio, TUI or CLI ([Narcooo/inkos](https://github.com/Narcooo/inkos)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/Narcooo/inkos",
+      "from_post": "2116203726494937172",
+      "short_url": "https://t.co/KqGO7bEpoa",
+      "title": "GitHub - Narcooo/inkos: Story Creation AI Agent for novel, scripts, translation, interactive games, and IP content"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-media",
+    "agentic-cognition"
+  ],
+  "keywords": [
+    "inkos",
+    "story-writing",
+    "creative-agent",
+    "worldbuilding"
+  ],
+  "relevance": "Structured agent for long-form creative writing.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV0xjDOa4AAkeN_.jpg",
+      "from_post": "2116203726494937172",
+      "description": "InkOS README header: Story Creation AI Agent.",
+      "kind": "screenshot",
+      "thumbnail": "posts/2026/10/30/2116203726494937172/media/0.webp"
+    }
+  ]
+}

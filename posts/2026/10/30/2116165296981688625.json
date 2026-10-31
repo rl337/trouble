@@ -1,0 +1,45 @@
+{
+  "id": "2116165296981688625",
+  "permalink": "https://x.com/OKKazooo/status/2116165296981688625",
+  "author": {
+    "name": "OK Kazoo",
+    "handle": "@OKKazooo",
+    "profile_url": "https://x.com/OKKazooo"
+  },
+  "posted_at": "2026-10-30T13:48:17Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**OK Kazoo ([@OKKazooo](https://x.com/OKKazooo/status/2116165296981688625))** built **MOTNGRFX**, where a locally run Gemma 4 designs a kinetic-type piece from photos, clips, music or words, LTX 2.5 renders it and LTX mattes place text behind and through the subject ([okkazoo/MOTNGRFX](https://github.com/okkazoo/MOTNGRFX)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/okkazoo/MOTNGRFX",
+      "from_post": "2116165296981688625",
+      "short_url": "https://t.co/QNQduH0YKL",
+      "title": "GitHub - okkazoo/MOTNGRFX: Open-weights kinetic-type motion graphics: a ComfyUI node pack + browser app (Gemma 4, LTX 2.5, ACE-Step, MOSS)"
+    }
+  ],
+  "hashtags": [
+    "OpenSourceHiggsfield"
+  ],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "motngrfx",
+    "gemma-4",
+    "ltx-2.5",
+    "kinetic-typography",
+    "motion-graphic",
+    "opensourcehiggsfield"
+  ],
+  "relevance": "Local-model-directed motion graphics.",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://x.com/OKKazooo/status/2116165296981688625/video/1",
+      "from_post": "2116165296981688625",
+      "description": "Kinetic type wrapping around a subject (not downloaded; referenced only)."
+    }
+  ]
+}

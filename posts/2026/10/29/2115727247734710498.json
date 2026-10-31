@@ -1,0 +1,46 @@
+{
+  "id": "2115727247734710498",
+  "permalink": "https://x.com/ComputerPapers/status/2115727247734710498",
+  "author": {
+    "name": "Software Engineering Papers",
+    "handle": "@ComputerPapers",
+    "profile_url": "https://x.com/ComputerPapers"
+  },
+  "posted_at": "2026-10-29T08:47:38Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**Software Engineering Papers ([@ComputerPapers](https://x.com/ComputerPapers/status/2115727247734710498))** shares *Hidden in Plain Sight* ([arXiv 2610.37332](https://arxiv.org/abs/2610.37332)), a longitudinal study of the instruction stacks (system prompts, tool definitions, environment context) in 1,886 releases of Claude Code, Codex, Gemini CLI, Qwen Code and OpenCode, tracing how those stacks are composed and how they evolve.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.37332",
+      "from_post": "2115727247734710498",
+      "short_url": "https://t.co/BHyJBYS5g3",
+      "title": "Hidden in Plain Sight: an Empirical Study about The Instruction..."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "instruction-stack",
+    "system-prompt",
+    "claude-code",
+    "codex",
+    "gemini-cli",
+    "opencode"
+  ],
+  "relevance": "Empirical look at how real harnesses build their prompts.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HVySuG-WkAAU0gT.png",
+      "from_post": "2115727247734710498",
+      "description": "Image of the paper's abstract text.",
+      "kind": "paper",
+      "thumbnail": "posts/2026/10/29/2115727247734710498/media/0.webp",
+      "ocr_text": "Coding agents send their models more than the user's prompt: they add instructions, tool definitions, and environmental context that form an instruction stack. This stack guides execution and changes across releases, yet remains largely unexposed to users and insufficiently characterized in research. We present a longitudinal, cross-agent study of the instruction stacks captured in the first model requests of 1,886 releases of Claude Code, Codex, Gemini CLI, Qwen Code, and OpenCode. Under controlled conditions, we analyze their composition and evolution and trace changes in the four open-source agents to documented motivations. Our findings show why examining the system prompt or reporting the model alone provides an incomplete account of agent inputs. Tool definitions dominate three agents' latest requests, while occasional concentrated revisions alter instructions governing tool use, attribution, and coding style. Such revisions can complicate how researchers identify agent-authored"
+    }
+  ]
+}

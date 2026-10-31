@@ -1,0 +1,44 @@
+{
+  "id": "2116171043249476065",
+  "permalink": "https://x.com/Secretof_forest/status/2116171043249476065",
+  "author": {
+    "name": "AI_Pioneer",
+    "handle": "@Secretof_forest",
+    "profile_url": "https://x.com/Secretof_forest"
+  },
+  "posted_at": "2026-10-30T14:11:07Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**AI_Pioneer ([@Secretof_forest](https://x.com/Secretof_forest/status/2116171043249476065))** explains inclusionAI's *Intrinsic Distribution Matching* ([arXiv 2610.39633](https://arxiv.org/abs/2610.39633)), adding a feature-moment loss to DMD distillation via the generator's own EMA copy, reporting 94.25%/90.20% on Chinese/English LongText-Bench at 2 NFE for Z-Image-Turbo and Qwen-Image.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.39633",
+      "from_post": "2116171043249476065",
+      "short_url": "https://t.co/FEv8F80NOF",
+      "title": "Intrinsic Distribution Matching"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "intrinsic-distribution-matching",
+    "dmd-distillation",
+    "z-image-turbo",
+    "qwen-image",
+    "few-step-generation"
+  ],
+  "relevance": "Faster few-step image generation.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV4mUItaIAAq6fl.png",
+      "from_post": "2116171043249476065",
+      "description": "arXiv abstract page of Intrinsic Distribution Matching.",
+      "kind": "screenshot",
+      "thumbnail": "posts/2026/10/30/2116171043249476065/media/0.webp"
+    }
+  ]
+}

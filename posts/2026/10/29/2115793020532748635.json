@@ -1,0 +1,34 @@
+{
+  "id": "2115793020532748635",
+  "permalink": "https://x.com/Easycompany333/status/2115793020532748635",
+  "author": {
+    "name": "Easycompany",
+    "handle": "@Easycompany333",
+    "profile_url": "https://x.com/Easycompany333"
+  },
+  "posted_at": "2026-10-29T13:09:00Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**Easycompany ([@Easycompany333](https://x.com/Easycompany333/status/2115793020532748635))** reviews **claude-video-effects**, a Claude Code skill: drop in a talking-head clip, type `/effects orbit`, and it detects the face and renders effects such as orbiting reels that pass behind the head, spotlights and countdowns, timed by natural language; it needs ffmpeg and Python, renders a draft for review, and lacks sound effects and captions ([Vibha-Ramprakash/claude-video-effects](https://github.com/Vibha-Ramprakash/claude-video-effects)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/Vibha-Ramprakash/claude-video-effects",
+      "from_post": "2115793020532748635",
+      "short_url": "https://t.co/veJqackKaB",
+      "title": "GitHub - Vibha-Ramprakash/claude-video-effects: 36 video effects for Claude Code: drop in a talking-head clip, type /effects orbit. Face tracking, behind-your-head layers. By @vibha.in.progress"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "claude-video-effects",
+    "video-effect",
+    "claude-code",
+    "agent-skill",
+    "face-tracking"
+  ],
+  "relevance": "Natural-language motion effects for talking-head video."
+}

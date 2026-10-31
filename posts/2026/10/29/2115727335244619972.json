@@ -1,0 +1,48 @@
+{
+  "id": "2115727335244619972",
+  "permalink": "https://x.com/Omer_Hoffman/status/2115727335244619972",
+  "author": {
+    "name": "Hoffman",
+    "handle": "@Omer_Hoffman",
+    "profile_url": "https://x.com/Omer_Hoffman"
+  },
+  "posted_at": "2026-10-29T08:47:59Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [
+    {
+      "id": "2116090372145533216",
+      "permalink": "https://x.com/Omer_Hoffman/status/2116090372145533216",
+      "posted_at": "2026-10-30T08:50:34Z",
+      "position": 1
+    }
+  ],
+  "summary_md": "**Hoffman ([@Omer_Hoffman](https://x.com/Omer_Hoffman/status/2115727335244619972))** releases a **Sandstorm IC-LoRA** for LTX-2.5 that re-renders an input clip inside a storm of chosen density using the trigger phrase \"ADD SANDSTORM\" at strength 1, and follows up with a further demo clip of the effect ([Hugging Face](https://huggingface.co/Hoffm4nz/LTX-2.5-22b-IC-LoRA-Sandstorm)).",
+  "referenced_urls": [
+    {
+      "url": "https://huggingface.co/Hoffm4nz/LTX-2.5-22b-IC-LoRA-Sandstorm",
+      "from_post": "2115727335244619972",
+      "short_url": "https://t.co/iqX4YTjh2H",
+      "title": "Hoffm4nz/LTX-2.5-22b-IC-LoRA-Sandstorm · Hugging Face"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "ltx-2.5",
+    "ic-lora",
+    "video-effect",
+    "lora"
+  ],
+  "relevance": "Open video-to-video effect LoRA for local pipelines.",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://x.com/Omer_Hoffman/status/2116090372145533216/video/1",
+      "from_post": "2116090372145533216",
+      "description": "Follow-up video showing the Sandstorm IC-LoRA effect on a clip (not downloaded; referenced only)."
+    }
+  ]
+}

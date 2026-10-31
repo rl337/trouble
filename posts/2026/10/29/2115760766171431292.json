@@ -1,0 +1,68 @@
+{
+  "id": "2115760766171431292",
+  "permalink": "https://x.com/Eilumie/status/2115760766171431292",
+  "author": {
+    "name": "Eilumie ୨୧",
+    "handle": "@Eilumie",
+    "profile_url": "https://x.com/Eilumie"
+  },
+  "posted_at": "2026-10-29T11:00:50Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**Eilumie ୨୧ ([@Eilumie](https://x.com/Eilumie/status/2115760766171431292))** built **MCP Token Lab** to compare MCP tool-loading, caching and compression strategies with token and LLM cost estimates, no API keys, since progressive discovery advice needs data ([Enlacia/mcp-token-lab](https://github.com/Enlacia/mcp-token-lab)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/Enlacia/mcp-token-lab",
+      "from_post": "2115760766171431292",
+      "short_url": "https://t.co/Qp9B2f02la",
+      "title": "GitHub - Enlacia/mcp-token-lab: Visualize and compare MCP agent context strategies: tool loading, token usage, prompt caching, compression, and estimated LLM costs. No API keys required."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "mcp-token-lab",
+    "mcp",
+    "context-cost",
+    "tool-loading",
+    "caching"
+  ],
+  "relevance": "Quantifies MCP context cost choices for harness design.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HVyxJHHbIAA0Cmw.png",
+      "from_post": "2115760766171431292",
+      "description": "MCP Token Lab comparison dashboard with cost per strategy and an execution timeline.",
+      "kind": "screenshot",
+      "thumbnail": "posts/2026/10/29/2115760766171431292/media/0.webp"
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HVyxJHEbkAAc689.png",
+      "from_post": "2115760766171431292",
+      "description": "Global settings and comparison view listing strategy costs.",
+      "kind": "screenshot",
+      "thumbnail": "posts/2026/10/29/2115760766171431292/media/1.webp"
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HVyxJG7bIAAolDN.png",
+      "from_post": "2115760766171431292",
+      "description": "Template picker dialog for choosing a strategy template.",
+      "kind": "screenshot",
+      "thumbnail": "posts/2026/10/29/2115760766171431292/media/2.webp"
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HVyxJG1aEAAZbrf.png",
+      "from_post": "2115760766171431292",
+      "description": "Request-detail view of turns and token usage.",
+      "kind": "screenshot",
+      "thumbnail": "posts/2026/10/29/2115760766171431292/media/3.webp"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "2116100072748314785",
+  "permalink": "https://x.com/hasajedi/status/2116100072748314785",
+  "author": {
+    "name": "Edi Hasaj",
+    "handle": "@hasajedi",
+    "profile_url": "https://x.com/hasajedi"
+  },
+  "posted_at": "2026-10-30T09:29:07Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**Edi Hasaj ([@hasajedi](https://x.com/hasajedi/status/2116100072748314785))** shares a **spark-qwen-recipe** for stable Qwen coding workers on DGX Spark: 10 slots per Spark, a 2,200 MHz GPU clock cap, temperature monitoring and safe worker operations, built on eugr's stack ([edihasaj/spark-qwen-recipe](https://github.com/edihasaj/spark-qwen-recipe)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/edihasaj/spark-qwen-recipe",
+      "from_post": "2116100072748314785",
+      "short_url": "https://t.co/YX4fTIHNa3",
+      "title": "GitHub - edihasaj/spark-qwen-recipe: Qwen coding workers on DGX Spark: a conservative GPU clock ceiling, thermal observations, serving settings and safe operations built on eugr’s stack."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "local-models"
+  ],
+  "keywords": [
+    "spark-qwen-recipe",
+    "dgx-spark",
+    "qwen",
+    "gpu-clock",
+    "coding-agent"
+  ],
+  "relevance": "Practical DGX Spark operating recipe for Qwen agents."
+}

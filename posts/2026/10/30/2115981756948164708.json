@@ -1,0 +1,43 @@
+{
+  "id": "2115981756948164708",
+  "permalink": "https://x.com/DesignMakerChen/status/2115981756948164708",
+  "author": {
+    "name": "DesignMaker",
+    "handle": "@DesignMakerChen",
+    "profile_url": "https://x.com/DesignMakerChen"
+  },
+  "posted_at": "2026-10-30T01:38:58Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**DesignMaker ([@DesignMakerChen](https://x.com/DesignMakerChen/status/2115981756948164708))** built **Picky**, an open-weights film studio for MiniMax H3 in ComfyUI that keeps every take on its scene and every prompt version, letting you build on your pick or drive it from an agent ([chenthedesignmaker/ComfyUI-Picky](https://github.com/chenthedesignmaker/ComfyUI-Picky)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/chenthedesignmaker/ComfyUI-Picky",
+      "from_post": "2115981756948164708",
+      "short_url": "https://t.co/3hgn5J6AWX",
+      "title": "GitHub - chenthedesignmaker/ComfyUI-Picky: Render it ten ways, keep the one you love. An open-weights film studio for MiniMax H3 in ComfyUI: takes, lineage, cast and an agent skill."
+    }
+  ],
+  "hashtags": [
+    "OpenSourceHiggsfield"
+  ],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "picky",
+    "comfyui",
+    "minimax-h3",
+    "take-management"
+  ],
+  "relevance": "Take management for generative video.",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://x.com/DesignMakerChen/status/2115981756948164708/video/1",
+      "from_post": "2115981756948164708",
+      "description": "Picky demo (not downloaded; referenced only)."
+    }
+  ]
+}

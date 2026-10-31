@@ -1,0 +1,42 @@
+{
+  "id": "2116246347309634002",
+  "permalink": "https://x.com/QwenAIFans/status/2116246347309634002",
+  "author": {
+    "name": "Qwen AI Fans",
+    "handle": "@QwenAIFans",
+    "profile_url": "https://x.com/QwenAIFans"
+  },
+  "posted_at": "2026-10-30T19:10:21Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**Qwen AI Fans ([@QwenAIFans](https://x.com/QwenAIFans/status/2116246347309634002))** notes Canonical's **Qwen3-Coder inference snap** with Workshop on Ubuntu for a fully offline, isolated local coding agent that auto-selects CPU, AMD or NVIDIA ([canonical/qwen3-coder-snap](https://github.com/canonical/qwen3-coder-snap)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/canonical/qwen3-coder-snap",
+      "from_post": "2116246347309634002",
+      "short_url": "https://t.co/JEbqwkmA6p",
+      "title": "GitHub - canonical/qwen3-coder-snap: Local inference with Qwen 3 Coder"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "local-models",
+    "harness-dev"
+  ],
+  "keywords": [
+    "qwen3-coder",
+    "snap",
+    "ubuntu",
+    "local-coding-agent"
+  ],
+  "relevance": "Packaged local coding model.",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://x.com/QwenAIFans/status/2116246347309634002/video/1",
+      "from_post": "2116246347309634002",
+      "description": "Snap install and offline coding demo (not downloaded; referenced only)."
+    }
+  ]
+}

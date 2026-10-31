@@ -1,0 +1,33 @@
+{
+  "id": "2116262684756734429",
+  "permalink": "https://x.com/rpinho_sci/status/2116262684756734429",
+  "author": {
+    "name": "Ricardo Pinho",
+    "handle": "@rpinho_sci",
+    "profile_url": "https://x.com/rpinho_sci"
+  },
+  "posted_at": "2026-10-30T20:15:16Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**Ricardo Pinho ([@rpinho_sci](https://x.com/rpinho_sci/status/2116262684756734429))** reports his agents filed three unrefereed bounds to the optimization constants table (C44 ≤ 4.1225324, C86 ≤ 1.80697883, C68 ≥ 0.44667) as open PRs, building on prior lemmas and polynomials ([teorth/optimizationproblems PRs](https://github.com/teorth/optimizationproblems/pulls/rpinho)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/teorth/optimizationproblems/pulls/rpinho",
+      "from_post": "2116262684756734429",
+      "short_url": "https://t.co/rIN1C1hv2n",
+      "title": "Pull requests · teorth/optimizationproblems"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-cognition"
+  ],
+  "keywords": [
+    "optimization-constant",
+    "ai-math",
+    "agent-discovery",
+    "bound"
+  ],
+  "relevance": "Agents contributing to open math problems."
+}

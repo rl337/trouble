@@ -1,0 +1,54 @@
+{
+  "id": "2115965862062768618",
+  "permalink": "https://x.com/0xpolarzero/status/2115965862062768618",
+  "author": {
+    "name": "polarzero",
+    "handle": "@0xpolarzero",
+    "profile_url": "https://x.com/0xpolarzero"
+  },
+  "posted_at": "2026-10-30T00:35:48Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**polarzero ([@0xpolarzero](https://x.com/0xpolarzero/status/2115965862062768618))** added two mods on top of Claude Code: **lcu**, Codex computer use decoupled for any harness, and **lastdrop**, which uses other AI subscriptions as load-balanced subagents ([amontlabs/lcu](https://github.com/amontlabs/lcu), [amontlabs/lastdrop](https://github.com/amontlabs/lastdrop/)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/amontlabs/lcu",
+      "from_post": "2115965862062768618",
+      "short_url": "https://t.co/cpeMCctQR8",
+      "title": "GitHub - amontlabs/lcu: Codex computer use, decoupled from the app, for usage inside any harness."
+    },
+    {
+      "url": "https://github.com/amontlabs/lastdrop/",
+      "from_post": "2115965862062768618",
+      "short_url": "https://t.co/0AgGQApvmF",
+      "title": "GitHub - amontlabs/lastdrop: Use any AI subscription as built-in subagents in Claude Code, load-balanced across your accounts."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "lcu",
+    "lastdrop",
+    "computer-use",
+    "subagent",
+    "claude-code"
+  ],
+  "relevance": "Extending a harness with computer use and multi-provider subagents.",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://x.com/0xpolarzero/status/2115965862062768618/video/1",
+      "from_post": "2115965862062768618",
+      "description": "Computer use showcase (not downloaded; referenced only)."
+    },
+    {
+      "type": "video",
+      "url": "https://x.com/0xpolarzero/status/2115965862062768618/video/2",
+      "from_post": "2115965862062768618",
+      "description": "Subagent showcase (not downloaded; referenced only)."
+    }
+  ]
+}

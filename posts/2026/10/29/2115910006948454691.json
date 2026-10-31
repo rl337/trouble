@@ -1,0 +1,33 @@
+{
+  "id": "2115910006948454691",
+  "permalink": "https://x.com/thrawn01/status/2115910006948454691",
+  "author": {
+    "name": "Derrick Wippler",
+    "handle": "@thrawn01",
+    "profile_url": "https://x.com/thrawn01"
+  },
+  "posted_at": "2026-10-29T20:53:52Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**Derrick Wippler ([@thrawn01](https://x.com/thrawn01/status/2115910006948454691))** reports his agent now runs **Dispatch**, directing Claude Code across 5+ tickets on his OSS projects while he only approves ([kapetan-io/dispatch](https://github.com/kapetan-io/dispatch/)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/kapetan-io/dispatch/",
+      "from_post": "2115910006948454691",
+      "short_url": "https://t.co/8gLkyKypyF",
+      "title": "GitHub - kapetan-io/dispatch: Autonomous build workflow for Claude Code: design with you, then build approved Linear tickets into merged PRs"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "dispatch",
+    "claude-code",
+    "autonomous-build",
+    "ticket"
+  ],
+  "relevance": "Supervisor-agent workflow over coding agents."
+}

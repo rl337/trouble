@@ -1,0 +1,44 @@
+{
+  "id": "2116065134468853952",
+  "permalink": "https://x.com/ShadabLoveAi/status/2116065134468853952",
+  "author": {
+    "name": "Shadab Shams",
+    "handle": "@ShadabLoveAi",
+    "profile_url": "https://x.com/ShadabLoveAi"
+  },
+  "posted_at": "2026-10-30T07:10:17Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**Shadab Shams ([@ShadabLoveAi](https://x.com/ShadabLoveAi/status/2116065134468853952))** highlights **AutoShorts**, an open-source, local-first desktop take on Opus Clip that finds and ranks viral moments in long videos, auto-crops to 9:16 with FFmpeg and adds animated captions ([JayWebtech/autoshorts](https://github.com/JayWebtech/autoshorts)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/JayWebtech/autoshorts",
+      "from_post": "2116065134468853952",
+      "short_url": "https://t.co/KWniyXfb8f",
+      "title": "GitHub - JayWebtech/autoshorts: AutoShorts is a local-first desktop application for turning long-form video or audio recordings into high-impact, vertical short-form clip candidates (9:16 portrait) with AI-powered viral moment ranking."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "autoshorts",
+    "ffmpeg",
+    "short-form-video",
+    "caption",
+    "video-editing"
+  ],
+  "relevance": "Local automated short-form video editing pipeline.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV3F4habwAAqOZm.jpg",
+      "from_post": "2116065134468853952",
+      "description": "AutoShorts README with a dark desktop UI listing detected clip candidates beside a video preview.",
+      "kind": "screenshot",
+      "thumbnail": "posts/2026/10/30/2116065134468853952/media/0.webp"
+    }
+  ]
+}

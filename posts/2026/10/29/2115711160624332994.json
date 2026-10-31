@@ -1,0 +1,50 @@
+{
+  "id": "2115711160624332994",
+  "permalink": "https://x.com/arnaudmercier/status/2115711160624332994",
+  "author": {
+    "name": "Arnaud Mercier - #Entrepreneur #Versailles",
+    "handle": "@arnaudmercier",
+    "profile_url": "https://x.com/arnaudmercier"
+  },
+  "posted_at": "2026-10-29T07:43:43Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**Arnaud Mercier - #Entrepreneur #Versailles ([@arnaudmercier](https://x.com/arnaudmercier/status/2115711160624332994))** shares **Concordat: Typed Sessions for LLM Agents** ([arXiv 2610.37461](https://arxiv.org/html/2610.37461v1)), which enforces conversation protocols such as \"get explicit confirmation before changing anything\" with session types around an untrusted model rather than relying on prompts, with code at [miladsikaroudi/concordat](https://github.com/miladsikaroudi/concordat).",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/html/2610.37461v1",
+      "from_post": "2115711160624332994",
+      "short_url": "https://t.co/q1TyFqShMn",
+      "title": "Concordat: Typed Sessions for LLM Agents Enforcing conversation protocols on a model that cannot be trusted to follow them"
+    },
+    {
+      "url": "https://github.com/miladsikaroudi/concordat",
+      "from_post": "2115711160624332994",
+      "short_url": "https://t.co/2sOoLGhNo6"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "concordat",
+    "session-type",
+    "agent-protocol",
+    "guardrail",
+    "tool-use"
+  ],
+  "relevance": "Protocol enforcement outside the model is a robust harness-design pattern.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HVyEEm5XMAAIies.jpg",
+      "from_post": "2115711160624332994",
+      "description": "Figure from the paper: a code listing alongside the protocol state diagram Concordat enforces.",
+      "kind": "code",
+      "thumbnail": "posts/2026/10/29/2115711160624332994/media/0.webp",
+      "ocr_text": "Listing 1:A refund agent. The protocol is built from thedecorators.\nclass RefundAgent(Agent):\nfinal =\"refunded\",\"denied\"?\nbudget = Budget(tokens=50_ooo,tool_calls=10)\n@tool(when=\"start\",then={True:\"verified\",False:\"denied\"3)\ndef verify_identity(self, user_id: str) -> bool:\n@tool(when=\"verified\",then=\"awaiting_approval\")\ndef propose_refund(self, amount:float) -> float:\n@human(when=\"awaiting_approval\",approve=\"refunded\",reject=\"denied\")\ndef approve_refund(self, amount: float) -> str:\nIeturn f\"Refund$Eamount??非showntothehumanapprover\nrefunded\nhuman approves\nverify_identity\npropose_refund\nstart\nverified\nawaiting_approval\nhuman rejects\ndenied\nverify_identity\nFigure 1: The protocol derived from Listing 1. Concordat renders such diagrams directly from the class."
+    }
+  ]
+}

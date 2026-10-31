@@ -1,0 +1,41 @@
+{
+  "id": "2115962853463396395",
+  "permalink": "https://x.com/NVIDIAAI/status/2115962853463396395",
+  "author": {
+    "name": "NVIDIA AI",
+    "handle": "@NVIDIAAI",
+    "profile_url": "https://x.com/NVIDIAAI"
+  },
+  "posted_at": "2026-10-30T00:23:51Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**NVIDIA AI ([@NVIDIAAI](https://x.com/NVIDIAAI/status/2115962853463396395))** demos **Nemotron Retriever** against another open retrieval stack on the same questions, comparing evidence, accuracy and token use, with open models and recipes on Hugging Face ([blog](https://huggingface.co/blog/nvidia/nemotron-retriever-world-class-agentic-retrieval)).",
+  "referenced_urls": [
+    {
+      "url": "https://huggingface.co/blog/nvidia/nemotron-retriever-world-class-agentic-retrieval",
+      "from_post": "2115962853463396395",
+      "short_url": "https://t.co/esPYeleqW8"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "local-models",
+    "harness-dev"
+  ],
+  "keywords": [
+    "nemotron-retriever",
+    "agentic-retrieval",
+    "rag",
+    "token-efficiency"
+  ],
+  "relevance": "Token-efficient agentic retrieval with open NVIDIA models.",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://x.com/NVIDIAAI/status/2115962853463396395/video/1",
+      "from_post": "2115962853463396395",
+      "description": "Side-by-side retrieval demo (not downloaded; referenced only)."
+    }
+  ]
+}

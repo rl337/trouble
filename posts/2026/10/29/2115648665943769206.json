@@ -8,9 +8,16 @@
   },
   "posted_at": "2026-10-29T03:35:23Z",
   "collected_at": "2026-10-29T16:31:16Z",
-  "updated_at": "2026-10-29T16:31:16Z",
-  "thread": [],
-  "summary_md": "**Marko Vale ([@MarkFutureai](https://x.com/MarkFutureai/status/2115648665943769206))** (in Chinese) shares **LoopPrism**, a zero-config local session inspector for Claude Code and Codex that stores data in SQLite and replays each tool call with its cost, showing what fills the context and where time and tokens go.",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [
+    {
+      "id": "2116093704528412766",
+      "permalink": "https://x.com/MarkFutureai/status/2116093704528412766",
+      "posted_at": "2026-10-30T09:03:48Z",
+      "position": 1
+    }
+  ],
+  "summary_md": "**Marko Vale ([@MarkFutureai](https://x.com/MarkFutureai/status/2115648665943769206))** (in Chinese) shares **LoopPrism**, a zero-config local session inspector for Claude Code and Codex that stores data in SQLite and replays each tool call with its cost, showing what fills the context and where time and tokens go. A follow-up asks readers who find it useful to star the [AMark-CS/LoopPrism](https://github.com/AMark-CS/LoopPrism) repo.",
   "referenced_urls": [
     {
       "url": "https://github.com/AMark-CS/LoopPrism",

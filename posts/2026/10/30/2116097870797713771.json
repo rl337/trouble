@@ -1,0 +1,36 @@
+{
+  "id": "2116097870797713771",
+  "permalink": "https://x.com/reposapo/status/2116097870797713771",
+  "author": {
+    "name": "HASHIMOTO Hiroki",
+    "handle": "@reposapo",
+    "profile_url": "https://x.com/reposapo"
+  },
+  "posted_at": "2026-10-30T09:20:22Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**HASHIMOTO Hiroki ([@reposapo](https://x.com/reposapo/status/2116097870797713771))** explains **CORAL** from *Don't Lose the Thread* ([arXiv 2610.40350](https://arxiv.org/abs/2610.40350v1)): long-horizon agents drift because memory fills up, so CORAL keeps only checkpoints and resets the working context mid-task, cutting tokens 6–7× while keeping accuracy.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.40350v1",
+      "from_post": "2116097870797713771",
+      "short_url": "https://t.co/mLwdB9YaaC",
+      "title": "Don't Lose the Thread: Empowering Long-Horizon LLM Agents with..."
+    }
+  ],
+  "hashtags": [
+    "LLM",
+    "AIエージェント"
+  ],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "coral",
+    "context-management",
+    "long-horizon-agent",
+    "checkpoint"
+  ],
+  "relevance": "Context-reset technique for long-running agent harnesses."
+}

@@ -1,0 +1,37 @@
+{
+  "id": "2115725806689525910",
+  "permalink": "https://x.com/xiaoanlab/status/2115725806689525910",
+  "author": {
+    "name": "XiaoAnLab",
+    "handle": "@xiaoanlab",
+    "profile_url": "https://x.com/xiaoanlab"
+  },
+  "posted_at": "2026-10-29T08:41:55Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**XiaoAnLab ([@xiaoanlab](https://x.com/xiaoanlab/status/2115725806689525910))** highlights **BAMA (Build Any Mac App)**, agent skills covering research, cloning, design, build, optimization and testing for native Mac apps in Swift and SwiftUI, aimed at indie developers ([daveebbelaar/bama](https://github.com/daveebbelaar/bama)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/daveebbelaar/bama",
+      "from_post": "2115725806689525910",
+      "short_url": "https://t.co/Ox0xXDvOg9",
+      "title": "GitHub - daveebbelaar/bama: BAMA: Build Any Mac App. Agent skills to research, clone, design, build, optimize, and test native macOS apps with Swift and SwiftUI."
+    }
+  ],
+  "hashtags": [
+    "开源",
+    "Mac开发"
+  ],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "bama",
+    "agent-skill",
+    "swift",
+    "swiftui",
+    "macos"
+  ],
+  "relevance": "End-to-end skill pipeline for agent-built native apps."
+}

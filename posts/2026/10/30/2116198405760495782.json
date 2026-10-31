@@ -1,0 +1,33 @@
+{
+  "id": "2116198405760495782",
+  "permalink": "https://x.com/VulcanBench/status/2116198405760495782",
+  "author": {
+    "name": "VulcanBench",
+    "handle": "@VulcanBench",
+    "profile_url": "https://x.com/VulcanBench"
+  },
+  "posted_at": "2026-10-30T15:59:51Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**VulcanBench ([@VulcanBench](https://x.com/VulcanBench/status/2116198405760495782))** releases **VulcanBench v0.10.0**, logging tool calls under one schema across 11 harnesses, backfilling older runs and adding a Mirror harness with full traces ([release](https://github.com/morganlinton/VulcanBench/releases/tag/v0.10.0)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/morganlinton/VulcanBench/releases/tag/v0.10.0",
+      "from_post": "2116198405760495782",
+      "short_url": "https://t.co/7lTKCmsl27",
+      "title": "Release v0.10.0 · morganlinton/VulcanBench"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "vulcanbench",
+    "benchmark",
+    "tool-call",
+    "agent-harness"
+  ],
+  "relevance": "Cross-harness tool-call benchmarking."
+}

@@ -1,0 +1,33 @@
+{
+  "id": "2116162741283307683",
+  "permalink": "https://x.com/RachhekShrestha/status/2116162741283307683",
+  "author": {
+    "name": "Rachhek",
+    "handle": "@RachhekShrestha",
+    "profile_url": "https://x.com/RachhekShrestha"
+  },
+  "posted_at": "2026-10-30T13:38:08Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**Rachhek ([@RachhekShrestha](https://x.com/RachhekShrestha/status/2116162741283307683))** points to Hugging Face's *A curriculum for post-training agents* ([blog](https://huggingface.co/blog/huggingface/train-agents)), which trains the model to be good inside a harness: imitate experts, get coached, then RL in real environments.",
+  "referenced_urls": [
+    {
+      "url": "https://huggingface.co/blog/huggingface/train-agents",
+      "from_post": "2116162741283307683",
+      "short_url": "https://t.co/eIPlkJzbEn",
+      "title": "A curriculum for post-training agents"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "agent-post-training",
+    "curriculum",
+    "reinforcement-learning",
+    "imitation-learning"
+  ],
+  "relevance": "Model-side complement to harness engineering."
+}

@@ -1,0 +1,44 @@
+{
+  "id": "2115822543646900247",
+  "permalink": "https://x.com/iamalexkorotin/status/2115822543646900247",
+  "author": {
+    "name": "Alex Korotin",
+    "handle": "@iamalexkorotin",
+    "profile_url": "https://x.com/iamalexkorotin"
+  },
+  "posted_at": "2026-10-29T15:06:19Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**Alex Korotin ([@iamalexkorotin](https://x.com/iamalexkorotin/status/2115822543646900247))** built **Tough AI Paper Reviewer**, a large prompt for Claude Code or Codex in which eight sub-agents check a paper's proofs, experiments and novelty against relevant literature before submission ([iamalexkorotin/ToughAIPaperReviewer](https://github.com/iamalexkorotin/ToughAIPaperReviewer)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/iamalexkorotin/ToughAIPaperReviewer",
+      "from_post": "2115822543646900247",
+      "short_url": "https://t.co/daJbsyZGTt",
+      "title": "GitHub - iamalexkorotin/ToughAIPaperReviewer: A large prompt for agentic systems to prepare a careful review for paper before submission."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev",
+    "agentic-cognition"
+  ],
+  "keywords": [
+    "tough-ai-paper-reviewer",
+    "peer-review",
+    "sub-agent",
+    "research"
+  ],
+  "relevance": "Multi-agent critical review as a reusable prompt.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HVzoaa0W0AE8IQ-.jpg",
+      "from_post": "2115822543646900247",
+      "description": "Cartoon of an owl robot holding a paper with red marks between two stressed researchers.",
+      "kind": "other",
+      "thumbnail": "posts/2026/10/29/2115822543646900247/media/0.webp"
+    }
+  ]
+}

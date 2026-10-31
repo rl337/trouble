@@ -1,0 +1,34 @@
+{
+  "id": "2116067145662742690",
+  "permalink": "https://x.com/DeaglePc/status/2116067145662742690",
+  "author": {
+    "name": "deaglepc",
+    "handle": "@DeaglePc",
+    "profile_url": "https://x.com/DeaglePc"
+  },
+  "posted_at": "2026-10-30T07:18:16Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**deaglepc ([@DeaglePc](https://x.com/DeaglePc/status/2116067145662742690))** explains that Docker's **MCP Gateway** can allowlist only the tools you need from a given MCP server and group servers into exportable profiles; standalone CLI users must enable profiles first ([docker/mcp-gateway](https://github.com/docker/mcp-gateway)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/docker/mcp-gateway",
+      "from_post": "2116067145662742690",
+      "short_url": "https://t.co/hl7vLETuiM",
+      "title": "GitHub - docker/mcp-gateway: docker mcp CLI plugin / MCP Gateway"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "docker",
+    "mcp-gateway",
+    "mcp",
+    "tool-allowlist",
+    "profile"
+  ],
+  "relevance": "Tool allowlisting keeps agent context and attack surface small."
+}

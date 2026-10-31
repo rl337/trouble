@@ -1,0 +1,40 @@
+{
+  "id": "2115783897942208667",
+  "permalink": "https://x.com/PiotrZelasko/status/2115783897942208667",
+  "author": {
+    "name": "Piotr Żelasko",
+    "handle": "@PiotrZelasko",
+    "profile_url": "https://x.com/PiotrZelasko"
+  },
+  "posted_at": "2026-10-29T12:32:45Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**Piotr Żelasko ([@PiotrZelasko](https://x.com/PiotrZelasko/status/2115783897942208667))** announces NVFP4 and FP8 quantizations of **Nemotron 3.5 Transcribe 30B-A4B** ([NVFP4](https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B-NVFP4), [FP8](https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B-FP8)).",
+  "referenced_urls": [
+    {
+      "url": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B-NVFP4",
+      "from_post": "2115783897942208667",
+      "short_url": "https://t.co/vSVs4jg9oI",
+      "title": "nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B-NVFP4 · Hugging Face"
+    },
+    {
+      "url": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B-FP8",
+      "from_post": "2115783897942208667",
+      "short_url": "https://t.co/lWC2L8S6pu",
+      "title": "nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B-FP8 · Hugging Face"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "local-models"
+  ],
+  "keywords": [
+    "nemotron-3.5-transcribe",
+    "nvfp4",
+    "fp8",
+    "quantization",
+    "speech-recognition"
+  ],
+  "relevance": "NVFP4 is the native fast path on the DGX Spark's Blackwell GPU."
+}

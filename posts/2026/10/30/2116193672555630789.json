@@ -1,0 +1,42 @@
+{
+  "id": "2116193672555630789",
+  "permalink": "https://x.com/JackdeS11/status/2116193672555630789",
+  "author": {
+    "name": "Daisuke Majima (MLBoy)",
+    "handle": "@JackdeS11",
+    "profile_url": "https://x.com/JackdeS11"
+  },
+  "posted_at": "2026-10-30T15:41:03Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**Daisuke Majima (MLBoy) ([@JackdeS11](https://x.com/JackdeS11/status/2116193672555630789))** converted Liquid AI's **LFM3-1.7B** to LiteRT-LM; on a Galaxy S26 in airplane mode one request becomes three calendar/message tool calls in 4.59 s, executing only after you tap Run ([litert-community/LFM3-1.7B-LiteRT](https://huggingface.co/litert-community/LFM3-1.7B-LiteRT)).",
+  "referenced_urls": [
+    {
+      "url": "https://huggingface.co/litert-community/LFM3-1.7B-LiteRT",
+      "from_post": "2116193672555630789",
+      "short_url": "https://t.co/2RdkON1rVB",
+      "title": "litert-community/LFM3-1.7B-LiteRT · Hugging Face"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "local-models"
+  ],
+  "keywords": [
+    "lfm3",
+    "litert",
+    "tool-call",
+    "on-device",
+    "small-model"
+  ],
+  "relevance": "On-device tool-calling small model.",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://x.com/JackdeS11/status/2116193672555630789/video/1",
+      "from_post": "2116193672555630789",
+      "description": "Phone demo of tool calls (not downloaded; referenced only)."
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": "2115891317632823771",
+  "permalink": "https://x.com/YallaSaikalyan/status/2115891317632823771",
+  "author": {
+    "name": "Kalyan",
+    "handle": "@YallaSaikalyan",
+    "profile_url": "https://x.com/YallaSaikalyan"
+  },
+  "posted_at": "2026-10-29T19:39:36Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**Kalyan ([@YallaSaikalyan](https://x.com/YallaSaikalyan/status/2115891317632823771))** recommends the **MPO** paper ([arXiv 2610.35013](https://arxiv.org/abs/2610.35013)), which trains agents by scoring each step first and then the tokens inside it, since agent failures are usually whole wrong steps.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.35013",
+      "from_post": "2115891317632823771",
+      "short_url": "https://t.co/kHHkWJUrcR",
+      "title": "Multiscale Policy Optimization for Long-Horizon LLM Agents"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-cognition"
+  ],
+  "keywords": [
+    "mpo",
+    "credit-assignment",
+    "reinforcement-learning",
+    "agent-training"
+  ],
+  "relevance": "Turn-level credit assignment for multi-step agents.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV0n6beWkAAy7U8.jpg",
+      "from_post": "2115891317632823771",
+      "description": "Hand-drawn diagram \"Agents mess up whole turns, so score turns first\": agent task → credit each turn → split it across tokens.",
+      "kind": "diagram",
+      "thumbnail": "posts/2026/10/29/2115891317632823771/media/0.webp"
+    }
+  ]
+}

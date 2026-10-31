@@ -1,0 +1,34 @@
+{
+  "id": "2116045156516536803",
+  "permalink": "https://x.com/yuyu1371746/status/2116045156516536803",
+  "author": {
+    "name": "yu yu",
+    "handle": "@yuyu1371746",
+    "profile_url": "https://x.com/yuyu1371746"
+  },
+  "posted_at": "2026-10-30T05:50:54Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**yu yu ([@yuyu1371746](https://x.com/yuyu1371746/status/2116045156516536803))** built **gis-agent-bridges**, safety-gated MCP bridges with 127 tools letting agents drive SuperMap, QGIS, ArcMap, PostGIS, GeoServer, GDAL and more, localhost-only, token-gated and confirm-before-write ([YUYU20061107/gis-agent-bridges](https://github.com/YUYU20061107/gis-agent-bridges)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/YUYU20061107/gis-agent-bridges",
+      "from_post": "2116045156516536803",
+      "short_url": "https://t.co/UQorAcVD9I",
+      "title": "GitHub - YUYU20061107/gis-agent-bridges: Safety-gated MCP bridges that let AI agents operate mainstream GIS software — SuperMap, ArcGIS Pro, QGIS, MapGIS, ENVI, FME and more. Local-only, confirm-gated writes, originals read-only, no arbitrary code execution."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "gis",
+    "mcp",
+    "qgis",
+    "postgis",
+    "safety-gate"
+  ],
+  "relevance": "Safe agent control of professional desktop software."
+}

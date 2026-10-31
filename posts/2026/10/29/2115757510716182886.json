@@ -1,0 +1,35 @@
+{
+  "id": "2115757510716182886",
+  "permalink": "https://x.com/de2pressed/status/2115757510716182886",
+  "author": {
+    "name": "Jayant",
+    "handle": "@de2pressed",
+    "profile_url": "https://x.com/de2pressed"
+  },
+  "posted_at": "2026-10-29T10:47:54Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**Jayant ([@de2pressed](https://x.com/de2pressed/status/2115757510716182886))** notes that **VideoDeltaNet** runs MiniMax H3 video locally on 8GB consumer GPUs via FreeVideo, while pointing out the 9-second benchmark was on 8×B200 ([OpenVDN/vdn-minimax-h3](https://huggingface.co/OpenVDN/vdn-minimax-h3)).",
+  "referenced_urls": [
+    {
+      "url": "https://huggingface.co/OpenVDN/vdn-minimax-h3",
+      "from_post": "2115757510716182886",
+      "short_url": "https://t.co/pabgCrRM6l",
+      "title": "OpenVDN/vdn-minimax-h3 · Hugging Face"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-media",
+    "local-models"
+  ],
+  "keywords": [
+    "videodeltanet",
+    "minimax-h3",
+    "freevideo",
+    "low-vram",
+    "video-generation"
+  ],
+  "relevance": "Low-VRAM local video generation, with honest benchmark caveats."
+}

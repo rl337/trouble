@@ -1,0 +1,42 @@
+{
+  "id": "2116011485650690048",
+  "permalink": "https://x.com/nvkudva/status/2116011485650690048",
+  "author": {
+    "name": "Vijaykrishna",
+    "handle": "@nvkudva",
+    "profile_url": "https://x.com/nvkudva"
+  },
+  "posted_at": "2026-10-30T03:37:06Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**Vijaykrishna ([@nvkudva](https://x.com/nvkudva/status/2116011485650690048))** built **Omni API**, a single local port serving chat, TTS, STT, embeddings, image and video with small default models and OpenAI-SDK compatibility, plus a playground to switch models ([nvkudva/omni-api](https://github.com/nvkudva/omni-api)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/nvkudva/omni-api",
+      "from_post": "2116011485650690048",
+      "short_url": "https://t.co/pTBvxfepmY",
+      "title": "GitHub - nvkudva/omni-api: All in one LLM server. Setup in a minutes! Runs chat, decisions(systemone), embeddings, image, video, voice STT and TTS via one OpenAI-compatible API along with a GUI. to play and configure entire server and modelst"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "local-models"
+  ],
+  "keywords": [
+    "omni-api",
+    "local-server",
+    "openai-compatible",
+    "tts",
+    "embedding"
+  ],
+  "relevance": "One local endpoint for many model types.",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://x.com/nvkudva/status/2116011485650690048/video/1",
+      "from_post": "2116011485650690048",
+      "description": "Omni API demo (not downloaded; referenced only)."
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": "2116402612207493202",
+  "permalink": "https://x.com/saadkamal/status/2116402612207493202",
+  "author": {
+    "name": "Saad",
+    "handle": "@saadkamal",
+    "profile_url": "https://x.com/saadkamal"
+  },
+  "posted_at": "2026-10-31T05:31:18Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**Saad ([@saadkamal](https://x.com/saadkamal/status/2116402612207493202))** notes RudderStack's open-sourced **devbox** harness, which reportedly produces about 35% of its internal PRs at an 80% merge rate. What it learns is committed into the PR as reviewable memory ([rudderlabs/devbox](https://github.com/rudderlabs/devbox)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/rudderlabs/devbox",
+      "from_post": "2116402612207493202",
+      "short_url": "https://t.co/4AYfcZgAOg",
+      "title": "GitHub - rudderlabs/devbox: Open source autonomous engineering harness in your cloud. One sandbox per task, no real secrets inside."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "devbox",
+    "agent-memory",
+    "autonomous-engineering",
+    "harness"
+  ],
+  "relevance": "Diffable agent memory."
+}

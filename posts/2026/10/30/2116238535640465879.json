@@ -1,0 +1,48 @@
+{
+  "id": "2116238535640465879",
+  "permalink": "https://x.com/rsalakhu/status/2116238535640465879",
+  "author": {
+    "name": "Russ Salakhutdinov",
+    "handle": "@rsalakhu",
+    "profile_url": "https://x.com/rsalakhu"
+  },
+  "posted_at": "2026-10-30T18:39:19Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**Russ Salakhutdinov ([@rsalakhu](https://x.com/rsalakhu/status/2116238535640465879))** introduces *Training Foundation Models with a Single Algorithm* ([arXiv 2610.40564](https://arxiv.org/abs/2610.40564), [project](https://yudasong.github.io/unified-training/)): **Unified Training**, built on MaxRL, merges pretraining, midtraining, SFT and RL under one maximum-likelihood objective, improving accuracy, efficiency and harder-problem generalization while reducing forgetting.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.40564",
+      "from_post": "2116238535640465879",
+      "short_url": "https://t.co/UfapCuYZg2",
+      "title": "Training Foundation Models with a Single Algorithm"
+    },
+    {
+      "url": "https://yudasong.github.io/unified-training/",
+      "from_post": "2116238535640465879",
+      "short_url": "https://t.co/uPoqk4j37Y",
+      "title": "Training Foundation Models with a Single Algorithm"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-cognition"
+  ],
+  "keywords": [
+    "unified-training",
+    "maxrl",
+    "reinforcement-learning",
+    "pretraining",
+    "forgetting"
+  ],
+  "relevance": "Unifying training stages for reasoning models.",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://x.com/rsalakhu/status/2116238535640465879/video/1",
+      "from_post": "2116238535640465879",
+      "description": "Explainer animation of unified training (not downloaded; referenced only)."
+    }
+  ]
+}

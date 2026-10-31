@@ -1,0 +1,40 @@
+{
+  "id": "2116151204103458856",
+  "permalink": "https://x.com/TetiAI_/status/2116151204103458856",
+  "author": {
+    "name": "TetiAI",
+    "handle": "@TetiAI_",
+    "profile_url": "https://x.com/TetiAI_"
+  },
+  "posted_at": "2026-10-30T12:52:17Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**TetiAI ([@TetiAI_](https://x.com/TetiAI_/status/2116151204103458856))** introduces **Dynamic Engram**, which injects new memories at inference as exact n-gram memory without retraining or long prompts; a 350M model answers 95.5% of unseen memories correctly and runs faster than RAG on CPU ([Zenodo paper](https://zenodo.org/records/23803703), [tetiai/dynamic-engram-350m](https://huggingface.co/tetiai/dynamic-engram-350m)).",
+  "referenced_urls": [
+    {
+      "url": "https://zenodo.org/records/23803703",
+      "from_post": "2116151204103458856",
+      "short_url": "https://t.co/Gq00leMNES",
+      "title": "Dynamic Engram: Answering from an Exact n-gram Memory Injected at Inference Time"
+    },
+    {
+      "url": "https://huggingface.co/tetiai/dynamic-engram-350m",
+      "from_post": "2116151204103458856",
+      "short_url": "https://t.co/V6VbBXsbId",
+      "title": "tetiai/dynamic-engram-350m · Hugging Face"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-cognition"
+  ],
+  "keywords": [
+    "dynamic-engram",
+    "n-gram-memory",
+    "rag",
+    "small-model",
+    "memory-injection"
+  ],
+  "relevance": "Alternative memory mechanism for small local models."
+}

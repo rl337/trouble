@@ -1,0 +1,45 @@
+{
+  "id": "2116099642689794378",
+  "permalink": "https://x.com/IamFranticGuy/status/2116099642689794378",
+  "author": {
+    "name": "Subhabrata Debnath",
+    "handle": "@IamFranticGuy",
+    "profile_url": "https://x.com/IamFranticGuy"
+  },
+  "posted_at": "2026-10-30T09:27:24Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**Subhabrata Debnath ([@IamFranticGuy](https://x.com/IamFranticGuy/status/2116099642689794378))** launches **DRAMA**, an expression-editing model for video on Hugging Face that changes facial expressions while preserving quality, lighting, identity and lip movement ([trydrama Spaces](https://huggingface.co/trydrama/spaces)).",
+  "referenced_urls": [
+    {
+      "url": "https://huggingface.co/trydrama/spaces",
+      "from_post": "2116099642689794378",
+      "short_url": "https://t.co/P4W0lkYMhK",
+      "title": "trydrama (Try Drama) – Spaces"
+    }
+  ],
+  "hashtags": [
+    "ExpressionEditor",
+    "HuggingFace",
+    "DRAMA"
+  ],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "drama",
+    "expression-editing",
+    "video-editing",
+    "lip-sync"
+  ],
+  "relevance": "Post-production facial performance editing.",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://x.com/IamFranticGuy/status/2116099642689794378/video/1",
+      "from_post": "2116099642689794378",
+      "description": "Before/after clips of edited facial expressions (not downloaded; referenced only)."
+    }
+  ]
+}

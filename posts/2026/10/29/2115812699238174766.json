@@ -1,0 +1,47 @@
+{
+  "id": "2115812699238174766",
+  "permalink": "https://x.com/mengpaper/status/2115812699238174766",
+  "author": {
+    "name": "mengpaper",
+    "handle": "@mengpaper",
+    "profile_url": "https://x.com/mengpaper"
+  },
+  "posted_at": "2026-10-29T14:27:12Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**mengpaper ([@mengpaper](https://x.com/mengpaper/status/2115812699238174766))** summarizes *From Approval to Abuse* ([arXiv 2610.22987](https://arxiv.org/abs/2610.22987)), which tests whether planted files can make AI coding agents request permanent \"don't ask again\" permission rules, a privilege-escalation path.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.22987",
+      "from_post": "2115812699238174766",
+      "short_url": "https://t.co/6JPelWH3lL",
+      "title": "From Approval to Abuse: Privilege Escalation Attacks on..."
+    }
+  ],
+  "hashtags": [
+    "AI",
+    "Cybersecurity",
+    "AIAgents",
+    "Technology",
+    "mengpaper"
+  ],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "privilege-escalation",
+    "permission",
+    "coding-agent",
+    "prompt-injection"
+  ],
+  "relevance": "Permission-system attack relevant to harness security.",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://x.com/mengpaper/status/2115812699238174766/video/1",
+      "from_post": "2115812699238174766",
+      "description": "Explainer video on the paper (not downloaded; referenced only)."
+    }
+  ]
+}

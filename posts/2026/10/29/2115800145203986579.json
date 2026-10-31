@@ -1,0 +1,41 @@
+{
+  "id": "2115800145203986579",
+  "permalink": "https://x.com/arkyyang/status/2115800145203986579",
+  "author": {
+    "name": "Arky Yang",
+    "handle": "@arkyyang",
+    "profile_url": "https://x.com/arkyyang"
+  },
+  "posted_at": "2026-10-29T13:37:18Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**Arky Yang ([@arkyyang](https://x.com/arkyyang/status/2115800145203986579))** explains *Memory Tax: Dissecting the Net Value of Agent Memory* ([arXiv 2610.34073](https://arxiv.org/abs/2610.34073)), which compares 11 agent memory systems with plain RAG over raw chat history and finds plain RAG often wins; memory fixes some questions but breaks others RAG already answered, a loss the authors call the memory tax.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.34073",
+      "from_post": "2115800145203986579",
+      "short_url": "https://t.co/f4CDm4ADdJ",
+      "title": "Memory Tax: Dissecting the Net Value of Agent Memory"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-cognition"
+  ],
+  "keywords": [
+    "memory-tax",
+    "agent-memory",
+    "rag",
+    "benchmark"
+  ],
+  "relevance": "Argues for always baselining agent memory against plain retrieval.",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://x.com/arkyyang/status/2115800145203986579/video/1",
+      "from_post": "2115800145203986579",
+      "description": "Explainer video on the Memory Tax paper (not downloaded; referenced only)."
+    }
+  ]
+}

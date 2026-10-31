@@ -1,0 +1,53 @@
+{
+  "id": "2115865583908733202",
+  "permalink": "https://x.com/vveerrgg/status/2115865583908733202",
+  "author": {
+    "name": "vveerrgg",
+    "handle": "@vveerrgg",
+    "profile_url": "https://x.com/vveerrgg"
+  },
+  "posted_at": "2026-10-29T17:57:20Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [
+    {
+      "id": "2115871959074676908",
+      "permalink": "https://x.com/vveerrgg/status/2115871959074676908",
+      "posted_at": "2026-10-29T18:22:40Z",
+      "position": 1
+    }
+  ],
+  "summary_md": "**vveerrgg ([@vveerrgg](https://x.com/vveerrgg/status/2115865583908733202))** presents **LSDub**, open-weights lip-sync for music videos that matches the singer's mouth to the song without re-rendering the shot and scores every cut, built in ComfyUI with LTX videos for the Open Source Higgsfield challenge ([LSDub](https://lsdub.vidbnch.app)).",
+  "referenced_urls": [
+    {
+      "url": "https://lsdub.vidbnch.app",
+      "from_post": "2115865583908733202",
+      "short_url": "https://t.co/dYFXAbqpNX",
+      "title": "LSDub — Lip-Sync Dubbery for music videos"
+    }
+  ],
+  "hashtags": [
+    "OpenSourceHiggsfield"
+  ],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "lsdub",
+    "lip-sync",
+    "music-video",
+    "comfyui",
+    "ltx"
+  ],
+  "relevance": "Open lip-sync tooling for music video production.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV0WLT3agAA--mR.jpg",
+      "from_post": "2115871959074676908",
+      "description": "Typeform completion screen with a check mark (submission confirmation).",
+      "kind": "screenshot",
+      "thumbnail": "posts/2026/10/29/2115865583908733202/media/0.webp"
+    }
+  ]
+}

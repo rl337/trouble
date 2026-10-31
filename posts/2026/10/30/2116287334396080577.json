@@ -1,0 +1,44 @@
+{
+  "id": "2116287334396080577",
+  "permalink": "https://x.com/SciFi/status/2116287334396080577",
+  "author": {
+    "name": "Artificial Intelligence Papers",
+    "handle": "@SciFi",
+    "profile_url": "https://x.com/SciFi"
+  },
+  "posted_at": "2026-10-30T21:53:13Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**Artificial Intelligence Papers ([@SciFi](https://x.com/SciFi/status/2116287334396080577))** shares *God Does Not Play Dice* ([arXiv 2610.36623](https://arxiv.org/abs/2610.36623)), finding 19 batch-invariance violations in 83 agent-generated kernels and proposing a static plus dynamic checker to enforce it.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.36623",
+      "from_post": "2116287334396080577",
+      "short_url": "https://t.co/qc9eky3DSo",
+      "title": "God Does Not Play Dice: Enforcing Batch Invariance in Agentic..."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "batch-invariance",
+    "kernel-generation",
+    "gpu-kernel",
+    "determinism"
+  ],
+  "relevance": "Correctness checks for agent-written GPU kernels.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV6QHbzW4AAW1nK.png",
+      "from_post": "2116287334396080577",
+      "description": "Abstract of the batch-invariance paper.",
+      "kind": "paper",
+      "thumbnail": "posts/2026/10/30/2116287334396080577/media/0.webp",
+      "ocr_text": "Large language model (LLM) serving systems dynamically batch user requests for GPU execution, so the same request may be processed alongside different requests across runs. If the GPU kernels lack batch invariance (BI), this changing batch context can alter the numerical output for an unchanged input, undermining reproducibility. Existing kernel generation agents focus on correctness and efficiency but overlook BI. We find 19 confirmed BI violations among 83 batch-applicable released artifacts. To address this limitation, we propose →ol, which combines contract-guided static dependency analysis with dynamic validation of bitwise consistency across batch contexts. →ol is designed as a plug-in component for general kernel agents, allowing their original optimization capabilities to be reused while adding BI enforcement. We integrate it as successive acceptance gates in the optimization loop, rejecting structurally risky or dynamically non-invariant candidates before performance benchmark"
+    }
+  ]
+}

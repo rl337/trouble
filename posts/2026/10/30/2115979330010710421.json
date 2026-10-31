@@ -1,0 +1,41 @@
+{
+  "id": "2115979330010710421",
+  "permalink": "https://x.com/privatefirework/status/2115979330010710421",
+  "author": {
+    "name": "Firework Studio | Motion in Code",
+    "handle": "@privatefirework",
+    "profile_url": "https://x.com/privatefirework"
+  },
+  "posted_at": "2026-10-30T01:29:19Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**Firework Studio | Motion in Code ([@privatefirework](https://x.com/privatefirework/status/2115979330010710421))** built a 65-second HTML product film for a concept motion-design agent, with drifting linked cards, word swaps, a logo reveal, chat bubbles and a voice waveform, all reusable code ([release](https://github.com/firework-studio/motion-library/releases/tag/spark-agent-promo)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/firework-studio/motion-library/releases/tag/spark-agent-promo",
+      "from_post": "2115979330010710421",
+      "short_url": "https://t.co/kFCvt52Fpn",
+      "title": "Release spark-agent-promo · firework-studio/motion-library"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "motion-design",
+    "html-video",
+    "product-film",
+    "motion-library"
+  ],
+  "relevance": "Code-based motion design as reusable assets.",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://x.com/privatefirework/status/2115979330010710421/video/1",
+      "from_post": "2115979330010710421",
+      "description": "Product film (not downloaded; referenced only)."
+    }
+  ]
+}

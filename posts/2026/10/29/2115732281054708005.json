@@ -1,0 +1,45 @@
+{
+  "id": "2115732281054708005",
+  "permalink": "https://x.com/ComputerPapers/status/2115732281054708005",
+  "author": {
+    "name": "Software Engineering Papers",
+    "handle": "@ComputerPapers",
+    "profile_url": "https://x.com/ComputerPapers"
+  },
+  "posted_at": "2026-10-29T09:07:38Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**Software Engineering Papers ([@ComputerPapers](https://x.com/ComputerPapers/status/2115732281054708005))** shares *Mind the Intent Gap* ([arXiv 2610.37340](https://arxiv.org/abs/2610.37340)), which argues that team processes built for people silently relied on humans to cover gaps in intent, and proposes CAIA (Collaborative Agentic Intent Alignment), a methodology for bringing AI agents into team software engineering.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.37340",
+      "from_post": "2115732281054708005",
+      "short_url": "https://t.co/yggLlTMcyE",
+      "title": "Mind the Intent Gap: A Methodology for Collaborative Agent-Driven..."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "caia",
+    "intent-alignment",
+    "software-engineering",
+    "ai-teammate",
+    "methodology"
+  ],
+  "relevance": "Methodology for aligning agent work with team intent.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HVyXTETWIAAMZmY.png",
+      "from_post": "2115732281054708005",
+      "description": "Image of the paper's abstract text.",
+      "kind": "paper",
+      "thumbnail": "posts/2026/10/29/2115732281054708005/media/0.webp",
+      "ocr_text": "AI agents have entered software teams, first as tools and now as team members. They produce in minutes what used to take days, yet the expected gain in delivery often fails to appear. We argue that they are entering processes designed for people, which quietly relied on people to cover three of their weaknesses. The team's intent was never fully written down, because colleagues filled the gaps. An AI agent fills them too, though by guessing, and drifts from what the team had in mind. The reasoning behind each deliverable was already lost from one step to the next, and AI agents now inflate and deflate the documents passed along. The reasoning people did alone was partly private and now moves into AI tools that keep it private by nature. We present CAIA, for Collaborative Agentic Intent Alignment, a methodology for software teams that brings agents into the way they work. A knowledge base describes the product that a project maintains. For each Change, a micro-team aligns on its intent"
+    }
+  ]
+}

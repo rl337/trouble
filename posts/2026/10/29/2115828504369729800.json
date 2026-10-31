@@ -1,0 +1,43 @@
+{
+  "id": "2115828504369729800",
+  "permalink": "https://x.com/Harshithsai939/status/2115828504369729800",
+  "author": {
+    "name": "Harshith Sai Batthini",
+    "handle": "@Harshithsai939",
+    "profile_url": "https://x.com/Harshithsai939"
+  },
+  "posted_at": "2026-10-29T15:30:00Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**Harshith Sai Batthini ([@Harshithsai939](https://x.com/Harshithsai939/status/2115828504369729800))** highlights Google's **Elephant Goldfish Model** skills, which send seven fresh reviewer agents with no memory of the planning chat to attack a plan before any code is written ([google/elephant-goldfish-model](https://github.com/google/elephant-goldfish-model)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/google/elephant-goldfish-model",
+      "from_post": "2115828504369729800",
+      "short_url": "https://t.co/OG4Ti4s7uJ",
+      "title": "GitHub - google/elephant-goldfish-model: Open-source skills for designing and reviewing software with AI agents"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev",
+    "agentic-cognition"
+  ],
+  "keywords": [
+    "elephant-goldfish-model",
+    "plan-review",
+    "sub-agent",
+    "claude-code",
+    "agent-skill"
+  ],
+  "relevance": "Fresh-context adversarial plan review pattern.",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://x.com/Harshithsai939/status/2115828504369729800/video/1",
+      "from_post": "2115828504369729800",
+      "description": "Explainer video (not downloaded; referenced only)."
+    }
+  ]
+}

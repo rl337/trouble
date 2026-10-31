@@ -1,0 +1,49 @@
+{
+  "id": "2115724756276167023",
+  "permalink": "https://x.com/arnaudmercier/status/2115724756276167023",
+  "author": {
+    "name": "Arnaud Mercier - #Entrepreneur #Versailles",
+    "handle": "@arnaudmercier",
+    "profile_url": "https://x.com/arnaudmercier"
+  },
+  "posted_at": "2026-10-29T08:37:44Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**Arnaud Mercier - #Entrepreneur #Versailles ([@arnaudmercier](https://x.com/arnaudmercier/status/2115724756276167023))** shares **BiPA** ([arXiv 2610.37201](https://arxiv.org/html/2610.37201v1)), which questions whether generalist skill optimizers actually help long-horizon agentic tasks and proposes bipartite attribution to tell which skill edits really drive gains, with code at [valleysprings/BiPA](https://github.com/valleysprings/BiPA.git).",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/html/2610.37201v1",
+      "from_post": "2115724756276167023",
+      "short_url": "https://t.co/xZlQ7F8UEE",
+      "title": "Does Your Generalist Skill Optimizer Really Incentivize Agentic Tasks?Rethinking Skill Optimization via Bipartite Attribution"
+    },
+    {
+      "url": "https://github.com/valleysprings/BiPA.git",
+      "from_post": "2115724756276167023",
+      "short_url": "https://t.co/2G3DmPr5LH"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "bipa",
+    "skill-optimization",
+    "agent-skill",
+    "attribution",
+    "long-horizon"
+  ],
+  "relevance": "Rigorous look at whether agent-skill optimization works.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HVyQcb9WYAAouML.jpg",
+      "from_post": "2115724756276167023",
+      "description": "Figure from the paper: charts comparing skill-optimizer results across tasks.",
+      "kind": "chart",
+      "thumbnail": "posts/2026/10/29/2115724756276167023/media/0.webp"
+    }
+  ]
+}

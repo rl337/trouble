@@ -1,0 +1,33 @@
+{
+  "id": "2116138723737817593",
+  "permalink": "https://x.com/Chriswong/status/2116138723737817593",
+  "author": {
+    "name": "Chris Wong",
+    "handle": "@Chriswong",
+    "profile_url": "https://x.com/Chriswong"
+  },
+  "posted_at": "2026-10-30T12:02:42Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**Chris Wong ([@Chriswong](https://x.com/Chriswong/status/2116138723737817593))** shares **concord-mcp**, an MCP server for live messaging between coding agents so different agents can collaborate on a build using their strengths ([Get-Concord-AI/concord-mcp](https://github.com/Get-Concord-AI/concord-mcp)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/Get-Concord-AI/concord-mcp",
+      "from_post": "2116138723737817593",
+      "short_url": "https://t.co/aZuDc1zC66",
+      "title": "GitHub - Get-Concord-AI/concord-mcp: Live messaging for coding agents"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "concord-mcp",
+    "mcp",
+    "multi-agent",
+    "agent-messaging"
+  ],
+  "relevance": "Inter-agent messaging for heterogeneous coding agents."
+}

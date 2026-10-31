@@ -1,0 +1,96 @@
+{
+  "id": "2115910750573396299",
+  "permalink": "https://x.com/ReetuHarsh/status/2115910750573396299",
+  "author": {
+    "name": "Harsh | building Medha",
+    "handle": "@ReetuHarsh",
+    "profile_url": "https://x.com/ReetuHarsh"
+  },
+  "posted_at": "2026-10-29T20:56:49Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [
+    {
+      "id": "2115910753505161527",
+      "permalink": "https://x.com/ReetuHarsh/status/2115910753505161527",
+      "posted_at": "2026-10-29T20:56:50Z",
+      "position": 1
+    },
+    {
+      "id": "2115910757267443840",
+      "permalink": "https://x.com/ReetuHarsh/status/2115910757267443840",
+      "posted_at": "2026-10-29T20:56:50Z",
+      "position": 2
+    },
+    {
+      "id": "2115910761000427866",
+      "permalink": "https://x.com/ReetuHarsh/status/2115910761000427866",
+      "posted_at": "2026-10-29T20:56:51Z",
+      "position": 3
+    },
+    {
+      "id": "2115910765035319471",
+      "permalink": "https://x.com/ReetuHarsh/status/2115910765035319471",
+      "posted_at": "2026-10-29T20:56:52Z",
+      "position": 4
+    },
+    {
+      "id": "2115910769133203572",
+      "permalink": "https://x.com/ReetuHarsh/status/2115910769133203572",
+      "posted_at": "2026-10-29T20:56:53Z",
+      "position": 5
+    }
+  ],
+  "summary_md": "**Harsh | building Medha ([@ReetuHarsh](https://x.com/ReetuHarsh/status/2115910750573396299))** walks through six security decisions in the Rust **Medha** agent harness: approvals bound to the reviewed file state, shell networking denied by default, compaction that changes the model's view but not the event log, escalation of irreversible actions after web content enters, scanning of skill packages before install, and delegation that intersects child tools with parent capabilities, each linked to code ([tools](https://github.com/kashyaprajharsh/medha-agent/blob/main/crates/tools/src/lib.rs), [sandbox](https://github.com/kashyaprajharsh/medha-agent/blob/main/crates/sandbox/src/exec.rs), [context](https://github.com/kashyaprajharsh/medha-agent/blob/main/crates/context/src/engine.rs), [kernel](https://github.com/kashyaprajharsh/medha-agent/blob/main/crates/kernel/src/loop_.rs), [skills](https://github.com/kashyaprajharsh/medha-agent/blob/main/crates/tools/src/skills.rs), [orchestrator](https://github.com/kashyaprajharsh/medha-agent/blob/main/crates/orchestrator/src/narrow.rs)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/kashyaprajharsh/medha-agent/blob/main/crates/tools/src/lib.rs",
+      "from_post": "2115910750573396299",
+      "short_url": "https://t.co/EWUinmMB7L",
+      "title": "medha-agent/crates/tools/src/lib.rs at main · kashyaprajharsh/medha-agent"
+    },
+    {
+      "url": "https://github.com/kashyaprajharsh/medha-agent/blob/main/crates/sandbox/src/exec.rs",
+      "from_post": "2115910753505161527",
+      "short_url": "https://t.co/Nhh3r0QZEJ",
+      "title": "medha-agent/crates/sandbox/src/exec.rs at main · kashyaprajharsh/medha-agent"
+    },
+    {
+      "url": "https://github.com/kashyaprajharsh/medha-agent/blob/main/crates/context/src/engine.rs",
+      "from_post": "2115910757267443840",
+      "short_url": "https://t.co/veSXxCI3Rv",
+      "title": "medha-agent/crates/context/src/engine.rs at main · kashyaprajharsh/medha-agent"
+    },
+    {
+      "url": "https://github.com/kashyaprajharsh/medha-agent/blob/main/crates/kernel/src/loop_.rs",
+      "from_post": "2115910761000427866",
+      "short_url": "https://t.co/tCmDsvej1J",
+      "title": "medha-agent/crates/kernel/src/loop_.rs at main · kashyaprajharsh/medha-agent"
+    },
+    {
+      "url": "https://github.com/kashyaprajharsh/medha-agent/blob/main/crates/tools/src/skills.rs",
+      "from_post": "2115910765035319471",
+      "short_url": "https://t.co/q9BNAQJzbj",
+      "title": "medha-agent/crates/tools/src/skills.rs at main · kashyaprajharsh/medha-agent"
+    },
+    {
+      "url": "https://github.com/kashyaprajharsh/medha-agent/blob/main/crates/orchestrator/src/narrow.rs",
+      "from_post": "2115910769133203572",
+      "short_url": "https://t.co/P7DKQo0Oy8",
+      "title": "medha-agent/crates/orchestrator/src/narrow.rs at main · kashyaprajharsh/medha-agent"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "medha",
+    "agent-harness",
+    "rust",
+    "sandbox",
+    "permission",
+    "compaction"
+  ],
+  "relevance": "Concrete, code-backed harness security patterns."
+}

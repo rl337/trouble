@@ -1,0 +1,50 @@
+{
+  "id": "2116192280889745432",
+  "permalink": "https://x.com/YunaChoi404/status/2116192280889745432",
+  "author": {
+    "name": "Yuna Choi",
+    "handle": "@YunaChoi404",
+    "profile_url": "https://x.com/YunaChoi404"
+  },
+  "posted_at": "2026-10-30T15:35:31Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**Yuna Choi ([@YunaChoi404](https://x.com/YunaChoi404/status/2116192280889745432))** built **Nightshift**, a local AI video studio where you draft quickly, pick a take and it finishes that exact latent overnight ([film](https://www.youtube.com/watch?v=fk0ZUiMIawY&feature=youtu.be), [yunachoi404/nightshift](https://github.com/yunachoi404/nightshift)).",
+  "referenced_urls": [
+    {
+      "url": "https://www.youtube.com/watch?v=fk0ZUiMIawY&feature=youtu.be",
+      "from_post": "2116192280889745432",
+      "short_url": "https://t.co/72kpea3h45",
+      "title": "Nightshift: an open-source AI video studio for your own GPU #OpenSourceHiggsfield"
+    },
+    {
+      "url": "https://github.com/yunachoi404/nightshift",
+      "from_post": "2116192280889745432",
+      "short_url": "https://t.co/0rpCyMQv5h",
+      "title": "GitHub - yunachoi404/nightshift: An AI video studio on your own GPU. Draft fast, then finish the exact take you picked overnight."
+    }
+  ],
+  "hashtags": [
+    "OpenSourceHiggsfield"
+  ],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "nightshift",
+    "comfyui",
+    "video-generation",
+    "latent",
+    "opensourcehiggsfield"
+  ],
+  "relevance": "Draft-then-finish workflow for local video.",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://x.com/YunaChoi404/status/2116192280889745432/video/1",
+      "from_post": "2116192280889745432",
+      "description": "Short film made with the studio (not downloaded; referenced only)."
+    }
+  ]
+}

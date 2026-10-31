@@ -1,0 +1,44 @@
+{
+  "id": "2116244278380740714",
+  "permalink": "https://x.com/DPZ/status/2116244278380740714",
+  "author": {
+    "name": "Distributed, Parallel, and Cluster Computing",
+    "handle": "@DPZ",
+    "profile_url": "https://x.com/DPZ"
+  },
+  "posted_at": "2026-10-30T19:02:08Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**Distributed, Parallel, and Cluster Computing ([@DPZ](https://x.com/DPZ/status/2116244278380740714))** shares *Sandman* ([arXiv 2610.39711](https://arxiv.org/abs/2610.39711)), Amazon's sandbox service for agentic RL on shared Kubernetes, holding 11,858 concurrent sandboxes and creating 3.1M across production campaigns.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.39711",
+      "from_post": "2116244278380740714",
+      "short_url": "https://t.co/QRIFBbH2rp",
+      "title": "Sandman: Building and Operating Sandboxes for Agentic..."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "sandman",
+    "kubernetes",
+    "sandbox",
+    "agentic-rl"
+  ],
+  "relevance": "Sandbox infrastructure at RL scale.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV5o9PtXsAALgj4.png",
+      "from_post": "2116244278380740714",
+      "description": "Abstract of the Sandman paper.",
+      "kind": "paper",
+      "thumbnail": "posts/2026/10/30/2116244278380740714/media/0.webp",
+      "ocr_text": "Agentic reinforcement learning (RL) often requires repeated tool calls in task-specific environments. A training job may create thousands of these environments in bursts while sharing a cluster with other jobs. We present Sandman, a sandbox service built and operated at Amazon for agent tool execution and evaluation. It serves multiple production agentic RL workloads on shared Kubernetes. A training framework supplies a task image and uses commands and file operations in the returned sandbox. Files and processes persist across calls until the framework releases the environment. Sandman manages creation, readiness and cleanup. Each sandbox is a Kubernetes pod with a small daemon mounted into the unmodified image. In a scale test, Sandman held 11,858 concurrent tiny sandboxes. Four production SWE-bench Verified training campaigns created 3.1 million sandboxes in October 2026. We report the design trade-offs and operational lessons from handling creation bursts, preparing task environment"
+    }
+  ]
+}

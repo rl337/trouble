@@ -1,0 +1,37 @@
+{
+  "id": "2116121635988144163",
+  "permalink": "https://x.com/softcane/status/2116121635988144163",
+  "author": {
+    "name": "Pradeep Singh",
+    "handle": "@softcane",
+    "profile_url": "https://x.com/softcane"
+  },
+  "posted_at": "2026-10-30T10:54:48Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**Pradeep Singh ([@softcane](https://x.com/softcane/status/2116121635988144163))** is building **codex-session-operator**, a Kubernetes operator for OpenAI's Managed Agents API where developers own skills, OpenAI runs the loop and the platform supplies sandboxes, scheduling, governance and cost control ([softcane/codex-session-operator](https://github.com/softcane/codex-session-operator)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/softcane/codex-session-operator",
+      "from_post": "2116121635988144163",
+      "short_url": "https://t.co/VFuvwqNF2Z",
+      "title": "GitHub - softcane/codex-session-operator: Kubernetes operator for the OpenAI Managed Agents API, providing self-hosted sandbox execution, persistent workspaces, and session lifecycle management."
+    }
+  ],
+  "hashtags": [
+    "Kubernetes",
+    "AIAgents"
+  ],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "codex-session-operator",
+    "kubernetes",
+    "managed-agent",
+    "sandbox",
+    "governance"
+  ],
+  "relevance": "Platform-engineering approach to running managed agents."
+}

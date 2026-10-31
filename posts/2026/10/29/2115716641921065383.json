@@ -1,0 +1,35 @@
+{
+  "id": "2115716641921065383",
+  "permalink": "https://x.com/fardakarimov/status/2115716641921065383",
+  "author": {
+    "name": "FardaKarim",
+    "handle": "@fardakarimov",
+    "profile_url": "https://x.com/fardakarimov"
+  },
+  "posted_at": "2026-10-29T08:05:30Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**FardaKarim ([@fardakarimov](https://x.com/fardakarimov/status/2115716641921065383))** describes **ODS**, which automatically wires Ollama, Open WebUI, n8n and ComfyUI into a private, zero-config local AI server with no cloud dependencies ([Osmantic/ODS](https://github.com/Osmantic/ODS)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/Osmantic/ODS",
+      "from_post": "2115716641921065383",
+      "short_url": "https://t.co/ugd8WVldux",
+      "title": "GitHub - Osmantic/ODS: ODS V3 Pre-Release: Public testing and refinement ahead of the official V3 launch. Turn your PC, Mac, or Linux box into a private AI server."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "local-models"
+  ],
+  "keywords": [
+    "ods",
+    "ollama",
+    "open-webui",
+    "n8n",
+    "comfyui",
+    "local-ai-server"
+  ],
+  "relevance": "One-shot local AI stack setup for a home inference box."
+}

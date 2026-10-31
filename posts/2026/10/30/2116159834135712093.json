@@ -1,0 +1,44 @@
+{
+  "id": "2116159834135712093",
+  "permalink": "https://x.com/vineetwts/status/2116159834135712093",
+  "author": {
+    "name": "V",
+    "handle": "@vineetwts",
+    "profile_url": "https://x.com/vineetwts"
+  },
+  "posted_at": "2026-10-30T13:26:35Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**V ([@vineetwts](https://x.com/vineetwts/status/2116159834135712093))** recommends **tiny-llm**, a course for building a small vLLM-style inference system on Apple Silicon with MLX, from matmul to batching and a coding agent ([skyzh/tiny-llm](https://github.com/skyzh/tiny-llm)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/skyzh/tiny-llm",
+      "from_post": "2116159834135712093",
+      "short_url": "https://t.co/YykOZSwdPc",
+      "title": "GitHub - skyzh/tiny-llm: learn LLM inference system on Apple Silicon for systems engineers: build a tiny vLLM + Qwen"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "local-models"
+  ],
+  "keywords": [
+    "tiny-llm",
+    "mlx",
+    "inference-engine",
+    "vllm",
+    "apple-silicon"
+  ],
+  "relevance": "Learning resource for local inference internals.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV4cFB3akAEoO_f.jpg",
+      "from_post": "2116159834135712093",
+      "description": "tiny-llm README showing the four-week learning path.",
+      "kind": "screenshot",
+      "thumbnail": "posts/2026/10/30/2116159834135712093/media/0.webp"
+    }
+  ]
+}

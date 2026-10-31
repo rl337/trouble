@@ -1,0 +1,41 @@
+{
+  "id": "2116173042506461643",
+  "permalink": "https://x.com/nate_vick/status/2116173042506461643",
+  "author": {
+    "name": "Nate Vick",
+    "handle": "@nate_vick",
+    "profile_url": "https://x.com/nate_vick"
+  },
+  "posted_at": "2026-10-30T14:19:04Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [
+    {
+      "id": "2116175468382884286",
+      "permalink": "https://x.com/nate_vick/status/2116175468382884286",
+      "posted_at": "2026-10-30T14:28:42Z",
+      "position": 1
+    }
+  ],
+  "summary_md": "**Nate Vick ([@nate_vick](https://x.com/nate_vick/status/2116173042506461643))** urges enforcing agent rules with code, sharing his **harness** with a done-means gate blocking edits until a spec exists and requiring changed tests to fail when the fix is reverted, CI guards for copied code and empty catches, and a Cursor cloud-agent adapter ([natevick/harness](https://github.com/natevick/harness)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/natevick/harness",
+      "from_post": "2116173042506461643",
+      "short_url": "https://t.co/fjeHAZT3FJ",
+      "title": "GitHub - natevick/harness"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "harness",
+    "hook",
+    "ci-guard",
+    "definition-of-done",
+    "cursor"
+  ],
+  "relevance": "Code-enforced guardrails rather than prompt suggestions."
+}

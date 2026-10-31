@@ -1,0 +1,34 @@
+{
+  "id": "2115810209214107833",
+  "permalink": "https://x.com/LLMpsycho/status/2115810209214107833",
+  "author": {
+    "name": "Bessi S",
+    "handle": "@LLMpsycho",
+    "profile_url": "https://x.com/LLMpsycho"
+  },
+  "posted_at": "2026-10-29T14:17:18Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**Bessi S ([@LLMpsycho](https://x.com/LLMpsycho/status/2115810209214107833))** flags **TokenEconomizer** from Microsoft Research and UC Berkeley (about 486 stars), a plug-in for Claude Code, Codex, Copilot CLI and Pi that mines a repo's earlier sessions so the agent reuses commands known to work there, sheds tools it never calls and gets steered out of repeated failure loops ([microsoft/TokenEconomizer](https://github.com/microsoft/TokenEconomizer)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/microsoft/TokenEconomizer",
+      "from_post": "2115810209214107833",
+      "short_url": "https://t.co/ZKuLteyjV8",
+      "title": "GitHub - microsoft/TokenEconomizer: Experience-Driven Black-Box Cost Control for Coding Agents"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "tokeneconomizer",
+    "cost-control",
+    "claude-code",
+    "codex",
+    "experience"
+  ],
+  "relevance": "Experience-driven cost control layer for coding agents."
+}

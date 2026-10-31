@@ -1,0 +1,55 @@
+{
+  "id": "2116005725814280570",
+  "permalink": "https://x.com/Kimi_Moonshot/status/2116005725814280570",
+  "author": {
+    "name": "Kimi.ai",
+    "handle": "@Kimi_Moonshot",
+    "profile_url": "https://x.com/Kimi_Moonshot"
+  },
+  "posted_at": "2026-10-30T03:14:13Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [
+    {
+      "id": "2116047498175504585",
+      "permalink": "https://x.com/Kimi_Moonshot/status/2116047498175504585",
+      "posted_at": "2026-10-30T06:00:12Z",
+      "position": 1
+    }
+  ],
+  "summary_md": "**Kimi.ai ([@Kimi_Moonshot](https://x.com/Kimi_Moonshot/status/2116005725814280570))** introduces **3D Make** in Kimi, which connects to Blender and CAD tools to create models, assemble scenes and build games, with a tips tutorial ([kimi.ai](https://www.kimi.ai/), [tutorial](https://www.kimi.ai/academy/3d-tutorial)).",
+  "referenced_urls": [
+    {
+      "url": "https://www.kimi.ai/",
+      "from_post": "2116005725814280570",
+      "short_url": "https://t.co/Q150OaO4ww",
+      "title": "Kimi AI with K3.1 Pro | Built for Coding & Agentic Work"
+    },
+    {
+      "url": "https://www.kimi.ai/academy/3d-tutorial",
+      "from_post": "2116047498175504585",
+      "short_url": "https://t.co/pl6WLa2GXL",
+      "title": "How to Create Better 3D Projects with Kimi"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "kimi",
+    "3d-make",
+    "blender",
+    "cad",
+    "3d-modeling"
+  ],
+  "relevance": "Agent-driven 3D creation via tool connections.",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://x.com/Kimi_Moonshot/status/2116005725814280570/video/1",
+      "from_post": "2116005725814280570",
+      "description": "3D Make demo (not downloaded; referenced only)."
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": "2116208723874197916",
+  "permalink": "https://x.com/Manojkumar2257/status/2116208723874197916",
+  "author": {
+    "name": "Manoj | The AI Dude",
+    "handle": "@Manojkumar2257",
+    "profile_url": "https://x.com/Manojkumar2257"
+  },
+  "posted_at": "2026-10-30T16:40:51Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**Manoj | The AI Dude ([@Manojkumar2257](https://x.com/Manojkumar2257/status/2116208723874197916))** recommends **dissect**, a Claude Code skill that reverse-engineers any video into a blueprint of cuts, hook frames, caption sizes, palette, pacing and sound cues, then scores your rebuild with fixes ([0xpratzyy/dissect](https://github.com/0xpratzyy/dissect)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/0xpratzyy/dissect",
+      "from_post": "2116208723874197916",
+      "short_url": "https://t.co/9wDgFxV5Sf",
+      "title": "GitHub - 0xpratzyy/dissect: Reverse-engineer any video (YouTube, TikTok, Reels, X...) into a reusable blueprint for making similar videos. A Claude Code skill."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "dissect",
+    "claude-code",
+    "video-analysis",
+    "short-form-video"
+  ],
+  "relevance": "Video format analysis for agentic editing."
+}

@@ -1,0 +1,44 @@
+{
+  "id": "2116105710882730489",
+  "permalink": "https://x.com/AgentsWatch/status/2116105710882730489",
+  "author": {
+    "name": "AgentsWatch",
+    "handle": "@AgentsWatch",
+    "profile_url": "https://x.com/AgentsWatch"
+  },
+  "posted_at": "2026-10-30T09:51:31Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**AgentsWatch ([@AgentsWatch](https://x.com/AgentsWatch/status/2116105710882730489))** covers Ghosh's *PCM: Proof-Carrying Messages* ([arXiv 2610.39109](https://arxiv.org/abs/2610.39109)), which makes agent claims verifiable from a signed log the agent can't write; on 926 messages with 712 lies PCM accepted 10, versus 504–712 for deployed protocols.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.39109",
+      "from_post": "2116105710882730489",
+      "short_url": "https://t.co/s0rCrbeMSM",
+      "title": "PCM: A Proof-Carrying Message Protocol for Verifiable Multi-Agent..."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-cognition"
+  ],
+  "keywords": [
+    "pcm",
+    "proof-carrying-message",
+    "multi-agent",
+    "verification",
+    "agent-protocol"
+  ],
+  "relevance": "Verifiable inter-agent communication.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV3q06hWcAA9qLd.jpg",
+      "from_post": "2116105710882730489",
+      "description": "Bar chart of false claims accepted per protocol, with PCM 0.1 at 10 (1.4%).",
+      "kind": "chart",
+      "thumbnail": "posts/2026/10/30/2116105710882730489/media/0.webp"
+    }
+  ]
+}

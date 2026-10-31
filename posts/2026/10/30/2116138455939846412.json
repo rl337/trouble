@@ -1,0 +1,44 @@
+{
+  "id": "2116138455939846412",
+  "permalink": "https://x.com/SciFi/status/2116138455939846412",
+  "author": {
+    "name": "Artificial Intelligence Papers",
+    "handle": "@SciFi",
+    "profile_url": "https://x.com/SciFi"
+  },
+  "posted_at": "2026-10-30T12:01:38Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**Artificial Intelligence Papers ([@SciFi](https://x.com/SciFi/status/2116138455939846412))** shares *Correction or Manipulation?* ([arXiv 2610.36453](https://arxiv.org/abs/2610.36453)) by Basta et al., measuring whether seven LLMs distinguish genuine corrections from manipulative pressure when users push back.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.36453",
+      "from_post": "2116138455939846412",
+      "short_url": "https://t.co/MBYDOHtZR0",
+      "title": "Correction or Manipulation? Measuring Epistemic Vigilance in LLM..."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-cognition"
+  ],
+  "keywords": [
+    "epistemic-vigilance",
+    "sycophancy",
+    "user-pressure",
+    "llm-agent"
+  ],
+  "relevance": "Epistemic vigilance in agents under pressure.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV4ItiyWYAEVlYg.png",
+      "from_post": "2116138455939846412",
+      "description": "Abstract of the epistemic vigilance paper.",
+      "kind": "paper",
+      "thumbnail": "posts/2026/10/30/2116138455939846412/media/0.webp",
+      "ocr_text": "LLM agents that answer questions and act on behalf of users must decide when to yield to a user who disagrees. Disagreement may correct a genuine error or may be an attempt at manipulation. Prior work shows that models frequently abandon correct answers when challenged by users, yet it remains unclear whether they distinguish correction from manipulation or merely differ in their propensity to concede. We examine this question across seven LLMs from four vendors in two studies, one on the answers agents give and one on the actions they take as customer-support agents whose policy permits account changes only for verified users. Simulated users push toward correct and incorrect answers with graded pressure. Following research on epistemic vigilance, the pressure either appeals to the source, such as claimed authority, or offers content the agent cannot verify, namely a cited source. Drawing on signal detection theory, we measure on a set of benchmark questions how much more readily each"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": "2115736975378436502",
+  "permalink": "https://x.com/nickvernij/status/2115736975378436502",
+  "author": {
+    "name": "nick",
+    "handle": "@nickvernij",
+    "profile_url": "https://x.com/nickvernij"
+  },
+  "posted_at": "2026-10-29T09:26:18Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**nick ([@nickvernij](https://x.com/nickvernij/status/2115736975378436502))** had his agents fit NVIDIA's 30B **Nemotron 3.5 Transcribe** onto a 24GB M5 Pro Mac, finding a mixed quantization under 17GB with about 0.1 WER penalty plus a custom kernel reaching about 150 tok/s ([divergentlabs MLX build](https://huggingface.co/divergentlabs/Nemotron-3.5-Transcribe-30B-A4B-MLX)).",
+  "referenced_urls": [
+    {
+      "url": "https://huggingface.co/divergentlabs/Nemotron-3.5-Transcribe-30B-A4B-MLX",
+      "from_post": "2115736975378436502",
+      "short_url": "https://t.co/aywK4zNKm0",
+      "title": "divergentlabs/Nemotron-3.5-Transcribe-30B-A4B-MLX · Hugging Face"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "local-models"
+  ],
+  "keywords": [
+    "nemotron-3.5-transcribe",
+    "mlx",
+    "quantization",
+    "speech-recognition",
+    "apple-silicon"
+  ],
+  "relevance": "Agent-driven quantization search for local speech models.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HVybJdcWIAEvPI8.jpg",
+      "from_post": "2115736975378436502",
+      "description": "Dark dashboard of time-series charts tracking quantization experiments.",
+      "kind": "chart",
+      "thumbnail": "posts/2026/10/29/2115736975378436502/media/0.webp"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "id": "2116281487238832352",
+  "permalink": "https://x.com/VivaldCode/status/2116281487238832352",
+  "author": {
+    "name": "Vivaldi code",
+    "handle": "@VivaldCode",
+    "profile_url": "https://x.com/VivaldCode"
+  },
+  "posted_at": "2026-10-30T21:29:59Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [
+    {
+      "id": "2116283366265782340",
+      "permalink": "https://x.com/VivaldCode/status/2116283366265782340",
+      "posted_at": "2026-10-30T21:37:27Z",
+      "position": 1
+    },
+    {
+      "id": "2116283501775585584",
+      "permalink": "https://x.com/VivaldCode/status/2116283501775585584",
+      "posted_at": "2026-10-30T21:38:00Z",
+      "position": 2
+    },
+    {
+      "id": "2116285871821586688",
+      "permalink": "https://x.com/VivaldCode/status/2116285871821586688",
+      "posted_at": "2026-10-30T21:47:25Z",
+      "position": 3
+    },
+    {
+      "id": "2116285985075994909",
+      "permalink": "https://x.com/VivaldCode/status/2116285985075994909",
+      "posted_at": "2026-10-30T21:47:52Z",
+      "position": 4
+    },
+    {
+      "id": "2116286093679083530",
+      "permalink": "https://x.com/VivaldCode/status/2116286093679083530",
+      "posted_at": "2026-10-30T21:48:18Z",
+      "position": 5
+    }
+  ],
+  "summary_md": "**Vivaldi code ([@VivaldCode](https://x.com/VivaldCode/status/2116281487238832352))** open-sources **Ariadne** (AGPL-3.0), offline agent memory serving Kiwix archives through one MCP server with eight tools, layered as raw ZIM, curated wiki and a growing semantic index, every result carrying source and version; CPU-only without AVX, and no quality numbers published yet ([VivaldiCode/Ariadne](https://github.com/VivaldiCode/Ariadne), [ariadne-project.com](https://ariadne-project.com)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/VivaldiCode/Ariadne",
+      "from_post": "2116281487238832352",
+      "short_url": "https://t.co/jv1wOFqkmF",
+      "title": "GitHub - VivaldiCode/Ariadne: Offline knowledge memory for AI agents: Kiwix + Wiki.js + pgvector over MCP and REST. CPU only, no GPU or AVX needed."
+    },
+    {
+      "url": "https://ariadne-project.com",
+      "from_post": "2116286093679083530",
+      "short_url": "https://t.co/Hc0UtTDCvF",
+      "title": "Ariadne · Follow the thread to a cited answer"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev",
+    "local-models"
+  ],
+  "keywords": [
+    "ariadne",
+    "kiwix",
+    "mcp",
+    "offline-knowledge",
+    "pgvector"
+  ],
+  "relevance": "Cited offline knowledge for local agents."
+}

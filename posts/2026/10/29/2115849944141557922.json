@@ -1,0 +1,34 @@
+{
+  "id": "2115849944141557922",
+  "permalink": "https://x.com/penthera_org/status/2115849944141557922",
+  "author": {
+    "name": "Penthera",
+    "handle": "@penthera_org",
+    "profile_url": "https://x.com/penthera_org"
+  },
+  "posted_at": "2026-10-29T16:55:11Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**Penthera ([@penthera_org](https://x.com/penthera_org/status/2115849944141557922))** warns that the npm MCP server **atlisp/mcp 1.12.14** shipped malware (GHSA-65cr-mcfq-59hh): treat any machine whose agent started it as compromised, rotate keys from another machine, and grep `.mcp.json` and `~/.claude.json` for it ([advisory](https://github.com/advisories/GHSA-65cr-mcfq-59hh)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/advisories/GHSA-65cr-mcfq-59hh",
+      "from_post": "2115849944141557922",
+      "short_url": "https://t.co/Xk200971VI",
+      "title": "GHSA-65cr-mcfq-59hh - GitHub Advisory Database"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "mcp",
+    "malware",
+    "supply-chain",
+    "npm",
+    "security-advisory"
+  ],
+  "relevance": "MCP supply-chain incident relevant to any agent setup."
+}

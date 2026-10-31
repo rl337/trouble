@@ -1,0 +1,42 @@
+{
+  "id": "2116116779651219884",
+  "permalink": "https://x.com/JackdeS11/status/2116116779651219884",
+  "author": {
+    "name": "Daisuke Majima (MLBoy)",
+    "handle": "@JackdeS11",
+    "profile_url": "https://x.com/JackdeS11"
+  },
+  "posted_at": "2026-10-30T10:35:30Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**Daisuke Majima (MLBoy) ([@JackdeS11](https://x.com/JackdeS11/status/2116116779651219884))** converted Liquid AI's **LFM3-Audio-2B** to LiteRT: a 2B model that transcribes, speaks and translates in 18 languages, running offline on a Galaxy S26 GPU at 40.6 tok/s and 0.40 s per second of speech ([litert-community/LFM3-Audio-2B-LiteRT](https://huggingface.co/litert-community/LFM3-Audio-2B-LiteRT)).",
+  "referenced_urls": [
+    {
+      "url": "https://huggingface.co/litert-community/LFM3-Audio-2B-LiteRT",
+      "from_post": "2116116779651219884",
+      "short_url": "https://t.co/S4LYOrG4tH",
+      "title": "litert-community/LFM3-Audio-2B-LiteRT · Hugging Face"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "local-models"
+  ],
+  "keywords": [
+    "lfm3-audio",
+    "litert",
+    "on-device",
+    "speech-model",
+    "liquid-ai"
+  ],
+  "relevance": "On-device audio model for local voice agents.",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://x.com/JackdeS11/status/2116116779651219884/video/1",
+      "from_post": "2116116779651219884",
+      "description": "Phone demo of offline transcription and speech (not downloaded; referenced only)."
+    }
+  ]
+}

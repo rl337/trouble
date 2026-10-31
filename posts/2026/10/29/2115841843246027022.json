@@ -1,0 +1,44 @@
+{
+  "id": "2115841843246027022",
+  "permalink": "https://x.com/Memoirs/status/2115841843246027022",
+  "author": {
+    "name": "Machine Learning (ML) Papers",
+    "handle": "@Memoirs",
+    "profile_url": "https://x.com/Memoirs"
+  },
+  "posted_at": "2026-10-29T16:23:00Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**Machine Learning (ML) Papers ([@Memoirs](https://x.com/Memoirs/status/2115841843246027022))** shares **AMIE (Adaptive Memory Index Evolution)** ([arXiv 2610.34977](https://arxiv.org/abs/2610.34977)), a lightweight plug-in layer that evolves per-memory access state from deployment retrievals without modifying stored content or retraining the host memory system.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.34977",
+      "from_post": "2115841843246027022",
+      "short_url": "https://t.co/4r5GsOAtXi",
+      "title": "Adaptive Memory Index Evolution for Agents"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-cognition"
+  ],
+  "keywords": [
+    "amie",
+    "agent-memory",
+    "memory-index",
+    "retrieval"
+  ],
+  "relevance": "Treats memory access as separately adaptable from memory content.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HVz68aiXQAAFjY-.png",
+      "from_post": "2115841843246027022",
+      "description": "Image of the paper's abstract text.",
+      "kind": "paper",
+      "thumbnail": "posts/2026/10/29/2115841843246027022/media/0.webp",
+      "ocr_text": "Long-horizon agents continually accumulate experience, yet retaining a memory does not guarantee access when it is needed. Existing systems can adapt both memory content and access; we isolate persistent access updates as a separately controlled adaptation layer. We formulate this target as Memory Index Evolution and instantiate it with Adaptive Memory Index Evolution (AMIE), a lightweight plug-in layer that evolves per-memory access state from deployment retrievals without modifying stored content or retraining the host memory system. AMIE distils a semantic teacher's keep/suppress judgments into a retrieval-conditioned policy and accumulates its selective actions into bounded state that reweights subsequent host retrievals. Surprisingly, even a zero-call policy that simply accumulates retrieval frequency can match or outperform semantic policies in several settings, revealing retrieval traffic itself as a strong signal for access adaptation, while learned selectivity improves robustn"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "id": "2116152336892719462",
+  "permalink": "https://x.com/HongyeMain/status/2116152336892719462",
+  "author": {
+    "name": "Kevin Tech Labs",
+    "handle": "@HongyeMain",
+    "profile_url": "https://x.com/HongyeMain"
+  },
+  "posted_at": "2026-10-30T12:56:47Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [
+    {
+      "id": "2116169383202705732",
+      "permalink": "https://x.com/HongyeMain/status/2116169383202705732",
+      "posted_at": "2026-10-30T14:04:32Z",
+      "position": 1
+    }
+  ],
+  "summary_md": "**Kevin Tech Labs ([@HongyeMain](https://x.com/HongyeMain/status/2116152336892719462))** shares **open-pose-costume**, a bilingual reference studio combining pose, costume and character images to generate new looks, with an agent skill and commercially usable references ([hongye007/open-pose-costume](https://github.com/hongye007/open-pose-costume)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/hongye007/open-pose-costume",
+      "from_post": "2116152336892719462",
+      "short_url": "https://t.co/e6WcqHJT9T",
+      "title": "GitHub - hongye007/open-pose-costume: A bilingual reference studio for poses, costumes, and AI character creation."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "open-pose-costume",
+    "pose-reference",
+    "costume",
+    "character-design",
+    "agent-skill"
+  ],
+  "relevance": "Reference-driven character restyling for agents.",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://x.com/HongyeMain/status/2116152336892719462/video/1",
+      "from_post": "2116152336892719462",
+      "description": "Demo combining pose, outfit and character (not downloaded; referenced only)."
+    }
+  ]
+}

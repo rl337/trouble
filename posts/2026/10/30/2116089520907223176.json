@@ -1,0 +1,43 @@
+{
+  "id": "2116089520907223176",
+  "permalink": "https://x.com/Beamsters1/status/2116089520907223176",
+  "author": {
+    "name": "Beamsters",
+    "handle": "@Beamsters1",
+    "profile_url": "https://x.com/Beamsters1"
+  },
+  "posted_at": "2026-10-30T08:47:11Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**Beamsters ([@Beamsters1](https://x.com/Beamsters1/status/2116089520907223176))** announces an upgraded **DeepSeek-V4.1-Flash iQ 3-bit** MLX-Serve quant for 256 GB+ Macs, claiming about 39% lower divergence across agent, coding and reasoning tasks ([ddalcu/DeepSeek-V4.1-Flash-1017-MLX-Serve-iQ-MLX-3.0bpw](https://huggingface.co/ddalcu/DeepSeek-V4.1-Flash-1017-MLX-Serve-iQ-MLX-3.0bpw)).",
+  "referenced_urls": [
+    {
+      "url": "https://huggingface.co/ddalcu/DeepSeek-V4.1-Flash-1017-MLX-Serve-iQ-MLX-3.0bpw",
+      "from_post": "2116089520907223176",
+      "short_url": "https://t.co/fLZsRf1Qfs",
+      "title": "ddalcu/DeepSeek-V4.1-Flash-1017-MLX-Serve-iQ-MLX-3.0bpw · Hugging Face"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "local-models"
+  ],
+  "keywords": [
+    "deepseek-v4.1-flash",
+    "mlx",
+    "quantization",
+    "3-bit"
+  ],
+  "relevance": "Better low-bit quant of a large MoE for local use.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV3bnQbawAAuDfq.jpg",
+      "from_post": "2116089520907223176",
+      "description": "Per-category divergence chart for the iQ 3.0bpw quant showing about -39% overall.",
+      "kind": "chart",
+      "thumbnail": "posts/2026/10/30/2116089520907223176/media/0.webp"
+    }
+  ]
+}

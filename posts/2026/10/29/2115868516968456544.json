@@ -1,0 +1,45 @@
+{
+  "id": "2115868516968456544",
+  "permalink": "https://x.com/MrPrivedenie/status/2115868516968456544",
+  "author": {
+    "name": "Артур Хорошев",
+    "handle": "@MrPrivedenie",
+    "profile_url": "https://x.com/MrPrivedenie"
+  },
+  "posted_at": "2026-10-29T18:09:00Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**Артур Хорошев ([@MrPrivedenie](https://x.com/MrPrivedenie/status/2115868516968456544))** presents **Karuselka**, a Cursor plugin where a chain of agents builds Instagram carousels from research to publishing, led by a design controller that checks bleed, proportions and the first video frame ([Horosheff/Karuselka](https://github.com/Horosheff/Karuselka)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/Horosheff/Karuselka",
+      "from_post": "2115868516968456544",
+      "short_url": "https://t.co/s1420DjoFL",
+      "title": "GitHub - Horosheff/Karuselka: Каруселька — Cursor-плагин для агентского создания Instagram-каруселей"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-media",
+    "harness-dev"
+  ],
+  "keywords": [
+    "karuselka",
+    "cursor-plugin",
+    "instagram-carousel",
+    "multi-agent",
+    "design"
+  ],
+  "relevance": "Multi-agent content pipeline with a design QA agent.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV0TLDQXAAEcTWl.jpg",
+      "from_post": "2115868516968456544",
+      "description": "Promo graphic \"Каруселька\" with a cat shouting into a megaphone, labeled as a Cursor plugin.",
+      "kind": "other",
+      "thumbnail": "posts/2026/10/29/2115868516968456544/media/0.webp"
+    }
+  ]
+}

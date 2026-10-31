@@ -1,0 +1,34 @@
+{
+  "id": "2115900832046530609",
+  "permalink": "https://x.com/LLMpsycho/status/2115900832046530609",
+  "author": {
+    "name": "Bessi S",
+    "handle": "@LLMpsycho",
+    "profile_url": "https://x.com/LLMpsycho"
+  },
+  "posted_at": "2026-10-29T20:17:24Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**Bessi S ([@LLMpsycho](https://x.com/LLMpsycho/status/2115900832046530609))** points to **Ryugi**, a plugin workflow where the coding agent sketches UI options on a commentable artboard, builds an approved spec under TDD, and you pass or reject screenshots against the design ([Innei/ryugi](https://github.com/Innei/ryugi)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/Innei/ryugi",
+      "from_post": "2115900832046530609",
+      "short_url": "https://t.co/EQ5pyyYMfR",
+      "title": "GitHub - Innei/ryugi: 流儀 — a development workflow for coding agents: brainstorm with mockups, approve a spec, build it under TDD"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "ryugi",
+    "ui-mockup",
+    "tdd",
+    "claude-code",
+    "workflow"
+  ],
+  "relevance": "Design-first, verified UI workflow for agents."
+}

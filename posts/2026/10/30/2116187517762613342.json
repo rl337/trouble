@@ -1,0 +1,42 @@
+{
+  "id": "2116187517762613342",
+  "permalink": "https://x.com/ivanfioravanti/status/2116187517762613342",
+  "author": {
+    "name": "Ivan Fioravanti",
+    "handle": "@ivanfioravanti",
+    "profile_url": "https://x.com/ivanfioravanti"
+  },
+  "posted_at": "2026-10-30T15:16:35Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**Ivan Fioravanti ([@ivanfioravanti](https://x.com/ivanfioravanti/status/2116187517762613342))** ported the **Idol** image-to-3D Gaussian model to Apple MLX on the fly, with some parts still on MPS ([ivanfioravanti/idol-sdk-mlx](https://github.com/ivanfioravanti/idol-sdk-mlx)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/ivanfioravanti/idol-sdk-mlx",
+      "from_post": "2116187517762613342",
+      "short_url": "https://t.co/RkJeWuNy7f",
+      "title": "GitHub - ivanfioravanti/idol-sdk-mlx: Idol: a single image to 3D Gaussians. Inference SDK and demo."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-media",
+    "local-models"
+  ],
+  "keywords": [
+    "idol",
+    "mlx",
+    "gaussian-splat",
+    "image-to-3d"
+  ],
+  "relevance": "Local image-to-3D on Apple Silicon.",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://x.com/ivanfioravanti/status/2116187517762613342/video/1",
+      "from_post": "2116187517762613342",
+      "description": "Rotating 3D Gaussian output (not downloaded; referenced only)."
+    }
+  ]
+}

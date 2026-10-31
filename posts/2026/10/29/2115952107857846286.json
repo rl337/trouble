@@ -1,0 +1,57 @@
+{
+  "id": "2115952107857846286",
+  "permalink": "https://x.com/GiveMePromptsHQ/status/2115952107857846286",
+  "author": {
+    "name": "GiveMePrompts",
+    "handle": "@GiveMePromptsHQ",
+    "profile_url": "https://x.com/GiveMePromptsHQ"
+  },
+  "posted_at": "2026-10-29T23:41:09Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [
+    {
+      "id": "2115958056152600737",
+      "permalink": "https://x.com/GiveMePromptsHQ/status/2115958056152600737",
+      "posted_at": "2026-10-30T00:04:47Z",
+      "position": 1
+    }
+  ],
+  "summary_md": "**GiveMePrompts ([@GiveMePromptsHQ](https://x.com/GiveMePromptsHQ/status/2115952107857846286))** made **Crew Cut**, a party game where phones join, selfies become characters, everyone secretly directs a scene and the TV premieres the film, built in ComfyUI on a MacBook with FLUX.2 klein and LTX-Video ([GiveMePrompts/crew-cut](https://github.com/GiveMePrompts/crew-cut)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/GiveMePrompts/crew-cut",
+      "from_post": "2115952107857846286",
+      "short_url": "https://t.co/PGo2cRV0Qd",
+      "title": "GitHub - GiveMePrompts/crew-cut: A party game that makes a movie. Phones become characters, friends direct scenes, the TV premieres the film. ComfyUI + Comfy SDK, open weights, runs on a MacBook. #OpenSourceHiggsfield"
+    }
+  ],
+  "hashtags": [
+    "OpenSourceHiggsfield"
+  ],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "crew-cut",
+    "party-game",
+    "ltx-video",
+    "flux.2",
+    "comfyui"
+  ],
+  "relevance": "Playful multiplayer generative filmmaking.",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://x.com/GiveMePromptsHQ/status/2115952107857846286/video/1",
+      "from_post": "2115952107857846286",
+      "description": "Crew Cut demo (not downloaded; referenced only)."
+    },
+    {
+      "type": "video",
+      "url": "https://x.com/GiveMePromptsHQ/status/2115958056152600737/video/1",
+      "from_post": "2115958056152600737",
+      "description": "Full demo with sound (not downloaded; referenced only)."
+    }
+  ]
+}

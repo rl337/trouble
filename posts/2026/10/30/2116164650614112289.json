@@ -1,0 +1,50 @@
+{
+  "id": "2116164650614112289",
+  "permalink": "https://x.com/vincieye/status/2116164650614112289",
+  "author": {
+    "name": "VinciEye",
+    "handle": "@vincieye",
+    "profile_url": "https://x.com/vincieye"
+  },
+  "posted_at": "2026-10-30T13:45:43Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**VinciEye ([@vincieye](https://x.com/vincieye/status/2116164650614112289))** presents *SonoWorld4D* ([arXiv 2610.40640](https://arxiv.org/abs/2610.40640v1), [project](https://humathe.github.io/sonoworld4d/)), which turns one monocular video into an audio-visual 4D scene with a 360° background, motion trajectories and a physically grounded sound field.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.40640v1",
+      "from_post": "2116164650614112289",
+      "short_url": "https://t.co/ygZg64s4Qm",
+      "title": "SonoWorld4D: From One Video to a 4D Audio-Visual Scene via..."
+    },
+    {
+      "url": "https://humathe.github.io/sonoworld4d/",
+      "from_post": "2116164650614112289",
+      "short_url": "https://t.co/lTQV9DQS8p",
+      "title": "SonoWorld4D: From One Video to a 4D Audio-Visual Scene via Diffusion Synchronization"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "sonoworld4d",
+    "4d-scene",
+    "spatial-audio",
+    "sound-field",
+    "monocular-video"
+  ],
+  "relevance": "Adds spatial audio to generated 4D scenes.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV4ghMfXoAECiKb.jpg",
+      "from_post": "2116164650614112289",
+      "description": "Pipeline figure: dynamic foreground, panoramic background and audio sound-field generation aligned into a 4D scene.",
+      "kind": "diagram",
+      "thumbnail": "posts/2026/10/30/2116164650614112289/media/0.webp"
+    }
+  ]
+}

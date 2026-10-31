@@ -1,0 +1,34 @@
+{
+  "id": "2115996682920050996",
+  "permalink": "https://x.com/donella45141/status/2115996682920050996",
+  "author": {
+    "name": "不正经的Ai局长",
+    "handle": "@donella45141",
+    "profile_url": "https://x.com/donella45141"
+  },
+  "posted_at": "2026-10-30T02:38:17Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**不正经的Ai局长 ([@donella45141](https://x.com/donella45141/status/2115996682920050996))** highlights **Cindy**, a free open-source client that runs Claude Code, Codex and Pi in one place and lets you continue desktop sessions from your phone ([makecindy/cindy](https://github.com/makecindy/cindy)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/makecindy/cindy",
+      "from_post": "2115996682920050996",
+      "short_url": "https://t.co/MuiVSPSMEg",
+      "title": "GitHub - makecindy/cindy: Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "cindy",
+    "claude-code",
+    "codex",
+    "pi-agent",
+    "mobile"
+  ],
+  "relevance": "Unified mobile-capable front end for multiple harnesses."
+}

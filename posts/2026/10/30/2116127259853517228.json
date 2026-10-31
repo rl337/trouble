@@ -1,0 +1,43 @@
+{
+  "id": "2116127259853517228",
+  "permalink": "https://x.com/algomagic/status/2116127259853517228",
+  "author": {
+    "name": "mike andrews",
+    "handle": "@algomagic",
+    "profile_url": "https://x.com/algomagic"
+  },
+  "posted_at": "2026-10-30T11:17:09Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**mike andrews ([@algomagic](https://x.com/algomagic/status/2116127259853517228))** points to *From Grind to Grasp* ([arXiv 2610.38728](https://arxiv.org/abs/2610.38728)), which defines grasp as performance across work budgets, contrasting efficient problem-solving with costly grind and warning about self-sustaining agent collectives.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.38728",
+      "from_post": "2116127259853517228",
+      "short_url": "https://t.co/wQ3eAN23vn",
+      "title": "From Grind to Grasp"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-cognition"
+  ],
+  "keywords": [
+    "grasp",
+    "work-budget",
+    "problem-solving",
+    "agent-collective"
+  ],
+  "relevance": "Framework for measuring efficient problem-solving.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV3-hiXX0AA_yG0.jpg",
+      "from_post": "2116127259853517228",
+      "description": "Illustration of a switchback staircase descending into and out of a coral gorge with a bridge across the top.",
+      "kind": "photo",
+      "thumbnail": "posts/2026/10/30/2116127259853517228/media/0.webp"
+    }
+  ]
+}

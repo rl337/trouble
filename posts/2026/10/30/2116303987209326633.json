@@ -1,0 +1,33 @@
+{
+  "id": "2116303987209326633",
+  "permalink": "https://x.com/MuzafferKal_/status/2116303987209326633",
+  "author": {
+    "name": "Muzaffer Kal @🏡 🦆⏩",
+    "handle": "@MuzafferKal_",
+    "profile_url": "https://x.com/MuzafferKal_"
+  },
+  "posted_at": "2026-10-30T22:59:24Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**Muzaffer Kal @🏡 🦆⏩ ([@MuzafferKal_](https://x.com/MuzafferKal_/status/2116303987209326633))** points to *Inside-JEPA: From Prediction to Relational Grounding in Latent World Models* ([arXiv 2610.31194](https://arxiv.org/abs/2610.31194)).",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.31194",
+      "from_post": "2116303987209326633",
+      "short_url": "https://t.co/1AasKV9Mrv",
+      "title": "Inside-JEPA: From Prediction to Relational Grounding in Latent World Models"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-cognition"
+  ],
+  "keywords": [
+    "inside-jepa",
+    "jepa",
+    "world-model",
+    "latent-representation"
+  ],
+  "relevance": "World-model research on relational grounding."
+}

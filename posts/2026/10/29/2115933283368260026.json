@@ -1,0 +1,33 @@
+{
+  "id": "2115933283368260026",
+  "permalink": "https://x.com/agentwirenews/status/2115933283368260026",
+  "author": {
+    "name": "AgentWire News",
+    "handle": "@agentwirenews",
+    "profile_url": "https://x.com/agentwirenews"
+  },
+  "posted_at": "2026-10-29T22:26:21Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**AgentWire News ([@agentwirenews](https://x.com/agentwirenews/status/2115933283368260026))** reports **OpenCode 2.2.1** added `/goal`, letting a session keep working on an objective until a reviewer confirms it's met (with pause/resume/clear), and 2.2.2 enabled image generation by default for supported providers ([releases](https://github.com/anomalyco/opencode/releases)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/anomalyco/opencode/releases",
+      "from_post": "2115933283368260026",
+      "short_url": "https://t.co/4tUiViV5pm",
+      "title": "Releases · anomalyco/opencode"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "opencode",
+    "goal",
+    "release",
+    "coding-agent"
+  ],
+  "relevance": "Goal-driven loops arriving in an open harness."
+}

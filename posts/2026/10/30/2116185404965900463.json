@@ -1,0 +1,62 @@
+{
+  "id": "2116185404965900463",
+  "permalink": "https://x.com/WildMindLabs/status/2116185404965900463",
+  "author": {
+    "name": "WildMind Labs",
+    "handle": "@WildMindLabs",
+    "profile_url": "https://x.com/WildMindLabs"
+  },
+  "posted_at": "2026-10-30T15:08:12Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [
+    {
+      "id": "2116185587581624332",
+      "permalink": "https://x.com/WildMindLabs/status/2116185587581624332",
+      "posted_at": "2026-10-30T15:08:55Z",
+      "position": 1
+    }
+  ],
+  "summary_md": "**WildMind Labs ([@WildMindLabs](https://x.com/WildMindLabs/status/2116185404965900463))** releases an early open-source **Local AI Stack** for private AI on your own GPUs with a readable control plane, defaulting to loopback and keeping usage events on-box ([dlealvilla/local-ai-stack](https://github.com/dlealvilla/local-ai-stack), [roadmap](https://github.com/dlealvilla/local-ai-stack/blob/main/docs/ROADMAP.md)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/dlealvilla/local-ai-stack",
+      "from_post": "2116185404965900463",
+      "short_url": "https://t.co/eWOq8NGccE",
+      "title": "GitHub - dlealvilla/local-ai-stack: 🖥️ Local AI Stack: run private AI on your own GPU servers. Model discovery, capacity planning, fast local inference, a secure gateway, and admin and workspace UIs."
+    },
+    {
+      "url": "https://github.com/dlealvilla/local-ai-stack/blob/main/docs/ROADMAP.md",
+      "from_post": "2116185587581624332",
+      "short_url": "https://t.co/yMmNaNVbgb",
+      "title": "local-ai-stack/docs/ROADMAP.md at main · dlealvilla/local-ai-stack"
+    },
+    {
+      "url": "https://github.com/dlealvilla/local-ai-stack/labels/good%20first%20issue",
+      "from_post": "2116185587581624332",
+      "short_url": "https://t.co/hP3k4hVOp1",
+      "title": "Issues · dlealvilla/local-ai-stack"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "local-models"
+  ],
+  "keywords": [
+    "local-ai-stack",
+    "self-hosted",
+    "gpu-server",
+    "privacy"
+  ],
+  "relevance": "Self-hosted model serving stack.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV4zRmwWoAAVVxq.jpg",
+      "from_post": "2116185404965900463",
+      "description": "WildMind Labs banner: 'Keep sensitive AI local'.",
+      "kind": "other",
+      "thumbnail": "posts/2026/10/30/2116185404965900463/media/0.webp"
+    }
+  ]
+}

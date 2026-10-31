@@ -1,0 +1,94 @@
+{
+  "id": "2115933790493348065",
+  "permalink": "https://x.com/web3myid/status/2115933790493348065",
+  "author": {
+    "name": "bAIwor",
+    "handle": "@web3myid",
+    "profile_url": "https://x.com/web3myid"
+  },
+  "posted_at": "2026-10-29T22:28:22Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [
+    {
+      "id": "2115933930260218081",
+      "permalink": "https://x.com/web3myid/status/2115933930260218081",
+      "posted_at": "2026-10-29T22:28:55Z",
+      "position": 1
+    },
+    {
+      "id": "2115934037512704447",
+      "permalink": "https://x.com/web3myid/status/2115934037512704447",
+      "posted_at": "2026-10-29T22:29:21Z",
+      "position": 2
+    },
+    {
+      "id": "2115934111240183916",
+      "permalink": "https://x.com/web3myid/status/2115934111240183916",
+      "posted_at": "2026-10-29T22:29:38Z",
+      "position": 3
+    },
+    {
+      "id": "2115934402412945850",
+      "permalink": "https://x.com/web3myid/status/2115934402412945850",
+      "posted_at": "2026-10-29T22:30:48Z",
+      "position": 4
+    }
+  ],
+  "summary_md": "**bAIwor ([@web3myid](https://x.com/web3myid/status/2115933790493348065))** built **bAIwor Code**, a terminal coding agent with four rotating Javanese Punakawan personas by tool (architect, explorer, builder, auditor), made with MiniMax Code and M3.1 Flash's 1M context; guardrails include a symlink-aware sandbox, approval gates, fenced untrusted tool output, secret redaction and read-only MCP by default ([bAIwor/baiworcode](https://github.com/bAIwor/baiworcode)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/bAIwor/baiworcode",
+      "from_post": "2115933790493348065",
+      "short_url": "https://t.co/eFhmp8OHOU",
+      "title": "GitHub - bAIwor/baiworcode: bAIwor Code - Terminal AI Coding Agent"
+    }
+  ],
+  "hashtags": [
+    "MiniMaxCode"
+  ],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "baiwor-code",
+    "terminal-agent",
+    "minimax",
+    "persona",
+    "guardrail",
+    "sandbox"
+  ],
+  "relevance": "Persona-driven terminal harness with solid guardrails.",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://x.com/web3myid/status/2115934402412945850/video/1",
+      "from_post": "2115934402412945850",
+      "description": "bAIwor Code demo (not downloaded; referenced only)."
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV1PHmMaYAAVL8p.png",
+      "from_post": "2115934402412945850",
+      "description": "Terminal session showing a tool table and file listing in bAIwor Code.",
+      "kind": "screenshot",
+      "thumbnail": "posts/2026/10/29/2115933790493348065/media/1.webp"
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV1PHmWboAAYton.jpg",
+      "from_post": "2115934402412945850",
+      "description": "Terminal output with a multi-step agent response.",
+      "kind": "screenshot",
+      "thumbnail": "posts/2026/10/29/2115933790493348065/media/2.webp"
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV1PHmSaAAAlVhu.jpg",
+      "from_post": "2115934402412945850",
+      "description": "Terminal help listing of commands and options.",
+      "kind": "screenshot",
+      "thumbnail": "posts/2026/10/29/2115933790493348065/media/3.webp"
+    }
+  ]
+}

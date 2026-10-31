@@ -1,0 +1,86 @@
+{
+  "id": "2115923666651287685",
+  "permalink": "https://x.com/Olmirad/status/2115923666651287685",
+  "author": {
+    "name": "Olli Sorjonen",
+    "handle": "@Olmirad",
+    "profile_url": "https://x.com/Olmirad"
+  },
+  "posted_at": "2026-10-29T21:48:08Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [
+    {
+      "id": "2115924143296086497",
+      "permalink": "https://x.com/Olmirad/status/2115924143296086497",
+      "posted_at": "2026-10-29T21:50:02Z",
+      "position": 1
+    },
+    {
+      "id": "2115924691747586054",
+      "permalink": "https://x.com/Olmirad/status/2115924691747586054",
+      "posted_at": "2026-10-29T21:52:13Z",
+      "position": 2
+    }
+  ],
+  "summary_md": "**Olli Sorjonen ([@Olmirad](https://x.com/Olmirad/status/2115923666651287685))** made an experimental ComfyUI wrapper for NVIDIA's **Open-H3-Regenerate-2K** upscaler with adjustable noise and memory controls; lower noise adds texture and sharpness, though faces, text and small details can drift, and after first dismissing it as close to SoL-Refiner he now sees use cases ([o-l-l-i/ComfyUI-Olm-Open-H3-Regenerate-2K](https://github.com/o-l-l-i/ComfyUI-Olm-Open-H3-Regenerate-2K)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/o-l-l-i/ComfyUI-Olm-Open-H3-Regenerate-2K",
+      "from_post": "2115923666651287685",
+      "short_url": "https://t.co/0E1XsGeeoL",
+      "title": "GitHub - o-l-l-i/ComfyUI-Olm-Open-H3-Regenerate-2K: Experimental ComfyUI nodes for NVIDIA's Open-H3-Regenerate-2K for upscaling and generatively refining video, or existing MiniMax-H3 latents."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "open-h3-regenerate-2k",
+    "comfyui",
+    "upscaling",
+    "image-refinement"
+  ],
+  "relevance": "Open upscaling/refinement node for local image pipelines.",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://x.com/Olmirad/status/2115923666651287685/video/1",
+      "from_post": "2115923666651287685",
+      "description": "Node demo (not downloaded; referenced only)."
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV1GNavWwAAKGkP.jpg",
+      "from_post": "2115924691747586054",
+      "description": "Side-by-side source (1344×768) vs. refined (2560×1440) full scene of a woman with a dog at a café.",
+      "kind": "screenshot",
+      "thumbnail": "posts/2026/10/29/2115923666651287685/media/1.webp"
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV1GNavXcAAUuFQ.jpg",
+      "from_post": "2115924691747586054",
+      "description": "Second full-scene source vs. refined comparison.",
+      "kind": "screenshot",
+      "thumbnail": "posts/2026/10/29/2115923666651287685/media/2.webp"
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV1GNeUWcAAQrAx.jpg",
+      "from_post": "2115924691747586054",
+      "description": "Crop comparison of face and earrings, source vs. refined.",
+      "kind": "screenshot",
+      "thumbnail": "posts/2026/10/29/2115923666651287685/media/3.webp"
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV1GNa9XwAA6ztJ.jpg",
+      "from_post": "2115924691747586054",
+      "description": "Crop comparison of the dog, source vs. refined.",
+      "kind": "screenshot",
+      "thumbnail": "posts/2026/10/29/2115923666651287685/media/4.webp"
+    }
+  ]
+}

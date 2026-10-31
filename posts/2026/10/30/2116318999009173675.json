@@ -1,0 +1,43 @@
+{
+  "id": "2116318999009173675",
+  "permalink": "https://x.com/ellatracker/status/2116318999009173675",
+  "author": {
+    "name": "Ella",
+    "handle": "@ellatracker",
+    "profile_url": "https://x.com/ellatracker"
+  },
+  "posted_at": "2026-10-30T23:59:03Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**Ella ([@ellatracker](https://x.com/ellatracker/status/2116318999009173675))** cites *Design Creativity Bench* ([arXiv 2610.11539](https://arxiv.org/html/2610.11539v1)). Frontier models score well on appropriateness but poorly on originality and creative range for UI design, which matches what designers in her own study saw.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/html/2610.11539v1",
+      "from_post": "2116318999009173675",
+      "short_url": "https://t.co/A2W4Tus0JF",
+      "title": "Design Creativity Bench: Measuring creativity in LLM-Generated UI"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-cognition"
+  ],
+  "keywords": [
+    "design-creativity-bench",
+    "creativity",
+    "ui-design",
+    "benchmark"
+  ],
+  "relevance": "Measuring model creativity.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV6s6BHaMAA3UWL.jpg",
+      "from_post": "2116318999009173675",
+      "description": "Table rating frontier AI on appropriateness, originality and creative range.",
+      "kind": "screenshot",
+      "thumbnail": "posts/2026/10/30/2116318999009173675/media/0.webp"
+    }
+  ]
+}

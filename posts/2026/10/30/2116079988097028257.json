@@ -1,0 +1,38 @@
+{
+  "id": "2116079988097028257",
+  "permalink": "https://x.com/FengIves/status/2116079988097028257",
+  "author": {
+    "name": "IvesFeng",
+    "handle": "@FengIves",
+    "profile_url": "https://x.com/FengIves"
+  },
+  "posted_at": "2026-10-30T08:09:18Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**IvesFeng ([@FengIves](https://x.com/FengIves/status/2116079988097028257))** flags Anthropic's **formal-math** repo, where Claude found and Lean-formalized a deterministic 2^{o(n)} algorithm for 3-SAT that would refute ETH, cautioning that it is purely asymptotic and readers should check the README rather than read it as P=NP ([anthropics/formal-math](https://github.com/anthropics/formal-math)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/anthropics/formal-math",
+      "from_post": "2116079988097028257",
+      "short_url": "https://t.co/yzeTmVtsmB",
+      "title": "GitHub - anthropics/formal-math"
+    }
+  ],
+  "hashtags": [
+    "Anthropic",
+    "形式化"
+  ],
+  "topics": [
+    "agentic-cognition"
+  ],
+  "keywords": [
+    "formal-math",
+    "lean",
+    "3-sat",
+    "exponential-time-hypothesis",
+    "formal-verification",
+    "claude"
+  ],
+  "relevance": "A notable claim of AI-driven, machine-checked mathematical discovery."
+}

@@ -1,0 +1,47 @@
+{
+  "id": "2116017741287379228",
+  "permalink": "https://x.com/rlaope/status/2116017741287379228",
+  "author": {
+    "name": "HOPE.",
+    "handle": "@rlaope",
+    "profile_url": "https://x.com/rlaope"
+  },
+  "posted_at": "2026-10-30T04:01:57Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**HOPE. ([@rlaope](https://x.com/rlaope/status/2116017741287379228))** plugged a memory system and gateway into the DeepSeek harness to run it as a personal agent ([rlaope/deepseek-bot](https://github.com/rlaope/deepseek-bot), [OpenGateway models](https://opengateway.ai/models)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/rlaope/deepseek-bot",
+      "from_post": "2116017741287379228",
+      "short_url": "https://t.co/qBVpLdMx8X",
+      "title": "GitHub - rlaope/deepseek-bot: The agentic memory & gateway for deepseek-harness"
+    },
+    {
+      "url": "https://opengateway.ai/models",
+      "from_post": "2116017741287379228",
+      "short_url": "https://t.co/m0uvbh0sUs",
+      "title": "Models — OpenGateway"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "deepseek-bot",
+    "deepseek-harness",
+    "agent-memory",
+    "gateway"
+  ],
+  "relevance": "Memory and gateway extension for a harness.",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://x.com/rlaope/status/2116017741287379228/video/1",
+      "from_post": "2116017741287379228",
+      "description": "Demo (not downloaded; referenced only)."
+    }
+  ]
+}

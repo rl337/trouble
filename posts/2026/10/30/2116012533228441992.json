@@ -1,0 +1,40 @@
+{
+  "id": "2116012533228441992",
+  "permalink": "https://x.com/aisearchio/status/2116012533228441992",
+  "author": {
+    "name": "AI Search",
+    "handle": "@aisearchio",
+    "profile_url": "https://x.com/aisearchio"
+  },
+  "posted_at": "2026-10-30T03:41:16Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**AI Search ([@aisearchio](https://x.com/aisearchio/status/2116012533228441992))** notes **Idol**, a new low-VRAM image-to-3D generator producing results in about 2 seconds ([speridlabs/idol](https://huggingface.co/speridlabs/idol)).",
+  "referenced_urls": [
+    {
+      "url": "https://huggingface.co/speridlabs/idol",
+      "from_post": "2116012533228441992",
+      "short_url": "https://t.co/c33DvKDetS",
+      "title": "speridlabs/idol · Hugging Face"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "idol",
+    "image-to-3d",
+    "gaussian-splat"
+  ],
+  "relevance": "Fast open image-to-3D.",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://x.com/aisearchio/status/2116012533228441992/video/1",
+      "from_post": "2116012533228441992",
+      "description": "Idol examples (not downloaded; referenced only)."
+    }
+  ]
+}

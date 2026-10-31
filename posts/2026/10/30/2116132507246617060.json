@@ -1,0 +1,33 @@
+{
+  "id": "2116132507246617060",
+  "permalink": "https://x.com/gaoren7716/status/2116132507246617060",
+  "author": {
+    "name": "小海豚笔记 (AI & 副业探索)",
+    "handle": "@gaoren7716",
+    "profile_url": "https://x.com/gaoren7716"
+  },
+  "posted_at": "2026-10-30T11:38:00Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**小海豚笔记 (AI & 副业探索) ([@gaoren7716](https://x.com/gaoren7716/status/2116132507246617060))** spotlights **huashu-bird-sticker**, uniform stickers for all 11,064 living bird species (11,030 AI-drawn, 34 photo cut-outs), emphasizing the pipeline: reference photos with source and license, separate drawing and review, and an 80-point pass bar capped when any feature is wrong ([alchaincyf/huashu-bird-sticker](https://github.com/alchaincyf/huashu-bird-sticker)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/alchaincyf/huashu-bird-sticker",
+      "from_post": "2116132507246617060",
+      "short_url": "https://t.co/MzHEtsFOFq",
+      "title": "GitHub - alchaincyf/huashu-bird-sticker: 花叔开源的全球鸟类贴纸库 · Stickers for all 11,064 living bird species, with names in 43 languages and structured data"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "huashu-bird-sticker",
+    "image-generation",
+    "quality-review",
+    "sticker"
+  ],
+  "relevance": "QA process for large-scale agentic image production."
+}

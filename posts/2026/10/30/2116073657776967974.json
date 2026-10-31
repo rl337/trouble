@@ -1,0 +1,59 @@
+{
+  "id": "2116073657776967974",
+  "permalink": "https://x.com/AgentsWatch/status/2116073657776967974",
+  "author": {
+    "name": "AgentsWatch",
+    "handle": "@AgentsWatch",
+    "profile_url": "https://x.com/AgentsWatch"
+  },
+  "posted_at": "2026-10-30T07:44:09Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [
+    {
+      "id": "2116074816620867990",
+      "permalink": "https://x.com/AgentsWatch/status/2116074816620867990",
+      "posted_at": "2026-10-30T07:48:45Z",
+      "position": 1
+    }
+  ],
+  "summary_md": "**AgentsWatch ([@AgentsWatch](https://x.com/AgentsWatch/status/2116073657776967974))** covers Qiu et al.'s *MAServeBench* ([arXiv 2610.40293](https://arxiv.org/abs/2610.40293)), which treats multi-agent collaboration as a serving workload: dependency-aware release hit 100% deadline attainment versus 4% for barrier ordering at a fixed workload; a follow-up clarifies these are medians at moderate load and both fail at high load.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.40293",
+      "from_post": "2116073657776967974",
+      "short_url": "https://t.co/Ig5saspxky",
+      "title": "MAServeBench: Benchmarking Multi-Agent LLM Serving Systems with..."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "maservebench",
+    "multi-agent",
+    "llm-serving",
+    "scheduling",
+    "latency"
+  ],
+  "relevance": "Serving-level scheduling matters for local multi-agent setups.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV3NmYdXUAAf7L-.jpg",
+      "from_post": "2116073657776967974",
+      "description": "Figure contrasting independent-request serving with collaboration-induced multi-agent serving (planner, researchers, writer).",
+      "kind": "diagram",
+      "thumbnail": "posts/2026/10/30/2116073657776967974/media/0.webp"
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV3OsfLWcAAUyem.jpg",
+      "from_post": "2116074816620867990",
+      "description": "Plots of timely roots/s and task SLO attainment versus offered load for DAG and barrier orderings.",
+      "kind": "chart",
+      "thumbnail": "posts/2026/10/30/2116073657776967974/media/1.webp"
+    }
+  ]
+}

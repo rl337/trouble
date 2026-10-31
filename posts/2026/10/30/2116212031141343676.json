@@ -1,0 +1,33 @@
+{
+  "id": "2116212031141343676",
+  "permalink": "https://x.com/SMishra61/status/2116212031141343676",
+  "author": {
+    "name": "Shorya Mishra",
+    "handle": "@SMishra61",
+    "profile_url": "https://x.com/SMishra61"
+  },
+  "posted_at": "2026-10-30T16:54:00Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**Shorya Mishra ([@SMishra61](https://x.com/SMishra61/status/2116212031141343676))** summarizes *DISCO* ([arXiv 2610.35957](https://arxiv.org/abs/2610.35957)), distributed speculative decoding that keeps a draft model server-side and sends only token IDs and scalar probabilities to cut bandwidth.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.35957",
+      "from_post": "2116212031141343676",
+      "short_url": "https://t.co/vVFtfnB44U",
+      "title": "Distributed LLM Inference via Communication-Efficient Speculative Decoding"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "local-models"
+  ],
+  "keywords": [
+    "disco",
+    "speculative-decoding",
+    "distributed-inference",
+    "bandwidth"
+  ],
+  "relevance": "Edge-cloud inference efficiency."
+}

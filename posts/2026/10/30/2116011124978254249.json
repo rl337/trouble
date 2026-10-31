@@ -1,0 +1,58 @@
+{
+  "id": "2116011124978254249",
+  "permalink": "https://x.com/maxnaid/status/2116011124978254249",
+  "author": {
+    "name": "max naid",
+    "handle": "@maxnaid",
+    "profile_url": "https://x.com/maxnaid"
+  },
+  "posted_at": "2026-10-30T03:35:40Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [
+    {
+      "id": "2116011199058108681",
+      "permalink": "https://x.com/maxnaid/status/2116011199058108681",
+      "posted_at": "2026-10-30T03:35:58Z",
+      "position": 1
+    }
+  ],
+  "summary_md": "**max naid ([@maxnaid](https://x.com/maxnaid/status/2116011124978254249))** released **pointcast**, a free local open alternative to Cursor Annotate that combines speech, pointing and annotated screenshots into one prompt ([naidx0/pointcast](https://github.com/naidx0/pointcast)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/naidx0/pointcast",
+      "from_post": "2116011124978254249",
+      "short_url": "https://t.co/pbTMgngJZC",
+      "title": "GitHub - naidx0/pointcast: Talk, point, paste: one prompt with your words and annotated screenshots for any AI tool. Native on macOS and Windows; speech runs on your computer."
+    },
+    {
+      "url": "https://raw.githubusercontent.com/naidx0/pointcast/main/install.sh",
+      "from_post": "2116011199058108681",
+      "short_url": "https://t.co/hLWStg4OzB"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/naidx0/pointcast/main/install.ps1",
+      "from_post": "2116011199058108681",
+      "short_url": "https://t.co/fl8H43frdN"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "pointcast",
+    "annotation",
+    "screenshot",
+    "voice-prompt"
+  ],
+  "relevance": "Multimodal prompting for coding agents.",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://x.com/maxnaid/status/2116011124978254249/video/1",
+      "from_post": "2116011124978254249",
+      "description": "pointcast demo (not downloaded; referenced only)."
+    }
+  ]
+}

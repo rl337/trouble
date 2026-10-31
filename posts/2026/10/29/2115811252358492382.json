@@ -1,0 +1,34 @@
+{
+  "id": "2115811252358492382",
+  "permalink": "https://x.com/jagu_builds/status/2115811252358492382",
+  "author": {
+    "name": "Jagrit Chawla",
+    "handle": "@jagu_builds",
+    "profile_url": "https://x.com/jagu_builds"
+  },
+  "posted_at": "2026-10-29T14:21:27Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**Jagrit Chawla ([@jagu_builds](https://x.com/jagu_builds/status/2115811252358492382))** points to prompt packs, notably a collection of 475 prompts for videos, 3D scenes and browser games made with Claude, each linked to its demo, arguing for reusable prompt libraries ([yihui-dev/awesome-opus5-5-videos](https://github.com/yihui-dev/awesome-opus5-5-videos)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/yihui-dev/awesome-opus5-5-videos",
+      "from_post": "2115811252358492382",
+      "short_url": "https://t.co/cysh6HKda6",
+      "title": "GitHub - yihui-dev/awesome-opus5-5-videos: A growing collection of viral videos made with Claude Opus 5.5 and the prompts behind them. Watch each original next to a live remake on Skillry. Updated regularly."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "prompt-library",
+    "video",
+    "3d-scene",
+    "browser-game",
+    "claude"
+  ],
+  "relevance": "Prompt library for agentic media generation."
+}

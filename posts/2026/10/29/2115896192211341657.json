@@ -1,0 +1,34 @@
+{
+  "id": "2115896192211341657",
+  "permalink": "https://x.com/agentgate_magon/status/2115896192211341657",
+  "author": {
+    "name": "AgentGate by MAGON",
+    "handle": "@agentgate_magon",
+    "profile_url": "https://x.com/agentgate_magon"
+  },
+  "posted_at": "2026-10-29T19:58:58Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**AgentGate by MAGON ([@agentgate_magon](https://x.com/agentgate_magon/status/2115896192211341657))** seeks testers for **AgentGate**, an open-source runtime guard that gives each agent tool call an ALLOW, ASK or BLOCK decision, with MCP and approval-flow support ([walid-agentgate/magon](https://github.com/walid-agentgate/magon)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/walid-agentgate/magon",
+      "from_post": "2115896192211341657",
+      "short_url": "https://t.co/0lULhmt3kO",
+      "title": "GitHub - walid-agentgate/magon: Runtime control for AI agents: every tool call gets ALLOW, ASK or BLOCK."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "agentgate",
+    "runtime-guard",
+    "tool-call",
+    "mcp",
+    "approval"
+  ],
+  "relevance": "Policy gate for agent tool calls."
+}

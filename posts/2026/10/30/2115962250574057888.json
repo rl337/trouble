@@ -1,0 +1,39 @@
+{
+  "id": "2115962250574057888",
+  "permalink": "https://x.com/yepengliu/status/2115962250574057888",
+  "author": {
+    "name": "Yepeng Liu",
+    "handle": "@yepengliu",
+    "profile_url": "https://x.com/yepengliu"
+  },
+  "posted_at": "2026-10-30T00:21:27Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**Yepeng Liu ([@yepengliu](https://x.com/yepengliu/status/2115962250574057888))** summarizes the team's paper on **test-time memory evolution** ([arXiv 2610.32046](https://arxiv.org/abs/2610.32046), [code](https://github.com/yepengliu/TTME)), which can beat test-time training on scientific discovery with 80%+ fewer FLOPs and roughly 2× speed.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.32046",
+      "from_post": "2115962250574057888",
+      "short_url": "https://t.co/5kW2LM6TE3",
+      "title": "Can Test-Time Memory Evolution Outperform Test-Time Training for..."
+    },
+    {
+      "url": "https://github.com/yepengliu/TTME",
+      "from_post": "2115962250574057888",
+      "short_url": "https://t.co/ro7Cv6Vy8J",
+      "title": "GitHub - yepengliu/TTME: Can Test-Time Memory Evolution Outperform Test-Time Training for Scientific Discovery?"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-cognition"
+  ],
+  "keywords": [
+    "test-time-memory-evolution",
+    "test-time-training",
+    "scientific-discovery",
+    "memory"
+  ],
+  "relevance": "Memory-based alternative to test-time training for discovery."
+}

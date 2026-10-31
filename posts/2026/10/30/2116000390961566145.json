@@ -1,0 +1,52 @@
+{
+  "id": "2116000390961566145",
+  "permalink": "https://x.com/szrf6/status/2116000390961566145",
+  "author": {
+    "name": "阿菜AhChoi",
+    "handle": "@szrf6",
+    "profile_url": "https://x.com/szrf6"
+  },
+  "posted_at": "2026-10-30T02:53:01Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [
+    {
+      "id": "2116000491641741666",
+      "permalink": "https://x.com/szrf6/status/2116000491641741666",
+      "posted_at": "2026-10-30T02:53:25Z",
+      "position": 1
+    }
+  ],
+  "summary_md": "**阿菜AhChoi ([@szrf6](https://x.com/szrf6/status/2116000390961566145))** explains making Douyin knowledge shorts with zero credits using **vibe-knowledge**: copy its vibe-knowledge and ai-teardown skills into ~/.claude/skills and ask Claude Code for an episode on a topic ([andyhuo520/vibe-knowledge](https://github.com/andyhuo520/vibe-knowledge)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/andyhuo520/vibe-knowledge",
+      "from_post": "2116000390961566145",
+      "short_url": "https://t.co/Pbwvv5nU0n",
+      "title": "GitHub - andyhuo520/vibe-knowledge: Vibe 知识大赏：一个知识点 → 一条有旁白、每句有出处的精品知识短片（Claude Code skill · 44 套风格 · 代码逐帧成片）"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-media",
+    "harness-dev"
+  ],
+  "keywords": [
+    "vibe-knowledge",
+    "short-video",
+    "claude-code",
+    "agent-skill",
+    "narration"
+  ],
+  "relevance": "Skill-driven narrated short-video production.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV2LHeEW0AAu4oo.jpg",
+      "from_post": "2116000390961566145",
+      "description": "GitHub repository page for vibe-knowledge.",
+      "kind": "screenshot",
+      "thumbnail": "posts/2026/10/30/2116000390961566145/media/0.webp"
+    }
+  ]
+}

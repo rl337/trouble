@@ -1,0 +1,36 @@
+{
+  "id": "2115885216430481576",
+  "permalink": "https://x.com/Akasa4AI/status/2115885216430481576",
+  "author": {
+    "name": "Akasa",
+    "handle": "@Akasa4AI",
+    "profile_url": "https://x.com/Akasa4AI"
+  },
+  "posted_at": "2026-10-29T19:15:21Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**Akasa ([@Akasa4AI](https://x.com/Akasa4AI/status/2115885216430481576))** shares **Pomerado**, which turns any website into an MCP tool: describe a task in English, it saves the flow as code, and later runs skip the LLM and work behind logins (MIT core) ([Pomerado/pomerado](https://github.com/Pomerado/pomerado)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/Pomerado/pomerado",
+      "from_post": "2115885216430481576",
+      "short_url": "https://t.co/IDX6iSQ703",
+      "title": "GitHub - Pomerado/pomerado: YC F26. Turn any website into an API / MCP in minutes. Open source core integration minting harness. MIT."
+    }
+  ],
+  "hashtags": [
+    "AI",
+    "AIAgents"
+  ],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "pomerado",
+    "mcp",
+    "web-automation",
+    "browser-flow"
+  ],
+  "relevance": "Compiling browser flows into deterministic agent tools."
+}

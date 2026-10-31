@@ -1,0 +1,42 @@
+{
+  "id": "2116418465150177631",
+  "permalink": "https://x.com/jaywcjlove/status/2116418465150177631",
+  "author": {
+    "name": "小弟调调",
+    "handle": "@jaywcjlove",
+    "profile_url": "https://x.com/jaywcjlove"
+  },
+  "posted_at": "2026-10-31T06:34:17Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**小弟调调 ([@jaywcjlove](https://x.com/jaywcjlove/status/2116418465150177631))** shares **HarnessBridge**, a macOS app that moves session history between 40+ coding harnesses entirely on-device ([Larrtroffen/harnessbridge](https://github.com/Larrtroffen/harnessbridge)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/Larrtroffen/harnessbridge",
+      "from_post": "2116418465150177631",
+      "short_url": "https://t.co/tmd7NKpMT9",
+      "title": "GitHub - Larrtroffen/harnessbridge: Agent Session Converter for macOS — migrate AI agent sessions between Claude Code, Codex, DeepSeek Harness, OMP, Qoder, Pi, Gemini CLI and 40+ harnesses. Native SwiftUI app + asi CLI; self-contained arm64 build."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "harnessbridge",
+    "session-migration",
+    "coding-harness"
+  ],
+  "relevance": "Portable sessions across harnesses.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV8HB_cWcAAmLW3.jpg",
+      "from_post": "2116418465150177631",
+      "description": "HarnessBridge app listing supported harnesses.",
+      "kind": "screenshot",
+      "thumbnail": "posts/2026/10/31/2116418465150177631/media/0.webp"
+    }
+  ]
+}

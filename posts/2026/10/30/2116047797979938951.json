@@ -1,0 +1,35 @@
+{
+  "id": "2116047797979938951",
+  "permalink": "https://x.com/xiaojuzi2014/status/2116047797979938951",
+  "author": {
+    "name": "醋溜白菜",
+    "handle": "@xiaojuzi2014",
+    "profile_url": "https://x.com/xiaojuzi2014"
+  },
+  "posted_at": "2026-10-30T06:01:23Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**醋溜白菜 ([@xiaojuzi2014](https://x.com/xiaojuzi2014/status/2116047797979938951))** reviews HeyGen's **HyperFrames** (Apache-2.0), where the agent writes HTML and renders it to MP4 via a skill; needs Node 22+ and FFmpeg, docs sometimes lag, and cloud rendering requires login and billing ([heygen-com/hyperframes](https://github.com/heygen-com/hyperframes)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/heygen-com/hyperframes",
+      "from_post": "2116047797979938951",
+      "short_url": "https://t.co/Q4iIJO6AzK",
+      "title": "GitHub - heygen-com/hyperframes: Write HTML. Render video. Built for agents."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-media",
+    "harness-dev"
+  ],
+  "keywords": [
+    "hyperframes",
+    "html-video",
+    "mp4",
+    "agent-skill",
+    "ffmpeg"
+  ],
+  "relevance": "HTML-to-video compiler for agents."
+}

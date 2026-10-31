@@ -1,0 +1,49 @@
+{
+  "id": "2116197682712809694",
+  "permalink": "https://x.com/HaggsField/status/2116197682712809694",
+  "author": {
+    "name": "HaggsField",
+    "handle": "@HaggsField",
+    "profile_url": "https://x.com/HaggsField"
+  },
+  "posted_at": "2026-10-30T15:56:59Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**HaggsField ([@HaggsField](https://x.com/HaggsField/status/2116197682712809694))** presents **haggs**, an open film studio on Comfy that goes from script to shots, images, voice and cut in two minutes, showing credit cost before every action ([haggsfield.studio](https://haggsfield.studio), [IBFolding/haggs](https://github.com/IBFolding/haggs)).",
+  "referenced_urls": [
+    {
+      "url": "https://haggsfield.studio",
+      "from_post": "2116197682712809694",
+      "short_url": "https://t.co/7hynnHbJF2",
+      "title": "haggs — from a script to a finished cut"
+    },
+    {
+      "url": "https://github.com/IBFolding/haggs",
+      "from_post": "2116197682712809694",
+      "short_url": "https://t.co/e2tWY3SrUI",
+      "title": "GitHub - IBFolding/haggs: Open-source film studio on Comfy: script to screen, every shot and price in the open. Built for Comfy's #OpenSourceHiggsfield challenge."
+    }
+  ],
+  "hashtags": [
+    "OpenSourceHiggsfield"
+  ],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "haggs",
+    "comfyui",
+    "film-studio",
+    "opensourcehiggsfield"
+  ],
+  "relevance": "Cost-transparent script-to-screen studio.",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://x.com/HaggsField/status/2116197682712809694/video/1",
+      "from_post": "2116197682712809694",
+      "description": "Studio walkthrough (not downloaded; referenced only)."
+    }
+  ]
+}

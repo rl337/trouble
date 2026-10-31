@@ -1,0 +1,41 @@
+{
+  "id": "2116118360270495865",
+  "permalink": "https://x.com/ChmalSzymon/status/2116118360270495865",
+  "author": {
+    "name": "Szymon Chmal",
+    "handle": "@ChmalSzymon",
+    "profile_url": "https://x.com/ChmalSzymon"
+  },
+  "posted_at": "2026-10-30T10:41:47Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**Szymon Chmal ([@ChmalSzymon](https://x.com/ChmalSzymon/status/2116118360270495865))** introduces **Simlock**, a free open-source control plane that turns a machine into a self-managing simulator cloud so each parallel coding agent gets its own iOS/Android simulator or real phone ([callstackincubator/simlock](https://github.com/callstackincubator/simlock)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/callstackincubator/simlock",
+      "from_post": "2116118360270495865",
+      "short_url": "https://t.co/iymaqe5TVp",
+      "title": "GitHub - callstackincubator/simlock: A control plane so parallel coding agents stop fighting over the same simulator."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "simlock",
+    "ios-simulator",
+    "android-emulator",
+    "parallel-agent"
+  ],
+  "relevance": "Device isolation for parallel mobile coding agents.",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://x.com/ChmalSzymon/status/2116118360270495865/video/1",
+      "from_post": "2116118360270495865",
+      "description": "Demo of agents leasing simulators (not downloaded; referenced only)."
+    }
+  ]
+}

@@ -8,7 +8,7 @@
   },
   "posted_at": "2026-10-29T05:19:25Z",
   "collected_at": "2026-10-29T16:31:16Z",
-  "updated_at": "2026-10-29T16:31:16Z",
+  "updated_at": "2026-10-31T14:56:39Z",
   "thread": [
     {
       "id": "2115683509364765141",
@@ -21,9 +21,45 @@
       "permalink": "https://x.com/spiritform/status/2115695458534424625",
       "posted_at": "2026-10-29T06:41:19Z",
       "position": 2
+    },
+    {
+      "id": "2115869936916873323",
+      "permalink": "https://x.com/spiritform/status/2115869936916873323",
+      "posted_at": "2026-10-29T18:14:38Z",
+      "position": 3
+    },
+    {
+      "id": "2115881779416756396",
+      "permalink": "https://x.com/spiritform/status/2115881779416756396",
+      "posted_at": "2026-10-29T19:01:42Z",
+      "position": 4
+    },
+    {
+      "id": "2115884204156432516",
+      "permalink": "https://x.com/spiritform/status/2115884204156432516",
+      "posted_at": "2026-10-29T19:11:20Z",
+      "position": 5
+    },
+    {
+      "id": "2115970659381924343",
+      "permalink": "https://x.com/spiritform/status/2115970659381924343",
+      "posted_at": "2026-10-30T00:54:52Z",
+      "position": 6
+    },
+    {
+      "id": "2116094279441694841",
+      "permalink": "https://x.com/spiritform/status/2116094279441694841",
+      "posted_at": "2026-10-30T09:06:06Z",
+      "position": 7
+    },
+    {
+      "id": "2116094483213484390",
+      "permalink": "https://x.com/spiritform/status/2116094483213484390",
+      "posted_at": "2026-10-30T09:06:54Z",
+      "position": 8
     }
   ],
-  "summary_md": "**B. Elliott Baker ([@spiritform](https://x.com/spiritform/status/2115674848630591970))** submits **Hero's Journey** to the Open Source Higgsfield Challenge, a ComfyUI-based generative monomyth experience with a demo video and the spiritform/herosjourney repo.",
+  "summary_md": "**B. Elliott Baker ([@spiritform](https://x.com/spiritform/status/2115674848630591970))** submits **Hero's Journey** to the Open Source Higgsfield Challenge, a ComfyUI-based generative monomyth experience with a demo video and the spiritform/herosjourney repo. Follow-ups show it built with Claude Code and the Comfy MCP, then add a Flux 3 bounding-box edit mode, an optional Qwen Image Edit 2.1 model for character sheets in the Take Shape step, Flux 3 klein, and MiniMax H3 plus LTX image-to-video. Later posts wire in the new open-weight Pika H3 FLEX for the Set in Motion step and reveal that the first challenge week went into a more complex idea, LatentLab, shelved in favour of something plug-and-play, with a LatentLab clip made in Pika H3 FLEX.",
   "referenced_urls": [
     {
       "url": "https://www.youtube.com/watch?v=cau_e-NcMqo&feature=youtu.be",
@@ -49,7 +85,13 @@
   "keywords": [
     "comfyui-based",
     "hero-journey",
-    "hero-s-journey"
+    "hero-s-journey",
+    "flux-3",
+    "qwen-image-edit",
+    "ltx",
+    "image-to-video",
+    "character-sheet",
+    "pika-h3-flex"
   ],
   "relevance": "An example of narrative-driven generative media pipelines.",
   "media": [
@@ -64,6 +106,90 @@
       "url": "https://x.com/spiritform/status/2115695458534424625/video/1",
       "from_post": "2115695458534424625",
       "description": "Video of the UI/UX control panel and parallax layers in spiritform's platform (not downloaded; referenced only)."
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV0UQHDaUAAX-yA.png",
+      "from_post": "2115869936916873323",
+      "description": "Edit mode with a bounding box over the character's face and an \"add sunglasses\" instruction, running FLUX-3-KLEIN.",
+      "kind": "screenshot",
+      "thumbnail": "posts/2026/10/29/2115674848630591970/media/2.webp"
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV0UQHtawAA89XE.png",
+      "from_post": "2115869936916873323",
+      "description": "Edited portrait of the character now wearing sunglasses, with Save image and Continue journey buttons.",
+      "kind": "screenshot",
+      "thumbnail": "posts/2026/10/29/2115674848630591970/media/3.webp"
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV0fJUYbQAADERL.jpg",
+      "from_post": "2115881779416756396",
+      "description": "\"Take Shape\" step showing the character-sheet layout options before generation.",
+      "kind": "screenshot",
+      "thumbnail": "posts/2026/10/29/2115674848630591970/media/4.webp"
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV0fKQgbwAAwp0a.jpg",
+      "from_post": "2115881779416756396",
+      "description": "\"Take Shape\" character sheet with two face close-ups and front and back full-body views.",
+      "kind": "screenshot",
+      "thumbnail": "posts/2026/10/29/2115674848630591970/media/5.webp"
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV0hNvXbcAAWsoD.png",
+      "from_post": "2115884204156432516",
+      "description": "Sheet workflow panel whose prompt adds sunglasses, a Hawaiian shirt, shorts and striped socks, set to four panels and one character on FLUX-3-KLEIN.",
+      "kind": "screenshot",
+      "thumbnail": "posts/2026/10/29/2115674848630591970/media/6.webp"
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV0hPtUa0AEN8Aj.jpg",
+      "from_post": "2115884204156432516",
+      "description": "Generated character sheet of the character in sunglasses: face close-ups plus front and back full-body views.",
+      "kind": "screenshot",
+      "thumbnail": "posts/2026/10/29/2115674848630591970/media/7.webp"
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV1v1vZa4AAc0c8.jpg",
+      "from_post": "2115970659381924343",
+      "description": "\"Set in Motion\" step framing a shot of the character for image-to-video.",
+      "kind": "screenshot",
+      "thumbnail": "posts/2026/10/29/2115674848630591970/media/8.webp"
+    },
+    {
+      "type": "video",
+      "url": "https://x.com/spiritform/status/2115970659381924343/video/1",
+      "from_post": "2115970659381924343",
+      "description": "Short clip of MiniMax H3 and LTX image-to-video now wired into the platform (not downloaded; referenced only)."
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV3gcmbbsAIW_8A.jpg",
+      "from_post": "2116094279441694841",
+      "description": "\"Set in Motion\" step with a multi-shot sequence of a scientist in a dim lab and the prompt for the Pika H3 FLEX render.",
+      "kind": "screenshot",
+      "thumbnail": "posts/2026/10/29/2115674848630591970/media/10.webp"
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV3geBJaYAAzti0.jpg",
+      "from_post": "2116094279441694841",
+      "description": "Rendered shot of the scientist at a long lab table under a hanging lamp, with Continue journey button.",
+      "kind": "screenshot",
+      "thumbnail": "posts/2026/10/29/2115674848630591970/media/11.webp"
+    },
+    {
+      "type": "video",
+      "url": "https://x.com/spiritform/status/2116094483213484390/video/1",
+      "from_post": "2116094483213484390",
+      "description": "Clip from the abandoned LatentLab project, made with Pika H3 FLEX (not downloaded; referenced only)."
     }
   ]
 }

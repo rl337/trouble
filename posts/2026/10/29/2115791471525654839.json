@@ -1,0 +1,35 @@
+{
+  "id": "2115791471525654839",
+  "permalink": "https://x.com/Chris480096/status/2115791471525654839",
+  "author": {
+    "name": "Chris",
+    "handle": "@Chris480096",
+    "profile_url": "https://x.com/Chris480096"
+  },
+  "posted_at": "2026-10-29T13:02:50Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**Chris ([@Chris480096](https://x.com/Chris480096/status/2115791471525654839))** highlights **Concat**, a free, local-first, cross-platform CapCut alternative with a multi-track timeline and 4K60 export that embeds an MCP server so Claude Code can create projects, add captions and effects, and export; the author notes it is still beta ([jub0t/Concat](https://github.com/jub0t/Concat)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/jub0t/Concat",
+      "from_post": "2115791471525654839",
+      "short_url": "https://t.co/Cj2tsSmILJ",
+      "title": "GitHub - jub0t/Concat: The truly free, open-source, local-first, cross-platform CapCut replacement. Scriptable through a JSON-RPC API & MCP."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-media",
+    "harness-dev"
+  ],
+  "keywords": [
+    "concat",
+    "video-editing",
+    "mcp",
+    "claude-code",
+    "capcut-alternative"
+  ],
+  "relevance": "Video editor with built-in MCP for agent control."
+}

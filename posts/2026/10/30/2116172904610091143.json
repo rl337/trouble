@@ -1,0 +1,50 @@
+{
+  "id": "2116172904610091143",
+  "permalink": "https://x.com/gshcloud/status/2116172904610091143",
+  "author": {
+    "name": "Grzegorz",
+    "handle": "@gshcloud",
+    "profile_url": "https://x.com/gshcloud"
+  },
+  "posted_at": "2026-10-30T14:18:31Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**Grzegorz ([@gshcloud](https://x.com/gshcloud/status/2116172904610091143))** built **Cue the Boom**: render an effect once with LTX-2.5 and your voice performs it on your hand (soft 'pf' for a flame, 'BOOM' for a fireball) without new generation ([release](https://github.com/grzenio22/cue-the-boom/releases/tag/contest-2026-10-30), [grzenio22/cue-the-boom](https://github.com/grzenio22/cue-the-boom)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/grzenio22/cue-the-boom/releases/tag/contest-2026-10-30",
+      "from_post": "2116172904610091143",
+      "short_url": "https://t.co/UZP7QfKG1T",
+      "title": "Release Cue the Boom - Open Source Higgsfield submission · grzenio22/cue-the-boom"
+    },
+    {
+      "url": "https://github.com/grzenio22/cue-the-boom",
+      "from_post": "2116172904610091143",
+      "short_url": "https://t.co/ktM0XGelUA",
+      "title": "GitHub - grzenio22/cue-the-boom: Generate the effect once with LTX-2.5, then perform it again on your hand with your voice. No GPU needed to try it. Built on ComfyUI."
+    }
+  ],
+  "hashtags": [
+    "OpenSourceHiggsfield"
+  ],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "cue-the-boom",
+    "ltx-2.5",
+    "vfx",
+    "voice-control",
+    "opensourcehiggsfield"
+  ],
+  "relevance": "Voice-driven reuse of generated VFX.",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://x.com/gshcloud/status/2116172904610091143/video/1",
+      "from_post": "2116172904610091143",
+      "description": "Hand fireball triggered by voice (not downloaded; referenced only)."
+    }
+  ]
+}

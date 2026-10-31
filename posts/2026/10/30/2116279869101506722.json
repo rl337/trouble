@@ -1,0 +1,66 @@
+{
+  "id": "2116279869101506722",
+  "permalink": "https://x.com/_CemAydin/status/2116279869101506722",
+  "author": {
+    "name": "Yusuf Cem Aydın",
+    "handle": "@_CemAydin",
+    "profile_url": "https://x.com/_CemAydin"
+  },
+  "posted_at": "2026-10-30T21:23:34Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [
+    {
+      "id": "2116279871773028834",
+      "permalink": "https://x.com/_CemAydin/status/2116279871773028834",
+      "posted_at": "2026-10-30T21:23:34Z",
+      "position": 1
+    },
+    {
+      "id": "2116279873937224074",
+      "permalink": "https://x.com/_CemAydin/status/2116279873937224074",
+      "posted_at": "2026-10-30T21:23:35Z",
+      "position": 2
+    }
+  ],
+  "summary_md": "**Yusuf Cem Aydın ([@_CemAydin](https://x.com/_CemAydin/status/2116279869101506722))** open-sources **yardstick-predict**, which forecasts time, tokens and cost of a Claude Code or Codex task from your own past runs, via app, terminal or JSON CLI, with periodic retraining ([yusufcemaydin/yardstick-predict](https://github.com/yusufcemaydin/yardstick-predict)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/yusufcemaydin/yardstick-predict",
+      "from_post": "2116279869101506722",
+      "short_url": "https://t.co/Y4vpGJvwKc",
+      "title": "GitHub - yusufcemaydin/yardstick-predict: Forecast how long a coding-agent task will take and what it will cost, before it runs."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "yardstick-predict",
+    "cost-prediction",
+    "claude-code",
+    "codex"
+  ],
+  "relevance": "Pre-run cost estimation for agent tasks.",
+  "media": [
+    {
+      "type": "gif",
+      "url": "https://x.com/_CemAydin/status/2116279869101506722/photo/1",
+      "from_post": "2116279869101506722",
+      "description": "Prediction inside Claude Code (not downloaded; referenced only)."
+    },
+    {
+      "type": "gif",
+      "url": "https://x.com/_CemAydin/status/2116279873937224074/photo/1",
+      "from_post": "2116279873937224074",
+      "description": "Setup flow (not downloaded; referenced only)."
+    },
+    {
+      "type": "gif",
+      "url": "https://x.com/_CemAydin/status/2116279873937224074/photo/2",
+      "from_post": "2116279873937224074",
+      "description": "Terminal forecast across models (not downloaded; referenced only)."
+    }
+  ]
+}

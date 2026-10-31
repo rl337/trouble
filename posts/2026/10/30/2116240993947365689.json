@@ -1,0 +1,47 @@
+{
+  "id": "2116240993947365689",
+  "permalink": "https://x.com/tieulamm02/status/2116240993947365689",
+  "author": {
+    "name": "tieulamm",
+    "handle": "@tieulamm02",
+    "profile_url": "https://x.com/tieulamm02"
+  },
+  "posted_at": "2026-10-30T18:49:05Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**tieulamm ([@tieulamm02](https://x.com/tieulamm02/status/2116240993947365689))** releases **open-cine**, an agent-directed video engine for short edits, generated films and characters that runs on Hugging Face ZeroGPU (about 80–100 s per 5 s clip on the free tier) ([tranlamm/open-cine](https://github.com/tranlamm/open-cine)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/tranlamm/open-cine",
+      "from_post": "2116240993947365689",
+      "short_url": "https://t.co/aNzHGDXjMq",
+      "title": "GitHub - tranlamm/open-cine: Agent-directed video engine: short-form edits, generated films and character swaps over MCP, running on your own Hugging Face ZeroGPU Spaces"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "open-cine",
+    "video-agent",
+    "zerogpu",
+    "video-generation"
+  ],
+  "relevance": "Agentic video engine without a local GPU.",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://x.com/tieulamm02/status/2116240993947365689/video/1",
+      "from_post": "2116240993947365689",
+      "description": "Generated video sample (not downloaded; referenced only)."
+    },
+    {
+      "type": "video",
+      "url": "https://x.com/tieulamm02/status/2116240993947365689/video/2",
+      "from_post": "2116240993947365689",
+      "description": "Agent interface demo (not downloaded; referenced only)."
+    }
+  ]
+}

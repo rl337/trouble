@@ -1,0 +1,55 @@
+{
+  "id": "2115998597250752763",
+  "permalink": "https://x.com/greyreddington/status/2115998597250752763",
+  "author": {
+    "name": "Raymond R.",
+    "handle": "@greyreddington",
+    "profile_url": "https://x.com/greyreddington"
+  },
+  "posted_at": "2026-10-30T02:45:53Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**Raymond R. ([@greyreddington](https://x.com/greyreddington/status/2115998597250752763))** open-sourced **Excalibur Agent Hub**, a local chat room shared by you and coding agents like Claude Code, Codex and Antigravity, with no account or cloud ([nezle02/excalibur-agent-hub](https://github.com/nezle02/excalibur-agent-hub)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/nezle02/excalibur-agent-hub",
+      "from_post": "2115998597250752763",
+      "short_url": "https://t.co/Zgv9umQLXb",
+      "title": "GitHub - nezle02/excalibur-agent-hub"
+    }
+  ],
+  "hashtags": [
+    "OpenSource",
+    "AIagents",
+    "ClaudeCode"
+  ],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "excalibur-agent-hub",
+    "multi-agent",
+    "chat-room",
+    "local-first"
+  ],
+  "relevance": "Group chat for human and multiple agents.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV2JgVqa4AAS0KQ.jpg",
+      "from_post": "2115998597250752763",
+      "description": "Desktop chat room with several agents posting messages.",
+      "kind": "screenshot",
+      "thumbnail": "posts/2026/10/30/2115998597250752763/media/0.webp"
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV2Jgl-agAAAYmt.jpg",
+      "from_post": "2115998597250752763",
+      "description": "Mobile view of the agent hub chat.",
+      "kind": "screenshot",
+      "thumbnail": "posts/2026/10/30/2115998597250752763/media/1.webp"
+    }
+  ]
+}

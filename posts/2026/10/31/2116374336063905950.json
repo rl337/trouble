@@ -1,0 +1,50 @@
+{
+  "id": "2116374336063905950",
+  "permalink": "https://x.com/HEI/status/2116374336063905950",
+  "author": {
+    "name": "Natural Language Processing Papers",
+    "handle": "@HEI",
+    "profile_url": "https://x.com/HEI"
+  },
+  "posted_at": "2026-10-31T03:38:56Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**Natural Language Processing Papers ([@HEI](https://x.com/HEI/status/2116374336063905950))** shares *Did the Model Use That?* ([arXiv 2610.35295](https://arxiv.org/abs/2610.35295), [code](https://github.com/stanford-oval/CREDIT)), which introduces CREDIT, counterfactual training that teaches models to say when their answers depend on supplied information.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.35295",
+      "from_post": "2116374336063905950",
+      "short_url": "https://t.co/2a6BFuCKTu",
+      "title": "Did the Model Use That? Counterfactual Training Boosts..."
+    },
+    {
+      "url": "https://github.com/stanford-oval/CREDIT",
+      "from_post": "2116374336063905950",
+      "short_url": "https://t.co/8d8mscUMl9",
+      "title": "GitHub - stanford-oval/CREDIT"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-cognition"
+  ],
+  "keywords": [
+    "credit",
+    "self-attribution",
+    "counterfactual-training",
+    "explainability"
+  ],
+  "relevance": "Self-attribution in models.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV7fPjAXkAA_zcy.png",
+      "from_post": "2116374336063905950",
+      "description": "Abstract of the CREDIT paper.",
+      "kind": "paper",
+      "thumbnail": "posts/2026/10/31/2116374336063905950/media/0.webp",
+      "ocr_text": "A fundamental challenge for explainable and accountable language models is revealing how external information influences their answers. This paper examines whether models are self-attributive: that is, whether they indicate when – and only when – their responses to questions are influenced by information provided alongside the question. Furthermore, we explore how self-attribution can be improved through counterfactual training, which explicitly teaches models to distinguish between answers that do and do not depend on supplied information. We found that most of the eleven frontier models rarely attribute influential information in their answers, and the rest attribute non-influential information. Training acknowledgment into reasoning does not fix this: the acknowledgment does not reach the final answer. We introduce CREDIT, which directly supervises final-answer self-attribution with counterfactual labels, without the need for human annotation. CREDIT substantially improves attributi"
+    }
+  ]
+}

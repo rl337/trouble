@@ -1,0 +1,42 @@
+{
+  "id": "2115817008201920549",
+  "permalink": "https://x.com/kuldeep_youxai/status/2115817008201920549",
+  "author": {
+    "name": "Kuldeep Singh",
+    "handle": "@kuldeep_youxai",
+    "profile_url": "https://x.com/kuldeep_youxai"
+  },
+  "posted_at": "2026-10-29T14:44:19Z",
+  "collected_at": "2026-10-30T14:59:37Z",
+  "updated_at": "2026-10-30T14:59:37Z",
+  "thread": [],
+  "summary_md": "**Kuldeep Singh ([@kuldeep_youxai](https://x.com/kuldeep_youxai/status/2115817008201920549))** tested whether **Nemotron 3.5 Bolt** is really 3× faster with its drafter on an RTX 5070: an HTML edit went from 126 to 349 tok/s, chat only from 127 to 153, and it was never slower across eight jobs ([video test](https://www.youtube.com/watch?v=-dYHo1UIDnk&feature=youtu.be)).",
+  "referenced_urls": [
+    {
+      "url": "https://www.youtube.com/watch?v=-dYHo1UIDnk&feature=youtu.be",
+      "from_post": "2115817008201920549",
+      "short_url": "https://t.co/GtLW6akyAQ",
+      "title": "Nemotron 3.5 Bolt Is 3x Faster?! I Raced It Against Gemma 4"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "local-models"
+  ],
+  "keywords": [
+    "nemotron-3.5-bolt",
+    "speculative-decoding",
+    "drafter",
+    "throughput",
+    "rtx-5070"
+  ],
+  "relevance": "Real-world speculative-decoding gains on a local Nemotron model.",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://x.com/kuldeep_youxai/status/2115817008201920549/video/1",
+      "from_post": "2115817008201920549",
+      "description": "Benchmark video racing Nemotron 3.5 Bolt (not downloaded; referenced only)."
+    }
+  ]
+}

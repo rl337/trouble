@@ -1,0 +1,43 @@
+{
+  "id": "2116202223390568467",
+  "permalink": "https://x.com/ComputerPapers/status/2116202223390568467",
+  "author": {
+    "name": "Software Engineering Papers",
+    "handle": "@ComputerPapers",
+    "profile_url": "https://x.com/ComputerPapers"
+  },
+  "posted_at": "2026-10-30T16:15:01Z",
+  "collected_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-10-31T14:56:39Z",
+  "thread": [],
+  "summary_md": "**Software Engineering Papers ([@ComputerPapers](https://x.com/ComputerPapers/status/2116202223390568467))** shares *Precedent or Intent?* ([arXiv 2610.38244](https://arxiv.org/abs/2610.38244)) by Zhu et al., 5,625 trials testing whether coding agents follow their defaults, repository precedent or explicit instructions when evolving code.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.38244",
+      "from_post": "2116202223390568467",
+      "short_url": "https://t.co/R4g1GTGeUv",
+      "title": "Precedent or Intent? What Coding Agents Follow When Evolving Existing Code"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "coding-agent",
+    "repository-precedent",
+    "instruction-following"
+  ],
+  "relevance": "How rules files compete with repo conventions.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV5CtU2WgAA2AWu.png",
+      "from_post": "2116202223390568467",
+      "description": "Abstract of the Precedent or Intent paper.",
+      "kind": "paper",
+      "thumbnail": "posts/2026/10/30/2116202223390568467/media/0.webp",
+      "ocr_text": "Existing code reveals past implementation decisions but rarely explains the reasoning behind them. When coding agents implement new features or modify existing functionality, past decisions may conflict with new task instructions. This raises a fundamental question for agentic software evolution: when multiple implementations satisfy the same functional requirements, how do coding agents decide whether to follow existing code or new task instructions? We investigate this question through bidirectional, controlled experiments in purpose-built repositories, followed by validation in real-world open-source repositories. Our approach isolates three competing sources of guidance: (1) agents' default preferences, (2) repository precedents, and (3) explicit task instructions. We conduct 5,625 trials across four coding agents and six implementation pairs, with validation in four open-source repositories spanning three programming languages. We find that agents share the same default implementa"
+    }
+  ]
+}
