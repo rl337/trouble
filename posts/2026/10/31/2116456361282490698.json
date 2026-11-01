@@ -1,0 +1,44 @@
+{
+  "id": "2116456361282490698",
+  "permalink": "https://x.com/AgentsWatch/status/2116456361282490698",
+  "author": {
+    "name": "AgentsWatch",
+    "handle": "@AgentsWatch",
+    "profile_url": "https://x.com/AgentsWatch"
+  },
+  "posted_at": "2026-10-31T09:04:53Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**AgentsWatch ([@AgentsWatch](https://x.com/AgentsWatch/status/2116456361282490698))** summarizes *Who Else Is In?* by Kaushik et al. ([arXiv 2610.37984](https://arxiv.org/abs/2610.37984)): LLM agents can initiate collusion through strategically vague public messages; Gemini 2.5 Pro pairs identified each other in 70% of three-agent trials versus a 2.8% baseline, while monitors reached only 0.52–0.70 AUROC.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.37984",
+      "from_post": "2116456361282490698",
+      "short_url": "https://t.co/KLx3UAjQXH",
+      "title": "Who Else Is In? Multi-Agent Collusion Initation Via Strategic Vagueness"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-cognition"
+  ],
+  "keywords": [
+    "collusion",
+    "multi-agent",
+    "strategic-vagueness",
+    "monitoring",
+    "ai-safety"
+  ],
+  "relevance": "Hidden coordination risks in multi-agent systems.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV8ptPYXwAEZi5c.jpg",
+      "from_post": "2116456361282490698",
+      "description": "Table of monitor discrimination scores (Gemini, Claude, GPT; stateless, stateful, retrospective) for detecting successful collusion handshakes.",
+      "thumbnail": "posts/2026/10/31/2116456361282490698/media/0.webp",
+      "kind": "chart"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "2116444959712928198",
+  "permalink": "https://x.com/Apurv35904761/status/2116444959712928198",
+  "author": {
+    "name": "Apurv Sheldiya",
+    "handle": "@Apurv35904761",
+    "profile_url": "https://x.com/Apurv35904761"
+  },
+  "posted_at": "2026-10-31T08:19:34Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**Apurv Sheldiya ([@Apurv35904761](https://x.com/Apurv35904761/status/2116444959712928198))** summarizes **CORAL** (Cognitive Resource Self-Allocation) by Zhu et al. ([arXiv 2610.40350](https://arxiv.org/abs/2610.40350)), where an 8B agent checkpoints useful facts, clears cluttered context and resumes, handling long tasks with 6–7x fewer input tokens.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.40350",
+      "from_post": "2116444959712928198",
+      "short_url": "https://t.co/AGpFXFIj5t",
+      "title": "Don't Lose the Thread: Empowering Long-Horizon LLM Agents with..."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev",
+    "agentic-cognition"
+  ],
+  "keywords": [
+    "coral",
+    "context-management",
+    "long-horizon",
+    "working-memory",
+    "8b"
+  ],
+  "relevance": "Context management for long-horizon agents.",
+  "media": []
+}

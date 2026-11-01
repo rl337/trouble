@@ -1,0 +1,45 @@
+{
+  "id": "2116705262392504738",
+  "permalink": "https://x.com/oaichu95/status/2116705262392504738",
+  "author": {
+    "name": "Oai Chu",
+    "handle": "@oaichu95",
+    "profile_url": "https://x.com/oaichu95"
+  },
+  "posted_at": "2026-11-01T01:33:55Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**Oai Chu ([@oaichu95](https://x.com/oaichu95/status/2116705262392504738))** shares **Stageshow**, an MIT skill teaching agents to build faux product UI in React (stills, cursor demos, bento grids) and film it so they can fix their own work ([benjitaylor/skills](https://github.com/benjitaylor/skills)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/benjitaylor/skills",
+      "from_post": "2116705262392504738",
+      "short_url": "https://t.co/QysUc8R8I1",
+      "title": "GitHub - benjitaylor/skills: Skills for AI coding agents"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-media",
+    "harness-dev"
+  ],
+  "keywords": [
+    "stageshow",
+    "skill",
+    "react",
+    "ui-mockup",
+    "product-demo"
+  ],
+  "relevance": "Agent-made product UI animations.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HWAMMlfbQAA9Blp.jpg",
+      "from_post": "2116705262392504738",
+      "description": "Grid of faux product UI mockups (calendar controls, revenue chart, keyboard, app icons, music player) generated with the Stageshow skill.",
+      "thumbnail": "posts/2026/11/01/2116705262392504738/media/0.webp",
+      "kind": "screenshot"
+    }
+  ]
+}

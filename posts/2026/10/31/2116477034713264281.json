@@ -1,0 +1,53 @@
+{
+  "id": "2116477034713264281",
+  "permalink": "https://x.com/vintcessun/status/2116477034713264281",
+  "author": {
+    "name": "恒星sun",
+    "handle": "@vintcessun",
+    "profile_url": "https://x.com/vintcessun"
+  },
+  "posted_at": "2026-10-31T10:27:01Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**恒星sun ([@vintcessun](https://x.com/vintcessun/status/2116477034713264281))** highlights *Trace2World* by Wang et al. ([arXiv 2610.30792](https://arxiv.org/abs/2610.30792)), which rebuilds 50 GUI app environments from 1,570 real traces with evidence for every action effect and replay validation, raising sim-to-real retention of training gains from 54.7% to 94.0%.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.30792",
+      "from_post": "2116477034713264281",
+      "short_url": "https://t.co/uWurputkrN",
+      "title": "Trace2World: Reconstructing App Worlds from Real Interaction..."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-cognition"
+  ],
+  "keywords": [
+    "trace2world",
+    "gui-agent",
+    "environment",
+    "sim-to-real",
+    "reinforcement-learning"
+  ],
+  "relevance": "Faithful environments for GUI agent RL.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV88pScb0AASdNd.png",
+      "from_post": "2116477034713264281",
+      "description": "Trace2World Table 3: real-device transfer on 100 paired tasks comparing self-validation, source-trace validation and the stage-3 method on real gain, sim gain and sim-only pass rate.",
+      "thumbnail": "posts/2026/10/31/2116477034713264281/media/0.webp",
+      "kind": "chart",
+      "ocr_text": "Table 3: Real-device transfer on 100 paired tasks. Gains over base (pp; three-seed mean ± SD); real/sim is\ngain retention, and Sim-only pass is simulation-only success.\nMatched stage-1 source Stage 3\nMetric Self- validation Source-trace validation Ours\nReal gain 9.7±2.1 15.7±1.5 16.3±2.1\nSim. gain 17.7±1.5 16.7±2.1 18.7±1.5\nReal/sim gain 54.7% 94.0% 87.5%\nSim-only pass 18.3% 10.0% 10.7%"
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV88pc2bMAAezvX.png",
+      "from_post": "2116477034713264281",
+      "description": "State-transition fidelity example: in the source trace tapping \"disable quick pay\" asks for confirmation, while a PhoneWorld simulation turns it off immediately with no confirmation.",
+      "thumbnail": "posts/2026/10/31/2116477034713264281/media/1.webp",
+      "kind": "diagram"
+    }
+  ]
+}

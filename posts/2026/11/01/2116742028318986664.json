@@ -1,0 +1,43 @@
+{
+  "id": "2116742028318986664",
+  "permalink": "https://x.com/_vMyth/status/2116742028318986664",
+  "author": {
+    "name": "Vishal Pandey",
+    "handle": "@_vMyth",
+    "profile_url": "https://x.com/_vMyth"
+  },
+  "posted_at": "2026-11-01T04:00:01Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**Vishal Pandey ([@_vMyth](https://x.com/_vMyth/status/2116742028318986664))** shares **grip**, a git hook that quizzes you with five questions on your own diff and blocks the push below your team's pass mark; the offline demo only checks answer length, so use Claude Code or Codex for grading ([guilyx/grip](https://github.com/guilyx/grip)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/guilyx/grip",
+      "from_post": "2116742028318986664",
+      "short_url": "https://t.co/t6hU4JQQ7b",
+      "title": "GitHub - guilyx/grip: A git hook that won't let you push code you can't explain. Quizzes you on your own diff. Works with Claude Code, Codex, Cursor."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "grip",
+    "git-hook",
+    "code-review",
+    "comprehension"
+  ],
+  "relevance": "Human comprehension check on agent code.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV7Ib9MbsAAND_L.jpg",
+      "from_post": "2116742028318986664",
+      "description": "GitHub card for guilyx/grip, a git hook that quizzes you on your own diff before push (works with Claude Code, Codex, Cursor), with a README screenshot of the quiz UI.",
+      "thumbnail": "posts/2026/11/01/2116742028318986664/media/0.webp",
+      "kind": "screenshot"
+    }
+  ]
+}

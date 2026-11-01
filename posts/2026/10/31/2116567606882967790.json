@@ -1,0 +1,95 @@
+{
+  "id": "2116567606882967790",
+  "permalink": "https://x.com/socialwithaayan/status/2116567606882967790",
+  "author": {
+    "name": "Muhammad Ayan",
+    "handle": "@socialwithaayan",
+    "profile_url": "https://x.com/socialwithaayan"
+  },
+  "posted_at": "2026-10-31T16:26:56Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**Muhammad Ayan ([@socialwithaayan](https://x.com/socialwithaayan/status/2116567606882967790))** lists ten repos for agent-made launch videos without After Effects: lemo-opuscar, openfilm, ffmpeg-skill, anything2explainer, FreeVideo (MiniMax H3 on 8 GB VRAM), manimgx, video-talkcraft, huashu-motion, motion-video-kit and motionmaxxing ([kajisho5/ffmpeg-skill](https://github.com/kajisho5/ffmpeg-skill), [FlashML-org/FreeVideo](https://github.com/FlashML-org/FreeVideo), [academa-labs/manimgx](https://github.com/academa-labs/manimgx)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/lemomo-ai/lemo-opuscar",
+      "from_post": "2116567606882967790",
+      "short_url": "https://t.co/Is2w5iB5If",
+      "title": "GitHub - lemomo-ai/lemo-opuscar: A toolbox of film styles made in code for Claude Code: 66 ready to use, and your own. Each style is a style prompt plus a demo film made entirely in code by Claude Opus 5.5, with no video model. By Lemomo. · 一套用代码做片的风格工具箱：66 种现成风格，也能做出你自己的"
+    },
+    {
+      "url": "https://github.com/openfilm/openfilm",
+      "from_post": "2116567606882967790",
+      "short_url": "https://t.co/LNx2WzeMIX"
+    },
+    {
+      "url": "https://github.com/kajisho5/ffmpeg-skill",
+      "from_post": "2116567606882967790",
+      "short_url": "https://t.co/1GbT0Rwx5b",
+      "title": "GitHub - kajisho5/ffmpeg-skill: Local video editor for coding agents: 42 FFmpeg tools with a machine-readable contract and an MCP server, for Claude Code, Cursor and Codex. Cut, captions, reframe, loudness, platform exports. No cloud, no API keys. · GitHub"
+    },
+    {
+      "url": "https://github.com/Vincentwei1021/anything2explainer",
+      "from_post": "2116567606882967790",
+      "short_url": "https://t.co/CpR7dUxYbu",
+      "title": "GitHub - Vincentwei1021/anything2explainer: Topic in, narrated explainer video out. A Claude Code / Codex skill that turns any topic into a black-canvas motion-graphics explainer video with TTS voiceover, subtitles and a chapter progress bar. Chinese or English; every frame drawn in code with Remotion. · GitHub"
+    },
+    {
+      "url": "https://github.com/FlashML-org/FreeVideo",
+      "from_post": "2116567606882967790",
+      "short_url": "https://t.co/PtwKbN6vY8",
+      "title": "GitHub - FlashML-org/FreeVideo: Make videos on the computer you already own. FreeVideo runs MiniMax H3 in as little as 8 GB of VRAM and 16 GB of RAM, and adapts its acceleration path to your hardware. · GitHub"
+    },
+    {
+      "url": "https://github.com/academa-labs/manimgx",
+      "from_post": "2116567606882967790",
+      "short_url": "https://t.co/2Mi9rqIUSy",
+      "title": "GitHub - academa-labs/manimgx: The animation engine for agents: blazingly fast math and 3D videos with Manim's Python API, on a Rust GPU core. · GitHub"
+    },
+    {
+      "url": "https://github.com/Vincentwei1021/video-talkcraft",
+      "from_post": "2116567606882967790",
+      "short_url": "https://t.co/dIR2mcBDft",
+      "title": "GitHub - Vincentwei1021/video-talkcraft: Agent skill that turns Claude Code / Codex into a motion-design studio for voiceover-driven explainer videos — word-level voiceover sync, 109 motion recipe cards, an anti-slideshow camera system, Remotion rendering. · GitHub"
+    },
+    {
+      "url": "https://github.com/alchaincyf/huashu-motion",
+      "from_post": "2116567606882967790",
+      "short_url": "https://t.co/PmW0F8UNyp",
+      "title": "GitHub - alchaincyf/huashu-motion: 让你的agent一键直出商业级产品宣传片：会作曲，能指着画面改。Commercial-grade launch films by your coding agent — point at the frame to change it. · GitHub"
+    },
+    {
+      "url": "https://github.com/echris6/motion-video-kit",
+      "from_post": "2116567606882967790",
+      "short_url": "https://t.co/YlK5mi09Tt",
+      "title": "GitHub - echris6/motion-video-kit: Claude Code skill kit for premium AI-assisted business videos: independent critic loop, motion principles from 28 launch films, quality bar, sound design, business offers, Three.js patterns, scripts · GitHub"
+    },
+    {
+      "url": "https://github.com/Tejashmakwana/motionmaxxing",
+      "from_post": "2116567606882967790",
+      "short_url": "https://t.co/SYxteMaikY",
+      "title": "GitHub - Tejashmakwana/motionmaxxing: Looksmaxxing for motion graphics. An agent skill that turns AI slop videos into films that look made by a motion designer. · GitHub"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "motion-graphics",
+    "ffmpeg",
+    "manim",
+    "video-generation",
+    "skill"
+  ],
+  "relevance": "Catalog of agentic motion-design tools.",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2116567587157110784/img/obfV_OGYvsVZF-dC.jpg",
+      "from_post": "2116567606882967790",
+      "description": "Montage of launch videos made with the listed tools."
+    }
+  ]
+}

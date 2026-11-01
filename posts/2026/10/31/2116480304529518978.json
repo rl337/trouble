@@ -1,0 +1,35 @@
+{
+  "id": "2116480304529518978",
+  "permalink": "https://x.com/plattypuus/status/2116480304529518978",
+  "author": {
+    "name": "タイド",
+    "handle": "@plattypuus",
+    "profile_url": "https://x.com/plattypuus"
+  },
+  "posted_at": "2026-10-31T10:40:01Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**タイド ([@plattypuus](https://x.com/plattypuus/status/2116480304529518978))** recommends **threejs-skills**, 24 agent skills covering Three.js scenes, shaders, interaction, optimization, accessibility, visual QA and deployment, including React Three Fiber and WebGPU, for Codex, Claude Code and Cursor ([cesartevisual/threejs-skills](https://github.com/cesartevisual/threejs-skills)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/cesartevisual/threejs-skills",
+      "from_post": "2116480304529518978",
+      "short_url": "https://t.co/8CH5se8woL",
+      "title": "GitHub - cesartevisual/threejs-skills: 24 Three.js agent skills for Claude Code, Cursor, and Codex. Build 3D websites with R3F, WebGPU, shaders, and production workflows."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "three-js",
+    "skill",
+    "webgpu",
+    "react-three-fiber",
+    "visual-qa"
+  ],
+  "relevance": "3D web production skills for agents.",
+  "media": []
+}

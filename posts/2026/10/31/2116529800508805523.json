@@ -1,0 +1,36 @@
+{
+  "id": "2116529800508805523",
+  "permalink": "https://x.com/mingzhao128890/status/2116529800508805523",
+  "author": {
+    "name": "野生技能师",
+    "handle": "@mingzhao128890",
+    "profile_url": "https://x.com/mingzhao128890"
+  },
+  "posted_at": "2026-10-31T13:56:42Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**野生技能师 ([@mingzhao128890](https://x.com/mingzhao128890/status/2116529800508805523))** open-sourced **AIGC Buddy Local**, a creative app with an infinite canvas, planning agent, MiniMax H3 video generation and local Ollama plus ComfyUI support ([lowkeymanz/aigc-buddy-local](https://github.com/lowkeymanz/aigc-buddy-local)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/lowkeymanz/aigc-buddy-local",
+      "from_post": "2116529800508805523",
+      "short_url": "https://t.co/qwPycHjHwn",
+      "title": "GitHub - lowkeymanz/aigc-buddy-local"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-media",
+    "local-models"
+  ],
+  "keywords": [
+    "aigc-buddy",
+    "comfyui",
+    "ollama",
+    "infinite-canvas",
+    "video-generation"
+  ],
+  "relevance": "Local-first agentic creative studio.",
+  "media": []
+}

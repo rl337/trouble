@@ -1,0 +1,52 @@
+{
+  "id": "2116758942298579196",
+  "permalink": "https://x.com/Kobe1213681/status/2116758942298579196",
+  "author": {
+    "name": "Shen's Playbook（深深）",
+    "handle": "@Kobe1213681",
+    "profile_url": "https://x.com/Kobe1213681"
+  },
+  "posted_at": "2026-11-01T05:07:13Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**Shen's Playbook（深深） ([@Kobe1213681](https://x.com/Kobe1213681/status/2116758942298579196))** spotlights **shuohao-skills**, a skill collection for AI short-drama production (character breakdown, outline, scene and prop design, script, storyboard) that reached 5k stars in two months and a four-figure sponsorship ([eternityspring/shuohao-skills](https://github.com/eternityspring/shuohao-skills)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/eternityspring/shuohao-skills",
+      "from_post": "2116758942298579196",
+      "short_url": "https://t.co/wkyVZozSIR",
+      "title": "GitHub - eternityspring/shuohao-skills: AI 短剧制作的 skill 集合：拆角色、排大纲、出场景与道具设定、写剧本、切分镜 | Agent skills for AI short-drama production — character bibles, adaptation outlines, art bibles, screenplays, storyboards. Runs in Claude Code & codex."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "shuohao-skills",
+    "skill",
+    "storyboard",
+    "script",
+    "short-drama"
+  ],
+  "relevance": "Skill pipeline for AI short dramas.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HWA9BqRXIAA6tjz.jpg",
+      "from_post": "2116758942298579196",
+      "description": "Flowchart of shuohao-skills: novel source to outline, characters, art, script, character reference images, staging and storyboard, ending in a video production package.",
+      "thumbnail": "posts/2026/11/01/2116758942298579196/media/0.webp",
+      "kind": "diagram"
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HWA9BqVWEAAEyVN.jpg",
+      "from_post": "2116758942298579196",
+      "description": "shuohao-skills Chinese README describing an AI short-drama skill collection for agents, with a sponsors section.",
+      "thumbnail": "posts/2026/11/01/2116758942298579196/media/1.webp",
+      "kind": "screenshot"
+    }
+  ]
+}

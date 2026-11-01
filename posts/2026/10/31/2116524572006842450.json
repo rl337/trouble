@@ -1,0 +1,72 @@
+{
+  "id": "2116524572006842450",
+  "permalink": "https://x.com/HoomanBio/status/2116524572006842450",
+  "author": {
+    "name": "Hooman AI Lab",
+    "handle": "@HoomanBio",
+    "profile_url": "https://x.com/HoomanBio"
+  },
+  "posted_at": "2026-10-31T13:35:55Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [
+    {
+      "id": "2116524580676448344",
+      "permalink": "https://x.com/HoomanBio/status/2116524580676448344",
+      "posted_at": "2026-10-31T13:35:57Z",
+      "position": 1
+    },
+    {
+      "id": "2116524584778215916",
+      "permalink": "https://x.com/HoomanBio/status/2116524584778215916",
+      "posted_at": "2026-10-31T13:35:58Z",
+      "position": 2
+    },
+    {
+      "id": "2116524590168187333",
+      "permalink": "https://x.com/HoomanBio/status/2116524590168187333",
+      "posted_at": "2026-10-31T13:36:00Z",
+      "position": 3
+    },
+    {
+      "id": "2116524596497408236",
+      "permalink": "https://x.com/HoomanBio/status/2116524596497408236",
+      "posted_at": "2026-10-31T13:36:01Z",
+      "position": 4
+    },
+    {
+      "id": "2116524601639575984",
+      "permalink": "https://x.com/HoomanBio/status/2116524601639575984",
+      "posted_at": "2026-10-31T13:36:02Z",
+      "position": 5
+    },
+    {
+      "id": "2116524605963743351",
+      "permalink": "https://x.com/HoomanBio/status/2116524605963743351",
+      "posted_at": "2026-10-31T13:36:03Z",
+      "position": 6
+    }
+  ],
+  "summary_md": "**Hooman AI Lab ([@HoomanBio](https://x.com/HoomanBio/status/2116524572006842450))** releases **Qwen3.8-27B-LabOpen-v1**, an Apache-2.0 research refinement of Qwen3.8-27B that keeps coding and function calling while improving verifiable scientific computation across six domains; the thread reports agentic coding rising from 32% to 72% on 78 deterministic tests, and ships merged FP8 weights plus the LoRA adapter ([HoomanBio2021/Qwen3.8-27B-LabOpen-v1](https://huggingface.co/HoomanBio2021/Qwen3.8-27B-LabOpen-v1)).",
+  "referenced_urls": [
+    {
+      "url": "https://huggingface.co/HoomanBio2021/Qwen3.8-27B-LabOpen-v1",
+      "from_post": "2116524572006842450",
+      "short_url": "https://t.co/iUex9nHn2u",
+      "title": "HoomanBio2021/Qwen3.8-27B-LabOpen-v1 · Hugging Face"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "local-models"
+  ],
+  "keywords": [
+    "qwen3-8",
+    "27b",
+    "fine-tune",
+    "lora",
+    "fp8"
+  ],
+  "relevance": "~30B fine-tune with big agentic coding gains.",
+  "media": []
+}

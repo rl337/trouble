@@ -1,0 +1,44 @@
+{
+  "id": "2116545379017564208",
+  "permalink": "https://x.com/0xBakeer/status/2116545379017564208",
+  "author": {
+    "name": "0xBakeer",
+    "handle": "@0xBakeer",
+    "profile_url": "https://x.com/0xBakeer"
+  },
+  "posted_at": "2026-10-31T14:58:36Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**0xBakeer ([@0xBakeer](https://x.com/0xBakeer/status/2116545379017564208))** notes Nanbeige released an official 22.6 GB **INT4 of Nanbeige4.3-33B**, trained for 4-bit via quantization-aware training, on-policy distillation from BF16 and RL on the INT4 model itself ([Nanbeige/Nanbeige4.3-33B-INT4](https://huggingface.co/Nanbeige/Nanbeige4.3-33B-INT4)).",
+  "referenced_urls": [
+    {
+      "url": "https://huggingface.co/Nanbeige/Nanbeige4.3-33B-INT4",
+      "from_post": "2116545379017564208",
+      "short_url": "https://t.co/VWmTNrOz5Z",
+      "title": "Nanbeige/Nanbeige4.3-33B-INT4 · Hugging Face"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "local-models"
+  ],
+  "keywords": [
+    "nanbeige4-3",
+    "int4",
+    "quantization-aware-training",
+    "33b",
+    "distillation"
+  ],
+  "relevance": "~30B model natively trained for 4-bit local use.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV96zVOW8AAvwUY.jpg",
+      "from_post": "2116545379017564208",
+      "description": "Hugging Face header for Nanbeige/Nanbeige4.3-33B-INT4 (text generation, compressed-tensors, Apache-2.0).",
+      "thumbnail": "posts/2026/10/31/2116545379017564208/media/0.webp",
+      "kind": "screenshot"
+    }
+  ]
+}

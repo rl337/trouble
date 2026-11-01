@@ -1,0 +1,39 @@
+{
+  "id": "2116642939594256462",
+  "permalink": "https://x.com/Shadowfetch/status/2116642939594256462",
+  "author": {
+    "name": "Robert Corbin | Shadowfetch Studio | AIpeoplewiki",
+    "handle": "@Shadowfetch",
+    "profile_url": "https://x.com/Shadowfetch"
+  },
+  "posted_at": "2026-10-31T21:26:16Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**Robert Corbin | Shadowfetch Studio | AIpeoplewiki ([@Shadowfetch](https://x.com/Shadowfetch/status/2116642939594256462))** reports SenseTime open-sourced **SenseNova-Loop-9B-Preview**, an Apache-2.0 9B multimodal model that runs a shared block of layers twice for extra depth without extra weights, aimed at long-context and agent work ([sensenova/SenseNova-Loop-9B-Preview](https://huggingface.co/sensenova/SenseNova-Loop-9B-Preview)).",
+  "referenced_urls": [
+    {
+      "url": "https://huggingface.co/sensenova/SenseNova-Loop-9B-Preview",
+      "from_post": "2116642939594256462",
+      "short_url": "https://t.co/JbNm84k3MD",
+      "title": "sensenova/SenseNova-Loop-9B-Preview · Hugging Face"
+    }
+  ],
+  "hashtags": [
+    "OpenSource",
+    "AI",
+    "LLM"
+  ],
+  "topics": [
+    "local-models"
+  ],
+  "keywords": [
+    "sensenova-loop",
+    "looped-transformer",
+    "9b",
+    "multimodal",
+    "open-weight"
+  ],
+  "relevance": "Looped small model for agent workloads.",
+  "media": []
+}

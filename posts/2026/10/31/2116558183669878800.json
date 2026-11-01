@@ -1,0 +1,43 @@
+{
+  "id": "2116558183669878800",
+  "permalink": "https://x.com/con_golias/status/2116558183669878800",
+  "author": {
+    "name": "Konstantinos Gkolias",
+    "handle": "@con_golias",
+    "profile_url": "https://x.com/con_golias"
+  },
+  "posted_at": "2026-10-31T15:49:29Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**Konstantinos Gkolias ([@con_golias](https://x.com/con_golias/status/2116558183669878800))** measured 6,000 public dotfiles repos from 2015 to 2026 and found AI coding-agent config (.claude/, .codex/config.toml, opencode.json, AGENTS.md) went from 1 in 2,414 active repos in 2024 to 29.8% in 2026, the fastest shift in a decade, complementing Zarzycki's AGENTS.md census ([data and method](https://github.com/con-golias/workings/tree/main/2026-11-01-dotfiles-agents), [arXiv 2610.31715](https://arxiv.org/abs/2610.31715)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/con-golias/workings/tree/main/2026-11-01-dotfiles-agents",
+      "from_post": "2116558183669878800",
+      "title": "workings/2026-11-01-dotfiles-agents at main · con-golias/workings · GitHub"
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.31715",
+      "from_post": "2116558183669878800",
+      "title": "What Open-Source Projects Tell Their Coding Agents: A Census of AGENTS.md and CLAUDE.md"
+    }
+  ],
+  "hashtags": [
+    "dotfiles",
+    "AIagents",
+    "DevTools"
+  ],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "dotfile",
+    "agents-md",
+    "claude-code",
+    "adoption",
+    "configuration"
+  ],
+  "relevance": "Adoption data on user-level agent config.",
+  "media": []
+}

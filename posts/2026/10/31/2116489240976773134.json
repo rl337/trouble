@@ -1,0 +1,38 @@
+{
+  "id": "2116489240976773134",
+  "permalink": "https://x.com/Trendcanvasai/status/2116489240976773134",
+  "author": {
+    "name": "Trend canvas ai",
+    "handle": "@Trendcanvasai",
+    "profile_url": "https://x.com/Trendcanvasai"
+  },
+  "posted_at": "2026-10-31T11:15:32Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**Trend canvas ai ([@Trendcanvasai](https://x.com/Trendcanvasai/status/2116489240976773134))** reports NVIDIA's **Nemotron 3.5 Super** release: per NVIDIA a 120B-total/12B-active Mamba-2 + MoE hybrid with 1M context, vision and video understanding, and a company-reported 51.78% on SWE-bench Pro, under OpenMDW-1.1 ([nvidia/NVIDIA-Nemotron-3.5-Super-VL-120B-A12B-BF16](https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Super-VL-120B-A12B-BF16)).",
+  "referenced_urls": [
+    {
+      "url": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Super-VL-120B-A12B-BF16",
+      "from_post": "2116489240976773134",
+      "short_url": "https://t.co/QyiuyJS1bU",
+      "title": "nvidia/NVIDIA-Nemotron-3.5-Super-VL-120B-A12B-BF16 · Hugging Face"
+    }
+  ],
+  "hashtags": [
+    "ai",
+    "opensource"
+  ],
+  "topics": [
+    "local-models"
+  ],
+  "keywords": [
+    "nemotron-3-5-super",
+    "mamba-2",
+    "moe",
+    "120b",
+    "vision-language"
+  ],
+  "relevance": "Flagship ~120B model sized for DGX Spark.",
+  "media": []
+}

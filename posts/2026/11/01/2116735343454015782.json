@@ -1,0 +1,50 @@
+{
+  "id": "2116735343454015782",
+  "permalink": "https://x.com/SciFi/status/2116735343454015782",
+  "author": {
+    "name": "Artificial Intelligence Papers",
+    "handle": "@SciFi",
+    "profile_url": "https://x.com/SciFi"
+  },
+  "posted_at": "2026-11-01T03:33:27Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**Artificial Intelligence Papers ([@SciFi](https://x.com/SciFi/status/2116735343454015782))** shares *What Does \"Now\" Mean to Your Computer-Use Agent?* by Vasundra Srinivasan ([arXiv 2610.39282](https://arxiv.org/abs/2610.39282), [preflight-bench](https://github.com/multimodal-ai-engineering/preflight-bench)): stale clicks come mainly from page loading (17% in the first second vs 0.4% when loaded), and a roughly one-second network-idle wait removes most risk, which most open-source agents' wait rules miss.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.39282",
+      "from_post": "2116735343454015782",
+      "short_url": "https://t.co/hEJ4QdnIH8",
+      "title": "What Does \"Now\" Mean to Your Computer-Use Agent? Stale..."
+    },
+    {
+      "url": "https://github.com/multimodal-ai-engineering/preflight-bench",
+      "from_post": "2116735343454015782",
+      "short_url": "https://t.co/XVCyFp8l6l",
+      "title": "GitHub - multimodal-ai-engineering/preflight-bench: Benchmark and checks for stale screenshots in computer-use agents"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "computer-use",
+    "stale-screenshot",
+    "preflight-bench",
+    "page-load"
+  ],
+  "relevance": "Timing checks for computer-use agents.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HWAnk-gXEAAC6Sn.png",
+      "from_post": "2116735343454015782",
+      "description": "Abstract of the paper on stale clicks by computer-use agents, finding the risk lies in page loading rather than planning time.",
+      "thumbnail": "posts/2026/11/01/2116735343454015782/media/0.webp",
+      "kind": "paper",
+      "ocr_text": "Computer-use agents plan on a screenshot for several seconds and then click at a position on the screen; if the page has changed in the meantime, the click lands on an unintended element. Prior work treats the planning interval as the source of this risk. Measuring planned clicks on 31 public web pages, we find that the risk lies in page loading: 0.4% of clicks planned on fully loaded pages became stale within 30 seconds, against 17% of clicks planned in the first second after a page opened. On these pages, waiting about one second for network activity to stop removes most of this risk, yet the wait rules of eight of ten widely used open-source agents leave more than 1% of clicks stale. Commercial pages keep loading for longer: in the HTTP Archive's public crawl, 15% of 65 desktop booking and buying home pages went 500 ms without network requests within 3 seconds of their HTML being parsed,…"
+    }
+  ]
+}

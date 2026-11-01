@@ -1,0 +1,43 @@
+{
+  "id": "2116717557982101918",
+  "permalink": "https://x.com/warrior_naruto/status/2116717557982101918",
+  "author": {
+    "name": "solo_warrior_naruto",
+    "handle": "@warrior_naruto",
+    "profile_url": "https://x.com/warrior_naruto"
+  },
+  "posted_at": "2026-11-01T02:22:47Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**solo\\_warrior\\_naruto ([@warrior_naruto](https://x.com/warrior_naruto/status/2116717557982101918))** reports GitHub's **Copilot cloud experience** is GA on paid plans, with one agent session following you across web, mobile, CLI, VS Code, Slack and Teams, plus GA cloud sandboxes drawing on the Actions compute pool ([GitHub changelog](https://github.blog/changelog/2026-10-28-work-from-anywhere-with-a-new-connected-copilot-cloud-experience/)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.blog/changelog/2026-10-28-work-from-anywhere-with-a-new-connected-copilot-cloud-experience/",
+      "from_post": "2116717557982101918",
+      "short_url": "https://t.co/Twj5VHd6A8",
+      "title": "Work from anywhere with a new, connected Copilot cloud experience - GitHub Changelog"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "copilot",
+    "cloud-sandbox",
+    "agent-session",
+    "github-actions"
+  ],
+  "relevance": "Cross-surface agent sessions and sandboxes.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HWAXYP3WwAA-YQE.jpg",
+      "from_post": "2116717557982101918",
+      "description": "Promo graphic of a cloud connected to a laptop and phone, captioned \"CLOUD GA\".",
+      "thumbnail": "posts/2026/11/01/2116717557982101918/media/0.webp",
+      "kind": "other"
+    }
+  ]
+}

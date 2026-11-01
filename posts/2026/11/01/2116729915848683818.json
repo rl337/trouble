@@ -1,0 +1,43 @@
+{
+  "id": "2116729915848683818",
+  "permalink": "https://x.com/antoniodeperio/status/2116729915848683818",
+  "author": {
+    "name": "Antonio",
+    "handle": "@antoniodeperio",
+    "profile_url": "https://x.com/antoniodeperio"
+  },
+  "posted_at": "2026-11-01T03:11:53Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**Antonio ([@antoniodeperio](https://x.com/antoniodeperio/status/2116729915848683818))** presents **Rakumux**, a free Rust TUI terminal multiplexer for coding agents with vim-style bindings that preserves each agent's native experience ([humanunsupervised/rakumux](https://github.com/humanunsupervised/rakumux)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/humanunsupervised/rakumux",
+      "from_post": "2116729915848683818",
+      "short_url": "https://t.co/2Y86K3ZznV",
+      "title": "GitHub - humanunsupervised/rakumux: A terminal multiplexer for coding agents. Docs: docs.rakumux.com"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "rakumux",
+    "tui",
+    "terminal-multiplexer",
+    "rust"
+  ],
+  "relevance": "Terminal multiplexer for agents.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HWAiMwrbkAAXsqI.jpg",
+      "from_post": "2116729915848683818",
+      "description": "Rakumux TUI showing grouped agent sessions (pinned, running, ready) in a sidebar and a Claude session transcript with status notes.",
+      "thumbnail": "posts/2026/11/01/2116729915848683818/media/0.webp",
+      "kind": "screenshot"
+    }
+  ]
+}

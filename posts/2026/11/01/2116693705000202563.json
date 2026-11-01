@@ -1,0 +1,39 @@
+{
+  "id": "2116693705000202563",
+  "permalink": "https://x.com/MoyuAI/status/2116693705000202563",
+  "author": {
+    "name": "小鱼学姐",
+    "handle": "@MoyuAI",
+    "profile_url": "https://x.com/MoyuAI"
+  },
+  "posted_at": "2026-11-01T00:48:00Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**小鱼学姐 ([@MoyuAI](https://x.com/MoyuAI/status/2116693705000202563))** reports Uncle Bob released **ub-mode**, an agent skill enforcing a three-phase TDD flow with CRAP complexity under 10, duplication under 0.8 and full mutation-test passes ([unclebob/ub-mode](https://github.com/unclebob/ub-mode)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/unclebob/ub-mode",
+      "from_post": "2116693705000202563",
+      "short_url": "https://t.co/L1envv5FJj",
+      "title": "GitHub - unclebob/ub-mode"
+    }
+  ],
+  "hashtags": [
+    "AI编程",
+    "TDD",
+    "代码整洁"
+  ],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "ub-mode",
+    "tdd",
+    "skill",
+    "mutation-testing",
+    "code-quality"
+  ],
+  "relevance": "Engineering discipline as an agent skill.",
+  "media": []
+}

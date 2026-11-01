@@ -1,0 +1,40 @@
+{
+  "id": "2116595560442388965",
+  "permalink": "https://x.com/spencer_clark/status/2116595560442388965",
+  "author": {
+    "name": "Spencer",
+    "handle": "@spencer_clark",
+    "profile_url": "https://x.com/spencer_clark"
+  },
+  "posted_at": "2026-10-31T18:18:00Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**Spencer ([@spencer_clark](https://x.com/spencer_clark/status/2116595560442388965))** writes in *Back to School* that prompting could not teach Qwen3.5-9B to escape his maze game, but fine-tuning a model half its size on a gaming GPU did, with a single word nearly derailing it ([Maze Escape blog](https://spencerclark.dev/blog/maze-escape/), [spenceclark/maze-agent](https://github.com/spenceclark/maze-agent)).",
+  "referenced_urls": [
+    {
+      "url": "https://spencerclark.dev/blog/maze-escape/",
+      "from_post": "2116595560442388965",
+      "title": "Maze Escape: can LLM agents cooperate to find the exit?"
+    },
+    {
+      "url": "https://github.com/spenceclark/maze-agent",
+      "from_post": "2116595560442388965",
+      "title": "GitHub - spenceclark/maze-agent: Maze Agent · GitHub"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "local-models",
+    "agentic-cognition"
+  ],
+  "keywords": [
+    "fine-tuning",
+    "maze",
+    "small-model",
+    "spatial-reasoning",
+    "qwen3-5"
+  ],
+  "relevance": "Fine-tuning small local models for agent reasoning.",
+  "media": []
+}

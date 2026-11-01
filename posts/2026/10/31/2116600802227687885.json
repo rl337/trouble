@@ -1,0 +1,41 @@
+{
+  "id": "2116600802227687885",
+  "permalink": "https://x.com/use_zn/status/2116600802227687885",
+  "author": {
+    "name": "zn-gate",
+    "handle": "@use_zn",
+    "profile_url": "https://x.com/use_zn"
+  },
+  "posted_at": "2026-10-31T18:38:50Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**zn-gate ([@use_zn](https://x.com/use_zn/status/2116600802227687885))** opened the weights of **Galvanize 3**, a ~140M multilingual prompt-injection classifier under Apache-2.0 that runs on CPU and catches 89.6% of attacks at 0.6% FPR on their 3,309-example test set ([usezn/Galvanize-3](https://huggingface.co/usezn/Galvanize-3), [blog](https://usezn.com/blog/galvanize-3-weights-are-now-open/)).",
+  "referenced_urls": [
+    {
+      "url": "https://huggingface.co/usezn/Galvanize-3",
+      "from_post": "2116600802227687885",
+      "short_url": "https://t.co/DVATWVNO2R",
+      "title": "usezn/Galvanize-3 · Hugging Face"
+    },
+    {
+      "url": "https://usezn.com/blog/galvanize-3-weights-are-now-open/?utm_source=x&utm_medium=social&utm_campaign=galvanize-3-open-weights",
+      "from_post": "2116600802227687885",
+      "short_url": "https://t.co/VY1U6lK1oA",
+      "title": "Galvanize 3 weights are now open"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "galvanize-3",
+    "prompt-injection",
+    "classifier",
+    "open-weight",
+    "cpu"
+  ],
+  "relevance": "Local prompt-injection filter for agent pipelines.",
+  "media": []
+}

@@ -1,0 +1,48 @@
+{
+  "id": "2116609616918552619",
+  "permalink": "https://x.com/prompt48/status/2116609616918552619",
+  "author": {
+    "name": "Prompt Engineer 48",
+    "handle": "@prompt48",
+    "profile_url": "https://x.com/prompt48"
+  },
+  "posted_at": "2026-10-31T19:13:52Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**Prompt Engineer 48 ([@prompt48](https://x.com/prompt48/status/2116609616918552619))** tested **GEAR** (rsi-gear), an MIT framework where a meta agent reads failed traces and proposes harness changes that are promoted only if they score better; the README reports Terminal-Bench 2.1 rising from 52.8% to 62.9% without retraining, though he notes these are self-measured, some tasks were used in optimization and stronger models gained little ([rsi-gear/gear](https://github.com/rsi-gear/gear), [quick start](https://rsigear.xyz/docs/gear/quickstart), [video](https://youtu.be/_z5DFSgPIts)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/rsi-gear/gear",
+      "from_post": "2116609616918552619",
+      "title": "GitHub - rsi-gear/gear: Scikit-learn for Recursive Self-improvement (RSI). A modular framework for recursive harness evolution. · GitHub"
+    },
+    {
+      "url": "https://rsigear.xyz/docs/gear/quickstart",
+      "from_post": "2116609616918552619",
+      "title": "Quick start | GEAR"
+    },
+    {
+      "url": "https://huggingface.co/spaces/WizardTY/GEAR",
+      "from_post": "2116609616918552619",
+      "title": "GEAR - a Hugging Face Space by WizardTY"
+    },
+    {
+      "url": "https://youtu.be/_z5DFSgPIts",
+      "from_post": "2116609616918552619"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "gear",
+    "recursive-self-improvement",
+    "harness",
+    "terminal-bench",
+    "meta-agent"
+  ],
+  "relevance": "Hands-on review of recursive harness improvement.",
+  "media": []
+}

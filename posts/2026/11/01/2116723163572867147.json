@@ -1,0 +1,43 @@
+{
+  "id": "2116723163572867147",
+  "permalink": "https://x.com/NMBR_5_is_Alive/status/2116723163572867147",
+  "author": {
+    "name": "NMBR5",
+    "handle": "@NMBR_5_is_Alive",
+    "profile_url": "https://x.com/NMBR_5_is_Alive"
+  },
+  "posted_at": "2026-11-01T02:45:03Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**NMBR5 ([@NMBR_5_is_Alive](https://x.com/NMBR_5_is_Alive/status/2116723163572867147))** built a **Standing Rules Database** skill with Kiro, Python and SQLite so agents retain key rules and facts beyond context limits ([NMBR5sgit/standing-rules-database-skill](https://github.com/NMBR5sgit/standing-rules-database-skill), [demo](https://www.youtube.com/watch?v=FsZe0ghD_hQ)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/NMBR5sgit/standing-rules-database-skill",
+      "from_post": "2116723163572867147",
+      "short_url": "https://t.co/Ybsf2ZWn3b",
+      "title": "GitHub - NMBR5sgit/standing-rules-database-skill: A growing standing-rules database for AI agents. Rule storage and context cost are decoupled: the database grows to hundreds of rules, but each job only loads the handful its triggers match."
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=FsZe0ghD_hQ&feature=youtu.be",
+      "from_post": "2116723163572867147",
+      "short_url": "https://t.co/JJjpDKxy5s",
+      "title": "Standing Rules Database Kiroween Demo"
+    }
+  ],
+  "hashtags": [
+    "KiroweenHackathon26"
+  ],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "standing-rule",
+    "agent-memory",
+    "skill",
+    "sqlite",
+    "kiro"
+  ],
+  "relevance": "Persistent rules memory for agents.",
+  "media": []
+}

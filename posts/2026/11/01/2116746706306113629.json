@@ -1,0 +1,41 @@
+{
+  "id": "2116746706306113629",
+  "permalink": "https://x.com/calmrisewild/status/2116746706306113629",
+  "author": {
+    "name": "Xuyewild",
+    "handle": "@calmrisewild",
+    "profile_url": "https://x.com/calmrisewild"
+  },
+  "posted_at": "2026-11-01T04:18:36Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**Xuyewild ([@calmrisewild](https://x.com/calmrisewild/status/2116746706306113629))** after six months and thousands of AI drama clips, shares two bilingual repos with lessons on Seedance shots and handoffs between Claude and Codex on long projects ([xuyewild/multi-ai-skills](https://github.com/xuyewild/multi-ai-skills), [xuyewild/ai-video-skills](https://github.com/xuyewild/ai-video-skills)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/xuyewild/multi-ai-skills",
+      "from_post": "2116746706306113629",
+      "short_url": "https://t.co/B40aSUp6ie",
+      "title": "GitHub - xuyewild/multi-ai-skills: Two skills I use when several AIs work on one long project: hand off through files, get a second AI to check, log paid generations before you click. English and Chinese."
+    },
+    {
+      "url": "https://github.com/xuyewild/ai-video-skills",
+      "from_post": "2116746706306113629",
+      "short_url": "https://t.co/KYnMdJKEd5",
+      "title": "GitHub - xuyewild/ai-video-skills: Two skills from making thousands of AI video clips: a visual bible so every clip looks like the same show, and a way to write fights so the hits actually land. English and Chinese."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "ai-video",
+    "skill",
+    "seedance",
+    "multi-agent",
+    "handoff"
+  ],
+  "relevance": "Practitioner skills for AI video production.",
+  "media": []
+}

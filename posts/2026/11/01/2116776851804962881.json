@@ -1,0 +1,41 @@
+{
+  "id": "2116776851804962881",
+  "permalink": "https://x.com/Kim4dzn/status/2116776851804962881",
+  "author": {
+    "name": "小天儿",
+    "handle": "@Kim4dzn",
+    "profile_url": "https://x.com/Kim4dzn"
+  },
+  "posted_at": "2026-11-01T06:18:23Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**小天儿 ([@Kim4dzn](https://x.com/Kim4dzn/status/2116776851804962881))** had Claude Code build a 3D teardown simulator of a mechanical watch from one sentence, with real tooth counts and escapement at 6 beats per second, viewable slowed to 1/64, using the **teardown** skill ([elvarofficial/teardown](https://github.com/elvarofficial/teardown)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/elvarofficial/teardown",
+      "from_post": "2116776851804962881",
+      "short_url": "https://t.co/XVld6n7yAk",
+      "title": "GitHub - elvarofficial/teardown: A Claude Code skill that turns any machine into a 3D simulator you can take apart"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "teardown",
+    "skill",
+    "3d-simulation",
+    "mechanical-watch"
+  ],
+  "relevance": "Agent-built 3D mechanical simulations.",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2116776685232066560/img/OWl9Whf2YzzOA-FH.jpg",
+      "from_post": "2116776851804962881",
+      "description": "3D teardown animation of a mechanical watch movement."
+    }
+  ]
+}

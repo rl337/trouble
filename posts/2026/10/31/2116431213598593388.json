@@ -1,0 +1,45 @@
+{
+  "id": "2116431213598593388",
+  "permalink": "https://x.com/FSFG/status/2116431213598593388",
+  "author": {
+    "name": "Cryptography and Security Papers",
+    "handle": "@FSFG",
+    "profile_url": "https://x.com/FSFG"
+  },
+  "posted_at": "2026-10-31T07:24:57Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**Cryptography and Security Papers ([@FSFG](https://x.com/FSFG/status/2116431213598593388))** shares *REALM: Identifying Minimal Task Assets for LLM Agents* by Ren, Tak and Wang ([arXiv 2610.39155](https://arxiv.org/abs/2610.39155)), which models required assets as a dependency graph to enforce least privilege against prompt injection while separating discovery from authorization.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.39155",
+      "from_post": "2116431213598593388",
+      "short_url": "https://t.co/gjYE4hL3T3",
+      "title": "REALM: Identifying Minimal Task Assets for LLM Agents"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "realm",
+    "least-privilege",
+    "prompt-injection",
+    "agent-security",
+    "dependency-graph"
+  ],
+  "relevance": "Least-privilege asset scoping for agents.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV8S-RYW0AAho-Z.png",
+      "from_post": "2116431213598593388",
+      "description": "Abstract of the REALM paper on identifying minimal required assets for least-privilege agents.",
+      "thumbnail": "posts/2026/10/31/2116431213598593388/media/0.webp",
+      "kind": "paper",
+      "ocr_text": "Large language model (LLM) agents often receive access to more files, accounts, and services than a task requires. Prompt injection turns this excess access into an opportunity to redirect execution toward unrelated resources. Applying least privilege therefore requires identifying the assets needed by a task, including assets whose identities emerge only during execution. We present REALM (Required Execution Assets Linked to a Mission), an approach to identifying and maintaining a task's required assets and their permitted uses. The approach represents required assets as Dependency Graph nodes, resolves prerequisite relationships, and admits newly discovered assets through source-scoped selection. It separates discovering an asset from authorizing its use, while preserving the agent's freedom to choose its…"
+    }
+  ]
+}

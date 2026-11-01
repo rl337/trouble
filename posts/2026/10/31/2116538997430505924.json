@@ -1,0 +1,35 @@
+{
+  "id": "2116538997430505924",
+  "permalink": "https://x.com/Manojkumar2257/status/2116538997430505924",
+  "author": {
+    "name": "Manoj | The AI Dude",
+    "handle": "@Manojkumar2257",
+    "profile_url": "https://x.com/Manojkumar2257"
+  },
+  "posted_at": "2026-10-31T14:33:15Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**Manoj | The AI Dude ([@Manojkumar2257](https://x.com/Manojkumar2257/status/2116538997430505924))** walks through **explainer-studio**, an MIT Claude Code plugin that turns one line into a narrated, captioned explainer MP4 drawn stroke by stroke in eight hand-drawn styles without a GPU or video API; Claude writes a storyboard.json and a validation report flags weak scenes ([reedodev/explainer-studio](https://github.com/reedodev/explainer-studio)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/reedodev/explainer-studio",
+      "from_post": "2116538997430505924",
+      "short_url": "https://t.co/Oc3nYmMICu",
+      "title": "GitHub - reedodev/explainer-studio: One line in, an explainer video out, in eight hand-drawn styles (Claude Code skill)"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "explainer-studio",
+    "explainer-video",
+    "storyboard",
+    "claude-code",
+    "tts"
+  ],
+  "relevance": "Agent-written storyboards rendered to explainer videos.",
+  "media": []
+}

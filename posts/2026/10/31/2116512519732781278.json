@@ -1,0 +1,51 @@
+{
+  "id": "2116512519732781278",
+  "permalink": "https://x.com/HEI/status/2116512519732781278",
+  "author": {
+    "name": "Natural Language Processing Papers",
+    "handle": "@HEI",
+    "profile_url": "https://x.com/HEI"
+  },
+  "posted_at": "2026-10-31T12:48:02Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**Natural Language Processing Papers ([@HEI](https://x.com/HEI/status/2116512519732781278))** shares *Quantifying Claim Smoothing by LLM Research Agents* by Singha Roy, Wadhwa and Durrett ([arXiv 2610.35793](https://arxiv.org/abs/2610.35793), [SmoothScore](https://github.com/tiasa2/SmoothScore)): deep-research reports flatten conflicting sources into confident conclusions the citations do not support, measured with a claim-level scoring pipeline.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.35793",
+      "from_post": "2116512519732781278",
+      "short_url": "https://t.co/uxeYMD8dIS",
+      "title": "Quantifying Claim Smoothing by LLM Research Agents"
+    },
+    {
+      "url": "https://github.com/tiasa2/SmoothScore",
+      "from_post": "2116512519732781278",
+      "short_url": "https://t.co/fseC7kN5dh",
+      "title": "GitHub - tiasa2/SmoothScore: Repository for the SmoothScore pipeline"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-cognition"
+  ],
+  "keywords": [
+    "claim-smoothing",
+    "deep-research",
+    "smoothscore",
+    "faithfulness",
+    "citation"
+  ],
+  "relevance": "Faithfulness failures in research agents.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV9c69bXgAAA3-i.png",
+      "from_post": "2116512519732781278",
+      "description": "Abstract of the claim-smoothing paper introducing the SmoothScore claim-level scoring pipeline.",
+      "thumbnail": "posts/2026/10/31/2116512519732781278/media/0.webp",
+      "kind": "paper",
+      "ocr_text": "Deep research, or any use of large language models (LLMs) to read a large document collection and produce insights, requires synthesizing information from different sources. In this work, we find that LLMs produce long-form research reports that read as confident syntheses but which fail to accurately reflect the underlying documents. We call this failure smoothing. In collapsing diverse and potentially conflicting sources into a single narrative, the model discards the evidential \"jaggedness\" of its corpus and asserts conclusions more decisive than the citations can support. We introduce a claim level scoring pipeline, SmoothScore, to quantify this effect. Our pipeline extracts key conclusive claims from model generated reports, then finds evidence relevant to each claim and clusters that evidence along high level aspects. Finally, each…"
+    }
+  ]
+}

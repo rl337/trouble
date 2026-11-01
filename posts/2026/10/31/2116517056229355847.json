@@ -1,0 +1,36 @@
+{
+  "id": "2116517056229355847",
+  "permalink": "https://x.com/WeeklyStackAI/status/2116517056229355847",
+  "author": {
+    "name": "The Weekly Stack",
+    "handle": "@WeeklyStackAI",
+    "profile_url": "https://x.com/WeeklyStackAI"
+  },
+  "posted_at": "2026-10-31T13:06:03Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**The Weekly Stack ([@WeeklyStackAI](https://x.com/WeeklyStackAI/status/2116517056229355847))** tips that Google's experimental **gemini-api** CLI writes generated images and audio straight to disk and prints the path, so adding a line to AGENTS.md lets a coding agent produce its own media ([The Weekly Stack](https://weeklystackhq.beehiiv.com/)).",
+  "referenced_urls": [
+    {
+      "url": "https://weeklystackhq.beehiiv.com/",
+      "from_post": "2116517056229355847",
+      "short_url": "https://t.co/5koElVK1fA",
+      "title": "Home | The Weekly Stack"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev",
+    "agentic-media"
+  ],
+  "keywords": [
+    "gemini-api",
+    "cli",
+    "agents-md",
+    "image-generation",
+    "audio-generation"
+  ],
+  "relevance": "Giving coding agents media generation.",
+  "media": []
+}

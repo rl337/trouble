@@ -1,0 +1,45 @@
+{
+  "id": "2116508900597874842",
+  "permalink": "https://x.com/SciFi/status/2116508900597874842",
+  "author": {
+    "name": "Artificial Intelligence Papers",
+    "handle": "@SciFi",
+    "profile_url": "https://x.com/SciFi"
+  },
+  "posted_at": "2026-10-31T12:33:39Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**Artificial Intelligence Papers ([@SciFi](https://x.com/SciFi/status/2116508900597874842))** shares a paper by Zhou et al. ([arXiv 2610.37201](https://arxiv.org/abs/2610.37201)) introducing **BiPA**, which audits skill optimizers by replaying their acceptance rule on unchanged candidates and tracing token costs via a bipartite graph, showing small-dev-set gains on noisy agentic tasks can be selection artifacts.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.37201",
+      "from_post": "2116508900597874842",
+      "short_url": "https://t.co/mxgweAUUzd",
+      "title": "Does Your Generalist Skill Optimizer Really Incentivize Agentic..."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "bipa",
+    "skill-optimization",
+    "evaluation",
+    "attribution",
+    "agentic-task"
+  ],
+  "relevance": "Rigor for automated skill optimization.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV9ZoSRW4AAALs_.png",
+      "from_post": "2116508900597874842",
+      "description": "Abstract of the BiPA paper rethinking skill optimizers, finding learned skills barely beat their hand-written seeds on test.",
+      "thumbnail": "posts/2026/10/31/2116508900597874842/media/0.webp",
+      "kind": "paper",
+      "ocr_text": "Skill optimizers adapt an agent to long-horizon tasks, such as repairing a terminal environment, by rewriting its skill, a natural-language procedure in its context, and keeping the edits that raise success on a small dev set. On such tasks success is noisy, so a gain on a small dev set does not show that an edit helps, and a success score does not show what the edit costs. We introduce BiPA, which replays an optimizer's acceptance rule on candidates identical to its seed to measure what selection alone reports, and records each episode as a bipartite graph of turns and the text they read to trace extra input tokens to the behavior behind them. Across three optimizers, three agentic benchmarks and two models, the learned skills succeed about as often as their hand-written seed, 0.1 points higher on average. Their dev gains vanish on test: keeping the best of several candidates on at most 30 tasks reports gains this…"
+    }
+  ]
+}

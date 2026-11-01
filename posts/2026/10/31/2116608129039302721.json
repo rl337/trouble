@@ -1,0 +1,34 @@
+{
+  "id": "2116608129039302721",
+  "permalink": "https://x.com/TaylorChristof2/status/2116608129039302721",
+  "author": {
+    "name": "Taylor Christoffersen",
+    "handle": "@TaylorChristof2",
+    "profile_url": "https://x.com/TaylorChristof2"
+  },
+  "posted_at": "2026-10-31T19:07:57Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**Taylor Christoffersen ([@TaylorChristof2](https://x.com/TaylorChristof2/status/2116608129039302721))** describes Ai2's **LitPivot** workflow (pick papers, inspect excerpt-backed critiques, revise the proposal, refresh literature), noting a 17-researcher study showed better grounding rather than proof of more discoveries ([LitPivot](https://huggingface.co/blog/allenai/litpivot)).",
+  "referenced_urls": [
+    {
+      "url": "https://huggingface.co/blog/allenai/litpivot",
+      "from_post": "2116608129039302721",
+      "short_url": "https://t.co/qFx9fFW4hE",
+      "title": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-cognition"
+  ],
+  "keywords": [
+    "litpivot",
+    "research-ideation",
+    "literature-review",
+    "ai2"
+  ],
+  "relevance": "AI-assisted research ideation workflow.",
+  "media": []
+}

@@ -1,0 +1,46 @@
+{
+  "id": "2116719482068742352",
+  "permalink": "https://x.com/Frontier_Now_26/status/2116719482068742352",
+  "author": {
+    "name": "Frontier Now",
+    "handle": "@Frontier_Now_26",
+    "profile_url": "https://x.com/Frontier_Now_26"
+  },
+  "posted_at": "2026-11-01T02:30:25Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**Frontier Now ([@Frontier_Now_26](https://x.com/Frontier_Now_26/status/2116719482068742352))** covers **HarnessRouter**, which puts 30 coding-agent harnesses behind one Responses-compatible API with sessions, files, streaming and cancellation, keeping orchestration local when self-hosted ([Frontier Now writeup](https://frontiernow.dev/en/github/harnessrouter/)).",
+  "referenced_urls": [
+    {
+      "url": "https://frontiernow.dev/en/github/harnessrouter/?utm_source=x&utm_medium=social&utm_campaign=2026-11-01-harnessrouter",
+      "from_post": "2116719482068742352",
+      "short_url": "https://t.co/Sx2tORT8iT",
+      "title": "HarnessRouter: agent harness API — Frontier Now"
+    }
+  ],
+  "hashtags": [
+    "AIAgents",
+    "OpenSource"
+  ],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "harnessrouter",
+    "harness",
+    "responses-api",
+    "orchestration"
+  ],
+  "relevance": "Unified API across harnesses.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HWAZJAmaYAEYB9m.jpg",
+      "from_post": "2116719482068742352",
+      "description": "HarnessRouter web UI showing a saved task setup with Hermes agent harness, model selection, and feature layers such as sandbox, orchestration, sessions and streaming.",
+      "thumbnail": "posts/2026/11/01/2116719482068742352/media/0.webp",
+      "kind": "screenshot"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "id": "2116735121399390233",
+  "permalink": "https://x.com/hong142857/status/2116735121399390233",
+  "author": {
+    "name": "Aisashi",
+    "handle": "@hong142857",
+    "profile_url": "https://x.com/hong142857"
+  },
+  "posted_at": "2026-11-01T03:32:34Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**Aisashi ([@hong142857](https://x.com/hong142857/status/2116735121399390233))** highlights hyz317's **HairDeck**, which turns one character image into rotatable 3D hair cards with spring bone chains, rigged to a template avatar for VRM or GLB export ([hyz317/HairDeck](https://github.com/hyz317/HairDeck), [demo](https://huggingface.co/spaces/hyz317/HairDeck)).",
+  "referenced_urls": [
+    {
+      "url": "https://huggingface.co/spaces/hyz317/HairDeck",
+      "from_post": "2116735121399390233",
+      "short_url": "https://t.co/N8NziynCrd",
+      "title": "HairDeck: Animation-Ready Stylized Hair Cards from a Single Image - a Hugging Face Space by hyz317"
+    },
+    {
+      "url": "https://github.com/hyz317/HairDeck",
+      "from_post": "2116735121399390233",
+      "short_url": "https://t.co/GsM0TjLU4G",
+      "title": "GitHub - hyz317/HairDeck: HairDeck: Animation-Ready Stylized Hair Cards from a Single Image"
+    }
+  ],
+  "hashtags": [
+    "AI",
+    "3DHair",
+    "VRM",
+    "HuggingFace"
+  ],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "hairdeck",
+    "vrm",
+    "3d-hair",
+    "rigging",
+    "glb"
+  ],
+  "relevance": "Animation-ready 3D hair from an image.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HWAnHJuagAAesZO.jpg",
+      "from_post": "2116735121399390233",
+      "description": "HairDeck Hugging Face Space UI: source character image, 3D preview, and animation/VRM export panels for animation-ready stylized hair cards.",
+      "thumbnail": "posts/2026/11/01/2116735121399390233/media/0.webp",
+      "kind": "screenshot"
+    }
+  ]
+}

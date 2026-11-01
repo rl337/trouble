@@ -1,0 +1,44 @@
+{
+  "id": "2116425638152134749",
+  "permalink": "https://x.com/SciFi/status/2116425638152134749",
+  "author": {
+    "name": "Artificial Intelligence Papers",
+    "handle": "@SciFi",
+    "profile_url": "https://x.com/SciFi"
+  },
+  "posted_at": "2026-10-31T07:02:48Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**Artificial Intelligence Papers ([@SciFi](https://x.com/SciFi/status/2116425638152134749))** shares *Vision-Language Agents Can Learn in Their Own Latent Worlds* by Li et al. ([arXiv 2610.36925](https://arxiv.org/abs/2610.36925)), which explores letting a pretrained VLM's world knowledge drive policy improvement through online interaction, learning a latent world model that keeps adapting as the agent's own policy shifts what it experiences.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.36925",
+      "from_post": "2116425638152134749",
+      "short_url": "https://t.co/B9bmrFIIiu",
+      "title": "Vision-Language Agents Can Learn in Their Own Latent Worlds"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-cognition"
+  ],
+  "keywords": [
+    "world-model",
+    "vlm",
+    "model-based-rl",
+    "latent-space"
+  ],
+  "relevance": "VLMs as their own world model for agent learning.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV8N5w7XkAAcwT4.png",
+      "from_post": "2116425638152134749",
+      "description": "Abstract of the Dwell paper, a model-based RL framework that treats a VLM as a recurrent latent transition operator.",
+      "thumbnail": "posts/2026/10/31/2116425638152134749/media/0.webp",
+      "kind": "paper",
+      "ocr_text": "Learning from experience is essential for building the next generation of agents that continually expand their capabilities. Pretrained vision-language models (VLMs) already internalize rich world knowledge, yet this knowledge is rarely leveraged to drive policy improvement through online interaction. Realizing this potential efficiently remains challenging, as policy updates shift the agent's interaction distribution, requiring the world model to adapt accordingly, while continually updating large pretrained models is computationally expensive. To address this challenge, we introduce Dwell, a model-based reinforcement learning (RL) framework that reframes a VLM as a recurrent latent transition operator, endowing it with the ability to predict, adjust, and act in latent space. Leveraging the VLM's own representations and its dual role…"
+    }
+  ]
+}

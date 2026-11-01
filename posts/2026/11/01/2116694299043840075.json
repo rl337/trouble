@@ -1,0 +1,36 @@
+{
+  "id": "2116694299043840075",
+  "permalink": "https://x.com/MengTo/status/2116694299043840075",
+  "author": {
+    "name": "Meng To",
+    "handle": "@MengTo",
+    "profile_url": "https://x.com/MengTo"
+  },
+  "posted_at": "2026-11-01T00:50:21Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**Meng To ([@MengTo](https://x.com/MengTo/status/2116694299043840075))** plans to use Epic's **Unreal Engine skills plugin for Claude Code** for game development after seeing a full city built in Unreal with Blender-made assets ([EpicGames/unreal-engine-skills-for-claude-code-plugin](https://github.com/EpicGames/unreal-engine-skills-for-claude-code-plugin)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/EpicGames/unreal-engine-skills-for-claude-code-plugin",
+      "from_post": "2116694299043840075",
+      "short_url": "https://t.co/xdBqk5R1CL",
+      "title": "GitHub - EpicGames/unreal-engine-skills-for-claude-code-plugin"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-media",
+    "harness-dev"
+  ],
+  "keywords": [
+    "unreal-engine",
+    "claude-code",
+    "skill",
+    "game-development",
+    "3d"
+  ],
+  "relevance": "Official Unreal Engine agent skills.",
+  "media": []
+}

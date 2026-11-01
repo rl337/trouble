@@ -1,0 +1,69 @@
+{
+  "id": "2116784840800604269",
+  "permalink": "https://x.com/worthcloning/status/2116784840800604269",
+  "author": {
+    "name": "Worth Cloning",
+    "handle": "@worthcloning",
+    "profile_url": "https://x.com/worthcloning"
+  },
+  "posted_at": "2026-11-01T06:50:08Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [
+    {
+      "id": "2116784843753443351",
+      "permalink": "https://x.com/worthcloning/status/2116784843753443351",
+      "posted_at": "2026-11-01T06:50:09Z",
+      "position": 1
+    },
+    {
+      "id": "2116784845586403356",
+      "permalink": "https://x.com/worthcloning/status/2116784845586403356",
+      "posted_at": "2026-11-01T06:50:09Z",
+      "position": 2
+    },
+    {
+      "id": "2116784847381549236",
+      "permalink": "https://x.com/worthcloning/status/2116784847381549236",
+      "posted_at": "2026-11-01T06:50:10Z",
+      "position": 3
+    },
+    {
+      "id": "2116784849180893328",
+      "permalink": "https://x.com/worthcloning/status/2116784849180893328",
+      "posted_at": "2026-11-01T06:50:10Z",
+      "position": 4
+    }
+  ],
+  "summary_md": "**Worth Cloning ([@worthcloning](https://x.com/worthcloning/status/2116784840800604269))** reviews **Tracely**, a self-hostable tool whose README says it grades agent traces, clusters failures and freezes a failing run into a hermetic CI test replayed offline without API keys, with a gate to block PRs; caveats include SDK dependence, a four-service Docker setup and no default login ([jwuthri-cloud/Tracely-ai](https://github.com/jwuthri-cloud/Tracely-ai)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/jwuthri-cloud/Tracely-ai",
+      "from_post": "2116784840800604269",
+      "short_url": "https://t.co/Kl5JcGjzbL",
+      "title": "GitHub - jwuthri-cloud/Tracely-ai: Trace-native CI/CD for AI agents: grade production traces, cluster failures, freeze them into replayable regression tests, and block PRs that regress. Self-hostable."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "tracely",
+    "agent-trace",
+    "ci",
+    "replay",
+    "evaluation"
+  ],
+  "relevance": "Regression testing agent failures in CI.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HWBUdiRbkAADCz3.jpg",
+      "from_post": "2116784840800604269",
+      "description": "Tracely dashboard showing traces, failure clusters, auto-detected failures and regression cases with CI gates.",
+      "thumbnail": "posts/2026/11/01/2116784840800604269/media/0.webp",
+      "kind": "screenshot"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": "2116561106273456455",
+  "permalink": "https://x.com/enlocal_ai/status/2116561106273456455",
+  "author": {
+    "name": "IA En Local",
+    "handle": "@enlocal_ai",
+    "profile_url": "https://x.com/enlocal_ai"
+  },
+  "posted_at": "2026-10-31T16:01:06Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**IA En Local ([@enlocal_ai](https://x.com/enlocal_ai/status/2116561106273456455))** tested **Nemotron 3.5 Lightning** on a GX10 (DGX Spark class): 45.96 tok/s without speculative decoding, but without a defensive prompt it fell to the same prompt-injection attack 5 of 5 times ([EXP-0038](https://enlocal.ai/experimentos/exp-0038/)).",
+  "referenced_urls": [
+    {
+      "url": "https://enlocal.ai/experimentos/exp-0038/",
+      "from_post": "2116561106273456455",
+      "short_url": "https://t.co/O9T3BZ7yk9",
+      "title": "EXP-0038: Nemotron 3.5 Lightning: el más rápido que hemos medido… y el que peor resiste los ataques — enlocal.ai"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "local-models"
+  ],
+  "keywords": [
+    "nemotron-3-5-lightning",
+    "dgx-spark",
+    "prompt-injection",
+    "benchmark",
+    "security"
+  ],
+  "relevance": "DGX Spark speed and security test of a local model.",
+  "media": []
+}

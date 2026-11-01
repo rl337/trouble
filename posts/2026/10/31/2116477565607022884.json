@@ -1,0 +1,45 @@
+{
+  "id": "2116477565607022884",
+  "permalink": "https://x.com/SciFi/status/2116477565607022884",
+  "author": {
+    "name": "Artificial Intelligence Papers",
+    "handle": "@SciFi",
+    "profile_url": "https://x.com/SciFi"
+  },
+  "posted_at": "2026-10-31T10:29:08Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**Artificial Intelligence Papers ([@SciFi](https://x.com/SciFi/status/2116477565607022884))** shares *Prospector* by Haiqian Yang and Markus J. Buehler ([arXiv 2610.37121](https://arxiv.org/abs/2610.37121)), a compact model trained to traverse a domain knowledge graph step by step with tools, gathering evidence for specialized scientific reasoning instead of preselecting subgraphs.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.37121",
+      "from_post": "2116477565607022884",
+      "short_url": "https://t.co/maLwA2hqkp",
+      "title": "Prospector: learning a compact graph traversal policy for..."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-cognition"
+  ],
+  "keywords": [
+    "prospector",
+    "knowledge-graph",
+    "scientific-reasoning",
+    "graph-traversal",
+    "tool-use"
+  ],
+  "relevance": "Learned graph traversal for scientific reasoning.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV89IWhWsAAwc3D.png",
+      "from_post": "2116477565607022884",
+      "description": "Abstract of the Prospector paper, a compact model trained to traverse a domain knowledge graph step by step for scientific reasoning.",
+      "thumbnail": "posts/2026/10/31/2116477565607022884/media/0.webp",
+      "kind": "paper",
+      "ocr_text": "Scientific reasoning in specialized engineering fields depends on knowledge scattered across the literature, often proprietary and absent from frontier LLM training data. In such domains, frontier models tend to give generic answers. Knowledge graphs (KGs) can ground LLM reasoning. Because a graph is too large to provide in full, typical LLM+KG systems preselect a portion, deciding relevance before reasoning begins. Here we train a compact model, Prospector, to reason over a domain knowledge graph by traversing it step by step, seeking evidence in light of what it has already found. Prospector calls a small set of tools one at a time to progressively build its context, and answers with a chain of evidence that can be checked edge by edge against what its tools retrieved from the graph. On a knowledge graph built from the semiconductor-manufacturing literature, Prospector approaches the strongest…"
+    }
+  ]
+}

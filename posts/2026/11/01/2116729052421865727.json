@@ -1,0 +1,44 @@
+{
+  "id": "2116729052421865727",
+  "permalink": "https://x.com/jackzhang123vip/status/2116729052421865727",
+  "author": {
+    "name": "梦老湿 Dream AI",
+    "handle": "@jackzhang123vip",
+    "profile_url": "https://x.com/jackzhang123vip"
+  },
+  "posted_at": "2026-11-01T03:08:27Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**梦老湿 Dream AI ([@jackzhang123vip](https://x.com/jackzhang123vip/status/2116729052421865727))** open-sourced **ai-manju-skills**, an end-to-end AI comic-drama workflow across 21 genres generating plans, asset prompts, episode scripts, storyboards, video prompts and release plans for Claude, Codex and DeepSeek ([zhanghao123vip/ai-manju-skills](https://github.com/zhanghao123vip/ai-manju-skills)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/zhanghao123vip/ai-manju-skills",
+      "from_post": "2116729052421865727",
+      "short_url": "https://t.co/uYRwKl8KUr",
+      "title": "GitHub - zhanghao123vip/ai-manju-skills: 21 个题材的 AI 漫剧全流程 Skill：一句点子生成企划案、资产图提示词、分集剧本、分镜与视频提示词。可用于 Claude Code、WorkBuddy、DeepSeek"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "ai-manju",
+    "skill",
+    "storyboard",
+    "script",
+    "animation"
+  ],
+  "relevance": "Agentic animated short-drama production.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HWAhgUOa0AA1Odf.jpg",
+      "from_post": "2116729052421865727",
+      "description": "List of 21 AI comic-drama SKILL.md genre templates in Chinese (e.g., palace intrigue, cultivation, rebirth revenge).",
+      "thumbnail": "posts/2026/11/01/2116729052421865727/media/0.webp",
+      "kind": "screenshot"
+    }
+  ]
+}

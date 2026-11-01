@@ -1,0 +1,41 @@
+{
+  "id": "2116708301211599133",
+  "permalink": "https://x.com/CY160909/status/2116708301211599133",
+  "author": {
+    "name": "Shlcy",
+    "handle": "@CY160909",
+    "profile_url": "https://x.com/CY160909"
+  },
+  "posted_at": "2026-11-01T01:46:00Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**Shlcy ([@CY160909](https://x.com/CY160909/status/2116708301211599133))** enjoys **Open 3D Skills**, eight skills for Claude Code, Codex and Cursor covering Three.js scenes, scroll animations and exploded mechanical views, with browser checks and 60fps recording ([Moh4696/open-3d-skills](https://github.com/Moh4696/open-3d-skills)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/Moh4696/open-3d-skills",
+      "from_post": "2116708301211599133",
+      "short_url": "https://t.co/iZaENTAvLl",
+      "title": "GitHub - Moh4696/open-3d-skills: Eight agent skills for 3D and animated websites: three.js scenes from code, scroll films, transparent video, cursor rigs, exploded views, AI motion assets, browser checks and 60 fps recording. Claude Code, Codex, Cursor, Gemini CLI."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "three-js",
+    "skill",
+    "3d",
+    "scroll-animation"
+  ],
+  "relevance": "3D web animation skills.",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2116463404399390720/img/e6DWIAOVdLiTaFk_.jpg",
+      "from_post": "2116708301211599133",
+      "description": "Demo of 3D web scenes built with Open 3D Skills."
+    }
+  ]
+}

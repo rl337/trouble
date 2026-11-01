@@ -1,0 +1,43 @@
+{
+  "id": "2116711825853370766",
+  "permalink": "https://x.com/cardene777/status/2116711825853370766",
+  "author": {
+    "name": "Cardene【かるでね】🦔",
+    "handle": "@cardene777",
+    "profile_url": "https://x.com/cardene777"
+  },
+  "posted_at": "2026-11-01T02:00:00Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**Cardene【かるでね】🦔 ([@cardene777](https://x.com/cardene777/status/2116711825853370766))** points to a guide on Expo's official **agent skills**, which hand Claude Code and Codex task-specific procedures for UI work and SDK upgrades while specs stay in docs ([expo/skills](https://github.com/expo/skills)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/expo/skills",
+      "from_post": "2116711825853370766",
+      "short_url": "https://t.co/eFholjoMN5",
+      "title": "GitHub - expo/skills: A collection of AI agent skills for working with Expo projects and Expo Application Services"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "expo",
+    "skill",
+    "react-native",
+    "sdk-upgrade"
+  ],
+  "relevance": "Vendor-maintained skills for app dev.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV_ru6xXgAAiuKp.jpg",
+      "from_post": "2116711825853370766",
+      "description": "Hand-drawn style illustration \"Hand Expo work procedures to AI\": Expo Skills folders (screen building, SDK updates, distribution) and official docs feeding a coding AI that builds a phone app.",
+      "thumbnail": "posts/2026/11/01/2116711825853370766/media/0.webp",
+      "kind": "diagram"
+    }
+  ]
+}

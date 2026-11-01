@@ -1,0 +1,42 @@
+{
+  "id": "2116561414785487323",
+  "permalink": "https://x.com/ted_sandico/status/2116561414785487323",
+  "author": {
+    "name": "Ted S (Ted)",
+    "handle": "@ted_sandico",
+    "profile_url": "https://x.com/ted_sandico"
+  },
+  "posted_at": "2026-10-31T16:02:19Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**Ted S (Ted) ([@ted_sandico](https://x.com/ted_sandico/status/2116561414785487323))** recommends **Taste Skill** by Leon Lin, agent skills for art direction and reference-driven web design with every page checked in a real browser; start at skills/taste-skill/SKILL.md ([Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/Leonxlnx/taste-skill",
+      "from_post": "2116561414785487323",
+      "short_url": "https://t.co/dt73pTVvVW",
+      "title": "GitHub - Leonxlnx/taste-skill: Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "taste-skill",
+    "web-design",
+    "skill",
+    "art-direction",
+    "browser-check"
+  ],
+  "relevance": "Design taste for coding agents.",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://pbs.twimg.com/ext_tw_video_thumb/2116561349220192256/pu/img/o5hzPkeJGfXkANTW.jpg",
+      "from_post": "2116561414785487323",
+      "description": "Demo of websites designed with Taste Skill."
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": "2116479698498654299",
+  "permalink": "https://x.com/Manojkumar2257/status/2116479698498654299",
+  "author": {
+    "name": "Manoj | The AI Dude",
+    "handle": "@Manojkumar2257",
+    "profile_url": "https://x.com/Manojkumar2257"
+  },
+  "posted_at": "2026-10-31T10:37:37Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**Manoj | The AI Dude ([@Manojkumar2257](https://x.com/Manojkumar2257/status/2116479698498654299))** walks through **digital-human-koubo**, an MIT agent skill that makes talking-head ads from one photo and a script: it splits scripts into 15s lip-synced segments via Renoise MCP, verifies with Whisper and frame checks, matches voice and edits in Remotion; it requires paid Renoise credits ([andyhuo520/digital-human-koubo](https://github.com/andyhuo520/digital-human-koubo)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/andyhuo520/digital-human-koubo",
+      "from_post": "2116479698498654299",
+      "short_url": "https://t.co/6aGZh9ysCo",
+      "title": "GitHub - andyhuo520/digital-human-koubo: AI digital-human talking-head videos from one photo: Renoise MCP generation + 5 editing styles + 48 creator-grade packaging components. Agent skill for Claude Code / Codex / OpenClaw / WorkBuddy …"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "digital-human",
+    "lip-sync",
+    "remotion",
+    "whisper",
+    "skill"
+  ],
+  "relevance": "Agentic talking-head video production.",
+  "media": []
+}

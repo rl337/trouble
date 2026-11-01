@@ -1,0 +1,34 @@
+{
+  "id": "2116757371875905854",
+  "permalink": "https://x.com/yZzzzzzzc/status/2116757371875905854",
+  "author": {
+    "name": "尧米Echo",
+    "handle": "@yZzzzzzzc",
+    "profile_url": "https://x.com/yZzzzzzzc"
+  },
+  "posted_at": "2026-11-01T05:00:59Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**尧米Echo ([@yZzzzzzzc](https://x.com/yZzzzzzzc/status/2116757371875905854))** introduces **Mika**, an open Android assistant that operates apps, searches and fills forms on a separate background screen and connects to desktop agents via MCP; screen content goes to your chosen model ([wangzan101/Mika](https://github.com/wangzan101/Mika)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/wangzan101/Mika",
+      "from_post": "2116757371875905854",
+      "short_url": "https://t.co/LEvM44qAb5",
+      "title": "GitHub - wangzan101/Mika: Mika — 你手机上的私人 AI 助理，替你操作 App、上网、把事办成。An on-device AI agent for Android that operates apps and the web to get things done for you."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "mika",
+    "android",
+    "mcp",
+    "phone-agent"
+  ],
+  "relevance": "On-device phone agent.",
+  "media": []
+}

@@ -1,0 +1,34 @@
+{
+  "id": "2116754811412791691",
+  "permalink": "https://x.com/Alexju4542121/status/2116754811412791691",
+  "author": {
+    "name": "Alexju",
+    "handle": "@Alexju4542121",
+    "profile_url": "https://x.com/Alexju4542121"
+  },
+  "posted_at": "2026-11-01T04:50:49Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**Alexju ([@Alexju4542121](https://x.com/Alexju4542121/status/2116754811412791691))** recommends **codex-skill**, a Claude Code plugin where Codex reviews each plan in a read-only sandbox when leaving plan mode before you approve, skipping gracefully on errors ([cathrynlavery/codex-skill](https://github.com/cathrynlavery/codex-skill)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/cathrynlavery/codex-skill",
+      "from_post": "2116754811412791691",
+      "short_url": "https://t.co/282lcGIYbn",
+      "title": "GitHub - cathrynlavery/codex-skill: Give Claude Code a second opinion using OpenAI Codex - automatic plan review via hooks"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "codex-skill",
+    "plan-review",
+    "claude-code",
+    "plugin"
+  ],
+  "relevance": "Cross-model plan review.",
+  "media": []
+}

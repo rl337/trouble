@@ -1,0 +1,34 @@
+{
+  "id": "2116721379764842556",
+  "permalink": "https://x.com/Apurv35904761/status/2116721379764842556",
+  "author": {
+    "name": "Apurv Sheldiya",
+    "handle": "@Apurv35904761",
+    "profile_url": "https://x.com/Apurv35904761"
+  },
+  "posted_at": "2026-11-01T02:37:58Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**Apurv Sheldiya ([@Apurv35904761](https://x.com/Apurv35904761/status/2116721379764842556))** points to **Graphify**, which turns code, docs, schemas and configs into a queryable knowledge graph for coding agents ([Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/Graphify-Labs/graphify",
+      "from_post": "2116721379764842556",
+      "short_url": "https://t.co/klNYSbV89e",
+      "title": "GitHub - Graphify-Labs/graphify: Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "graphify",
+    "knowledge-graph",
+    "context-engineering",
+    "coding-agent"
+  ],
+  "relevance": "Context engineering via code graphs.",
+  "media": []
+}

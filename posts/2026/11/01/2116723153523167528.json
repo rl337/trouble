@@ -1,0 +1,43 @@
+{
+  "id": "2116723153523167528",
+  "permalink": "https://x.com/aicodeking/status/2116723153523167528",
+  "author": {
+    "name": "AICodeKing",
+    "handle": "@aicodeking",
+    "profile_url": "https://x.com/aicodeking"
+  },
+  "posted_at": "2026-11-01T02:45:01Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**AICodeKing ([@aicodeking](https://x.com/aicodeking/status/2116723153523167528))** added a single toggle in **PandaCode**, his desktop workspace for coding agents, to disable all harness telemetry ([aicodeking/pandacode](https://github.com/aicodeking/pandacode)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/aicodeking/pandacode",
+      "from_post": "2116723153523167528",
+      "short_url": "https://t.co/8YvvzjU85b",
+      "title": "GitHub - aicodeking/pandacode: PandaCode: a calm desktop workspace for coding agents"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "pandacode",
+    "telemetry",
+    "privacy",
+    "coding-agent"
+  ],
+  "relevance": "Privacy controls in an agent workspace.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HWAbphfW8AAG14f.jpg",
+      "from_post": "2116723153523167528",
+      "description": "PandaCode privacy settings with a \"Turn off agent telemetry\" toggle and per-agent telemetry notes for Claude Code, Codex, Kimi Code, Grok Build, DeepSeek, OpenCode, Pi and others.",
+      "thumbnail": "posts/2026/11/01/2116723153523167528/media/0.webp",
+      "kind": "screenshot"
+    }
+  ]
+}

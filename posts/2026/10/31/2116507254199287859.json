@@ -1,0 +1,47 @@
+{
+  "id": "2116507254199287859",
+  "permalink": "https://x.com/HelveticVault/status/2116507254199287859",
+  "author": {
+    "name": "E*NK1 (iii) ⥀ 💹🧲",
+    "handle": "@HelveticVault",
+    "profile_url": "https://x.com/HelveticVault"
+  },
+  "posted_at": "2026-10-31T12:27:06Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**E\\*NK1 (iii) ⥀ 💹🧲 ([@HelveticVault](https://x.com/HelveticVault/status/2116507254199287859))** presents **U*TTU Studio**, an MIT open-source film studio built on ComfyUI where you cast characters, build sets and shoot takes with MiniMax H3, LTX and Flux Klein, guided by an in-app assistant ([code](https://github.com/eNudimmud/U-TT), [site](https://uttu-studio.app)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/eNudimmud/U-TT",
+      "from_post": "2116507254199287859",
+      "short_url": "https://t.co/GTJvAKcBGZ"
+    },
+    {
+      "url": "https://uttu-studio.app",
+      "from_post": "2116507254199287859",
+      "short_url": "https://t.co/8XqB0pH5Ec",
+      "title": "U*TTU Studio — Open-source AI film studio on ComfyUI"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "uttu-studio",
+    "comfyui",
+    "film-production",
+    "ltx",
+    "flux"
+  ],
+  "relevance": "Open film-production workflow on ComfyUI.",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2116507202441650176/img/CqgzjmtNxrbNAkPj.jpg",
+      "from_post": "2116507254199287859",
+      "description": "Promo video of U*TTU Studio's film-making workflow."
+    }
+  ]
+}

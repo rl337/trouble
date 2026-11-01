@@ -1,0 +1,34 @@
+{
+  "id": "2116751037243740339",
+  "permalink": "https://x.com/DropRadar_io/status/2116751037243740339",
+  "author": {
+    "name": "开源雷达 | AI 工具日报",
+    "handle": "@DropRadar_io",
+    "profile_url": "https://x.com/DropRadar_io"
+  },
+  "posted_at": "2026-11-01T04:35:49Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**开源雷达 | AI 工具日报 ([@DropRadar_io](https://x.com/DropRadar_io/status/2116751037243740339))** recommends **agentring**, which lets a stuck agent phone you over self-hosted VoIP; a voice AI explains the blocker, you decide verbally and the transcript goes back to the agent (Android pre-release only) ([mutonby/agentring](https://github.com/mutonby/agentring)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/mutonby/agentring",
+      "from_post": "2116751037243740339",
+      "short_url": "https://t.co/USzZdzi9l0",
+      "title": "GitHub - mutonby/agentring: Let your AI agents call your phone over VoIP, and call them back. Your phone rings like a real call, even locked; a voice AI talks it through and returns the transcript. Self-hosted, open source, no phone numbers or Twilio."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "agentring",
+    "voip",
+    "human-in-the-loop",
+    "notification"
+  ],
+  "relevance": "Voice escalation for long-running agents.",
+  "media": []
+}

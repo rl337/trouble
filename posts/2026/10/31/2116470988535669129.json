@@ -1,0 +1,90 @@
+{
+  "id": "2116470988535669129",
+  "permalink": "https://x.com/hello_xiaozhou/status/2116470988535669129",
+  "author": {
+    "name": "小周同学",
+    "handle": "@hello_xiaozhou",
+    "profile_url": "https://x.com/hello_xiaozhou"
+  },
+  "posted_at": "2026-10-31T10:03:00Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**小周同学 ([@hello_xiaozhou](https://x.com/hello_xiaozhou/status/2116470988535669129))** curates ten repos to push agents beyond landing pages into design, 3D, motion and video: Impeccable, UI UX Pro Max, Blender MCP, img2threejs, video-shotcraft, HyperFrames, Penpot, Remotion, lemo-opuscar and diagram-design ([ahujasid/blender-mcp](https://github.com/ahujasid/blender-mcp), [img2threejs](https://github.com/img2threejs/img2threejs), [remotion-dev/remotion](https://github.com/remotion-dev/remotion)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/pbakaus/impeccable",
+      "from_post": "2116470988535669129",
+      "short_url": "https://t.co/CdNCRKqa9C",
+      "title": "GitHub - pbakaus/impeccable: The design language that makes your AI harness better at design."
+    },
+    {
+      "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
+      "from_post": "2116470988535669129",
+      "short_url": "https://t.co/TBdcLti49m",
+      "title": "GitHub - nextlevelbuilder/ui-ux-pro-max-skill: An AI skill that provides design intelligence for building professional UI/UX across multiple platforms. · GitHub"
+    },
+    {
+      "url": "https://github.com/ahujasid/blender-mcp",
+      "from_post": "2116470988535669129",
+      "short_url": "https://t.co/LLElWagsWf",
+      "title": "GitHub - ahujasid/mcp-for-blender: Community plugin to control Blender 3D with any LLM of your choice. Not affiliated with the official Blender Foundation. · GitHub"
+    },
+    {
+      "url": "https://github.com/img2threejs/img2threejs",
+      "from_post": "2116470988535669129",
+      "short_url": "https://t.co/7G4hSpcAVZ",
+      "title": "GitHub - img2threejs/img2threejs: Rebuild the object in a reference image as a code-only, procedural, quality-gated, animation-ready Three.js model. Token-efficient image-to-3D. · GitHub"
+    },
+    {
+      "url": "https://github.com/Vincentwei1021/video-shotcraft",
+      "from_post": "2116470988535669129",
+      "short_url": "https://t.co/n3Q8rUVutG",
+      "title": "GitHub - Vincentwei1021/video-shotcraft: AI video skill for Claude Code & Codex — cinematic, editable product promos with Remotion: 124 shot recipe cards, 150 motion previews, beat sync, sound design, Motion Workbench & JianYing (CapCut CN) export. · GitHub"
+    },
+    {
+      "url": "https://github.com/heygen-com/hyperframes",
+      "from_post": "2116470988535669129",
+      "short_url": "https://t.co/64wuLaBQRW",
+      "title": "GitHub - heygen-com/hyperframes: Write HTML. Render video. Built for agents. · GitHub"
+    },
+    {
+      "url": "https://github.com/penpot/penpot",
+      "from_post": "2116470988535669129",
+      "short_url": "https://t.co/AwzvhaH3Al",
+      "title": "GitHub - penpot/penpot: Penpot: The open-source design platform for Product teams that need scalable collaboration. · GitHub"
+    },
+    {
+      "url": "https://github.com/remotion-dev/remotion",
+      "from_post": "2116470988535669129",
+      "short_url": "https://t.co/eMaFOeSBlq",
+      "title": "GitHub - remotion-dev/remotion: 🎥 Make videos programmatically with React · GitHub"
+    },
+    {
+      "url": "https://github.com/lemomo-ai/lemo-opuscar",
+      "from_post": "2116470988535669129",
+      "short_url": "https://t.co/xV1OMoR77K",
+      "title": "GitHub - lemomo-ai/lemo-opuscar: A toolbox of film styles made in code for Claude Code: 66 ready to use, and your own. Each style is a style prompt plus a demo film made entirely in code by Claude Opus 5.5, with no video model. By Lemomo. · 一套用代码做片的风格工具箱：66 种现成风格，也能做出你自己的 · GitHub"
+    },
+    {
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "from_post": "2116470988535669129",
+      "short_url": "https://t.co/SUyo8YiMbK",
+      "title": "GitHub - cathrynlavery/diagram-design: Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 45 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop. · GitHub"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-media",
+    "harness-dev"
+  ],
+  "keywords": [
+    "blender-mcp",
+    "remotion",
+    "three-js",
+    "design-system",
+    "video-generation"
+  ],
+  "relevance": "Toolkit list for agentic media production.",
+  "media": []
+}

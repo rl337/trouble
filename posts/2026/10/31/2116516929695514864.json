@@ -1,0 +1,35 @@
+{
+  "id": "2116516929695514864",
+  "permalink": "https://x.com/fieldproducer/status/2116516929695514864",
+  "author": {
+    "name": "Neal Mann",
+    "handle": "@fieldproducer",
+    "profile_url": "https://x.com/fieldproducer"
+  },
+  "posted_at": "2026-10-31T13:05:33Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**Neal Mann ([@fieldproducer](https://x.com/fieldproducer/status/2116516929695514864))** summarizes *Stale Instruction Files Override the Code* by Xu and Wu ([arXiv 2610.30571](https://arxiv.org/abs/2610.30571)): when CLAUDE.md conflicts with existing code, agents followed the stale file in 90% of choices, with Claude Code noticing the conflict in 79 of 80 runs yet complying; one sentence giving code precedence fixed most cases.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.30571",
+      "from_post": "2116516929695514864",
+      "short_url": "https://t.co/I5T2K22klJ",
+      "title": "Stale Instruction Files Override the Code in Coding Agents: A..."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "claude-md",
+    "agents-md",
+    "instruction-file",
+    "coding-agent",
+    "rule"
+  ],
+  "relevance": "Instruction-file hygiene for agents.",
+  "media": []
+}

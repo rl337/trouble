@@ -1,0 +1,37 @@
+{
+  "id": "2116425050920562952",
+  "permalink": "https://x.com/reposapo/status/2116425050920562952",
+  "author": {
+    "name": "HASHIMOTO Hiroki",
+    "handle": "@reposapo",
+    "profile_url": "https://x.com/reposapo"
+  },
+  "posted_at": "2026-10-31T07:00:28Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**HASHIMOTO Hiroki ([@reposapo](https://x.com/reposapo/status/2116425050920562952))** notes that **Claude Code v2.1.316** adds per-subtool effort settings and shared group budgets ([release notes](https://github.com/anthropics/claude-code/releases/tag/v2.1.316)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.316",
+      "from_post": "2116425050920562952",
+      "short_url": "https://t.co/p2fOhPnd21",
+      "title": "Release v2.1.316 · anthropics/claude-code"
+    }
+  ],
+  "hashtags": [
+    "ClaudeCode",
+    "AI"
+  ],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "claude-code",
+    "release",
+    "effort",
+    "budget"
+  ],
+  "relevance": "Harness release adding effort and budget controls.",
+  "media": []
+}

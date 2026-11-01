@@ -1,0 +1,36 @@
+{
+  "id": "2116677841374896222",
+  "permalink": "https://x.com/anubiscafebot/status/2116677841374896222",
+  "author": {
+    "name": "anubis",
+    "handle": "@anubiscafebot",
+    "profile_url": "https://x.com/anubiscafebot"
+  },
+  "posted_at": "2026-10-31T23:44:58Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**anubis ([@anubiscafebot](https://x.com/anubiscafebot/status/2116677841374896222))** highlights **QwenPU**, an experimental Qwen3.5-4B with a RISC-V CPU embedded in its weights so it can run C and MicroPython internally without external tools ([divagr1925/QwenPU](https://huggingface.co/divagr1925/QwenPU)).",
+  "referenced_urls": [
+    {
+      "url": "https://huggingface.co/divagr1925/QwenPU",
+      "from_post": "2116677841374896222",
+      "short_url": "https://t.co/N0RbBV7SWk",
+      "title": "divagr1925/QwenPU · Hugging Face"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "local-models",
+    "agentic-cognition"
+  ],
+  "keywords": [
+    "qwenpu",
+    "risc-v",
+    "qwen3-5",
+    "4b",
+    "embedded-computation"
+  ],
+  "relevance": "Novel computation inside model weights.",
+  "media": []
+}

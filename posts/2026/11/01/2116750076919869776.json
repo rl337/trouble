@@ -1,0 +1,48 @@
+{
+  "id": "2116750076919869776",
+  "permalink": "https://x.com/ImaStudio_ai/status/2116750076919869776",
+  "author": {
+    "name": "Ima Studio",
+    "handle": "@ImaStudio_ai",
+    "profile_url": "https://x.com/ImaStudio_ai"
+  },
+  "posted_at": "2026-11-01T04:32:00Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**Ima Studio ([@ImaStudio_ai](https://x.com/ImaStudio_ai/status/2116750076919869776))** promotes **Motion2MixamoRig**, an open-source project retargeting human motion from video onto Mixamo-rigged 3D characters, now with a Blender extension ([MaxLiu22/Motion2MixamoRig](https://github.com/MaxLiu22/Motion2MixamoRig)).",
+  "referenced_urls": [
+    {
+      "url": "https://www.imastudio.com/seedance-2-5?utm_source=x&utm_medium=social&utm_campaign=ixa&utm_content=x1-25",
+      "from_post": "2116750076919869776",
+      "short_url": "https://t.co/Kj2y8tKfrY",
+      "title": "Unlimited Seedance 2.5 AI Video Generator - 30s Videos"
+    },
+    {
+      "url": "https://github.com/MaxLiu22/Motion2MixamoRig",
+      "from_post": "2116750076919869776",
+      "short_url": "https://t.co/PWgS9E0Oyl",
+      "title": "GitHub - MaxLiu22/Motion2MixamoRig: Retarget human motion from video to an Adobe Mixamo-rigged 3D character. · GitHub"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "motion2mixamorig",
+    "mixamo",
+    "blender",
+    "motion-capture",
+    "retargeting"
+  ],
+  "relevance": "Video-to-3D character animation.",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2116110606793351168/img/uDqutTzv2eHBBmMI.jpg",
+      "from_post": "2116750076919869776",
+      "description": "Real video converted into 3D character animation."
+    }
+  ]
+}

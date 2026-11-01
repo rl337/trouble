@@ -1,0 +1,35 @@
+{
+  "id": "2116545600535633945",
+  "permalink": "https://x.com/unshesh/status/2116545600535633945",
+  "author": {
+    "name": "unshesh",
+    "handle": "@unshesh",
+    "profile_url": "https://x.com/unshesh"
+  },
+  "posted_at": "2026-10-31T14:59:29Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**unshesh ([@unshesh](https://x.com/unshesh/status/2116545600535633945))** recommends *Memory Tax* by He et al. ([arXiv 2610.34073](https://arxiv.org/abs/2610.34073)), which finds many agent memory systems underperform naive RAG over raw history because summarizing or reorganizing can drop evidence later questions need.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.34073",
+      "from_post": "2116545600535633945",
+      "short_url": "https://t.co/xMi0kJ6oTc",
+      "title": "Memory Tax: Dissecting the Net Value of Agent Memory"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-cognition"
+  ],
+  "keywords": [
+    "memory-tax",
+    "agent-memory",
+    "rag",
+    "long-horizon",
+    "evaluation"
+  ],
+  "relevance": "Questioning the value of agent memory layers.",
+  "media": []
+}

@@ -1,0 +1,35 @@
+{
+  "id": "2116655246554673457",
+  "permalink": "https://x.com/sethrose/status/2116655246554673457",
+  "author": {
+    "name": "Seth Rose",
+    "handle": "@sethrose",
+    "profile_url": "https://x.com/sethrose"
+  },
+  "posted_at": "2026-10-31T22:15:10Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**Seth Rose ([@sethrose](https://x.com/sethrose/status/2116655246554673457))** highlights *Pre-Crime for Agents* by Leonidas Raghav ([arXiv 2610.40588](https://arxiv.org/abs/2610.40588)): agents pressed by a peer often refuse and then leak a secret like a deploy token, and a linear probe on activations can flag the call where it is about to give in, tested on Qwen3-32B.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.40588",
+      "from_post": "2116655246554673457",
+      "short_url": "https://t.co/bDY4zi2oSb",
+      "title": "Pre-Crime for Agents, at the Last Second: Probing When a Recruited..."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-cognition"
+  ],
+  "keywords": [
+    "linear-probe",
+    "collusion",
+    "multi-agent",
+    "secret-leak",
+    "interpretability"
+  ],
+  "relevance": "Predicting agent rule-breaking from activations.",
+  "media": []
+}

@@ -1,0 +1,54 @@
+{
+  "id": "2116563458296815776",
+  "permalink": "https://x.com/LuckyChenxi/status/2116563458296815776",
+  "author": {
+    "name": "Chenxi.AI",
+    "handle": "@LuckyChenxi",
+    "profile_url": "https://x.com/LuckyChenxi"
+  },
+  "posted_at": "2026-10-31T16:10:26Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [
+    {
+      "id": "2116563470254772467",
+      "permalink": "https://x.com/LuckyChenxi/status/2116563470254772467",
+      "posted_at": "2026-10-31T16:10:29Z",
+      "position": 1
+    },
+    {
+      "id": "2116563481910710280",
+      "permalink": "https://x.com/LuckyChenxi/status/2116563481910710280",
+      "posted_at": "2026-10-31T16:10:32Z",
+      "position": 2
+    },
+    {
+      "id": "2116563493772296670",
+      "permalink": "https://x.com/LuckyChenxi/status/2116563493772296670",
+      "posted_at": "2026-10-31T16:10:35Z",
+      "position": 3
+    }
+  ],
+  "summary_md": "**Chenxi.AI ([@LuckyChenxi](https://x.com/LuckyChenxi/status/2116563458296815776))** breaks down IBM's *Think Before You Act* by Shoham et al. ([arXiv 2610.38620](https://arxiv.org/abs/2610.38620)): **JevAct** checks agent actions before writes or escalations using code for computable facts and a small decision model for yes/no policy questions, lifting Opus 4.6's pass^3 on tau2-bench Telecom from 39.5% to 80.7%; gains varied on other domains, and he suggests an AGENTS.md rule or a PreToolUse hook as an approximation.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.38620",
+      "from_post": "2116563458296815776",
+      "short_url": "https://t.co/z8J94IjJTH",
+      "title": "Think Before You Act: Decision Gate for LLM Agents"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-cognition"
+  ],
+  "keywords": [
+    "jevact",
+    "decision-gate",
+    "tau2-bench",
+    "pretooluse-hook",
+    "verification"
+  ],
+  "relevance": "Pre-action verification gates for agents.",
+  "media": []
+}

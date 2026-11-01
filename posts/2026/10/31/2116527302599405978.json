@@ -1,0 +1,51 @@
+{
+  "id": "2116527302599405978",
+  "permalink": "https://x.com/qichen1019/status/2116527302599405978",
+  "author": {
+    "name": "柒晨来了",
+    "handle": "@qichen1019",
+    "profile_url": "https://x.com/qichen1019"
+  },
+  "posted_at": "2026-10-31T13:46:46Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**柒晨来了 ([@qichen1019](https://x.com/qichen1019/status/2116527302599405978))** describes **video-shotcraft**, an agent skill for Claude Code or Codex that acts as director: it captures the real product page, picks shots from a curated motion library, plans storyboards, animates in Remotion, cuts to the beat, adds sound design and checks frames, delivering an editable MP4 ([Vincentwei1021/video-shotcraft](https://github.com/Vincentwei1021/video-shotcraft)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/Vincentwei1021/video-shotcraft",
+      "from_post": "2116527302599405978",
+      "short_url": "https://t.co/1tJfX9f4TS",
+      "title": "GitHub - Vincentwei1021/video-shotcraft: AI video skill for Claude Code & Codex — cinematic, editable product promos with Remotion: 124 shot recipe cards, 150 motion previews, beat sync, sound design, Motion Workbench & JianYing (CapCut CN) export."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "video-shotcraft",
+    "remotion",
+    "skill",
+    "promo-video",
+    "storyboard"
+  ],
+  "relevance": "End-to-end agentic promo video production.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV9qGT3bUAAyzbp.png",
+      "from_post": "2116527302599405978",
+      "description": "Chat screenshot of a Chinese prompt asking the agent to make a 20-second promo for a sock product (16:9, clean style, real product UI), using the Ink Press template and delivering an MP4 plus an editable Remotion project.",
+      "thumbnail": "posts/2026/10/31/2116527302599405978/media/0.webp",
+      "kind": "prompt",
+      "ocr_text": "帮我给这个产品制作一支20秒宣传片：\n产品网址：男袜\n核心卖点：长绒棉、柔软轻柔、抑菌防臭\n画面比例：16:9\n语言：中文\n风格：简洁、有节奏、突出真实产品界面\n\n先检查制作环境，优先采用 Ink Press 模板。\n交付 MP4 和可修改的 Remotion 工程。"
+    },
+    {
+      "type": "video",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2116527006666153984/img/L5OxRme1G2UpseWs.jpg",
+      "from_post": "2116527302599405978",
+      "description": "Sample product promo video produced by the video-shotcraft skill."
+    }
+  ]
+}

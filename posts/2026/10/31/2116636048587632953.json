@@ -1,0 +1,35 @@
+{
+  "id": "2116636048587632953",
+  "permalink": "https://x.com/xoofx/status/2116636048587632953",
+  "author": {
+    "name": "Alexandre Mutel",
+    "handle": "@xoofx",
+    "profile_url": "https://x.com/xoofx"
+  },
+  "posted_at": "2026-10-31T20:58:53Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**Alexandre Mutel ([@xoofx](https://x.com/xoofx/status/2116636048587632953))** made his **ultra** profiler for .NET and native apps agent-friendly with automatic UAC elevation, a built-in MCP server from Kirill Osenkov and integrated skills, coming as a built-in skill in CodeAlta 3.3.0 ([xoofx/ultra](https://github.com/xoofx/ultra)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/xoofx/ultra",
+      "from_post": "2116636048587632953",
+      "short_url": "https://t.co/wVWfIQtHDQ",
+      "title": "GitHub - xoofx/ultra: An advanced profiler for .NET and Native Applications on Windows, macOS and Linux"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "ultra",
+    "profiler",
+    "mcp",
+    "dotnet",
+    "skill"
+  ],
+  "relevance": "Profiling exposed to agents via MCP.",
+  "media": []
+}

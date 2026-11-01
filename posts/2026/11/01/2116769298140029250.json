@@ -1,0 +1,43 @@
+{
+  "id": "2116769298140029250",
+  "permalink": "https://x.com/warrior_naruto/status/2116769298140029250",
+  "author": {
+    "name": "solo_warrior_naruto",
+    "handle": "@warrior_naruto",
+    "profile_url": "https://x.com/warrior_naruto"
+  },
+  "posted_at": "2026-11-01T05:48:23Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**solo\\_warrior\\_naruto ([@warrior_naruto](https://x.com/warrior_naruto/status/2116769298140029250))** reports **opencode** can now sign in with a Claude Code account via claude auth login and the Claude Agent option in /connect, so Claude models work inside opencode ([opencode releases](https://github.com/anomalyco/opencode/releases)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/anomalyco/opencode/releases",
+      "from_post": "2116769298140029250",
+      "short_url": "https://t.co/aH85xFpEQe",
+      "title": "Releases · anomalyco/opencode"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "opencode",
+    "claude-code",
+    "authentication",
+    "harness"
+  ],
+  "relevance": "Cross-harness auth sharing.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HWBGZ5YXMAAVoXy.jpg",
+      "from_post": "2116769298140029250",
+      "description": "Promo graphic of two terminal windows joined by a key, captioned \"ONE LOGIN\".",
+      "thumbnail": "posts/2026/11/01/2116769298140029250/media/0.webp",
+      "kind": "other"
+    }
+  ]
+}

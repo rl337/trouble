@@ -1,0 +1,34 @@
+{
+  "id": "2116440050460492258",
+  "permalink": "https://x.com/VIDRAFT_ai/status/2116440050460492258",
+  "author": {
+    "name": "VIDRAFT",
+    "handle": "@VIDRAFT_ai",
+    "profile_url": "https://x.com/VIDRAFT_ai"
+  },
+  "posted_at": "2026-10-31T08:00:04Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**VIDRAFT ([@VIDRAFT_ai](https://x.com/VIDRAFT_ai/status/2116440050460492258))** highlights the trending paper *Your Benchmark Is an Empirical Measure Over Difficulty* ([HF paper page](https://huggingface.co/papers/2610.29927)), which argues a benchmark implicitly defines a distribution over difficulty rather than just a set of questions.",
+  "referenced_urls": [
+    {
+      "url": "https://huggingface.co/papers/2610.29927",
+      "from_post": "2116440050460492258",
+      "short_url": "https://t.co/x6P9sGCRvc",
+      "title": "Paper page - Your Benchmark Is an Empirical Measure Over Difficulty"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-cognition"
+  ],
+  "keywords": [
+    "benchmark",
+    "difficulty",
+    "evaluation",
+    "measure-theory"
+  ],
+  "relevance": "Rethinking how benchmarks measure capability.",
+  "media": []
+}

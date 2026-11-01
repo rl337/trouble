@@ -1,0 +1,45 @@
+{
+  "id": "2116444028652695552",
+  "permalink": "https://x.com/SciFi/status/2116444028652695552",
+  "author": {
+    "name": "Artificial Intelligence Papers",
+    "handle": "@SciFi",
+    "profile_url": "https://x.com/SciFi"
+  },
+  "posted_at": "2026-10-31T08:15:52Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**Artificial Intelligence Papers ([@SciFi](https://x.com/SciFi/status/2116444028652695552))** shares *AutoVend* by Shi et al. ([arXiv 2610.36980](https://arxiv.org/abs/2610.36980)), a benchmark where one LLM agent runs 20 vending machines in online-to-offline commerce, testing whether online decisions turn into sustained economic returns.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.36980",
+      "from_post": "2116444028652695552",
+      "short_url": "https://t.co/rU2Q5FHgN7",
+      "title": "AutoVend: Benchmarking LLM Agents on Long-Horizon Autonomous..."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-cognition"
+  ],
+  "keywords": [
+    "autovend",
+    "benchmark",
+    "long-horizon",
+    "commerce",
+    "vending"
+  ],
+  "relevance": "Long-horizon economic agent benchmark.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV8eoPmWYAAcsvR.png",
+      "from_post": "2116444028652695552",
+      "description": "Abstract of the AutoVend benchmark, where one LLM agent runs 20 vending machines across five site types for 180 simulated days.",
+      "thumbnail": "posts/2026/10/31/2116444028652695552/media/0.webp",
+      "kind": "paper",
+      "ocr_text": "Large language model (LLM) agents are extending agent-mediated commerce on the Web from shopping for consumers to operating businesses for sellers. In online-to-offline (O2O) commerce, decisions are issued through Web-based platforms but realized through costly physical execution. Evaluating such agents requires going beyond individual transactions to ask whether decisions made online turn into sustained economic returns. We introduce AutoVend, a benchmark in which one LLM agent manages 20 vending machines across five site types through a Web-based operating interface for 180 simulated days. Its data-grounded simulator combines a shared warehouse, procurement lead times, paid replenishment, inventory expiration, and recurring operating costs. We evaluate five LLM agents against a rule-based inventory-control baseline and diagnose their…"
+    }
+  ]
+}

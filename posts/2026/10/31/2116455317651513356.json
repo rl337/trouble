@@ -1,0 +1,35 @@
+{
+  "id": "2116455317651513356",
+  "permalink": "https://x.com/Gael_DDOS/status/2116455317651513356",
+  "author": {
+    "name": "Gaël Caporale",
+    "handle": "@Gael_DDOS",
+    "profile_url": "https://x.com/Gael_DDOS"
+  },
+  "posted_at": "2026-10-31T09:00:44Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**Gaël Caporale ([@Gael_DDOS](https://x.com/Gael_DDOS/status/2116455317651513356))** flags Base Labs' **mammoth-1**, an MIT-licensed 27B decision model post-trained from Qwen3.5-27B that outputs a calibrated probability per option; the card claims first place on the vendor-run Jev Decision Index (71.24), with a hosted option at $0.10/M input tokens ([baselabs/mammoth-1](https://huggingface.co/baselabs/mammoth-1)).",
+  "referenced_urls": [
+    {
+      "url": "https://huggingface.co/baselabs/mammoth-1",
+      "from_post": "2116455317651513356",
+      "short_url": "https://t.co/XPPgdUQ9Ik",
+      "title": "baselabs/mammoth-1 · Hugging Face"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "local-models"
+  ],
+  "keywords": [
+    "mammoth-1",
+    "decision-model",
+    "qwen3-5",
+    "calibration",
+    "27b"
+  ],
+  "relevance": "~30B open decision model you can run locally.",
+  "media": []
+}

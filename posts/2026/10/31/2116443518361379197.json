@@ -1,0 +1,36 @@
+{
+  "id": "2116443518361379197",
+  "permalink": "https://x.com/LiuLxy4011/status/2116443518361379197",
+  "author": {
+    "name": "Shawn Liu",
+    "handle": "@LiuLxy4011",
+    "profile_url": "https://x.com/LiuLxy4011"
+  },
+  "posted_at": "2026-10-31T08:13:51Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**Shawn Liu ([@LiuLxy4011](https://x.com/LiuLxy4011/status/2116443518361379197))** explains Mattt's **AnyDecisionModel** for Apple platforms: an MLX backend assigns single-token labels to candidate answers and reads label probabilities in one forward pass instead of generating and parsing text; he advises calibrating thresholds on your own data first ([HF blog](https://huggingface.co/blog/anydecisionmodel)).",
+  "referenced_urls": [
+    {
+      "url": "https://huggingface.co/blog/anydecisionmodel",
+      "from_post": "2116443518361379197",
+      "short_url": "https://t.co/DXyCTYRBeR",
+      "title": "Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "local-models",
+    "harness-dev"
+  ],
+  "keywords": [
+    "anydecisionmodel",
+    "mlx",
+    "classification",
+    "calibration",
+    "apple"
+  ],
+  "relevance": "Efficient classification with local models.",
+  "media": []
+}

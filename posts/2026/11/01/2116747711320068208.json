@@ -1,0 +1,35 @@
+{
+  "id": "2116747711320068208",
+  "permalink": "https://x.com/realTigerLiang/status/2116747711320068208",
+  "author": {
+    "name": "老虎 Tiger",
+    "handle": "@realTigerLiang",
+    "profile_url": "https://x.com/realTigerLiang"
+  },
+  "posted_at": "2026-11-01T04:22:36Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**老虎 Tiger ([@realTigerLiang](https://x.com/realTigerLiang/status/2116747711320068208))** highlights Tencent's **TeamAI** CLI, which keeps a team's skills, rules and MCP configs in a Git repo and syncs them to members' AI tools, auto-pulling on new sessions and sharing personal skills via PR ([Tencent/teamai-cli](https://github.com/Tencent/teamai-cli)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/Tencent/teamai-cli",
+      "from_post": "2116747711320068208",
+      "short_url": "https://t.co/Rwwxtd5JXr",
+      "title": "GitHub - Tencent/teamai-cli: Make Every Team AI Native"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "teamai",
+    "skill",
+    "rule",
+    "mcp",
+    "git"
+  ],
+  "relevance": "Team-level skill and rule management.",
+  "media": []
+}

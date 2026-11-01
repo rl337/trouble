@@ -1,0 +1,35 @@
+{
+  "id": "2116517272793551290",
+  "permalink": "https://x.com/Jonny9811/status/2116517272793551290",
+  "author": {
+    "name": "Jonny9811",
+    "handle": "@Jonny9811",
+    "profile_url": "https://x.com/Jonny9811"
+  },
+  "posted_at": "2026-10-31T13:06:55Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**Jonny9811 ([@Jonny9811](https://x.com/Jonny9811/status/2116517272793551290))** open-sourced **cmack**, a 'Slack for agents' where Claude Code, Codex, Grok, Devin and OpenCode run in terminal panes, talk in Markdown channel files, and are woken by @mentions via send-keys, with no MCP or server ([jonny981/cmack](https://github.com/jonny981/cmack)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/jonny981/cmack",
+      "from_post": "2116517272793551290",
+      "short_url": "https://t.co/q7pEznWVAj",
+      "title": "GitHub - jonny981/cmack: Channels as files and a mention nudge for coding agents in terminal panes"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "cmack",
+    "multi-agent",
+    "tmux",
+    "markdown",
+    "coordination"
+  ],
+  "relevance": "File-based multi-agent coordination.",
+  "media": []
+}

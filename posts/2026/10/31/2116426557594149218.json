@@ -1,0 +1,35 @@
+{
+  "id": "2116426557594149218",
+  "permalink": "https://x.com/Twoshotsai/status/2116426557594149218",
+  "author": {
+    "name": "Twoshots 🌙",
+    "handle": "@Twoshotsai",
+    "profile_url": "https://x.com/Twoshotsai"
+  },
+  "posted_at": "2026-10-31T07:06:27Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**Twoshots 🌙 ([@Twoshotsai](https://x.com/Twoshotsai/status/2116426557594149218))** presents **archwhere**, which maps each PR to the architecture component it touches and flags security zones, arguing that agents editing sensitive code unflagged is a blind spot ([tapaskar/archwhere](https://github.com/tapaskar/archwhere)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/tapaskar/archwhere",
+      "from_post": "2116426557594149218",
+      "short_url": "https://t.co/jNcmMjeQPR",
+      "title": "GitHub - tapaskar/archwhere: Mission control for AI coding agents — every PR lands on the architecture map, and you talk to your agents on the diagram."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "archwhere",
+    "pull-request",
+    "security",
+    "architecture",
+    "coding-agent"
+  ],
+  "relevance": "Architecture-aware guardrail for agent-authored PRs.",
+  "media": []
+}

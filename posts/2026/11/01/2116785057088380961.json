@@ -1,0 +1,43 @@
+{
+  "id": "2116785057088380961",
+  "permalink": "https://x.com/QingQ77/status/2116785057088380961",
+  "author": {
+    "name": "Geek Lite",
+    "handle": "@QingQ77",
+    "profile_url": "https://x.com/QingQ77"
+  },
+  "posted_at": "2026-11-01T06:51:00Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**Geek Lite ([@QingQ77](https://x.com/QingQ77/status/2116785057088380961))** shares **DSH-Android**, a single APK running DeepSeek Harness on Android without root or Termux, using accessibility to read and tap apps, change settings and run scheduled or conditional automations ([jackwener/DSH-Android](https://github.com/jackwener/DSH-Android)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/jackwener/DSH-Android",
+      "from_post": "2116785057088380961",
+      "short_url": "https://t.co/wFnrPgSMvS",
+      "title": "GitHub - jackwener/DSH-Android: 免 ROOT 免 Termux，一个 APK 在安卓手机上跑 DeepSeek Harness。引擎内嵌 App 进程 · 读屏操作 App · 改系统设置 · 定时/条件自动化 · 可选 Shizuku"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "dsh-android",
+    "deepseek-harness",
+    "android",
+    "accessibility"
+  ],
+  "relevance": "Phone-native agent harness.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV8F7G5aYAAv81v.jpg",
+      "from_post": "2116785057088380961",
+      "description": "Six Android phone screenshots of the agent app: home, phone operation, trajectory replay, floating wake-up, permissions, and session list.",
+      "thumbnail": "posts/2026/11/01/2116785057088380961/media/0.webp",
+      "kind": "screenshot"
+    }
+  ]
+}

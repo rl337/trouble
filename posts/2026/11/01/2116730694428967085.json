@@ -1,0 +1,34 @@
+{
+  "id": "2116730694428967085",
+  "permalink": "https://x.com/Legivox/status/2116730694428967085",
+  "author": {
+    "name": "Legivox",
+    "handle": "@Legivox",
+    "profile_url": "https://x.com/Legivox"
+  },
+  "posted_at": "2026-11-01T03:14:59Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**Legivox ([@Legivox](https://x.com/Legivox/status/2116730694428967085))** shares **iphone-use**, which lets agents drive a real iPhone over USB or Wi-Fi via MCP, advising to verify a clean XCTest replay first ([leeguooooo/iphone-use](https://github.com/leeguooooo/iphone-use)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/leeguooooo/iphone-use",
+      "from_post": "2116730694428967085",
+      "short_url": "https://t.co/pEkZlBGHs9",
+      "title": "GitHub - leeguooooo/iphone-use: 响应快 省Token， Let AI agents (Claude Code, Codex, any MCP client) drive a real iPhone · 让 AI agent 操作真实 iPhone：读屏、点击、输入、滑动，USB 或 Wi-Fi，自有 XCTest runner，可回放的 App flow。Open source, self-hosted on macOS."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "iphone-use",
+    "mcp",
+    "xctest",
+    "mobile-automation"
+  ],
+  "relevance": "Mobile device control for agents.",
+  "media": []
+}

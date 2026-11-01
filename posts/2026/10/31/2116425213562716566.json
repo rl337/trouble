@@ -1,0 +1,35 @@
+{
+  "id": "2116425213562716566",
+  "permalink": "https://x.com/JeremyCMorgan/status/2116425213562716566",
+  "author": {
+    "name": "Jeremy Morgan",
+    "handle": "@JeremyCMorgan",
+    "profile_url": "https://x.com/JeremyCMorgan"
+  },
+  "posted_at": "2026-10-31T07:01:06Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**Jeremy Morgan ([@JeremyCMorgan](https://x.com/JeremyCMorgan/status/2116425213562716566))** suggests a 15-minute trust test for **CodeGraph**, a pre-indexed code knowledge graph for Claude Code: index a small repo, have an agent trace a call chain, and compare with IDE references ([colbymchenry/codegraph](https://github.com/colbymchenry/codegraph)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/colbymchenry/codegraph",
+      "from_post": "2116425213562716566",
+      "short_url": "https://t.co/w7mCv022HI",
+      "title": "GitHub - colbymchenry/codegraph: Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilot, and Hermes Agent — fewer tokens, fewer tool calls, 100% local"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "codegraph",
+    "knowledge-graph",
+    "claude-code",
+    "code-navigation",
+    "evaluation"
+  ],
+  "relevance": "Practical recipe to validate code-graph tooling before relying on it.",
+  "media": []
+}

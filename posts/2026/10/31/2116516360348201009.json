@@ -1,0 +1,34 @@
+{
+  "id": "2116516360348201009",
+  "permalink": "https://x.com/AIrishabh/status/2116516360348201009",
+  "author": {
+    "name": "Rishabh Khandelwal",
+    "handle": "@AIrishabh",
+    "profile_url": "https://x.com/AIrishabh"
+  },
+  "posted_at": "2026-10-31T13:03:17Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**Rishabh Khandelwal ([@AIrishabh](https://x.com/AIrishabh/status/2116516360348201009))** shares *MLOps-Bench* by Tran et al. ([arXiv 2610.23506](https://arxiv.org/abs/2610.23506)), 212 tasks across 31 real ML repos; the best agent fully solved only 31.2% despite passing 68.7% of tests.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.23506",
+      "from_post": "2116516360348201009",
+      "short_url": "https://t.co/87Nz63yLdW",
+      "title": "MLOps-Bench: Benchmarking AI Agents on Production ML Engineering..."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "mlops-bench",
+    "benchmark",
+    "ml-engineering",
+    "coding-agent"
+  ],
+  "relevance": "Agents on production ML engineering.",
+  "media": []
+}

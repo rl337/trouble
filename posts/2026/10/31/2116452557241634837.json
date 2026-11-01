@@ -1,0 +1,35 @@
+{
+  "id": "2116452557241634837",
+  "permalink": "https://x.com/reallychurjan/status/2116452557241634837",
+  "author": {
+    "name": "JIAN",
+    "handle": "@reallychurjan",
+    "profile_url": "https://x.com/reallychurjan"
+  },
+  "posted_at": "2026-10-31T08:49:46Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**JIAN ([@reallychurjan](https://x.com/reallychurjan/status/2116452557241634837))** covers Vercel Labs' **agent-desktop**, a CLI that reads the accessibility tree, clicks and types so any coding agent can use the desktop on macOS, Windows and Linux, plus an installable skill for Claude Code, Codex and Cursor ([vercel-labs/agent-desktop](https://github.com/vercel-labs/agent-desktop)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/vercel-labs/agent-desktop",
+      "from_post": "2116452557241634837",
+      "short_url": "https://t.co/xCEuLsmIdX",
+      "title": "GitHub - vercel-labs/agent-desktop: Agent Desktop gives any agent reliable computer use on the desktop. Built with Rust, it sees any app's real UI structure through OS accessibility trees and operates it — refs stay stable and actions stay safe to retry, instead of guessing from pixels."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "agent-desktop",
+    "computer-use",
+    "accessibility-tree",
+    "skill",
+    "cli"
+  ],
+  "relevance": "Computer-use capability for any harness.",
+  "media": []
+}

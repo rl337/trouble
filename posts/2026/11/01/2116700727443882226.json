@@ -1,0 +1,86 @@
+{
+  "id": "2116700727443882226",
+  "permalink": "https://x.com/DDJCXX/status/2116700727443882226",
+  "author": {
+    "name": "硅基废话",
+    "handle": "@DDJCXX",
+    "profile_url": "https://x.com/DDJCXX"
+  },
+  "posted_at": "2026-11-01T01:15:54Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**硅基废话 ([@DDJCXX](https://x.com/DDJCXX/status/2116700727443882226))** picks eight Claude Code video and animation skills from this month: pixelfx, huashu-motion, mg-styles-15, motion-prompt, animate, vibe-knowledge-film, story-studio and video-editor-skills ([patch-gg/pixelfx](https://github.com/patch-gg/pixelfx), [showheyohtaki/motion-prompt](https://github.com/showheyohtaki/motion-prompt), [cth9191/animate](https://github.com/cth9191/animate)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/patch-gg/pixelfx",
+      "from_post": "2116700727443882226",
+      "short_url": "https://t.co/QzpHqmjqMw",
+      "title": "GitHub - patch-gg/pixelfx: 232 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own."
+    },
+    {
+      "url": "https://github.com/alchaincyf/huashu-motion",
+      "from_post": "2116700727443882226",
+      "short_url": "https://t.co/SWh99G8CML",
+      "title": "GitHub - alchaincyf/huashu-motion: 让你的agent一键直出商业级产品宣传片：会作曲，能指着画面改。Commercial-grade launch films by your coding agent — point at the frame to change it. · GitHub"
+    },
+    {
+      "url": "https://github.com/Vincentwei1021/mg-styles-15",
+      "from_post": "2116700727443882226",
+      "short_url": "https://t.co/WRBIThmpas",
+      "title": "GitHub - Vincentwei1021/mg-styles-15: 15 motion design styles, each made by Claude Opus 5.5 writing code from one prompt: watch the films, copy the prompts, read the full source. · GitHub"
+    },
+    {
+      "url": "https://github.com/showheyohtaki/motion-prompt",
+      "from_post": "2116700727443882226",
+      "short_url": "https://t.co/eGrituL4H8",
+      "title": "GitHub - showheyohtaki/motion-prompt · GitHub"
+    },
+    {
+      "url": "https://github.com/cth9191/animate",
+      "from_post": "2116700727443882226",
+      "short_url": "https://t.co/hR0QJ0YwCp",
+      "title": "GitHub - cth9191/animate: Procedural animation in any style for Claude Code: short single-file canvas videos with story, look and storyboard check-ins. 7 built-in styles or one matched from your references, your own music (beat-mapped), real product screenshots, every format from one piece. · GitHub"
+    },
+    {
+      "url": "https://github.com/HeyChengC/vibe-knowledge-film",
+      "from_post": "2116700727443882226",
+      "short_url": "https://t.co/VKF6D2gPHy",
+      "title": "GitHub - HeyChengC/vibe-knowledge-film: 抖音爆款Vibe知识大赏知识短片skill，深度拆解爆款视频，复刻画风，导演分镜表，自动配音效，一键出片 · GitHub"
+    },
+    {
+      "url": "https://github.com/konlu/story-studio",
+      "from_post": "2116700727443882226",
+      "short_url": "https://t.co/j4dgyAYY5T",
+      "title": "GitHub - konlu/story-studio: 从选题到剪映草稿的一站式 AI 短视频内容创作 Agent Skill · GitHub"
+    },
+    {
+      "url": "https://github.com/appariciojunior/video-editor-skills",
+      "from_post": "2116700727443882226",
+      "short_url": "https://t.co/OX7MmHwqj4",
+      "title": "GitHub - appariciojunior/video-editor-skills: Skills that teach Claude Code to be a first-pass video editor in DaVinci Resolve: transcript cuts, vlog pacing, B-roll, music & SFX, clean captions, motion graphics, YouTube export. CC BY-NC 4.0 (no commercial use). · GitHub"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "pixelfx",
+    "motion-graphics",
+    "animation",
+    "skill",
+    "short-form-video"
+  ],
+  "relevance": "Curated agentic animation skills.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HWAIFv7akAAJZxg.jpg",
+      "from_post": "2116700727443882226",
+      "description": "Collage of eight video/animation skills: pixelfx, huashu-motion, mg-styles-15, motion-prompt, animate, vibe-knowledge-film, story-studio and video-editor-skills.",
+      "thumbnail": "posts/2026/11/01/2116700727443882226/media/0.webp",
+      "kind": "screenshot"
+    }
+  ]
+}

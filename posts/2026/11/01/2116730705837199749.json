@@ -1,0 +1,35 @@
+{
+  "id": "2116730705837199749",
+  "permalink": "https://x.com/xOSSResearch/status/2116730705837199749",
+  "author": {
+    "name": "OSSR",
+    "handle": "@xOSSResearch",
+    "profile_url": "https://x.com/xOSSResearch"
+  },
+  "posted_at": "2026-11-01T03:15:01Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**OSSR ([@xOSSResearch](https://x.com/xOSSResearch/status/2116730705837199749))** highlights Jim Manico's **grim-prompter**, threat modeling packaged for coding agents: Claude Code or Codex read the repo and report findings with file and line numbers, across 36 architectures and 29 methods like STRIDE, with builds and tests permission-gated ([jmanico/grim-prompter](https://github.com/jmanico/grim-prompter)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/jmanico/grim-prompter",
+      "from_post": "2116730705837199749",
+      "short_url": "https://t.co/uJqfbXRZRZ",
+      "title": "GitHub - jmanico/grim-prompter: Threat modeling for AI coding agents: point Claude Code, Codex or any agent at your repo and get an evidence-traced threat model. 36 architectures, 29 methods, MIT."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "grim-prompter",
+    "threat-modeling",
+    "stride",
+    "skill",
+    "security"
+  ],
+  "relevance": "Agent-run threat modeling.",
+  "media": []
+}

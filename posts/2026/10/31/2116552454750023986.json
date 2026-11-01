@@ -1,0 +1,35 @@
+{
+  "id": "2116552454750023986",
+  "permalink": "https://x.com/dvictor3579/status/2116552454750023986",
+  "author": {
+    "name": "Victor",
+    "handle": "@dvictor3579",
+    "profile_url": "https://x.com/dvictor3579"
+  },
+  "posted_at": "2026-10-31T15:26:43Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**Victor ([@dvictor3579](https://x.com/dvictor3579/status/2116552454750023986))** is building **Dwarapala**, a self-hosted MCP inbox gate for email, WhatsApp Business and Discord where agents can read, search and draft but every outgoing message needs human approval, with a kill switch and audit log ([dvictor357/dwarapala-showcase](https://github.com/dvictor357/dwarapala-showcase)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/dvictor357/dwarapala-showcase",
+      "from_post": "2116552454750023986",
+      "short_url": "https://t.co/rMYtyivzFa",
+      "title": "GitHub - dvictor357/dwarapala-showcase: Dwarapala: a self-hosted inbox gate for AI agents. One MCP inbox for email, WhatsApp and Discord, where every send waits for your approval."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "dwarapala",
+    "mcp",
+    "human-approval",
+    "inbox",
+    "guardrail"
+  ],
+  "relevance": "Human-in-the-loop guardrail for agent messaging.",
+  "media": []
+}

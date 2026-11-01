@@ -1,0 +1,36 @@
+{
+  "id": "2116785587814641734",
+  "permalink": "https://x.com/staroaeg/status/2116785587814641734",
+  "author": {
+    "name": "生晓bai",
+    "handle": "@staroaeg",
+    "profile_url": "https://x.com/staroaeg"
+  },
+  "posted_at": "2026-11-01T06:53:06Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**生晓bai ([@staroaeg](https://x.com/staroaeg/status/2116785587814641734))** recommends **claude-mem**, which records files, commands and edits and restores key context into new Claude Code or Codex sessions, warning not to store sensitive data ([thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/thedotmack/claude-mem",
+      "from_post": "2116785587814641734",
+      "short_url": "https://t.co/VVhwdUeRv1",
+      "title": "GitHub - thedotmack/claude-mem: Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More"
+    }
+  ],
+  "hashtags": [
+    "GitHub"
+  ],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "claude-mem",
+    "agent-memory",
+    "context",
+    "session"
+  ],
+  "relevance": "Persistent cross-session context.",
+  "media": []
+}

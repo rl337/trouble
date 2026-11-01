@@ -1,0 +1,37 @@
+{
+  "id": "2116725298393993347",
+  "permalink": "https://x.com/Syntag_Breaker/status/2116725298393993347",
+  "author": {
+    "name": "ChiquiBear",
+    "handle": "@Syntag_Breaker",
+    "profile_url": "https://x.com/Syntag_Breaker"
+  },
+  "posted_at": "2026-11-01T02:53:32Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**ChiquiBear ([@Syntag_Breaker](https://x.com/Syntag_Breaker/status/2116725298393993347))** shares QingYunA's MIT **answer-me-with-html** skill, where the model drafts Markdown and a bundled CLI renders hard answers as a single readable HTML page instead of long terminal text ([QingYunA/answer-me-with-html](https://github.com/QingYunA/answer-me-with-html)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/QingYunA/answer-me-with-html",
+      "from_post": "2116725298393993347",
+      "short_url": "https://t.co/IVezX7QODQ",
+      "title": "GitHub - QingYunA/answer-me-with-html: Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。"
+    }
+  ],
+  "hashtags": [
+    "Claude",
+    "ClaudeCode"
+  ],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "answer-me-with-html",
+    "skill",
+    "html",
+    "claude-code"
+  ],
+  "relevance": "Better agent answer presentation.",
+  "media": []
+}

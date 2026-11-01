@@ -1,0 +1,144 @@
+{
+  "id": "2116740334478876701",
+  "permalink": "https://x.com/ikkistan/status/2116740334478876701",
+  "author": {
+    "name": "Abdullah",
+    "handle": "@ikkistan",
+    "profile_url": "https://x.com/ikkistan"
+  },
+  "posted_at": "2026-11-01T03:53:17Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [
+    {
+      "id": "2116740337724961154",
+      "permalink": "https://x.com/ikkistan/status/2116740337724961154",
+      "posted_at": "2026-11-01T03:53:18Z",
+      "position": 1
+    },
+    {
+      "id": "2116740339356549353",
+      "permalink": "https://x.com/ikkistan/status/2116740339356549353",
+      "posted_at": "2026-11-01T03:53:18Z",
+      "position": 2
+    },
+    {
+      "id": "2116740340723937550",
+      "permalink": "https://x.com/ikkistan/status/2116740340723937550",
+      "posted_at": "2026-11-01T03:53:19Z",
+      "position": 3
+    },
+    {
+      "id": "2116740342276096202",
+      "permalink": "https://x.com/ikkistan/status/2116740342276096202",
+      "posted_at": "2026-11-01T03:53:19Z",
+      "position": 4
+    },
+    {
+      "id": "2116740344465256615",
+      "permalink": "https://x.com/ikkistan/status/2116740344465256615",
+      "posted_at": "2026-11-01T03:53:19Z",
+      "position": 5
+    },
+    {
+      "id": "2116740347481186314",
+      "permalink": "https://x.com/ikkistan/status/2116740347481186314",
+      "posted_at": "2026-11-01T03:53:20Z",
+      "position": 6
+    },
+    {
+      "id": "2116740351386112011",
+      "permalink": "https://x.com/ikkistan/status/2116740351386112011",
+      "posted_at": "2026-11-01T03:53:21Z",
+      "position": 7
+    },
+    {
+      "id": "2116740354154070511",
+      "permalink": "https://x.com/ikkistan/status/2116740354154070511",
+      "posted_at": "2026-11-01T03:53:22Z",
+      "position": 8
+    },
+    {
+      "id": "2116740356834517101",
+      "permalink": "https://x.com/ikkistan/status/2116740356834517101",
+      "posted_at": "2026-11-01T03:53:22Z",
+      "position": 9
+    },
+    {
+      "id": "2116740358520598772",
+      "permalink": "https://x.com/ikkistan/status/2116740358520598772",
+      "posted_at": "2026-11-01T03:53:23Z",
+      "position": 10
+    }
+  ],
+  "summary_md": "**Abdullah ([@ikkistan](https://x.com/ikkistan/status/2116740334478876701))** built **agent-readiness**, an open MIT skill that scores a repo's readiness for coding agents across 93 checks in 9 pillars on Factory's five-level Agent Readiness model; a script gathers evidence, the agent judges, and the output is one HTML report (FastAPI scores Level 2) with guided fixes, working in Claude Code, Codex, Cursor and others ([Luminary-AI-Solutions/agent-readiness](https://github.com/Luminary-AI-Solutions/agent-readiness)). His thread explains that agent failures in his production repos were fixed by fast local hooks, runnable AGENTS.md commands, real-browser E2E and per-session worktrees and ports.",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/Luminary-AI-Solutions/agent-readiness",
+      "from_post": "2116740334478876701",
+      "short_url": "https://t.co/8mWpJbPNiL",
+      "title": "GitHub - Luminary-AI-Solutions/agent-readiness: Is your repo ready for coding agents? A harness-agnostic Agent Skill that scores agent readiness (5 levels, 9 pillars) and renders a dashboard."
+    },
+    {
+      "url": "https://siddiki.luminarysolutions.ai",
+      "from_post": "2116740358520598772",
+      "short_url": "https://t.co/d7eW6gCS8T",
+      "title": "Abdullah Siddiki · Applied AI"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "agent-readiness",
+    "skill",
+    "agents-md",
+    "repo-hygiene",
+    "worktree"
+  ],
+  "relevance": "Repo readiness scoring for agents.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HWArg4gWwAA4KvH.jpg",
+      "from_post": "2116740334478876701",
+      "description": "agent-readiness intro slide: \"Is your repo ready for coding agents?\", five levels from Functional to Autonomous, 93 checks across 9 pillars, with an npx skills install command.",
+      "thumbnail": "posts/2026/11/01/2116740334478876701/media/0.webp",
+      "kind": "screenshot",
+      "ocr_text": "INTRODUCING\nIs your repo ready for coding agents?\nagent-readiness — An open Agent Skill. Free, MIT.\nFive levels: L1 Functional · L2 Documented · L3 Standardized (you are here) · L4 Optimized · L5 Autonomous\n93 checks · 9 pillars\nScores your codebase the way an agent experiences it: feedback loops, docs, environment, guardrails. Then helps you fix it, your way.\nEach ring a pillar. Red arcs are the gaps.\nClaude Code · Codex · Cursor · Copilot · Antigravity · OpenCode · Cline · Droid\nnpx skills add Luminary-AI-Solutions/agent-readiness"
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HWAreLHWsAATjBx.jpg",
+      "from_post": "2116740342276096202",
+      "description": "agent-readiness slide \"What it measures\": five gated levels and nine pillars (style, build, testing, documentation, dev environment, observability, security, task discovery, product).",
+      "thumbnail": "posts/2026/11/01/2116740334478876701/media/1.webp",
+      "kind": "screenshot"
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HWArkt_XcAA-8PI.jpg",
+      "from_post": "2116740344465256615",
+      "description": "agent-readiness slide \"How it works\": scan, judge, score, show, citing research that LLM-written AGENTS.md raised cost about 20% and agents declared work done too early.",
+      "thumbnail": "posts/2026/11/01/2116740334478876701/media/2.webp",
+      "kind": "screenshot"
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HWArpuXWsAAfuSg.jpg",
+      "from_post": "2116740347481186314",
+      "description": "agent-readiness HTML dashboard showing level staircase, a gap map of failing checks and where to start.",
+      "thumbnail": "posts/2026/11/01/2116740334478876701/media/3.webp",
+      "kind": "screenshot"
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HWArvG1W4AAYs9Z.jpg",
+      "from_post": "2116740351386112011",
+      "description": "agent-readiness slide \"Fix it your way\": auto-fix, your call and manual lanes.",
+      "thumbnail": "posts/2026/11/01/2116740334478876701/media/4.webp",
+      "kind": "screenshot"
+    }
+  ]
+}

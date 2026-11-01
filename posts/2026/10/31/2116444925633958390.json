@@ -1,0 +1,35 @@
+{
+  "id": "2116444925633958390",
+  "permalink": "https://x.com/jreuben1/status/2116444925633958390",
+  "author": {
+    "name": "(((JReuben1)))",
+    "handle": "@jreuben1",
+    "profile_url": "https://x.com/jreuben1"
+  },
+  "posted_at": "2026-10-31T08:19:26Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**(((JReuben1))) ([@jreuben1](https://x.com/jreuben1/status/2116444925633958390))** highlights *Beyond Tokens* by Yingzhuo Liu ([arXiv 2606.05711](https://arxiv.org/html/2606.05711v3)), a unified framework for latent communication in multi-agent LLM systems, and surveys approaches like LatentMAS, Interlat and SCALE-COMM that exchange hidden states instead of text to cut cost and information loss.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/html/2606.05711v3",
+      "from_post": "2116444925633958390",
+      "short_url": "https://t.co/dn3HrQ0N92",
+      "title": "Beyond Tokens: A Unified Framework forLatent Communication in LLM-basedMulti-Agent Systems"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-cognition"
+  ],
+  "keywords": [
+    "latent-communication",
+    "multi-agent",
+    "latentmas",
+    "hidden-state",
+    "survey"
+  ],
+  "relevance": "Agents communicating via latent states.",
+  "media": []
+}

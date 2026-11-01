@@ -1,0 +1,38 @@
+{
+  "id": "2116647294325944682",
+  "permalink": "https://x.com/g_tutner/status/2116647294325944682",
+  "author": {
+    "name": "Gernot Tutner",
+    "handle": "@g_tutner",
+    "profile_url": "https://x.com/g_tutner"
+  },
+  "posted_at": "2026-10-31T21:43:35Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**Gernot Tutner ([@g_tutner](https://x.com/g_tutner/status/2116647294325944682))** released v0.1.0 of an Ansible-based **VirtualBox sandbox** for agentic coding ([gernottutner-net/ansible-agent-sandbox](https://github.com/gernottutner-net/ansible-agent-sandbox)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/gernottutner-net/ansible-agent-sandbox",
+      "from_post": "2116647294325944682",
+      "short_url": "https://t.co/GcckY1IHuW",
+      "title": "GitHub - gernottutner-net/ansible-agent-sandbox: A sandbox for agentic coding on VirtualBox"
+    }
+  ],
+  "hashtags": [
+    "Claude",
+    "Agents",
+    "Sandbox"
+  ],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "sandbox",
+    "virtualbox",
+    "ansible",
+    "coding-agent"
+  ],
+  "relevance": "Isolated VM sandbox for coding agents.",
+  "media": []
+}

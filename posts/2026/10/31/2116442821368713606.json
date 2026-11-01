@@ -1,0 +1,52 @@
+{
+  "id": "2116442821368713606",
+  "permalink": "https://x.com/coldniko/status/2116442821368713606",
+  "author": {
+    "name": "Niko Veit",
+    "handle": "@coldniko",
+    "profile_url": "https://x.com/coldniko"
+  },
+  "posted_at": "2026-10-31T08:11:04Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [
+    {
+      "id": "2116442826128912833",
+      "permalink": "https://x.com/coldniko/status/2116442826128912833",
+      "posted_at": "2026-10-31T08:11:06Z",
+      "position": 1
+    }
+  ],
+  "summary_md": "**Niko Veit ([@coldniko](https://x.com/coldniko/status/2116442821368713606))** announces **Strata 0.2.9**, adding Unsloth's 1-bit DeepSeek V4.1 Flash quants and speedups on Strix Halo, DGX Spark, Intel Arc B-series and Linux parallel requests; the release card lists DGX Spark decode around 15–26 tok/s for the 1-bit DeepSeek ([release 0.2.9](https://github.com/Niko1221/Strata/releases/tag/v0.2.9)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/Niko1221/Strata/releases/tag/v0.2.9",
+      "from_post": "2116442821368713606",
+      "short_url": "https://t.co/bptoXmkAJa",
+      "title": "Release Strata 0.2.9 · Niko1221/Strata"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "local-models"
+  ],
+  "keywords": [
+    "strata",
+    "inference-engine",
+    "dgx-spark",
+    "quantization",
+    "strix-halo"
+  ],
+  "relevance": "Local inference engine with explicit DGX Spark gains.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV8dhsfWUAEnuKN.jpg",
+      "from_post": "2116442821368713606",
+      "description": "Strata 0.2.9 release card: 1-bit DeepSeek V4.1 Flash via Unsloth UD-IQ1 quants (241/258 GB), 1.8x faster Qwen prompts on Strix Halo, 1.45x parallel requests on Linux, up to +15.8% on 2x Intel Arc Pro B65, and about 2x on DGX Spark.",
+      "thumbnail": "posts/2026/10/31/2116442821368713606/media/0.webp",
+      "kind": "screenshot",
+      "ocr_text": "Strata 0.2.9 — 1-bit DeepSeek, much faster prompts on Strix Halo, faster parallel requests on Linux.\n1-bit DeepSeek V4.1 Flash (new in setup): Unsloth's sets, now a choice on PC, DGX Spark and Mac. UD-IQ1_S 241 GB; UD-IQ1_M 258 GB. UD-IQ1_S decode tok/s: 4x R9700 48-88, DGX Spark 15-26, M5 Max 128 GB 15-18.\nStrix Halo · Qwen prompts: 1.8x faster (8K: 791 → 1,424 tok/s, Windows).\nParallel requests (on by default): 1.45x at 8 (Linux NVIDIA, RTX PRO 5000, same answers).\n2x Intel Arc Pro B65: up to +15.8% (prompts, 8 at once: 42.1 → 53.8 tok/s).\nDGX Spark · DeepSeek 2.25: ~2x faster (short prompts, against 0.2.8).\ngithub.com/Niko1221/Strata · Plus fixes from your reports"
+    }
+  ]
+}

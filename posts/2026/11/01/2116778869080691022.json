@@ -1,0 +1,65 @@
+{
+  "id": "2116778869080691022",
+  "permalink": "https://x.com/caru_ini/status/2116778869080691022",
+  "author": {
+    "name": "かる",
+    "handle": "@caru_ini",
+    "profile_url": "https://x.com/caru_ini"
+  },
+  "posted_at": "2026-11-01T06:26:24Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [
+    {
+      "id": "2116779564987011390",
+      "permalink": "https://x.com/caru_ini/status/2116779564987011390",
+      "posted_at": "2026-11-01T06:29:10Z",
+      "position": 1
+    }
+  ],
+  "summary_md": "**かる ([@caru_ini](https://x.com/caru_ini/status/2116778869080691022))** made **stack-diagram**, a skill that draws architecture diagrams from a one-sentence stack description using official logos, with dark and light modes ([caru-ini/stack-diagram](https://github.com/caru-ini/stack-diagram)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/caru-ini/stack-diagram",
+      "from_post": "2116778869080691022",
+      "short_url": "https://t.co/r5LEYnIpNp",
+      "title": "GitHub - caru-ini/stack-diagram: Agent skill: describe your stack in a sentence, get an architecture diagram with official logos"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "stack-diagram",
+    "skill",
+    "architecture-diagram"
+  ],
+  "relevance": "Diagram generation skill.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HWBPDIRboAAgAjq.png",
+      "from_post": "2116778869080691022",
+      "description": "Generated architecture diagram (light theme): user to Next.js on Vercel, Hono API on Cloudflare Workers, Neon Postgres, Cloudflare R2, Upstash, Clerk auth and GitHub Actions deploy, with official logos.",
+      "thumbnail": "posts/2026/11/01/2116778869080691022/media/0.webp",
+      "kind": "diagram"
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HWBPffSa4AACz5r.jpg",
+      "from_post": "2116779564987011390",
+      "description": "Generated CI diagram (dark theme): developer push to GitHub Actions publishing to npm, with a pnpm workspace of Lefthook, Biome, Turborepo and Vitest.",
+      "thumbnail": "posts/2026/11/01/2116778869080691022/media/1.webp",
+      "kind": "diagram"
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HWBPffUbAAAZE1w.jpg",
+      "from_post": "2116779564987011390",
+      "description": "Generated RAG chat diagram (dark theme): Next.js chat UI on Vercel calling Claude, Supabase pgvector search, Inngest nightly sync from Notion.",
+      "thumbnail": "posts/2026/11/01/2116778869080691022/media/2.webp",
+      "kind": "diagram"
+    }
+  ]
+}

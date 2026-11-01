@@ -1,0 +1,43 @@
+{
+  "id": "2116706036404941195",
+  "permalink": "https://x.com/QingQ77/status/2116706036404941195",
+  "author": {
+    "name": "Geek Lite",
+    "handle": "@QingQ77",
+    "profile_url": "https://x.com/QingQ77"
+  },
+  "posted_at": "2026-11-01T01:37:00Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**Geek Lite ([@QingQ77](https://x.com/QingQ77/status/2116706036404941195))** shares **termilly**, a Windows/Linux terminal that groups terminals per project, restores scrollback after restart and shows whether Claude Code is waiting or running ([termilly/termilly](https://github.com/termilly/termilly)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/termilly/termilly",
+      "from_post": "2116706036404941195",
+      "short_url": "https://t.co/gHyjxktKog",
+      "title": "GitHub - termilly/termilly: A terminal for Windows and Linux that keeps your agents, servers and projects in view"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "termilly",
+    "terminal",
+    "claude-code",
+    "session-restore"
+  ],
+  "relevance": "Terminal built around agent sessions.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV2i8n4boAAbf4N.jpg",
+      "from_post": "2116706036404941195",
+      "description": "Terminal workspace app with projects in a sidebar and split panes running a dev server, tests, git log and a production deploy log.",
+      "thumbnail": "posts/2026/11/01/2116706036404941195/media/0.webp",
+      "kind": "screenshot"
+    }
+  ]
+}

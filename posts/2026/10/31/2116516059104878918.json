@@ -1,0 +1,35 @@
+{
+  "id": "2116516059104878918",
+  "permalink": "https://x.com/AlexM0302/status/2116516059104878918",
+  "author": {
+    "name": "Alejandro Maldonado",
+    "handle": "@AlexM0302",
+    "profile_url": "https://x.com/AlexM0302"
+  },
+  "posted_at": "2026-10-31T13:02:06Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**Alejandro Maldonado ([@AlexM0302](https://x.com/AlexM0302/status/2116516059104878918))** summarizes *Loud Failures, Quiet Failures* by Obada Kraishan ([arXiv 2610.10062](https://arxiv.org/abs/2610.10062)): agents caught tools that threw errors 91% of the time but plausible wrong values only 59%, and prompting to check results did not help; he advises schema, range and cross-source checks in code.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.10062",
+      "from_post": "2116516059104878918",
+      "short_url": "https://t.co/zZVsoYDONr",
+      "title": "Loud Failures, Quiet Failures: Fault Detection and Recovery in..."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "fault-injection",
+    "tool-use",
+    "silent-failure",
+    "validation",
+    "robustness"
+  ],
+  "relevance": "Tool fault detection in agents.",
+  "media": []
+}

@@ -1,0 +1,53 @@
+{
+  "id": "2116474636489924987",
+  "permalink": "https://x.com/vanstriendaniel/status/2116474636489924987",
+  "author": {
+    "name": "Daniel van Strien",
+    "handle": "@vanstriendaniel",
+    "profile_url": "https://x.com/vanstriendaniel"
+  },
+  "posted_at": "2026-10-31T10:17:30Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**Daniel van Strien ([@vanstriendaniel](https://x.com/vanstriendaniel/status/2116474636489924987))** built a Hugging Face Space that searches 1,864 public-domain Prelinger films by caption, then uses Liquid AI's **d1-2B** decision model to check three frames per clip against a yes/no question and jump to matching moments ([prelinger-moments-space](https://huggingface.co/spaces/davanstrien/prelinger-moments-space)).",
+  "referenced_urls": [
+    {
+      "url": "https://huggingface.co/spaces/davanstrien/prelinger-moments-space",
+      "from_post": "2116474636489924987",
+      "short_url": "https://t.co/k7CsFMMEjR",
+      "title": "Prelinger moments - a Hugging Face Space by davanstrien"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-media",
+    "agentic-cognition"
+  ],
+  "keywords": [
+    "d1-2b",
+    "video-search",
+    "decision-model",
+    "archive-film",
+    "liquid-ai"
+  ],
+  "relevance": "Small decision model for video moment search.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV86NffW8AAQRTY.jpg",
+      "from_post": "2116474636489924987",
+      "description": "Search UI over public-domain Prelinger films: query \"people wearing costume\" with a yes/no follow-up question, answered by a small decision model on ZeroGPU.",
+      "thumbnail": "posts/2026/10/31/2116474636489924987/media/0.webp",
+      "kind": "screenshot"
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV86V7XW8AA0INV.jpg",
+      "from_post": "2116474636489924987",
+      "description": "Search result from a 1941 amateur film of a Mardi Gras parade, with timestamped moments such as a child in a clown costume waving.",
+      "thumbnail": "posts/2026/10/31/2116474636489924987/media/1.webp",
+      "kind": "screenshot"
+    }
+  ]
+}

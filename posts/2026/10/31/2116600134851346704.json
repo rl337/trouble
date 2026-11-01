@@ -1,0 +1,35 @@
+{
+  "id": "2116600134851346704",
+  "permalink": "https://x.com/i_am_Paddy_Sham/status/2116600134851346704",
+  "author": {
+    "name": "Paddy Sham",
+    "handle": "@i_am_Paddy_Sham",
+    "profile_url": "https://x.com/i_am_Paddy_Sham"
+  },
+  "posted_at": "2026-10-31T18:36:11Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**Paddy Sham ([@i_am_Paddy_Sham](https://x.com/i_am_Paddy_Sham/status/2116600134851346704))** discusses *When Skills Tell Agents Not to Ask* by Sanko and Tian ([arXiv 2610.37734](https://arxiv.org/abs/2610.37734)): of 1.53 million agent skills, about 1 in 17 includes oversight-loosening directives such as proceeding without approval or using --no-verify, often unconditionally and concentrated in a few widely copied upstream skills that scanners mostly miss.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.37734",
+      "from_post": "2116600134851346704",
+      "short_url": "https://t.co/Z8FuBgpcJj",
+      "title": "When Skills Tell Agents Not to Ask: A Large-Scale Study of..."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "skill",
+    "oversight",
+    "human-approval",
+    "agent-security",
+    "skill-md"
+  ],
+  "relevance": "Hidden oversight risks inside skills.",
+  "media": []
+}

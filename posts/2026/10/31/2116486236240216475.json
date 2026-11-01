@@ -1,0 +1,35 @@
+{
+  "id": "2116486236240216475",
+  "permalink": "https://x.com/CordovalAIOffic/status/2116486236240216475",
+  "author": {
+    "name": "Cordoval",
+    "handle": "@CordovalAIOffic",
+    "profile_url": "https://x.com/CordovalAIOffic"
+  },
+  "posted_at": "2026-10-31T11:03:35Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**Cordoval ([@CordovalAIOffic](https://x.com/CordovalAIOffic/status/2116486236240216475))** introduces **Inkwell-1**, an Apache-2.0 website-generation model with GGUF builds for Ollama and LM Studio, trained only on the 2,180 of 4,000 generated sites that passed headless-browser checks for responsiveness, accessibility, AA contrast and JS errors ([cordoval-inkwell-1](https://huggingface.co/kierendaystudios/cordoval-inkwell-1)).",
+  "referenced_urls": [
+    {
+      "url": "https://huggingface.co/kierendaystudios/cordoval-inkwell-1",
+      "from_post": "2116486236240216475",
+      "short_url": "https://t.co/S8XpFel6se",
+      "title": "kierendaystudios/cordoval-inkwell-1 · Hugging Face"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "local-models"
+  ],
+  "keywords": [
+    "inkwell-1",
+    "gguf",
+    "web-design",
+    "ollama",
+    "data-filtering"
+  ],
+  "relevance": "Small local web-design model with verified training data.",
+  "media": []
+}

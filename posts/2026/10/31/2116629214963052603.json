@@ -1,0 +1,156 @@
+{
+  "id": "2116629214963052603",
+  "permalink": "https://x.com/aifindr/status/2116629214963052603",
+  "author": {
+    "name": "Findr",
+    "handle": "@aifindr",
+    "profile_url": "https://x.com/aifindr"
+  },
+  "posted_at": "2026-10-31T20:31:44Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**Findr ([@aifindr](https://x.com/aifindr/status/2116629214963052603))** lists 20 free repos forming a design studio for Claude, from Anthropic's frontend-design skill, UI UX Pro Max, Figma Context MCP and Magic MCP to Playwright MCP for screenshots and axe-core/Lighthouse audits ([anthropics/skills frontend-design](https://github.com/anthropics/skills/tree/main/skills/frontend-design), [GLips/Figma-Context-MCP](https://github.com/GLips/Figma-Context-MCP), [microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/anthropics/skills/tree/main/skills/frontend-design",
+      "from_post": "2116629214963052603",
+      "short_url": "https://t.co/I9ovPPjb70",
+      "title": "skills/skills/frontend-design at main · anthropics/skills"
+    },
+    {
+      "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
+      "from_post": "2116629214963052603",
+      "short_url": "https://t.co/BCfuVTyPyH",
+      "title": "GitHub - nextlevelbuilder/ui-ux-pro-max-skill: An AI skill that provides design intelligence for building professional UI/UX across multiple platforms. · GitHub"
+    },
+    {
+      "url": "https://github.com/GLips/Figma-Context-MCP",
+      "from_post": "2116629214963052603",
+      "short_url": "https://t.co/I9yfRduAtu",
+      "title": "GitHub - GLips/Figma-Context-MCP: MCP server to provide Figma layout information to AI coding agents like Cursor · GitHub"
+    },
+    {
+      "url": "https://github.com/penpot/penpot",
+      "from_post": "2116629214963052603",
+      "short_url": "https://t.co/hkRIyrl5S8",
+      "title": "GitHub - penpot/penpot: Penpot: The open-source design platform for Product teams that need scalable collaboration. · GitHub"
+    },
+    {
+      "url": "https://github.com/shadcn-ui/ui",
+      "from_post": "2116629214963052603",
+      "short_url": "https://t.co/woNgvtoM6f",
+      "title": "GitHub - shadcn-ui/ui: Composable, accessible components with thoughtful defaults. Build your own component library with code you can customize, extend, and make your own. · GitHub"
+    },
+    {
+      "url": "https://github.com/radix-ui/primitives",
+      "from_post": "2116629214963052603",
+      "short_url": "https://t.co/ka8xiabSqf",
+      "title": "GitHub - radix-ui/primitives: Radix Primitives is an open-source UI component library for building high-quality, accessible design systems and web apps. Maintained by @workos. · GitHub"
+    },
+    {
+      "url": "https://github.com/tailwindlabs/tailwindcss",
+      "from_post": "2116629214963052603",
+      "short_url": "https://t.co/uoZTNa4xFi",
+      "title": "GitHub - tailwindlabs/tailwindcss: A utility-first CSS framework for rapid UI development. · GitHub"
+    },
+    {
+      "url": "https://github.com/21st-dev/magic-mcp",
+      "from_post": "2116629214963052603",
+      "short_url": "https://t.co/mCJCmwgTvE",
+      "title": "GitHub - 21st-dev/magic-mcp: It's like v0, but in your Cursor / Claude Code / Windsurf: search 10,000+ React/Tailwind components, generate new UI with AI, and publish your own — right from your editor. Magic MCP is now the 21st MCP; this package keeps old configs working. Setup: 21st.dev/mcp · GitHub"
+    },
+    {
+      "url": "https://github.com/lucide-icons/lucide",
+      "from_post": "2116629214963052603",
+      "short_url": "https://t.co/RKUp8r91TA",
+      "title": "GitHub - lucide-icons/lucide: Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons. · GitHub"
+    },
+    {
+      "url": "https://github.com/fontsource/fontsource",
+      "from_post": "2116629214963052603",
+      "short_url": "https://t.co/CiEnubZ9JV",
+      "title": "GitHub - fontsource/fontsource: Self-host Open Source fonts in neatly bundled NPM packages. · GitHub"
+    },
+    {
+      "url": "https://github.com/gka/chroma.js",
+      "from_post": "2116629214963052603",
+      "short_url": "https://t.co/7czNrEuNDe",
+      "title": "GitHub - gka/chroma.js: JavaScript library for all kinds of color manipulations · GitHub"
+    },
+    {
+      "url": "https://github.com/argyleink/open-props",
+      "from_post": "2116629214963052603",
+      "short_url": "https://t.co/oAXW3Gpx8r",
+      "title": "GitHub - argyleink/open-props: CSS custom properties to help accelerate adaptive and consistent design. · GitHub"
+    },
+    {
+      "url": "https://github.com/motiondivision/motion",
+      "from_post": "2116629214963052603",
+      "short_url": "https://t.co/zKAbvQrLoL",
+      "title": "GitHub - motiondivision/motion: A modern animation library for React and JavaScript · GitHub"
+    },
+    {
+      "url": "https://github.com/greensock/GSAP",
+      "from_post": "2116629214963052603",
+      "short_url": "https://t.co/10wOGnXuWY",
+      "title": "GitHub - greensock/GSAP: GSAP (GreenSock Animation Platform), a JavaScript animation library for the modern web · GitHub"
+    },
+    {
+      "url": "https://github.com/excalidraw/excalidraw",
+      "from_post": "2116629214963052603",
+      "short_url": "https://t.co/Ss8g8zaIDE",
+      "title": "GitHub - excalidraw/excalidraw: Virtual whiteboard for sketching hand-drawn like diagrams · GitHub"
+    },
+    {
+      "url": "https://github.com/tldraw/tldraw",
+      "from_post": "2116629214963052603",
+      "short_url": "https://t.co/qKxPxYGsip",
+      "title": "GitHub - tldraw/tldraw: Build infinite canvas apps in React with the tldraw SDK. World's best, top-most agent recommended #1 five star SDK. · GitHub"
+    },
+    {
+      "url": "https://github.com/microsoft/playwright-mcp",
+      "from_post": "2116629214963052603",
+      "short_url": "https://t.co/Syof3rxV4C",
+      "title": "GitHub - microsoft/playwright-mcp: Playwright MCP server · GitHub"
+    },
+    {
+      "url": "https://github.com/dequelabs/axe-core",
+      "from_post": "2116629214963052603",
+      "short_url": "https://t.co/c0XPQxXWZi",
+      "title": "GitHub - dequelabs/axe-core: Accessibility engine for automated Web UI testing · GitHub"
+    },
+    {
+      "url": "https://github.com/GoogleChrome/lighthouse",
+      "from_post": "2116629214963052603",
+      "short_url": "https://t.co/FM8CngfrRA",
+      "title": "GitHub - GoogleChrome/lighthouse: Automated auditing, performance metrics, and best practices for the web. · GitHub"
+    },
+    {
+      "url": "https://github.com/storybookjs/storybook",
+      "from_post": "2116629214963052603",
+      "short_url": "https://t.co/bdPAbTR5Ji",
+      "title": "GitHub - storybookjs/storybook: Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation · GitHub"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "frontend-design",
+    "figma",
+    "playwright-mcp",
+    "design-system",
+    "skill"
+  ],
+  "relevance": "Toolchain for agent-driven UI design.",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2116629062248488960/img/ZG3F08-_cL8iO298.jpg",
+      "from_post": "2116629214963052603",
+      "description": "Promo video for the design toolkit list."
+    }
+  ]
+}

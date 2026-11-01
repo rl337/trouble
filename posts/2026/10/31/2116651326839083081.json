@@ -1,0 +1,35 @@
+{
+  "id": "2116651326839083081",
+  "permalink": "https://x.com/florian_narr/status/2116651326839083081",
+  "author": {
+    "name": "Florian Narr",
+    "handle": "@florian_narr",
+    "profile_url": "https://x.com/florian_narr"
+  },
+  "posted_at": "2026-10-31T21:59:36Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**Florian Narr ([@florian_narr](https://x.com/florian_narr/status/2116651326839083081))** ships **fleet v0.6.0**: share skills across every machine, Gemini CLI support alongside Claude Code and Codex, and agent CLI sign-in from the dashboard ([release v0.6.0](https://github.com/floscom/fleet/releases/tag/v0.6.0)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/floscom/fleet/releases/tag/v0.6.0",
+      "from_post": "2116651326839083081",
+      "short_url": "https://t.co/yFpVMrbCoU",
+      "title": "Release v0.6.0 · floscom/fleet"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "fleet",
+    "skill",
+    "gemini-cli",
+    "dashboard",
+    "release"
+  ],
+  "relevance": "Managing agent CLIs across machines.",
+  "media": []
+}

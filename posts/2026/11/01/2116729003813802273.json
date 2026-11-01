@@ -1,0 +1,44 @@
+{
+  "id": "2116729003813802273",
+  "permalink": "https://x.com/SciFi/status/2116729003813802273",
+  "author": {
+    "name": "Artificial Intelligence Papers",
+    "handle": "@SciFi",
+    "profile_url": "https://x.com/SciFi"
+  },
+  "posted_at": "2026-11-01T03:08:16Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**Artificial Intelligence Papers ([@SciFi](https://x.com/SciFi/status/2116729003813802273))** shares *MemSteer* by Huang et al. ([arXiv 2610.39276](https://arxiv.org/abs/2610.39276)), which turns unlabeled user histories into evidence-grounded QA supervision for optimizing agent memory designs.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.39276",
+      "from_post": "2116729003813802273",
+      "short_url": "https://t.co/u0VY3PbiCL",
+      "title": "MemSteer: Turning User Histories into Supervision for Agent Memory..."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-cognition"
+  ],
+  "keywords": [
+    "memsteer",
+    "agent-memory",
+    "supervision",
+    "user-history"
+  ],
+  "relevance": "Supervision for agent memory optimization.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HWAhz83WUAA0-wZ.png",
+      "from_post": "2116729003813802273",
+      "description": "Abstract of the MemSteer paper, which turns unlabeled user histories into QA supervision for agent memory design.",
+      "thumbnail": "posts/2026/11/01/2116729003813802273/media/0.webp",
+      "kind": "paper",
+      "ocr_text": "An effective agent memory system should adapt to a user's history and task requirements. Human-annotated supervision can guide this adaptation by providing feedback for evaluating and improving memory designs. Yet suitable labels are rarely available for new user histories, and manually constructing QA pairs and supporting evidence is costly. We introduce MemSteer, which turns unlabeled user histories into question-answer (QA) supervision with supporting evidence for memory-design optimization. MemSteer constructs an evidence-grounded answer plan that specifies how facts across related records jointly support a reference answer. The plan guides question generation, while source-grounded auditing and blind answer recovery check the resulting annotations. To study the utility of this supervision, we develop MemSteer-Opt, which combines QA-based design evaluation with…"
+    }
+  ]
+}

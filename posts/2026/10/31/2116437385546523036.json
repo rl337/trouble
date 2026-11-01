@@ -1,0 +1,50 @@
+{
+  "id": "2116437385546523036",
+  "permalink": "https://x.com/EMEngine/status/2116437385546523036",
+  "author": {
+    "name": "EME",
+    "handle": "@EMEngine",
+    "profile_url": "https://x.com/EMEngine"
+  },
+  "posted_at": "2026-10-31T07:49:28Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**EME ([@EMEngine](https://x.com/EMEngine/status/2116437385546523036))** introduces **EME**, a hackathon project connecting a local video editor to an AI agent so edits can be reviewed while the user stays in control ([demo site](https://eme-website-pied.vercel.app/#demo), [atharvgit2005/EME](https://github.com/atharvgit2005/EME)).",
+  "referenced_urls": [
+    {
+      "url": "https://eme-website-pied.vercel.app/#demo",
+      "from_post": "2116437385546523036",
+      "short_url": "https://t.co/3pG0ssBgUF",
+      "title": "EME — Your ideas. In motion."
+    },
+    {
+      "url": "https://github.com/atharvgit2005/EME",
+      "from_post": "2116437385546523036",
+      "short_url": "https://t.co/PsTn1C0HuH",
+      "title": "GitHub - atharvgit2005/EME"
+    }
+  ],
+  "hashtags": [
+    "HHGoa2026",
+    "BuildInPublic"
+  ],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "eme",
+    "video-editing",
+    "agent",
+    "hackathon"
+  ],
+  "relevance": "Agent-assisted local video editing.",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://pbs.twimg.com/media/HV8XZbmbMAI8_-Z.jpg",
+      "from_post": "2116437385546523036",
+      "description": "Demo video of the EME agent-assisted video editor."
+    }
+  ]
+}

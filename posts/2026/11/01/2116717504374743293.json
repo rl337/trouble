@@ -1,0 +1,34 @@
+{
+  "id": "2116717504374743293",
+  "permalink": "https://x.com/jojoto_beatbox/status/2116717504374743293",
+  "author": {
+    "name": "Shoto",
+    "handle": "@jojoto_beatbox",
+    "profile_url": "https://x.com/jojoto_beatbox"
+  },
+  "posted_at": "2026-11-01T02:22:34Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**Shoto ([@jojoto_beatbox](https://x.com/jojoto_beatbox/status/2116717504374743293))** is building **framekit**, an MCP for agentic video editing, realizing that separating video creation from a Final Cut Pro adapter makes the split easier ([morshoto/framekit](https://github.com/morshoto/framekit/)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/morshoto/framekit/",
+      "from_post": "2116717504374743293",
+      "short_url": "https://t.co/TyueAvl0ks",
+      "title": "GitHub - morshoto/framekit: MCP for agentic video editing"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "framekit",
+    "mcp",
+    "video-editing",
+    "final-cut-pro"
+  ],
+  "relevance": "MCP for agent-driven video editing.",
+  "media": []
+}

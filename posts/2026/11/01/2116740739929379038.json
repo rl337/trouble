@@ -1,0 +1,173 @@
+{
+  "id": "2116740739929379038",
+  "permalink": "https://x.com/e1genqq/status/2116740739929379038",
+  "author": {
+    "name": "eigen",
+    "handle": "@e1genqq",
+    "profile_url": "https://x.com/e1genqq"
+  },
+  "posted_at": "2026-11-01T03:54:54Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**eigen ([@e1genqq](https://x.com/e1genqq/status/2116740739929379038))** lists a free open-source motion studio of 22 repos he pairs with a frontier model instead of After Effects, including Remotion, Anime.js, Theatre.js, Three.js, Spark Gaussian splats, Taichi, SPlisHSPlasH, OpenToonz, Qwen3-TTS, auto-editor, RIFE, OBS and FFmpeg ([remotion-dev/remotion](https://github.com/remotion-dev/remotion), [sparkjsdev/spark](https://github.com/sparkjsdev/spark), [QwenLM/Qwen3-TTS](https://github.com/QwenLM/Qwen3-TTS)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/remotion-dev/remotion",
+      "from_post": "2116740739929379038",
+      "short_url": "https://t.co/Dvn1seY4Rb",
+      "title": "GitHub - remotion-dev/remotion: 🎥 Make videos programmatically with React"
+    },
+    {
+      "url": "https://github.com/juliangarnier/anime",
+      "from_post": "2116740739929379038",
+      "short_url": "https://t.co/1pBmRIK3j2",
+      "title": "GitHub - juliangarnier/anime: JavaScript animation engine · GitHub"
+    },
+    {
+      "url": "https://github.com/mojs/mojs",
+      "from_post": "2116740739929379038",
+      "short_url": "https://t.co/KWW4tOPCqh",
+      "title": "GitHub - mojs/mojs: The motion graphics toolbelt for the web · GitHub"
+    },
+    {
+      "url": "https://github.com/theatre-js/theatre",
+      "from_post": "2116740739929379038",
+      "short_url": "https://t.co/vlXxbMPmPr",
+      "title": "GitHub - theatre-js/theatre: Motion design editor for the web · GitHub"
+    },
+    {
+      "url": "https://github.com/jonobr1/two.js",
+      "from_post": "2116740739929379038",
+      "short_url": "https://t.co/bJgBN61w8I",
+      "title": "GitHub - jonobr1/two.js: A renderer agnostic two-dimensional drawing api for the web · GitHub"
+    },
+    {
+      "url": "https://github.com/d3/d3",
+      "from_post": "2116740739929379038",
+      "short_url": "https://t.co/P9WN0MTkJN",
+      "title": "GitHub - d3/d3: Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada: · GitHub"
+    },
+    {
+      "url": "https://github.com/mrdoob/three.js",
+      "from_post": "2116740739929379038",
+      "short_url": "https://t.co/xEYhuCgtD8",
+      "title": "GitHub - mrdoob/three.js: JavaScript 3D Library. · GitHub"
+    },
+    {
+      "url": "https://github.com/BabylonJS/Babylon.js",
+      "from_post": "2116740739929379038",
+      "short_url": "https://t.co/I7lwoCat3Z",
+      "title": "GitHub - BabylonJS/Babylon.js: Babylon.js is a powerful, beautiful, simple, and open game and rendering engine packed into a friendly JavaScript framework. · GitHub"
+    },
+    {
+      "url": "https://github.com/pmndrs/drei",
+      "from_post": "2116740739929379038",
+      "short_url": "https://t.co/9TVvYiJGyg",
+      "title": "GitHub - pmndrs/drei: 🥉 useful helpers for react-three-fiber · GitHub"
+    },
+    {
+      "url": "https://github.com/sparkjsdev/spark",
+      "from_post": "2116740739929379038",
+      "short_url": "https://t.co/gjookAvGQz",
+      "title": "GitHub - sparkjsdev/spark: :sparkles: An advanced 3D Gaussian Splatting renderer for THREE.js · GitHub"
+    },
+    {
+      "url": "https://cables.gl",
+      "from_post": "2116740739929379038",
+      "short_url": "https://t.co/AJZybgDdo2"
+    },
+    {
+      "url": "https://github.com/cables-gl/cables_electron",
+      "from_post": "2116740739929379038",
+      "short_url": "https://t.co/gZBsMYuVhs",
+      "title": "GitHub - cables-gl/cables_electron: cables.gl standalone version · GitHub"
+    },
+    {
+      "url": "https://github.com/taichi-dev/taichi",
+      "from_post": "2116740739929379038",
+      "short_url": "https://t.co/UT4SjYeP1a",
+      "title": "GitHub - taichi-dev/taichi: Productive, portable, and performant GPU programming in Python. · GitHub"
+    },
+    {
+      "url": "https://github.com/InteractiveComputerGraphics/SPlisHSPlasH",
+      "from_post": "2116740739929379038",
+      "short_url": "https://t.co/NCEdMfCMmV",
+      "title": "GitHub - InteractiveComputerGraphics/SPlisHSPlasH: SPlisHSPlasH is an open-source library for the physically-based simulation of fluids. · GitHub"
+    },
+    {
+      "url": "https://github.com/FarazzShaikh/THREE-CustomShaderMaterial",
+      "from_post": "2116740739929379038",
+      "short_url": "https://t.co/rZs7bOVB7V",
+      "title": "GitHub - FarazzShaikh/THREE-CustomShaderMaterial: 🧩 Extend Three.js standard materials with your own shaders! · GitHub"
+    },
+    {
+      "url": "https://github.com/opentoonz/opentoonz",
+      "from_post": "2116740739929379038",
+      "short_url": "https://t.co/T4uupQTBfC",
+      "title": "GitHub - opentoonz/opentoonz: OpenToonz - An open-source full-featured 2D animation creation software · GitHub"
+    },
+    {
+      "url": "https://github.com/QwenLM/Qwen3-TTS",
+      "from_post": "2116740739929379038",
+      "short_url": "https://t.co/1ykBeldCYH",
+      "title": "GitHub - QwenLM/Qwen3-TTS: Qwen3-TTS is an open-source series of TTS models developed by the Qwen team at Alibaba Cloud, supporting stable, expressive, and streaming speech generation, free-form voice design, and vivid voice cloning. · GitHub"
+    },
+    {
+      "url": "https://github.com/audacity/audacity",
+      "from_post": "2116740739929379038",
+      "short_url": "https://t.co/SxlBghNgcQ",
+      "title": "GitHub - audacity/audacity: Audio Editor · GitHub"
+    },
+    {
+      "url": "https://github.com/SubtitleEdit/subtitleedit",
+      "from_post": "2116740739929379038",
+      "short_url": "https://t.co/sHP9VzAkjR",
+      "title": "GitHub - SubtitleEdit/subtitleedit: the subtitle editor :) · GitHub"
+    },
+    {
+      "url": "https://github.com/WyattBlue/auto-editor",
+      "from_post": "2116740739929379038",
+      "short_url": "https://t.co/iRaCr23fsv",
+      "title": "GitHub - WyattBlue/auto-editor: Effort free video editing! · GitHub"
+    },
+    {
+      "url": "https://github.com/hzwer/ECCV2022-RIFE",
+      "from_post": "2116740739929379038",
+      "short_url": "https://t.co/YM7FhHmvBz",
+      "title": "GitHub - hzwer/ECCV2022-RIFE: ECCV2022 - Real-Time Intermediate Flow Estimation for Video Frame Interpolation · GitHub"
+    },
+    {
+      "url": "https://github.com/obsproject/obs-studio",
+      "from_post": "2116740739929379038",
+      "short_url": "https://t.co/8tbe47USHo",
+      "title": "GitHub - obsproject/obs-studio: OBS Studio - Free and open source software for live streaming and screen recording · GitHub"
+    },
+    {
+      "url": "https://github.com/FFmpeg/FFmpeg",
+      "from_post": "2116740739929379038",
+      "short_url": "https://t.co/32LdpVocVR",
+      "title": "GitHub - FFmpeg/FFmpeg: Mirror of https://git.ffmpeg.org/ffmpeg.git · GitHub"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "remotion",
+    "three-js",
+    "motion-graphics",
+    "gaussian-splatting",
+    "tts"
+  ],
+  "relevance": "Open toolchain for agentic motion graphics.",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2116740658715086849/img/_ORT6ToTv5bCOMjH.jpg",
+      "from_post": "2116740739929379038",
+      "description": "Montage of motion graphics made with the listed open-source tools."
+    }
+  ]
+}

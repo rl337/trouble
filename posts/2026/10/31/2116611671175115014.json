@@ -1,0 +1,48 @@
+{
+  "id": "2116611671175115014",
+  "permalink": "https://x.com/nanoubir/status/2116611671175115014",
+  "author": {
+    "name": "Nacer Noubir",
+    "handle": "@nanoubir",
+    "profile_url": "https://x.com/nanoubir"
+  },
+  "posted_at": "2026-10-31T19:22:01Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [
+    {
+      "id": "2116611705954287826",
+      "permalink": "https://x.com/nanoubir/status/2116611705954287826",
+      "posted_at": "2026-10-31T19:22:10Z",
+      "position": 1
+    }
+  ],
+  "summary_md": "**Nacer Noubir ([@nanoubir](https://x.com/nanoubir/status/2116611671175115014))** released **stele 1.0**, a Go tool that turns CLAUDE.md rules into enforced checks: it shows the rule before each write, verifies after it and again in CI, after seeing Claude Code break a rule in 3 of 8 eval runs ([lictor-ai/stele](https://github.com/lictor-ai/stele), [site](https://stele.lictorlabs.com)).",
+  "referenced_urls": [
+    {
+      "url": "https://stele.lictorlabs.com",
+      "from_post": "2116611671175115014",
+      "short_url": "https://t.co/lK6Lgv0nBq",
+      "title": "Make Claude Code follow your repository’s rules | stele"
+    },
+    {
+      "url": "https://github.com/lictor-ai/stele",
+      "from_post": "2116611705954287826",
+      "short_url": "https://t.co/R9Ce0F1RQs",
+      "title": "GitHub - lictor-ai/stele: Enforce your project's rules on coding agents: shown before each write, checked after it, verified in CI."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "stele",
+    "claude-md",
+    "rule-enforcement",
+    "ci",
+    "go"
+  ],
+  "relevance": "Enforcing repository rules on coding agents.",
+  "media": []
+}

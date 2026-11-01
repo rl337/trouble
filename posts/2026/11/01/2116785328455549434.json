@@ -1,0 +1,67 @@
+{
+  "id": "2116785328455549434",
+  "permalink": "https://x.com/tommy_jtl/status/2116785328455549434",
+  "author": {
+    "name": "Tommy",
+    "handle": "@tommy_jtl",
+    "profile_url": "https://x.com/tommy_jtl"
+  },
+  "posted_at": "2026-11-01T06:52:04Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**Tommy ([@tommy_jtl](https://x.com/tommy_jtl/status/2116785328455549434))** demos an alpha of **Torque**, a resident agent project for programmable hardware, on an Arduino UNO Q with a TE M-1 mic ([tommyjtl/torque](https://github.com/tommyjtl/torque)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/tommyjtl/torque",
+      "from_post": "2116785328455549434",
+      "short_url": "https://t.co/kHxynfA76D",
+      "title": "GitHub - tommyjtl/torque: A resident agent project for programmable hardware."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "torque",
+    "arduino",
+    "embedded",
+    "resident-agent"
+  ],
+  "relevance": "Agents on embedded hardware.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HWBUojpawAAzfZQ.jpg",
+      "from_post": "2116785328455549434",
+      "description": "A small device built from an Arduino UNO Q stack with a touchscreen, gooseneck microphone and battery pack, propped on a wooden block.",
+      "thumbnail": "posts/2026/11/01/2116785328455549434/media/0.webp",
+      "kind": "photo"
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HWBUojoaUAAkCiA.jpg",
+      "from_post": "2116785328455549434",
+      "description": "Side view of the Arduino UNO Q agent device showing the stacked boards, ribbon cable and battery.",
+      "thumbnail": "posts/2026/11/01/2116785328455549434/media/1.webp",
+      "kind": "photo"
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HWBUojpbMAAHA9E.jpg",
+      "from_post": "2116785328455549434",
+      "description": "Top view of the device with its touchscreen, LED matrix and gooseneck microphone.",
+      "thumbnail": "posts/2026/11/01/2116785328455549434/media/2.webp",
+      "kind": "photo"
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HWBUojobwAAlugV.jpg",
+      "from_post": "2116785328455549434",
+      "description": "Close-up of the device touchscreen showing a terminal session.",
+      "thumbnail": "posts/2026/11/01/2116785328455549434/media/3.webp",
+      "kind": "photo"
+    }
+  ]
+}

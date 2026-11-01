@@ -1,0 +1,33 @@
+{
+  "id": "2116785814562578781",
+  "permalink": "https://x.com/gilgoldstein/status/2116785814562578781",
+  "author": {
+    "name": "Gil Goldstein",
+    "handle": "@gilgoldstein",
+    "profile_url": "https://x.com/gilgoldstein"
+  },
+  "posted_at": "2026-11-01T06:54:00Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**Gil Goldstein ([@gilgoldstein](https://x.com/gilgoldstein/status/2116785814562578781))** likes **floorplan**, an interactive plain-English codebase map that Claude or Codex can draw ([haydenschmitty/floorplan](https://github.com/haydenschmitty/floorplan)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/haydenschmitty/floorplan",
+      "from_post": "2116785814562578781",
+      "short_url": "https://t.co/rnu0AUu1YN",
+      "title": "GitHub - haydenschmitty/floorplan: See how your app actually fits together. An interactive, plain-English map of your codebase, drawn by Claude."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "floorplan",
+    "codebase-map",
+    "visualization"
+  ],
+  "relevance": "Codebase visualization for agents.",
+  "media": []
+}

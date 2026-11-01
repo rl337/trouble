@@ -1,0 +1,34 @@
+{
+  "id": "2116784075612823796",
+  "permalink": "https://x.com/WhyFaust/status/2116784075612823796",
+  "author": {
+    "name": "Faust",
+    "handle": "@WhyFaust",
+    "profile_url": "https://x.com/WhyFaust"
+  },
+  "posted_at": "2026-11-01T06:47:06Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**Faust ([@WhyFaust](https://x.com/WhyFaust/status/2116784075612823796))** cautions that Microsoft **TokenEconomizer**'s loop guard 'abort' first redirects a stuck agent and then only notifies you rather than stopping the turn, so it isn't a hard spending limit ([loopguard README](https://github.com/microsoft/TokenEconomizer/blob/main/tokeneconomizer/loopguard/README.md)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/microsoft/TokenEconomizer/blob/main/tokeneconomizer/loopguard/README.md",
+      "from_post": "2116784075612823796",
+      "short_url": "https://t.co/oqLtFVVjmR",
+      "title": "TokenEconomizer/tokeneconomizer/loopguard/README.md at main · microsoft/TokenEconomizer"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "tokeneconomizer",
+    "loop-guard",
+    "cost-control",
+    "plugin"
+  ],
+  "relevance": "Understanding agent cost controls.",
+  "media": []
+}

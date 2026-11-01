@@ -1,0 +1,35 @@
+{
+  "id": "2116546113259942306",
+  "permalink": "https://x.com/singularityhack/status/2116546113259942306",
+  "author": {
+    "name": "0xJustice.eth 👹🔥",
+    "handle": "@singularityhack",
+    "profile_url": "https://x.com/singularityhack"
+  },
+  "posted_at": "2026-10-31T15:01:31Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**0xJustice.eth 👹🔥 ([@singularityhack](https://x.com/singularityhack/status/2116546113259942306))** points to the SJTU survey *Work Agents* by Xu et al. ([arXiv 2610.35845](https://arxiv.org/abs/2610.35845)), which frames agents as a model plus runtime harness operating in persistent workspaces to deliver verifiable outcomes.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.35845",
+      "from_post": "2116546113259942306",
+      "short_url": "https://t.co/fcuJQ67b2h",
+      "title": "Work Agents: Systems, Capabilities, and Optimization"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "work-agent",
+    "survey",
+    "harness",
+    "workspace",
+    "verifiable-outcome"
+  ],
+  "relevance": "Systems view of agents as workers.",
+  "media": []
+}

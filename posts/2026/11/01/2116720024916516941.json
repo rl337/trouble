@@ -1,0 +1,34 @@
+{
+  "id": "2116720024916516941",
+  "permalink": "https://x.com/DropRadar_io/status/2116720024916516941",
+  "author": {
+    "name": "开源雷达 | AI 工具日报",
+    "handle": "@DropRadar_io",
+    "profile_url": "https://x.com/DropRadar_io"
+  },
+  "posted_at": "2026-11-01T02:32:35Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**开源雷达 | AI 工具日报 ([@DropRadar_io](https://x.com/DropRadar_io/status/2116720024916516941))** recommends **Eleven**, agent-first reverse engineering for macOS, Windows and Linux where any ACP agent such as Claude or Codex reads code, renames functions and takes notes on apps and binaries, with undoable changes and patches needing approval ([Zfinix/eleven](https://github.com/Zfinix/eleven)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/Zfinix/eleven",
+      "from_post": "2116720024916516941",
+      "short_url": "https://t.co/TKKJJ2I9YK",
+      "title": "GitHub - Zfinix/eleven: Agent-first reverse engineering for macOS, Windows and Linux: any ACP agent reads, renames and patches binaries, Android apps and GPU kernels next to you."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "eleven",
+    "reverse-engineering",
+    "acp",
+    "binary-analysis"
+  ],
+  "relevance": "Agent-driven reverse engineering.",
+  "media": []
+}

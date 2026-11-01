@@ -1,0 +1,47 @@
+{
+  "id": "2116509220292190511",
+  "permalink": "https://x.com/Manojkumar2257/status/2116509220292190511",
+  "author": {
+    "name": "Manoj | The AI Dude",
+    "handle": "@Manojkumar2257",
+    "profile_url": "https://x.com/Manojkumar2257"
+  },
+  "posted_at": "2026-10-31T12:34:55Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**Manoj | The AI Dude ([@Manojkumar2257](https://x.com/Manojkumar2257/status/2116509220292190511))** recommends three MIT agent skills for video side work: **ai-video-editing-skills** (41 local talking-head edits), **long-video-to-shorts** (approved clip lists to captioned 9:16 clips) and **spotlight** (site, clips or CSV to a reviewed promo video) ([AskEditor/ai-video-editing-skills](https://github.com/AskEditor/ai-video-editing-skills), [mihm88/long-video-to-shorts](https://github.com/mihm88/long-video-to-shorts), [AmirSbss/spotlight](https://github.com/AmirSbss/spotlight)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/AskEditor/ai-video-editing-skills",
+      "from_post": "2116509220292190511",
+      "short_url": "https://t.co/3dyu72i0bv",
+      "title": "GitHub - AskEditor/ai-video-editing-skills: 41 free AI video editing skills for Claude Code and Codex: auto captions, cut pauses and retakes, B-roll, words behind you, colour grade, music. Edit Reels, Shorts and TikTok by asking. Runs on your own computer, nothing uploaded."
+    },
+    {
+      "url": "https://github.com/mihm88/long-video-to-shorts",
+      "from_post": "2116509220292190511",
+      "short_url": "https://t.co/cDgeTcJhXN",
+      "title": "GitHub - mihm88/long-video-to-shorts: Agent skill: turn long videos (talks, webinars, podcasts) into short vertical clips with synced word-by-word captions, including correct Arabic/RTL rendering. For Claude Code, Codex and similar agents. · GitHub"
+    },
+    {
+      "url": "https://github.com/AmirSbss/spotlight",
+      "from_post": "2116509220292190511",
+      "short_url": "https://t.co/6OXpuJZ7k3",
+      "title": "GitHub - AmirSbss/spotlight: Open-source Agent Skill that turns a website, phone clips or a CSV into a finished short video: launch videos, promo reels and narrated explainers, made by Claude Code, Codex CLI or Hermes Agent. With music, captions in any language (Arabic and Persian too) and built-in quality checks. · GitHub"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "video-editing",
+    "short-form-video",
+    "skill",
+    "caption",
+    "promo-video"
+  ],
+  "relevance": "Agentic video editing skill stack.",
+  "media": []
+}

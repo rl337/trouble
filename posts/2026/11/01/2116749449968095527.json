@@ -1,0 +1,67 @@
+{
+  "id": "2116749449968095527",
+  "permalink": "https://x.com/Keepurselfaliv3/status/2116749449968095527",
+  "author": {
+    "name": "Broccoliiiii",
+    "handle": "@Keepurselfaliv3",
+    "profile_url": "https://x.com/Keepurselfaliv3"
+  },
+  "posted_at": "2026-11-01T04:29:30Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**Broccoliiiii ([@Keepurselfaliv3](https://x.com/Keepurselfaliv3/status/2116749449968095527))** open-sourced **MoMo Agent**, a self-hosted wearable agent where Apple Watch and earphones capture context transcribed locally on iPhone, and a Mac agent on your Claude or Codex subscription remembers and proactively acts ([Miri-Labs/MoMo-Agent](https://github.com/Miri-Labs/MoMo-Agent)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/Miri-Labs/MoMo-Agent",
+      "from_post": "2116749449968095527",
+      "short_url": "https://t.co/ZVhxs7Ykx9",
+      "title": "GitHub - Miri-Labs/MoMo-Agent: Open-Source, Self-Hosted, All-Day Wearable Personal Agent for Apple Watch, iPhone, and Mac"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "momo-agent",
+    "wearable",
+    "proactive-agent",
+    "transcription"
+  ],
+  "relevance": "Proactive personal agent with local capture.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HWA0ZpoaUAA4otT.jpg",
+      "from_post": "2116749449968095527",
+      "description": "MoMo Agent overview: Apple Watch captures, iPhone transcribes locally for $0, Mac mini runs the agent.",
+      "thumbnail": "posts/2026/11/01/2116749449968095527/media/0.webp",
+      "kind": "diagram"
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HWA0ZqbagAArOn0.jpg",
+      "from_post": "2116749449968095527",
+      "description": "MoMo Agent screens: Apple Watch all-day capture, chat and watch status, transcript timeline, and skip-silence playback.",
+      "thumbnail": "posts/2026/11/01/2116749449968095527/media/1.webp",
+      "kind": "screenshot"
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HWA0ZpmbYAA-oYv.jpg",
+      "from_post": "2116749449968095527",
+      "description": "MoMo Agent proactive background execution: Mac agent with sub-agent tasks and a live iPhone tasks sheet.",
+      "thumbnail": "posts/2026/11/01/2116749449968095527/media/2.webp",
+      "kind": "screenshot"
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HWA0ZpraMAA6c_Z.jpg",
+      "from_post": "2116749449968095527",
+      "description": "MoMo Agent long-term personal memory and pluggable self-hosted runtime settings.",
+      "thumbnail": "posts/2026/11/01/2116749449968095527/media/3.webp",
+      "kind": "screenshot"
+    }
+  ]
+}

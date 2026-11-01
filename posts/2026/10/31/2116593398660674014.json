@@ -1,0 +1,43 @@
+{
+  "id": "2116593398660674014",
+  "permalink": "https://x.com/Siddhant_K_code/status/2116593398660674014",
+  "author": {
+    "name": "Siddhant Khare",
+    "handle": "@Siddhant_K_code",
+    "profile_url": "https://x.com/Siddhant_K_code"
+  },
+  "posted_at": "2026-10-31T18:09:25Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**Siddhant Khare ([@Siddhant_K_code](https://x.com/Siddhant_K_code/status/2116593398660674014))** measured GitHub Copilot coding-agent traces: after 4–5 idle minutes 64% of the next prompt is still cached, but after 5–6 minutes only 26%, so long tool runs cost the same as idling ([Leave your coding agent for 5 minutes](https://siddhantkhare.com/writing/coding-agent-cache-five-minutes)).",
+  "referenced_urls": [
+    {
+      "url": "https://siddhantkhare.com/writing/coding-agent-cache-five-minutes",
+      "from_post": "2116593398660674014",
+      "short_url": "https://t.co/FOkATw9pAU",
+      "title": "Leave your coding agent for 5 minutes and most of its cache is gone · Siddhant Khare"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "prompt-cache",
+    "token-cost",
+    "coding-agent",
+    "copilot"
+  ],
+  "relevance": "Prompt cache economics of agent loops.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV-mYFza0AAAv1S.jpg",
+      "from_post": "2116593398660674014",
+      "description": "Charts of cached share of prompt tokens versus idle time before a call in GitHub Copilot coding-agent traces, showing a sharp cliff at about 5 minutes and per-model differences.",
+      "thumbnail": "posts/2026/10/31/2116593398660674014/media/0.webp",
+      "kind": "chart"
+    }
+  ]
+}

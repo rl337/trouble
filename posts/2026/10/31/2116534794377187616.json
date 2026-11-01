@@ -1,0 +1,48 @@
+{
+  "id": "2116534794377187616",
+  "permalink": "https://x.com/gunjal_siddhesh/status/2116534794377187616",
+  "author": {
+    "name": "Siddhesh Gunjal",
+    "handle": "@gunjal_siddhesh",
+    "profile_url": "https://x.com/gunjal_siddhesh"
+  },
+  "posted_at": "2026-10-31T14:16:32Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**Siddhesh Gunjal ([@gunjal_siddhesh](https://x.com/gunjal_siddhesh/status/2116534794377187616))** moved his local stack to NVIDIA **Nemotron 3.5 Lightning** in FP4 on dual AMD RX 9060 XT cards, reporting about 80 tok/s with the full 262K context, and wrote up the setup ([Medium deep dive](https://medium.com/@siddheshgunjal/supercharging-my-local-ai-coding-setup-with-nemotron-3-5-lightning-at-80-tok-s-262k-context-94d4ad2564d2)).",
+  "referenced_urls": [
+    {
+      "url": "https://medium.com/@siddheshgunjal/supercharging-my-local-ai-coding-setup-with-nemotron-3-5-lightning-at-80-tok-s-262k-context-94d4ad2564d2",
+      "from_post": "2116534794377187616",
+      "short_url": "https://t.co/XGYDshSd4c",
+      "title": "Medium"
+    }
+  ],
+  "hashtags": [
+    "LocalAI",
+    "DevCommunity",
+    "AMD"
+  ],
+  "topics": [
+    "local-models"
+  ],
+  "keywords": [
+    "nemotron-3-5-lightning",
+    "fp4",
+    "amd",
+    "local-inference",
+    "long-context"
+  ],
+  "relevance": "Local Nemotron coding setup data point.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV9xAeObYAA_3Sc.jpg",
+      "from_post": "2116534794377187616",
+      "description": "Video thumbnail \"Supercharging my local AI setup with Nemotron 3.5 Lightning: 80 tokens/sec and 262K context on dual AMD RX 9060 XT\", showing a PC and monitor.",
+      "thumbnail": "posts/2026/10/31/2116534794377187616/media/0.webp",
+      "kind": "photo"
+    }
+  ]
+}

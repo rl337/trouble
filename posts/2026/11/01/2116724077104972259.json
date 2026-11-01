@@ -1,0 +1,87 @@
+{
+  "id": "2116724077104972259",
+  "permalink": "https://x.com/aChow_hz/status/2116724077104972259",
+  "author": {
+    "name": "阿Chow",
+    "handle": "@aChow_hz",
+    "profile_url": "https://x.com/aChow_hz"
+  },
+  "posted_at": "2026-11-01T02:48:41Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**阿Chow ([@aChow_hz](https://x.com/aChow_hz/status/2116724077104972259))** structures a creator pipeline into intelligence, orchestration, production and output stages, recommending TrendRadar, RSSHub, modular self-media skills, baoyu-skills, auto-editor and LosslessCut, and cautions against fully automated publishing ([sansan0/TrendRadar](https://github.com/sansan0/TrendRadar), [JimLiu/baoyu-skills](https://github.com/JimLiu/baoyu-skills), [WyattBlue/auto-editor](https://github.com/WyattBlue/auto-editor)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/sansan0/TrendRadar",
+      "from_post": "2116724077104972259",
+      "short_url": "https://t.co/xV5UkbajkT",
+      "title": "GitHub - sansan0/TrendRadar: ⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts.🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 + RSS 订阅，支持关键词精准筛选。AI 智能筛选新闻 + AI 翻译 + AI 分析简报直推手机，也支持接入 MCP 架构，赋能 AI 自然语言对话分析、情感洞察与趋势预测等。支持 Docker ，数据本地/云端自持。集成微信/飞书/钉钉/Telegram/邮件/nt"
+    },
+    {
+      "url": "https://github.com/AiyaFun/beacon",
+      "from_post": "2116724077104972259",
+      "short_url": "https://t.co/smTaKYE4R5",
+      "title": "GitHub - AiyaFun/beacon: 烽火台 — 创作者跨平台内容作战室。多平台热榜聚合、竞对监控、AI选题智囊团、一稿多平台改写、敏感词合规检测、数据看板。帮助创作者和内容团队用数据驱动内容决策，提升选题命中率与创作效率。零配置即可启动，支持接入任意 OpenAI 兼容大模型。"
+    },
+    {
+      "url": "https://github.com/DIYgod/RSSHub",
+      "from_post": "2116724077104972259",
+      "short_url": "https://t.co/aLRYYRoUXf",
+      "title": "GitHub - DIYgod/RSSHub: 🧡 Everything is RSSible"
+    },
+    {
+      "url": "https://github.com/yanhua1010/self-media-content-workflow",
+      "from_post": "2116724077104972259",
+      "short_url": "https://t.co/5C8Tws5q7y",
+      "title": "GitHub - yanhua1010/self-media-content-workflow: 通用、模块化的自媒体内容生产与经营 Skills / A modular, tool-agnostic self-media content skill suite · GitHub"
+    },
+    {
+      "url": "https://github.com/JimLiu/baoyu-skills",
+      "from_post": "2116724077104972259",
+      "short_url": "https://t.co/trwoc8HxSD",
+      "title": "GitHub - JimLiu/baoyu-skills · GitHub"
+    },
+    {
+      "url": "https://github.com/LDJ-creat/MediaManager",
+      "from_post": "2116724077104972259",
+      "short_url": "https://t.co/2XVyeLO1JI",
+      "title": "GitHub - LDJ-creat/MediaManager: 🚀 自媒体全流程自动化工具集：集成 AI 选题、智能写作、自动配图（DALL-E/Gemini/通义万象）、多平台发布（微信/CSDN/掘金/小红书）及运营数据分析，实现一键式高效运营闭合回路。 · GitHub"
+    },
+    {
+      "url": "https://github.com/WyattBlue/auto-editor",
+      "from_post": "2116724077104972259",
+      "short_url": "https://t.co/Vpw5cluRsy",
+      "title": "GitHub - WyattBlue/auto-editor: Effort free video editing! · GitHub"
+    },
+    {
+      "url": "https://github.com/mifi/lossless-cut",
+      "from_post": "2116724077104972259",
+      "short_url": "https://t.co/HGOkcF8TsQ",
+      "title": "GitHub - mifi/lossless-cut: The swiss army knife of lossless video/audio editing · GitHub"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-media",
+    "harness-dev"
+  ],
+  "keywords": [
+    "content-pipeline",
+    "skill",
+    "auto-editor",
+    "rss",
+    "trend-monitoring"
+  ],
+  "relevance": "Skill-based content production pipeline.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HWAdNqzbMAAykgm.jpg",
+      "from_post": "2116724077104972259",
+      "description": "Slide \"Content pipeline: four interfaces\" for creators: intel (dig/watch), orchestration (brief/route), production (draft/polish) and output (intent/ship).",
+      "thumbnail": "posts/2026/11/01/2116724077104972259/media/0.webp",
+      "kind": "diagram"
+    }
+  ]
+}

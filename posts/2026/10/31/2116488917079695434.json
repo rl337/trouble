@@ -1,0 +1,44 @@
+{
+  "id": "2116488917079695434",
+  "permalink": "https://x.com/SciFi/status/2116488917079695434",
+  "author": {
+    "name": "Artificial Intelligence Papers",
+    "handle": "@SciFi",
+    "profile_url": "https://x.com/SciFi"
+  },
+  "posted_at": "2026-10-31T11:14:14Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**Artificial Intelligence Papers ([@SciFi](https://x.com/SciFi/status/2116488917079695434))** shares *WorkFactory* by Zeng et al. ([arXiv 2610.37161](https://arxiv.org/abs/2610.37161)), which turns professional intents into coherent executable tasks using an information-support graph and probe executions that find and repair missing information, for scalable agent training.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.37161",
+      "from_post": "2116488917079695434",
+      "short_url": "https://t.co/2I1pRxA7JW",
+      "title": "WorkFactory: Turning Professional Intents into Executable Work for..."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-cognition"
+  ],
+  "keywords": [
+    "workfactory",
+    "task-synthesis",
+    "agent-training",
+    "information-graph"
+  ],
+  "relevance": "Scalable professional task synthesis for agents.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV9HdGBXwAAC81u.png",
+      "from_post": "2116488917079695434",
+      "description": "Abstract of the WorkFactory paper constructing 112,686 executable professional tasks across 612 occupations for agent training.",
+      "thumbnail": "posts/2026/10/31/2116488917079695434/media/0.webp",
+      "kind": "paper",
+      "ocr_text": "Scaling supervised training for working agents requires diverse professional tasks that yield reliable expert demonstrations. However, missing or inconsistent task information can obstruct teacher execution and weaken the resulting supervision. We propose WorkFactory, a scalable framework for constructing coherent and executable professional tasks. Starting from professional intents, information-level planning builds an information support graph to guide task instantiation, explicitly representing the dependencies and locations of information required for the intended outputs. Probe executions then identify support failures and guide repairs while preserving the intended work. We construct 112,686 tasks spanning 612 occupations and use the collected teacher trajectories to fine-tune Qwen models at 4B, 27B, and 35B-A3B scales, yielding the…"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": "2116663004007629107",
+  "permalink": "https://x.com/plattypuus/status/2116663004007629107",
+  "author": {
+    "name": "タイド",
+    "handle": "@plattypuus",
+    "profile_url": "https://x.com/plattypuus"
+  },
+  "posted_at": "2026-10-31T22:46:00Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**タイド ([@plattypuus](https://x.com/plattypuus/status/2116663004007629107))** recommends Scenario's skill set for the Scenario MCP covering images, video, audio and 3D, with model selection, cost estimates, character and brand consistency, and Blender skills ([scenario-labs/skills](https://github.com/scenario-labs/skills)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/scenario-labs/skills",
+      "from_post": "2116663004007629107",
+      "short_url": "https://t.co/GnLeagOS25",
+      "title": "GitHub - scenario-labs/skills: Get production-ready images, video, audio, and 3D from any AI agent: skills that pick the right model, price before spending, and keep characters and brands consistent through the Scenario MCP, plus expert teams that drive Blender, Maya, ZBrush, Unreal, and Unity."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "scenario",
+    "mcp",
+    "skill",
+    "character-consistency",
+    "blender"
+  ],
+  "relevance": "Consistent multi-modal asset generation for agents.",
+  "media": []
+}

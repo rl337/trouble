@@ -1,0 +1,54 @@
+{
+  "id": "2116627001633325085",
+  "permalink": "https://x.com/AndroidHarness/status/2116627001633325085",
+  "author": {
+    "name": "The Android Harness",
+    "handle": "@AndroidHarness",
+    "profile_url": "https://x.com/AndroidHarness"
+  },
+  "posted_at": "2026-10-31T20:22:56Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**The Android Harness ([@AndroidHarness](https://x.com/AndroidHarness/status/2116627001633325085))** ships **AndroidHarness 3.2**, adding /btw, Hugging Face local-model search and in-chat settings changes ([changelog](https://github.com/Sanuu7/AndroidHarness/blob/main/CHANGELOG.md#32-2026-11-01)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/Sanuu7/AndroidHarness/blob/main/CHANGELOG.md#32-2026-11-01",
+      "from_post": "2116627001633325085",
+      "short_url": "https://t.co/Ca9bnLSApU",
+      "title": "AndroidHarness/CHANGELOG.md at main · Sanuu7/AndroidHarness"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "androidharness",
+    "android",
+    "harness",
+    "local-model",
+    "release"
+  ],
+  "relevance": "On-device coding harness with local models.",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2116626187149770752/img/wlNf5-VPRyOFlacq.jpg",
+      "from_post": "2116627001633325085",
+      "description": "Screen recordings of AndroidHarness 3.2 features."
+    },
+    {
+      "type": "video",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2116626388480647168/img/j9kA9iBVNLNh1wAU.jpg",
+      "from_post": "2116627001633325085",
+      "description": "Screen recordings of AndroidHarness 3.2 features."
+    },
+    {
+      "type": "video",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2116626622963142656/img/NjFp0lH2p4OJ8vOs.jpg",
+      "from_post": "2116627001633325085",
+      "description": "Screen recordings of AndroidHarness 3.2 features."
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": "2116721437570703803",
+  "permalink": "https://x.com/Apurv35904761/status/2116721437570703803",
+  "author": {
+    "name": "Apurv Sheldiya",
+    "handle": "@Apurv35904761",
+    "profile_url": "https://x.com/Apurv35904761"
+  },
+  "posted_at": "2026-11-01T02:38:12Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**Apurv Sheldiya ([@Apurv35904761](https://x.com/Apurv35904761/status/2116721437570703803))** notes HeyGen's **HyperFrames** uses HTML as the medium for rendering video, making visual production programmable for coding agents ([heygen-com/hyperframes](https://github.com/heygen-com/hyperframes)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/heygen-com/hyperframes",
+      "from_post": "2116721437570703803",
+      "short_url": "https://t.co/WiiBLcS0M2",
+      "title": "GitHub - heygen-com/hyperframes: Write HTML. Render video. Built for agents."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "hyperframes",
+    "html",
+    "video-rendering"
+  ],
+  "relevance": "HTML-to-video for agents.",
+  "media": []
+}

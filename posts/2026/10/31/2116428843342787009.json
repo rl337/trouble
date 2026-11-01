@@ -1,0 +1,38 @@
+{
+  "id": "2116428843342787009",
+  "permalink": "https://x.com/FengIves/status/2116428843342787009",
+  "author": {
+    "name": "IvesFeng",
+    "handle": "@FengIves",
+    "profile_url": "https://x.com/FengIves"
+  },
+  "posted_at": "2026-10-31T07:15:32Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**IvesFeng ([@FengIves](https://x.com/FengIves/status/2116428843342787009))** covers Guizang's open-source **dsh-guizang-design**, a DeepSeek Harness plugin with four skills (web slides, image cards, layout, de-AI-ifying copy) sharing design tokens, plus a portfolio and tone profile; he cautions to check the DSH version and license first ([op7418/dsh-guizang-design](https://github.com/op7418/dsh-guizang-design)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/op7418/dsh-guizang-design",
+      "from_post": "2116428843342787009",
+      "short_url": "https://t.co/NGn9Ughn9s",
+      "title": "GitHub - op7418/dsh-guizang-design: 歸藏设计 · DeepSeek Harness 插件：网页 PPT、图文卡片、网页排版、去 AI 味四个 skill，一套设计系统；作品库、内容生产工作流、语气档案"
+    }
+  ],
+  "hashtags": [
+    "DeepSeek",
+    "开源"
+  ],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "deepseek-harness",
+    "design-token",
+    "skill",
+    "plugin",
+    "presentation"
+  ],
+  "relevance": "Design skill pack for the DeepSeek Harness.",
+  "media": []
+}

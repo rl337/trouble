@@ -1,0 +1,45 @@
+{
+  "id": "2116763158446792941",
+  "permalink": "https://x.com/QwenAIFans/status/2116763158446792941",
+  "author": {
+    "name": "Qwen AI Fans",
+    "handle": "@QwenAIFans",
+    "profile_url": "https://x.com/QwenAIFans"
+  },
+  "posted_at": "2026-11-01T05:23:59Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**Qwen AI Fans ([@QwenAIFans](https://x.com/QwenAIFans/status/2116763158446792941))** explains a vLLM PR adding disk offload for Qwen3.8-Flash-Next's roughly 51B per-layer embedding table, reading only needed rows per token, saving about 27 GiB on DGX Spark for about 3.5% slower decode and near-unchanged GSM8K ([vllm PR 59958](https://github.com/vllm-project/vllm/pull/59958)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/vllm-project/vllm/pull/59958",
+      "from_post": "2116763158446792941",
+      "short_url": "https://t.co/FW8UmVFFpR",
+      "title": "[Qwen4Exp] PLE disk offload by stecasta · Pull Request #59958 · vllm-project/vllm"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "local-models"
+  ],
+  "keywords": [
+    "vllm",
+    "disk-offload",
+    "ple",
+    "dgx-spark",
+    "qwen3-8-flash"
+  ],
+  "relevance": "Memory savings on DGX Spark.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HWBA2CXaAAAJfZ_.png",
+      "from_post": "2116763158446792941",
+      "description": "vLLM docs page \"Engram: conditional memory via n-gram lookups\" explaining hashed n-gram embedding tables fused into hidden states and that vLLM enables Engram automatically.",
+      "thumbnail": "posts/2026/11/01/2116763158446792941/media/0.webp",
+      "kind": "screenshot",
+      "ocr_text": "Engram: conditional memory via n-gram lookups\n\nEngram is a conditional memory module attached to specific layers of a transformer backbone. At each position, the preceding few tokens are hashed into large static embedding tables, and the retrieved rows are fused into the hidden state, gated by how well they match it. Where Mixture-of-Experts scales capacity through conditional computation, Engram scales it through conditional memory: parameters that are never computed over, only looked up, so capacity grows at O(1) per-token cost. The mechanism and its design rationale are described in Conditional Memory via Scalable Lookup: A New Axis of Sparsity for Large Language Models.\n\nvLLM enables Engram automatically whenever the checkpoint declares Engram layers, so basic serving needs no extra flags. This page explains what Engram does and how to control its memory footprint and multi-GPU topology."
+    }
+  ]
+}

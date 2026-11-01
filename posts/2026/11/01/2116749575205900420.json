@@ -1,0 +1,40 @@
+{
+  "id": "2116749575205900420",
+  "permalink": "https://x.com/AiAdventurerx/status/2116749575205900420",
+  "author": {
+    "name": "AI Adventurer",
+    "handle": "@AiAdventurerx",
+    "profile_url": "https://x.com/AiAdventurerx"
+  },
+  "posted_at": "2026-11-01T04:30:00Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**AI Adventurer ([@AiAdventurerx](https://x.com/AiAdventurerx/status/2116749575205900420))** shares **ai-design-skills**, an open-source designer skill for building landing pages in Claude Code, Cursor and Codex ([elayadesign/ai-design-skills](https://github.com/elayadesign/ai-design-skills)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/elayadesign/ai-design-skills",
+      "from_post": "2116749575205900420",
+      "short_url": "https://t.co/8DLYy1KDu1",
+      "title": "GitHub - elayadesign/ai-design-skills"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "ai-design-skills",
+    "skill",
+    "landing-page"
+  ],
+  "relevance": "Design skill for coding agents.",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2114048823970643968/img/6s6TYE8r_uB_EG85.jpg",
+      "from_post": "2116749575205900420",
+      "description": "Demo of an agent building a landing page with the skill."
+    }
+  ]
+}

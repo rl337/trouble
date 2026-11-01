@@ -1,0 +1,44 @@
+{
+  "id": "2116745798927134768",
+  "permalink": "https://x.com/doodi_dev/status/2116745798927134768",
+  "author": {
+    "name": "두디 Doodi",
+    "handle": "@doodi_dev",
+    "profile_url": "https://x.com/doodi_dev"
+  },
+  "posted_at": "2026-11-01T04:15:00Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**두디 Doodi ([@doodi_dev](https://x.com/doodi_dev/status/2116745798927134768))** introduces **Massless**, an MIT tool recreating paid AI film studio features with open-weight models: design shots by camera, lens and film stock, then apply 28 camera moves to a still and export MP4, plus storyboard, voiceover, captions and image-to-3D, mostly in-browser ([ChuckGPTX/massless](https://github.com/ChuckGPTX/massless)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/ChuckGPTX/massless",
+      "from_post": "2116745798927134768",
+      "short_url": "https://t.co/cD7xkuM2bW",
+      "title": "GitHub - ChuckGPTX/massless: A free cinema camera for AI shots. Shot designer + camera moves, open-weight models only. Live at massless.chucksi.com"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "massless",
+    "camera-move",
+    "ai-video",
+    "open-weight",
+    "storyboard"
+  ],
+  "relevance": "Open AI cinematography tool.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV-EvZ-bIAA-LiC.jpg",
+      "from_post": "2116745798927134768",
+      "description": "AI-generated cinematic still of a lone figure on a dark rocky shore facing a giant glowing ring portal at sunset.",
+      "thumbnail": "posts/2026/11/01/2116745798927134768/media/0.webp",
+      "kind": "photo"
+    }
+  ]
+}

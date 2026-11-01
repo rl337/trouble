@@ -1,0 +1,135 @@
+{
+  "id": "2116466469949325403",
+  "permalink": "https://x.com/so_ainsight/status/2116466469949325403",
+  "author": {
+    "name": "そう@『n8nの教科書』マイナビ出版 10/22発売",
+    "handle": "@so_ainsight",
+    "profile_url": "https://x.com/so_ainsight"
+  },
+  "posted_at": "2026-10-31T09:45:03Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [
+    {
+      "id": "2116466481877991882",
+      "permalink": "https://x.com/so_ainsight/status/2116466481877991882",
+      "posted_at": "2026-10-31T09:45:05Z",
+      "position": 1
+    },
+    {
+      "id": "2116466493609414812",
+      "permalink": "https://x.com/so_ainsight/status/2116466493609414812",
+      "posted_at": "2026-10-31T09:45:08Z",
+      "position": 2
+    }
+  ],
+  "summary_md": "**そう@『n8nの教科書』マイナビ出版 10/22発売 ([@so_ainsight](https://x.com/so_ainsight/status/2116466469949325403))** lists ten fast-rising AI repos of the week: Cloudflare's multi-phase **security-audit-skill**, the Orca multi-agent workspace, Impeccable design vocabulary, Graphify knowledge graphs, HeyGen's HyperFrames HTML-to-video, TradingAgents, freellmapi, claude-seo, OpenCode and Postiz ([cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill), [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes)); a follow-up links his longer write-up.",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "from_post": "2116466469949325403",
+      "short_url": "https://t.co/YJJhUMLosp",
+      "title": "GitHub - cloudflare/security-audit-skill: A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings"
+    },
+    {
+      "url": "https://github.com/stablyai/orca",
+      "from_post": "2116466469949325403",
+      "short_url": "https://t.co/RgSxPjJEFm",
+      "title": "GitHub - stablyai/orca: Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime. · GitHub"
+    },
+    {
+      "url": "https://github.com/pbakaus/impeccable",
+      "from_post": "2116466469949325403",
+      "short_url": "https://t.co/ci7BPjy2BC",
+      "title": "GitHub - pbakaus/impeccable: The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships. · GitHub"
+    },
+    {
+      "url": "https://github.com/Graphify-Labs/graphify",
+      "from_post": "2116466469949325403",
+      "short_url": "https://t.co/cD2VJQAOHA",
+      "title": "GitHub - Graphify-Labs/graphify: Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store. · GitHub"
+    },
+    {
+      "url": "https://github.com/heygen-com/hyperframes",
+      "from_post": "2116466469949325403",
+      "short_url": "https://t.co/vSJhdJX4df",
+      "title": "GitHub - heygen-com/hyperframes: Write HTML. Render video. Built for agents. · GitHub"
+    },
+    {
+      "url": "https://github.com/TauricResearch/TradingAgents",
+      "from_post": "2116466469949325403",
+      "short_url": "https://t.co/6NhoZixNvo",
+      "title": "GitHub - TauricResearch/TradingAgents: TradingAgents: Multi-Agents LLM Financial Trading Framework · GitHub"
+    },
+    {
+      "url": "https://github.com/tashfeenahmed/freellmapi",
+      "from_post": "2116466469949325403",
+      "short_url": "https://t.co/eQsuEMABLh",
+      "title": "GitHub - tashfeenahmed/freellmapi: 7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only. · GitHub"
+    },
+    {
+      "url": "https://github.com/AgriciDaniel/claude-seo",
+      "from_post": "2116466469949325403",
+      "short_url": "https://t.co/2bXkgv6cpr",
+      "title": "GitHub - AgriciDaniel/claude-seo: Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data. · GitHub"
+    },
+    {
+      "url": "https://github.com/anomalyco/opencode",
+      "from_post": "2116466469949325403",
+      "short_url": "https://t.co/OHiXV6hk3L",
+      "title": "GitHub - anomalyco/opencode: The open source coding agent. · GitHub"
+    },
+    {
+      "url": "https://github.com/gitroomhq/postiz-app",
+      "from_post": "2116466469949325403",
+      "short_url": "https://t.co/X97Qo5bNqZ",
+      "title": "GitHub - gitroomhq/postiz-app: 📨 The ultimate agentic social media scheduling tool 🤖 · GitHub"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "security-audit",
+    "skill",
+    "orca",
+    "hyperframes",
+    "graphify"
+  ],
+  "relevance": "Weekly radar of agent tooling repos.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV8zCDma4AAqDxn.jpg",
+      "from_post": "2116466469949325403",
+      "description": "GitHub social card for cloudflare/security-audit-skill, a coding-agent skill for multi-phase security audits with independently verified, machine-readable findings.",
+      "thumbnail": "posts/2026/10/31/2116466469949325403/media/0.webp",
+      "kind": "screenshot"
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV8zCM-bsAAY5nb.jpg",
+      "from_post": "2116466469949325403",
+      "description": "GitHub social card for stablyai/orca, a workspace for running a fleet of coding agents.",
+      "thumbnail": "posts/2026/10/31/2116466469949325403/media/1.webp",
+      "kind": "screenshot"
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV8zCV9bEAAmF7d.jpg",
+      "from_post": "2116466469949325403",
+      "description": "GitHub social card for pbakaus/impeccable, a design vocabulary for coding agents.",
+      "thumbnail": "posts/2026/10/31/2116466469949325403/media/2.webp",
+      "kind": "screenshot"
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV8zCesacAAjMV9.jpg",
+      "from_post": "2116466469949325403",
+      "description": "GitHub social card for Graphify-Labs/graphify, which turns a codebase plus docs and schemas into a queryable knowledge graph.",
+      "thumbnail": "posts/2026/10/31/2116466469949325403/media/3.webp",
+      "kind": "screenshot"
+    }
+  ]
+}

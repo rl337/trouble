@@ -1,0 +1,44 @@
+{
+  "id": "2116708185826295820",
+  "permalink": "https://x.com/wchengphy/status/2116708185826295820",
+  "author": {
+    "name": "W.Cheng",
+    "handle": "@wchengphy",
+    "profile_url": "https://x.com/wchengphy"
+  },
+  "posted_at": "2026-11-01T01:45:32Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**W.Cheng ([@wchengphy](https://x.com/wchengphy/status/2116708185826295820))** summarizes *Scaling Discovery Requires Forgetting* by Tan et al. ([arXiv 2610.20563](https://arxiv.org/abs/2610.20563)): research agents plateau as they anchor on past attempts, and periodically wiping history while keeping only the best candidate gave 39% better results than a single agent on AHC014 at the same budget.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.20563",
+      "from_post": "2116708185826295820",
+      "short_url": "https://t.co/PVMv9ynjkO",
+      "title": "Scaling Discovery Requires Forgetting"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-cognition"
+  ],
+  "keywords": [
+    "forgetting",
+    "automated-research",
+    "anchoring",
+    "discovery",
+    "context-reset"
+  ],
+  "relevance": "Forgetting as a tool for agent discovery.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HWAO2kxWAAABLWF.png",
+      "from_post": "2116708185826295820",
+      "description": "Two line charts versus dollars spent: AHC014 score (higher is better) and VLIW kernel cycles (lower is better), where a team of 4 agents with periodic forgetting beats 4 parallel agents and a single agent.",
+      "thumbnail": "posts/2026/11/01/2116708185826295820/media/0.webp",
+      "kind": "chart"
+    }
+  ]
+}

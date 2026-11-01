@@ -1,0 +1,34 @@
+{
+  "id": "2116633517421711396",
+  "permalink": "https://x.com/OpenAB_Memory/status/2116633517421711396",
+  "author": {
+    "name": "open agentic brain and memory",
+    "handle": "@OpenAB_Memory",
+    "profile_url": "https://x.com/OpenAB_Memory"
+  },
+  "posted_at": "2026-10-31T20:48:50Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**open agentic brain and memory ([@OpenAB_Memory](https://x.com/OpenAB_Memory/status/2116633517421711396))** argues memory belongs beneath the tools after Claude Code, Cursor and Codex gave three different answers from three stores, and offers **OpenAB**, a free self-hosted MCP memory server shared by all of them ([Open Agentic Brain and Memory](https://rohithhn.github.io/brain-site/index.html)).",
+  "referenced_urls": [
+    {
+      "url": "https://rohithhn.github.io/brain-site/index.html",
+      "from_post": "2116633517421711396",
+      "short_url": "https://t.co/3xWhbCHmaO",
+      "title": "Open Agentic Brain and Memory: Memory for AI Coding Agents"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "openab",
+    "agent-memory",
+    "mcp",
+    "self-hosted"
+  ],
+  "relevance": "Shared memory layer across harnesses.",
+  "media": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "2116787017707381157",
+  "permalink": "https://x.com/double_asa/status/2116787017707381157",
+  "author": {
+    "name": "Double_asa",
+    "handle": "@double_asa",
+    "profile_url": "https://x.com/double_asa"
+  },
+  "posted_at": "2026-11-01T06:58:47Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**Double\\_asa ([@double_asa](https://x.com/double_asa/status/2116787017707381157))** introduces his open **DSH to Figma**, which lets DeepSeek Harness read, create and edit native Figma layers, components and variables via a local mode that avoids paid official MCP quotas; he demos converting a dark UI to light and terminal-style variants in new frames and suggests uses for designers and developers ([Duoasa/DSH-to-Figma](https://github.com/Duoasa/DSH-to-Figma)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/Duoasa/DSH-to-Figma",
+      "from_post": "2116787017707381157",
+      "title": "GitHub - Duoasa/DSH-to-Figma: 为 DeepSeek Harness 接入 Figma 原生画布能力：读取与编辑设计、组件与变量、素材导出和截图；本地模式不消耗官方 MCP 调用额度。Native Figma canvas tools for DSH. · GitHub"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "dsh-to-figma",
+    "figma",
+    "deepseek-harness",
+    "ui-design"
+  ],
+  "relevance": "Agentic Figma design editing.",
+  "media": []
+}

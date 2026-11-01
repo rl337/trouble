@@ -1,0 +1,39 @@
+{
+  "id": "2116667250338136571",
+  "permalink": "https://x.com/kimonooyaji/status/2116667250338136571",
+  "author": {
+    "name": "着物オヤジ🧪実機実測レビュー",
+    "handle": "@kimonooyaji",
+    "profile_url": "https://x.com/kimonooyaji"
+  },
+  "posted_at": "2026-10-31T23:02:52Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**着物オヤジ🧪実機実測レビュー ([@kimonooyaji](https://x.com/kimonooyaji/status/2116667250338136571))** reports NVIDIA is adding a half-memory 64 GB **DGX Spark** at $4,999 while raising the 128 GB model to $6,950, and extrapolates from EVO-X2 measurements what models still fit in 64 GB ([DGX Spark 64GB vs 128GB analysis](https://kimono-oyaji.com/dgx-spark-64gb-vs-128gb-evox2/)).",
+  "referenced_urls": [
+    {
+      "url": "https://kimono-oyaji.com/dgx-spark-64gb-vs-128gb-evox2/",
+      "from_post": "2116667250338136571",
+      "short_url": "https://t.co/DNBx1FE8S8",
+      "title": "DGX Spark にメモリ 64GB 版、128GB 版は 6,950ドルに値上げ〜半分のメモリで何が動くのか、EVO-X2 の実測から調べた | 着物オヤジの実験室"
+    }
+  ],
+  "hashtags": [
+    "DGXSpark",
+    "ローカルLLM",
+    "NVIDIA"
+  ],
+  "topics": [
+    "local-models"
+  ],
+  "keywords": [
+    "dgx-spark",
+    "memory",
+    "pricing",
+    "local-inference",
+    "evo-x2"
+  ],
+  "relevance": "What fits on the new 64 GB DGX Spark.",
+  "media": []
+}

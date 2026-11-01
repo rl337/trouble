@@ -1,0 +1,43 @@
+{
+  "id": "2116734834878103849",
+  "permalink": "https://x.com/jaywcjlove/status/2116734834878103849",
+  "author": {
+    "name": "小弟调调",
+    "handle": "@jaywcjlove",
+    "profile_url": "https://x.com/jaywcjlove"
+  },
+  "posted_at": "2026-11-01T03:31:26Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**小弟调调 ([@jaywcjlove](https://x.com/jaywcjlove/status/2116734834878103849))** shares **AnyModelBot**, an open-source local-first agent app supporting many models that can be controlled remotely via chat apps ([modelflare-ai/AnyModelBot](https://github.com/modelflare-ai/AnyModelBot)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/modelflare-ai/AnyModelBot",
+      "from_post": "2116734834878103849",
+      "short_url": "https://t.co/IVO4DbZoU1",
+      "title": "GitHub - modelflare-ai/AnyModelBot: 🤖 Open-source, local-first alternative to Grok Bot, OpenAI dots and Claude Duet. Your own AI bots on any model: GPT, Claude, Gemini, Grok, DeepSeek, Kimi, GLM and 70+ more through one Modelflare key. Reach them in the app, WeChat or Feishu; they remember you, wor"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "anymodelbot",
+    "local-first",
+    "agent-app",
+    "chat-control"
+  ],
+  "relevance": "Local-first multi-model agent app.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HWAmsJ8WcAAVkDQ.jpg",
+      "from_post": "2116734834878103849",
+      "description": "AnyModelBot desktop chat app in Chinese showing a permission prompt for a file-organizing PowerShell task and a list of tool calls.",
+      "thumbnail": "posts/2026/11/01/2116734834878103849/media/0.webp",
+      "kind": "screenshot"
+    }
+  ]
+}

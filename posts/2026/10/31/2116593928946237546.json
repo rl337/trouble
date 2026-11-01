@@ -1,0 +1,44 @@
+{
+  "id": "2116593928946237546",
+  "permalink": "https://x.com/SciFi/status/2116593928946237546",
+  "author": {
+    "name": "Artificial Intelligence Papers",
+    "handle": "@SciFi",
+    "profile_url": "https://x.com/SciFi"
+  },
+  "posted_at": "2026-10-31T18:11:31Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**Artificial Intelligence Papers ([@SciFi](https://x.com/SciFi/status/2116593928946237546))** shares *From Interaction to Capability* by Chen, Li and Qin ([arXiv 2610.37482](https://arxiv.org/abs/2610.37482)), introducing **Task Advancement Memory** that tracks verified progress across apps and learns reusable operations for GUI agents.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.37482",
+      "from_post": "2116593928946237546",
+      "short_url": "https://t.co/lvfD7NbazM",
+      "title": "From Interaction to Capability: Task Advancement as State and..."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-cognition"
+  ],
+  "keywords": [
+    "task-advancement-memory",
+    "gui-agent",
+    "agent-memory",
+    "long-horizon"
+  ],
+  "relevance": "Memory for long-horizon GUI agents.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV-m9iVWEAAfBTU.png",
+      "from_post": "2116593928946237546",
+      "description": "Abstract of the Task Advancement Memory (TAM) paper for GUI agents.",
+      "thumbnail": "posts/2026/10/31/2116593928946237546/media/0.webp",
+      "kind": "paper",
+      "ocr_text": "GUI memory should preserve the results of past actions and learn reusable operations. This is difficult in long-horizon workflows, where agents must use information across applications and useful operations are interleaved with failed attempts. We introduce Task Advancement Memory (TAM), which defines task advancement as verified task progress, and supports ongoing task execution and learns reusable operations. During execution, Task Advancement State represents how verified task progress changes the remaining goals, allowing the agent to build on earlier achievements across applications. After each task, advancement supervision identifies and abstracts the interactions that produced a verified local result. The learned operations preserve the relation between required inputs, expected outcomes, and verification conditions. This retains locally successful operations from…"
+    }
+  ]
+}

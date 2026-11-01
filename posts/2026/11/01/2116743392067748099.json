@@ -1,0 +1,79 @@
+{
+  "id": "2116743392067748099",
+  "permalink": "https://x.com/FooSteins/status/2116743392067748099",
+  "author": {
+    "name": "Steins",
+    "handle": "@FooSteins",
+    "profile_url": "https://x.com/FooSteins"
+  },
+  "posted_at": "2026-11-01T04:05:26Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [
+    {
+      "id": "2116743847485280625",
+      "permalink": "https://x.com/FooSteins/status/2116743847485280625",
+      "posted_at": "2026-11-01T04:07:15Z",
+      "position": 1
+    },
+    {
+      "id": "2116744462994997291",
+      "permalink": "https://x.com/FooSteins/status/2116744462994997291",
+      "posted_at": "2026-11-01T04:09:41Z",
+      "position": 2
+    }
+  ],
+  "summary_md": "**Steins ([@FooSteins](https://x.com/FooSteins/status/2116743392067748099))** summarizes *Memory Tax* by Xuan He and team at UIUC ([arXiv 2610.34073](https://arxiv.org/abs/2610.34073), [project](https://hexuan21.github.io/MemoryTax/)): across 11 memory systems, 3 benchmarks and 3 backbones, 90 of 99 results fell below plain RAG over raw history, usually at higher token cost; net value is memory benefit minus memory tax, and much of the tax arises when summarizing drops details at write time.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.34073",
+      "from_post": "2116743392067748099",
+      "short_url": "https://t.co/7SAyNi16C0",
+      "title": "Memory Tax: Dissecting the Net Value of Agent Memory"
+    },
+    {
+      "url": "https://hexuan21.github.io/MemoryTax/",
+      "from_post": "2116744462994997291",
+      "short_url": "https://t.co/zTGAZecmVk",
+      "title": "Memory Tax"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-cognition",
+    "harness-dev"
+  ],
+  "keywords": [
+    "memory-tax",
+    "agent-memory",
+    "rag",
+    "evaluation"
+  ],
+  "relevance": "Evidence that agent memory often underperforms RAG.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HWAu0ezaoAAAeNz.jpg",
+      "from_post": "2116743392067748099",
+      "description": "Accuracy versus token-cost Pareto bubble chart on LongMemEval-s with Qwen3.6-27B, placing RAG baselines against memory systems such as MemOS, HippoRAG2, A-Mem, LightMem, MAGMA, MemoryOS and OpenViking.",
+      "thumbnail": "posts/2026/11/01/2116743392067748099/media/0.webp",
+      "kind": "chart"
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HWAvRgnbUAI3TZY.jpg",
+      "from_post": "2116743847485280625",
+      "description": "Histograms of the number of retrieval rounds needed to recover evidence per query on LongMemEval-s for RAG and five memory systems.",
+      "thumbnail": "posts/2026/11/01/2116743392067748099/media/1.webp",
+      "kind": "chart"
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HWAv2bpWwAAETOM.png",
+      "from_post": "2116744462994997291",
+      "description": "Bar chart of original performance, gains with gold memory, and remaining \"memory tax\" for RAG and memory systems on LongMemEval-s (Q27B) and PersonaMem-v2 (Q4B).",
+      "thumbnail": "posts/2026/11/01/2116743392067748099/media/2.webp",
+      "kind": "chart"
+    }
+  ]
+}

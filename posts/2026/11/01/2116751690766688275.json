@@ -1,0 +1,35 @@
+{
+  "id": "2116751690766688275",
+  "permalink": "https://x.com/HongyeMain/status/2116751690766688275",
+  "author": {
+    "name": "Kevin Tech Labs",
+    "handle": "@HongyeMain",
+    "profile_url": "https://x.com/HongyeMain"
+  },
+  "posted_at": "2026-11-01T04:38:25Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**Kevin Tech Labs ([@HongyeMain](https://x.com/HongyeMain/status/2116751690766688275))** points local-model users to HauhauCS's uncensored **Qwen3.8-27B** Aggressive GGUF with reduced refusals; Q4_K_P is about 17.92 GB, vision needs a separate projector and FastMTP needs extra files and a patch ([Hugging Face model](https://huggingface.co/HauhauCS/Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-MTP-GGUF)).",
+  "referenced_urls": [
+    {
+      "url": "https://huggingface.co/HauhauCS/Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-MTP-GGUF",
+      "from_post": "2116751690766688275",
+      "short_url": "https://t.co/tlcXpu3SyM",
+      "title": "HauhauCS/Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-MTP-GGUF · Hugging Face"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "local-models"
+  ],
+  "keywords": [
+    "qwen3-8-27b",
+    "gguf",
+    "uncensored",
+    "mtp",
+    "quantization"
+  ],
+  "relevance": "~30B-class local GGUF option.",
+  "media": []
+}

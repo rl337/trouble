@@ -1,0 +1,45 @@
+{
+  "id": "2116744016561861035",
+  "permalink": "https://x.com/trigbundgaard/status/2116744016561861035",
+  "author": {
+    "name": "Trig Bundgaard",
+    "handle": "@trigbundgaard",
+    "profile_url": "https://x.com/trigbundgaard"
+  },
+  "posted_at": "2026-11-01T04:07:55Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**Trig Bundgaard ([@trigbundgaard](https://x.com/trigbundgaard/status/2116744016561861035))** built **StrangerDanger**, a Claude Code plugin with read-only reader agents that limits blast radius from prompt injection and semi-automates OSV vulnerability fixes ([Ubuntu-Buddha/claude-code-stranger-danger](https://github.com/Ubuntu-Buddha/claude-code-stranger-danger)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/Ubuntu-Buddha/claude-code-stranger-danger",
+      "from_post": "2116744016561861035",
+      "short_url": "https://t.co/aDEwzRt5XC",
+      "title": "GitHub - Ubuntu-Buddha/claude-code-stranger-danger: Claude Code plugin: read-only reader agents plus deny-only hooks that keep web pages, documents and strangers' code from steering agents that hold a shell."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "strangerdanger",
+    "claude-code",
+    "plugin",
+    "prompt-injection",
+    "osv"
+  ],
+  "relevance": "Hardening coding agents against injection.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HWAvdw4boAA8qtr.jpg",
+      "from_post": "2116744016561861035",
+      "description": "README header for claude-code-stranger-danger (\"Readers don't act. Actors don't read.\"), a Claude Code plugin protecting against injected instructions from outside content.",
+      "thumbnail": "posts/2026/11/01/2116744016561861035/media/0.webp",
+      "kind": "screenshot",
+      "ocr_text": "claude-code-stranger-danger\nCI passing · license MIT · python 3.10+\nReaders don't act. Actors don't read.\nA Claude Code plugin that protects you from attacks that come from outside (instructions hidden in web pages, documents, email, strangers' code and packages) and limits the damage on your machine if one gets through."
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "2116748078732673137",
+  "permalink": "https://x.com/oaichu95/status/2116748078732673137",
+  "author": {
+    "name": "Oai Chu",
+    "handle": "@oaichu95",
+    "profile_url": "https://x.com/oaichu95"
+  },
+  "posted_at": "2026-11-01T04:24:03Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**Oai Chu ([@oaichu95](https://x.com/oaichu95/status/2116748078732673137))** cites a scan finding 26.1% of 31,132 agent skills vulnerable and 5.2% likely malicious, and recommends NVIDIA's Apache-2.0 **SkillSpector**, which checks skills against 71 patterns from prompt injection to MCP tool poisoning ([NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/NVIDIA/SkillSpector",
+      "from_post": "2116748078732673137",
+      "short_url": "https://t.co/lZMpWELidD",
+      "title": "GitHub - NVIDIA/SkillSpector: Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills before you install them."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "skillspector",
+    "skill",
+    "security-scanner",
+    "prompt-injection",
+    "tool-poisoning"
+  ],
+  "relevance": "Supply-chain security for skills.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HWAzJKOaMAAr4nS.png",
+      "from_post": "2116748078732673137",
+      "description": "Card titled \"Scan agent skills before you install them\" for NVIDIA SkillSpector: 26.1% of 31,132 skills had vulnerabilities and 5.2% looked malicious, 71 patterns in 17 categories, with a uv install command.",
+      "thumbnail": "posts/2026/11/01/2116748078732673137/media/0.webp",
+      "kind": "screenshot",
+      "ocr_text": "Scan agent skills before you install them\nNVIDIA SkillSpector | open source, Apache-2.0\n26.1% had vulnerabilities · 5.2% likely malicious\nof 31,132 analyzed skills in the project's research dataset (README)\n71 patterns, 17 categories: prompt injection, data exfiltration, supply chain, memory poisoning, MCP tool poisoning, and more\nuv tool install git+https://github.com/NVIDIA/skillspector.git\ngithub.com/NVIDIA/SkillSpector"
+    }
+  ]
+}

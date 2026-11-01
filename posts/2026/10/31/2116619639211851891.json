@@ -1,0 +1,45 @@
+{
+  "id": "2116619639211851891",
+  "permalink": "https://x.com/HEI/status/2116619639211851891",
+  "author": {
+    "name": "Natural Language Processing Papers",
+    "handle": "@HEI",
+    "profile_url": "https://x.com/HEI"
+  },
+  "posted_at": "2026-10-31T19:53:41Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**Natural Language Processing Papers ([@HEI](https://x.com/HEI/status/2116619639211851891))** shares *Benchmarking Task Takeover Across Agent Handoffs* by Li et al. ([arXiv 2610.36523](https://arxiv.org/abs/2610.36523)), introducing **HSC-Bench** with 1,039 tasks testing whether a receiving model recovers repository evidence and continues from prior decisions after a handoff.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.36523",
+      "from_post": "2116619639211851891",
+      "short_url": "https://t.co/wtY4eXtlzS",
+      "title": "Benchmarking Task Takeover Across Agent Handoffs"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "hsc-bench",
+    "handoff",
+    "multi-agent",
+    "benchmark",
+    "continuity"
+  ],
+  "relevance": "Continuity when agents hand off work.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV--WHYWMAElhQ7.png",
+      "from_post": "2116619639211851891",
+      "description": "Abstract of the HSC-Bench (Handoff State Continuity) paper with 1,039 task-takeover tasks.",
+      "thumbnail": "posts/2026/10/31/2116619639211851891/media/0.webp",
+      "kind": "paper",
+      "ocr_text": "As agents collaborate on longer tasks, responsibility may pass between models before the work is complete. The receiving model must build on prior decisions, observations, and actions while addressing the remaining requirements. Evaluating this transition requires connecting the information preserved at handoff to how the receiver continues the work, a relationship that task-success and memory-retention scores alone do not capture. We introduce the Handoff State Continuity Benchmark (HSC-Bench), comprising 1,039 tasks that evaluate two complementary aspects of task takeover: recovering relevant repository evidence and continuing from established conversational, tool, and file-work state. Comparisons across six receiving models show that structured handoff state improves repository evidence recovery for every model and continuation performance for most models. The…"
+    }
+  ]
+}

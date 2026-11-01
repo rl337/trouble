@@ -1,0 +1,45 @@
+{
+  "id": "2116698801771511839",
+  "permalink": "https://x.com/warrior_naruto/status/2116698801771511839",
+  "author": {
+    "name": "solo_warrior_naruto",
+    "handle": "@warrior_naruto",
+    "profile_url": "https://x.com/warrior_naruto"
+  },
+  "posted_at": "2026-11-01T01:08:15Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**solo\\_warrior\\_naruto ([@warrior_naruto](https://x.com/warrior_naruto/status/2116698801771511839))** announces **Aura Autopilot**, an open-source continually learning agent that playtests games in Unreal Engine 5, Unity 6 and Godot 4 and connects to Claude Code and Codex via skills and MCP ([ramenvr/autopilot](https://github.com/ramenvr/autopilot)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/ramenvr/autopilot",
+      "from_post": "2116698801771511839",
+      "short_url": "https://t.co/dsuVA2RQ0C",
+      "title": "GitHub - ramenvr/autopilot: Playtest any game."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev",
+    "agentic-media"
+  ],
+  "keywords": [
+    "aura-autopilot",
+    "playtesting",
+    "game-development",
+    "mcp",
+    "skill"
+  ],
+  "relevance": "Agentic game playtesting.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HWAGTUMWQAAyn_r.jpg",
+      "from_post": "2116698801771511839",
+      "description": "Promo graphic of a neon game controller with a magnifying glass and the word \"AUTOPILOT\".",
+      "thumbnail": "posts/2026/11/01/2116698801771511839/media/0.webp",
+      "kind": "other"
+    }
+  ]
+}

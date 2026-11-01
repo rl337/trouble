@@ -1,0 +1,51 @@
+{
+  "id": "2116442486813942041",
+  "permalink": "https://x.com/FSFG/status/2116442486813942041",
+  "author": {
+    "name": "Cryptography and Security Papers",
+    "handle": "@FSFG",
+    "profile_url": "https://x.com/FSFG"
+  },
+  "posted_at": "2026-10-31T08:09:45Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**Cryptography and Security Papers ([@FSFG](https://x.com/FSFG/status/2116442486813942041))** shares *AgentHeal* by Liu et al. ([arXiv 2610.39234](https://arxiv.org/abs/2610.39234), [code](https://github.com/Lzzzzzzzzzzy/AgentHeal)), a benchmark for whether web agents recover from access barriers such as dead links, auth walls, rate limits and anti-scraping defenses without aborting, looping or quietly violating user constraints.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.39234",
+      "from_post": "2116442486813942041",
+      "short_url": "https://t.co/vpKpY9Oz2D",
+      "title": "AgentHeal: Evaluating Goal-Preserving Resource Recovery of Web..."
+    },
+    {
+      "url": "https://github.com/Lzzzzzzzzzzy/AgentHeal",
+      "from_post": "2116442486813942041",
+      "short_url": "https://t.co/ajSvfLL3kX",
+      "title": "GitHub - Lzzzzzzzzzzy/AgentHeal"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-cognition"
+  ],
+  "keywords": [
+    "agentheal",
+    "web-agent",
+    "benchmark",
+    "recovery",
+    "access-barrier"
+  ],
+  "relevance": "Robustness of web agents under failure.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV8dOeyXYAAGcwh.png",
+      "from_post": "2116442486813942041",
+      "description": "Abstract of the AgentHeal benchmark for goal-preserving resource recovery by web agents under access barriers.",
+      "thumbnail": "posts/2026/10/31/2116442486813942041/media/0.webp",
+      "kind": "paper",
+      "ocr_text": "Large language model (LLM) agents have demonstrated strong capabilities in automating complex information-seeking and transactional tasks across the open web. However, their real-world reliability remains limited by access barriers, such as dead links, authentication walls, rate limits, and anti-scraping defenses. These barriers block the primary execution path, causing agents to abort prematurely, loop indefinitely, or quietly compromise the user's original constraints. Existing evaluations either implicitly assume that target resources are freely accessible or focus on transient perturbations that simple retries can resolve, failing to capture scenarios where agents must actively reroute around impassable bottlenecks. To bridge this gap, this paper introduces AgentHeal, a comprehensive benchmark evaluating goal-preserving resource recovery, defined as the ability of web agents to detect…"
+    }
+  ]
+}

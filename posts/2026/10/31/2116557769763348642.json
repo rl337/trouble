@@ -1,0 +1,44 @@
+{
+  "id": "2116557769763348642",
+  "permalink": "https://x.com/SciFi/status/2116557769763348642",
+  "author": {
+    "name": "Artificial Intelligence Papers",
+    "handle": "@SciFi",
+    "profile_url": "https://x.com/SciFi"
+  },
+  "posted_at": "2026-10-31T15:47:50Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**Artificial Intelligence Papers ([@SciFi](https://x.com/SciFi/status/2116557769763348642))** shares *Agent-Conditioned Routing* by Kalyanasundaram et al. ([arXiv 2610.37375](https://arxiv.org/abs/2610.37375)), which gets diverse reasoning paths from one frozen MoE model by giving parallel trajectories persistent expert-eligibility masks, with no fine-tuning or role prompts.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.37375",
+      "from_post": "2116557769763348642",
+      "short_url": "https://t.co/C1FHlxyLuS",
+      "title": "Agent-Conditioned Routing: Diverse Reasoning Paths Within One Frozen Model"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-cognition"
+  ],
+  "keywords": [
+    "agent-conditioned-routing",
+    "moe",
+    "reasoning-diversity",
+    "expert-routing"
+  ],
+  "relevance": "Diversity from MoE routing in one model.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV-GE1nWQAAGNZs.png",
+      "from_post": "2116557769763348642",
+      "description": "Abstract of the Agent-Conditioned Routing (ACR) paper on diverse reasoning paths from one frozen sparse MoE.",
+      "thumbnail": "posts/2026/10/31/2116557769763348642/media/0.webp",
+      "kind": "paper",
+      "ocr_text": "Generating several solutions can expose alternative methods, but additional trajectories often paraphrase one dominant approach. We investigate whether the conditional capacity of a frozen sparse mixture-of-experts (MoE) model can provide such diversity from one problem prompt, without user-assigned roles, prescribed methods, fine-tuning, or model copies. Agent-Conditioned Routing (ACR) assigns $m$ parallel trajectories persistent, untrained shared/private expert-eligibility masks while preserving the learned, input-dependent token router. On a screened 126-question multi-mode mathematics and physics benchmark, with model judges reading the reported derivations in full, we count the number of problems yielding at least two distinct primary methods among soft-correct solutions in four trajectories. ACR reaches approximately twice as many such problems as…"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": "2116449156319367328",
+  "permalink": "https://x.com/Apurv35904761/status/2116449156319367328",
+  "author": {
+    "name": "Apurv Sheldiya",
+    "handle": "@Apurv35904761",
+    "profile_url": "https://x.com/Apurv35904761"
+  },
+  "posted_at": "2026-10-31T08:36:15Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**Apurv Sheldiya ([@Apurv35904761](https://x.com/Apurv35904761/status/2116449156319367328))** points to **T3 Code**, which turns a phone into a control surface for coding agents (Codex, Claude Code, Cursor and others) running on your computer ([pingdotgg/t3code](https://github.com/pingdotgg/t3code)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/pingdotgg/t3code",
+      "from_post": "2116449156319367328",
+      "short_url": "https://t.co/nMxJcg1kzn",
+      "title": "GitHub - pingdotgg/t3code"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "t3-code",
+    "coding-agent",
+    "mobile",
+    "dashboard",
+    "remote-control"
+  ],
+  "relevance": "Remote dashboard for coding agents.",
+  "media": []
+}

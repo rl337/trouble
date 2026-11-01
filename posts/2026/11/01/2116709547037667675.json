@@ -1,0 +1,44 @@
+{
+  "id": "2116709547037667675",
+  "permalink": "https://x.com/forever7943/status/2116709547037667675",
+  "author": {
+    "name": "逆天",
+    "handle": "@forever7943",
+    "profile_url": "https://x.com/forever7943"
+  },
+  "posted_at": "2026-11-01T01:50:57Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**逆天 ([@forever7943](https://x.com/forever7943/status/2116709547037667675))** open-sourced **minimax-h3-studio**, his workflow-free ComfyUI front end for 3D, image, music, video, ASR and TTS with API docs and agent-oriented guides, tested on Ubuntu with an RTX 4090 ([zxcHolmes/minimax-h3-studio](https://github.com/zxcHolmes/minimax-h3-studio)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/zxcHolmes/minimax-h3-studio",
+      "from_post": "2116709547037667675",
+      "short_url": "https://t.co/kTBvRJXUpu",
+      "title": "GitHub - zxcHolmes/minimax-h3-studio: minimax-h3-studio"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "minimax-h3",
+    "comfyui",
+    "video-generation",
+    "tts",
+    "local-generation"
+  ],
+  "relevance": "Agent-installable local media studio.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HWAPLhYaIAEUTzn.jpg",
+      "from_post": "2116709547037667675",
+      "description": "MiniMax-H3 Studio web UI for a self-written ComfyUI front end, with resolution, model and LoRA settings and generated cat video results.",
+      "thumbnail": "posts/2026/11/01/2116709547037667675/media/0.webp",
+      "kind": "screenshot"
+    }
+  ]
+}

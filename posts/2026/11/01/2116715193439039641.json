@@ -1,0 +1,58 @@
+{
+  "id": "2116715193439039641",
+  "permalink": "https://x.com/ai_yorozuya/status/2116715193439039641",
+  "author": {
+    "name": "こま｜AI活用",
+    "handle": "@ai_yorozuya",
+    "profile_url": "https://x.com/ai_yorozuya"
+  },
+  "posted_at": "2026-11-01T02:13:23Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**こま｜AI活用 ([@ai_yorozuya](https://x.com/ai_yorozuya/status/2116715193439039641))** lists five free tools he vetted this week: Nutlope's **Hallmark** anti-AI-slop design skill, Cloudflare's security-audit skill, HKU's DeepTutor, T3 Code for driving Claude Code or Codex from phone or browser, and Cursor's official plugins ([Nutlope/hallmark](https://github.com/Nutlope/hallmark), [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill), [cursor/plugins](https://github.com/cursor/plugins)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/Nutlope/hallmark",
+      "from_post": "2116715193439039641",
+      "short_url": "https://t.co/HpsJYOfW43",
+      "title": "GitHub - Nutlope/hallmark: Anti-AI-slop design skill for Claude Code, Cursor, and Codex."
+    },
+    {
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "from_post": "2116715193439039641",
+      "short_url": "https://t.co/RtN8SMD6K2",
+      "title": "GitHub - cloudflare/security-audit-skill: A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings · GitHub"
+    },
+    {
+      "url": "https://github.com/HKUDS/DeepTutor",
+      "from_post": "2116715193439039641",
+      "short_url": "https://t.co/jznki4dxsV",
+      "title": "GitHub - HKUDS/DeepTutor: DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/. · GitHub"
+    },
+    {
+      "url": "https://t3.codes",
+      "from_post": "2116715193439039641",
+      "short_url": "https://t.co/ihf1Lyi2D3"
+    },
+    {
+      "url": "https://github.com/cursor/plugins",
+      "from_post": "2116715193439039641",
+      "short_url": "https://t.co/UXfCoJRV2j",
+      "title": "GitHub - cursor/plugins: Cursor plugin specification and official plugins · GitHub"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "hallmark",
+    "security-audit",
+    "skill",
+    "cursor-plugin",
+    "t3-code"
+  ],
+  "relevance": "Vetted agent tooling roundup.",
+  "media": []
+}

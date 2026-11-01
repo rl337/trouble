@@ -1,0 +1,54 @@
+{
+  "id": "2116685017673781572",
+  "permalink": "https://x.com/Zedlabs_v1/status/2116685017673781572",
+  "author": {
+    "name": "Amedu Isaiah",
+    "handle": "@Zedlabs_v1",
+    "profile_url": "https://x.com/Zedlabs_v1"
+  },
+  "posted_at": "2026-11-01T00:13:28Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**Amedu Isaiah ([@Zedlabs_v1](https://x.com/Zedlabs_v1/status/2116685017673781572))** submitted **Baton** to the NVIDIA x Nebius hackathon: it checks agent session claims against receipts and reports what is done, what needs you and what is next ([Ized09/baton](https://github.com/Ized09/baton), [demo](https://baton-web-lovat.vercel.app/), [Devpost](https://devpost.com/software/baton-igxe5m)).",
+  "referenced_urls": [
+    {
+      "url": "https://baton-web-lovat.vercel.app/",
+      "from_post": "2116685017673781572",
+      "short_url": "https://t.co/cTd6aoEanD",
+      "title": "Baton: Director's Cut"
+    },
+    {
+      "url": "https://github.com/Ized09/baton",
+      "from_post": "2116685017673781572",
+      "short_url": "https://t.co/XLKLygUH0d",
+      "title": "GitHub - Ized09/baton"
+    },
+    {
+      "url": "https://devpost.com/software/baton-igxe5m",
+      "from_post": "2116685017673781572",
+      "short_url": "https://t.co/PuhDiUjD1N"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "baton",
+    "verification",
+    "agent-session",
+    "hackathon"
+  ],
+  "relevance": "Verifying agent completion claims.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV_5y20X0AAw6dx.jpg",
+      "from_post": "2116685017673781572",
+      "description": "Simple flow: agent session (what it said and did) to Baton (checks claims against receipts) to handoff (done, needs you, next).",
+      "thumbnail": "posts/2026/11/01/2116685017673781572/media/0.webp",
+      "kind": "diagram"
+    }
+  ]
+}

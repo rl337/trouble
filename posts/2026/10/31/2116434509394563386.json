@@ -1,0 +1,35 @@
+{
+  "id": "2116434509394563386",
+  "permalink": "https://x.com/aitoolsdirect/status/2116434509394563386",
+  "author": {
+    "name": "AI Tools Directory",
+    "handle": "@aitoolsdirect",
+    "profile_url": "https://x.com/aitoolsdirect"
+  },
+  "posted_at": "2026-10-31T07:38:03Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**AI Tools Directory ([@aitoolsdirect](https://x.com/aitoolsdirect/status/2116434509394563386))** reports that Anthropic published **commerce-agents**, an unmaintained reference blueprint for shopping and merchant agents on Claude with four demo verticals ([anthropics/commerce-agents](https://github.com/anthropics/commerce-agents)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/anthropics/commerce-agents",
+      "from_post": "2116434509394563386",
+      "short_url": "https://t.co/ykwqGdorrV",
+      "title": "GitHub - anthropics/commerce-agents: Reference blueprint for building shopping and merchant agents with Claude. Examples in retail, commerce, telecom, and entertainment included."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "commerce-agent",
+    "shopping-agent",
+    "reference-architecture",
+    "claude",
+    "merchant"
+  ],
+  "relevance": "Reference architecture for agent-to-agent commerce.",
+  "media": []
+}

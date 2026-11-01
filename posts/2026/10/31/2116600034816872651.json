@@ -1,0 +1,44 @@
+{
+  "id": "2116600034816872651",
+  "permalink": "https://x.com/edurdias/status/2116600034816872651",
+  "author": {
+    "name": "Eduardo Dias",
+    "handle": "@edurdias",
+    "profile_url": "https://x.com/edurdias"
+  },
+  "posted_at": "2026-10-31T18:35:47Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**Eduardo Dias ([@edurdias](https://x.com/edurdias/status/2116600034816872651))** published everything measured with **CapyCTL** on Hugging Face: 38 recipes and 12 comparisons across vLLM, SGLang, TensorFold and llama.cpp, with all reports, data points and served checkpoints ([capyctl on Hugging Face](https://huggingface.co/capyctl)).",
+  "referenced_urls": [
+    {
+      "url": "https://huggingface.co/capyctl",
+      "from_post": "2116600034816872651",
+      "short_url": "https://t.co/VFdrzx0qkI",
+      "title": "capyctl (CapyCTL)"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "local-models"
+  ],
+  "keywords": [
+    "capyctl",
+    "vllm",
+    "sglang",
+    "llama-cpp",
+    "inference-benchmark"
+  ],
+  "relevance": "Open benchmark data for local inference engines.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV-sZt2WcAAOnZv.jpg",
+      "from_post": "2116600034816872651",
+      "description": "CapyCTL organization page on Hugging Face: \"Run more models than your GPU can hold\", deploying and switching models on vLLM, SGLang, TensorFold and llama.cpp behind one OpenAI-compatible endpoint.",
+      "thumbnail": "posts/2026/10/31/2116600034816872651/media/0.webp",
+      "kind": "screenshot"
+    }
+  ]
+}

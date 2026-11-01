@@ -1,0 +1,35 @@
+{
+  "id": "2116465933774667938",
+  "permalink": "https://x.com/saisai1918837/status/2116465933774667938",
+  "author": {
+    "name": "Richard",
+    "handle": "@saisai1918837",
+    "profile_url": "https://x.com/saisai1918837"
+  },
+  "posted_at": "2026-10-31T09:42:55Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**Richard ([@saisai1918837](https://x.com/saisai1918837/status/2116465933774667938))** open-sourced **Loop Now**, a local multi-agent workspace for macOS and Linux powered by Pi Agent: independent agents with their own context and prompts that can message each other, a CLI for external agents, and hooks/plugins for Lark, Slack and more ([AI-for-anyone/loop-now](https://github.com/AI-for-anyone/loop-now)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/AI-for-anyone/loop-now",
+      "from_post": "2116465933774667938",
+      "short_url": "https://t.co/WGjzGKesHt",
+      "title": "GitHub - AI-for-anyone/loop-now: Loop Now: a local multi-agent workspace for running your own team of agents, extensible with plugins | 本地运行的多 Agent 协作平台"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "loop-now",
+    "pi",
+    "multi-agent",
+    "workspace",
+    "plugin"
+  ],
+  "relevance": "Multi-agent workspace on the Pi harness.",
+  "media": []
+}

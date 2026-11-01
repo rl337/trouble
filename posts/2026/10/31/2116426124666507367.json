@@ -1,0 +1,38 @@
+{
+  "id": "2116426124666507367",
+  "permalink": "https://x.com/SoduWork/status/2116426124666507367",
+  "author": {
+    "name": "SoduWork",
+    "handle": "@SoduWork",
+    "profile_url": "https://x.com/SoduWork"
+  },
+  "posted_at": "2026-10-31T07:04:44Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**SoduWork ([@SoduWork](https://x.com/SoduWork/status/2116426124666507367))** highlights **Herdr**, a desktop app in progress for keeping track of several parallel coding agents, which ones finished and which need approval ([herdrdev/herdr-app](https://github.com/herdrdev/herdr-app)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/herdrdev/herdr-app",
+      "from_post": "2116426124666507367",
+      "short_url": "https://t.co/mp0kJdYys6",
+      "title": "GitHub - herdrdev/herdr-app: herdr desktop app"
+    }
+  ],
+  "hashtags": [
+    "AI",
+    "Coding"
+  ],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "herdr",
+    "multi-agent",
+    "coding-agent",
+    "desktop-app",
+    "orchestration"
+  ],
+  "relevance": "Tooling for supervising multiple concurrent coding agents.",
+  "media": []
+}

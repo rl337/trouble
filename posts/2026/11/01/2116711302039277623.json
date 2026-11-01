@@ -1,0 +1,42 @@
+{
+  "id": "2116711302039277623",
+  "permalink": "https://x.com/quzheng130/status/2116711302039277623",
+  "author": {
+    "name": "곡정",
+    "handle": "@quzheng130",
+    "profile_url": "https://x.com/quzheng130"
+  },
+  "posted_at": "2026-11-01T01:57:55Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [
+    {
+      "id": "2116716126587777182",
+      "permalink": "https://x.com/quzheng130/status/2116716126587777182",
+      "posted_at": "2026-11-01T02:17:05Z",
+      "position": 1
+    }
+  ],
+  "summary_md": "**곡정 ([@quzheng130](https://x.com/quzheng130/status/2116711302039277623))** built **keysprawl**, a read-only stdlib Python CLI that finds every copy of OpenAI, Anthropic and GitHub keys across agent auth files, .env, shell rc files and backups without printing full keys; he made it after OpenCode's key-exposure notice ([quzheng130/keysprawl](https://github.com/quzheng130/keysprawl)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/quzheng130/keysprawl",
+      "from_post": "2116711302039277623",
+      "short_url": "https://t.co/Zal38BMEbq",
+      "title": "GitHub - quzheng130/keysprawl: Read-only scanner that finds where your API keys are scattered"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "keysprawl",
+    "api-key",
+    "credential",
+    "agent-security",
+    "cli"
+  ],
+  "relevance": "Credential hygiene for agent setups.",
+  "media": []
+}

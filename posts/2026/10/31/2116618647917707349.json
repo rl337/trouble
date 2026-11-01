@@ -1,0 +1,36 @@
+{
+  "id": "2116618647917707349",
+  "permalink": "https://x.com/DanteMMartin/status/2116618647917707349",
+  "author": {
+    "name": "Dante Martin",
+    "handle": "@DanteMMartin",
+    "profile_url": "https://x.com/DanteMMartin"
+  },
+  "posted_at": "2026-10-31T19:49:45Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**Dante Martin ([@DanteMMartin](https://x.com/DanteMMartin/status/2116618647917707349))** points to **Morgana 1.2**, a 4B FLUX.2 Klein fine-tune focused on photographic faces, skin and natural light, with free weights and GGUF for local GPUs ([r/LocalLLaMA release](https://www.reddit.com/r/LocalLLaMA/comments/1xkgbhu/release_morgana_12_a_photographyfocused_flux2/)).",
+  "referenced_urls": [
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xkgbhu/release_morgana_12_a_photographyfocused_flux2/",
+      "from_post": "2116618647917707349",
+      "short_url": "https://t.co/tHa5HRGPAP",
+      "title": "From the LocalLLaMA community on Reddit: [Release] Morgana 1.2: A photography-focused FLUX.2 Klein 4B finetune for realistic faces, natural lighting, and detailed textures (Free Weights + GGUF)"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "local-models",
+    "agentic-media"
+  ],
+  "keywords": [
+    "morgana",
+    "flux-2-klein",
+    "image-generation",
+    "gguf",
+    "fine-tune"
+  ],
+  "relevance": "Local image model for realistic photography.",
+  "media": []
+}

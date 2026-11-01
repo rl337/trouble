@@ -1,0 +1,41 @@
+{
+  "id": "2116513525724025176",
+  "permalink": "https://x.com/adiix_official/status/2116513525724025176",
+  "author": {
+    "name": "AdiiX",
+    "handle": "@adiix_official",
+    "profile_url": "https://x.com/adiix_official"
+  },
+  "posted_at": "2026-10-31T12:52:02Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**AdiiX ([@adiix_official](https://x.com/adiix_official/status/2116513525724025176))** hypes **awesome-opus5-5-videos**, a fast-growing collection of hundreds of prompts and viral videos (motion graphics, 3D, explainers, games) made with Claude ([yihui-dev/awesome-opus5-5-videos](https://github.com/yihui-dev/awesome-opus5-5-videos)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/yihui-dev/awesome-opus5-5-videos",
+      "from_post": "2116513525724025176",
+      "short_url": "https://t.co/YhiA9T98GF",
+      "title": "GitHub - yihui-dev/awesome-opus5-5-videos: A growing collection of viral videos made with Claude Opus 5.5 and the prompts behind them. Watch each original next to a live remake on Skillry. Updated regularly."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "prompt-library",
+    "motion-graphics",
+    "claude",
+    "video-generation"
+  ],
+  "relevance": "Prompt library for code-driven video.",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2116513446283931648/img/cETbYevsgPqyEQKI.jpg",
+      "from_post": "2116513525724025176",
+      "description": "Montage of videos generated with Claude-written code."
+    }
+  ]
+}

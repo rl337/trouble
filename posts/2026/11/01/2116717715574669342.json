@@ -1,0 +1,34 @@
+{
+  "id": "2116717715574669342",
+  "permalink": "https://x.com/tdualdir/status/2116717715574669342",
+  "author": {
+    "name": "tdual(ティーデュアル)@MatrixFlow",
+    "handle": "@tdualdir",
+    "profile_url": "https://x.com/tdualdir"
+  },
+  "posted_at": "2026-11-01T02:23:24Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**tdual(ティーデュアル)@MatrixFlow ([@tdualdir](https://x.com/tdualdir/status/2116717715574669342))** is excited by *Agent Behavior Maps* by Fujikawa et al. ([arXiv 2610.30014](https://arxiv.org/abs/2610.30014)), which places LLM-harness combinations in a geometric space using action log-likelihoods on shared trajectories, without new rollouts, revealing differences that success rates hide.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.30014",
+      "from_post": "2116717715574669342",
+      "short_url": "https://t.co/9TSMJuwY6N",
+      "title": "Agent Behavior Maps: Locating Agents by What They Would Do,..."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-cognition"
+  ],
+  "keywords": [
+    "agent-behavior-map",
+    "evaluation",
+    "information-geometry",
+    "log-likelihood"
+  ],
+  "relevance": "Geometric characterization of agent behavior.",
+  "media": []
+}

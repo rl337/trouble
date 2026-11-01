@@ -1,0 +1,51 @@
+{
+  "id": "2116588417786023983",
+  "permalink": "https://x.com/SciFi/status/2116588417786023983",
+  "author": {
+    "name": "Artificial Intelligence Papers",
+    "handle": "@SciFi",
+    "profile_url": "https://x.com/SciFi"
+  },
+  "posted_at": "2026-10-31T17:49:37Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**Artificial Intelligence Papers ([@SciFi](https://x.com/SciFi/status/2116588417786023983))** shares *Concordat* by Milad Sikaroudi ([arXiv 2610.37461](https://arxiv.org/abs/2610.37461), [code](https://github.com/miladsikaroudi/concordat)), a Python library that enforces finite-state session protocols on agents at runtime, offering only the tools legal in the current state.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.37461",
+      "from_post": "2116588417786023983",
+      "short_url": "https://t.co/Vtog5JH3xo",
+      "title": "Concordat: Typed Sessions for LLM Agents"
+    },
+    {
+      "url": "https://github.com/miladsikaroudi/concordat",
+      "from_post": "2116588417786023983",
+      "short_url": "https://t.co/MZZXnGzQ9b",
+      "title": "GitHub - miladsikaroudi/concordat: Typed sessions for AI agents: protocols the runtime enforces on the model"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "concordat",
+    "session-type",
+    "typestate",
+    "guardrail",
+    "python"
+  ],
+  "relevance": "Typed protocols enforcing agent rules.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV-h8x2WoAAcTCz.png",
+      "from_post": "2116588417786023983",
+      "description": "Abstract of the Concordat paper (typed finite-state session protocols enforced on LLM agents).",
+      "thumbnail": "posts/2026/10/31/2116588417786023983/media/0.webp",
+      "kind": "paper",
+      "ocr_text": "Agents built on large language models are increasingly allowed to take consequential actions: cancelling bookings, issuing refunds, changing accounts. The rules that govern those actions, such as \"obtain the customer's explicit confirmation before changing anything\", are usually stated in the prompt and followed only as reliably as the model chooses to follow them. We present Concordat, a Python library that treats an agent as an object whose interface is a finite-state protocol, in the spirit of typestate and session types, and enforces that protocol on the model at run time. On every turn the model is offered only the tools that are legal in the current protocol state, calls outside that set are rejected before they have side effects, decisions reserved for humans can only be requested, and token and tool-call budgets are charged and split linearly across handoffs. Protocols are checked when they are defined, and a subclass…"
+    }
+  ]
+}

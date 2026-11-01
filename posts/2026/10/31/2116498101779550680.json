@@ -1,0 +1,35 @@
+{
+  "id": "2116498101779550680",
+  "permalink": "https://x.com/Gael_DDOS/status/2116498101779550680",
+  "author": {
+    "name": "Gaël Caporale",
+    "handle": "@Gael_DDOS",
+    "profile_url": "https://x.com/Gael_DDOS"
+  },
+  "posted_at": "2026-10-31T11:50:44Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**Gaël Caporale ([@Gael_DDOS](https://x.com/Gael_DDOS/status/2116498101779550680))** points to NVIDIA's Apache-2.0 **spark-local-inference** server for SM120/SM121 hardware (DGX Spark and workstations): Ignition builds graphs and Helios serves from Rust, with recipes for Qwen NVFP4 on one Spark, GLM across four and DeepSeek V4.1 on four; no benchmarks yet ([NVIDIA/local-inference](https://github.com/NVIDIA/local-inference)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/NVIDIA/local-inference",
+      "from_post": "2116498101779550680",
+      "short_url": "https://t.co/ZTXOplzaYu",
+      "title": "GitHub - NVIDIA/spark-local-inference · GitHub"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "local-models"
+  ],
+  "keywords": [
+    "spark-local-inference",
+    "dgx-spark",
+    "inference-server",
+    "nvfp4",
+    "rust"
+  ],
+  "relevance": "Official NVIDIA inference stack for DGX Spark.",
+  "media": []
+}

@@ -1,0 +1,38 @@
+{
+  "id": "2116719374044438807",
+  "permalink": "https://x.com/xiaoanlab/status/2116719374044438807",
+  "author": {
+    "name": "XiaoAnLab",
+    "handle": "@xiaoanlab",
+    "profile_url": "https://x.com/xiaoanlab"
+  },
+  "posted_at": "2026-11-01T02:30:00Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**XiaoAnLab ([@xiaoanlab](https://x.com/xiaoanlab/status/2116719374044438807))** highlights Tencent Cloud's **CubeSandbox**, built on RustVMM and KVM, which starts sandboxes in under 60 ms with under 5 MB overhead and is E2B SDK compatible ([TencentCloud/CubeSandbox](https://github.com/TencentCloud/CubeSandbox)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/TencentCloud/CubeSandbox",
+      "from_post": "2116719374044438807",
+      "short_url": "https://t.co/p3tLNEzvKW",
+      "title": "GitHub - TencentCloud/CubeSandbox: Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents."
+    }
+  ],
+  "hashtags": [
+    "AIagent",
+    "沙箱"
+  ],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "cubesandbox",
+    "sandbox",
+    "kvm",
+    "e2b",
+    "microvm"
+  ],
+  "relevance": "Fast isolated sandboxes for agent code.",
+  "media": []
+}

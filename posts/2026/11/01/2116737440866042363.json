@@ -1,0 +1,35 @@
+{
+  "id": "2116737440866042363",
+  "permalink": "https://x.com/chelseysilop/status/2116737440866042363",
+  "author": {
+    "name": "Chelsey | AI Tools",
+    "handle": "@chelseysilop",
+    "profile_url": "https://x.com/chelseysilop"
+  },
+  "posted_at": "2026-11-01T03:41:47Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**Chelsey | AI Tools ([@chelseysilop](https://x.com/chelseysilop/status/2116737440866042363))** describes **Paperclip**, an MIT app for running agents like a company: hire CEO/CTO/dev agents from Claude Code, Codex or Cursor, with org chart, budgets, approvals and per-agent spend tracking ([paperclipai/paperclip](https://github.com/paperclipai/paperclip)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/paperclipai/paperclip",
+      "from_post": "2116737440866042363",
+      "short_url": "https://t.co/UMbBqIBj6j",
+      "title": "GitHub - paperclipai/paperclip: The open-source app everyone uses to manage agents at work"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "paperclip",
+    "multi-agent",
+    "orchestration",
+    "budget",
+    "dashboard"
+  ],
+  "relevance": "Organizational layer for agent teams.",
+  "media": []
+}

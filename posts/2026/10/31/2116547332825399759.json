@@ -1,0 +1,35 @@
+{
+  "id": "2116547332825399759",
+  "permalink": "https://x.com/TaylorChristof2/status/2116547332825399759",
+  "author": {
+    "name": "Taylor Christoffersen",
+    "handle": "@TaylorChristof2",
+    "profile_url": "https://x.com/TaylorChristof2"
+  },
+  "posted_at": "2026-10-31T15:06:22Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**Taylor Christoffersen ([@TaylorChristof2](https://x.com/TaylorChristof2/status/2116547332825399759))** summarizes Ai2's research update finding LLM novelty judgments of research ideas unstable across prompts, and advises testing the judge on your own ideas ([Can we trust LLMs to judge whether a research idea is novel?](https://huggingface.co/blog/allenai/novelty-bench)).",
+  "referenced_urls": [
+    {
+      "url": "https://huggingface.co/blog/allenai/novelty-bench",
+      "from_post": "2116547332825399759",
+      "short_url": "https://t.co/sb1gikFsoK",
+      "title": "Can we trust LLMs to judge whether a research idea is novel?"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-cognition"
+  ],
+  "keywords": [
+    "novelty-bench",
+    "llm-judge",
+    "ai-science",
+    "novelty",
+    "ai2"
+  ],
+  "relevance": "Reliability of LLM judges for AI science.",
+  "media": []
+}

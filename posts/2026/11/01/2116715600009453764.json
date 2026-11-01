@@ -1,0 +1,44 @@
+{
+  "id": "2116715600009453764",
+  "permalink": "https://x.com/doodi_dev/status/2116715600009453764",
+  "author": {
+    "name": "두디 Doodi",
+    "handle": "@doodi_dev",
+    "profile_url": "https://x.com/doodi_dev"
+  },
+  "posted_at": "2026-11-01T02:15:00Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**두디 Doodi ([@doodi_dev](https://x.com/doodi_dev/status/2116715600009453764))** introduces **Ariadne**, an AGPL offline knowledge memory for agents that unifies Kiwix archives (Wikipedia, Stack Exchange, docs, books) behind one MCP server with eight tools, answering with sources, translating locally and running CPU-only even on 2009-era Xeons ([VivaldiCode/Ariadne](https://github.com/VivaldiCode/Ariadne)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/VivaldiCode/Ariadne",
+      "from_post": "2116715600009453764",
+      "short_url": "https://t.co/y2qiDZZ7WV",
+      "title": "GitHub - VivaldiCode/Ariadne: Offline knowledge memory for AI agents: Kiwix + Wiki.js + pgvector over MCP and REST. CPU only, no GPU or AVX needed."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "ariadne",
+    "mcp",
+    "kiwix",
+    "offline",
+    "rag"
+  ],
+  "relevance": "Offline grounded knowledge for local agents.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV-EnFAakAAeRA4.jpg",
+      "from_post": "2116715600009453764",
+      "description": "Ariadne web UI \"Reading\" page with a unified offline library search over Kiwix, Wiki.js and a semantic index, showing Wikipedia results for photosynthesis.",
+      "thumbnail": "posts/2026/11/01/2116715600009453764/media/0.webp",
+      "kind": "screenshot"
+    }
+  ]
+}

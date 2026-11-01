@@ -1,0 +1,75 @@
+{
+  "id": "2116698995368280355",
+  "permalink": "https://x.com/AIExplorerTim/status/2116698995368280355",
+  "author": {
+    "name": "AI探路者Tim",
+    "handle": "@AIExplorerTim",
+    "profile_url": "https://x.com/AIExplorerTim"
+  },
+  "posted_at": "2026-11-01T01:09:01Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**AI探路者Tim ([@AIExplorerTim](https://x.com/AIExplorerTim/status/2116698995368280355))** lists ten skills to make Codex a video production pipeline, including HyperFrames, browser-use's video-use editor, Remotion skills, ffmpeg-skill, agent-caption, subtitle translation, dubbing and browser demo recording ([browser-use/video-use](https://github.com/browser-use/video-use), [remotion-dev/skills](https://github.com/remotion-dev/skills), [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes)).",
+  "referenced_urls": [
+    {
+      "url": "https://mp.weixin.qq.com/s/GtBZZAmxjJc_qjvpw47pCw",
+      "from_post": "2116698995368280355",
+      "short_url": "https://t.co/KgjbnvdBzd"
+    },
+    {
+      "url": "https://github.com/heygen-com/hyperframes",
+      "from_post": "2116698995368280355",
+      "short_url": "https://t.co/oKgcBVBowG",
+      "title": "GitHub - heygen-com/hyperframes: Write HTML. Render video. Built for agents. · GitHub"
+    },
+    {
+      "url": "https://github.com/browser-use/video-use",
+      "from_post": "2116698995368280355",
+      "short_url": "https://t.co/GFoW0qdCzN",
+      "title": "GitHub - browser-use/video-use: Edit videos with coding agents · GitHub"
+    },
+    {
+      "url": "https://github.com/remotion-dev/skills",
+      "from_post": "2116698995368280355",
+      "short_url": "https://t.co/b8FpKH2ZwL",
+      "title": "GitHub - remotion-dev/skills: Agent Skills · GitHub"
+    },
+    {
+      "url": "https://github.com/ahkamboh/agent-caption",
+      "from_post": "2116698995368280355",
+      "short_url": "https://t.co/5PM3jPqk1t"
+    },
+    {
+      "url": "https://github.com/alwaysmavs/agent-skills/blob/main/skills/video-subtitle-translator/SKILL.md",
+      "from_post": "2116698995368280355",
+      "short_url": "https://t.co/FdQO3YaHdV",
+      "title": "agent-skills/skills/video-subtitle-translator/SKILL.md at main · alwaysmavs/agent-skills · GitHub"
+    },
+    {
+      "url": "https://github.com/MengTo/Skills/blob/main/agent-skills/codex/browser-video-recording/SKILL.md",
+      "from_post": "2116698995368280355",
+      "short_url": "https://t.co/Q23N7JJTZW",
+      "title": "Skills/agent-skills/codex/browser-video-recording/SKILL.md at main · MengTo/Skills · GitHub"
+    },
+    {
+      "url": "https://github.com/openai/codex/blob/main/codex-rs/skills/src/assets/samples/imagegen/SKILL.md",
+      "from_post": "2116698995368280355",
+      "short_url": "https://t.co/cIrV9pETwO",
+      "title": "codex/codex-rs/skills/src/assets/samples/imagegen/SKILL.md at main · openai/codex · GitHub"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "video-use",
+    "remotion",
+    "hyperframes",
+    "dubbing",
+    "subtitle"
+  ],
+  "relevance": "Skill stack for agentic video production.",
+  "media": []
+}

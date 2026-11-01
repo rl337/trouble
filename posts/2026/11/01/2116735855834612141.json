@@ -1,0 +1,44 @@
+{
+  "id": "2116735855834612141",
+  "permalink": "https://x.com/ShadabLoveAi/status/2116735855834612141",
+  "author": {
+    "name": "Shadab Shams",
+    "handle": "@ShadabLoveAi",
+    "profile_url": "https://x.com/ShadabLoveAi"
+  },
+  "posted_at": "2026-11-01T03:35:29Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**Shadab Shams ([@ShadabLoveAi](https://x.com/ShadabLoveAi/status/2116735855834612141))** highlights HKUDS's **VideoAgent** (EMNLP 2026), which understands hours of footage, auto-cuts scenes with a storyboard agent and dubs with voice cloning via CosyVoice and Whisper, all from plain-English terminal commands ([HKUDS/VideoAgent](https://github.com/HKUDS/VideoAgent)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/HKUDS/VideoAgent",
+      "from_post": "2116735855834612141",
+      "short_url": "https://t.co/nfesLH0rGO",
+      "title": "GitHub - HKUDS/VideoAgent: [EMNLP2026] \"VideoAgent: All-in-One Agentic Framework for Video Understanding and Editing, and Remaking\""
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "videoagent",
+    "video-editing",
+    "dubbing",
+    "voice-cloning",
+    "storyboard"
+  ],
+  "relevance": "All-in-one agentic video editing framework.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HWAoB78b0AAMedo.png",
+      "from_post": "2116735855834612141",
+      "description": "GitHub README of HKUDS VideoAgent, an all-in-one framework for video understanding, editing and generation.",
+      "thumbnail": "posts/2026/11/01/2116735855834612141/media/0.webp",
+      "kind": "screenshot"
+    }
+  ]
+}

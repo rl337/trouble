@@ -1,0 +1,39 @@
+{
+  "id": "2116661744416264436",
+  "permalink": "https://x.com/MoyuAI/status/2116661744416264436",
+  "author": {
+    "name": "小鱼学姐",
+    "handle": "@MoyuAI",
+    "profile_url": "https://x.com/MoyuAI"
+  },
+  "posted_at": "2026-10-31T22:41:00Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**小鱼学姐 ([@MoyuAI](https://x.com/MoyuAI/status/2116661744416264436))** explains how **impeccable** uses 62 deterministic rules to catch generic AI-styled UI such as purple gradients and nested cards, installing into Claude Code and checking after UI edits ([pbakaus/impeccable](https://github.com/pbakaus/impeccable)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/pbakaus/impeccable",
+      "from_post": "2116661744416264436",
+      "short_url": "https://t.co/OlN65aQsJd",
+      "title": "GitHub - pbakaus/impeccable: The design language that makes your AI harness better at design."
+    }
+  ],
+  "hashtags": [
+    "AI编程",
+    "前端设计",
+    "开源工具"
+  ],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "impeccable",
+    "design-lint",
+    "frontend",
+    "claude-code",
+    "skill"
+  ],
+  "relevance": "Design linting for agent-built UIs.",
+  "media": []
+}

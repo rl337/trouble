@@ -1,0 +1,42 @@
+{
+  "id": "2116586681306632301",
+  "permalink": "https://x.com/Kiruiwizz/status/2116586681306632301",
+  "author": {
+    "name": "Kirui | AI & Systems",
+    "handle": "@Kiruiwizz",
+    "profile_url": "https://x.com/Kiruiwizz"
+  },
+  "posted_at": "2026-10-31T17:42:43Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [
+    {
+      "id": "2116586683948818493",
+      "permalink": "https://x.com/Kiruiwizz/status/2116586683948818493",
+      "posted_at": "2026-10-31T17:42:44Z",
+      "position": 1
+    }
+  ],
+  "summary_md": "**Kirui | AI & Systems ([@Kiruiwizz](https://x.com/Kiruiwizz/status/2116586681306632301))** summarizes *Soei* by Khan and Kumar ([arXiv 2610.39468](https://arxiv.org/abs/2610.39468)): in 45 real coding-agent sessions, 23.4% of editing episodes ended without an independent check after the last edit, so completion claims need evidence.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.39468",
+      "from_post": "2116586681306632301",
+      "short_url": "https://t.co/LCvWMwfSrL",
+      "title": "Soei: Structured Observability of Evidence and Intent for..."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "soei",
+    "observability",
+    "coding-agent",
+    "verification",
+    "agenttrail"
+  ],
+  "relevance": "Observability of agent completion claims.",
+  "media": []
+}

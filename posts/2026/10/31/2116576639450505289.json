@@ -1,0 +1,35 @@
+{
+  "id": "2116576639450505289",
+  "permalink": "https://x.com/AICoderClass/status/2116576639450505289",
+  "author": {
+    "name": "AICoderClass",
+    "handle": "@AICoderClass",
+    "profile_url": "https://x.com/AICoderClass"
+  },
+  "posted_at": "2026-10-31T17:02:49Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**AICoderClass ([@AICoderClass](https://x.com/AICoderClass/status/2116576639450505289))** notes Unity's official plugin gives Claude Code and Codex users a free CLI, skills and an MCP server for Unity 6+ without using Unity credits ([Best AI for Unity comparison](https://aicoderclass.com/compare/best-ai-for-unity)).",
+  "referenced_urls": [
+    {
+      "url": "https://aicoderclass.com/compare/best-ai-for-unity",
+      "from_post": "2116576639450505289",
+      "short_url": "https://t.co/PVxgc4cR0B",
+      "title": "Best AI for Unity (2026): MCP, plugin, assistant"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev",
+    "agentic-media"
+  ],
+  "keywords": [
+    "unity",
+    "mcp",
+    "skill",
+    "game-development"
+  ],
+  "relevance": "Agent integration for Unity game dev.",
+  "media": []
+}
