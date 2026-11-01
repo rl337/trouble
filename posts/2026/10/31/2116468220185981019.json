@@ -1,0 +1,36 @@
+{
+  "id": "2116468220185981019",
+  "permalink": "https://x.com/cv_usk/status/2116468220185981019",
+  "author": {
+    "name": "cv usk",
+    "handle": "@cv_usk",
+    "profile_url": "https://x.com/cv_usk"
+  },
+  "posted_at": "2026-10-31T09:52:00Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**cv usk ([@cv_usk](https://x.com/cv_usk/status/2116468220185981019))** breaks down *Trajectory2Gym* by Hu et al. ([arXiv 2610.33568](https://arxiv.org/pdf/2610.33568)), which synthesizes tool-use training data for compositional dependency coverage and decision grounding (excluding actions based on info the learner could not see) and weights SFT per trajectory; across five Qwen3 sizes the Tau1/Tau2/BFCL mean rose 16.9–29.8 points.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/pdf/2610.33568",
+      "from_post": "2116468220185981019",
+      "short_url": "https://t.co/cAV3kFKegj",
+      "title": "Trajectory2Gym: Decision-Grounded Compositional Interaction Synthesis for Tool-Use Agents"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-cognition",
+    "harness-dev"
+  ],
+  "keywords": [
+    "trajectory2gym",
+    "tool-use",
+    "data-synthesis",
+    "sft",
+    "decision-grounding"
+  ],
+  "relevance": "Better synthetic data for tool-use agents.",
+  "media": []
+}

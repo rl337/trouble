@@ -1,0 +1,35 @@
+{
+  "id": "2116738754652086291",
+  "permalink": "https://x.com/Huzai1221/status/2116738754652086291",
+  "author": {
+    "name": "Huzai",
+    "handle": "@Huzai1221",
+    "profile_url": "https://x.com/Huzai1221"
+  },
+  "posted_at": "2026-11-01T03:47:00Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**Huzai ([@Huzai1221](https://x.com/Huzai1221/status/2116738754652086291))** highlights **wordcraft**, a clean-room Rust reimplementation of Microsoft Word exposing 422 callable commands, so via MCP an agent can edit resumes, lay out contracts and batch-apply templates with .docx read/write ([storytold/wordcraft](https://github.com/storytold/wordcraft)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/storytold/wordcraft",
+      "from_post": "2116738754652086291",
+      "short_url": "https://t.co/AwjbgKYYci",
+      "title": "GitHub - storytold/wordcraft: An open-source, clean-room reimplementation of Microsoft Word in pure Rust"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "wordcraft",
+    "mcp",
+    "docx",
+    "rust",
+    "document-editing"
+  ],
+  "relevance": "Agent-operable document editing.",
+  "media": []
+}

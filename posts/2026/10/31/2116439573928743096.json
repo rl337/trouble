@@ -1,0 +1,44 @@
+{
+  "id": "2116439573928743096",
+  "permalink": "https://x.com/AgentsWatch/status/2116439573928743096",
+  "author": {
+    "name": "AgentsWatch",
+    "handle": "@AgentsWatch",
+    "profile_url": "https://x.com/AgentsWatch"
+  },
+  "posted_at": "2026-10-31T07:58:10Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**AgentsWatch ([@AgentsWatch](https://x.com/AgentsWatch/status/2116439573928743096))** summarizes *Network Topology Does Not Matter* by Sahil Rajesh Dhayalkar ([arXiv 2610.37699](https://arxiv.org/abs/2610.37699)): across 73,080 exchanges among eight LLMs, the classical consensus assumptions (convex updates, conserved means, content-independent weights) fail, and in 10,000-agent simulations topology explains almost nothing while half the models converge on confidently false beliefs.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.37699",
+      "from_post": "2116439573928743096",
+      "short_url": "https://t.co/RyBPF4d2b8",
+      "title": "Network Topology Does Not Matter: The Breakdown of Classical..."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-cognition"
+  ],
+  "keywords": [
+    "consensus",
+    "multi-agent",
+    "network-topology",
+    "belief-dynamics",
+    "llm"
+  ],
+  "relevance": "Collective dynamics of LLM agent networks.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV8ac0dXIAAy5xt.jpg",
+      "from_post": "2116439573928743096",
+      "description": "Three plots testing classical consensus assumptions (convexity, conservation, content-independence) across LLM exchanges.",
+      "thumbnail": "posts/2026/10/31/2116439573928743096/media/0.webp",
+      "kind": "chart"
+    }
+  ]
+}

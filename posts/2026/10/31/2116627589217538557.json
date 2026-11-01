@@ -1,0 +1,35 @@
+{
+  "id": "2116627589217538557",
+  "permalink": "https://x.com/ashxhart/status/2116627589217538557",
+  "author": {
+    "name": "Ash Hart",
+    "handle": "@ashxhart",
+    "profile_url": "https://x.com/ashxhart"
+  },
+  "posted_at": "2026-10-31T20:25:16Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**Ash Hart ([@ashxhart](https://x.com/ashxhart/status/2116627589217538557))** highlights Liquid AI's **LFM3-Omni-2B** running fully locally in the browser via WebGPU, taking text, images and audio and speaking back, with about a 1.6 GB download; credit to Xenova's kernels ([LFM3-Omni-2B-WebGPU demo](https://huggingface.co/spaces/LiquidAI/LFM3-Omni-2B-WebGPU)).",
+  "referenced_urls": [
+    {
+      "url": "https://huggingface.co/spaces/LiquidAI/LFM3-Omni-2B-WebGPU",
+      "from_post": "2116627589217538557",
+      "short_url": "https://t.co/wsk6INZ0gv",
+      "title": "LFM3 Omni 2B WebGPU - a Hugging Face Space by LiquidAI"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "local-models"
+  ],
+  "keywords": [
+    "lfm3-omni",
+    "webgpu",
+    "omni-model",
+    "browser",
+    "2b"
+  ],
+  "relevance": "Small omni model running locally.",
+  "media": []
+}

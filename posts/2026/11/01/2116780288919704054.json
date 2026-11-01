@@ -1,0 +1,60 @@
+{
+  "id": "2116780288919704054",
+  "permalink": "https://x.com/vintcessun/status/2116780288919704054",
+  "author": {
+    "name": "恒星sun",
+    "handle": "@vintcessun",
+    "profile_url": "https://x.com/vintcessun"
+  },
+  "posted_at": "2026-11-01T06:32:03Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**恒星sun ([@vintcessun](https://x.com/vintcessun/status/2116780288919704054))** highlights LangChain's open **design-agent**, which makes slides as HTML and videos as animation timelines editable as code, works from Slack, and encodes brand colors, fonts and spacing as checkable constraints with programmatic contrast checks plus visual review ([langchain-ai/design-agent](https://github.com/langchain-ai/design-agent)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/langchain-ai/design-agent",
+      "from_post": "2116780288919704054",
+      "short_url": "https://t.co/ziHKoRvRun",
+      "title": "GitHub - langchain-ai/design-agent: Open-source design agent: on-brand stills, decks, diagrams, charts and motion graphics from a chat thread, built on Deep Agents."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "design-agent",
+    "brand-constraint",
+    "html",
+    "slack"
+  ],
+  "relevance": "Constraint-checked agentic brand design.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HWBQcpga0AMh6Iw.jpg",
+      "from_post": "2116780288919704054",
+      "description": "Terminal snippet installing LangChain design-agent: curl install script, uv run design-agent config with LangSmith and Anthropic keys, sandbox publish, and mda deploy.",
+      "thumbnail": "posts/2026/11/01/2116780288919704054/media/0.webp",
+      "kind": "code",
+      "ocr_text": "curl -fsSL https://raw.githubusercontent.com/langchain-ai/design-agent/main/install.sh | bash\ncd design-agent\nuv run design-agent config set LANGSMITH_API_KEY=lsv2_… ANTHROPIC_API_KEY=sk-ant-…\nuv run design-agent sandbox publish   # once per workspace, 10-15 min: the agent's computer\nuv run mda deploy                     # the agent itself, and its Slack app"
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HWBQc2ca0AAHl3A.jpg",
+      "from_post": "2116780288919704054",
+      "description": "Same-prompt comparison of a branded chart: a local coding agent with a brand skill (broken logo lockup, generic font, no axes, off-brand lime bar) versus Content Studio (clean lockup, brand typeface, axes and gridlines, brand blue bars).",
+      "thumbnail": "posts/2026/11/01/2116780288919704054/media/1.webp",
+      "kind": "diagram"
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HWBQdEYaUAABjPd.jpg",
+      "from_post": "2116780288919704054",
+      "description": "Content Studio banner: \"One design brain for your whole company\", open source and built on Deep Agents, with a sample social card.",
+      "thumbnail": "posts/2026/11/01/2116780288919704054/media/2.webp",
+      "kind": "other"
+    }
+  ]
+}

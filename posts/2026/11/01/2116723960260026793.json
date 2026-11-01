@@ -1,0 +1,35 @@
+{
+  "id": "2116723960260026793",
+  "permalink": "https://x.com/cv_usk/status/2116723960260026793",
+  "author": {
+    "name": "cv usk",
+    "handle": "@cv_usk",
+    "profile_url": "https://x.com/cv_usk"
+  },
+  "posted_at": "2026-11-01T02:48:13Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**cv usk ([@cv_usk](https://x.com/cv_usk/status/2116723960260026793))** explains *A-RSI* by Liu et al. ([arXiv 2610.38568](https://arxiv.org/pdf/2610.38568)): a VLM writes programmatic task generators for self-improvement and refreshes the task pool when reward variance or accuracy signals staleness, raising Qwen3-VL-8B's 11-benchmark average from 57.77 to 61.05 with 800 tasks.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/pdf/2610.38568",
+      "from_post": "2116723960260026793",
+      "short_url": "https://t.co/kagmriE2j2",
+      "title": "A-RSI: Adaptive Task Refresh for Zero-Data Multimodal Self-Improvement"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-cognition"
+  ],
+  "keywords": [
+    "a-rsi",
+    "self-improvement",
+    "grpo",
+    "task-generation",
+    "vlm"
+  ],
+  "relevance": "Timing data refresh in self-improvement.",
+  "media": []
+}

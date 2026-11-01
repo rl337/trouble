@@ -1,0 +1,35 @@
+{
+  "id": "2116719214350459152",
+  "permalink": "https://x.com/bei351009016/status/2116719214350459152",
+  "author": {
+    "name": "傲慢",
+    "handle": "@bei351009016",
+    "profile_url": "https://x.com/bei351009016"
+  },
+  "posted_at": "2026-11-01T02:29:22Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**傲慢 ([@bei351009016](https://x.com/bei351009016/status/2116719214350459152))** notes someone ran **DeepSeek V4.1 Flash** on two DGX Sparks with an EXL3 2.8-bit quant at 100+ tok/s single-stream and about 95% code agreement with the original, though four concurrent streams total only 137 tok/s ([jayleaton/deepseek-v41-tensorfold-spark](https://github.com/jayleaton/deepseek-v41-tensorfold-spark)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/jayleaton/deepseek-v41-tensorfold-spark",
+      "from_post": "2116719214350459152",
+      "short_url": "https://t.co/nyknjJp55A",
+      "title": "GitHub - jayleaton/deepseek-v41-tensorfold-spark: DeepSeek-V4.1-Flash on 2x NVIDIA DGX Spark with the TensorFold engine: 1.8-1.9x code, 2.5x multi-stream, 1.7-1.95x prefill vs the vLLM kit, exact speculative decoding. Work in progress."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "local-models"
+  ],
+  "keywords": [
+    "deepseek-v4-1",
+    "dgx-spark",
+    "exl3",
+    "quantization",
+    "tensorfold"
+  ],
+  "relevance": "Large MoE on paired DGX Sparks.",
+  "media": []
+}

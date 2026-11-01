@@ -1,0 +1,44 @@
+{
+  "id": "2116457312441315422",
+  "permalink": "https://x.com/realcoreychiu/status/2116457312441315422",
+  "author": {
+    "name": "Corey Chiu",
+    "handle": "@realcoreychiu",
+    "profile_url": "https://x.com/realcoreychiu"
+  },
+  "posted_at": "2026-10-31T09:08:39Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**Corey Chiu ([@realcoreychiu](https://x.com/realcoreychiu/status/2116457312441315422))** adds a **Skills page** to Wake, his Rust/GPU session browser, showing every skill across Claude Code, Codex and other agents, which agents have it, how many copies exist and which have drifted ([iAmCorey/Wake](https://github.com/iAmCorey/Wake)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/iAmCorey/Wake",
+      "from_post": "2116457312441315422",
+      "short_url": "https://t.co/cqSCW5L63h",
+      "title": "GitHub - iAmCorey/Wake: All your AI agent sessions in one place — browse, search, resume. Rust + GPUI."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "wake",
+    "skill",
+    "session-browser",
+    "drift",
+    "claude-code"
+  ],
+  "relevance": "Managing skill sprawl across harnesses.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV8qqwbXMAA-bGK.jpg",
+      "from_post": "2116457312441315422",
+      "description": "Wake macOS app Skills page listing 284 skills across agents (Claude Code, Codex, Cursor, OpenCode, etc.) with the _gstack-command skill open.",
+      "thumbnail": "posts/2026/10/31/2116457312441315422/media/0.webp",
+      "kind": "screenshot"
+    }
+  ]
+}

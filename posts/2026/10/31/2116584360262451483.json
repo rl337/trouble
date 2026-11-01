@@ -1,0 +1,36 @@
+{
+  "id": "2116584360262451483",
+  "permalink": "https://x.com/AgentBreak40737/status/2116584360262451483",
+  "author": {
+    "name": "BreakingAgent",
+    "handle": "@AgentBreak40737",
+    "profile_url": "https://x.com/AgentBreak40737"
+  },
+  "posted_at": "2026-10-31T17:33:30Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**BreakingAgent ([@AgentBreak40737](https://x.com/AgentBreak40737/status/2116584360262451483))** reports **MicroPerf-Bench**, where the best coding-agent setup recovered only 42% of injected performance regressions ([BreakingAgent](https://breakingagent.com/news/microperf-bench-exposes-coding-agent-optimization-gap)).",
+  "referenced_urls": [
+    {
+      "url": "https://breakingagent.com/news/microperf-bench-exposes-coding-agent-optimization-gap",
+      "from_post": "2116584360262451483",
+      "short_url": "https://t.co/Mqucvm5AeZ"
+    }
+  ],
+  "hashtags": [
+    "AgenticAI",
+    "AIAgents"
+  ],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "microperf-bench",
+    "benchmark",
+    "performance",
+    "coding-agent"
+  ],
+  "relevance": "Coding agents on performance optimization.",
+  "media": []
+}

@@ -1,0 +1,36 @@
+{
+  "id": "2116431041347137590",
+  "permalink": "https://x.com/bzltl/status/2116431041347137590",
+  "author": {
+    "name": "浪",
+    "handle": "@bzltl",
+    "profile_url": "https://x.com/bzltl"
+  },
+  "posted_at": "2026-10-31T07:24:16Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**浪 ([@bzltl](https://x.com/bzltl/status/2116431041347137590))** tries the **awesome-gamedev-agent-skills** pack, 74 game-development skills for coding agents covering Godot, Unity and more, in Qoder ([gamedev-skills/awesome-gamedev-agent-skills](https://github.com/gamedev-skills/awesome-gamedev-agent-skills)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/gamedev-skills/awesome-gamedev-agent-skills",
+      "from_post": "2116431041347137590",
+      "short_url": "https://t.co/5NPkHHHVwQ",
+      "title": "GitHub - gamedev-skills/awesome-gamedev-agent-skills: 74 game-dev skills for AI coding agents — Godot, Unity, Unreal, Phaser, PixiJS, three.js, Bevy, pygame, LÖVE, Roblox. Portable SKILL.md Agent Skills (the format Anthropic launched as Claude Skills), with a router that loads the right skill for yo"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev",
+    "agentic-media"
+  ],
+  "keywords": [
+    "gamedev",
+    "skill",
+    "godot",
+    "unity",
+    "qoder"
+  ],
+  "relevance": "Skill collection for agent-driven game development.",
+  "media": []
+}

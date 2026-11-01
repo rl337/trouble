@@ -1,0 +1,35 @@
+{
+  "id": "2116722964859433125",
+  "permalink": "https://x.com/Apurv35904761/status/2116722964859433125",
+  "author": {
+    "name": "Apurv Sheldiya",
+    "handle": "@Apurv35904761",
+    "profile_url": "https://x.com/Apurv35904761"
+  },
+  "posted_at": "2026-11-01T02:44:16Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**Apurv Sheldiya ([@Apurv35904761](https://x.com/Apurv35904761/status/2116722964859433125))** summarizes *ThinkJev* by Ding et al. ([arXiv 2610.37732](https://arxiv.org/abs/2610.37732)), which builds fast and slow systems from one hybrid-thinking model and only thinks when it helps typed decisions, reaching 81.6% accuracy with 72% of always-thinking tokens.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.37732",
+      "from_post": "2116722964859433125",
+      "short_url": "https://t.co/jB6rd0NYX3",
+      "title": "ThinkJev: One Thought, Every Budget for Calibrated Typed Decisions"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-cognition"
+  ],
+  "keywords": [
+    "thinkjev",
+    "reasoning-budget",
+    "hybrid-thinking",
+    "calibration",
+    "decision"
+  ],
+  "relevance": "Adaptive reasoning budgets.",
+  "media": []
+}

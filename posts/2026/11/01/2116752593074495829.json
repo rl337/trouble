@@ -1,0 +1,37 @@
+{
+  "id": "2116752593074495829",
+  "permalink": "https://x.com/xiaoanlab/status/2116752593074495829",
+  "author": {
+    "name": "XiaoAnLab",
+    "handle": "@xiaoanlab",
+    "profile_url": "https://x.com/xiaoanlab"
+  },
+  "posted_at": "2026-11-01T04:42:00Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**XiaoAnLab ([@xiaoanlab](https://x.com/xiaoanlab/status/2116752593074495829))** shares **agent-office-3d**, a low-poly 3D office that shows coding agents' live status as employees (working, idle, blocked on permission) without consuming tokens ([jefferysha0627/agent-office-3d](https://github.com/jefferysha0627/agent-office-3d)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/jefferysha0627/agent-office-3d",
+      "from_post": "2116752593074495829",
+      "short_url": "https://t.co/LyGFG5sjz1",
+      "title": "GitHub - jefferysha0627/agent-office-3d: A low-poly 3D office that shows your AI coding agents' live status — idle agents sneak off to play Minecraft (no tokens used)."
+    }
+  ],
+  "hashtags": [
+    "AI助手",
+    "3D"
+  ],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "agent-office-3d",
+    "dashboard",
+    "multi-agent",
+    "visualization"
+  ],
+  "relevance": "Status dashboard for parallel agents.",
+  "media": []
+}

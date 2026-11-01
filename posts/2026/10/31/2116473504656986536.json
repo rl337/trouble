@@ -1,0 +1,35 @@
+{
+  "id": "2116473504656986536",
+  "permalink": "https://x.com/cv_usk/status/2116473504656986536",
+  "author": {
+    "name": "cv usk",
+    "handle": "@cv_usk",
+    "profile_url": "https://x.com/cv_usk"
+  },
+  "posted_at": "2026-10-31T10:13:00Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**cv usk ([@cv_usk](https://x.com/cv_usk/status/2116473504656986536))** explains *AgentBaton* by Li et al. ([arXiv 2610.35959](https://arxiv.org/pdf/2610.35959)): a capable model does the heavy lifting, then a lightweight detector (from Qwen 3.5 2B) hands off to a cheaper model once only local finishing work remains, cutting API cost about 66% on average with accuracy largely preserved and beating per-turn routing.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/pdf/2610.35959",
+      "from_post": "2116473504656986536",
+      "short_url": "https://t.co/NID94prnWx",
+      "title": "AgentBaton: Efficient Model Collaboration in Agentic Tasks"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "agentbaton",
+    "model-routing",
+    "handoff",
+    "cost-reduction",
+    "long-horizon"
+  ],
+  "relevance": "Mid-task model handoff for cheaper agents.",
+  "media": []
+}

@@ -1,0 +1,35 @@
+{
+  "id": "2116470232701456609",
+  "permalink": "https://x.com/EhanElahi/status/2116470232701456609",
+  "author": {
+    "name": "Ehan Elahi Zaheer",
+    "handle": "@EhanElahi",
+    "profile_url": "https://x.com/EhanElahi"
+  },
+  "posted_at": "2026-10-31T10:00:00Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**Ehan Elahi Zaheer ([@EhanElahi](https://x.com/EhanElahi/status/2116470232701456609))** summarizes *What Does a Harness Buy? Tokens, Mostly* by Liu and Han ([arXiv 2610.04433](https://arxiv.org/abs/2610.04433)), which held models fixed across Claude Code, mini-SWE-agent and OpenCode on SWE-bench Verified: scores landed within about 5 points while cost per task varied up to 3x.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.04433",
+      "from_post": "2116470232701456609",
+      "short_url": "https://t.co/TE8LIUcpYD",
+      "title": "What Does a Harness Buy? Tokens, Mostly"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "harness",
+    "swe-bench",
+    "mini-swe-agent",
+    "opencode",
+    "cost"
+  ],
+  "relevance": "Quantifies how much harness choice matters.",
+  "media": []
+}

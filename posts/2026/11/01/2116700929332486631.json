@@ -1,0 +1,34 @@
+{
+  "id": "2116700929332486631",
+  "permalink": "https://x.com/DeaglePc/status/2116700929332486631",
+  "author": {
+    "name": "deaglepc",
+    "handle": "@DeaglePc",
+    "profile_url": "https://x.com/DeaglePc"
+  },
+  "posted_at": "2026-11-01T01:16:42Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**deaglepc ([@DeaglePc](https://x.com/DeaglePc/status/2116700929332486631))** explains that **arxiv-mcp-server**'s companion skill teaches agents to read a paper's outline first and then only relevant sections; he warns the official package is on PyPI, not the same-named npm package, and needs MCP configured ([blazickjp/arxiv-mcp-server](https://github.com/blazickjp/arxiv-mcp-server)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/blazickjp/arxiv-mcp-server",
+      "from_post": "2116700929332486631",
+      "short_url": "https://t.co/Lihk6mN3Bv",
+      "title": "GitHub - blazickjp/arxiv-mcp-server: A local MCP server for agent literature work. Original-LaTeX section reads, BibTeX from arXiv metadata, and topic watches. Papers stay on disk. Search is optional."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "arxiv-mcp-server",
+    "mcp",
+    "skill",
+    "literature-review"
+  ],
+  "relevance": "Efficient paper reading for research agents.",
+  "media": []
+}

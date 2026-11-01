@@ -1,0 +1,35 @@
+{
+  "id": "2116605955467088123",
+  "permalink": "https://x.com/halogenengine/status/2116605955467088123",
+  "author": {
+    "name": "Halogen",
+    "handle": "@halogenengine",
+    "profile_url": "https://x.com/halogenengine"
+  },
+  "posted_at": "2026-10-31T18:59:19Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**Halogen ([@halogenengine](https://x.com/halogenengine/status/2116605955467088123))** cites Wendell's Level1Techs review of the GMKtec EVO-X5 Pro, where Halogen runs Qwen3.8-Flash-Next on the Ryzen AI Max+ 495 at parity with DGX Spark ([review video](https://www.youtube.com/watch?t=621&v=YbIX2AWCqB8)).",
+  "referenced_urls": [
+    {
+      "url": "https://www.youtube.com/watch?t=621&v=YbIX2AWCqB8&feature=youtu.be",
+      "from_post": "2116605955467088123",
+      "short_url": "https://t.co/9QHg0t6q9u",
+      "title": "Gorgon Halo Arrives in GMKtec... Do you need 192 GB of LPDDR5?!?"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "local-models"
+  ],
+  "keywords": [
+    "halogen",
+    "ryzen-ai-max",
+    "dgx-spark",
+    "qwen3-8",
+    "local-inference"
+  ],
+  "relevance": "DGX Spark comparison for local inference hardware.",
+  "media": []
+}

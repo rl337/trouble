@@ -1,0 +1,38 @@
+{
+  "id": "2116766919856644179",
+  "permalink": "https://x.com/_talosai/status/2116766919856644179",
+  "author": {
+    "name": "Talos",
+    "handle": "@_talosai",
+    "profile_url": "https://x.com/_talosai"
+  },
+  "posted_at": "2026-11-01T05:38:55Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**Talos ([@_talosai](https://x.com/_talosai/status/2116766919856644179))** notes **Talos**, an open-source Rust agent, supports protocol-based custom providers with a built-in model picker so new LLMs need no agent code changes ([apilots/talos](https://github.com/apilots/talos)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/apilots/talos",
+      "from_post": "2116766919856644179",
+      "short_url": "https://t.co/RuSROhUEFR",
+      "title": "GitHub - apilots/talos: Talos AI"
+    }
+  ],
+  "hashtags": [
+    "AIAgents",
+    "RustLang",
+    "LLM"
+  ],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "talos",
+    "custom-provider",
+    "rust",
+    "model-picker"
+  ],
+  "relevance": "Model-agnostic agent design.",
+  "media": []
+}

@@ -1,0 +1,41 @@
+{
+  "id": "2116766782447075359",
+  "permalink": "https://x.com/jaywcjlove/status/2116766782447075359",
+  "author": {
+    "name": "小弟调调",
+    "handle": "@jaywcjlove",
+    "profile_url": "https://x.com/jaywcjlove"
+  },
+  "posted_at": "2026-11-01T05:38:23Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**小弟调调 ([@jaywcjlove](https://x.com/jaywcjlove/status/2116766782447075359))** shares **Alchemist Coder**, a free desktop app to monitor, schedule and automate multiple coding agents such as Claude Code and Codex ([Alekla0126/alchemist-coder](https://github.com/Alekla0126/alchemist-coder)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/Alekla0126/alchemist-coder",
+      "from_post": "2116766782447075359",
+      "short_url": "https://t.co/udVEliUDxJ",
+      "title": "GitHub - Alekla0126/alchemist-coder: Free, open-source desktop app for Claude Code and Codex: follow every agent and subagent live, run your own agent organization and automate routines. Also searches your Gemini CLI and Grok history. macOS, Windows, Linux."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "alchemist-coder",
+    "agent-management",
+    "claude-code",
+    "codex"
+  ],
+  "relevance": "Multi-agent management app.",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2116766685382184960/img/PLbDLPjHxXvTAgJz.jpg",
+      "from_post": "2116766782447075359",
+      "description": "Demo of the Alchemist Coder desktop app managing agents."
+    }
+  ]
+}

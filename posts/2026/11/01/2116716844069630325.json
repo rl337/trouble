@@ -1,0 +1,34 @@
+{
+  "id": "2116716844069630325",
+  "permalink": "https://x.com/WaterJ3201/status/2116716844069630325",
+  "author": {
+    "name": "北斗九号的水哥",
+    "handle": "@WaterJ3201",
+    "profile_url": "https://x.com/WaterJ3201"
+  },
+  "posted_at": "2026-11-01T02:19:56Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**北斗九号的水哥 ([@WaterJ3201](https://x.com/WaterJ3201/status/2116716844069630325))** points to the open-sourced **luobo-design** skill that produces full marketing sets like posters and social covers from one sentence; its author says he burned about 120M tokens in five days building it ([zhouwei713/luobo-design](https://github.com/zhouwei713/luobo-design)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/zhouwei713/luobo-design",
+      "from_post": "2116716844069630325",
+      "short_url": "https://t.co/dC3jooj8g1",
+      "title": "GitHub - zhouwei713/luobo-design"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "luobo-design",
+    "skill",
+    "graphic-design",
+    "poster"
+  ],
+  "relevance": "One-prompt design asset generation skill.",
+  "media": []
+}

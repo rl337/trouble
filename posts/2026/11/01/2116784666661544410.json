@@ -1,0 +1,33 @@
+{
+  "id": "2116784666661544410",
+  "permalink": "https://x.com/bighouse0310/status/2116784666661544410",
+  "author": {
+    "name": "House",
+    "handle": "@bighouse0310",
+    "profile_url": "https://x.com/bighouse0310"
+  },
+  "posted_at": "2026-11-01T06:49:27Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**House ([@bighouse0310](https://x.com/bighouse0310/status/2116784666661544410))** points to a single **CLAUDE.md** inspired by Andrej Karpathy's critiques of coding agents, with four rules (think first, simplicity, surgical changes, goal-driven execution) for smaller diffs and fewer rewrites ([multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+      "from_post": "2116784666661544410",
+      "short_url": "https://t.co/s66UuTCwu6",
+      "title": "GitHub - multica-ai/andrej-karpathy-skills: A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "claude-md",
+    "agent-rule",
+    "coding-agent"
+  ],
+  "relevance": "Agent rules that improve behavior.",
+  "media": []
+}

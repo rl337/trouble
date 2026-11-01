@@ -1,0 +1,41 @@
+{
+  "id": "2116425017898717658",
+  "permalink": "https://x.com/OffByQuant/status/2116425017898717658",
+  "author": {
+    "name": "OffByQuant",
+    "handle": "@OffByQuant",
+    "profile_url": "https://x.com/OffByQuant"
+  },
+  "posted_at": "2026-10-31T07:00:20Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**OffByQuant ([@OffByQuant](https://x.com/OffByQuant/status/2116425017898717658))** points to **Geiger**, a read-only command that inventories local AI agents and MCP configuration and diffs against a baseline to catch drift, without any model or API account; it inspects config rather than runtime behavior ([Atomburstofficial/geiger](https://github.com/Atomburstofficial/geiger)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/Atomburstofficial/geiger",
+      "from_post": "2116425017898717658",
+      "short_url": "https://t.co/e4eJhuXR3D",
+      "title": "GitHub - Atomburstofficial/geiger: A Geiger counter for AI agents — one read-only command that inventories every agent, MCP server, plugin, and AI extension on a machine"
+    }
+  ],
+  "hashtags": [
+    "AI",
+    "MCP",
+    "API",
+    "AISecurity",
+    "MCPSecurity"
+  ],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "geiger",
+    "mcp",
+    "agent-security",
+    "configuration-drift",
+    "inventory"
+  ],
+  "relevance": "Lightweight audit of agent and MCP setups for configuration drift.",
+  "media": []
+}

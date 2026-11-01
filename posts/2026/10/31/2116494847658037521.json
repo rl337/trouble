@@ -1,0 +1,35 @@
+{
+  "id": "2116494847658037521",
+  "permalink": "https://x.com/Manojkumar2257/status/2116494847658037521",
+  "author": {
+    "name": "Manoj | The AI Dude",
+    "handle": "@Manojkumar2257",
+    "profile_url": "https://x.com/Manojkumar2257"
+  },
+  "posted_at": "2026-10-31T11:37:48Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**Manoj | The AI Dude ([@Manojkumar2257](https://x.com/Manojkumar2257/status/2116494847658037521))** walks through **Reelsmith Media**, an MIT skill for Claude Code, Codex and Cursor that turns a voiceover, scene clips, script and logo into a 9:16 reel locally: Whisper captions corrected to the script, interpolated timing, HyperFrames edits, moving watermark, -14 LUFS audio and final QA checks ([EmirhanYAZICI/reelsmith-media](https://github.com/EmirhanYAZICI/reelsmith-media)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/EmirhanYAZICI/reelsmith-media",
+      "from_post": "2116494847658037521",
+      "short_url": "https://t.co/m3fuNvbRke",
+      "title": "GitHub - EmirhanYAZICI/reelsmith-media: Reelsmith: agent skill that turns a voiceover, scene clips, a script and a logo into a finished Instagram Reel. Local Whisper captions, HyperFrames edit, moving logo watermark, 30 fps. Claude Code, Cursor, Codex, OpenCode, Antigravity. EN/TR."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "reelsmith",
+    "hyperframes",
+    "whisper",
+    "short-form-video",
+    "skill"
+  ],
+  "relevance": "Fully local agentic reel editing.",
+  "media": []
+}

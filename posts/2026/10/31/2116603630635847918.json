@@ -1,0 +1,49 @@
+{
+  "id": "2116603630635847918",
+  "permalink": "https://x.com/INTERPRETIC/status/2116603630635847918",
+  "author": {
+    "name": "INTERPRETIC AI",
+    "handle": "@INTERPRETIC",
+    "profile_url": "https://x.com/INTERPRETIC"
+  },
+  "posted_at": "2026-10-31T18:50:04Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**INTERPRETIC AI ([@INTERPRETIC](https://x.com/INTERPRETIC/status/2116603630635847918))** releases **Uncensored-v2** of Qwen3.8-27B, claiming political censorship drops from 87% to 4% while safety refusals and reasoning are kept, in BF16, FP8 and GGUF ([InterpreticAI on Hugging Face](https://huggingface.co/InterpreticAI)).",
+  "referenced_urls": [
+    {
+      "url": "https://huggingface.co/InterpreticAI",
+      "from_post": "2116603630635847918",
+      "short_url": "https://t.co/pzXzh8jpiH",
+      "title": "InterpreticAI (INTERPRETIC AI)"
+    }
+  ],
+  "hashtags": [
+    "LLM",
+    "OpenWeights",
+    "Qwen"
+  ],
+  "topics": [
+    "local-models"
+  ],
+  "keywords": [
+    "qwen3-8",
+    "27b",
+    "uncensored",
+    "gguf",
+    "fine-tune"
+  ],
+  "relevance": "~30B local model variant with reduced censorship.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV-vwvMbgAAkdt1.jpg",
+      "from_post": "2116603630635847918",
+      "description": "Interpretic card for Qwen3.8-27B Uncensored-v2 (BF16, FP8, GGUF): political censorship 87% to 4%, safety refusals and reasoning kept.",
+      "thumbnail": "posts/2026/10/31/2116603630635847918/media/0.webp",
+      "kind": "screenshot",
+      "ocr_text": "Interpretic\nQWEN3.8-27B · BF16 · FP8 · GGUF\nUncensored-v2\nPolitical censorship 87% → 4%\nSafety refusals: Kept\nReasoning: Kept\nhuggingface.co/InterpreticAI"
+    }
+  ]
+}

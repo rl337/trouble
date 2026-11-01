@@ -1,0 +1,44 @@
+{
+  "id": "2116601128989196473",
+  "permalink": "https://x.com/Memoirs/status/2116601128989196473",
+  "author": {
+    "name": "Machine Learning (ML) Papers",
+    "handle": "@Memoirs",
+    "profile_url": "https://x.com/Memoirs"
+  },
+  "posted_at": "2026-10-31T18:40:08Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**Machine Learning (ML) Papers ([@Memoirs](https://x.com/Memoirs/status/2116601128989196473))** shares *NextEval* by Chen et al. ([arXiv 2610.36553](https://arxiv.org/abs/2610.36553)), an LLM-guided agent-based solver and benchmark for derivative-free optimization that chooses informative evaluation points under tight budgets.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.36553",
+      "from_post": "2116601128989196473",
+      "short_url": "https://t.co/rx73T7J2OS",
+      "title": "NextEval: An Agent-Based Solver and Benchmark for Derivative-Free..."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-cognition"
+  ],
+  "keywords": [
+    "nexteval",
+    "derivative-free-optimization",
+    "benchmark",
+    "solver"
+  ],
+  "relevance": "LLM agents for black-box optimization.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV-tgqdWYAAbC9k.png",
+      "from_post": "2116601128989196473",
+      "description": "Abstract of the NextEval agent-based derivative-free optimization solver and benchmark.",
+      "thumbnail": "posts/2026/10/31/2116601128989196473/media/0.webp",
+      "kind": "paper",
+      "ocr_text": "Derivative-free optimization (DFO) addresses problems where derivatives are unavailable or costly to obtain. This setting often arises in simulation-based and experimental applications, where evaluating the black-box objective can itself be costly. Thus, it remains a central challenge in DFO to effectively exploit accumulated observations to select informative evaluation points under a limited budget. In this light, we introduce the NextEval solver, an agent-based DFO solver, which integrates the capabilities of a large language model (LLM) to guide the sequential selection of evaluation points. Specifically, we establish a system that combines an LLM agent with a numerical environment. The environment provides tools for analyzing past evaluations and executing numerical methods, while maintaining a shared evaluation history and method-specific state to support continuation across method switches.…"
+    }
+  ]
+}

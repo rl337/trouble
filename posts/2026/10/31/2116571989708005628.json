@@ -1,0 +1,46 @@
+{
+  "id": "2116571989708005628",
+  "permalink": "https://x.com/Memoirs/status/2116571989708005628",
+  "author": {
+    "name": "Machine Learning (ML) Papers",
+    "handle": "@Memoirs",
+    "profile_url": "https://x.com/Memoirs"
+  },
+  "posted_at": "2026-10-31T16:44:21Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**Machine Learning (ML) Papers ([@Memoirs](https://x.com/Memoirs/status/2116571989708005628))** shares *CoHARL* by Chen et al. ([arXiv 2610.36469](https://arxiv.org/abs/2610.36469)), population-based RL that co-evolves a shared agent policy with a population of executable harnesses, using execution traces to propose harness changes during training.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.36469",
+      "from_post": "2116571989708005628",
+      "short_url": "https://t.co/Ir8ZTyQs7F",
+      "title": "CoHARL: Co-Evolving Agent Policies and Executable Harnesses with..."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev",
+    "agentic-cognition"
+  ],
+  "keywords": [
+    "coharl",
+    "harness",
+    "reinforcement-learning",
+    "co-evolution",
+    "policy"
+  ],
+  "relevance": "Learning harness and policy together.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV-TAhwXkAAx_8L.png",
+      "from_post": "2116571989708005628",
+      "description": "Abstract of the CoHARL paper, which co-evolves a policy and a population of executable harnesses with RL (27.6% resolved on SWE-rebench).",
+      "thumbnail": "posts/2026/10/31/2116571989708005628/media/0.webp",
+      "kind": "paper",
+      "ocr_text": "Large language model (LLM) agents interact with their environments through executable harnesses that govern tool use and feedback. Optimizing a harness for a fixed policy overlooks how its behavior changes during learning, while training a policy under a fixed harness leaves the interface that generates its training experience unchanged. This motivates adapting the harness throughout policy training. We introduce CoHARL, a population-based reinforcement learning framework that co-evolves a shared policy and a population of executable harnesses. The policy learns from rollouts across the population, and a proposer uses its execution traces to revise harness code during training. CoHARL achieves a 27.6% mean resolved rate on SWE-rebench, improving over harness-only search by 6.4 percentage points. Experiments on SWE-bench Verified and Terminal-Bench 2.0 show gains in software…"
+    }
+  ]
+}

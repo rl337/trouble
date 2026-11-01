@@ -1,0 +1,42 @@
+{
+  "id": "2116502233374474689",
+  "permalink": "https://x.com/wikiwayne/status/2116502233374474689",
+  "author": {
+    "name": "Wayne Lowry",
+    "handle": "@wikiwayne",
+    "profile_url": "https://x.com/wikiwayne"
+  },
+  "posted_at": "2026-10-31T12:07:09Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**Wayne Lowry ([@wikiwayne](https://x.com/wikiwayne/status/2116502233374474689))** shows a clip made fully locally on his Asus Ascent GX10 (a DGX Spark) using **Imagination Studio** by Sam Wasserman and collaborators ([drowzeys/Imagination-Studio-by-keys-Wasserman](https://github.com/drowzeys/Imagination-Studio-by-keys-Wasserman)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/drowzeys/Imagination-Studio-by-keys-Wasserman",
+      "from_post": "2116502233374474689",
+      "short_url": "https://t.co/lkyLslzYNG",
+      "title": "GitHub - drowzeys/Imagination-Studio-by-keys-Wasserman: Imagination Studio by keys+Wasserman powered by TensorFold: an AI film studio for Mac and NVIDIA DGX Spark. Plan a film like a crew (Slate workflow by Sam Wasserman), render Qwen-Image-2.1 / FLUX3-K pictures and MiniMax H3 / FastH3 video with s"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-media",
+    "local-models"
+  ],
+  "keywords": [
+    "imagination-studio",
+    "dgx-spark",
+    "local-generation",
+    "video"
+  ],
+  "relevance": "Local media generation on DGX Spark hardware.",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2116502163086036992/img/fnyzruqXgx27LJ-q.jpg",
+      "from_post": "2116502233374474689",
+      "description": "Video clip generated locally with Imagination Studio on a DGX Spark-class machine."
+    }
+  ]
+}

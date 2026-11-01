@@ -1,0 +1,38 @@
+{
+  "id": "2116708300880560589",
+  "permalink": "https://x.com/TheArthiAI/status/2116708300880560589",
+  "author": {
+    "name": "The Arthi AI Collective",
+    "handle": "@TheArthiAI",
+    "profile_url": "https://x.com/TheArthiAI"
+  },
+  "posted_at": "2026-11-01T01:46:00Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**The Arthi AI Collective ([@TheArthiAI](https://x.com/TheArthiAI/status/2116708300880560589))** flags trending **Orkas**, an MIT local-first desktop app with a team of 16 agents where a Commander splits goals into to-dos ([Orkas-AI/Orkas](https://github.com/Orkas-AI/Orkas)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/Orkas-AI/Orkas",
+      "from_post": "2116708300880560589",
+      "short_url": "https://t.co/uIb70qoUOQ",
+      "title": "GitHub - Orkas-AI/Orkas: Orkas is an open-source (MIT), local-first AI team for your desktop: a Commander turns your goal into to-dos and coordinates 16 built-in specialist agents plus Claude Code, Codex, OpenCode, OpenClaw and Hermes, with projects, scheduled automations and connectors. Free app fo"
+    }
+  ],
+  "hashtags": [
+    "GenAI",
+    "OpenSource",
+    "AI"
+  ],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "orkas",
+    "multi-agent",
+    "desktop-app",
+    "local-first"
+  ],
+  "relevance": "Local multi-agent team app.",
+  "media": []
+}

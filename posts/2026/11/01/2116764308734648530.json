@@ -1,0 +1,41 @@
+{
+  "id": "2116764308734648530",
+  "permalink": "https://x.com/JackdeS11/status/2116764308734648530",
+  "author": {
+    "name": "Daisuke Majima (MLBoy)",
+    "handle": "@JackdeS11",
+    "profile_url": "https://x.com/JackdeS11"
+  },
+  "posted_at": "2026-11-01T05:28:33Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**Daisuke Majima (MLBoy) ([@JackdeS11](https://x.com/JackdeS11/status/2116764308734648530))** converted Liquid AI's **LFM3-Omni-2B** to LiteRT; on a Galaxy S26 it watched a 12 s video and correctly said aloud what was on screen when a line was spoken ([litert-community/LFM3-Omni-2B-LiteRT](https://huggingface.co/litert-community/LFM3-Omni-2B-LiteRT)).",
+  "referenced_urls": [
+    {
+      "url": "https://huggingface.co/litert-community/LFM3-Omni-2B-LiteRT",
+      "from_post": "2116764308734648530",
+      "short_url": "https://t.co/hXdSPEWmhB",
+      "title": "litert-community/LFM3-Omni-2B-LiteRT · Hugging Face"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "local-models"
+  ],
+  "keywords": [
+    "lfm3-omni-2b",
+    "litert",
+    "omni-model",
+    "on-device"
+  ],
+  "relevance": "On-device omni model.",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2116764289612832768/img/u0Dlbq5sb9pIHTo5.jpg",
+      "from_post": "2116764308734648530",
+      "description": "Clip of the model answering a question about a short video on a phone."
+    }
+  ]
+}

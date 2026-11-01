@@ -1,0 +1,44 @@
+{
+  "id": "2116650629833601415",
+  "permalink": "https://x.com/aidevchallenge/status/2116650629833601415",
+  "author": {
+    "name": "Ai Dev Challenge",
+    "handle": "@aidevchallenge",
+    "profile_url": "https://x.com/aidevchallenge"
+  },
+  "posted_at": "2026-10-31T21:56:50Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**Ai Dev Challenge ([@aidevchallenge](https://x.com/aidevchallenge/status/2116650629833601415))** compared four ways of briefing the same Claude plus headless Blender builder on four objects (one sentence, long text, one image, four images) across 48 models ([I Tested 4 Ways to Make 3D Models with AI](https://www.youtube.com/watch?v=MEpfl75d9G8)).",
+  "referenced_urls": [
+    {
+      "url": "https://www.youtube.com/watch?v=MEpfl75d9G8",
+      "from_post": "2116650629833601415",
+      "short_url": "https://t.co/vI6hGczwAP",
+      "title": "I Tested 4 Ways to Make 3D Models with AI"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "blender",
+    "3d-modeling",
+    "claude",
+    "prompting",
+    "reference-image"
+  ],
+  "relevance": "Prompting strategies for agentic 3D modeling.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV_aaL_XAAAzuch.jpg",
+      "from_post": "2116650629833601415",
+      "description": "Banner pairing \"AI\" with the Blender logo above wireframe-lit 3D models of a robot, an arcade cabinet, a gas pump and an excavator.",
+      "thumbnail": "posts/2026/10/31/2116650629833601415/media/0.webp",
+      "kind": "other"
+    }
+  ]
+}

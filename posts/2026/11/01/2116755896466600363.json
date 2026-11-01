@@ -1,0 +1,42 @@
+{
+  "id": "2116755896466600363",
+  "permalink": "https://x.com/I_am_oil_oil/status/2116755896466600363",
+  "author": {
+    "name": "oil-oil",
+    "handle": "@I_am_oil_oil",
+    "profile_url": "https://x.com/I_am_oil_oil"
+  },
+  "posted_at": "2026-11-01T04:55:07Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**oil-oil ([@I_am_oil_oil](https://x.com/I_am_oil_oil/status/2116755896466600363))** built **oil-diff**, a skill that turns git changes into a visual HTML report understandable to a non-author, grouping edits by business logic with before/after diagrams and screenshots, a drawer for key file diffs, and bundled scripts and templates for stable output ([oil-oil/oil-diff](https://github.com/oil-oil/oil-diff)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/oil-oil/oil-diff",
+      "from_post": "2116755896466600363",
+      "short_url": "https://t.co/fvynF1b7gP",
+      "title": "GitHub - oil-oil/oil-diff: 将 Git 改动、提交范围或工作区修改生成直观易读的可视化 HTML 改动汇报页"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "oil-diff",
+    "skill",
+    "code-review",
+    "html-report",
+    "diff"
+  ],
+  "relevance": "Reviewing large agent-made diffs.",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2116750776752390144/img/1RwKSIqu0QmLLg2G.jpg",
+      "from_post": "2116755896466600363",
+      "description": "Walkthrough of an oil-diff visual change report."
+    }
+  ]
+}

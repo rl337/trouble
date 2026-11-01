@@ -1,0 +1,34 @@
+{
+  "id": "2116437724953763958",
+  "permalink": "https://x.com/mingganggao/status/2116437724953763958",
+  "author": {
+    "name": "MingGang Gao · AI Agent 工程",
+    "handle": "@mingganggao",
+    "profile_url": "https://x.com/mingganggao"
+  },
+  "posted_at": "2026-10-31T07:50:49Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**MingGang Gao · AI Agent 工程 ([@mingganggao](https://x.com/mingganggao/status/2116437724953763958))** reports that **OpenCode 2.2.4** lets agents publish and update interactive HTML artifacts (experimental, behind an artifacts flag) and keeps desktop terminal history across restarts, reading it as coding agents moving from editing code to delivering viewable results ([release v2.2.4](https://github.com/anomalyco/opencode/releases/tag/v2.2.4)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/anomalyco/opencode/releases/tag/v2.2.4",
+      "from_post": "2116437724953763958",
+      "short_url": "https://t.co/pVTtXSX9HX",
+      "title": "Release v2.2.4 · anomalyco/opencode"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "opencode",
+    "artifact",
+    "release",
+    "html"
+  ],
+  "relevance": "Harness release adding agent-published artifacts.",
+  "media": []
+}

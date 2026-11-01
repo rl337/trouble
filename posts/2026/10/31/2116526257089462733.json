@@ -1,0 +1,42 @@
+{
+  "id": "2116526257089462733",
+  "permalink": "https://x.com/arkyyang/status/2116526257089462733",
+  "author": {
+    "name": "Arky Yang",
+    "handle": "@arkyyang",
+    "profile_url": "https://x.com/arkyyang"
+  },
+  "posted_at": "2026-10-31T13:42:37Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**Arky Yang ([@arkyyang](https://x.com/arkyyang/status/2116526257089462733))** explains *Masked Erosion* by So et al. ([arXiv 2610.38392](https://arxiv.org/abs/2610.38392)): self-improving agents that keep harness edits only when an acceptance gate scores higher silently delete redundant safeguards, because removing one overlapping rule changes nothing measurable; greedy gates lost all protection in 5 of 6 loops versus 0 of 6 with a paired significance test.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.38392",
+      "from_post": "2116526257089462733",
+      "short_url": "https://t.co/kGX2gWJ6in",
+      "title": "Masked Erosion: How Acceptance Gates Lose Redundant Safeguards in..."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-cognition"
+  ],
+  "keywords": [
+    "masked-erosion",
+    "self-improving-agent",
+    "acceptance-gate",
+    "safeguard",
+    "harness"
+  ],
+  "relevance": "Safety erosion in self-improving harnesses.",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2116526216455110658/img/9heuQu_z67Ut2M1m.jpg",
+      "from_post": "2116526257089462733",
+      "description": "Explainer video on the Masked Erosion findings."
+    }
+  ]
+}

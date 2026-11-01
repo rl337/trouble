@@ -1,0 +1,35 @@
+{
+  "id": "2116729539024093507",
+  "permalink": "https://x.com/tanvircr7/status/2116729539024093507",
+  "author": {
+    "name": "Hasan",
+    "handle": "@tanvircr7",
+    "profile_url": "https://x.com/tanvircr7"
+  },
+  "posted_at": "2026-11-01T03:10:23Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**Hasan ([@tanvircr7](https://x.com/tanvircr7/status/2116729539024093507))** announces his paper *Livelock in the Agent Harness: Delegation-Induced Liveness Failure in LLM Systems* was accepted to IEEE TPS 2026 ([IEEE TPS 2026](https://tps.ieee-cs.org/2026/)).",
+  "referenced_urls": [
+    {
+      "url": "https://tps.ieee-cs.org/2026/",
+      "from_post": "2116729539024093507",
+      "short_url": "https://t.co/7UVW0I4kEK",
+      "title": "IEEE TPS 2026"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev",
+    "agentic-cognition"
+  ],
+  "keywords": [
+    "livelock",
+    "harness",
+    "delegation",
+    "liveness"
+  ],
+  "relevance": "Liveness failures from delegation in harnesses.",
+  "media": []
+}

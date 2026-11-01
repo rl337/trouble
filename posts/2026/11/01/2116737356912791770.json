@@ -1,0 +1,44 @@
+{
+  "id": "2116737356912791770",
+  "permalink": "https://x.com/HEI/status/2116737356912791770",
+  "author": {
+    "name": "Natural Language Processing Papers",
+    "handle": "@HEI",
+    "profile_url": "https://x.com/HEI"
+  },
+  "posted_at": "2026-11-01T03:41:27Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**Natural Language Processing Papers ([@HEI](https://x.com/HEI/status/2116737356912791770))** shares *TrawMem* by Zhang et al. ([arXiv 2610.36918](https://arxiv.org/abs/2610.36918)), which reframes agent memory as task-oriented, role-adaptive workspaces where memories are chosen by their role in solving the task, not just query relevance.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.36918",
+      "from_post": "2116737356912791770",
+      "short_url": "https://t.co/GGhQn7K5io",
+      "title": "TrawMem: Reframing Agent Memory as Task-Oriented Role-Adaptive Workspaces"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-cognition"
+  ],
+  "keywords": [
+    "trawmem",
+    "agent-memory",
+    "retrieval",
+    "workspace"
+  ],
+  "relevance": "Role-aware agent memory.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HWApaL_WUAAoTFe.png",
+      "from_post": "2116737356912791770",
+      "description": "Abstract of the TrawMem paper reframing agent memory as task-oriented role-adaptive workspaces.",
+      "thumbnail": "posts/2026/11/01/2116737356912791770/media/0.webp",
+      "kind": "paper",
+      "ocr_text": "Large language model (LLM) agents rely on memory systems to leverage long-term interactions, yet existing systems typically retrieve memories based on their relevance to the current query and use them as contextual evidence. However, relevance alone does not characterize how a memory contributes to task solving: the same memory may serve different roles across tasks, such as directly supporting the answer or linking to complementary memories with weaker semantic relevance but necessary information. We therefore reframe agent memory systems as Task-Oriented Role-Adaptive Workspaces, where memories are selected and organized by their task-oriented roles and relations. Based on this view, we propose TrawMem, which organizes interaction histories into local threads and constructs task-oriented workspaces by assigning roles and jointly selecting…"
+    }
+  ]
+}

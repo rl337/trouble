@@ -1,0 +1,60 @@
+{
+  "id": "2116572096377594065",
+  "permalink": "https://x.com/GumbiiDigital/status/2116572096377594065",
+  "author": {
+    "name": "Gumbii.Digital",
+    "handle": "@GumbiiDigital",
+    "profile_url": "https://x.com/GumbiiDigital"
+  },
+  "posted_at": "2026-10-31T16:44:46Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**Gumbii.Digital ([@GumbiiDigital](https://x.com/GumbiiDigital/status/2116572096377594065))** updates the TensorFold Engine challenge: after 24 hours, community optimizations of **Qwen 3.8 27B** run 158.6% faster on DGX Spark (decode 13.7 to 41.5 tok/s) and 60% faster on Apple Silicon ([cuda.fast](https://www.yukon.org/cudafast?benchmark=nemotron35&platform=cuda), [mlx.fast](https://www.yukon.org/mlxfast?benchmark=nemotron35&platform=mlx)).",
+  "referenced_urls": [
+    {
+      "url": "https://www.yukon.org/cudafast?benchmark=nemotron35&platform=cuda",
+      "from_post": "2116572096377594065",
+      "short_url": "https://t.co/B5dqqEdXu0",
+      "title": "cuda.fast — Nemotron 3.5 Lightning, faster with speculative decode"
+    },
+    {
+      "url": "https://www.yukon.org/mlxfast?benchmark=nemotron35&platform=mlx",
+      "from_post": "2116572096377594065",
+      "short_url": "https://t.co/JGj1ZMmFpj",
+      "title": "mlx.fast — Nemotron 3.5 Lightning, faster with speculative decode"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "local-models"
+  ],
+  "keywords": [
+    "tensorfold",
+    "qwen3-8",
+    "dgx-spark",
+    "mlx",
+    "inference-optimization"
+  ],
+  "relevance": "Big DGX Spark speedups for a ~30B model.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV-S0LCXwAAuE0J.jpg",
+      "from_post": "2116572096377594065",
+      "description": "Banner: \"Qwen 3.8 27B TensorFold runs 60.0% faster on Mac\" with decode and prefill tok/s figures, in partnership with TensorFold.",
+      "thumbnail": "posts/2026/10/31/2116572096377594065/media/0.webp",
+      "kind": "screenshot",
+      "ocr_text": "Qwen 3.8 27B TensorFold runs 60.0% faster on Mac.\ndecode 30.6 → 60.9 tok/s · prefill 1163.9 tok/s\ncuda.fast 158.6% · mlx.fast 60%\nIn partnership with TensorFold"
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV-S8wsW8AAW46g.jpg",
+      "from_post": "2116572096377594065",
+      "description": "Banner: \"Qwen 3.8 27B TensorFold runs 158.6% faster on DGX Spark\", decode 13.7 to 41.5 tok/s.",
+      "thumbnail": "posts/2026/10/31/2116572096377594065/media/1.webp",
+      "kind": "screenshot",
+      "ocr_text": "Qwen 3.8 27B TensorFold runs 158.6% faster on DGX Spark.\ndecode 13.7 → 41.5 tok/s · prefill 1701.8 tok/s\ncuda.fast 158.6% · mlx.fast 60%\nIn partnership with TensorFold"
+    }
+  ]
+}

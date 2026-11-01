@@ -1,0 +1,62 @@
+{
+  "id": "2116733484316369047",
+  "permalink": "https://x.com/vintcessun/status/2116733484316369047",
+  "author": {
+    "name": "恒星sun",
+    "handle": "@vintcessun",
+    "profile_url": "https://x.com/vintcessun"
+  },
+  "posted_at": "2026-11-01T03:26:04Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**恒星sun ([@vintcessun](https://x.com/vintcessun/status/2116733484316369047))** breaks down NVIDIA's *Nemotron 3.5 Super and Lightning* report ([arXiv 2610.38095](https://arxiv.org/abs/2610.38095)): Super is 120B/12B active and Lightning 30B/3B, both hybrid Mamba-Transformer MoE; Super reports 51.78% on SWE-bench Pro and parallel agents with self-verification lift Terminal-Bench 2.1 from 62.7% to 71.9%, though he cautions real value depends on hardware and load.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.38095",
+      "from_post": "2116733484316369047",
+      "short_url": "https://t.co/0rbQbjDgXO",
+      "title": "Nemotron 3.5 Super and Lightning: Open, Efficient..."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "local-models"
+  ],
+  "keywords": [
+    "nemotron-3-5-super",
+    "nemotron-3-5-lightning",
+    "mamba-transformer",
+    "moe",
+    "technical-report"
+  ],
+  "relevance": "Both target model sizes for DGX Spark.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HWAl4E3bUAAwW1i.png",
+      "from_post": "2116733484316369047",
+      "description": "Bar charts comparing Nemotron 3.5 Super/Ultra against Qwen, DeepSeek, GLM and other open models across agentic, coding, math and long-context benchmarks, plus a GB200 max-throughput chart showing roughly 2.3x for Nemotron 3.5 Super.",
+      "thumbnail": "posts/2026/11/01/2116733484316369047/media/0.webp",
+      "kind": "chart"
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HWAl4naaAAA_9sP.png",
+      "from_post": "2116733484316369047",
+      "description": "Table 3 of a Lightning 3.5 report: research ablations with 10/20/30% Indic data shares raising the four-benchmark mean from 45.5 to 63.1/64.6/65.6.",
+      "thumbnail": "posts/2026/11/01/2116733484316369047/media/1.webp",
+      "kind": "chart",
+      "ocr_text": "Table 3 : Lightning 3.5 research ablations. Each ablation uses a 200B-token budget. The reported mean\ncovers MILU, MMLU-Pro, ARC-Challenge, and GSM8K. The base checkpoint is shown for reference; the\nfixed-budget comparison covers the three ablation runs.\nCheckpoint Indic share Four-benchmark mean\nBase reference 45.5\nMixture ablation 10% 63.1\nMixture ablation 20% 64.6\nMixture ablation 30% 65.6"
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HWAl4v0bwAEff2P.png",
+      "from_post": "2116733484316369047",
+      "description": "\"Task performance\" bar chart of reported deltas: MILU 1.5 +7.63, GPQA +11.66, MATH500 +4.65, MBPP +3.28, WMT24++ +13.69, IFEval 1.5 -2.04.",
+      "thumbnail": "posts/2026/11/01/2116733484316369047/media/2.webp",
+      "kind": "chart",
+      "ocr_text": "Task performance\nReported benchmark metrics; higher is better\nMILU 1.5 +7.63 | GPQA +11.66 | MATH500 +4.65 | MBPP +3.28 | WMT24++ +13.69 | IFEval 1.5 -2.04"
+    }
+  ]
+}

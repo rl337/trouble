@@ -1,0 +1,45 @@
+{
+  "id": "2116723275682443758",
+  "permalink": "https://x.com/QwenAIFans/status/2116723275682443758",
+  "author": {
+    "name": "Qwen AI Fans",
+    "handle": "@QwenAIFans",
+    "profile_url": "https://x.com/QwenAIFans"
+  },
+  "posted_at": "2026-11-01T02:45:30Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**Qwen AI Fans ([@QwenAIFans](https://x.com/QwenAIFans/status/2116723275682443758))** shares **Neuron Studio**, which runs Qwen3.5-4B in the browser and lets you steer chosen neurons by layer and strength, comparing original and steered outputs side by side with no server ([webml-community/neuron-studio](https://huggingface.co/spaces/webml-community/neuron-studio)).",
+  "referenced_urls": [
+    {
+      "url": "https://huggingface.co/spaces/webml-community/neuron-studio",
+      "from_post": "2116723275682443758",
+      "short_url": "https://t.co/qnMwuhbRik",
+      "title": "Neuron Studio - a Hugging Face Space by webml-community"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-cognition",
+    "local-models"
+  ],
+  "keywords": [
+    "neuron-studio",
+    "activation-steering",
+    "interpretability",
+    "webgpu",
+    "qwen3-5"
+  ],
+  "relevance": "Hands-on activation steering locally.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HWAchWUakAAjYdF.jpg",
+      "from_post": "2116723275682443758",
+      "description": "Title card \"Neuron Studio: edit neuron interventions to steer language model responses\" on a purple gradient.",
+      "thumbnail": "posts/2026/11/01/2116723275682443758/media/0.webp",
+      "kind": "other"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": "2116754564237942798",
+  "permalink": "https://x.com/mingganggao/status/2116754564237942798",
+  "author": {
+    "name": "MingGang Gao · AI Agent 工程",
+    "handle": "@mingganggao",
+    "profile_url": "https://x.com/mingganggao"
+  },
+  "posted_at": "2026-11-01T04:49:50Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**MingGang Gao · AI Agent 工程 ([@mingganggao](https://x.com/mingganggao/status/2116754564237942798))** reviews **Octomind**, an open coding-agent runtime as a single binary with any model and native MCP, running interactive, piped or as a daemon; it self-reports 24 of 25 real PR tasks and replaces approval prompts with TOML guardrails, an approach he endorses as policy-as-code ([Muvon/octomind](https://github.com/Muvon/octomind)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/Muvon/octomind",
+      "from_post": "2116754564237942798",
+      "short_url": "https://t.co/qttlTKYBxV",
+      "title": "GitHub - Muvon/octomind: Open-source AI coding agent and agent runtime: one binary, any model, MCP-native. Runs in terminal, CI, or as a daemon."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "octomind",
+    "agent-runtime",
+    "mcp",
+    "guardrail",
+    "policy-as-code"
+  ],
+  "relevance": "Policy-as-code agent runtime.",
+  "media": []
+}

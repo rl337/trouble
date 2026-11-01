@@ -1,0 +1,34 @@
+{
+  "id": "2116716373762277766",
+  "permalink": "https://x.com/yZzzzzzzc/status/2116716373762277766",
+  "author": {
+    "name": "尧米Echo",
+    "handle": "@yZzzzzzzc",
+    "profile_url": "https://x.com/yZzzzzzzc"
+  },
+  "posted_at": "2026-11-01T02:18:04Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**尧米Echo ([@yZzzzzzzc](https://x.com/yZzzzzzzc/status/2116716373762277766))** recommends **LCU**, which decouples Codex's computer-use ability for use in Claude Code, Pi and other harnesses (reading windows, clicking, typing, Chrome), with per-app authorization; it requires the ChatGPT desktop app and supports Apple Silicon and Linux ([amontlabs/lcu](https://github.com/amontlabs/lcu)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/amontlabs/lcu",
+      "from_post": "2116716373762277766",
+      "short_url": "https://t.co/AMB4fPPqXG",
+      "title": "GitHub - amontlabs/lcu: Codex computer use, decoupled from the app, for usage inside any harness."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "lcu",
+    "computer-use",
+    "codex",
+    "harness"
+  ],
+  "relevance": "Portable computer use across harnesses.",
+  "media": []
+}

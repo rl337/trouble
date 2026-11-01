@@ -1,0 +1,41 @@
+{
+  "id": "2116764066228429171",
+  "permalink": "https://x.com/JackdeS11/status/2116764066228429171",
+  "author": {
+    "name": "Daisuke Majima (MLBoy)",
+    "handle": "@JackdeS11",
+    "profile_url": "https://x.com/JackdeS11"
+  },
+  "posted_at": "2026-11-01T05:27:35Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**Daisuke Majima (MLBoy) ([@JackdeS11](https://x.com/JackdeS11/status/2116764066228429171))** converted Meta's **Muse-Glimmer-30B** to LiteRT-LM; on an M4 Max Mac it read a timesheet and computed weekly pay with overtime in 29 s ([litert-community/Muse-Glimmer-30B-LiteRT](https://huggingface.co/litert-community/Muse-Glimmer-30B-LiteRT)).",
+  "referenced_urls": [
+    {
+      "url": "https://huggingface.co/litert-community/Muse-Glimmer-30B-LiteRT",
+      "from_post": "2116764066228429171",
+      "short_url": "https://t.co/kuTUzqXQa8",
+      "title": "litert-community/Muse-Glimmer-30B-LiteRT · Hugging Face"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "local-models"
+  ],
+  "keywords": [
+    "muse-glimmer-30b",
+    "litert-lm",
+    "multimodal",
+    "on-device"
+  ],
+  "relevance": "Local ~30B multimodal model.",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2116764045986635776/img/frHIpFQ96kdlWAcJ.jpg",
+      "from_post": "2116764066228429171",
+      "description": "Sped-up clip of the model reading a timesheet on a Mac."
+    }
+  ]
+}

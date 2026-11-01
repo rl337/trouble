@@ -1,0 +1,36 @@
+{
+  "id": "2116475517746684196",
+  "permalink": "https://x.com/_himorishige/status/2116475517746684196",
+  "author": {
+    "name": "HiMorishige",
+    "handle": "@_himorishige",
+    "profile_url": "https://x.com/_himorishige"
+  },
+  "posted_at": "2026-10-31T10:21:00Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**HiMorishige ([@_himorishige](https://x.com/_himorishige/status/2116475517746684196))** reports **NVIDIA Sync 0.148.0** adds a beta Model Launcher that installs a model (default Qwen3.8 27B NVFP4), vLLM and the OpenCode agent on DGX Spark and starts/stops them from a GUI across 1–4 units; he warns LAN exposure is unencrypted HTTP ([NVIDIA Sync docs](https://docs.nvidia.com/sync/latest/models.html)).",
+  "referenced_urls": [
+    {
+      "url": "https://docs.nvidia.com/sync/latest/models.html",
+      "from_post": "2116475517746684196",
+      "short_url": "https://t.co/IGKqYQChl3",
+      "title": "Model Launcher — NVIDIA Sync User Guide"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "local-models",
+    "harness-dev"
+  ],
+  "keywords": [
+    "nvidia-sync",
+    "dgx-spark",
+    "vllm",
+    "opencode",
+    "nvfp4"
+  ],
+  "relevance": "One-click local model plus coding agent on DGX Spark.",
+  "media": []
+}

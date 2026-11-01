@@ -8,7 +8,7 @@
   },
   "posted_at": "2026-10-30T12:33:28Z",
   "collected_at": "2026-10-31T14:56:39Z",
-  "updated_at": "2026-10-31T14:56:39Z",
+  "updated_at": "2026-11-01T15:41:04Z",
   "thread": [
     {
       "id": "2116146473150849354",
@@ -45,9 +45,15 @@
       "permalink": "https://x.com/higana_yogana/status/2116146491857547567",
       "posted_at": "2026-10-30T12:33:34Z",
       "position": 6
+    },
+    {
+      "id": "2116757548850442254",
+      "permalink": "https://x.com/higana_yogana/status/2116757548850442254",
+      "posted_at": "2026-10-31T05:01:41Z",
+      "position": 7
     }
   ],
-  "summary_md": "**ヒガナヨガナ ([@higana_yogana](https://x.com/higana_yogana/status/2116146468868469215))** reviews **snapref** in a 7-part thread, a node and LoRA inspired by Anima-Ref-Adapter that references only a character's features: options include a speed/accuracy toggle, char vs char+style modes, Spectrum and Turbo LoRA support and wide negative strength (e.g. -1.0 to force monochrome); prompts, not ref_caption, carry artist tags, and it combines with CharRef-LLLite ControlNet though prompting is needed to use shapes ([0ppxnhximxr/snapref-v1b](https://huggingface.co/0ppxnhximxr/snapref-v1b)).",
+  "summary_md": "**ヒガナヨガナ ([@higana_yogana](https://x.com/higana_yogana/status/2116146468868469215))** reviews **snapref** in an 8-part thread, a node and LoRA inspired by Anima-Ref-Adapter that references only a character's features: options include a speed/accuracy toggle, char vs char+style modes, Spectrum and Turbo LoRA support and wide negative strength (e.g. -1.0 to force monochrome); prompts, not ref_caption, carry artist tags, and it combines with CharRef-LLLite ControlNet though prompting is needed to use shapes ([0ppxnhximxr/snapref-v1b](https://huggingface.co/0ppxnhximxr/snapref-v1b)). A later follow-up adds that Spectrum requires turning ref_guidance_on off, and that SnapRef v2a preview builds (pre1 and pre2) are now out, linking to the author's own impressions of pre2.",
   "referenced_urls": [
     {
       "url": "https://huggingface.co/0ppxnhximxr/snapref-v1b",

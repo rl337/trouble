@@ -1,0 +1,35 @@
+{
+  "id": "2116721293081063743",
+  "permalink": "https://x.com/Apurv35904761/status/2116721293081063743",
+  "author": {
+    "name": "Apurv Sheldiya",
+    "handle": "@Apurv35904761",
+    "profile_url": "https://x.com/Apurv35904761"
+  },
+  "posted_at": "2026-11-01T02:37:37Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**Apurv Sheldiya ([@Apurv35904761](https://x.com/Apurv35904761/status/2116721293081063743))** flags **Clover-35B-A3B-Preview**, a diffusion LLM claiming 680 tok/s on GB300 and 73.6 on SWE-bench Verified, pending independent tests ([Clover-35B-A3B-Preview blog](https://huggingface.co/blog/Diffuspace/clover-35b-a3b-preview)).",
+  "referenced_urls": [
+    {
+      "url": "https://huggingface.co/blog/Diffuspace/clover-35b-a3b-preview",
+      "from_post": "2116721293081063743",
+      "short_url": "https://t.co/UmmyDjTwC0",
+      "title": "Clover\\-35B\\-A3B\\-Preview: A New Way for Intelligence"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "local-models"
+  ],
+  "keywords": [
+    "clover",
+    "diffusion-llm",
+    "35b",
+    "moe",
+    "swe-bench"
+  ],
+  "relevance": "Fast ~30B diffusion LLM for agents.",
+  "media": []
+}

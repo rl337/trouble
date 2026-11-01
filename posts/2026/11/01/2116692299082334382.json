@@ -1,0 +1,39 @@
+{
+  "id": "2116692299082334382",
+  "permalink": "https://x.com/githubaitrend/status/2116692299082334382",
+  "author": {
+    "name": "Github AIトレンド",
+    "handle": "@githubaitrend",
+    "profile_url": "https://x.com/githubaitrend"
+  },
+  "posted_at": "2026-11-01T00:42:24Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**Github AIトレンド ([@githubaitrend](https://x.com/githubaitrend/status/2116692299082334382))** flags trending **Treg** from superdesigndev, an 'OpenRouter for agent tools' that exposes many external and team APIs/CLIs through one URL and token while managing credentials ([superdesigndev/treg](https://github.com/superdesigndev/treg)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/superdesigndev/treg",
+      "from_post": "2116692299082334382",
+      "short_url": "https://t.co/lI6WTBWSPw",
+      "title": "GitHub - superdesigndev/treg: OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn"
+    }
+  ],
+  "hashtags": [
+    "MCP",
+    "AIエージェント",
+    "AI",
+    "GitHub"
+  ],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "treg",
+    "mcp",
+    "tool-gateway",
+    "credential-management"
+  ],
+  "relevance": "Tool gateway for agents.",
+  "media": []
+}

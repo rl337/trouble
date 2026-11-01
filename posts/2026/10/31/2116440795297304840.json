@@ -1,0 +1,35 @@
+{
+  "id": "2116440795297304840",
+  "permalink": "https://x.com/plattypuus/status/2116440795297304840",
+  "author": {
+    "name": "タイド",
+    "handle": "@plattypuus",
+    "profile_url": "https://x.com/plattypuus"
+  },
+  "posted_at": "2026-10-31T08:03:01Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**タイド ([@plattypuus](https://x.com/plattypuus/status/2116440795297304840))** describes **3D-lab-skills**, a skill set where an agent picks reference images, builds models via Three.js or Blender MCP, adds motion and interaction in Three.js and previews on localhost ([LumosLab-Innovation/3D-lab-skills](https://github.com/LumosLab-Innovation/3D-lab-skills)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/LumosLab-Innovation/3D-lab-skills",
+      "from_post": "2116440795297304840",
+      "short_url": "https://t.co/1rea65JrSp",
+      "title": "GitHub - LumosLab-Innovation/3D-lab-skills: Image-approved, interactive 3D for AI coding agents. Author models in Three.js or Blender MCP; animate both with Three.js. One-command skills for Codex, Claude Code, Grok Build, OpenCode and OMP."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "3d-modeling",
+    "three-js",
+    "blender",
+    "mcp",
+    "skill"
+  ],
+  "relevance": "Agentic 3D modeling and interactive scenes.",
+  "media": []
+}

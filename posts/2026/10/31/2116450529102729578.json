@@ -1,0 +1,35 @@
+{
+  "id": "2116450529102729578",
+  "permalink": "https://x.com/Manojkumar2257/status/2116450529102729578",
+  "author": {
+    "name": "Manoj | The AI Dude",
+    "handle": "@Manojkumar2257",
+    "profile_url": "https://x.com/Manojkumar2257"
+  },
+  "posted_at": "2026-10-31T08:41:42Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**Manoj | The AI Dude ([@Manojkumar2257](https://x.com/Manojkumar2257/status/2116450529102729578))** walks through **video-editor-skills** by Aparicio Junior, 12 Claude Code skills that make DaVinci Resolve a first-pass editor: it cuts retakes and dead air, keeps B-roll, scores music, writes captions and builds the timeline, logging feedback to CLAUDE.md; it needs Resolve Studio, ffmpeg and a timestamped speech-to-text API and is CC BY-NC ([appariciojunior/video-editor-skills](https://github.com/appariciojunior/video-editor-skills)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/appariciojunior/video-editor-skills",
+      "from_post": "2116450529102729578",
+      "short_url": "https://t.co/4Wrg2JQP1g",
+      "title": "GitHub - appariciojunior/video-editor-skills: Skills that teach Claude Code to be a first-pass video editor in DaVinci Resolve: transcript cuts, vlog pacing, B-roll, music & SFX, clean captions, motion graphics, YouTube export. CC BY-NC 4.0 (no commercial use)."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "davinci-resolve",
+    "video-editing",
+    "claude-code",
+    "skill",
+    "rough-cut"
+  ],
+  "relevance": "Agentic rough-cut video editing.",
+  "media": []
+}

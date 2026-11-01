@@ -1,0 +1,37 @@
+{
+  "id": "2116665395285520869",
+  "permalink": "https://x.com/qcfaya/status/2116665395285520869",
+  "author": {
+    "name": "Qcfaya",
+    "handle": "@qcfaya",
+    "profile_url": "https://x.com/qcfaya"
+  },
+  "posted_at": "2026-10-31T22:55:30Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**Qcfaya ([@qcfaya](https://x.com/qcfaya/status/2116665395285520869))** plans to install an unofficial **ComfyUI-Agent** that works with small local models like Gemma 4 E4B or Qwen ([CrazyDashTool/ComfyUI-Agent](https://github.com/CrazyDashTool/ComfyUI-Agent)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/CrazyDashTool/ComfyUI-Agent",
+      "from_post": "2116665395285520869",
+      "short_url": "https://t.co/Ws7YazFXYS",
+      "title": "GitHub - CrazyDashTool/ComfyUI-Agent: The different version of comfy agent on cloud.comfy.org"
+    }
+  ],
+  "hashtags": [
+    "Comfy"
+  ],
+  "topics": [
+    "agentic-media",
+    "local-models"
+  ],
+  "keywords": [
+    "comfyui",
+    "agent",
+    "gemma-4",
+    "local-model"
+  ],
+  "relevance": "Local-model agent for ComfyUI.",
+  "media": []
+}

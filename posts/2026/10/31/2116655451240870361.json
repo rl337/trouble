@@ -1,0 +1,63 @@
+{
+  "id": "2116655451240870361",
+  "permalink": "https://x.com/crazyMLguy/status/2116655451240870361",
+  "author": {
+    "name": "Crazy ML",
+    "handle": "@crazyMLguy",
+    "profile_url": "https://x.com/crazyMLguy"
+  },
+  "posted_at": "2026-10-31T22:15:59Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**Crazy ML ([@crazyMLguy](https://x.com/crazyMLguy/status/2116655451240870361))** summarizes **VibeGame** by Hu et al. ([arXiv 2610.33106](https://arxiv.org/abs/2610.33106), [tettethu/VibeGame](https://github.com/tettethu/VibeGame), [project](https://vibegame.tettet.org)), an eight-agent team with an AI-native engine that builds, tests and reviews 2D games from prompts and saves reusable templates, scoring 72.99 vs 68.80 for a Codex baseline.",
+  "referenced_urls": [
+    {
+      "url": "https://www.liblib.art/",
+      "from_post": "2116655451240870361",
+      "short_url": "https://t.co/bSJFnh35Xu",
+      "title": "LiblibAI-哩布哩布AI - 国内极具影响力的AI创作平台"
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.33106",
+      "from_post": "2116655451240870361",
+      "short_url": "https://t.co/cAegWciDqN",
+      "title": "VibeGame: Prompt-to-Game Development with AI-Native Engine and Self-Evolving Adversarial Agent Team"
+    },
+    {
+      "url": "https://github.com/tettethu/VibeGame",
+      "from_post": "2116655451240870361",
+      "short_url": "https://t.co/Ivgmr4zxm7",
+      "title": "GitHub - tettethu/VibeGame: VibeGame: Vibe Your Dream Game -- An open-source self-evolving multi-agent framework with an AI-Native game engine that turns your natural language into a fully playable 2D web game and edit it any way you want, built on Claude Code & Codex. · GitHub"
+    },
+    {
+      "url": "https://vibegame.tettet.org",
+      "from_post": "2116655451240870361",
+      "short_url": "https://t.co/U91xbKE2Sw",
+      "title": "VibeGame"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-media",
+    "agentic-cognition"
+  ],
+  "keywords": [
+    "vibegame",
+    "game-development",
+    "multi-agent",
+    "self-evolution",
+    "game-engine"
+  ],
+  "relevance": "Self-evolving multi-agent game creation.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV_e5ipbMAAIY0g.png",
+      "from_post": "2116655451240870361",
+      "description": "First page of the VibeGame arXiv paper (Nanjing University PRLab, S-Lab NTU, Liblib.ai) with a collage of 2D games created and edited from prompts.",
+      "thumbnail": "posts/2026/10/31/2116655451240870361/media/0.webp",
+      "kind": "paper"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "2116731920226943324",
+  "permalink": "https://x.com/techleadcorner/status/2116731920226943324",
+  "author": {
+    "name": "Tech Lead Corner",
+    "handle": "@techleadcorner",
+    "profile_url": "https://x.com/techleadcorner"
+  },
+  "posted_at": "2026-11-01T03:19:51Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**Tech Lead Corner ([@techleadcorner](https://x.com/techleadcorner/status/2116731920226943324))** introduces **OneCLI**, an open-source sandboxed harness giving each teammate an agent while a proxy injects secrets on the way out so agents never hold them ([onecli/onecli](https://github.com/onecli/onecli)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/onecli/onecli",
+      "from_post": "2116731920226943324",
+      "short_url": "https://t.co/mhZEpwXI8y",
+      "title": "GitHub - onecli/onecli: Open-source sandboxed agent harness for teams. Giving every employee a secured personal agent."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "onecli",
+    "secret-management",
+    "sandbox",
+    "harness"
+  ],
+  "relevance": "Secret isolation for team agents.",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2116731773740789760/img/7yvPcaIJtRDwnfAO.jpg",
+      "from_post": "2116731920226943324",
+      "description": "Demo of OneCLI's secret-injecting agent harness."
+    }
+  ]
+}

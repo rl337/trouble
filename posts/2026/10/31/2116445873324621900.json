@@ -1,0 +1,35 @@
+{
+  "id": "2116445873324621900",
+  "permalink": "https://x.com/Apurv35904761/status/2116445873324621900",
+  "author": {
+    "name": "Apurv Sheldiya",
+    "handle": "@Apurv35904761",
+    "profile_url": "https://x.com/Apurv35904761"
+  },
+  "posted_at": "2026-10-31T08:23:12Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**Apurv Sheldiya ([@Apurv35904761](https://x.com/Apurv35904761/status/2116445873324621900))** summarizes *Prefix Executability* by Rezaeian et al. ([arXiv 2610.40444](https://arxiv.org/abs/2610.40444)), which scores whether every prefix of an agent's tool-call trajectory remains executable under schemas, preconditions and data dependencies rather than only final success.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.40444",
+      "from_post": "2116445873324621900",
+      "short_url": "https://t.co/UMdMHaEmHG",
+      "title": "Prefix Executability: Evaluating Tool-Using Agents Beyond Final Success"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "prefix-executability",
+    "tool-use",
+    "evaluation",
+    "trajectory",
+    "benchmark"
+  ],
+  "relevance": "Better evaluation of tool-using agents.",
+  "media": []
+}

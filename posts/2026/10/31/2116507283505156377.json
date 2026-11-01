@@ -1,0 +1,42 @@
+{
+  "id": "2116507283505156377",
+  "permalink": "https://x.com/oaichu95/status/2116507283505156377",
+  "author": {
+    "name": "Oai Chu",
+    "handle": "@oaichu95",
+    "profile_url": "https://x.com/oaichu95"
+  },
+  "posted_at": "2026-10-31T12:27:13Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**Oai Chu ([@oaichu95](https://x.com/oaichu95/status/2116507283505156377))** shares **video-to-game**, an MIT skill for Claude Code, Codex and Cursor that turns a short gameplay video into a playable Three.js browser game; it built 31 games at about $6 each with assets generated on fal ([lovisdotio/video-to-game](https://github.com/lovisdotio/video-to-game)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/lovisdotio/video-to-game",
+      "from_post": "2116507283505156377",
+      "short_url": "https://t.co/iOuMUYHKr6",
+      "title": "GitHub - lovisdotio/video-to-game: Skills for coding agents: turn a gameplay video into a playable Three.js game, every asset generated on fal, checked side by side and playtested"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "video-to-game",
+    "three-js",
+    "skill",
+    "game-generation",
+    "fal"
+  ],
+  "relevance": "Agent skill turning video into games.",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2116507040113975297/img/xsrg3Y-aQSe3T0Li.jpg",
+      "from_post": "2116507283505156377",
+      "description": "Demo video of games generated from gameplay footage."
+    }
+  ]
+}

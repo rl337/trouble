@@ -1,0 +1,43 @@
+{
+  "id": "2116780708366848434",
+  "permalink": "https://x.com/warrior_naruto/status/2116780708366848434",
+  "author": {
+    "name": "solo_warrior_naruto",
+    "handle": "@warrior_naruto",
+    "profile_url": "https://x.com/warrior_naruto"
+  },
+  "posted_at": "2026-11-01T06:33:43Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**solo\\_warrior\\_naruto ([@warrior_naruto](https://x.com/warrior_naruto/status/2116780708366848434))** reports **Codex CLI 0.165.0** enables memory v2 by default on fresh profiles and can import memories from external agents, making repo notes portable ([openai/codex releases](https://github.com/openai/codex/releases)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/openai/codex/releases",
+      "from_post": "2116780708366848434",
+      "short_url": "https://t.co/3oYToz74xr",
+      "title": "Releases · openai/codex"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "codex-cli",
+    "agent-memory",
+    "memory-import",
+    "release"
+  ],
+  "relevance": "Portable agent memory.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HWBQxoyWQAAo2uc.jpg",
+      "from_post": "2116780708366848434",
+      "description": "Illustration of a robot carrying a \"memory\" notebook from an old chat to a new chat.",
+      "thumbnail": "posts/2026/11/01/2116780708366848434/media/0.webp",
+      "kind": "other"
+    }
+  ]
+}

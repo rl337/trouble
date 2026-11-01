@@ -1,0 +1,35 @@
+{
+  "id": "2116694139081482375",
+  "permalink": "https://x.com/ahmadrishii/status/2116694139081482375",
+  "author": {
+    "name": "Ahmad Rishi",
+    "handle": "@ahmadrishii",
+    "profile_url": "https://x.com/ahmadrishii"
+  },
+  "posted_at": "2026-11-01T00:49:43Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**Ahmad Rishi ([@ahmadrishii](https://x.com/ahmadrishii/status/2116694139081482375))** built **Mahoraga**, which measures agent skills by replaying shipped tickets blind against a bare-model baseline and keeping an edit only if it wins on held-out tickets ([ahmadrishi/agentic-mahoraga](https://github.com/ahmadrishi/agentic-mahoraga)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/ahmadrishi/agentic-mahoraga",
+      "from_post": "2116694139081482375",
+      "short_url": "https://t.co/aWooXcH7KE",
+      "title": "GitHub - ahmadrishi/agentic-mahoraga"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "mahoraga",
+    "skill",
+    "evaluation",
+    "held-out",
+    "coding-agent"
+  ],
+  "relevance": "Empirical evaluation of skills.",
+  "media": []
+}

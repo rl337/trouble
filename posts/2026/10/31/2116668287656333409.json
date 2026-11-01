@@ -1,0 +1,48 @@
+{
+  "id": "2116668287656333409",
+  "permalink": "https://x.com/Machinedelusion/status/2116668287656333409",
+  "author": {
+    "name": "Machine Delusions",
+    "handle": "@Machinedelusion",
+    "profile_url": "https://x.com/Machinedelusion"
+  },
+  "posted_at": "2026-10-31T23:07:00Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**Machine Delusions ([@Machinedelusion](https://x.com/Machinedelusion/status/2116668287656333409))** highlights Tencent's Apache-2.0 **WeVisCut**, a 9B tool-using agent that turns a script into a multi-minute edited video (shots, voiceover, footage, music) and checks and fixes its own cut, reportedly matching Claude Opus 5 at about 33x fewer tokens ([Tencent/WeVisCut](https://github.com/Tencent/WeVisCut), [project page](https://tencent.github.io/WeVisCut/)).",
+  "referenced_urls": [
+    {
+      "url": "https://tencent.github.io/WeVisCut/",
+      "from_post": "2116668287656333409",
+      "short_url": "https://t.co/L0cKhgv3Pk",
+      "title": "WeVisCut: The Whole Editing Room in One Agent — From Narration to Long-Form Video"
+    },
+    {
+      "url": "https://github.com/Tencent/WeVisCut",
+      "from_post": "2116668287656333409",
+      "short_url": "https://t.co/sEyIV1pNrl",
+      "title": "GitHub - Tencent/WeVisCut: WeVisCut is a 9B tool-using agent that turns knowledge articles and narration scripts into multi-minute videos through planning, asset retrieval, editing, inspection, and repair. Built on Qwen3.5, it operates in a stateful 12-tool workflow and includes an editable Studio r"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "weviscut",
+    "video-editing",
+    "9b",
+    "tool-use",
+    "long-form-video"
+  ],
+  "relevance": "Small open agent for long-form video editing.",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2116344816980168704/img/G0Tlh61w62peHjCg.jpg",
+      "from_post": "2116668287656333409",
+      "description": "Sample long-form video produced by WeVisCut."
+    }
+  ]
+}

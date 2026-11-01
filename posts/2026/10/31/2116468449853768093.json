@@ -1,0 +1,35 @@
+{
+  "id": "2116468449853768093",
+  "permalink": "https://x.com/IfiflyL95010/status/2116468449853768093",
+  "author": {
+    "name": "ififly li",
+    "handle": "@IfiflyL95010",
+    "profile_url": "https://x.com/IfiflyL95010"
+  },
+  "posted_at": "2026-10-31T09:52:55Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**ififly li ([@IfiflyL95010](https://x.com/IfiflyL95010/status/2116468449853768093))** shares **memctl**, a Go implementation of Cognition's agent-memory-repo idea that stores agent memory as Markdown in your own Git repo with safe writes, hooks and MCP for Claude Code, Codex, Grok and pi, and a built-in web UI ([gray0128/memctl](https://github.com/gray0128/memctl)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/gray0128/memctl",
+      "from_post": "2116468449853768093",
+      "short_url": "https://t.co/ecm0SXb7jE",
+      "title": "GitHub - gray0128/memctl: 基于 https://cognition.com/agent-memory-repo 的 go 实现"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "memctl",
+    "agent-memory",
+    "git",
+    "mcp",
+    "markdown"
+  ],
+  "relevance": "Git-backed persistent memory for agents.",
+  "media": []
+}

@@ -1,0 +1,55 @@
+{
+  "id": "2116562107529630104",
+  "permalink": "https://x.com/BlinkDL_AI/status/2116562107529630104",
+  "author": {
+    "name": "BlinkDL",
+    "handle": "@BlinkDL_AI",
+    "profile_url": "https://x.com/BlinkDL_AI"
+  },
+  "posted_at": "2026-10-31T16:05:04Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**BlinkDL ([@BlinkDL_AI](https://x.com/BlinkDL_AI/status/2116562107529630104))** releases **RWKV-7 G1L**, a pure-RNN model update, with a demo, weights and a directory of 46 agentic RWKV projects ([rwkv7-g1 weights](https://huggingface.co/BlinkDL/rwkv7-g1), [agent project directory](https://agent.objects.rwkvos.com/en), [rwkv.com](https://www.rwkv.com/)).",
+  "referenced_urls": [
+    {
+      "url": "https://www.rwkv.com/",
+      "from_post": "2116562107529630104",
+      "short_url": "https://t.co/CzlHKpt0wU",
+      "title": "RWKV Language Model"
+    },
+    {
+      "url": "https://huggingface.co/BlinkDL/rwkv7-g1",
+      "from_post": "2116562107529630104",
+      "short_url": "https://t.co/oJxpuJoeQD",
+      "title": "BlinkDL/rwkv7-g1 · Hugging Face"
+    },
+    {
+      "url": "https://agent.objects.rwkvos.com/en",
+      "from_post": "2116562107529630104",
+      "short_url": "https://t.co/hjFDpSdF4L",
+      "title": "RWKV Agent Project Directory"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "local-models"
+  ],
+  "keywords": [
+    "rwkv-7",
+    "rnn",
+    "open-weight",
+    "agent-directory"
+  ],
+  "relevance": "Efficient RNN model family for local agents.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV-J1N3awAACtk0.jpg",
+      "from_post": "2116562107529630104",
+      "description": "Uncheatable-eval leaderboard tables comparing RWKV-7 G1L with Qwen, Gemma, Mistral and other base models by compression score across code, arXiv, news and Wikipedia, with a note that Qwen 3.5 still leads on code and arXiv.",
+      "thumbnail": "posts/2026/10/31/2116562107529630104/media/0.webp",
+      "kind": "chart"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": "2116654186624598199",
+  "permalink": "https://x.com/yourtowhid/status/2116654186624598199",
+  "author": {
+    "name": "Towhid Khan",
+    "handle": "@yourtowhid",
+    "profile_url": "https://x.com/yourtowhid"
+  },
+  "posted_at": "2026-10-31T22:10:58Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**Towhid Khan ([@yourtowhid](https://x.com/yourtowhid/status/2116654186624598199))** highlights NVIDIA **Nemotron 3.5 Transcribe**, a 34B MoE with 4.3B active (~21.6 GB NVFP4) producing speaker-tagged, word-timestamped transcripts of hour-long audio in 40 languages offline on one RTX 5090, via vLLM or GGML ([nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B](https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B)).",
+  "referenced_urls": [
+    {
+      "url": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B",
+      "from_post": "2116654186624598199",
+      "short_url": "https://t.co/DxGrKhOsxo",
+      "title": "nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B · Hugging Face"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "local-models"
+  ],
+  "keywords": [
+    "nemotron-3-5-transcribe",
+    "speech-recognition",
+    "diarization",
+    "nvfp4",
+    "moe"
+  ],
+  "relevance": "Local speech model for media pipelines.",
+  "media": []
+}

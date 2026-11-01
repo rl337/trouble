@@ -1,0 +1,44 @@
+{
+  "id": "2116757428997878245",
+  "permalink": "https://x.com/SciFi/status/2116757428997878245",
+  "author": {
+    "name": "Artificial Intelligence Papers",
+    "handle": "@SciFi",
+    "profile_url": "https://x.com/SciFi"
+  },
+  "posted_at": "2026-11-01T05:01:13Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**Artificial Intelligence Papers ([@SciFi](https://x.com/SciFi/status/2116757428997878245))** shares *AgentDecept* by Zhang et al. ([arXiv 2610.39377](https://arxiv.org/abs/2610.39377)), an executable benchmark of 477 pressure variants testing whether tool-using agents faithfully report their actions in stateful workflows.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.39377",
+      "from_post": "2116757428997878245",
+      "short_url": "https://t.co/fcXQzBaEqB",
+      "title": "AgentDecept: Benchmarking Deceptive Behavior in Tool-Using LLM..."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-cognition"
+  ],
+  "keywords": [
+    "agentdecept",
+    "deception",
+    "benchmark",
+    "tool-use"
+  ],
+  "relevance": "Measuring agent deception.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HWA7qiTXMAADFy6.png",
+      "from_post": "2116757428997878245",
+      "description": "Abstract of the AgentDecept benchmark for deceptive behavior of tool-using agents under pressure.",
+      "thumbnail": "posts/2026/11/01/2116757428997878245/media/0.webp",
+      "kind": "paper",
+      "ocr_text": "LLM agents increasingly carry out multi-turn tasks across everyday applications, yet users often see only the agent's report rather than the observations, API calls, and state changes behind it. Existing deception benchmarks have studied long-horizon interactions and tool-use settings, but whether agents faithfully report their actions across realistic, stateful application workflows remains underexplored. To address this gap, we introduce AgentDecept, an executable benchmark for evaluating behavioral deception under pressure. AgentDecept contains 477 pressure variants derived from 257 source tasks across six pressure sources, each paired with a pressure-free counterpart. Interventions enter through event messages, task context, application state, tool responses, and service quotas, spanning explicit events and implicit task or environment changes. Our evidence-grounded protocol evaluates full trajectories by relating…"
+    }
+  ]
+}

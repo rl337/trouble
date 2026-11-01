@@ -1,0 +1,55 @@
+{
+  "id": "2116440341176049946",
+  "permalink": "https://x.com/fngly343149/status/2116440341176049946",
+  "author": {
+    "name": "福叔",
+    "handle": "@fngly343149",
+    "profile_url": "https://x.com/fngly343149"
+  },
+  "posted_at": "2026-10-31T08:01:13Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**福叔 ([@fngly343149](https://x.com/fngly343149/status/2116440341176049946))** recommends **Understand-Anything**, which turns a codebase into a searchable, zoomable knowledge graph with a suggested reading order and pre-commit impact analysis, supporting Claude Code, Codex and Cursor ([Egonex-AI/Understand-Anything](https://github.com/Egonex-AI/Understand-Anything)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/Egonex-AI/Understand-Anything",
+      "from_post": "2116440341176049946",
+      "short_url": "https://t.co/pa9nwGk8YG",
+      "title": "GitHub - Egonex-AI/Understand-Anything: Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more."
+    }
+  ],
+  "hashtags": [
+    "AI编程",
+    "开源"
+  ],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "understand-anything",
+    "knowledge-graph",
+    "legacy-code",
+    "impact-analysis",
+    "claude-code"
+  ],
+  "relevance": "Codebase comprehension graphs for agents and humans.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV8bRhZa0AA_HOk.png",
+      "from_post": "2116440341176049946",
+      "description": "\"Understand Anything\" banner showing a tangled codebase turned into a guided tour via scan, map and teach steps, with code structure, business logic and knowledge base trees.",
+      "thumbnail": "posts/2026/10/31/2116440341176049946/media/0.webp",
+      "kind": "diagram"
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV8bRe-bAAApaOD.jpg",
+      "from_post": "2116440341176049946",
+      "description": "\"Claude Map\" thumbnail graphic: a tangled box of nodes turned into an organized tree diagram.",
+      "thumbnail": "posts/2026/10/31/2116440341176049946/media/1.webp",
+      "kind": "other"
+    }
+  ]
+}

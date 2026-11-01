@@ -1,0 +1,36 @@
+{
+  "id": "2116714122444448223",
+  "permalink": "https://x.com/SanemBuilds/status/2116714122444448223",
+  "author": {
+    "name": "Sanem Avcil",
+    "handle": "@SanemBuilds",
+    "profile_url": "https://x.com/SanemBuilds"
+  },
+  "posted_at": "2026-11-01T02:09:08Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**Sanem Avcil ([@SanemBuilds](https://x.com/SanemBuilds/status/2116714122444448223))** credits Donchitos for **Claude Code Game Studios**, which turns a session into a game studio with 49 agents in three tiers, 70+ slash-command skills, validation hooks and agent sets for Godot 4, Unity and Unreal 5 ([Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/Donchitos/Claude-Code-Game-Studios",
+      "from_post": "2116714122444448223",
+      "short_url": "https://t.co/061RDCb9R9",
+      "title": "GitHub - Donchitos/Claude-Code-Game-Studios: Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev",
+    "agentic-media"
+  ],
+  "keywords": [
+    "claude-code",
+    "game-development",
+    "multi-agent",
+    "skill",
+    "hook"
+  ],
+  "relevance": "Multi-agent game development harness.",
+  "media": []
+}

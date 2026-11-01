@@ -1,0 +1,41 @@
+{
+  "id": "2116782298125279378",
+  "permalink": "https://x.com/evonic_ai/status/2116782298125279378",
+  "author": {
+    "name": "Evonic",
+    "handle": "@evonic_ai",
+    "profile_url": "https://x.com/evonic_ai"
+  },
+  "posted_at": "2026-11-01T06:40:02Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**Evonic ([@evonic_ai](https://x.com/evonic_ai/status/2116782298125279378))** announces **Evonic v1.6.0**, letting agents ask you questions via Telegram and browser alerts, adding model-first safety, LLM and decision model types and a kanban table view ([release notes](https://github.com/anvie/evonic/releases/tag/v1.6.0)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/anvie/evonic/releases/tag/v1.6.0",
+      "from_post": "2116782298125279378",
+      "short_url": "https://t.co/nnhxkYsF4w",
+      "title": "Release v1.6.0 · anvie/evonic"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "evonic",
+    "human-in-the-loop",
+    "telegram",
+    "release"
+  ],
+  "relevance": "Human escalation in agent platform.",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2116781675774656512/img/PUdVFi2D-PFazyXn.jpg",
+      "from_post": "2116782298125279378",
+      "description": "Demo of Evonic agents asking questions through Telegram."
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": "2116682898728194054",
+  "permalink": "https://x.com/plattypuus/status/2116682898728194054",
+  "author": {
+    "name": "タイド",
+    "handle": "@plattypuus",
+    "profile_url": "https://x.com/plattypuus"
+  },
+  "posted_at": "2026-11-01T00:05:03Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**タイド ([@plattypuus](https://x.com/plattypuus/status/2116682898728194054))** recommends **cc-blender-skill**, 30 Blender skills for Codex or Claude Code that route natural-language requests into modeling, materials, lighting, camera, rendering and export, requiring Blender with an MCP backend ([RobLe3/cc-blender-skill](https://github.com/RobLe3/cc-blender-skill)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/RobLe3/cc-blender-skill",
+      "from_post": "2116682898728194054",
+      "short_url": "https://t.co/uNaZEfnfrE",
+      "title": "GitHub - RobLe3/cc-blender-skill: Claude Code skill plugin: drive Blender 5.x like a senior 3D artist via natural language. 10 chain-loadable skills (modeling, materials, lighting, cameras, rendering, animation, export, wireframe-to-3d, pro-workflow). Validated on 6 scene classes."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "blender",
+    "skill",
+    "3d-modeling",
+    "mcp",
+    "rendering"
+  ],
+  "relevance": "Agentic 3D production in Blender.",
+  "media": []
+}

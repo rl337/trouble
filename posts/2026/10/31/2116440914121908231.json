@@ -1,0 +1,35 @@
+{
+  "id": "2116440914121908231",
+  "permalink": "https://x.com/fardakarimov/status/2116440914121908231",
+  "author": {
+    "name": "FardaKarim",
+    "handle": "@fardakarimov",
+    "profile_url": "https://x.com/fardakarimov"
+  },
+  "posted_at": "2026-10-31T08:03:30Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**FardaKarim ([@fardakarimov](https://x.com/fardakarimov/status/2116440914121908231))** notes **ECC** gained about 2,000 stars in a day; it is a harness performance system managing skills, memory, instincts and security guardrails for Claude Code, Codex, OpenCode and Cursor ([affaan-m/ECC](https://github.com/affaan-m/ECC)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/affaan-m/ECC",
+      "from_post": "2116440914121908231",
+      "short_url": "https://t.co/RVGGyCOY94",
+      "title": "GitHub - affaan-m/ECC: The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "ecc",
+    "harness",
+    "skill",
+    "agent-memory",
+    "guardrail"
+  ],
+  "relevance": "Popular harness optimization layer.",
+  "media": []
+}

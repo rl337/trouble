@@ -1,0 +1,45 @@
+{
+  "id": "2116685400584692087",
+  "permalink": "https://x.com/KissonL/status/2116685400584692087",
+  "author": {
+    "name": "Kisson",
+    "handle": "@KissonL",
+    "profile_url": "https://x.com/KissonL"
+  },
+  "posted_at": "2026-11-01T00:15:00Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**Kisson ([@KissonL](https://x.com/KissonL/status/2116685400584692087))** contrasts REA's 207-tool MCP server (~400k tokens upfront) with **leanrea**, a single 8 KB skill that has agents run reverse-engineering CLI tools directly, reported 38% faster and 35% cheaper with equal accuracy on its own bench ([aicodeking/leanrea](https://github.com/aicodeking/leanrea)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/aicodeking/leanrea",
+      "from_post": "2116685400584692087",
+      "short_url": "https://t.co/cCVeremZXq",
+      "title": "GitHub - aicodeking/leanrea: One 8 KB skill that replaces REA (Reverse Engineer Anything): plain CLI tools, no MCP. Benchmarked: 38% faster, 35% cheaper."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "leanrea",
+    "skill",
+    "mcp",
+    "reverse-engineering",
+    "token-cost"
+  ],
+  "relevance": "Skills plus CLI versus heavy MCP servers.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV9pUulbsAAsCqo.jpg",
+      "from_post": "2116685400584692087",
+      "description": "GitHub social card for aicodeking/leanrea: one 8 KB skill replacing REA with plain CLI tools, benchmarked 38% faster and 35% cheaper.",
+      "thumbnail": "posts/2026/11/01/2116685400584692087/media/0.webp",
+      "kind": "screenshot",
+      "ocr_text": "aicodeking/leanrea\nOne 8 KB skill that replaces REA (Reverse Engineer Anything): plain CLI tools, no MCP. Benchmarked: 38% faster, 35% cheaper.\n1 Contributor · 3 Issues · 4k Stars · 567 Forks"
+    }
+  ]
+}

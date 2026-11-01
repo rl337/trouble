@@ -1,0 +1,45 @@
+{
+  "id": "2116516067203834306",
+  "permalink": "https://x.com/Daniel00Higgins/status/2116516067203834306",
+  "author": {
+    "name": "Daniel",
+    "handle": "@Daniel00Higgins",
+    "profile_url": "https://x.com/Daniel00Higgins"
+  },
+  "posted_at": "2026-10-31T13:02:08Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**Daniel ([@Daniel00Higgins](https://x.com/Daniel00Higgins/status/2116516067203834306))** reports his **Swift 1.5 Qwen3.8 27B** 4-bit GPTQ bake, sized for two 24 GB Intel Arc cards on vLLM XPU, passed 1,171 monthly downloads ([Wrapzii/Swift-1.5-Qwen3.8-27b-GPTQ-Int4-baked-v1-embed-int8](https://huggingface.co/Wrapzii/Swift-1.5-Qwen3.8-27b-GPTQ-Int4-baked-v1-embed-int8)).",
+  "referenced_urls": [
+    {
+      "url": "https://huggingface.co/Wrapzii/Swift-1.5-Qwen3.8-27b-GPTQ-Int4-baked-v1-embed-int8",
+      "from_post": "2116516067203834306",
+      "short_url": "https://t.co/nZCh90asCB",
+      "title": "Wrapzii/Swift-1.5-Qwen3.8-27b-GPTQ-Int4-baked-v1-embed-int8 · Hugging Face"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "local-models"
+  ],
+  "keywords": [
+    "qwen3-8",
+    "gptq",
+    "intel-arc",
+    "vllm",
+    "27b"
+  ],
+  "relevance": "Quantized ~30B model for local inference.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV9gG4XX0AA7xmX.jpg",
+      "from_post": "2116516067203834306",
+      "description": "Stat card: 1,171 downloads in the last month for Wrapzii/Swift-1.5-Qwen3.8-27b-GPTQ-Int4-baked-v1-embed-int8 (27B on 2x 24 GB Intel Arc, vLLM XPU).",
+      "thumbnail": "posts/2026/10/31/2116516067203834306/media/0.webp",
+      "kind": "other",
+      "ocr_text": "1,171\ndownloads in the last month\nWrapzii/Swift-1.5-Qwen3.8-27b-GPTQ-Int4-baked-v1-embed-int8\n27B for 2x 24GB Intel Arc · vLLM XPU"
+    }
+  ]
+}

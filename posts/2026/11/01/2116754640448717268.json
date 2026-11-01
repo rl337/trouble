@@ -1,0 +1,44 @@
+{
+  "id": "2116754640448717268",
+  "permalink": "https://x.com/novamint_tech/status/2116754640448717268",
+  "author": {
+    "name": "NovaMint Studio",
+    "handle": "@novamint_tech",
+    "profile_url": "https://x.com/novamint_tech"
+  },
+  "posted_at": "2026-11-01T04:50:08Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [
+    {
+      "id": "2116755128703410586",
+      "permalink": "https://x.com/novamint_tech/status/2116755128703410586",
+      "posted_at": "2026-11-01T04:52:04Z",
+      "position": 1
+    }
+  ],
+  "summary_md": "**NovaMint Studio ([@novamint_tech](https://x.com/novamint_tech/status/2116754640448717268))** open-sourced **Agent Doctor**, an MIT, dependency-free Python tool for read-only agent memory checks (error traces, broken JSON/UTF-8, SHA-256 baseline drift) and workspace path guards, explicitly not an OS sandbox ([mingtai2023/agent-doctor](https://github.com/mingtai2023/agent-doctor)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/mingtai2023/agent-doctor",
+      "from_post": "2116754640448717268",
+      "short_url": "https://t.co/Vpo8AwIgom",
+      "title": "GitHub - mingtai2023/agent-doctor: Lightweight sandbox boundaries & agent diagnostic tools for autonomous AI workflows."
+    }
+  ],
+  "hashtags": [
+    "OpenSource",
+    "AIAgents"
+  ],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "agent-doctor",
+    "agent-memory",
+    "path-guard",
+    "diagnostic"
+  ],
+  "relevance": "Diagnostics and path guards for agents.",
+  "media": []
+}

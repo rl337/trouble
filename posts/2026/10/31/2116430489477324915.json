@@ -1,0 +1,48 @@
+{
+  "id": "2116430489477324915",
+  "permalink": "https://x.com/rj_sensei_/status/2116430489477324915",
+  "author": {
+    "name": "鄰家橘貓🐱剪輯師",
+    "handle": "@rj_sensei_",
+    "profile_url": "https://x.com/rj_sensei_"
+  },
+  "posted_at": "2026-10-31T07:22:04Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [
+    {
+      "id": "2116430567579513320",
+      "permalink": "https://x.com/rj_sensei_/status/2116430567579513320",
+      "posted_at": "2026-10-31T07:22:23Z",
+      "position": 1
+    },
+    {
+      "id": "2116431187950604614",
+      "permalink": "https://x.com/rj_sensei_/status/2116431187950604614",
+      "posted_at": "2026-10-31T07:24:51Z",
+      "position": 2
+    }
+  ],
+  "summary_md": "**鄰家橘貓🐱剪輯師 ([@rj_sensei_](https://x.com/rj_sensei_/status/2116430489477324915))** built a skill that mines long livestreams (transcript, chat and volume) for highlight candidates, lets Claude suggest clips, then exports vertical shorts, horizontal rough cuts, SRT and Premiere XML; in follow-ups he invites feedback and notes it only does the rough cut, with post-production still manual ([rightstar2015/stream-highlights-pipeline](https://github.com/rightstar2015/stream-highlights-pipeline)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/rightstar2015/stream-highlights-pipeline",
+      "from_post": "2116430489477324915",
+      "short_url": "https://t.co/oDrvEk9pyS",
+      "title": "GitHub - rightstar2015/stream-highlights-pipeline: 從 Vtuber 長直播找精華、粗剪短片，輸出 SRT 與 Premiere Pro XML（台灣中文）"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "stream-highlight",
+    "video-editing",
+    "skill",
+    "premiere",
+    "subtitle"
+  ],
+  "relevance": "Agentic highlight extraction and rough cutting for video.",
+  "media": []
+}

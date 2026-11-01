@@ -1,0 +1,45 @@
+{
+  "id": "2116466215145132488",
+  "permalink": "https://x.com/HEI/status/2116466215145132488",
+  "author": {
+    "name": "Natural Language Processing Papers",
+    "handle": "@HEI",
+    "profile_url": "https://x.com/HEI"
+  },
+  "posted_at": "2026-10-31T09:44:02Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**Natural Language Processing Papers ([@HEI](https://x.com/HEI/status/2116466215145132488))** shares *Hierarchical Skill Evolution for Coding Agent* by Gao et al. ([arXiv 2610.35616](https://arxiv.org/abs/2610.35616)), where **HSE** distills reusable procedural skills from coding trajectories by aggregating evidence from individual tasks up to repository and cross-repository levels.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.35616",
+      "from_post": "2116466215145132488",
+      "short_url": "https://t.co/fcePWBvVCy",
+      "title": "Hierarchical Skill Evolution for Coding Agent"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "hierarchical-skill-evolution",
+    "skill",
+    "coding-agent",
+    "trajectory",
+    "procedural-knowledge"
+  ],
+  "relevance": "Automatic skill distillation for coding agents.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV8yzq0WcAAaB4S.png",
+      "from_post": "2116466215145132488",
+      "description": "Abstract of the Hierarchical Skill Evolution (HSE) paper distilling transferable procedural skills from coding trajectories.",
+      "thumbnail": "posts/2026/10/31/2116466215145132488/media/0.webp",
+      "kind": "paper",
+      "ocr_text": "Skills provide agents with reusable experience to guide future decisions without modifying the underlying model. However, coding trajectories are often entangled with task- and repository-specific contexts, making it challenging to distill procedural skills that generalize across diverse coding environments. To address this challenge, we present Hierarchical Skill Evolution (HSE), which progressively distills procedural knowledge from coding trajectories through hierarchical evidence aggregation. HSE first extracts task-level evidence from individual trajectories, then aggregates recurring evidence within the same repository to form repository-specific skill candidates, and finally consolidates consistent patterns across repositories into transferable skills across repositories. The evolution is driven by an external writer-evaluator loop that generates and assesses skills while keeping the…"
+    }
+  ]
+}

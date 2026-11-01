@@ -1,0 +1,39 @@
+{
+  "id": "2116737447119778217",
+  "permalink": "https://x.com/TheFoldd2t0/status/2116737447119778217",
+  "author": {
+    "name": "TheFold",
+    "handle": "@TheFoldd2t0",
+    "profile_url": "https://x.com/TheFoldd2t0"
+  },
+  "posted_at": "2026-11-01T03:41:49Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**TheFold ([@TheFoldd2t0](https://x.com/TheFoldd2t0/status/2116737447119778217))** reports that X's design lead open-sourced the **Stageshow** skill, installable with one command, which helps agents build more convincing product stills, animations and bento layouts in React ([benjitaylor/skills](https://github.com/benjitaylor/skills)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/benjitaylor/skills",
+      "from_post": "2116737447119778217",
+      "short_url": "https://t.co/qNOp3MTMIr",
+      "title": "GitHub - benjitaylor/skills: Skills for AI coding agents"
+    }
+  ],
+  "hashtags": [
+    "AI编程",
+    "开源"
+  ],
+  "topics": [
+    "agentic-media",
+    "harness-dev"
+  ],
+  "keywords": [
+    "stageshow",
+    "skill",
+    "react",
+    "product-visual",
+    "animation"
+  ],
+  "relevance": "Agent skill for product visuals.",
+  "media": []
+}

@@ -1,0 +1,44 @@
+{
+  "id": "2116675426210787577",
+  "permalink": "https://x.com/HEI/status/2116675426210787577",
+  "author": {
+    "name": "Natural Language Processing Papers",
+    "handle": "@HEI",
+    "profile_url": "https://x.com/HEI"
+  },
+  "posted_at": "2026-10-31T23:35:22Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**Natural Language Processing Papers ([@HEI](https://x.com/HEI/status/2116675426210787577))** shares *A Harness Reducing over-Defensive Writing in Agents by Isolating Objections* by Xiaochen Chang ([arXiv 2610.36717](https://arxiv.org/abs/2610.36717)), which splits reviewer, filter and writer into separate contexts so writer agents stop overclaiming and then disclaiming for an adversarial AI reviewer.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.36717",
+      "from_post": "2116675426210787577",
+      "short_url": "https://t.co/cKRXyTq5Ow",
+      "title": "A Harness Reducing over-Defensive Writing in Agents by Isolating Objections"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "harness",
+    "writing-agent",
+    "reviewer",
+    "context-isolation"
+  ],
+  "relevance": "Harness design for better agent writing.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV_xFVZXkAAiKFK.png",
+      "from_post": "2116675426210787577",
+      "description": "Abstract of the paper presenting a harness that isolates reviewer, filter and writer roles to reduce over-defensive agent writing.",
+      "thumbnail": "posts/2026/10/31/2116675426210787577/media/0.webp",
+      "kind": "paper",
+      "ocr_text": "When expanding a report, writing with agents may introduce a stronger claim than the article makes and then disclaim it. This is called over-defensive writing. We assume that this is because the agent is writing for responding to an adversarial AI reviewer, instead of a human reader. The defensive context may also influnce the consequent when we simply ban defensive writing in the output through prompts. In order to reduce over-defensive writing, we produce a harness that separates the reviewer, filter, and writer. The writer agent receives only the problems choosen by the filter, which is an independent context. We evaluate this harness on 25 business-project drafts expanded into formal reports, the result shows that the defensive propositions decreased from 59 to 2, which is a 96.61\\% reduction, no unsupported factual additions were identified while the source-claim retention rises from 80.35% to…"
+    }
+  ]
+}

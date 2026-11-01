@@ -1,0 +1,42 @@
+{
+  "id": "2116681889218265442",
+  "permalink": "https://x.com/somi_ai/status/2116681889218265442",
+  "author": {
+    "name": "Somi",
+    "handle": "@somi_ai",
+    "profile_url": "https://x.com/somi_ai"
+  },
+  "posted_at": "2026-11-01T00:01:03Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**Somi ([@somi_ai](https://x.com/somi_ai/status/2116681889218265442))** contrasts Qwen3.6-27B clicking through a spreadsheet task in 9:56 with Microsoft's 4B **Mage-VL-Cowork** coding it in 0:39; the model chooses per step between clicking (layouts), code (sheets, docs, slides) and terminal (verification) ([microsoft/Mage-VL-Cowork](https://huggingface.co/microsoft/Mage-VL-Cowork)).",
+  "referenced_urls": [
+    {
+      "url": "https://huggingface.co/microsoft/Mage-VL-Cowork",
+      "from_post": "2116681889218265442",
+      "short_url": "https://t.co/8D1aVb1o4G",
+      "title": "microsoft/Mage-VL-Cowork · Hugging Face"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "local-models",
+    "harness-dev"
+  ],
+  "keywords": [
+    "mage-vl-cowork",
+    "computer-use",
+    "4b",
+    "code-as-action"
+  ],
+  "relevance": "Small computer-use model that codes instead of clicks.",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2116681857832198144/img/c58OB4EFS61T9qaq.jpg",
+      "from_post": "2116681889218265442",
+      "description": "Side-by-side demo of clicking versus coding agents on a spreadsheet task."
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": "2116560786730709266",
+  "permalink": "https://x.com/navneet_rabdiya/status/2116560786730709266",
+  "author": {
+    "name": "Navneet",
+    "handle": "@navneet_rabdiya",
+    "profile_url": "https://x.com/navneet_rabdiya"
+  },
+  "posted_at": "2026-10-31T15:59:50Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**Navneet ([@navneet_rabdiya](https://x.com/navneet_rabdiya/status/2116560786730709266))** summarizes *InfraDev* by Deng et al. ([arXiv 2610.36589](https://arxiv.org/abs/2610.36589)): agents reimplementing real multi-file Megatron-LM, vLLM and verl PRs resolve at best 38.9%, hidden probes reject 32% of patches that pass all official tests, and under 2% of agent-written assertions check memory, time or traffic.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.36589",
+      "from_post": "2116560786730709266",
+      "short_url": "https://t.co/vxHDbcphN7",
+      "title": "InfraDev: Can Coding Agents Develop AI Infrastructure, and How Can We Tell?"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "infradev",
+    "benchmark",
+    "vllm",
+    "megatron-lm",
+    "hidden-probe"
+  ],
+  "relevance": "Coding agents on AI infrastructure work.",
+  "media": []
+}

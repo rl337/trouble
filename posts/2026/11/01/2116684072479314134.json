@@ -1,0 +1,41 @@
+{
+  "id": "2116684072479314134",
+  "permalink": "https://x.com/tmaiaroto/status/2116684072479314134",
+  "author": {
+    "name": "Tom Maiaroto",
+    "handle": "@tmaiaroto",
+    "profile_url": "https://x.com/tmaiaroto"
+  },
+  "posted_at": "2026-11-01T00:09:43Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**Tom Maiaroto ([@tmaiaroto](https://x.com/tmaiaroto/status/2116684072479314134))** released **Phosphor v0.7.0**, his coding agent, adding an OS-level sandbox on top of its existing security layers ([release v0.7.0](https://github.com/hackafterdark/phosphor/releases/tag/v0.7.0)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/hackafterdark/phosphor/releases/tag/v0.7.0",
+      "from_post": "2116684072479314134",
+      "short_url": "https://t.co/ZMNuiKxJqL",
+      "title": "Release v0.7.0 · hackafterdark/phosphor"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "phosphor",
+    "sandbox",
+    "coding-agent",
+    "agent-security"
+  ],
+  "relevance": "Security-focused coding agent harness.",
+  "media": [
+    {
+      "type": "gif",
+      "url": "https://pbs.twimg.com/tweet_video_thumb/HV_48YhaEAEc-mi.jpg",
+      "from_post": "2116684072479314134",
+      "description": "Animated demo of the Phosphor coding agent."
+    }
+  ]
+}

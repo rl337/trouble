@@ -1,0 +1,35 @@
+{
+  "id": "2116448988597829934",
+  "permalink": "https://x.com/Apurv35904761/status/2116448988597829934",
+  "author": {
+    "name": "Apurv Sheldiya",
+    "handle": "@Apurv35904761",
+    "profile_url": "https://x.com/Apurv35904761"
+  },
+  "posted_at": "2026-10-31T08:35:35Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**Apurv Sheldiya ([@Apurv35904761](https://x.com/Apurv35904761/status/2116448988597829934))** summarizes work by Duan et al. ([arXiv 2610.39264](https://arxiv.org/abs/2610.39264)) training an 8B UI agent with online dense RL on live iOS apps, reporting nearly 7x better Android generalization than a supervised baseline and better error recovery.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.39264",
+      "from_post": "2116448988597829934",
+      "short_url": "https://t.co/z6S2DbEWUn",
+      "title": "Online Dense Reinforcement Learning with Planning-Grounding Agent..."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-cognition"
+  ],
+  "keywords": [
+    "ui-agent",
+    "online-rl",
+    "ios",
+    "generalization",
+    "8b"
+  ],
+  "relevance": "Small agents learning UI navigation online.",
+  "media": []
+}

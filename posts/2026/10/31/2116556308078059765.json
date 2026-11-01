@@ -1,0 +1,52 @@
+{
+  "id": "2116556308078059765",
+  "permalink": "https://x.com/vintcessun/status/2116556308078059765",
+  "author": {
+    "name": "恒星sun",
+    "handle": "@vintcessun",
+    "profile_url": "https://x.com/vintcessun"
+  },
+  "posted_at": "2026-10-31T15:42:02Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**恒星sun ([@vintcessun](https://x.com/vintcessun/status/2116556308078059765))** explains *Small agents should know what their tools do* by Kovalenko and Redchych ([arXiv 2610.35981](https://arxiv.org/abs/2610.35981)): **EffectWorld** declares each tool's side effects, idempotency and resources so a replay verifier can judge safety; fine-tuning Qwen3-4B raised in-distribution success from 53% to 99% and held-out from 52% to 81% with about two-thirds fewer output tokens.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.35981",
+      "from_post": "2116556308078059765",
+      "short_url": "https://t.co/qpzuzstdbF",
+      "title": "Small agents should know what their tools do"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "effectworld",
+    "tool-use",
+    "side-effect",
+    "idempotency",
+    "small-model"
+  ],
+  "relevance": "Teaching small models tool side effects.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV-EvkFbUAAqil4.png",
+      "from_post": "2116556308078059765",
+      "description": "EffectWorld results table comparing base, SFT variants, unlikelihood, NPO and DPO on program/stepwise success, unconfirmed destructive calls, and BFCL accuracy.",
+      "thumbnail": "posts/2026/10/31/2116556308078059765/media/0.webp",
+      "kind": "chart"
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV-EvwOboAAi2rV.jpg",
+      "from_post": "2116556308078059765",
+      "description": "EffectWorld examples of effect-safe tool use versus violations: unconfirmed destructive delete, duplicate non-idempotent email send, and stale-state write.",
+      "thumbnail": "posts/2026/10/31/2116556308078059765/media/1.webp",
+      "kind": "diagram"
+    }
+  ]
+}

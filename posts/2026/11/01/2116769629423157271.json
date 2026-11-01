@@ -1,0 +1,62 @@
+{
+  "id": "2116769629423157271",
+  "permalink": "https://x.com/GeekCatX/status/2116769629423157271",
+  "author": {
+    "name": "知识猫",
+    "handle": "@GeekCatX",
+    "profile_url": "https://x.com/GeekCatX"
+  },
+  "posted_at": "2026-11-01T05:49:41Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**知识猫 ([@GeekCatX](https://x.com/GeekCatX/status/2116769629423157271))** observes four anti-'AI-look' frontend design skills in GitHub's weekly top 12: hallmark, impeccable, taste-skill and jakubkrehel/skills, arguing taste is now the bottleneck for agent-written UIs ([Nutlope/hallmark](https://github.com/Nutlope/hallmark), [pbakaus/impeccable](https://github.com/pbakaus/impeccable), [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill), [jakubkrehel/skills](https://github.com/jakubkrehel/skills)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/Nutlope/hallmark",
+      "from_post": "2116769629423157271",
+      "short_url": "https://t.co/08qyvVNsq2",
+      "title": "GitHub - Nutlope/hallmark: Anti-AI-slop design skill for Claude Code, Cursor, and Codex."
+    },
+    {
+      "url": "https://github.com/pbakaus/impeccable",
+      "from_post": "2116769629423157271",
+      "short_url": "https://t.co/7gmiJH2jJS",
+      "title": "GitHub - pbakaus/impeccable: The design language that makes your AI harness better at design."
+    },
+    {
+      "url": "https://github.com/Leonxlnx/taste-skill",
+      "from_post": "2116769629423157271",
+      "short_url": "https://t.co/93mlW4EH4T",
+      "title": "GitHub - Leonxlnx/taste-skill: Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages"
+    },
+    {
+      "url": "https://github.com/jakubkrehel/skills",
+      "from_post": "2116769629423157271",
+      "short_url": "https://t.co/mDmhKMyUAN",
+      "title": "GitHub - jakubkrehel/skills: A collection of agent skills that help you build great interfaces. · GitHub"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "hallmark",
+    "impeccable",
+    "taste-skill",
+    "skill",
+    "frontend-design"
+  ],
+  "relevance": "Trend in design-taste skills.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HWBGv6RbgAEOPES.jpg",
+      "from_post": "2116769629423157271",
+      "description": "GitHub weekly trending repositories page, including hallmark, security-audit-skill, impeccable and other agent skill repos.",
+      "thumbnail": "posts/2026/11/01/2116769629423157271/media/0.webp",
+      "kind": "screenshot"
+    }
+  ]
+}

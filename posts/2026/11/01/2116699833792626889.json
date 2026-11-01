@@ -1,0 +1,42 @@
+{
+  "id": "2116699833792626889",
+  "permalink": "https://x.com/zyonbuilds/status/2116699833792626889",
+  "author": {
+    "name": "Zyon ⚗️",
+    "handle": "@zyonbuilds",
+    "profile_url": "https://x.com/zyonbuilds"
+  },
+  "posted_at": "2026-11-01T01:12:21Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**Zyon ⚗️ ([@zyonbuilds](https://x.com/zyonbuilds/status/2116699833792626889))** highlights Speridlabs' **Idol**, an Apache-2.0 600M image-to-3D model producing up to 1M Gaussian splats in about three seconds with under 7.2 GB VRAM ([speridlabs/idol](https://huggingface.co/speridlabs/idol)).",
+  "referenced_urls": [
+    {
+      "url": "https://huggingface.co/speridlabs/idol",
+      "from_post": "2116699833792626889",
+      "short_url": "https://t.co/xSUlkReJaJ",
+      "title": "speridlabs/idol · Hugging Face"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "idol",
+    "gaussian-splatting",
+    "image-to-3d",
+    "3d",
+    "open-weight"
+  ],
+  "relevance": "Fast local image-to-3D.",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2116699679341608960/img/joamrt1vj4CjCEKJ.jpg",
+      "from_post": "2116699833792626889",
+      "description": "Demo of Idol turning photos into 3D objects."
+    }
+  ]
+}

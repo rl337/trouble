@@ -1,0 +1,33 @@
+{
+  "id": "2116707307757445544",
+  "permalink": "https://x.com/nikships/status/2116707307757445544",
+  "author": {
+    "name": "Nik",
+    "handle": "@nikships",
+    "profile_url": "https://x.com/nikships"
+  },
+  "posted_at": "2026-11-01T01:42:03Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**Nik ([@nikships](https://x.com/nikships/status/2116707307757445544))** welcomes Vercel's **agent-desktop**, the computer-use counterpart to agent-browser ([vercel-labs/agent-desktop](https://github.com/vercel-labs/agent-desktop)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/vercel-labs/agent-desktop",
+      "from_post": "2116707307757445544",
+      "short_url": "https://t.co/RHlJv32tyC",
+      "title": "GitHub - vercel-labs/agent-desktop: Agent Desktop gives any agent reliable computer use on the desktop. Built with Rust, it sees any app's real UI structure through OS accessibility trees and operates it — refs stay stable and actions stay safe to retry, instead of guessing from pixels."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "agent-desktop",
+    "computer-use",
+    "vercel"
+  ],
+  "relevance": "Computer use for coding agents.",
+  "media": []
+}

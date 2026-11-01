@@ -1,0 +1,35 @@
+{
+  "id": "2116445006860804288",
+  "permalink": "https://x.com/Apurv35904761/status/2116445006860804288",
+  "author": {
+    "name": "Apurv Sheldiya",
+    "handle": "@Apurv35904761",
+    "profile_url": "https://x.com/Apurv35904761"
+  },
+  "posted_at": "2026-10-31T08:19:45Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**Apurv Sheldiya ([@Apurv35904761](https://x.com/Apurv35904761/status/2116445006860804288))** summarizes *Gym-Anything for Robotics* by Aggarwal and Welleck ([arXiv 2610.40565](https://arxiv.org/abs/2610.40565)): coding agents built 25 robotics simulations, yet frontier models averaged only 0.06 reward on the resulting RoboWorld tests.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.40565",
+      "from_post": "2116445006860804288",
+      "short_url": "https://t.co/SckfuBrY4j",
+      "title": "Gym-Anything for Robotics: Scaling physical simulations with digital agents"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-cognition"
+  ],
+  "keywords": [
+    "gym-anything",
+    "robotics",
+    "simulation",
+    "coding-agent",
+    "benchmark"
+  ],
+  "relevance": "Agents building simulation environments.",
+  "media": []
+}

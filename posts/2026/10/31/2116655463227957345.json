@@ -1,0 +1,41 @@
+{
+  "id": "2116655463227957345",
+  "permalink": "https://x.com/kamarifatizwx/status/2116655463227957345",
+  "author": {
+    "name": "KAM ARI",
+    "handle": "@kamarifatizwx",
+    "profile_url": "https://x.com/kamarifatizwx"
+  },
+  "posted_at": "2026-10-31T22:16:02Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**KAM ARI ([@kamarifatizwx](https://x.com/kamarifatizwx/status/2116655463227957345))** built **AgentAudit**, four layers of adversarial testing for Strands agents mapped to the OWASP Agentic Top 10, with a diff-ready fix for each finding ([TOUMO45/AgentAudit](https://github.com/TOUMO45/AgentAudit), [video](https://www.youtube.com/watch?v=5whN9fKE_Lk)).",
+  "referenced_urls": [
+    {
+      "url": "https://www.youtube.com/watch?v=5whN9fKE_Lk",
+      "from_post": "2116655463227957345",
+      "short_url": "https://t.co/aXBF54udve",
+      "title": "AgentAudit — Pentesting AI Agents Before CoreBreak Does (AWS Strands)"
+    },
+    {
+      "url": "https://github.com/TOUMO45/AgentAudit",
+      "from_post": "2116655463227957345",
+      "short_url": "https://t.co/BljyZl4ObG",
+      "title": "GitHub - TOUMO45/AgentAudit"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "agentaudit",
+    "pentest",
+    "owasp",
+    "strands",
+    "agent-security"
+  ],
+  "relevance": "Pentesting agents before deployment.",
+  "media": []
+}

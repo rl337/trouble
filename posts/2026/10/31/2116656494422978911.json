@@ -1,0 +1,35 @@
+{
+  "id": "2116656494422978911",
+  "permalink": "https://x.com/AbdoslamBaabbad/status/2116656494422978911",
+  "author": {
+    "name": "Abdoslam Baabbad",
+    "handle": "@AbdoslamBaabbad",
+    "profile_url": "https://x.com/AbdoslamBaabbad"
+  },
+  "posted_at": "2026-10-31T22:20:08Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**Abdoslam Baabbad ([@AbdoslamBaabbad](https://x.com/AbdoslamBaabbad/status/2116656494422978911))** points to *Harness²* by Xu et al. ([arXiv 2610.14224](https://arxiv.org/html/2610.14224)), a plug-and-play framework for recursively improving an agent's tools, guardrails and scripts at test time in open-world tasks without retraining or ground-truth verifiers.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/html/2610.14224",
+      "from_post": "2116656494422978911",
+      "short_url": "https://t.co/ui1AwSo7jb",
+      "title": "Harness2: Recursive Agent Harnessing foran Open World"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-cognition",
+    "harness-dev"
+  ],
+  "keywords": [
+    "harness-squared",
+    "recursive-self-improvement",
+    "harness",
+    "test-time"
+  ],
+  "relevance": "Test-time recursive harness improvement.",
+  "media": []
+}

@@ -1,0 +1,44 @@
+{
+  "id": "2116774105894576254",
+  "permalink": "https://x.com/SciFi/status/2116774105894576254",
+  "author": {
+    "name": "Artificial Intelligence Papers",
+    "handle": "@SciFi",
+    "profile_url": "https://x.com/SciFi"
+  },
+  "posted_at": "2026-11-01T06:07:29Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**Artificial Intelligence Papers ([@SciFi](https://x.com/SciFi/status/2116774105894576254))** shares *ATLAS-Bench* by Zhang et al. ([arXiv 2610.39438](https://arxiv.org/abs/2610.39438)), 1,200 local-search queries distinguishing mandatory requirements from preferences to test agents' grounded tool use.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.39438",
+      "from_post": "2116774105894576254",
+      "short_url": "https://t.co/QeVaJfEd7Z",
+      "title": "ATLAS-Bench: An Agentic Tool-Use Benchmark for Local Area Search"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-cognition"
+  ],
+  "keywords": [
+    "atlas-bench",
+    "local-search",
+    "tool-use",
+    "benchmark"
+  ],
+  "relevance": "Benchmark for agent tool use.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HWBK1PMWkAAMrCH.png",
+      "from_post": "2116774105894576254",
+      "description": "Abstract of ATLAS-Bench, a 1,200-query agentic tool-use benchmark for local place search.",
+      "thumbnail": "posts/2026/11/01/2116774105894576254/media/0.webp",
+      "kind": "paper",
+      "ocr_text": "Reliable local search is essential for LLM agents to support everyday decisions and longer plans by finding places that meet users' needs at given times and locations. Yet existing benchmarks provide limited coverage of whether search results satisfy mandatory requirements, account for preferences, and ground factual and experiential judgments in place attributes and reviews. We introduce ATLAS-Bench, a benchmark of 1,200 queries across three regions, expanded from real search events using place attributes, reviews, and existing user profiles from the platform. Each query distinguishes mandatory requirements from preferences and factual conditions from subjective judgments, with supporting evidence and criteria for checking each requirement. Queries are validated through iterative assertion checks and cross-model review. We also introduce ATLASBox, a standardized…"
+    }
+  ]
+}

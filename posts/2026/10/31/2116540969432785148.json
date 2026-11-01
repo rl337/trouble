@@ -1,0 +1,95 @@
+{
+  "id": "2116540969432785148",
+  "permalink": "https://x.com/FooSteins/status/2116540969432785148",
+  "author": {
+    "name": "Steins",
+    "handle": "@FooSteins",
+    "profile_url": "https://x.com/FooSteins"
+  },
+  "posted_at": "2026-10-31T14:41:05Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [
+    {
+      "id": "2116541308173222348",
+      "permalink": "https://x.com/FooSteins/status/2116541308173222348",
+      "posted_at": "2026-10-31T14:42:25Z",
+      "position": 1
+    },
+    {
+      "id": "2116541615917744523",
+      "permalink": "https://x.com/FooSteins/status/2116541615917744523",
+      "posted_at": "2026-10-31T14:43:39Z",
+      "position": 2
+    }
+  ],
+  "summary_md": "**Steins ([@FooSteins](https://x.com/FooSteins/status/2116540969432785148))** highlights *Trial by Trace* by Cao et al. ([arXiv 2610.32285](https://arxiv.org/abs/2610.32285), [project](https://tracelite.ai/trial-by-trace.html)), which scores harness behavior separately from task success; across 3,420 runs (4 harnesses x 9 models x 95 tasks) 31.1% passed while breaking a harness rule and only 8.4% were fully clean, with Claude Code 73.5, OpenClaw 71.8, DeepSeek Harness 71.0 and Codex 65.2.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.32285",
+      "from_post": "2116540969432785148",
+      "short_url": "https://t.co/9S7woyv9yN",
+      "title": "Trial by Trace: Benchmarking AI Agent Harnesses for Reliability..."
+    },
+    {
+      "url": "https://tracelite.ai/trial-by-trace.html",
+      "from_post": "2116541615917744523",
+      "short_url": "https://t.co/OlVnWgD4WA",
+      "title": "Trial by Trace: Benchmarking AI Agent Harnesses for Reliability and Failure Attribution"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "trial-by-trace",
+    "harness",
+    "benchmark",
+    "reliability",
+    "failure-attribution"
+  ],
+  "relevance": "Benchmark for harness reliability itself.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV92xyYaIAA10jR.jpg",
+      "from_post": "2116540969432785148",
+      "description": "TraceTrial-Bench framework: task design across seven reliability dimensions, native-harness evaluation with trajectory tracing, multi-source evidence acquisition and failure attribution.",
+      "thumbnail": "posts/2026/10/31/2116540969432785148/media/0.webp",
+      "kind": "diagram"
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV92xpMbkAAGid6.jpg",
+      "from_post": "2116540969432785148",
+      "description": "TraceTrial-Bench overview showing that task outcomes can mislead (31.1% of runs pass agent criteria but fail a harness criterion), model-harness interaction, and evidence-based failure attribution.",
+      "thumbnail": "posts/2026/10/31/2116540969432785148/media/1.webp",
+      "kind": "diagram"
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV93F3WbQAAQB9k.jpg",
+      "from_post": "2116541308173222348",
+      "description": "Layer-wise agent versus harness criterion scores, outcome composition for Claude Code, Codex, DeepSeek Harness and OpenClaw, and candidate-link incidence.",
+      "thumbnail": "posts/2026/10/31/2116540969432785148/media/2.webp",
+      "kind": "chart"
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV93R3sbsAAg5-K.jpg",
+      "from_post": "2116541615917744523",
+      "description": "Bar charts of overall scores by model (Opus 5 73.3, Kimi K3 72.0, Gemini 3.7 Flash 71.7, Grok 4.6 71.5 ... HY3 66.9) and by harness (Claude Code 73.5, OpenClaw 71.8, DeepSeek Harness 71.0, Codex 65.2).",
+      "thumbnail": "posts/2026/10/31/2116540969432785148/media/3.webp",
+      "kind": "chart"
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV93SFGbkAA-Il0.jpg",
+      "from_post": "2116541615917744523",
+      "description": "Overall score versus mean cost per run (log scale) for model and harness combinations, showing a cost-performance frontier.",
+      "thumbnail": "posts/2026/10/31/2116540969432785148/media/4.webp",
+      "kind": "chart"
+    }
+  ]
+}

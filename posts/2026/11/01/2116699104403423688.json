@@ -1,0 +1,34 @@
+{
+  "id": "2116699104403423688",
+  "permalink": "https://x.com/Zhangxxpv/status/2116699104403423688",
+  "author": {
+    "name": "Zhang",
+    "handle": "@Zhangxxpv",
+    "profile_url": "https://x.com/Zhangxxpv"
+  },
+  "posted_at": "2026-11-01T01:09:27Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**Zhang ([@Zhangxxpv](https://x.com/Zhangxxpv/status/2116699104403423688))** notes Matt Pocock open-sourced his everyday **agent skills** for Claude Code, Codex, Copilot and Cursor, with /grill-me having the agent interrogate requirements before coding ([mattpocock/skills](https://github.com/mattpocock/skills)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/mattpocock/skills",
+      "from_post": "2116699104403423688",
+      "short_url": "https://t.co/qTSDxY3jPi",
+      "title": "GitHub - mattpocock/skills: Skills for Real Engineers. Straight from my .agents directory."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "skill",
+    "grill-me",
+    "requirement",
+    "claude-code"
+  ],
+  "relevance": "Popular practical skill collection.",
+  "media": []
+}

@@ -1,0 +1,54 @@
+{
+  "id": "2116516776553128223",
+  "permalink": "https://x.com/KadaPlaysAI/status/2116516776553128223",
+  "author": {
+    "name": "Kada 玩 AI",
+    "handle": "@KadaPlaysAI",
+    "profile_url": "https://x.com/KadaPlaysAI"
+  },
+  "posted_at": "2026-10-31T13:04:57Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**Kada 玩 AI ([@KadaPlaysAI](https://x.com/KadaPlaysAI/status/2116516776553128223))** built **sessift**, a TUI that searches AI coding sessions (Claude Code, Codex, Pi, OpenCode, Grok) across local and remote machines over SSH in about 30 ms and resumes them on Enter ([kadaliao/sessift](https://github.com/kadaliao/sessift), [video](https://www.youtube.com/watch?v=SglFk6oapYs)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/kadaliao/sessift",
+      "from_post": "2116516776553128223",
+      "short_url": "https://t.co/WfV15zPwrm",
+      "title": "GitHub - kadaliao/sessift: 多机实时搜索、浏览、恢复 AI 编程助手会话（Claude Code、Codex、Pi 等）：不同步数据，通过 SSH 现场查询，交互式 TUI"
+    },
+    {
+      "url": "https://www.bilibili.com/video/BV1tyxy63ECc/",
+      "from_post": "2116516776553128223",
+      "short_url": "https://t.co/bGWfvJCfMt",
+      "title": "sessift：一条命令，搜遍每台机器上的 AI 编程会话_哔哩哔哩_bilibili"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=SglFk6oapYs&feature=youtu.be",
+      "from_post": "2116516776553128223",
+      "short_url": "https://t.co/xjZ8DAsvVF",
+      "title": "sessift：一条命令，搜遍每台机器上的 AI 编程会话"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "sessift",
+    "session-search",
+    "tui",
+    "ssh",
+    "coding-agent"
+  ],
+  "relevance": "Cross-machine session search for coding agents.",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2116516503378165760/img/OYWkaLpRo2t42czR.jpg",
+      "from_post": "2116516776553128223",
+      "description": "Demo video of sessift searching and resuming agent sessions."
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "2116667604819677198",
+  "permalink": "https://x.com/techleadcorner/status/2116667604819677198",
+  "author": {
+    "name": "Tech Lead Corner",
+    "handle": "@techleadcorner",
+    "profile_url": "https://x.com/techleadcorner"
+  },
+  "posted_at": "2026-10-31T23:04:17Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**Tech Lead Corner ([@techleadcorner](https://x.com/techleadcorner/status/2116667604819677198))** shares **Coucou**, an MIT companion app that shows what coding agents are doing from the MacBook notch (and iPhone) and lets you approve requests without switching windows ([Louis-CFM/coucou](https://github.com/Louis-CFM/coucou)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/Louis-CFM/coucou",
+      "from_post": "2116667604819677198",
+      "short_url": "https://t.co/ohPAc1LNp4",
+      "title": "GitHub - Louis-CFM/coucou: A tiny friend in your Mac's notch and on your iPhone that keeps an eye on your AI coding agents: Claude Code, Codex, Cursor, Gemini CLI, Antigravity and more. Approve from the notch or your Lock Screen."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "coucou",
+    "approval",
+    "macos",
+    "coding-agent",
+    "notification"
+  ],
+  "relevance": "Ambient approval UI for coding agents.",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2116667485818888192/img/tcsAwfymwNYuC4-n.jpg",
+      "from_post": "2116667604819677198",
+      "description": "Demo of Coucou showing agent status in the MacBook notch."
+    }
+  ]
+}

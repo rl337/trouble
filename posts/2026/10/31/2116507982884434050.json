@@ -1,0 +1,45 @@
+{
+  "id": "2116507982884434050",
+  "permalink": "https://x.com/HamidBaigz/status/2116507982884434050",
+  "author": {
+    "name": "Hamid Baig | Author & Filmmaker",
+    "handle": "@HamidBaigz",
+    "profile_url": "https://x.com/HamidBaigz"
+  },
+  "posted_at": "2026-10-31T12:30:00Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**Hamid Baig | Author & Filmmaker ([@HamidBaigz](https://x.com/HamidBaigz/status/2116507982884434050))** highlights SenseTime's open **SenseNova 6.8 Code2Video**, a 27B model built on Qwen3.8-27B that makes motion graphics, explainers and 3D by writing code, renders and checks frames, and revises from notes; it even produced its own launch film ([OpenSenseNova/SenseNova-6.8-Code2Video](https://github.com/OpenSenseNova/SenseNova-6.8-Code2Video)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/OpenSenseNova/SenseNova-6.8-Code2Video",
+      "from_post": "2116507982884434050",
+      "short_url": "https://t.co/qACT9huHM6",
+      "title": "GitHub - OpenSenseNova/SenseNova-6.8-Code2Video: The first open-source model for code-driven video creation."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "sensenova",
+    "code2video",
+    "video-generation",
+    "27b",
+    "motion-graphics"
+  ],
+  "relevance": "Open ~30B model for code-driven video creation.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV8ksvUbYAAm_tq.jpg",
+      "from_post": "2116507982884434050",
+      "description": "Infographic \"This open model makes videos by writing code\": SenseNova 6.8 Code2Video, 27B built on Qwen3.8-27B, Apache 2.0, 10h+ long runs, writes code, renders, checks frames and revises.",
+      "thumbnail": "posts/2026/10/31/2116507982884434050/media/0.webp",
+      "kind": "screenshot",
+      "ocr_text": "OPEN SOURCE · 31 OCT 2026\nThis open model makes videos by writing code\nSenseNova 6.8 Code2Video from SenseTime. Free weights on Hugging Face.\n27B parameters, built on Qwen3.8-27B · Free, Apache 2.0 license · 10h+ long runs, 2,000+ turns\nWHY IT MATTERS\n- It writes code, renders the video, checks the frames, then fixes its own work\n- Want a change? Give notes and it revises the same project\n- Code can call image, video and 3D models in one pipeline\n- It made its own 90-second launch film, with sound\nHOW IT WORKS\n1. Expand your idea into a detailed prompt → 2. Code2Video builds the video → 3. You give notes, it revises.\nSource: Hugging Face / SenseNova"
+    }
+  ]
+}

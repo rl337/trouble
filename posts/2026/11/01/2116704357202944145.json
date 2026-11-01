@@ -1,0 +1,45 @@
+{
+  "id": "2116704357202944145",
+  "permalink": "https://x.com/warrior_naruto/status/2116704357202944145",
+  "author": {
+    "name": "solo_warrior_naruto",
+    "handle": "@warrior_naruto",
+    "profile_url": "https://x.com/warrior_naruto"
+  },
+  "posted_at": "2026-11-01T01:30:19Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**solo\\_warrior\\_naruto ([@warrior_naruto](https://x.com/warrior_naruto/status/2116704357202944145))** reports Scenario open-sourced a skill pack giving 70+ coding agents production image, video, audio and 3D generation, with expert skills for Blender, Maya, ZBrush, Unreal and Unity ([scenario-labs/skills](https://github.com/scenario-labs/skills)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/scenario-labs/skills",
+      "from_post": "2116704357202944145",
+      "short_url": "https://t.co/NRCI373IOb",
+      "title": "GitHub - scenario-labs/skills: Get production-ready images, video, audio, and 3D from any AI agent: skills that pick the right model, price before spending, and keep characters and brands consistent through the Scenario MCP, plus expert teams that drive Blender, Maya, ZBrush, Unreal, and Unity."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-media",
+    "harness-dev"
+  ],
+  "keywords": [
+    "scenario",
+    "skill",
+    "3d",
+    "blender",
+    "asset-generation"
+  ],
+  "relevance": "Multi-modal asset skills for agents.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HWALWo7XwAEoT1y.jpg",
+      "from_post": "2116704357202944145",
+      "description": "Promo graphic: a cyan wireframe cube being drawn by a stylus above the words \"3D OS\" on a circuit-board background.",
+      "thumbnail": "posts/2026/11/01/2116704357202944145/media/0.webp",
+      "kind": "other"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "2116640922071171359",
+  "permalink": "https://x.com/migtissera/status/2116640922071171359",
+  "author": {
+    "name": "Migel Tissera",
+    "handle": "@migtissera",
+    "profile_url": "https://x.com/migtissera"
+  },
+  "posted_at": "2026-10-31T21:18:15Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**Migel Tissera ([@migtissera](https://x.com/migtissera/status/2116640922071171359))** releases **Tess-4.5**, a 27B model with GGUF builds ([migtissera/Tess-4.5-27B-GGUF](https://huggingface.co/migtissera/Tess-4.5-27B-GGUF)).",
+  "referenced_urls": [
+    {
+      "url": "https://huggingface.co/migtissera/Tess-4.5-27B-GGUF",
+      "from_post": "2116640922071171359",
+      "short_url": "https://t.co/WtJSTc80KC",
+      "title": "migtissera/Tess-4.5-27B-GGUF · Hugging Face"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "local-models"
+  ],
+  "keywords": [
+    "tess-4-5",
+    "27b",
+    "gguf",
+    "open-weight"
+  ],
+  "relevance": "New ~30B local model in GGUF.",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2116640646513762304/img/IYoNqzmRg7VkiGBt.jpg",
+      "from_post": "2116640922071171359",
+      "description": "Short video announcing Tess-4.5."
+    }
+  ]
+}

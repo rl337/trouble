@@ -1,0 +1,34 @@
+{
+  "id": "2116575213043450010",
+  "permalink": "https://x.com/kkirk84/status/2116575213043450010",
+  "author": {
+    "name": "Kevin Kirk",
+    "handle": "@kkirk84",
+    "profile_url": "https://x.com/kkirk84"
+  },
+  "posted_at": "2026-10-31T16:57:09Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**Kevin Kirk ([@kkirk84](https://x.com/kkirk84/status/2116575213043450010))** wrote a field report on running his kids' YouTube channel with four specialized AI agents, noting he began filming differently once he knew how the edit would go ([Filming for the Edit](https://huggingface.co/blog/Kirkk84/filming-for-the-edit)).",
+  "referenced_urls": [
+    {
+      "url": "https://huggingface.co/blog/Kirkk84/filming-for-the-edit",
+      "from_post": "2116575213043450010",
+      "short_url": "https://t.co/hWkrbQHKgO",
+      "title": "Filming for the Edit: What a Real Four-Agent Video Workflow Teaches About Human-Agent Collaboration"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "video-workflow",
+    "multi-agent",
+    "human-agent-collaboration",
+    "youtube"
+  ],
+  "relevance": "Real-world multi-agent video workflow lessons.",
+  "media": []
+}

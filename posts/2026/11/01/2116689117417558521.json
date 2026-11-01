@@ -1,0 +1,35 @@
+{
+  "id": "2116689117417558521",
+  "permalink": "https://x.com/jojoto_beatbox/status/2116689117417558521",
+  "author": {
+    "name": "Shoto",
+    "handle": "@jojoto_beatbox",
+    "profile_url": "https://x.com/jojoto_beatbox"
+  },
+  "posted_at": "2026-11-01T00:29:46Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**Shoto ([@jojoto_beatbox](https://x.com/jojoto_beatbox/status/2116689117417558521))** summarizes **MASCAL** by Fan et al. ([arXiv 2610.39927](https://arxiv.org/abs/2610.39927)), which RL-trains each agent to output a calibrated probability its answer is correct so downstream agents know when to trust upstream work, raising multi-hop QA from 47.49% to 59.00%.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.39927",
+      "from_post": "2116689117417558521",
+      "short_url": "https://t.co/RcTD5Jls8m",
+      "title": "Learning Calibrated Confidence for Multi-Agent Collaboration"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-cognition"
+  ],
+  "keywords": [
+    "mascal",
+    "calibration",
+    "multi-agent",
+    "multi-hop-qa",
+    "reinforcement-learning"
+  ],
+  "relevance": "Calibrated confidence between agents.",
+  "media": []
+}

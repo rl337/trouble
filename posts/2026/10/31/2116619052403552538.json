@@ -1,0 +1,54 @@
+{
+  "id": "2116619052403552538",
+  "permalink": "https://x.com/shohdi2/status/2116619052403552538",
+  "author": {
+    "name": "Shohdy Elsheemy",
+    "handle": "@shohdi2",
+    "profile_url": "https://x.com/shohdi2"
+  },
+  "posted_at": "2026-10-31T19:51:21Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**Shohdy Elsheemy ([@shohdi2](https://x.com/shohdi2/status/2116619052403552538))** built **Relic Drift**, a playable Unity game whose 3D assets came from Speridlabs' Idol via his own C# inference port, with gameplay coded using Codex ([speridlabs/idol](https://huggingface.co/speridlabs/idol), [shohdi/idol-csharp](https://github.com/shohdi/idol-csharp), [play](https://www.osiristoken.com/RelicDrift/index.html)).",
+  "referenced_urls": [
+    {
+      "url": "https://huggingface.co/speridlabs/idol",
+      "from_post": "2116619052403552538",
+      "short_url": "https://t.co/x7UPQOpcNR",
+      "title": "speridlabs/idol · Hugging Face"
+    },
+    {
+      "url": "https://github.com/shohdi/idol-csharp",
+      "from_post": "2116619052403552538",
+      "short_url": "https://t.co/ck6dDXy5qk",
+      "title": "GitHub - shohdi/idol-csharp: Local C# desktop implementation of Speridlabs Idol image-to-3D Gaussian splats with an orbit viewer and Unity export. No Python runtime."
+    },
+    {
+      "url": "https://www.osiristoken.com/RelicDrift/index.html",
+      "from_post": "2116619052403552538",
+      "short_url": "https://t.co/lHSp0g2UKf",
+      "title": "Relic Drift · Osiris Games"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "idol",
+    "gaussian-splatting",
+    "unity",
+    "game-development",
+    "codex"
+  ],
+  "relevance": "AI-generated 3D assets to a playable game.",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2116619025279062016/img/3j30WOnuADuIw29d.jpg",
+      "from_post": "2116619052403552538",
+      "description": "Gameplay footage of Relic Drift with AI-generated assets."
+    }
+  ]
+}

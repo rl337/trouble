@@ -1,0 +1,35 @@
+{
+  "id": "2116435995335786588",
+  "permalink": "https://x.com/pete_grow/status/2116435995335786588",
+  "author": {
+    "name": "Pete",
+    "handle": "@pete_grow",
+    "profile_url": "https://x.com/pete_grow"
+  },
+  "posted_at": "2026-10-31T07:43:57Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**Pete ([@pete_grow](https://x.com/pete_grow/status/2116435995335786588))** shares **Coral Discovery** by Ren et al. ([arXiv 2610.33281](https://arxiv.org/html/2610.33281v1)), a team of LLM research agents that improves programs against a deterministic grader; borrowing Philip Kitcher's idea of dividing cognitive labor, it keeps agents from all chasing the leading idea and validates each gain on held-out data. He thanks collaborators at Harvard, Cambridge, KCL, Trento and Hull.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/html/2610.33281v1",
+      "from_post": "2116435995335786588",
+      "short_url": "https://t.co/4FhbOPTWcF",
+      "title": "Coral Discovery: The Division of Cognitive Labor in Autonomous Research"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-cognition"
+  ],
+  "keywords": [
+    "coral-discovery",
+    "autonomous-research",
+    "multi-agent",
+    "division-of-labor",
+    "algorithm-discovery"
+  ],
+  "relevance": "Multi-agent autonomous research with diversity of approaches.",
+  "media": []
+}

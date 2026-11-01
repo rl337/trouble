@@ -1,0 +1,45 @@
+{
+  "id": "2116436922625093704",
+  "permalink": "https://x.com/SciFi/status/2116436922625093704",
+  "author": {
+    "name": "Artificial Intelligence Papers",
+    "handle": "@SciFi",
+    "profile_url": "https://x.com/SciFi"
+  },
+  "posted_at": "2026-10-31T07:47:38Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**Artificial Intelligence Papers ([@SciFi](https://x.com/SciFi/status/2116436922625093704))** shares *Proactive Memory for Event-Driven LLM Agents* by Li et al. ([arXiv 2610.36967](https://arxiv.org/abs/2610.36967)), proposing **ProactMem**, which organizes history into recent events, temporal trajectories and behavioral regularities and checks trajectory facts against source events so proactive agents can judge when a pattern applies.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.36967",
+      "from_post": "2116436922625093704",
+      "short_url": "https://t.co/E5Mhua8ReK",
+      "title": "Proactive Memory for Event-Driven LLM Agents"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-cognition"
+  ],
+  "keywords": [
+    "proactmem",
+    "agent-memory",
+    "proactive-agent",
+    "event-driven",
+    "behavioral-regularity"
+  ],
+  "relevance": "Structured memory for proactive agents.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV8YKn5WAAAUslQ.png",
+      "from_post": "2116436922625093704",
+      "description": "Abstract of the Proactive Memory (ProactMem) paper and its ProactiveStream benchmark.",
+      "thumbnail": "posts/2026/10/31/2116436922625093704/media/0.webp",
+      "kind": "paper",
+      "ocr_text": "Proactive LLM agents anticipate service opportunities from ongoing observations and accumulated history. Existing approaches emphasize recent context or retrieval of related memories, providing limited support for validating recurring behavioral regularities and assessing their applicability to the current event. We propose Proactive Memory (ProactMem), which organizes history into recent events, temporal trajectories, and behavioral regularities. Trajectory facts are checked against source events, and regularities are assessed through historical replay before being matched to current conditions. We also construct ProactiveStream, a longitudinal benchmark covering three application scopes, where agents process isolated event streams chronologically under episode-aware opportunity labels. On ProactiveStream, ProactMem achieves an overall effectiveness…"
+    }
+  ]
+}

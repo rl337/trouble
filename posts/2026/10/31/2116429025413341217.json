@@ -1,0 +1,45 @@
+{
+  "id": "2116429025413341217",
+  "permalink": "https://x.com/chl708/status/2116429025413341217",
+  "author": {
+    "name": "Albarino",
+    "handle": "@chl708",
+    "profile_url": "https://x.com/chl708"
+  },
+  "posted_at": "2026-10-31T07:16:15Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**Albarino ([@chl708](https://x.com/chl708/status/2116429025413341217))** flags the new **blockWritesOutsideWorkingDirectories** setting in Claude Code 2.1.314, which makes Write/Edit/NotebookEdit refuse paths outside working directories in every permission mode; he enables it for unattended and CI agents ([release v2.1.314](https://github.com/anthropics/claude-code/releases/tag/v2.1.314)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.314",
+      "from_post": "2116429025413341217",
+      "short_url": "https://t.co/PAFaVxzPOV",
+      "title": "Release v2.1.314 · anthropics/claude-code"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "claude-code",
+    "sandbox",
+    "permission",
+    "ci",
+    "file-write"
+  ],
+  "relevance": "File-write sandboxing for unattended agent runs.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV8Q55EWIAA6inx.png",
+      "from_post": "2116429025413341217",
+      "description": "Card \"Claude Code v2.1.314: Write sandbox for agents\" describing permissions.blockWritesOutsideWorkingDirectories, which makes Write/Edit/NotebookEdit refuse paths outside working directories in every permission mode.",
+      "thumbnail": "posts/2026/10/31/2116429025413341217/media/0.webp",
+      "kind": "screenshot",
+      "ocr_text": "Claude Code · v2.1.314\nWrite sandbox for agents\npermissions.blockWritesOutsideWorkingDirectories\nWrite / Edit / NotebookEdit now refuse paths outside working directories — every permission mode.\nFlip it on for unattended and CI agent runs.\ngithub.com/anthropics/claude-code · release notes"
+    }
+  ]
+}

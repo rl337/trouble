@@ -1,0 +1,36 @@
+{
+  "id": "2116773225158136081",
+  "permalink": "https://x.com/NobuakiKuwabara/status/2116773225158136081",
+  "author": {
+    "name": "Nobuaki KUWABARA",
+    "handle": "@NobuakiKuwabara",
+    "profile_url": "https://x.com/NobuakiKuwabara"
+  },
+  "posted_at": "2026-11-01T06:03:59Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**Nobuaki KUWABARA ([@NobuakiKuwabara](https://x.com/NobuakiKuwabara/status/2116773225158136081))** shares *Program-as-Weights* by Zhang et al. ([arXiv 2607.02512](https://arxiv.org/abs/2607.02512)), which compiles natural-language specs for fuzzy functions into adapters for a small local interpreter model, reporting 0.6B-scale results comparable to prompting Qwen3-32B.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2607.02512",
+      "from_post": "2116773225158136081",
+      "short_url": "https://t.co/1PBLvNgPry",
+      "title": "Program-as-Weights: A Programming Paradigm for Fuzzy Functions"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-cognition",
+    "local-models"
+  ],
+  "keywords": [
+    "program-as-weights",
+    "fuzzy-function",
+    "adapter",
+    "fuzzybench",
+    "local-model"
+  ],
+  "relevance": "Compiling specs into small local models.",
+  "media": []
+}

@@ -1,0 +1,34 @@
+{
+  "id": "2116612782905000011",
+  "permalink": "https://x.com/Chris_Wozniczek/status/2116612782905000011",
+  "author": {
+    "name": "Chris W",
+    "handle": "@Chris_Wozniczek",
+    "profile_url": "https://x.com/Chris_Wozniczek"
+  },
+  "posted_at": "2026-10-31T19:26:26Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**Chris W ([@Chris_Wozniczek](https://x.com/Chris_Wozniczek/status/2116612782905000011))** recommends FineEnvs' guide to RL training inside real agent harnesses like Claude Code and OpenCode, based on an LFM 2.5 2.6B model ([The ultimate guide to multi-harness RL](https://huggingface.co/spaces/FineEnvs/multi-harness-rl)).",
+  "referenced_urls": [
+    {
+      "url": "https://huggingface.co/spaces/FineEnvs/multi-harness-rl#from-calls-to-training-sequences",
+      "from_post": "2116612782905000011",
+      "short_url": "https://t.co/016jazMQJm",
+      "title": "The ultimate guide to multi-harness RL - a Hugging Face Space by FineEnvs"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "multi-harness-rl",
+    "reinforcement-learning",
+    "harness",
+    "lfm"
+  ],
+  "relevance": "Training models inside production harnesses.",
+  "media": []
+}

@@ -1,0 +1,34 @@
+{
+  "id": "2116753360388861959",
+  "permalink": "https://x.com/AprilBoySantanu/status/2116753360388861959",
+  "author": {
+    "name": "Sant | AI creator",
+    "handle": "@AprilBoySantanu",
+    "profile_url": "https://x.com/AprilBoySantanu"
+  },
+  "posted_at": "2026-11-01T04:45:03Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**Sant | AI creator ([@AprilBoySantanu](https://x.com/AprilBoySantanu/status/2116753360388861959))** shares *WebAnything* by Xie et al. ([arXiv 2610.37786](https://arxiv.org/abs/2610.37786)), a fully automated framework that reconstructs reusable, resettable web environments from real URLs for training and evaluating web agents.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.37786",
+      "from_post": "2116753360388861959",
+      "short_url": "https://t.co/bNiVQsQyA6",
+      "title": "WebAnything: From the Wild Web to Scalable Agent Environments"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-cognition"
+  ],
+  "keywords": [
+    "webanything",
+    "web-agent",
+    "environment",
+    "benchmark"
+  ],
+  "relevance": "Scalable environments for web agents.",
+  "media": []
+}

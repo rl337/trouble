@@ -1,0 +1,34 @@
+{
+  "id": "2116561129162023350",
+  "permalink": "https://x.com/sfxnz/status/2116561129162023350",
+  "author": {
+    "name": "Sufyan",
+    "handle": "@sfxnz",
+    "profile_url": "https://x.com/sfxnz"
+  },
+  "posted_at": "2026-10-31T16:01:11Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**Sufyan ([@sfxnz](https://x.com/sfxnz/status/2116561129162023350))** points to DeepSeek's **dsh-superagent-prototype**, an autonomous agent system from the DeepSeek Harness team's daily work that he sees as a potential software factory ([deepseek-ai/dsh-superagent-prototype](https://github.com/deepseek-ai/dsh-superagent-prototype)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
+      "from_post": "2116561129162023350",
+      "short_url": "https://t.co/lYam7vcEZp",
+      "title": "GitHub - deepseek-ai/dsh-superagent-prototype: Towards a More Autonomous Agent System"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "dsh-superagent",
+    "deepseek-harness",
+    "autonomous-agent",
+    "software-factory"
+  ],
+  "relevance": "Autonomous agent system from a harness team.",
+  "media": []
+}

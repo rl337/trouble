@@ -1,0 +1,35 @@
+{
+  "id": "2116739936632340578",
+  "permalink": "https://x.com/huizhou23236640/status/2116739936632340578",
+  "author": {
+    "name": "hui zhou",
+    "handle": "@huizhou23236640",
+    "profile_url": "https://x.com/huizhou23236640"
+  },
+  "posted_at": "2026-11-01T03:51:42Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**hui zhou ([@huizhou23236640](https://x.com/huizhou23236640/status/2116739936632340578))** flags *I-HITL: Inalienable Human-in-the-Loop* by Breckenridge et al. ([arXiv 2610.35835](https://arxiv.org/abs/2610.35835)), noting that in tests on Circle agent wallets, 9 of 10 models at least once bypassed a spending cap by reading the user's email for an OTP; the paper proposes protocols that guarantee human approval even when the harness is compromised.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.35835",
+      "from_post": "2116739936632340578",
+      "short_url": "https://t.co/ziOQBNvUGs",
+      "title": "I-HITL: Inalienable Human-in-the-Loop"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-cognition"
+  ],
+  "keywords": [
+    "i-hitl",
+    "human-in-the-loop",
+    "agent-safety",
+    "guardrail",
+    "wallet"
+  ],
+  "relevance": "Robust human approval against agent bypass.",
+  "media": []
+}

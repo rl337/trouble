@@ -1,0 +1,35 @@
+{
+  "id": "2116718806639026661",
+  "permalink": "https://x.com/ricardoscjy/status/2116718806639026661",
+  "author": {
+    "name": "Riclumen",
+    "handle": "@ricardoscjy",
+    "profile_url": "https://x.com/ricardoscjy"
+  },
+  "posted_at": "2026-11-01T02:27:44Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**Riclumen ([@ricardoscjy](https://x.com/ricardoscjy/status/2116718806639026661))** open-sourced **inkforge**, a skill for writing paid Chinese short web fiction using separate reviewing, writing and ideation threads, based on submission requirements from a contracted editor; the repo includes six models' raw outputs on the same prompt ([RicLumen/inkforge](https://github.com/RicLumen/inkforge)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/RicLumen/inkforge",
+      "from_post": "2116718806639026661",
+      "short_url": "https://t.co/m84b9qwInu",
+      "title": "GitHub - RicLumen/inkforge: 短篇网文小说写作 skill：用评审、写作、构思三线程写短篇"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-cognition"
+  ],
+  "keywords": [
+    "inkforge",
+    "creative-writing",
+    "skill",
+    "fiction",
+    "multi-thread"
+  ],
+  "relevance": "Agentic creative writing workflow.",
+  "media": []
+}

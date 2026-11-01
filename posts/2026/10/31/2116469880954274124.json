@@ -1,0 +1,35 @@
+{
+  "id": "2116469880954274124",
+  "permalink": "https://x.com/Duncopunc/status/2116469880954274124",
+  "author": {
+    "name": "Jakub Hecht",
+    "handle": "@Duncopunc",
+    "profile_url": "https://x.com/Duncopunc"
+  },
+  "posted_at": "2026-10-31T09:58:36Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**Jakub Hecht ([@Duncopunc](https://x.com/Duncopunc/status/2116469880954274124))** notes MCP tool definitions consumed about 52k tokens of his Claude Code context, and releases **KyttoMCP 1.0.9.1** for macOS, which shows each tool's context cost and toggles individual tools in Claude Code, Codex, Antigravity and OpenCode with undo ([release](https://github.com/heyitsjakub/KyttoMCP/releases/tag/v1.0.9.1)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/heyitsjakub/KyttoMCP/releases/tag/v1.0.9.1",
+      "from_post": "2116469880954274124",
+      "short_url": "https://t.co/Avs55ownXq",
+      "title": "Release KyttoMCP 1.0.9.1 · heyitsjakub/KyttoMCP"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "kyttomcp",
+    "mcp",
+    "context-window",
+    "token-cost",
+    "claude-code"
+  ],
+  "relevance": "Controlling MCP context overhead.",
+  "media": []
+}

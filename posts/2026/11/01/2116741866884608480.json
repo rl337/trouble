@@ -1,0 +1,45 @@
+{
+  "id": "2116741866884608480",
+  "permalink": "https://x.com/nexsaicommunity/status/2116741866884608480",
+  "author": {
+    "name": "NEXSAI Community",
+    "handle": "@nexsaicommunity",
+    "profile_url": "https://x.com/nexsaicommunity"
+  },
+  "posted_at": "2026-11-01T03:59:22Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**NEXSAI Community ([@nexsaicommunity](https://x.com/nexsaicommunity/status/2116741866884608480))** built a **motion graphics skill** for Claude that turns ideas into videos with motion, transitions and sound effects ([saisandeep17/pro-motion-graphics-skill](https://github.com/saisandeep17/pro-motion-graphics-skill)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/saisandeep17/pro-motion-graphics-skill",
+      "from_post": "2116741866884608480",
+      "short_url": "https://t.co/WyGhyGFfi3",
+      "title": "GitHub - saisandeep17/pro-motion-graphics-skill: A production-focused AI skill for creating professional, studio-quality motion graphics using Remotion, React, HTML/CSS, SVG, and GSAP. Includes animation patterns, category-specific video playbooks, typography systems, and anti-AI-slop design rules t"
+    }
+  ],
+  "hashtags": [
+    "Claude",
+    "MotionGraphics",
+    "AISkills",
+    "Developers"
+  ],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "motion-graphics",
+    "skill",
+    "video"
+  ],
+  "relevance": "Agentic motion graphics skill.",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2116741781291401216/img/FPcSQwiqVVSQy8-l.jpg",
+      "from_post": "2116741866884608480",
+      "description": "Sample motion graphics video generated with the skill."
+    }
+  ]
+}

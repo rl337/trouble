@@ -1,0 +1,34 @@
+{
+  "id": "2116715129886613840",
+  "permalink": "https://x.com/shen06212/status/2116715129886613840",
+  "author": {
+    "name": "shen",
+    "handle": "@shen06212",
+    "profile_url": "https://x.com/shen06212"
+  },
+  "posted_at": "2026-11-01T02:13:08Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**shen ([@shen06212](https://x.com/shen06212/status/2116715129886613840))** notes **Codex CLI 0.166.0** adds `codex doctor --network-only`, checking effective config, network environment, provider HTTP reachability and the Responses WebSocket while skipping unrelated checks ([release 0.166.0](https://github.com/openai/codex/releases/tag/rust-v0.166.0)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.166.0",
+      "from_post": "2116715129886613840",
+      "short_url": "https://t.co/MicB6WEaDA",
+      "title": "Release 0.166.0 · openai/codex"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "codex-cli",
+    "diagnostic",
+    "release",
+    "network"
+  ],
+  "relevance": "Harness diagnostics release.",
+  "media": []
+}

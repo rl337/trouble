@@ -1,0 +1,70 @@
+{
+  "id": "2116640115351339038",
+  "permalink": "https://x.com/fly51fly/status/2116640115351339038",
+  "author": {
+    "name": "fly51fly",
+    "handle": "@fly51fly",
+    "profile_url": "https://x.com/fly51fly"
+  },
+  "posted_at": "2026-10-31T21:15:03Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**fly51fly ([@fly51fly](https://x.com/fly51fly/status/2116640115351339038))** shares *ThinkWorld* by Kim et al. from NVIDIA and KAIST ([arXiv 2610.37666](https://arxiv.org/abs/2610.37666)), a VLA framework representing action thoughts as Chain-of-Dynamics motion tokens and reinforcing them with world imagination so human videos without action labels can supervise robot policies.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.37666",
+      "from_post": "2116640115351339038",
+      "short_url": "https://t.co/H4WkESmHnp",
+      "title": "ThinkWorld: World Imagination Reinforces Chain-of-Dynamics Reasoning"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-cognition"
+  ],
+  "keywords": [
+    "thinkworld",
+    "chain-of-dynamics",
+    "vla",
+    "world-model",
+    "robotics"
+  ],
+  "relevance": "Reasoning through imagined world dynamics.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV_Q8pOaUAAzE-3.png",
+      "from_post": "2116640115351339038",
+      "description": "Bullet-point summary of ThinkWorld contributions: Chain-of-Dynamics motion tokens, consequence-grounded world-imagination RL, zero-shot skill composition from human video, and OOD generalization.",
+      "thumbnail": "posts/2026/10/31/2116640115351339038/media/0.webp",
+      "kind": "paper",
+      "ocr_text": "Addresses the fundamental trade-off in robot learning between scalable, diverse human video data (which lacks action labels) and explicit action grounding from robot demonstrations. Introduces Chain-of-Dynamics (CoD), a unified sequence of discrete motion tokens that acts as a shared action-reasoning interface across both human and robot embodiments. Proposes Consequence-Grounded Reinforcement Learning (World Imagination RL) which rewards generated CoD based on how well its predicted future visual state aligns with the actual observed future in a frozen DiNO feature space. Highly counter-intuitive design: The CoD generation and future visual prediction are completely discarded during deployment. They serve purely as training-time signals to shape the VLM's internal representations for the continuous action expert, thereby avoiding the heavy latency typical of reasoning-augmented models. Demonstrates zero-shot cross-embodiment skill composition: A robot can execute a complex, multi-step task (e.g., open -> put-left -> close) simply guided by a human video demonstrating the full sequence, provided the robot has only learned the atomic skills independently. Avoids pixel-level future reconstruction. By predicting futures in a frozen DINO latent space, the model focuses on structural and object-level dynamic changes rather than wasting capacity on photorealistic background generation. The reward function dynamically assigns higher weights to spatial patches with significant structural changes, preventing static backgrounds from dominating the RL signal. Empirically achieves state-of-the-art out-ofdistribution (OOD) generalization on real-world tasks (color matching, sorting) and simulation benchmarks (LIBERO-PRO, LIBERO-Plus),"
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV_Q9KZbAAAbOJT.jpg",
+      "from_post": "2116640115351339038",
+      "description": "Abstract of the ThinkWorld VLA paper.",
+      "thumbnail": "posts/2026/10/31/2116640115351339038/media/1.webp",
+      "kind": "paper",
+      "ocr_text": "Vision-Language-Action (VLA) models have made substantial progress in robotic manipulation, but their generalization remains constrained by the diversity and coverage of action-labeled robot demonstrations. Human videos provide much broader behavioral and environmental experience, while learning from them faces a fundamental trade-off between scalable data and explicit action grounding. We introduce ThinkWorld, a VLA learning framework that grounds action reasoning in world dynamics and strengthens it through reinforcement learning with world imagination. ThinkWorld represents each action thought as a Chain-of-Dynamics (CoD), a sequence of discrete motion tokens that captures the intermediate dynamics connecting the current world to a future state and serves as a common action representation across embodiments. We first initialize CoD with action-labeled demonstrations, then predict the future induced by each CoD and reinforce those whose predictions better match the observed outcome. This enables videos without action annotations to provide direct supervision from observed state transitions, allowing human and robot experience to refine the same reasoning space. Experiments in simulation and on real robots demonstrate effective human-to-robot transfer and strong generalization to unseen tasks and environments."
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV_Q9WIbEAEKC0k.jpg",
+      "from_post": "2116640115351339038",
+      "description": "ThinkWorld Figure 1: human and robot experience mapped into a unified motion space, future imagination via Chain-of-Dynamics, RL scaling, real-world generalization and skill composition from human videos.",
+      "thumbnail": "posts/2026/10/31/2116640115351339038/media/2.webp",
+      "kind": "diagram"
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV_Q9k5bUAAnkAW.jpg",
+      "from_post": "2116640115351339038",
+      "description": "ThinkWorld Figure 2: SFT stage tokenizing robot actions and human hand motions, and an RL stage rewarding imagined futures that match observed futures in a DINO feature space.",
+      "thumbnail": "posts/2026/10/31/2116640115351339038/media/3.webp",
+      "kind": "diagram"
+    }
+  ]
+}

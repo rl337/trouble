@@ -1,0 +1,65 @@
+{
+  "id": "2116757912395923661",
+  "permalink": "https://x.com/Za51241Zhi/status/2116757912395923661",
+  "author": {
+    "name": "(Zach)",
+    "handle": "@Za51241Zhi",
+    "profile_url": "https://x.com/Za51241Zhi"
+  },
+  "posted_at": "2026-11-01T05:03:08Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [
+    {
+      "id": "2116757914002378996",
+      "permalink": "https://x.com/Za51241Zhi/status/2116757914002378996",
+      "posted_at": "2026-11-01T05:03:08Z",
+      "position": 1
+    },
+    {
+      "id": "2116757915403272274",
+      "permalink": "https://x.com/Za51241Zhi/status/2116757915403272274",
+      "posted_at": "2026-11-01T05:03:09Z",
+      "position": 2
+    },
+    {
+      "id": "2116757916963459105",
+      "permalink": "https://x.com/Za51241Zhi/status/2116757916963459105",
+      "posted_at": "2026-11-01T05:03:09Z",
+      "position": 3
+    },
+    {
+      "id": "2116757918452507122",
+      "permalink": "https://x.com/Za51241Zhi/status/2116757918452507122",
+      "posted_at": "2026-11-01T05:03:09Z",
+      "position": 4
+    },
+    {
+      "id": "2116757919970849107",
+      "permalink": "https://x.com/Za51241Zhi/status/2116757919970849107",
+      "posted_at": "2026-11-01T05:03:10Z",
+      "position": 5
+    }
+  ],
+  "summary_md": "**(Zach) ([@Za51241Zhi](https://x.com/Za51241Zhi/status/2116757912395923661))** presents his paper with Arash A. Amini, *Two Sample Sizes in Test-Time LLM Ensembling* ([arXiv 2610.21363](https://arxiv.org/abs/2610.21363)): learning ensemble weights depends on both the number of questions and generations per question; buffered ERM counts a question solved only above a calibrated margin, with excess risk around Q^-1/2 + N^-β/2 and an irreducible N-dependent floor even with many questions.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.21363",
+      "from_post": "2116757912395923661",
+      "short_url": "https://t.co/7z9vNMxRGS",
+      "title": "Two Sample Sizes in Test-Time LLM Ensembling: Buffered ERM and..."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-cognition"
+  ],
+  "keywords": [
+    "test-time-scaling",
+    "ensemble",
+    "buffered-erm",
+    "minimax"
+  ],
+  "relevance": "Theory of test-time ensembling.",
+  "media": []
+}

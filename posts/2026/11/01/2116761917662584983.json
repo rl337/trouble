@@ -1,0 +1,34 @@
+{
+  "id": "2116761917662584983",
+  "permalink": "https://x.com/austingriffith/status/2116761917662584983",
+  "author": {
+    "name": "Austin Griffith",
+    "handle": "@austingriffith",
+    "profile_url": "https://x.com/austingriffith"
+  },
+  "posted_at": "2026-11-01T05:19:03Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**Austin Griffith ([@austingriffith](https://x.com/austingriffith/status/2116761917662584983))** shares **Qwenventory**, a starter kit for building a fully private, offline 'phone brain' over your own data by handing it to your agent ([austintgriffith/qwenventory](https://github.com/austintgriffith/qwenventory)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/austintgriffith/qwenventory",
+      "from_post": "2116761917662584983",
+      "short_url": "https://t.co/Tueg6Ba8gn",
+      "title": "GitHub - austintgriffith/qwenventory"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "local-models"
+  ],
+  "keywords": [
+    "qwenventory",
+    "offline",
+    "on-device",
+    "qwen"
+  ],
+  "relevance": "Agent-built offline local model app.",
+  "media": []
+}

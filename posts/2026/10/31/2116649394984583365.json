@@ -1,0 +1,33 @@
+{
+  "id": "2116649394984583365",
+  "permalink": "https://x.com/alexdelrosso/status/2116649394984583365",
+  "author": {
+    "name": "Alessandro Del Rosso",
+    "handle": "@alexdelrosso",
+    "profile_url": "https://x.com/alexdelrosso"
+  },
+  "posted_at": "2026-10-31T21:51:55Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**Alessandro Del Rosso ([@alexdelrosso](https://x.com/alexdelrosso/status/2116649394984583365))** notes in his GitHub digest that draw.io released an official **MCP server** letting models create and open diagrams in its editor ([GitHub Digest Oct 31, 2026](https://www.alextech.ai/en/news/github-digest-october-31-2026/)).",
+  "referenced_urls": [
+    {
+      "url": "https://www.alextech.ai/en/news/github-digest-october-31-2026/",
+      "from_post": "2116649394984583365",
+      "short_url": "https://t.co/9ZsIKPaG35",
+      "title": "GitHub Digest — October 31, 2026"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "draw-io",
+    "mcp",
+    "diagram"
+  ],
+  "relevance": "Diagramming tool for agents via MCP.",
+  "media": []
+}

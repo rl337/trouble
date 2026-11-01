@@ -1,0 +1,42 @@
+{
+  "id": "2116432483713479059",
+  "permalink": "https://x.com/aiposthub/status/2116432483713479059",
+  "author": {
+    "name": "aiposthub",
+    "handle": "@aiposthub",
+    "profile_url": "https://x.com/aiposthub"
+  },
+  "posted_at": "2026-10-31T07:30:00Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**aiposthub ([@aiposthub](https://x.com/aiposthub/status/2116432483713479059))** explains how creator Ichigo used **Claude Animation Base**, a hand-drawn character template by John Heibel, to have Claude code an animated story where a paper lantern becomes an epic sunset; the tip is to organize characters, actions and scenes first and check thumbnails ([tutorial](https://www.aiposthub.com/ai-animation-character-base-prompt-workflow/)).",
+  "referenced_urls": [
+    {
+      "url": "https://www.aiposthub.com/ai-animation-character-base-prompt-workflow/",
+      "from_post": "2116432483713479059",
+      "short_url": "https://t.co/UFIVd6bX7C",
+      "title": "Claude Animation Base 教學：用手繪角色範本做15秒動作故事"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "claude-animation-base",
+    "animation",
+    "character",
+    "storyboard",
+    "claude"
+  ],
+  "relevance": "Code-driven animation workflow with Claude.",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2115114838460604416/img/FzCuTSWoQSNxkdIy.jpg",
+      "from_post": "2116432483713479059",
+      "description": "Short animated clip made with Claude Animation Base."
+    }
+  ]
+}

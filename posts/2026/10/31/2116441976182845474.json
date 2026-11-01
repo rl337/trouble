@@ -1,0 +1,34 @@
+{
+  "id": "2116441976182845474",
+  "permalink": "https://x.com/badlogicgames/status/2116441976182845474",
+  "author": {
+    "name": "Mario Zechner",
+    "handle": "@badlogicgames",
+    "profile_url": "https://x.com/badlogicgames"
+  },
+  "posted_at": "2026-10-31T08:07:43Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**Mario Zechner ([@badlogicgames](https://x.com/badlogicgames/status/2116441976182845474))** links Anthropic's research post on how AI agents influence experts' judgment calls ([How AI agents shape experts' judgment calls](https://www.anthropic.com/research/agents-judgment-calls)).",
+  "referenced_urls": [
+    {
+      "url": "https://www.anthropic.com/research/agents-judgment-calls",
+      "from_post": "2116441976182845474",
+      "short_url": "https://t.co/rv0X5uBerI",
+      "title": "How AI agents shape experts’ judgment calls"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-cognition"
+  ],
+  "keywords": [
+    "judgment",
+    "human-ai-interaction",
+    "expert",
+    "anthropic-research"
+  ],
+  "relevance": "Human-agent decision dynamics research.",
+  "media": []
+}

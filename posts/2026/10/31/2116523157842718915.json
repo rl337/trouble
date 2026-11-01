@@ -1,0 +1,35 @@
+{
+  "id": "2116523157842718915",
+  "permalink": "https://x.com/the123456ai/status/2116523157842718915",
+  "author": {
+    "name": "小满",
+    "handle": "@the123456ai",
+    "profile_url": "https://x.com/the123456ai"
+  },
+  "posted_at": "2026-10-31T13:30:18Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**小满 ([@the123456ai](https://x.com/the123456ai/status/2116523157842718915))** introduces **EdgeRock-4B**, derived from Qwen3.5-4B, which keeps the last 1,024 tokens in full and compresses older context into a fixed memory bank, holding KV cache at 72 MiB; self-reported AIME 24–26 mean is 82.9% vs 86.1% for the base; not yet runnable in Ollama ([rockmatrix-ai/EdgeRock](https://huggingface.co/rockmatrix-ai/EdgeRock)).",
+  "referenced_urls": [
+    {
+      "url": "https://huggingface.co/rockmatrix-ai/EdgeRock",
+      "from_post": "2116523157842718915",
+      "short_url": "https://t.co/2072ajBuDg",
+      "title": "rockmatrix-ai/EdgeRock · Hugging Face"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "local-models"
+  ],
+  "keywords": [
+    "edgerock",
+    "kv-cache",
+    "long-context",
+    "4b",
+    "memory-bank"
+  ],
+  "relevance": "Constant-memory long reasoning for small local models.",
+  "media": []
+}

@@ -1,0 +1,44 @@
+{
+  "id": "2116598958512275713",
+  "permalink": "https://x.com/SciFi/status/2116598958512275713",
+  "author": {
+    "name": "Artificial Intelligence Papers",
+    "handle": "@SciFi",
+    "profile_url": "https://x.com/SciFi"
+  },
+  "posted_at": "2026-10-31T18:31:30Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**Artificial Intelligence Papers ([@SciFi](https://x.com/SciFi/status/2116598958512275713))** shares *TeamGym* by Park et al. ([arXiv 2610.37571](https://arxiv.org/abs/2610.37571)), an environment for training and evaluating LLM agent teams on decisions requiring distributed 'pivotal information' drawn from legal, finance, medical and software corpora.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.37571",
+      "from_post": "2116598958512275713",
+      "short_url": "https://t.co/xQizz80fJ9",
+      "title": "TeamGym: A Gym for Team Decision-Making by AI Agents with..."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-cognition"
+  ],
+  "keywords": [
+    "teamgym",
+    "multi-agent",
+    "team-decision",
+    "pivotal-information"
+  ],
+  "relevance": "Team decision-making with distributed info.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV-riU0WQAAT9iT.png",
+      "from_post": "2116598958512275713",
+      "description": "Abstract of the TeamGym environment for team decision-making with distributed pivotal information.",
+      "thumbnail": "posts/2026/10/31/2116598958512275713/media/0.webp",
+      "kind": "paper",
+      "ocr_text": "Many real-world decisions require teams to integrate information distributed across participants. Yet AI agents are still primarily trained and benchmarked in isolation. We introduce TeamGym, an environment for evaluating and training language model-based agents on team decision-making problems constructed from real-world legal, finance, medical, and software engineering corpora. TeamGym introduces a method to identify a minimal set of facts, each element of which is necessary and all of which are collectively sufficient for a correct final decision, which we call pivotal information. This enables TeamGym to both control the distribution of pivotal information and track how well agents identify and integrate pivotal information when making team decisions. Examining 8 language models on 12 source corpora, we find that current AI agents often fail to effectively share…"
+    }
+  ]
+}

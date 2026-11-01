@@ -1,0 +1,42 @@
+{
+  "id": "2116628689475764313",
+  "permalink": "https://x.com/jaywcjlove/status/2116628689475764313",
+  "author": {
+    "name": "小弟调调",
+    "handle": "@jaywcjlove",
+    "profile_url": "https://x.com/jaywcjlove"
+  },
+  "posted_at": "2026-10-31T20:29:39Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**小弟调调 ([@jaywcjlove](https://x.com/jaywcjlove/status/2116628689475764313))** shares **Imbo**, a Rust instant-messaging tool that lets sessions of six coding agents, including Claude Code, Codex and opencode, message each other ([Bearisbug/imbo](https://github.com/Bearisbug/imbo)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/Bearisbug/imbo",
+      "from_post": "2116628689475764313",
+      "short_url": "https://t.co/4lzYEjpAd2",
+      "title": "GitHub - Bearisbug/imbo: Instant messaging between coding agent sessions — Claude Code, Codex, opencode, Cursor CLI, MiniMax Code and ZCode — across tools, to other people's agents"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "imbo",
+    "multi-agent",
+    "messaging",
+    "rust",
+    "coding-agent"
+  ],
+  "relevance": "Inter-agent messaging across harnesses.",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2116628279738470400/img/StL0MTYby0gWQpza.jpg",
+      "from_post": "2116628689475764313",
+      "description": "Demo of coding agent sessions messaging each other via Imbo."
+    }
+  ]
+}

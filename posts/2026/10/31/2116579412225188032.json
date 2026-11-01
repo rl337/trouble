@@ -1,0 +1,35 @@
+{
+  "id": "2116579412225188032",
+  "permalink": "https://x.com/hermitdave/status/2116579412225188032",
+  "author": {
+    "name": "Hermit Dave",
+    "handle": "@hermitdave",
+    "profile_url": "https://x.com/hermitdave"
+  },
+  "posted_at": "2026-10-31T17:13:50Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**Hermit Dave ([@hermitdave](https://x.com/hermitdave/status/2116579412225188032))** published an MLX SLQ 4.5-bpw quant of SenseTime's **SenseNova Loop-9B-Preview** looped transformer after 20 hours of work, reaching about 0.938 EAR versus BF16 ([hermitdave/SenseNova-Loop-9B-Preview-MLX-slq-4.5bpw](https://huggingface.co/hermitdave/SenseNova-Loop-9B-Preview-MLX-slq-4.5bpw)).",
+  "referenced_urls": [
+    {
+      "url": "https://huggingface.co/hermitdave/SenseNova-Loop-9B-Preview-MLX-slq-4.5bpw",
+      "from_post": "2116579412225188032",
+      "short_url": "https://t.co/nR2gwpiVa0",
+      "title": "hermitdave/SenseNova-Loop-9B-Preview-MLX-slq-4.5bpw · Hugging Face"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "local-models"
+  ],
+  "keywords": [
+    "sensenova-loop",
+    "looped-transformer",
+    "mlx",
+    "quantization",
+    "9b"
+  ],
+  "relevance": "Local quant of a looped reasoning model.",
+  "media": []
+}

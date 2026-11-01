@@ -1,0 +1,42 @@
+{
+  "id": "2116547491831394418",
+  "permalink": "https://x.com/Machinedelusion/status/2116547491831394418",
+  "author": {
+    "name": "Machine Delusions",
+    "handle": "@Machinedelusion",
+    "profile_url": "https://x.com/Machinedelusion"
+  },
+  "posted_at": "2026-10-31T15:07:00Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**Machine Delusions ([@Machinedelusion](https://x.com/Machinedelusion/status/2116547491831394418))** reports Pika open-sourced **Pika H3 Flex**, LoRAs on MiniMax H3 producing video with synced stereo audio in six steps from up to 12 references, in text, first/last-frame or reference modes at 480p/768p locally, with ComfyUI workflows ([Pika-Labs/Pika-H3-Flex](https://huggingface.co/Pika-Labs/Pika-H3-Flex)).",
+  "referenced_urls": [
+    {
+      "url": "https://huggingface.co/Pika-Labs/Pika-H3-Flex",
+      "from_post": "2116547491831394418",
+      "short_url": "https://t.co/mprjh5DoV7",
+      "title": "Pika-Labs/Pika-H3-Flex · Hugging Face"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "pika-h3-flex",
+    "minimax-h3",
+    "lora",
+    "video-generation",
+    "comfyui"
+  ],
+  "relevance": "Open local video-with-audio generation.",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2116344377702236160/img/KNhN6oSATUe99ocU.jpg",
+      "from_post": "2116547491831394418",
+      "description": "Sample clip generated with Pika H3 Flex."
+    }
+  ]
+}

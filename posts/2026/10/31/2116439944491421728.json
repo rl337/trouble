@@ -1,0 +1,35 @@
+{
+  "id": "2116439944491421728",
+  "permalink": "https://x.com/DropRadar_io/status/2116439944491421728",
+  "author": {
+    "name": "开源雷达 | AI 工具日报",
+    "handle": "@DropRadar_io",
+    "profile_url": "https://x.com/DropRadar_io"
+  },
+  "posted_at": "2026-10-31T07:59:38Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**开源雷达 | AI 工具日报 ([@DropRadar_io](https://x.com/DropRadar_io/status/2116439944491421728))** recommends **Lampline** for AI phone agents: test cases are YAML specs of what callers say and what the agent must or must not say, `vk test` pinpoints failures, and an AI caller can place real test calls; it ships skills for Claude Code, Cursor and Codex and runs locally without API keys ([C4rohan/Lampline](https://github.com/C4rohan/Lampline)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/C4rohan/Lampline",
+      "from_post": "2116439944491421728",
+      "short_url": "https://t.co/0jmxwVk5cs",
+      "title": "GitHub - C4rohan/Lampline: Build AI phone agents on your own computer and test every change with an AI caller. Open source, runs free with no API keys, cents per call with your own keys. Imports Dialogflow CX."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "lampline",
+    "voice-agent",
+    "testing",
+    "yaml",
+    "skill"
+  ],
+  "relevance": "Local test harness for voice agents.",
+  "media": []
+}

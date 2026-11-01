@@ -1,0 +1,43 @@
+{
+  "id": "2116782770999423340",
+  "permalink": "https://x.com/warrior_naruto/status/2116782770999423340",
+  "author": {
+    "name": "solo_warrior_naruto",
+    "handle": "@warrior_naruto",
+    "profile_url": "https://x.com/warrior_naruto"
+  },
+  "posted_at": "2026-11-01T06:41:55Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**solo\\_warrior\\_naruto ([@warrior_naruto](https://x.com/warrior_naruto/status/2116782770999423340))** shares **Unslop**, a Claude skill that hunts vibecoded UI traits like purple gradients, glows and emoji labels and fixes them pass by pass like a designer's redline review ([heydamir/unslop](https://github.com/heydamir/unslop)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/heydamir/unslop",
+      "from_post": "2116782770999423340",
+      "short_url": "https://t.co/nzRjFvHr8j",
+      "title": "GitHub - heydamir/unslop: A Claude skill that turns vibecoded, AI-looking UI into a designed interface"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "unslop",
+    "skill",
+    "ui-design",
+    "redline"
+  ],
+  "relevance": "Design-quality skill for agent UIs.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HWBSqVIWAAEbfGU.jpg",
+      "from_post": "2116782770999423340",
+      "description": "Before/after illustration of a dashboard UI: a cluttered purple gradient, emoji-heavy \"vibecoded\" design versus a clean light version; labeled as an illustrative example.",
+      "thumbnail": "posts/2026/11/01/2116782770999423340/media/0.webp",
+      "kind": "screenshot"
+    }
+  ]
+}

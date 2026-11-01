@@ -1,0 +1,51 @@
+{
+  "id": "2116536823182921924",
+  "permalink": "https://x.com/summerAI_O/status/2116536823182921924",
+  "author": {
+    "name": "summer",
+    "handle": "@summerAI_O",
+    "profile_url": "https://x.com/summerAI_O"
+  },
+  "posted_at": "2026-10-31T14:24:36Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [
+    {
+      "id": "2116540500669084053",
+      "permalink": "https://x.com/summerAI_O/status/2116540500669084053",
+      "posted_at": "2026-10-31T14:39:13Z",
+      "position": 1
+    }
+  ],
+  "summary_md": "**summer ([@summerAI_O](https://x.com/summerAI_O/status/2116536823182921924))** notes EdgeRock-4B's fixed-memory design resembles his own **Qwen3.8-27B-Longbook27-v2** fine-tune ([summerAIO/Qwen3.8-27B-Longbook27-v2](https://huggingface.co/summerAIO/Qwen3.8-27B-Longbook27-v2)).",
+  "referenced_urls": [
+    {
+      "url": "https://huggingface.co/summerAIO/Qwen3.8-27B-Longbook27-v2",
+      "from_post": "2116536823182921924",
+      "short_url": "https://t.co/92emMPWRrS",
+      "title": "summerAIO/Qwen3.8-27B-Longbook27-v2 · Hugging Face"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "local-models"
+  ],
+  "keywords": [
+    "longbook",
+    "qwen3-8",
+    "27b",
+    "long-context",
+    "fine-tune"
+  ],
+  "relevance": "Another long-context ~30B local model variant.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV9zBbpbgAEGS3e.jpg",
+      "from_post": "2116536823182921924",
+      "description": "Chunked-prefill peak VRAM chart (chunk 8,192): stock Qwen3.8-27B climbs from about 55 to 73 GiB by 200K tokens, while the SpeedX27-VL-GDN64 variant stays flat near 55 GiB to 260K.",
+      "thumbnail": "posts/2026/10/31/2116536823182921924/media/0.webp",
+      "kind": "chart"
+    }
+  ]
+}

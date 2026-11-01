@@ -1,0 +1,35 @@
+{
+  "id": "2116664234973266149",
+  "permalink": "https://x.com/SanemBuilds/status/2116664234973266149",
+  "author": {
+    "name": "Sanem Avcil",
+    "handle": "@SanemBuilds",
+    "profile_url": "https://x.com/SanemBuilds"
+  },
+  "posted_at": "2026-10-31T22:50:53Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**Sanem Avcil ([@SanemBuilds](https://x.com/SanemBuilds/status/2116664234973266149))** credits LucasJRamos for **SpriteKiln**, which turns YAML-defined 3D characters into animated 8-direction pixel-art sprites for Godot 4, Unity and MonoGame, designed to be driven by coding agents without a GPU or Blender ([LucasJRamos/spritekiln](https://github.com/LucasJRamos/spritekiln)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/LucasJRamos/spritekiln",
+      "from_post": "2116664234973266149",
+      "short_url": "https://t.co/XYPxChPo9x",
+      "title": "GitHub - LucasJRamos/spritekiln: Animated pixel-art sprites (8-direction top-down or side view) from procedural 3D models in YAML, built to be driven by coding AIs. Exports to Godot, Unity, MonoGame or any engine."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "spritekiln",
+    "pixel-art",
+    "sprite",
+    "godot",
+    "yaml"
+  ],
+  "relevance": "Agent-driven sprite animation.",
+  "media": []
+}

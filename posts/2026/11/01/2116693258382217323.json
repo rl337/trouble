@@ -1,0 +1,44 @@
+{
+  "id": "2116693258382217323",
+  "permalink": "https://x.com/SciFi/status/2116693258382217323",
+  "author": {
+    "name": "Artificial Intelligence Papers",
+    "handle": "@SciFi",
+    "profile_url": "https://x.com/SciFi"
+  },
+  "posted_at": "2026-11-01T00:46:13Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**Artificial Intelligence Papers ([@SciFi](https://x.com/SciFi/status/2116693258382217323))** shares *Goal-Aware Dynamic Multi-Agent Collaboration* by Shen et al. ([arXiv 2610.39193](https://arxiv.org/abs/2610.39193)), which finds verification predicts long-horizon success but happens too late and that mixed duties dilute context, motivating dynamic duty-specific agents.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.39193",
+      "from_post": "2116693258382217323",
+      "short_url": "https://t.co/4h1blh3JFS",
+      "title": "Goal-Aware Dynamic Multi-Agent Collaboration for Long-Horizon Tasks"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-cognition"
+  ],
+  "keywords": [
+    "multi-agent",
+    "long-horizon",
+    "verification",
+    "planning"
+  ],
+  "relevance": "Structuring agent duties for long tasks.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HWABTTRXEAAs6UK.png",
+      "from_post": "2116693258382217323",
+      "description": "Abstract of the goal-aware dynamic multi-agent collaboration paper for long-horizon tasks.",
+      "thumbnail": "posts/2026/11/01/2116693258382217323/media/0.webp",
+      "kind": "paper",
+      "ocr_text": "LLM-based agents are increasingly used to complete complex, long-horizon tasks without human intervention. To make progress toward the task goal, agents need to perform different duties, such as planning and verification, when needed. To understand how single agents manage these duties during long-horizon execution, we conduct a preliminary study. Our analysis shows that verification has the strongest association with task success, but often occurs late, leaving limited opportunities for correction. We also find that the proportion of duty-relevant information decreases as records from different duties accumulate in a shared context. These findings lead us to examine whether multi-agent systems (MAS) can address these problems by assigning duties to agents with separate contexts. Our analysis shows that this separation alone is insufficient. Agents can lose track of the overall goal and…"
+    }
+  ]
+}

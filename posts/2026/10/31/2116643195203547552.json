@@ -1,0 +1,34 @@
+{
+  "id": "2116643195203547552",
+  "permalink": "https://x.com/parcadei/status/2116643195203547552",
+  "author": {
+    "name": "dei",
+    "handle": "@parcadei",
+    "profile_url": "https://x.com/parcadei"
+  },
+  "posted_at": "2026-10-31T21:27:17Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**dei ([@parcadei](https://x.com/parcadei/status/2116643195203547552))** praises Liquid AI's new **d1-2B** decision model ([LiquidAI/d1-2B](https://huggingface.co/LiquidAI/d1-2B)).",
+  "referenced_urls": [
+    {
+      "url": "https://huggingface.co/LiquidAI/d1-2B",
+      "from_post": "2116643195203547552",
+      "short_url": "https://t.co/YjmvGaoN7o",
+      "title": "LiquidAI/d1-2B · Hugging Face"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "local-models"
+  ],
+  "keywords": [
+    "d1-2b",
+    "decision-model",
+    "liquid-ai",
+    "2b"
+  ],
+  "relevance": "Tiny decision model for agent routing.",
+  "media": []
+}

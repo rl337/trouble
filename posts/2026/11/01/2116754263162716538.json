@@ -1,0 +1,41 @@
+{
+  "id": "2116754263162716538",
+  "permalink": "https://x.com/digisoulhub/status/2116754263162716538",
+  "author": {
+    "name": "Digital Soul Hub",
+    "handle": "@digisoulhub",
+    "profile_url": "https://x.com/digisoulhub"
+  },
+  "posted_at": "2026-11-01T04:48:38Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**Digital Soul Hub ([@digisoulhub](https://x.com/digisoulhub/status/2116754263162716538))** highlights **Lightpanda**, a headless browser written in Zig for agents, whose own benchmark claims about 16x less memory and 9x faster than headless Chrome; AGPL-3.0, no native Windows build ([lightpanda-io/browser](https://github.com/lightpanda-io/browser)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/lightpanda-io/browser",
+      "from_post": "2116754263162716538",
+      "short_url": "https://t.co/EGTqHup4hD",
+      "title": "GitHub - lightpanda-io/browser: Lightpanda: the headless browser designed for AI and automation"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "lightpanda",
+    "headless-browser",
+    "zig",
+    "browser-automation"
+  ],
+  "relevance": "Lightweight browser for agents.",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2116753758663434241/img/1RI8tP5pJV0cEBZm.jpg",
+      "from_post": "2116754263162716538",
+      "description": "Demo of Lightpanda headless browser performance."
+    }
+  ]
+}

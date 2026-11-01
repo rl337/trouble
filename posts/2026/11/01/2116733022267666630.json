@@ -1,0 +1,101 @@
+{
+  "id": "2116733022267666630",
+  "permalink": "https://x.com/FooSteins/status/2116733022267666630",
+  "author": {
+    "name": "Steins",
+    "handle": "@FooSteins",
+    "profile_url": "https://x.com/FooSteins"
+  },
+  "posted_at": "2026-11-01T03:24:14Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [
+    {
+      "id": "2116733648800198659",
+      "permalink": "https://x.com/FooSteins/status/2116733648800198659",
+      "posted_at": "2026-11-01T03:26:43Z",
+      "position": 1
+    },
+    {
+      "id": "2116733944456769903",
+      "permalink": "https://x.com/FooSteins/status/2116733944456769903",
+      "posted_at": "2026-11-01T03:27:54Z",
+      "position": 2
+    }
+  ],
+  "summary_md": "**Steins ([@FooSteins](https://x.com/FooSteins/status/2116733022267666630))** explains **L3G-World** from KAIST AI by Choi et al. ([arXiv 2610.40614](https://arxiv.org/abs/2610.40614), [project](https://cvlab-kaist.github.io/L3G-World/)): from one image it generates a walkable world in real time at 9 FPS, remembering what is behind you via 3D Gaussians storing VAE latents that render straight into the DiT's latent space; the thread cites up to 38.6x fewer primitives and 359x faster memory rendering than prior 3D memory.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.40614",
+      "from_post": "2116733022267666630",
+      "short_url": "https://t.co/osOrJEZ0HL",
+      "title": "L3G-World: Real-Time Infinite World Generation with Latent 3D..."
+    },
+    {
+      "url": "https://cvlab-kaist.github.io/L3G-World/",
+      "from_post": "2116733944456769903",
+      "short_url": "https://t.co/Tck5KKFvKm",
+      "title": "L3G-World: Real-Time Infinite World Generation with Latent 3D Gaussian Memory"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "l3g-world",
+    "world-model",
+    "gaussian-splatting",
+    "video-generation",
+    "dit"
+  ],
+  "relevance": "Real-time world generation with 3D memory.",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2116732941795811329/img/VQOkxqjHfBjLKS-r.jpg",
+      "from_post": "2116733022267666630",
+      "description": "Side-by-side of generated world video and its 3D Gaussian memory."
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HWAmAY-a8AAIPoH.jpg",
+      "from_post": "2116733648800198659",
+      "description": "L3G-World overview: a single image, text prompt and camera trajectory feed a latent 3D Gaussian memory, with L3G-Gen and L3G-Mem modules enabling infinite world generation.",
+      "thumbnail": "posts/2026/11/01/2116733022267666630/media/1.webp",
+      "kind": "diagram"
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HWAmAZrbUAAyKjw.jpg",
+      "from_post": "2116733648800198659",
+      "description": "Architecture of L3G-Gen, an autoregressive video DiT conditioned on rendered persistent memory, with memory-conditioned generation examples.",
+      "thumbnail": "posts/2026/11/01/2116733022267666630/media/2.webp",
+      "kind": "diagram"
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HWAmAYSb0AAIsBU.jpg",
+      "from_post": "2116733648800198659",
+      "description": "Architecture of L3G-Mem and a visualization of memory updates with spawn masks.",
+      "thumbnail": "posts/2026/11/01/2116733022267666630/media/3.webp",
+      "kind": "diagram"
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HWAmRWebYAAIinc.jpg",
+      "from_post": "2116733944456769903",
+      "description": "L3G-World overview with charts showing flat memory use and steady real-time throughput over generation time, while baselines run out of memory.",
+      "thumbnail": "posts/2026/11/01/2116733022267666630/media/4.webp",
+      "kind": "chart"
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HWAmRWnbsAAi5Q5.jpg",
+      "from_post": "2116733944456769903",
+      "description": "Qualitative comparison grid of L3G-World and L3G-World Fast against Matrix-Game 3.0, Yume 1.5, GEN3C, Spatia, Lyra 2.0 and NeoVerse across three scenes.",
+      "thumbnail": "posts/2026/11/01/2116733022267666630/media/5.webp",
+      "kind": "photo"
+    }
+  ]
+}

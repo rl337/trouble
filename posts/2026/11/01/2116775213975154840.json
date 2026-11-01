@@ -1,0 +1,55 @@
+{
+  "id": "2116775213975154840",
+  "permalink": "https://x.com/haishenling/status/2116775213975154840",
+  "author": {
+    "name": "XiaoDong",
+    "handle": "@haishenling",
+    "profile_url": "https://x.com/haishenling"
+  },
+  "posted_at": "2026-11-01T06:11:53Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**XiaoDong ([@haishenling](https://x.com/haishenling/status/2116775213975154840))** highlights **pixelfx**, an open library of pixel-art game effects each written as a small piece of code, with a Claude Code skill for generating new ones on request ([patch-gg/pixelfx](https://github.com/patch-gg/pixelfx)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/patch-gg/pixelfx",
+      "from_post": "2116775213975154840",
+      "short_url": "https://t.co/mvf2gTcAzc",
+      "title": "GitHub - patch-gg/pixelfx: 232 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own."
+    }
+  ],
+  "hashtags": [
+    "开源工具",
+    "像素特效"
+  ],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "pixelfx",
+    "pixel-art",
+    "game-effect",
+    "skill"
+  ],
+  "relevance": "Code-generated pixel art effects.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HWBLqlVXgAAobMK.jpg",
+      "from_post": "2116775213975154840",
+      "description": "Chinese promo card for pixelfx: 244 pixel-art game effects, each a small code snippet, with a Claude Code skill; created Oct 30, about 1,600 stars in two days, MIT licensed.",
+      "thumbnail": "posts/2026/11/01/2116775213975154840/media/0.webp",
+      "kind": "screenshot",
+      "ocr_text": "来源 · GitHub 10-30\n像素特效爆了 Claude代画\n244个像素特效，个个都是一小段代码。\n配个Claude Code技能：你说句话，它替你画新的。\n——pixelfx项目说明文档（10月30日，原文转录）\n■ 10月30日建仓，两天涨1600星\n■ 244个像素游戏特效，开箱即用\n■ Claude Code技能：说句话就画新特效\n■ MIT协议，商用随便拿\n■ GitHub热榜AI工具类新上榜\n图源：像素特效开源仓库（10月30日）"
+    },
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HWBLt2rWsAA6PE6.png",
+      "from_post": "2116775213975154840",
+      "description": "Six pixel-art frames of a knight attacking a training dummy with sword, hammer and a blue energy effect, illustrating pixelfx effects.",
+      "thumbnail": "posts/2026/11/01/2116775213975154840/media/1.webp",
+      "kind": "photo"
+    }
+  ]
+}

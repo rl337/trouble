@@ -1,0 +1,45 @@
+{
+  "id": "2116687885986390402",
+  "permalink": "https://x.com/HEI/status/2116687885986390402",
+  "author": {
+    "name": "Natural Language Processing Papers",
+    "handle": "@HEI",
+    "profile_url": "https://x.com/HEI"
+  },
+  "posted_at": "2026-11-01T00:24:52Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**Natural Language Processing Papers ([@HEI](https://x.com/HEI/status/2116687885986390402))** shares *DocSkill* by Huang et al. ([arXiv 2610.36759](https://arxiv.org/abs/2610.36759)), an agentic framework with a learned policy that selects, revisits or skips skills for multilingual multi-hop document QA.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.36759",
+      "from_post": "2116687885986390402",
+      "short_url": "https://t.co/vllBZMyE8u",
+      "title": "DocSkill: Skill-Integrated Agentic Reasoning for Multilingual..."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-cognition"
+  ],
+  "keywords": [
+    "docskill",
+    "skill-orchestration",
+    "document-qa",
+    "multilingual",
+    "multi-hop"
+  ],
+  "relevance": "Learned skill orchestration for reasoning.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV_8amgWoAA5YKd.png",
+      "from_post": "2116687885986390402",
+      "description": "Abstract of the DocSkill paper, an agentic framework with a learned skill-orchestration policy for multilingual multi-hop document QA.",
+      "thumbnail": "posts/2026/11/01/2116687885986390402/media/0.webp",
+      "kind": "paper",
+      "ocr_text": "Multilingual multi-hop document question answering (MMHop-DocQA) requires locating and integrating evidence across complex layouts, document pages, and diverse languages. Existing approaches include single-pass processing and adaptive tool use, but learning to coordinate evidence acquisition, cross-page integration, and answer verification remains challenging. To address this challenge, we present DocSkill, an agentic framework with a learned skill-orchestration policy for adaptive evidence acquisition and reasoning. The policy selects, revisits, or skips skills according to the evolving evidence state. To construct supervision for skill orchestration, bounded Monte Carlo Tree Search (MCTS) explores alternative skill trajectories offline. These trajectories provide demonstrations for supervised fine-tuning (SFT) and preference pairs…"
+    }
+  ]
+}

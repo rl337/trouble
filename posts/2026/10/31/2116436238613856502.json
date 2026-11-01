@@ -1,0 +1,35 @@
+{
+  "id": "2116436238613856502",
+  "permalink": "https://x.com/labmosaic/status/2116436238613856502",
+  "author": {
+    "name": "Mosaic Lab",
+    "handle": "@labmosaic",
+    "profile_url": "https://x.com/labmosaic"
+  },
+  "posted_at": "2026-10-31T07:44:55Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**Mosaic Lab ([@labmosaic](https://x.com/labmosaic/status/2116436238613856502))** spotlights **jscpd** by Andrey Kucherenko, a copy/paste detector for 220+ languages with an MCP server so agents can scan a repo for duplication and emit SARIF ([mosaic/lab skill page](https://mosaiclab.net/skills/kucherenko/jscpd/jscpd)).",
+  "referenced_urls": [
+    {
+      "url": "https://mosaiclab.net/skills/kucherenko/jscpd/jscpd",
+      "from_post": "2116436238613856502",
+      "short_url": "https://t.co/fN0CEu2vhP",
+      "title": "jscpd — Agent workflows skill — mosaic/lab"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "jscpd",
+    "mcp",
+    "code-duplication",
+    "sarif",
+    "skill"
+  ],
+  "relevance": "Duplicate-code detection exposed to agents via MCP.",
+  "media": []
+}

@@ -1,0 +1,44 @@
+{
+  "id": "2116709584177959404",
+  "permalink": "https://x.com/SciFi/status/2116709584177959404",
+  "author": {
+    "name": "Artificial Intelligence Papers",
+    "handle": "@SciFi",
+    "profile_url": "https://x.com/SciFi"
+  },
+  "posted_at": "2026-11-01T01:51:06Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**Artificial Intelligence Papers ([@SciFi](https://x.com/SciFi/status/2116709584177959404))** shares *Where to Learn and How Far to Roll Out* by Chai et al. ([arXiv 2610.39251](https://arxiv.org/abs/2610.39251)), which trains GUI agents from intermediate checkpoints chosen by action disagreement instead of always rolling out from the task root.",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/abs/2610.39251",
+      "from_post": "2116709584177959404",
+      "short_url": "https://t.co/JVr8c1oDkA",
+      "title": "Where to Learn and How Far to Roll Out: Efficient Adaptive..."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-cognition"
+  ],
+  "keywords": [
+    "gui-agent",
+    "grpo",
+    "adaptive-rollout",
+    "checkpoint"
+  ],
+  "relevance": "Efficient RL for GUI agents.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HWAQJmGXAAApK1F.png",
+      "from_post": "2116709584177959404",
+      "description": "Abstract of the paper on two-stage adaptive training (where to learn and how far to roll out) for GUI agents.",
+      "thumbnail": "posts/2026/11/01/2116709584177959404/media/0.webp",
+      "kind": "paper",
+      "ocr_text": "Trajectory-level GRPO is a common approach for training multi-step GUI agents, but repeatedly rolling out complete trajectories from the task root can be inefficient: task-level rewards provide coarse supervision over which intermediate decisions require improvement, while already-mastered prefixes are repeatedly re-executed before reaching difficult states. We introduce a two-stage adaptive training framework that jointly addresses where to learn and how far to roll out. We first construct reusable intermediate checkpoints from successful expert trajectories and select informative pivots using action disagreement, which measures uncertainty directly from sampled GUI actions. Stage I performs one-step RL at these pivots to improve uncertain local decisions. Stage II then progressively expands policy responsibility through adaptive Local, Suffix, and Root training according to task…"
+    }
+  ]
+}

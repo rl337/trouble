@@ -1,0 +1,48 @@
+{
+  "id": "2116497365657932232",
+  "permalink": "https://x.com/Deloprok/status/2116497365657932232",
+  "author": {
+    "name": "APL",
+    "handle": "@Deloprok",
+    "profile_url": "https://x.com/Deloprok"
+  },
+  "posted_at": "2026-10-31T11:47:49Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**APL ([@Deloprok](https://x.com/Deloprok/status/2116497365657932232))** announces preview weights from *Loop the Loopies!* by Gao et al. of IQuest Research ([arXiv 2607.16051](https://arxiv.org/pdf/2607.16051)): **Loopie-20B-A2B** and **Loopie-6B-A0.6B**, looped Transformers with MoE that the paper says beat compute-matched vanilla baselines ([20B](https://huggingface.co/zitian-gao/Loopie-20B-A2B-preview), [6B](https://huggingface.co/zitian-gao/Loopie-6B-A0.6B-preview)).",
+  "referenced_urls": [
+    {
+      "url": "https://arxiv.org/pdf/2607.16051",
+      "from_post": "2116497365657932232",
+      "short_url": "https://t.co/IS4W9yXNW6",
+      "title": "Loop the Loopies!"
+    },
+    {
+      "url": "https://huggingface.co/zitian-gao/Loopie-20B-A2B-preview",
+      "from_post": "2116497365657932232",
+      "short_url": "https://t.co/hfQVOakaBw",
+      "title": "zitian-gao/Loopie-20B-A2B-preview · Hugging Face"
+    },
+    {
+      "url": "https://huggingface.co/zitian-gao/Loopie-6B-A0.6B-preview",
+      "from_post": "2116497365657932232",
+      "short_url": "https://t.co/Zb0iklZwW7",
+      "title": "zitian-gao/Loopie-6B-A0.6B-preview · Hugging Face"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "local-models",
+    "agentic-cognition"
+  ],
+  "keywords": [
+    "loopie",
+    "looped-transformer",
+    "moe",
+    "20b",
+    "open-weight"
+  ],
+  "relevance": "Efficient looped MoE models for local reasoning.",
+  "media": []
+}

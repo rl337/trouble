@@ -1,0 +1,36 @@
+{
+  "id": "2116523944329289873",
+  "permalink": "https://x.com/DanteMMartin/status/2116523944329289873",
+  "author": {
+    "name": "Dante Martin",
+    "handle": "@DanteMMartin",
+    "profile_url": "https://x.com/DanteMMartin"
+  },
+  "posted_at": "2026-10-31T13:33:26Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**Dante Martin ([@DanteMMartin](https://x.com/DanteMMartin/status/2116523944329289873))** highlights Chris Wellons' **Prospero**, a C++/Dear ImGui coding harness he describes as about 100x lighter than mainstream tools, with subagents, SSH deploy, desktop control and any local model via llama.cpp, arguing a harness is essentially curl glued to popen() ([Prospero: a new coding harness for a more civilized age](https://nullprogram.com/blog/2026/10/31/)).",
+  "referenced_urls": [
+    {
+      "url": "https://nullprogram.com/blog/2026/10/31/",
+      "from_post": "2116523944329289873",
+      "short_url": "https://t.co/IZlsOhWjna",
+      "title": "Prospero: a new coding harness for a more civilized age"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev",
+    "local-models"
+  ],
+  "keywords": [
+    "prospero",
+    "harness",
+    "llama-cpp",
+    "dear-imgui",
+    "local-model"
+  ],
+  "relevance": "Lean native harness that works with local models.",
+  "media": []
+}

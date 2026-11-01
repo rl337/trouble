@@ -1,0 +1,44 @@
+{
+  "id": "2116448544760676444",
+  "permalink": "https://x.com/jaywcjlove/status/2116448544760676444",
+  "author": {
+    "name": "小弟调调",
+    "handle": "@jaywcjlove",
+    "profile_url": "https://x.com/jaywcjlove"
+  },
+  "posted_at": "2026-10-31T08:33:49Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**小弟调调 ([@jaywcjlove](https://x.com/jaywcjlove/status/2116448544760676444))** shares **Wavefunction**, an open-source macOS desktop coding agent in the vein of Cursor Agent, Claude Code and Codex that works with any model, including local ones ([stoyan-stoyanov/wavefunction](https://github.com/stoyan-stoyanov/wavefunction)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/stoyan-stoyanov/wavefunction",
+      "from_post": "2116448544760676444",
+      "short_url": "https://t.co/5BzANNlDR9",
+      "title": "GitHub - stoyan-stoyanov/wavefunction: Open-source desktop coding agent for macOS. Use any model: local with Ollama, your own API keys or a ChatGPT sign-in. Parallel chats, MCP connectors, skills, and computer use on a desktop of its own."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "harness-dev"
+  ],
+  "keywords": [
+    "wavefunction",
+    "coding-agent",
+    "macos",
+    "local-model",
+    "desktop-app"
+  ],
+  "relevance": "Local-model-friendly desktop coding agent.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV8ilcbWsAAtg3u.jpg",
+      "from_post": "2116448544760676444",
+      "description": "Wavefunction macOS app window with projects sidebar and a \"What are we building?\" prompt box.",
+      "thumbnail": "posts/2026/10/31/2116448544760676444/media/0.webp",
+      "kind": "screenshot"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "2116612920041976053",
+  "permalink": "https://x.com/oaichu95/status/2116612920041976053",
+  "author": {
+    "name": "Oai Chu",
+    "handle": "@oaichu95",
+    "profile_url": "https://x.com/oaichu95"
+  },
+  "posted_at": "2026-10-31T19:26:59Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**Oai Chu ([@oaichu95](https://x.com/oaichu95/status/2116612920041976053))** shares **motion-skill**, an agent skill plus editable Remotion project with 96 motion studies that turns a script or voice memo into captioned motion graphics without on-camera footage, using local Whisper ([derek-zhuolin/motion-skill](https://github.com/derek-zhuolin/motion-skill)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/derek-zhuolin/motion-skill",
+      "from_post": "2116612920041976053",
+      "short_url": "https://t.co/u0ZOx926Vk",
+      "title": "GitHub - derek-zhuolin/motion-skill: 不出镜，用文案或录音把想法做成视频。Script- or voice-driven motion graphics with Codex and Remotion: real footage, captions, editable projects and 96 motion studies."
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "motion-skill",
+    "remotion",
+    "motion-graphics",
+    "whisper",
+    "skill"
+  ],
+  "relevance": "Script-to-motion-graphics agent skill.",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://pbs.twimg.com/media/HV-4HHxbsAADDNM.png",
+      "from_post": "2116612920041976053",
+      "description": "Card for motion-skill: script or voice memo to captioned motion-graphics video, 96 motion studies, 10 components, Remotion and local Whisper, with an npx skills install command.",
+      "thumbnail": "posts/2026/10/31/2116612920041976053/media/0.webp",
+      "kind": "screenshot",
+      "ocr_text": "motion-skill — 不出镜也能做视频\nScript or voice memo > captioned motion graphics video\n96 — motion studies, 19 categories\n10 — reusable production components\n48s — reference video: footage + motion + captions\nRemotion — editable project, preview and export\nWhisper — local transcription for captions\nnpx skills add derek-zhuolin/motion-skill --skill motion-video -g\ngithub.com/derek-zhuolin/motion-skill | public beta | numbers from README"
+    }
+  ]
+}

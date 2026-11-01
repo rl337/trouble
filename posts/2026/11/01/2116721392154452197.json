@@ -1,0 +1,35 @@
+{
+  "id": "2116721392154452197",
+  "permalink": "https://x.com/plattypuus/status/2116721392154452197",
+  "author": {
+    "name": "タイド",
+    "handle": "@plattypuus",
+    "profile_url": "https://x.com/plattypuus"
+  },
+  "posted_at": "2026-11-01T02:38:01Z",
+  "collected_at": "2026-11-01T15:40:55Z",
+  "updated_at": "2026-11-01T15:40:55Z",
+  "thread": [],
+  "summary_md": "**タイド ([@plattypuus](https://x.com/plattypuus/status/2116721392154452197))** recommends **blender-agent-skills**, five skills for isolated MCP sessions, stepwise scene building, visual checks against concept images, voxel diorama web export and numerically verified rigs ([oh-ashen-one/blender-agent-skills](https://github.com/oh-ashen-one/blender-agent-skills)).",
+  "referenced_urls": [
+    {
+      "url": "https://github.com/oh-ashen-one/blender-agent-skills",
+      "from_post": "2116721392154452197",
+      "short_url": "https://t.co/vxKwbGeZVp",
+      "title": "GitHub - oh-ashen-one/blender-agent-skills: Feed-to-your-agent skills for Blender work: isolated MCP sessions, staged procedural scene builds, honest visual gating, voxel dioramas with web export, and numerically-verified rigs shipped as scroll-sequence sites"
+    }
+  ],
+  "hashtags": [],
+  "topics": [
+    "agentic-media"
+  ],
+  "keywords": [
+    "blender",
+    "skill",
+    "mcp",
+    "rigging",
+    "voxel"
+  ],
+  "relevance": "Reliable agentic Blender workflows.",
+  "media": []
+}
